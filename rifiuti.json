@@ -1,0 +1,545 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-16",
+ "avviso": "Indicazioni generali valide nella maggior parte dei comuni. Le regole possono cambiare da un gestore all'altro: in caso di dubbio fa fede il tuo gestore.",
+ "destinazioni": {
+  "organico": "Organico",
+  "carta": "Carta",
+  "vetro": "Vetro",
+  "plastica": "Plastica",
+  "indifferenziato": "Indifferenziato",
+  "sfalci": "Sfalci",
+  "centro": "Centro di raccolta",
+  "farmacia": "Farmacia",
+  "pile": "Contenitori per pile",
+  "indumenti": "Contenitori per indumenti",
+  "varia": "Dipende dal comune"
+ },
+ "voci": [
+  {
+   "nome": "abiti e scarpe usati",
+   "dove": "indumenti",
+   "nota": "Nei contenitori stradali per indumenti, in sacchi chiusi."
+  },
+  {
+   "nome": "assorbenti",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "avanzi di cibo",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "barattoli di latta",
+   "dove": "varia",
+   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "barattoli di vetro",
+   "dove": "vetro",
+   "nota": ""
+  },
+  {
+   "nome": "bicchieri di vetro (non cristallo)",
+   "dove": "vetro",
+   "nota": "Il cristallo va nell'indifferenziato."
+  },
+  {
+   "nome": "blister vuoti (non di farmaci)",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "bombolette spray vuote",
+   "dove": "varia",
+   "nota": "Senza simboli di pericolo di solito con i metalli; con simboli di pericolo al centro di raccolta. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "bottiglie di plastica",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "bottiglie di vetro",
+   "dove": "vetro",
+   "nota": ""
+  },
+  {
+   "nome": "bucce di frutta",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "buste da lettera",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "buste della pasta",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "calcinacci e macerie",
+   "dove": "centro",
+   "nota": "Piccole quantità domestiche al centro di raccolta."
+  },
+  {
+   "nome": "capelli e peli",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "capsule di caffè in plastica o alluminio",
+   "dove": "varia",
+   "nota": "Svuotate dal caffè seguono plastica o metalli; intere di solito indifferenziato. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "carta da cucina unta",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "carta oleata o plastificata",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "carta stagnola e vaschette di alluminio",
+   "dove": "varia",
+   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "cartone della pizza pulito",
+   "dove": "carta",
+   "nota": "Se è molto unto o con residui va nell'organico (a pezzi) o nell'indifferenziato."
+  },
+  {
+   "nome": "cartone ondulato",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "cassette di plastica per ortofrutta",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "CD e DVD",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "ceramica e porcellana rotte",
+   "dove": "indifferenziato",
+   "nota": "Mai nel vetro: rovinano il riciclo."
+  },
+  {
+   "nome": "cerotti",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "cialde di caffè compostabili",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "confezioni di merendine",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "cotton fioc non compostabili",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "cristallo",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "erba tagliata",
+   "dove": "sfalci",
+   "nota": ""
+  },
+  {
+   "nome": "farmaci scaduti",
+   "dove": "farmacia",
+   "nota": "Nei contenitori presso le farmacie. La scatola di cartone e il foglietto vanno nella carta."
+  },
+  {
+   "nome": "film da imballaggio",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "filtri di tè e tisane",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "fiori e piante del giardino",
+   "dove": "sfalci",
+   "nota": ""
+  },
+  {
+   "nome": "fiori recisi",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "flaconi di detersivo",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "flaconi di shampoo",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "flaconi di vetro dei profumi",
+   "dove": "vetro",
+   "nota": ""
+  },
+  {
+   "nome": "fogli e fotocopie",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "foglie secche",
+   "dove": "sfalci",
+   "nota": ""
+  },
+  {
+   "nome": "fondi di caffè",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "frigoriferi e lavatrici",
+   "dove": "centro",
+   "nota": "Centro di raccolta o ritiro ingombranti a domicilio."
+  },
+  {
+   "nome": "giocattoli rotti senza pile",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "giornali e riviste",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "gomme da masticare",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "guanti in lattice",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "gusci d'uovo",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "lampadine a incandescenza",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "lampadine a LED e a basso consumo",
+   "dove": "centro",
+   "nota": "Centro di raccolta, o nei negozi che le vendono."
+  },
+  {
+   "nome": "lattine di alluminio",
+   "dove": "varia",
+   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "legno e cassette di legno",
+   "dove": "centro",
+   "nota": "Centro di raccolta."
+  },
+  {
+   "nome": "lettiera del gatto",
+   "dove": "indifferenziato",
+   "nota": "Quella vegetale compostabile può andare nell'organico se il gestore lo prevede."
+  },
+  {
+   "nome": "libri",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "mascherine",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "mobili e materassi",
+   "dove": "centro",
+   "nota": "Centro di raccolta o ritiro ingombranti a domicilio."
+  },
+  {
+   "nome": "mozziconi di sigaretta",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "nastro adesivo",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "olio di frittura",
+   "dove": "centro",
+   "nota": "Raccolto in bottiglia, al centro di raccolta o nei punti dedicati. Mai nel lavandino."
+  },
+  {
+   "nome": "olio motore",
+   "dove": "centro",
+   "nota": "Centro di raccolta."
+  },
+  {
+   "nome": "ossa e lische",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "pane raffermo",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "pannolini",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "pasta e riso avanzati",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "pellicola per alimenti",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "penne e pennarelli",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "piatti e bicchieri di plastica usa e getta",
+   "dove": "plastica",
+   "nota": "Vuoti e senza residui di cibo."
+  },
+  {
+   "nome": "piccoli elettrodomestici",
+   "dove": "centro",
+   "nota": "Centro di raccolta, o consegna in negozio (ritiro uno contro zero per i piccoli apparecchi)."
+  },
+  {
+   "nome": "pile e batterie",
+   "dove": "pile",
+   "nota": "Negli appositi contenitori presso negozi e supermercati, o al centro di raccolta."
+  },
+  {
+   "nome": "pirofile e pyrex",
+   "dove": "indifferenziato",
+   "nota": "Non vanno nel vetro: fondono a temperatura diversa."
+  },
+  {
+   "nome": "pneumatici",
+   "dove": "centro",
+   "nota": "Dal gommista o al centro di raccolta, se accettati."
+  },
+  {
+   "nome": "polistirolo da imballaggio",
+   "dove": "varia",
+   "nota": "Piccoli pezzi di solito con la plastica; grandi quantità al centro di raccolta. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "polvere e residui di spazzatura",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "portauova in cartone",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "posate di plastica",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "quaderni",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "ramaglie e potature",
+   "dove": "sfalci",
+   "nota": "Grandi quantità: al centro di raccolta."
+  },
+  {
+   "nome": "rasoi usa e getta",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "residui dell'orto",
+   "dove": "sfalci",
+   "nota": ""
+  },
+  {
+   "nome": "reti per frutta e verdura",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "rotoli di cartone",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "sacchetti dell'aspirapolvere",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "sacchetti di carta",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "sacchetti di plastica",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "scarti di verdura",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "scatole dei cereali",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "scatole di cartone",
+   "dove": "carta",
+   "nota": ""
+  },
+  {
+   "nome": "scontrini (carta termica)",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "siringhe",
+   "dove": "indifferenziato",
+   "nota": "Con l'ago protetto dal cappuccio, in un contenitore rigido chiuso."
+  },
+  {
+   "nome": "spazzolino da denti",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "specchi",
+   "dove": "indifferenziato",
+   "nota": "Non vanno nel vetro. Se grandi, al centro di raccolta."
+  },
+  {
+   "nome": "spugne da cucina",
+   "dove": "indifferenziato",
+   "nota": ""
+  },
+  {
+   "nome": "stuzzicadenti in legno",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "tappi di plastica",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "tappi di sughero",
+   "dove": "organico",
+   "nota": "In alcuni comuni esistono raccolte dedicate."
+  },
+  {
+   "nome": "telefoni e caricabatterie",
+   "dove": "centro",
+   "nota": "Centro di raccolta o consegna in negozio."
+  },
+  {
+   "nome": "televisori e monitor",
+   "dove": "centro",
+   "nota": "Centro di raccolta, o ritiro del negozio all'acquisto del nuovo."
+  },
+  {
+   "nome": "termometri a mercurio",
+   "dove": "centro",
+   "nota": "Centro di raccolta: rifiuto pericoloso."
+  },
+  {
+   "nome": "tetrapak (cartoni di latte e succhi)",
+   "dove": "varia",
+   "nota": "Con la carta o con la plastica. Dipende dal comune: controlla le istruzioni del tuo gestore."
+  },
+  {
+   "nome": "toner e cartucce per stampanti",
+   "dove": "centro",
+   "nota": "Centro di raccolta o punti di ritiro dei rivenditori."
+  },
+  {
+   "nome": "tovaglioli di carta sporchi di cibo",
+   "dove": "organico",
+   "nota": ""
+  },
+  {
+   "nome": "vaschette di plastica per alimenti",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "vasetti dello yogurt",
+   "dove": "plastica",
+   "nota": ""
+  },
+  {
+   "nome": "vasetti di vetro",
+   "dove": "vetro",
+   "nota": ""
+  },
+  {
+   "nome": "vernici e solventi",
+   "dove": "centro",
+   "nota": "Centro di raccolta, nei contenitori originali."
+  },
+  {
+   "nome": "volantini",
+   "dove": "carta",
+   "nota": ""
+  }
+ ]
+}
