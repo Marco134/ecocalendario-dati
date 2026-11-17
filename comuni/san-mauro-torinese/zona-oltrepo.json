@@ -1,0 +1,271 @@
+{
+ "schema": 1,
+ "comune": "San Mauro Torinese",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Oltrepò",
+ "valido_dal": "2026-10-01",
+ "valido_al": "2027-01-31",
+ "esposizione": "Entro le ore 6 del giorno di raccolta, solo contenitori pieni.",
+ "fonte": "Ecocalendario SETA (ECOCALENDARIO-2026_San-Mauro-Torinese_zona-OLTREPO_ottobre2026-gennaio2027.pdf)",
+ "note": [
+  "Sfalci: servizio a pagamento, solo per chi lo ha attivato con SETA."
+ ],
+ "raccolte": {
+  "2026-10-01": [
+   "carta"
+  ],
+  "2026-10-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-03": [
+   "sfalci"
+  ],
+  "2026-10-06": [
+   "organico"
+  ],
+  "2026-10-07": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-10-08": [
+   "carta"
+  ],
+  "2026-10-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-13": [
+   "organico"
+  ],
+  "2026-10-14": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-10-15": [
+   "carta"
+  ],
+  "2026-10-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-17": [
+   "sfalci"
+  ],
+  "2026-10-20": [
+   "organico"
+  ],
+  "2026-10-21": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-10-22": [
+   "carta"
+  ],
+  "2026-10-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-27": [
+   "organico"
+  ],
+  "2026-10-28": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-10-29": [
+   "carta"
+  ],
+  "2026-10-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-31": [
+   "sfalci"
+  ],
+  "2026-11-03": [
+   "organico"
+  ],
+  "2026-11-04": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "carta"
+  ],
+  "2026-11-06": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-10": [
+   "organico"
+  ],
+  "2026-11-11": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-12": [
+   "carta"
+  ],
+  "2026-11-13": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-14": [
+   "sfalci"
+  ],
+  "2026-11-17": [
+   "organico"
+  ],
+  "2026-11-18": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "carta"
+  ],
+  "2026-11-20": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "sfalci"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-27": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta"
+  ],
+  "2027-01-03": [
+   "plastica"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-06": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "carta"
+  ],
+  "2027-01-08": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2027-01-14": [
+   "carta"
+  ],
+  "2027-01-15": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2027-01-21": [
+   "carta"
+  ],
+  "2027-01-22": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "carta"
+  ],
+  "2027-01-29": [
+   "organico",
+   "plastica"
+  ]
+ }
+}
