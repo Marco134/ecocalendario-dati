@@ -2,16 +2,41 @@
  "schema": 1,
  "aggiornato": "2026-11-16",
  "tipi": {
-  "organico": "Organico", "carta": "Carta", "vetro": "Vetro",
-  "plastica": "Plastica", "indifferenziato": "Indifferenziato", "sfalci": "Sfalci"
+  "organico": "Organico",
+  "carta": "Carta",
+  "vetro": "Vetro",
+  "plastica": "Plastica",
+  "indifferenziato": "Indifferenziato",
+  "sfalci": "Sfalci"
  },
  "comuni": [
   {
-   "id": "castiglione-torinese", "nome": "Castiglione Torinese", "provincia": "TO", "gestore": "SETA S.p.A.",
+   "id": "castiglione-torinese",
+   "nome": "Castiglione Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
    "zone": [
-    {"id": "1a", "nome": "Zona 1A", "file": "comuni/castiglione-torinese/zona-1a.json", "valido_al": "2027-01-31"},
-    {"id": "1b", "nome": "Zona 1B", "file": "comuni/castiglione-torinese/zona-1b.json", "valido_al": "2027-01-31"}
-   ]
+    {
+     "id": "1a",
+     "nome": "Zona 1A",
+     "file": "comuni/castiglione-torinese/zona-1a.json",
+     "valido_al": "2027-01-31"
+    },
+    {
+     "id": "1b",
+     "nome": "Zona 1B",
+     "file": "comuni/castiglione-torinese/zona-1b.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": {
+    "file": "ecocentri/cb16.json",
+    "vicini": [
+     "gassino",
+     "san-mauro",
+     "settimo"
+    ]
+   }
   }
  ]
 }
