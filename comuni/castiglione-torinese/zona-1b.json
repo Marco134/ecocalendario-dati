@@ -6,10 +6,12 @@
  "zona": "1B",
  "valido_dal": "2026-07-01",
  "valido_al": "2027-01-31",
- "esposizione": "Entro le ore 6 del giorno di raccolta, solo contenitori pieni.",
- "fonte": "Ecocalendario SETA luglio 2026 - gennaio 2027, Castiglione Torinese Zona 1",
+ "esposizione": "Esporre i contenitori solo se pieni, ENTRO LE ORE 6 del giorno di raccolta.",
+ "fonte": "Calendario inviato da un utente dell'app (18/11/2026), verificato da Eco Calendario",
  "note": [
-  "9 luglio 2026: ultima esposizione del vecchio contenitore dell'indifferenziato (1A e 1B)."
+  "La divisione del territorio riguarda esclusivamente il rifiuto indifferenziato (Zona 1A e Zona 1B); per le altre raccolte i giorni sono identici per tutto il Comune.",
+  "Il giorno 9 luglio 2026 si effettua l'ultimo ritiro del vecchio contenitore dell'indifferenziato sia per la sottozona 1A che per la 1B.",
+  "Ritiro ingombranti a domicilio gratuito su prenotazione via Numero Verde 800-401692 o sul sito www.setaspa.com (max 5 pezzi / 3 m³)."
  ],
  "raccolte": {
   "2026-07-01": [
@@ -19,12 +21,12 @@
    "organico"
   ],
   "2026-07-07": [
-   "vetro",
-   "sfalci"
+   "sfalci",
+   "vetro"
   ],
   "2026-07-08": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-07-09": [
    "indifferenziato"
@@ -39,8 +41,8 @@
    "plastica"
   ],
   "2026-07-15": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-07-18": [
    "organico"
@@ -52,9 +54,8 @@
    "vetro"
   ],
   "2026-07-22": [
-   "organico",
-   "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-07-25": [
    "organico"
@@ -66,8 +67,8 @@
    "plastica"
   ],
   "2026-07-29": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-08-01": [
    "organico"
@@ -79,9 +80,9 @@
    "vetro"
   ],
   "2026-08-05": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-08-08": [
    "organico"
@@ -93,8 +94,8 @@
    "plastica"
   ],
   "2026-08-12": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-08-17": [
    "sfalci"
@@ -103,9 +104,9 @@
    "vetro"
   ],
   "2026-08-19": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-08-22": [
    "organico"
@@ -117,8 +118,8 @@
    "plastica"
   ],
   "2026-08-26": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-08-29": [
    "organico"
@@ -130,9 +131,9 @@
    "vetro"
   ],
   "2026-09-02": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-09-05": [
    "organico"
@@ -141,8 +142,8 @@
    "plastica"
   ],
   "2026-09-09": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-09-12": [
    "organico"
@@ -154,9 +155,9 @@
    "vetro"
   ],
   "2026-09-16": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-09-19": [
    "organico"
@@ -168,8 +169,8 @@
    "plastica"
   ],
   "2026-09-23": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-09-26": [
    "organico"
@@ -181,9 +182,9 @@
    "vetro"
   ],
   "2026-09-30": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-10-03": [
    "organico"
@@ -195,8 +196,8 @@
    "plastica"
   ],
   "2026-10-07": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-10-10": [
    "organico"
@@ -208,9 +209,9 @@
    "vetro"
   ],
   "2026-10-14": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-10-17": [
    "organico"
@@ -222,8 +223,8 @@
    "plastica"
   ],
   "2026-10-21": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-10-24": [
    "organico"
@@ -235,9 +236,9 @@
    "vetro"
   ],
   "2026-10-28": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-10-31": [
    "organico"
@@ -249,8 +250,8 @@
    "plastica"
   ],
   "2026-11-04": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-11-07": [
    "organico"
@@ -262,9 +263,9 @@
    "vetro"
   ],
   "2026-11-11": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-11-14": [
    "organico"
@@ -276,8 +277,8 @@
    "plastica"
   ],
   "2026-11-18": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-11-21": [
    "organico"
@@ -289,9 +290,9 @@
    "vetro"
   ],
   "2026-11-25": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-11-28": [
    "organico"
@@ -303,8 +304,8 @@
    "plastica"
   ],
   "2026-12-02": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-12-05": [
    "organico"
@@ -313,9 +314,9 @@
    "vetro"
   ],
   "2026-12-09": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-12-12": [
    "organico"
@@ -324,8 +325,8 @@
    "plastica"
   ],
   "2026-12-16": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-12-19": [
    "organico"
@@ -334,16 +335,16 @@
    "vetro"
   ],
   "2026-12-23": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2026-12-29": [
    "plastica"
   ],
   "2026-12-30": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2027-01-02": [
    "organico"
@@ -362,8 +363,8 @@
    "plastica"
   ],
   "2027-01-13": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2027-01-16": [
    "organico"
@@ -372,9 +373,9 @@
    "vetro"
   ],
   "2027-01-20": [
-   "organico",
    "carta",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2027-01-23": [
    "organico"
@@ -383,8 +384,8 @@
    "plastica"
   ],
   "2027-01-27": [
-   "organico",
-   "indifferenziato"
+   "indifferenziato",
+   "organico"
   ],
   "2027-01-30": [
    "organico"
