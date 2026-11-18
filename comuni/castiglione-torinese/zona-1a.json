@@ -2,14 +2,16 @@
  "schema": 1,
  "comune": "Castiglione Torinese",
  "provincia": "TO",
- "gestore": "SETA S.p.A.",
+ "gestore": "seta s.p.a.",
  "zona": "1A",
  "valido_dal": "2026-07-01",
  "valido_al": "2027-01-31",
- "esposizione": "Entro le ore 6 del giorno di raccolta, solo contenitori pieni.",
- "fonte": "Ecocalendario SETA luglio 2026 - gennaio 2027, Castiglione Torinese Zona 1",
+ "esposizione": "Esporre i contenitori solo se pieni, ENTRO LE ORE 6 del giorno di raccolta.",
+ "fonte": "Calendario inviato da un utente dell'app (18/11/2026), verificato da Eco Calendario",
  "note": [
-  "9 luglio 2026: ultima esposizione del vecchio contenitore dell'indifferenziato (1A e 1B)."
+  "Dal luglio 2026 la divisione in sottozone 1A e 1B riguarda esclusivamente la raccolta dell'indifferenziato (TARIP).",
+  "Ritiro vecchio contenitore TARIP in data 9 luglio 2026 per entrambe le sottozone 1A e 1B.",
+  "Ritiro ingombranti a domicilio su prenotazione al Numero Verde 800-401692 o online su www.setaspa.com."
  ],
  "raccolte": {
   "2026-07-01": [
@@ -19,12 +21,12 @@
    "organico"
   ],
   "2026-07-07": [
-   "vetro",
-   "sfalci"
+   "sfalci",
+   "vetro"
   ],
   "2026-07-08": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-07-09": [
    "indifferenziato"
@@ -53,8 +55,8 @@
    "vetro"
   ],
   "2026-07-22": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-07-25": [
    "organico"
@@ -80,8 +82,8 @@
    "vetro"
   ],
   "2026-08-05": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-08-08": [
    "organico"
@@ -104,8 +106,8 @@
    "vetro"
   ],
   "2026-08-19": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-08-22": [
    "organico"
@@ -131,8 +133,8 @@
    "vetro"
   ],
   "2026-09-02": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-09-05": [
    "organico"
@@ -157,8 +159,8 @@
    "vetro"
   ],
   "2026-09-16": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-09-19": [
    "organico"
@@ -184,8 +186,8 @@
    "vetro"
   ],
   "2026-09-30": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-10-03": [
    "organico"
@@ -211,8 +213,8 @@
    "vetro"
   ],
   "2026-10-14": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-10-17": [
    "organico"
@@ -238,8 +240,8 @@
    "vetro"
   ],
   "2026-10-28": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-10-31": [
    "organico"
@@ -265,8 +267,8 @@
    "vetro"
   ],
   "2026-11-11": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-11-14": [
    "organico"
@@ -292,8 +294,8 @@
    "vetro"
   ],
   "2026-11-25": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-11-28": [
    "organico"
@@ -318,8 +320,8 @@
    "vetro"
   ],
   "2026-12-09": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-12-12": [
    "organico"
@@ -343,8 +345,8 @@
    "vetro"
   ],
   "2026-12-23": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2026-12-28": [
    "indifferenziato"
@@ -389,8 +391,8 @@
    "vetro"
   ],
   "2027-01-20": [
-   "organico",
-   "carta"
+   "carta",
+   "organico"
   ],
   "2027-01-23": [
    "organico"
