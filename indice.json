@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-17",
+ "aggiornato": "2026-11-18",
  "tipi": {
   "organico": "Organico",
   "carta": "Carta",
@@ -421,6 +421,22 @@
    ]
   },
   {
+   "id": "lubriano",
+   "nome": "Lubriano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6353,
+   "lon": 12.1071,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/lubriano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "mappano",
    "nome": "Mappano",
    "provincia": "TO",
@@ -480,6 +496,23 @@
      "nome": "Zona unica",
      "file": "comuni/monteu-da-po/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "orvieto",
+   "nome": "Orvieto",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "orvieto",
+   "lat": 42.7182,
+   "lon": 12.1083,
+   "zone": [
+    {
+     "id": "nord-area-vasta",
+     "nome": "Nord – area vasta (frazioni e case sparse)",
+     "file": "comuni/orvieto/zona-nord-area-vasta.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -777,6 +810,11 @@
    "nome": "Consorzio di Area Vasta CB16",
    "gestore": "SETA S.p.A.",
    "ecocentri": "ecocentri/cb16.json"
+  },
+  "orvieto": {
+   "nome": "Comune di Orvieto",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/orvieto.json"
   }
  }
 }
