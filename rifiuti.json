@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-16",
+ "aggiornato": "2026-11-18",
  "avviso": "Indicazioni generali valide nella maggior parte dei comuni. Le regole possono cambiare da un gestore all'altro: in caso di dubbio fa fede il tuo gestore.",
  "destinazioni": {
   "organico": "Organico",
@@ -541,5 +541,475 @@
    "dove": "carta",
    "nota": ""
   }
- ]
+ ],
+ "foto": {
+  "food": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "fruit": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "vegetable": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "meal": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "lunch": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "supper": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "cuisine": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "fast food": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "pizza": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "cake": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "cookie": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "pie": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "sushi": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "hot dog": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "cheeseburger": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "couscous": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "pho": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "pasteles": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "bento": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "flesh": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "gelato": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "icing": [
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "bread": [
+   "pane raffermo",
+   "avanzi di cibo",
+   "bucce di frutta",
+   "scarti di verdura"
+  ],
+  "coffee": [
+   "fondi di caffè",
+   "capsule di caffè in plastica o alluminio",
+   "cialde di caffè compostabili"
+  ],
+  "cappuccino": [
+   "fondi di caffè",
+   "capsule di caffè in plastica o alluminio",
+   "cialde di caffè compostabili"
+  ],
+  "cup": [
+   "piatti e bicchieri di plastica usa e getta",
+   "bicchieri di vetro (non cristallo)",
+   "ceramica e porcellana rotte"
+  ],
+  "tableware": [
+   "ceramica e porcellana rotte",
+   "piatti e bicchieri di plastica usa e getta",
+   "pirofile e pyrex"
+  ],
+  "saucer": [
+   "ceramica e porcellana rotte",
+   "piatti e bicchieri di plastica usa e getta",
+   "pirofile e pyrex"
+  ],
+  "porcelain": [
+   "ceramica e porcellana rotte",
+   "piatti e bicchieri di plastica usa e getta",
+   "pirofile e pyrex"
+  ],
+  "cutlery": [
+   "posate di plastica"
+  ],
+  "cookware and bakeware": [
+   "pirofile e pyrex",
+   "carta stagnola e vaschette di alluminio"
+  ],
+  "receipt": [
+   "scontrini (carta termica)"
+  ],
+  "newspaper": [
+   "giornali e riviste",
+   "volantini"
+  ],
+  "news": [
+   "giornali e riviste",
+   "volantini"
+  ],
+  "paper": [
+   "fogli e fotocopie",
+   "sacchetti di carta",
+   "carta oleata o plastificata",
+   "carta da cucina unta"
+  ],
+  "poster": [
+   "giornali e riviste",
+   "fogli e fotocopie"
+  ],
+  "comics": [
+   "giornali e riviste",
+   "fogli e fotocopie"
+  ],
+  "shoe": [
+   "abiti e scarpe usati"
+  ],
+  "sneakers": [
+   "abiti e scarpe usati"
+  ],
+  "jacket": [
+   "abiti e scarpe usati"
+  ],
+  "dress": [
+   "abiti e scarpe usati"
+  ],
+  "jeans": [
+   "abiti e scarpe usati"
+  ],
+  "denim": [
+   "abiti e scarpe usati"
+  ],
+  "textile": [
+   "abiti e scarpe usati"
+  ],
+  "outerwear": [
+   "abiti e scarpe usati"
+  ],
+  "scarf": [
+   "abiti e scarpe usati"
+  ],
+  "hat": [
+   "abiti e scarpe usati"
+  ],
+  "cap": [
+   "abiti e scarpe usati"
+  ],
+  "beanie": [
+   "abiti e scarpe usati"
+  ],
+  "shorts": [
+   "abiti e scarpe usati"
+  ],
+  "tights": [
+   "abiti e scarpe usati"
+  ],
+  "leggings": [
+   "abiti e scarpe usati"
+  ],
+  "blazer": [
+   "abiti e scarpe usati"
+  ],
+  "gown": [
+   "abiti e scarpe usati"
+  ],
+  "jersey": [
+   "abiti e scarpe usati"
+  ],
+  "swimwear": [
+   "abiti e scarpe usati"
+  ],
+  "tie": [
+   "abiti e scarpe usati"
+  ],
+  "wool": [
+   "abiti e scarpe usati"
+  ],
+  "cotton": [
+   "abiti e scarpe usati"
+  ],
+  "leather": [
+   "abiti e scarpe usati"
+  ],
+  "tuxedo": [
+   "abiti e scarpe usati"
+  ],
+  "sari": [
+   "abiti e scarpe usati"
+  ],
+  "veil": [
+   "abiti e scarpe usati"
+  ],
+  "bag": [
+   "sacchetti di plastica",
+   "sacchetti di carta",
+   "abiti e scarpe usati"
+  ],
+  "handbag": [
+   "sacchetti di plastica",
+   "sacchetti di carta",
+   "abiti e scarpe usati"
+  ],
+  "toy": [
+   "giocattoli rotti senza pile"
+  ],
+  "stuffed toy": [
+   "giocattoli rotti senza pile"
+  ],
+  "plush": [
+   "giocattoli rotti senza pile"
+  ],
+  "lego": [
+   "giocattoli rotti senza pile"
+  ],
+  "balloon": [
+   "giocattoli rotti senza pile"
+  ],
+  "television": [
+   "piccoli elettrodomestici",
+   "telefoni e caricabatterie",
+   "televisori e monitor"
+  ],
+  "computer": [
+   "piccoli elettrodomestici",
+   "telefoni e caricabatterie",
+   "televisori e monitor"
+  ],
+  "mobile phone": [
+   "piccoli elettrodomestici",
+   "telefoni e caricabatterie",
+   "televisori e monitor"
+  ],
+  "subwoofer": [
+   "piccoli elettrodomestici",
+   "telefoni e caricabatterie",
+   "televisori e monitor"
+  ],
+  "screenshot": [
+   "piccoli elettrodomestici",
+   "telefoni e caricabatterie",
+   "televisori e monitor"
+  ],
+  "web page": [
+   "piccoli elettrodomestici",
+   "telefoni e caricabatterie",
+   "televisori e monitor"
+  ],
+  "tire": [
+   "pneumatici"
+  ],
+  "wheel": [
+   "pneumatici"
+  ],
+  "plant": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "flower": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "petal": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "twig": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "branch": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "flora": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "garden": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "wreath": [
+   "fiori e piante del giardino",
+   "ramaglie e potature",
+   "fiori recisi",
+   "erba tagliata"
+  ],
+  "flowerpot": [
+   "fiori e piante del giardino",
+   "residui dell'orto"
+  ],
+  "soil": [
+   "fiori e piante del giardino",
+   "residui dell'orto"
+  ],
+  "chair": [
+   "mobili e materassi"
+  ],
+  "couch": [
+   "mobili e materassi"
+  ],
+  "loveseat": [
+   "mobili e materassi"
+  ],
+  "shelf": [
+   "mobili e materassi"
+  ],
+  "drawer": [
+   "mobili e materassi"
+  ],
+  "cabinetry": [
+   "mobili e materassi"
+  ],
+  "desk": [
+   "mobili e materassi"
+  ],
+  "bunk bed": [
+   "mobili e materassi"
+  ],
+  "pillow": [
+   "mobili e materassi"
+  ],
+  "cushion": [
+   "mobili e materassi"
+  ],
+  "armrest": [
+   "mobili e materassi"
+  ],
+  "bench": [
+   "mobili e materassi"
+  ],
+  "brick": [
+   "calcinacci e macerie"
+  ],
+  "tile": [
+   "calcinacci e macerie"
+  ],
+  "construction": [
+   "calcinacci e macerie"
+  ],
+  "rock": [
+   "calcinacci e macerie"
+  ],
+  "asphalt": [
+   "calcinacci e macerie"
+  ],
+  "metal": [
+   "lattine di alluminio",
+   "barattoli di latta",
+   "carta stagnola e vaschette di alluminio"
+  ],
+  "chain": [
+   "lattine di alluminio",
+   "barattoli di latta",
+   "carta stagnola e vaschette di alluminio"
+  ],
+  "juice": [
+   "bottiglie di vetro",
+   "bottiglie di plastica",
+   "lattine di alluminio",
+   "tetrapak (cartoni di latte e succhi)"
+  ],
+  "cola": [
+   "bottiglie di vetro",
+   "bottiglie di plastica",
+   "lattine di alluminio",
+   "tetrapak (cartoni di latte e succhi)"
+  ],
+  "wine": [
+   "bottiglie di vetro",
+   "bottiglie di plastica",
+   "lattine di alluminio",
+   "tetrapak (cartoni di latte e succhi)"
+  ],
+  "alcohol": [
+   "bottiglie di vetro",
+   "bottiglie di plastica",
+   "lattine di alluminio",
+   "tetrapak (cartoni di latte e succhi)"
+  ],
+  "lampshade": [
+   "lampadine a LED e a basso consumo",
+   "lampadine a incandescenza"
+  ],
+  "musical instrument": [
+   "piccoli elettrodomestici"
+  ],
+  "piano": [
+   "piccoli elettrodomestici"
+  ]
+ }
 }
