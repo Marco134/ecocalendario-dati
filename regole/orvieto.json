@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "nome": "COSP Tecno Service · Orvieto",
+ "fonte": "Calendario Orvieto Nord 2026 (raccolta \"Plastica e metalli\")",
+ "voci": {
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "A Orvieto i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuote e schiacciate."
+  },
+  "barattoli di latta": {
+   "dove": "plastica",
+   "nota": "A Orvieto i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuoti e sciacquati."
+  },
+  "carta stagnola e vaschette di alluminio": {
+   "dove": "plastica",
+   "nota": "A Orvieto i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Pulite da residui di cibo."
+  }
+ }
+}

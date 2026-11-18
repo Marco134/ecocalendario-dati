@@ -434,7 +434,8 @@
      "file": "comuni/lubriano/zona-unica.json",
      "valido_al": "2026-12-31"
     }
-   ]
+   ],
+   "regole": "regole/lubriano.json"
   },
   {
    "id": "mappano",
@@ -809,12 +810,14 @@
   "cb16": {
    "nome": "Consorzio di Area Vasta CB16",
    "gestore": "SETA S.p.A.",
-   "ecocentri": "ecocentri/cb16.json"
+   "ecocentri": "ecocentri/cb16.json",
+   "regole": "regole/cb16.json"
   },
   "orvieto": {
    "nome": "Comune di Orvieto",
    "gestore": "COSP Tecno Service",
-   "ecocentri": "ecocentri/orvieto.json"
+   "ecocentri": "ecocentri/orvieto.json",
+   "regole": "regole/orvieto.json"
   }
  }
 }

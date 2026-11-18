@@ -1,0 +1,23 @@
+{
+ "schema": 1,
+ "nome": "SETA · Consorzio CB16",
+ "fonte": "Ecocalendario SETA luglio 2026 – gennaio 2027 (raccolta \"Plastica e metalli\"); setaspa.com, pagina Plastica",
+ "voci": {
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuote e schiacciate."
+  },
+  "barattoli di latta": {
+   "dove": "plastica",
+   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuoti e sciacquati."
+  },
+  "carta stagnola e vaschette di alluminio": {
+   "dove": "plastica",
+   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Pulite da residui di cibo."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Il polistirolo da imballaggio va con la plastica; grandi quantità al centro di raccolta."
+  }
+ }
+}

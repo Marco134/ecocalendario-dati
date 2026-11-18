@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "nome": "Idealservice · Lubriano",
+ "fonte": "Volantino Idealservice \"Differenziare conviene a tutti!\" del Comune di Lubriano",
+ "voci": {
+  "lattine di alluminio": {
+   "dove": "vetro",
+   "nota": "A Lubriano lattine e vetro si raccolgono insieme (Vetro e lattine)."
+  },
+  "barattoli di latta": {
+   "dove": "vetro",
+   "nota": "A Lubriano scatole e lattine in banda stagnata vanno con Vetro e lattine."
+  },
+  "carta stagnola e vaschette di alluminio": {
+   "dove": "vetro",
+   "nota": "A Lubriano le vaschette in alluminio vanno con Vetro e lattine."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "A Lubriano gli imballaggi in polistirolo vanno con la plastica."
+  },
+  "tetrapak (cartoni di latte e succhi)": {
+   "dove": "carta",
+   "nota": "A Lubriano il tetrapak va con carta e cartone."
+  }
+ }
+}
