@@ -1,0 +1,12 @@
+{
+  "comune": "Torino",
+  "zona": "unica",
+  "valido_al": "2099-12-31",
+  "fonte": "https://servizi.irenambiente.it/comune/dettaglio-del-servizio.html?service=Modello%20di%20raccolta%20della%20tua%20zona",
+  "web": {
+    "url": "https://servizi.irenambiente.it/comune/dettaglio-del-servizio.html?service=Modello%20di%20raccolta%20della%20tua%20zona",
+    "gestore": "AMIAT (Gruppo Iren)",
+    "telefono": "800017277"
+  },
+  "raccolte": {}
+}
