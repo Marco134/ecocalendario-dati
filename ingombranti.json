@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-19",
+  "gestori": [
+    {
+      "id": "seta",
+      "nome": "SETA",
+      "gestori": ["SETA S.p.A."],
+      "comuni": [],
+      "prenota_url": "https://www.setaspa.com/index.php/prelievi-ingombranti-a-domicilio",
+      "account": null,
+      "account_en": null,
+      "telefono": "800401692",
+      "orari": "Prenotazioni lun–ven 9:00–12:30 e 14:00–17:00",
+      "orari_en": "Bookings Mon–Fri 9:00–12:30 and 14:00–17:00",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": "06:00",
+      "regole": [
+        "Gratuito solo per le utenze domestiche",
+        "Massimo 5 pezzi entro 3 m³",
+        "Mobili smontati in singoli pezzi (ante, fianchi, ripiani)",
+        "Esporre su suolo pubblico entro le 6:00 del giorno comunicato da SETA",
+        "Non si ritira da cantine o cortili",
+        "Il modulo chiede Codice Utente e Codice Utenza dell’avviso TARI"
+      ],
+      "regole_en": [
+        "Free for households only",
+        "Up to 5 pieces within 3 m³",
+        "Furniture taken apart into single pieces (doors, sides, shelves)",
+        "Put items out on public ground by 6:00 on the day SETA gives you",
+        "No pickup from cellars or courtyards",
+        "The form asks for the User Code and Account Code on your TARI bill"
+      ],
+      "fonte": "https://www.setaspa.com/index.php/prelievi-ingombranti-a-domicilio",
+      "verificato": "2026-11-19"
+    },
+    {
+      "id": "amiat",
+      "nome": "AMIAT",
+      "gestori": ["AMIAT", "Amiat S.p.A."],
+      "comuni": ["torino"],
+      "prenota_url": "https://app.irenambiente.it/servizi/ritiri/IrenRitiri.aspx?CustomCSS=true",
+      "account": null,
+      "account_en": null,
+      "telefono": "800017277",
+      "orari": "Lun–ven 8:00–17:00, citando il numero di prenotazione",
+      "orari_en": "Mon–Fri 8:00–17:00, quoting your booking number",
+      "data": "subito",
+      "stampa": "cartello",
+      "cartello": "PER AMIAT",
+      "esponi_entro": null,
+      "regole": [
+        "Massimo 7 pezzi, lunghezza massima 2,80 m",
+        "Mobili smontati, vetri e specchi imballati, sanitari in sacchi aperti (max 3)",
+        "RAEE: un pezzo per tipo",
+        "Esposizione preferibile nel cortile condominiale, su strada solo se non possibile",
+        "Cartello “PER AMIAT” con il numero di prenotazione",
+        "Un appuntamento per data; il giorno del ritiro tieni il telefono acceso"
+      ],
+      "regole_en": [
+        "Up to 7 pieces, maximum length 2.80 m",
+        "Furniture taken apart, glass and mirrors wrapped, sanitary ware in open bags (max 3)",
+        "Electrical items: one per type",
+        "Put items out in the building courtyard if possible, on the street only otherwise",
+        "Sign “PER AMIAT” with your booking number",
+        "One appointment per date; keep your phone on on pickup day"
+      ],
+      "fonte": "https://www.amiat.it/i-nostri-servizi/servizi-di-raccolta-differenziata/ritiro-rifiuti-ingombranti.html",
+      "verificato": "2026-11-19"
+    },
+    {
+      "id": "amsa",
+      "nome": "Amsa (A2A)",
+      "gestori": ["Amsa", "Amsa S.p.A.", "A2A"],
+      "comuni": ["milano"],
+      "prenota_url": "https://servizionlineambiente.gruppoa2a.it/#/nuovaprenotazione",
+      "account": "Serve un account A2A gratuito (email e password). Chi era registrato al vecchio portale deve registrarsi di nuovo.",
+      "account_en": "You need a free A2A account (email and password). If you used the old portal, you need to register again.",
+      "telefono": "800332299",
+      "orari": null,
+      "orari_en": null,
+      "data": "subito",
+      "stampa": "foglio",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Il portale calcola il riempimento: oggetti gratuiti e a pagamento sono indicati nell’elenco",
+        "Ritiro gratuito a piano strada",
+        "Esporre gli oggetti con il foglio di prenotazione"
+      ],
+      "regole_en": [
+        "The portal shows how full the load is; free and paid items are marked in the list",
+        "Free pickup at street level",
+        "Put the items out with the booking sheet"
+      ],
+      "fonte": "https://www.amsa.it",
+      "verificato": "2026-11-19"
+    }
+  ]
+}
