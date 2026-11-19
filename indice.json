@@ -11,6 +11,36 @@
   },
   "comuni": [
     {
+      "id": "alpignano",
+      "nome": "Alpignano",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0957,
+      "lon": 7.5254,
+      "zone": [
+        {
+          "id": "nord",
+          "nome": "Zona Nord",
+          "file": "comuni/alpignano/zona-nord.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "sud-sopra",
+          "nome": "Zona Sud (sopra la ferrovia)",
+          "file": "comuni/alpignano/zona-sud-sopra.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "sud-sotto",
+          "nome": "Zona Sud (sotto la ferrovia)",
+          "file": "comuni/alpignano/zona-sud-sotto.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
+    },
+    {
       "id": "borgaro-torinese",
       "nome": "Borgaro Torinese",
       "provincia": "TO",
@@ -95,6 +125,30 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "buttigliera-alta",
+      "nome": "Buttigliera Alta",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0688,
+      "lon": 7.4345,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/buttigliera-alta/zona-capoluogo.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "le-fronde",
+          "nome": "Le Fronde",
+          "file": "comuni/buttigliera-alta/zona-le-fronde.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-buttigliera-alta/"
     },
     {
       "id": "casalborgone",
@@ -300,6 +354,204 @@
       }
     },
     {
+      "id": "coazze",
+      "nome": "Coazze",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0522,
+      "lon": 7.2979,
+      "zone": [
+        {
+          "id": "arancio",
+          "nome": "Zona arancio",
+          "file": "comuni/coazze/zona-arancio.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "rosa",
+          "nome": "Zona rosa",
+          "file": "comuni/coazze/zona-rosa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "verde",
+          "nome": "Zona verde",
+          "file": "comuni/coazze/zona-verde.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "blu",
+          "nome": "Zona blu",
+          "file": "comuni/coazze/zona-blu.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-coazze/"
+    },
+    {
+      "id": "collegno",
+      "nome": "Collegno",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0775,
+      "lon": 7.5724,
+      "zone": [
+        {
+          "id": "santa-maria-1",
+          "nome": "Santa Maria 1",
+          "file": "comuni/collegno/zona-santa-maria-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "santa-maria-2",
+          "nome": "Santa Maria 2",
+          "file": "comuni/collegno/zona-santa-maria-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro Storico",
+          "file": "comuni/collegno/zona-centro-storico.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "terracorta",
+          "nome": "Terracorta",
+          "file": "comuni/collegno/zona-terracorta.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "regina-nord",
+          "nome": "Regina Nord",
+          "file": "comuni/collegno/zona-regina-nord.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "regina-sud",
+          "nome": "Regina Sud",
+          "file": "comuni/collegno/zona-regina-sud.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "regina-san-remo",
+          "nome": "Regina San Remo",
+          "file": "comuni/collegno/zona-regina-san-remo.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "paradiso-sud",
+          "nome": "Paradiso Sud",
+          "file": "comuni/collegno/zona-paradiso-sud.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "paradiso-nord",
+          "nome": "Paradiso Nord",
+          "file": "comuni/collegno/zona-paradiso-nord.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "paradiso-industriale",
+          "nome": "Paradiso Industriale",
+          "file": "comuni/collegno/zona-paradiso-industriale.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "luxemburg",
+          "nome": "Luxemburg",
+          "file": "comuni/collegno/zona-luxemburg.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "borgonuovo",
+          "nome": "Borgonuovo",
+          "file": "comuni/collegno/zona-borgonuovo.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "oltredora-pip",
+          "nome": "Oltredora e PIP",
+          "file": "comuni/collegno/zona-oltredora-pip.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "savonera",
+          "nome": "Savonera",
+          "file": "comuni/collegno/zona-savonera.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-collegno/"
+    },
+    {
+      "id": "druento",
+      "nome": "Druento",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.1345,
+      "lon": 7.5765,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro (carta zona A)",
+          "file": "comuni/druento/zona-centro.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-1-a",
+          "nome": "Periferia 1 · carta zona A (ovest)",
+          "file": "comuni/druento/zona-periferia-1-a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-1-b",
+          "nome": "Periferia 1 · carta zona B (est e sud)",
+          "file": "comuni/druento/zona-periferia-1-b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-2-a",
+          "nome": "Periferia 2 · carta zona A (ovest)",
+          "file": "comuni/druento/zona-periferia-2-a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-2-b",
+          "nome": "Periferia 2 · carta zona B (est e sud)",
+          "file": "comuni/druento/zona-periferia-2-b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-3-a",
+          "nome": "Periferia 3 · carta zona A (ovest)",
+          "file": "comuni/druento/zona-periferia-3-a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-3-b",
+          "nome": "Periferia 3 · carta zona B (est e sud)",
+          "file": "comuni/druento/zona-periferia-3-b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-4-a",
+          "nome": "Periferia 4 · carta zona A (ovest)",
+          "file": "comuni/druento/zona-periferia-4-a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "periferia-4-b",
+          "nome": "Periferia 4 · carta zona B (est e sud)",
+          "file": "comuni/druento/zona-periferia-4-b.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://differenziata.junkerapp.it/druento"
+    },
+    {
       "id": "foglizzo",
       "nome": "Foglizzo",
       "provincia": "TO",
@@ -356,6 +608,114 @@
         "fonte": "https://www.setaspa.com/tarip",
         "nome": "TARIP"
       }
+    },
+    {
+      "id": "giaveno",
+      "nome": "Giaveno",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.042,
+      "lon": 7.352,
+      "zone": [
+        {
+          "id": "verde",
+          "nome": "Zona verde",
+          "file": "comuni/giaveno/zona-verde.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "rosa",
+          "nome": "Zona rosa",
+          "file": "comuni/giaveno/zona-rosa.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "bianca",
+          "nome": "Zona bianca",
+          "file": "comuni/giaveno/zona-bianca.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "arancio",
+          "nome": "Zona arancio",
+          "file": "comuni/giaveno/zona-arancio.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-giaveno/"
+    },
+    {
+      "id": "grugliasco",
+      "nome": "Grugliasco",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.068,
+      "lon": 7.5776,
+      "zone": [
+        {
+          "id": "gerbido",
+          "nome": "Gerbido",
+          "file": "comuni/grugliasco/zona-gerbido.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "fabbrichetta",
+          "nome": "Fabbrichetta",
+          "file": "comuni/grugliasco/zona-fabbrichetta.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/grugliasco/zona-centro.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "san-sebastiano",
+          "nome": "San Sebastiano",
+          "file": "comuni/grugliasco/zona-san-sebastiano.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "san-giacomo",
+          "nome": "San Giacomo",
+          "file": "comuni/grugliasco/zona-san-giacomo.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "san-francesco-verde",
+          "nome": "San Francesco (verde)",
+          "file": "comuni/grugliasco/zona-san-francesco-verde.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "san-francesco-arancio",
+          "nome": "San Francesco (arancio)",
+          "file": "comuni/grugliasco/zona-san-francesco-arancio.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "paradiso",
+          "nome": "Paradiso",
+          "file": "comuni/grugliasco/zona-paradiso.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "santa-maria",
+          "nome": "Santa Maria",
+          "file": "comuni/grugliasco/zona-santa-maria.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "lesna-quaglia",
+          "nome": "Lesna-Quaglia",
+          "file": "comuni/grugliasco/zona-lesna-quaglia.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
     },
     {
       "id": "lauriano",
@@ -543,6 +903,65 @@
       ]
     },
     {
+      "id": "pianezza",
+      "nome": "Pianezza",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.1058,
+      "lon": 7.5434,
+      "zone": [
+        {
+          "id": "gialla-integrale",
+          "nome": "Zona gialla integrale",
+          "file": "comuni/pianezza/zona-gialla-integrale.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "gialla",
+          "nome": "Zona gialla",
+          "file": "comuni/pianezza/zona-gialla.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "arancione",
+          "nome": "Zona arancione",
+          "file": "comuni/pianezza/zona-arancione.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "verde",
+          "nome": "Zona verde",
+          "file": "comuni/pianezza/zona-verde.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "blu",
+          "nome": "Zona blu",
+          "file": "comuni/pianezza/zona-blu.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
+    },
+    {
+      "id": "reano",
+      "nome": "Reano",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.052,
+      "lon": 7.4305,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/reano/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "rivalba",
       "nome": "Rivalba",
       "provincia": "TO",
@@ -566,6 +985,66 @@
       }
     },
     {
+      "id": "rivoli",
+      "nome": "Rivoli",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0697,
+      "lon": 7.5177,
+      "zone": [
+        {
+          "id": "1-blu",
+          "nome": "1 · Blu",
+          "file": "comuni/rivoli/zona-1-blu.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1-blu-tetti",
+          "nome": "1 · Blu (Tetti)",
+          "file": "comuni/rivoli/zona-1-blu-tetti.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2-rossa",
+          "nome": "2 · Rossa",
+          "file": "comuni/rivoli/zona-2-rossa.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3-verde",
+          "nome": "3 · Verde",
+          "file": "comuni/rivoli/zona-3-verde.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3-verde-bruere",
+          "nome": "3 · Verde (Bruere)",
+          "file": "comuni/rivoli/zona-3-verde-bruere.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4-bianca",
+          "nome": "4 · Bianca (centro storico)",
+          "file": "comuni/rivoli/zona-4-bianca.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5-gialla",
+          "nome": "5 · Gialla",
+          "file": "comuni/rivoli/zona-5-gialla.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6-arancio",
+          "nome": "6 · Arancio",
+          "file": "comuni/rivoli/zona-6-arancio.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-rivoli/"
+    },
+    {
       "id": "rondissone",
       "nome": "Rondissone",
       "provincia": "TO",
@@ -579,6 +1058,23 @@
           "nome": "Zona unica",
           "file": "comuni/rondissone/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "rosta",
+      "nome": "Rosta",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0735,
+      "lon": 7.4677,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo organico)",
+          "file": "comuni/rosta/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -665,6 +1161,23 @@
           "nome": "Zona unica",
           "file": "comuni/san-sebastiano-da-po/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "sangano",
+      "nome": "Sangano",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0266,
+      "lon": 7.4466,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sangano/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -756,6 +1269,89 @@
       ]
     },
     {
+      "id": "trana",
+      "nome": "Trana",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.039,
+      "lon": 7.4218,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trana/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "venaria-reale",
+      "nome": "Venaria Reale",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.1348,
+      "lon": 7.6269,
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/venaria-reale/zona-centro-storico.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/venaria-reale/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/venaria-reale/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/venaria-reale/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/venaria-reale/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5-1",
+          "nome": "Zona 5.1",
+          "file": "comuni/venaria-reale/zona-5-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5-2",
+          "nome": "Zona 5.2",
+          "file": "comuni/venaria-reale/zona-5-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/venaria-reale/zona-6.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "7",
+          "nome": "Zona 7",
+          "file": "comuni/venaria-reale/zona-7.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://cidiu.it/cidiu/comune-di-venaria-reale/"
+    },
+    {
       "id": "verolengo",
       "nome": "Verolengo",
       "provincia": "TO",
@@ -804,6 +1400,23 @@
           "nome": "Zona unica",
           "file": "comuni/verrua-savoia/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "villarbasse",
+      "nome": "Villarbasse",
+      "provincia": "TO",
+      "gestore": "Cidiu S.p.A.",
+      "consorzio": "cidiu",
+      "lat": 45.0451,
+      "lon": 7.468,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villarbasse/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -866,6 +1479,11 @@
       "nome": "Comune di Lubriano",
       "gestore": "Idealservice",
       "ecocentri": "ecocentri/lubriano.json"
+    },
+    "cidiu": {
+      "nome": "Consorzio CADOS – comuni serviti da Cidiu",
+      "gestore": "Cidiu S.p.A.",
+      "ecocentri": "ecocentri/cidiu.json"
     }
   },
   "tipi_en": {

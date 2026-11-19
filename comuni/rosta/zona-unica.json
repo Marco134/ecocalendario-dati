@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "comune": "Rosta",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-rosta/",
+ "raccolte": {
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-23": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-11": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-18": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-25": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-02-01": [
+   "organico"
+  ],
+  "2027-02-05": [
+   "organico"
+  ],
+  "2027-02-08": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "organico"
+  ],
+  "2027-02-15": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "organico"
+  ],
+  "2027-02-22": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}

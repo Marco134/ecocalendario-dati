@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "comune": "Rivoli",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "6 · Arancio",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-rivoli/",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-06": [
+   "organico"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-13": [
+   "organico"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-27": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-03": [
+   "organico"
+  ],
+  "2027-02-06": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-10": [
+   "organico"
+  ],
+  "2027-02-13": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-17": [
+   "organico"
+  ],
+  "2027-02-20": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-24": [
+   "organico"
+  ],
+  "2027-02-27": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ]
+ }
+}

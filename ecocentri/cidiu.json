@@ -1,0 +1,547 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-20",
+  "gestore": "Cidiu S.p.A.",
+  "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/",
+  "numero_verde": "800 011 651",
+  "orari_numero_verde": "Cidiu",
+  "accesso": "Ecocentri consortili: puoi usarli tutti se abiti o paghi la TARI in uno dei comuni serviti da Cidiu. Porta un documento con la residenza o la bolletta TARI.",
+  "avviso": "Chiusi nei festivi (1 e 6 gennaio, Pasquetta, 25 aprile, 1 maggio, 2 giugno, 15 agosto, 1 novembre, 8, 25 e 26 dicembre) e con allerta meteo arancione o rossa. Orari dal sito Cidiu.",
+  "consorzio": "cidiu",
+  "centri": [
+    {
+      "id": "cidiu-alpignano",
+      "tipo": "raccolta",
+      "comune": "Alpignano",
+      "indirizzo": "Strada Campagnola",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Sabato fino alle 17 da novembre a gennaio, poi fino alle 18.",
+      "lat": 45.1092,
+      "lon": 7.5114
+    },
+    {
+      "id": "cidiu-buttigliera",
+      "tipo": "raccolta",
+      "comune": "Buttigliera Alta",
+      "indirizzo": "Strada della Praia (fraz. Ferriera)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:15",
+            "12:45"
+          ]
+        ],
+        "3": [
+          [
+            "13:15",
+            "16:45"
+          ]
+        ],
+        "5": [
+          [
+            "13:15",
+            "16:45"
+          ]
+        ],
+        "6": [
+          [
+            "13:15",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0849,
+      "lon": 7.4411
+    },
+    {
+      "id": "cidiu-collegno",
+      "tipo": "raccolta",
+      "comune": "Collegno",
+      "indirizzo": "Corso Pastrengo 26",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0809,
+      "lon": 7.5844
+    },
+    {
+      "id": "cidiu-druento",
+      "tipo": "raccolta",
+      "comune": "Druento",
+      "indirizzo": "Via Volta",
+      "per": "domestiche",
+      "orari": {
+        "4": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1268,
+      "lon": 7.5914
+    },
+    {
+      "id": "cidiu-giaveno",
+      "tipo": "raccolta",
+      "comune": "Giaveno",
+      "indirizzo": "Piazza Don Renato Calzolari",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "17:45"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "17:45"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "17:45"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "13:00",
+            "17:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.042,
+      "lon": 7.352
+    },
+    {
+      "id": "cidiu-grugliasco",
+      "tipo": "raccolta",
+      "comune": "Grugliasco",
+      "indirizzo": "Via della Libertà 40",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0444,
+      "lon": 7.5887
+    },
+    {
+      "id": "cidiu-pianezza",
+      "tipo": "raccolta",
+      "comune": "Pianezza",
+      "indirizzo": "Via dei Prati ang. via Maiolo",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0996,
+      "lon": 7.555
+    },
+    {
+      "id": "cidiu-rivoli-asti",
+      "tipo": "raccolta",
+      "comune": "Rivoli",
+      "indirizzo": "Via Asti 94/a",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "13:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:30",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0652,
+      "lon": 7.5585
+    },
+    {
+      "id": "cidiu-rivoli-ravensburg",
+      "tipo": "raccolta",
+      "comune": "Rivoli",
+      "indirizzo": "Viale Ravensburg",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0738,
+      "lon": 7.4977
+    },
+    {
+      "id": "cidiu-rosta",
+      "tipo": "raccolta",
+      "comune": "Rosta",
+      "indirizzo": "Via XX Settembre 27",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0782,
+      "lon": 7.4748
+    },
+    {
+      "id": "cidiu-san-gillio",
+      "tipo": "raccolta",
+      "comune": "San Gillio",
+      "indirizzo": "Via Matteotti 16",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1386,
+      "lon": 7.5406
+    },
+    {
+      "id": "cidiu-trana",
+      "tipo": "raccolta",
+      "comune": "Trana",
+      "indirizzo": "Zona Industriale (loc. Moranda)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0328,
+      "lon": 7.4353
+    },
+    {
+      "id": "cidiu-venaria",
+      "tipo": "raccolta",
+      "comune": "Venaria Reale",
+      "indirizzo": "Corso Lombardia 49",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1161,
+      "lon": 7.6494
+    },
+    {
+      "id": "cidiu-villarbasse",
+      "tipo": "raccolta",
+      "comune": "Villarbasse",
+      "indirizzo": "Via Monviso 42/a",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Sabato fino alle 17 da novembre a gennaio, poi fino alle 18.",
+      "lat": 45.0515,
+      "lon": 7.4986
+    }
+  ]
+}

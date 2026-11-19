@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "comune": "Rivoli",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "3 · Verde (Bruere)",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-rivoli/",
+ "raccolte": {
+  "2026-11-21": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-06": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-07": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-14": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-21": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-28": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "organico"
+  ],
+  "2027-02-03": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-04": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-06": [
+   "organico"
+  ],
+  "2027-02-10": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-11": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-13": [
+   "organico"
+  ],
+  "2027-02-17": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-18": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-20": [
+   "organico"
+  ],
+  "2027-02-24": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-27": [
+   "organico"
+  ]
+ }
+}

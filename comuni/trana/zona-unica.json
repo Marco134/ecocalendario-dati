@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "comune": "Trana",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-trana/",
+ "raccolte": {
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-07": [
+   "indifferenziato"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-14": [
+   "indifferenziato"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "indifferenziato"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-28": [
+   "indifferenziato"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-02-02": [
+   "organico"
+  ],
+  "2027-02-04": [
+   "indifferenziato"
+  ],
+  "2027-02-05": [
+   "organico"
+  ],
+  "2027-02-09": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-11": [
+   "indifferenziato"
+  ],
+  "2027-02-12": [
+   "organico"
+  ],
+  "2027-02-16": [
+   "organico"
+  ],
+  "2027-02-18": [
+   "indifferenziato"
+  ],
+  "2027-02-19": [
+   "organico"
+  ],
+  "2027-02-23": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-25": [
+   "indifferenziato"
+  ],
+  "2027-02-26": [
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}

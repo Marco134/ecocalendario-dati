@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "comune": "Villarbasse",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-villarbasse/",
+ "raccolte": {
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-21": [
+   "carta"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-06": [
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "plastica"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato"
+  ],
+  "2027-01-14": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-16": [
+   "carta"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "indifferenziato"
+  ],
+  "2027-01-21": [
+   "plastica"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "carta"
+  ],
+  "2027-02-02": [
+   "organico"
+  ],
+  "2027-02-03": [
+   "indifferenziato"
+  ],
+  "2027-02-04": [
+   "plastica"
+  ],
+  "2027-02-05": [
+   "organico"
+  ],
+  "2027-02-09": [
+   "organico"
+  ],
+  "2027-02-10": [
+   "indifferenziato"
+  ],
+  "2027-02-11": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-12": [
+   "organico"
+  ],
+  "2027-02-13": [
+   "carta"
+  ],
+  "2027-02-16": [
+   "organico"
+  ],
+  "2027-02-17": [
+   "indifferenziato"
+  ],
+  "2027-02-18": [
+   "plastica"
+  ],
+  "2027-02-19": [
+   "organico"
+  ],
+  "2027-02-23": [
+   "organico"
+  ],
+  "2027-02-24": [
+   "indifferenziato"
+  ],
+  "2027-02-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-26": [
+   "organico"
+  ],
+  "2027-02-27": [
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}

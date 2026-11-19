@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "comune": "Venaria Reale",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "5.2",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-venaria-reale/",
+ "raccolte": {
+  "2026-11-21": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-07": [
+   "carta"
+  ],
+  "2027-01-09": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-14": [
+   "carta"
+  ],
+  "2027-01-16": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-21": [
+   "carta"
+  ],
+  "2027-01-23": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-28": [
+   "carta"
+  ],
+  "2027-01-30": [
+   "organico"
+  ],
+  "2027-02-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-04": [
+   "carta"
+  ],
+  "2027-02-06": [
+   "organico"
+  ],
+  "2027-02-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-11": [
+   "carta"
+  ],
+  "2027-02-13": [
+   "organico"
+  ],
+  "2027-02-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-18": [
+   "carta"
+  ],
+  "2027-02-20": [
+   "organico"
+  ],
+  "2027-02-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-25": [
+   "carta"
+  ],
+  "2027-02-27": [
+   "organico"
+  ]
+ }
+}

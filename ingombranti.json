@@ -182,6 +182,40 @@
       ],
       "fonte": "https://www.comune.lubriano.vt.it/novita/avvisi",
       "verificato": "2026-11-19"
+    },
+    {
+      "id": "cidiu",
+      "nome": "Cidiu",
+      "gestori": [
+        "Cidiu S.p.A."
+      ],
+      "comuni": [],
+      "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+      "account": null,
+      "account_en": null,
+      "telefono": "800011651",
+      "orari": "Numero verde Cidiu",
+      "orari_en": "Cidiu toll-free number",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Gratuito ad Alpignano, Collegno, Giaveno, Grugliasco, Pianezza, Reano, Rivoli, Sangano, San Gillio, Trana, Valgioie, Venaria Reale e Villarbasse; a pagamento a Coazze, Druento, Rosta e Buttigliera Alta",
+        "Una prenotazione al giorno, massimo 5 oggetti lunghi al massimo 2,5 m",
+        "Mobili grandi smontati in singoli pezzi; specchi e vetri imballati",
+        "Esponi su strada pubblica la sera prima, con il numero di prenotazione",
+        "Online non si prenota per Giaveno, Valgioie e i comuni a pagamento: chiama il numero verde"
+      ],
+      "regole_en": [
+        "Free in Alpignano, Collegno, Giaveno, Grugliasco, Pianezza, Reano, Rivoli, Sangano, San Gillio, Trana, Valgioie, Venaria Reale and Villarbasse; paid in Coazze, Druento, Rosta and Buttigliera Alta",
+        "One booking per day, up to 5 items no longer than 2.5 m",
+        "Large furniture taken apart; mirrors and glass wrapped",
+        "Put items on the public street the evening before, with your booking number",
+        "Online booking is not available for Giaveno, Valgioie and the paid towns: call the toll-free number"
+      ],
+      "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+      "verificato": "2026-11-20"
     }
   ]
 }

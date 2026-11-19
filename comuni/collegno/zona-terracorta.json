@@ -1,0 +1,258 @@
+{
+ "schema": 1,
+ "comune": "Collegno",
+ "provincia": "TO",
+ "gestore": "Cidiu S.p.A.",
+ "zona": "Terracorta",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "La sera prima (non prima delle 20) oppure entro le 6 del giorno di raccolta. A raccolta avvenuta ritira i contenitori.",
+ "fonte": "Sito Cidiu (calendario settimanale, calendari quindicinali e festivi 2026) – cidiu.it/cidiu/comune-di-collegno/",
+ "raccolte": {
+  "2026-11-20": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-23": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-24": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "vetro"
+  ],
+  "2026-11-30": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "vetro",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-04": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-05": [
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-09": [
+   "vetro"
+  ],
+  "2027-01-11": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-12": [
+   "indifferenziato"
+  ],
+  "2027-01-14": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-18": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-19": [
+   "indifferenziato"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-23": [
+   "vetro"
+  ],
+  "2027-01-25": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-26": [
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-01": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-02": [
+   "indifferenziato"
+  ],
+  "2027-02-04": [
+   "organico"
+  ],
+  "2027-02-05": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-06": [
+   "vetro"
+  ],
+  "2027-02-08": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-09": [
+   "indifferenziato"
+  ],
+  "2027-02-11": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-15": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-16": [
+   "indifferenziato"
+  ],
+  "2027-02-18": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-20": [
+   "vetro"
+  ],
+  "2027-02-22": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-23": [
+   "indifferenziato"
+  ],
+  "2027-02-25": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-01"
+  }
+ ]
+}
