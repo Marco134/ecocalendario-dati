@@ -1,0 +1,462 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-19",
+  "gestore": "AMIAT (Gruppo Iren)",
+  "fonte": "https://www.amiat.it/i-nostri-servizi/centri-di-raccolta.html",
+  "numero_verde": "800 017 277",
+  "orari_numero_verde": "lun-ven 8-17:30",
+  "accesso": "Possono accedere le utenze domestiche e non domestiche della Città di Torino. Lo scarico lo fai tu; il personale AMIAT controlla accessi e materiali.",
+  "avviso": "Orari dal sito e dall’opuscolo AMIAT 2026. Possono cambiare: in caso di dubbi chiama il numero verde.",
+  "consorzio": "torino",
+  "centri": [
+    {
+      "id": "torino-arbe",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Arbe 12",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Chiuso nei giorni festivi.",
+      "lat": 45.0555,
+      "lon": 7.6319
+    },
+    {
+      "id": "torino-germagnano",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Germagnano 48/A",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Chiuso nei giorni festivi.",
+      "lat": 45.1175,
+      "lon": 7.6919
+    },
+    {
+      "id": "torino-gorini",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Gorini 20/A",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Chiuso nei giorni festivi.",
+      "lat": 45.0397,
+      "lon": 7.5914
+    },
+    {
+      "id": "torino-moncalieri",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Corso Moncalieri 420/A",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Chiuso nei giorni festivi.",
+      "lat": 45.0242,
+      "lon": 7.6759
+    },
+    {
+      "id": "torino-ravina",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Ravina 19/A",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "7": [
+          [
+            "07:30",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Domenica e festivi 7:30–13:00, esclusi Capodanno, Pasqua, 1° maggio, Ferragosto e Natale. Chiuso negli altri festivi.",
+      "lat": 45.0776,
+      "lon": 7.7123
+    },
+    {
+      "id": "torino-salgari",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Salgari 21/A",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Chiuso nei giorni festivi.",
+      "lat": 45.0931,
+      "lon": 7.7167
+    },
+    {
+      "id": "torino-zini",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Zini 139",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "7": [
+          [
+            "07:30",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Domenica e festivi 7:30–13:00, esclusi Capodanno, Pasqua, 1° maggio, Ferragosto e Natale. Chiuso negli altri festivi.",
+      "lat": 45.0356,
+      "lon": 7.6603
+    },
+    {
+      "id": "torino-reycend",
+      "tipo": "raccolta",
+      "comune": "Torino",
+      "indirizzo": "Via Reycend 36",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "3": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:15",
+            "18:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Chiuso nei giorni festivi.",
+      "lat": 45.1065,
+      "lon": 7.6702
+    },
+    {
+      "id": "torino-mercatino-arbe",
+      "tipo": "riuso",
+      "comune": "Torino",
+      "indirizzo": "Via Arbe 12 (Mercatino del riciclo)",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "15:30",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "15:30",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "10:00",
+            "13:00"
+          ],
+          [
+            "15:30",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "18:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Oggetti recuperati nel laboratorio del centro, in vendita nel mercatino.",
+      "lat": 45.0555,
+      "lon": 7.6319
+    }
+  ]
+}
