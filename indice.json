@@ -739,23 +739,6 @@
       ]
     },
     {
-      "id": "torino",
-      "nome": "Torino",
-      "provincia": "TO",
-      "gestore": "AMIAT",
-      "consorzio": "torino",
-      "lat": 45.0703,
-      "lon": 7.6869,
-      "zone": [
-        {
-          "id": "unica",
-          "nome": "Tutta la città (ricerca per indirizzo)",
-          "file": "comuni/torino/indirizzo.json",
-          "valido_al": "2099-12-31"
-        }
-      ]
-    },
-    {
       "id": "torrazza-piemonte",
       "nome": "Torrazza Piemonte",
       "provincia": "TO",
@@ -883,11 +866,6 @@
       "nome": "Comune di Lubriano",
       "gestore": "Idealservice",
       "ecocentri": "ecocentri/lubriano.json"
-    },
-    "torino": {
-      "nome": "Città di Torino",
-      "gestore": "AMIAT",
-      "ecocentri": "ecocentri/torino.json"
     }
   },
   "tipi_en": {
