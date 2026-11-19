@@ -627,5 +627,28 @@
   "2027-01-29": [
    "vetro"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-04-06",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-06-02",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2027-01-01"
+  }
+ ]
 }

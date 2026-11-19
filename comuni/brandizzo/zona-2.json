@@ -592,5 +592,66 @@
   "2027-01-29": [
    "organico"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-04-25",
+   "tipo": "annullato",
+   "raccolta": "sfalci"
+  },
+  {
+   "data": "2026-05-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-05-03",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-05-01"
+  },
+  {
+   "data": "2026-05-03",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-05-01"
+  },
+  {
+   "data": "2026-06-02",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-08-15",
+   "tipo": "annullato",
+   "raccolta": "sfalci"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
 }

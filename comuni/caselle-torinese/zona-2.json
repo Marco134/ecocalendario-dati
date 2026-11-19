@@ -741,5 +741,24 @@
   "2027-01-28": [
    "organico"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-04-06",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-05-03",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-05-01"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  }
+ ]
 }

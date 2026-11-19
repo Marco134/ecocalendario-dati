@@ -1,0 +1,451 @@
+{
+ "schema": 1,
+ "comune": "Castiglione Torinese",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "2",
+ "valido_dal": "2026-07-01",
+ "valido_al": "2027-01-31",
+ "esposizione": "Entro le ore 6 del giorno di raccolta, solo contenitori pieni.",
+ "fonte": "Ecocalendario SETA luglio 2026 - gennaio 2027, Castiglione Torinese Zona 2",
+ "note": [
+  "6 luglio 2026: ultima esposizione del vecchio contenitore dell'indifferenziato (Zona 2)."
+ ],
+ "raccolte": {
+  "2026-07-01": [
+   "organico"
+  ],
+  "2026-07-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-07-06": [
+   "indifferenziato"
+  ],
+  "2026-07-07": [
+   "sfalci"
+  ],
+  "2026-07-08": [
+   "organico"
+  ],
+  "2026-07-10": [
+   "carta"
+  ],
+  "2026-07-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-07-13": [
+   "sfalci"
+  ],
+  "2026-07-15": [
+   "organico"
+  ],
+  "2026-07-16": [
+   "indifferenziato"
+  ],
+  "2026-07-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-07-20": [
+   "sfalci"
+  ],
+  "2026-07-22": [
+   "organico"
+  ],
+  "2026-07-23": [
+   "indifferenziato"
+  ],
+  "2026-07-24": [
+   "carta"
+  ],
+  "2026-07-25": [
+   "organico",
+   "vetro"
+  ],
+  "2026-07-27": [
+   "sfalci"
+  ],
+  "2026-07-29": [
+   "organico"
+  ],
+  "2026-07-30": [
+   "indifferenziato"
+  ],
+  "2026-08-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-08-03": [
+   "sfalci"
+  ],
+  "2026-08-05": [
+   "organico"
+  ],
+  "2026-08-06": [
+   "indifferenziato"
+  ],
+  "2026-08-07": [
+   "carta"
+  ],
+  "2026-08-08": [
+   "organico",
+   "vetro"
+  ],
+  "2026-08-10": [
+   "sfalci"
+  ],
+  "2026-08-12": [
+   "organico"
+  ],
+  "2026-08-13": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-08-17": [
+   "sfalci"
+  ],
+  "2026-08-19": [
+   "organico"
+  ],
+  "2026-08-20": [
+   "indifferenziato"
+  ],
+  "2026-08-21": [
+   "carta"
+  ],
+  "2026-08-22": [
+   "organico",
+   "vetro"
+  ],
+  "2026-08-24": [
+   "sfalci"
+  ],
+  "2026-08-26": [
+   "organico"
+  ],
+  "2026-08-27": [
+   "indifferenziato"
+  ],
+  "2026-08-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-08-31": [
+   "sfalci"
+  ],
+  "2026-09-02": [
+   "organico"
+  ],
+  "2026-09-03": [
+   "indifferenziato"
+  ],
+  "2026-09-04": [
+   "carta"
+  ],
+  "2026-09-05": [
+   "organico",
+   "vetro"
+  ],
+  "2026-09-09": [
+   "organico"
+  ],
+  "2026-09-10": [
+   "indifferenziato"
+  ],
+  "2026-09-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-09-14": [
+   "sfalci"
+  ],
+  "2026-09-16": [
+   "organico"
+  ],
+  "2026-09-17": [
+   "indifferenziato"
+  ],
+  "2026-09-18": [
+   "carta"
+  ],
+  "2026-09-19": [
+   "organico",
+   "vetro"
+  ],
+  "2026-09-21": [
+   "sfalci"
+  ],
+  "2026-09-23": [
+   "organico"
+  ],
+  "2026-09-24": [
+   "indifferenziato"
+  ],
+  "2026-09-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-09-28": [
+   "sfalci"
+  ],
+  "2026-09-30": [
+   "organico"
+  ],
+  "2026-10-01": [
+   "indifferenziato"
+  ],
+  "2026-10-02": [
+   "carta"
+  ],
+  "2026-10-03": [
+   "organico",
+   "vetro"
+  ],
+  "2026-10-05": [
+   "sfalci"
+  ],
+  "2026-10-07": [
+   "organico"
+  ],
+  "2026-10-08": [
+   "indifferenziato"
+  ],
+  "2026-10-10": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-12": [
+   "sfalci"
+  ],
+  "2026-10-14": [
+   "organico"
+  ],
+  "2026-10-15": [
+   "indifferenziato"
+  ],
+  "2026-10-16": [
+   "carta"
+  ],
+  "2026-10-17": [
+   "organico",
+   "vetro"
+  ],
+  "2026-10-19": [
+   "sfalci"
+  ],
+  "2026-10-21": [
+   "organico"
+  ],
+  "2026-10-22": [
+   "indifferenziato"
+  ],
+  "2026-10-24": [
+   "organico",
+   "plastica"
+  ],
+  "2026-10-26": [
+   "sfalci"
+  ],
+  "2026-10-28": [
+   "organico"
+  ],
+  "2026-10-29": [
+   "indifferenziato"
+  ],
+  "2026-10-30": [
+   "carta"
+  ],
+  "2026-10-31": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-02": [
+   "sfalci"
+  ],
+  "2026-11-04": [
+   "organico"
+  ],
+  "2026-11-05": [
+   "indifferenziato"
+  ],
+  "2026-11-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-09": [
+   "sfalci"
+  ],
+  "2026-11-11": [
+   "organico"
+  ],
+  "2026-11-12": [
+   "indifferenziato"
+  ],
+  "2026-11-13": [
+   "carta"
+  ],
+  "2026-11-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-16": [
+   "sfalci"
+  ],
+  "2026-11-18": [
+   "organico"
+  ],
+  "2026-11-19": [
+   "indifferenziato"
+  ],
+  "2026-11-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-23": [
+   "sfalci"
+  ],
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "sfalci"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ],
+  "2027-01-02": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-07": [
+   "indifferenziato"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-09": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-13": [
+   "organico"
+  ],
+  "2027-01-14": [
+   "indifferenziato"
+  ],
+  "2027-01-16": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "indifferenziato"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-23": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-27": [
+   "organico"
+  ],
+  "2027-01-28": [
+   "indifferenziato"
+  ],
+  "2027-01-30": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-08-13",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-08-15"
+  },
+  {
+   "data": "2026-08-15",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-06",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

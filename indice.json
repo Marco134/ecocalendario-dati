@@ -191,6 +191,12 @@
           "nome": "Zona 1B",
           "file": "comuni/castiglione-torinese/zona-1b.json",
           "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/castiglione-torinese/zona-2.json",
+          "valido_al": "2027-01-31"
         }
       ],
       "tarip": {

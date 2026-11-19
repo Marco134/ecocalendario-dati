@@ -444,5 +444,28 @@
    "organico",
    "carta"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
 }

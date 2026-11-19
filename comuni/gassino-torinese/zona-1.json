@@ -385,5 +385,19 @@
   "2027-01-30": [
    "indifferenziato"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-08-16",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-08-15"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  }
+ ]
 }

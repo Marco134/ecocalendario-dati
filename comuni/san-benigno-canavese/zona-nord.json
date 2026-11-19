@@ -504,5 +504,24 @@
   "2027-01-28": [
    "organico"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-04-06",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-05-02",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-05-01"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  }
+ ]
 }

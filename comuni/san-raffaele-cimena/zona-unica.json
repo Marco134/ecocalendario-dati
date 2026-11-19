@@ -399,5 +399,22 @@
   "2027-01-29": [
    "organico"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
 }

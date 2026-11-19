@@ -500,5 +500,43 @@
    "organico",
    "indifferenziato"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-05-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-06-02",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  },
+  {
+   "data": "2026-06-02",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-03",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  }
+ ]
 }

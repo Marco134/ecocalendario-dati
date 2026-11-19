@@ -676,5 +676,50 @@
    "vetro",
    "plastica"
   ]
- }
+ },
+ "eccezioni": [
+  {
+   "data": "2026-05-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-06-02",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-08-16",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-08-15"
+  },
+  {
+   "data": "2026-08-16",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-08-15"
+  },
+  {
+   "data": "2026-08-16",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-08-15"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
 }
