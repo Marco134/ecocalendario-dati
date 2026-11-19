@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "comune": "Ceres",
+ "provincia": "TO",
+ "gestore": "CISA",
+ "zona": "Cassonetti stradali o seminterrati",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2099-12-31",
+ "esposizione": "",
+ "fonte": "Ecocalendario CISA 2026-2027 – https://www.cisaweb.info/it-it/comune/ceres/servizi-/servizi/calendari-di-raccolta",
+ "raccolte": {},
+ "info": "Se la tua casa usa i cassonetti stradali o i contenitori seminterrati non devi esporre nulla: il calendario porta a porta vale solo per chi ha i contenitori a domicilio.",
+ "info_en": "If your home uses street bins or semi-underground containers there is nothing to put out: the door-to-door calendar only applies to homes with their own bins."
+}

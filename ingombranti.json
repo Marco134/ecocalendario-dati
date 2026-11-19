@@ -247,6 +247,37 @@
       ],
       "fonte": "https://www.acselspa.it/calendari-raccolta-rifiuti/",
       "verificato": "2026-11-20"
+    },
+    {
+      "id": "cisa",
+      "nome": "CISA",
+      "gestori": [
+        "CISA"
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "800071302",
+      "orari": "Numero verde CISA",
+      "orari_en": "CISA toll-free number",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro a domicilio a pagamento: 15 € fino a 3 pezzi, 5 € per ogni pezzo in più",
+        "Si prenota al numero verde del Consorzio",
+        "Gratis se li porti tu in una delle ecostazioni consortili"
+      ],
+      "regole_en": [
+        "Paid home pickup: €15 for up to 3 items, €5 for each extra item",
+        "Book through the Consortium’s toll-free number",
+        "Free if you take them to one of the consortium’s recycling centres"
+      ],
+      "fonte": "https://www.cisaweb.info/it-it/servizi-/servizi/calendari-di-raccolta",
+      "verificato": "2026-11-20"
     }
   ]
 }
