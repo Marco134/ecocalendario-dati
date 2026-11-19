@@ -5,7 +5,9 @@
     {
       "id": "seta",
       "nome": "SETA",
-      "gestori": ["SETA S.p.A."],
+      "gestori": [
+        "SETA S.p.A."
+      ],
       "comuni": [],
       "prenota_url": "https://www.setaspa.com/index.php/prelievi-ingombranti-a-domicilio",
       "account": null,
@@ -39,8 +41,13 @@
     {
       "id": "amiat",
       "nome": "AMIAT",
-      "gestori": ["AMIAT", "Amiat S.p.A."],
-      "comuni": ["torino"],
+      "gestori": [
+        "AMIAT",
+        "Amiat S.p.A."
+      ],
+      "comuni": [
+        "torino"
+      ],
       "prenota_url": "https://app.irenambiente.it/servizi/ritiri/IrenRitiri.aspx?CustomCSS=true",
       "account": null,
       "account_en": null,
@@ -73,8 +80,14 @@
     {
       "id": "amsa",
       "nome": "Amsa (A2A)",
-      "gestori": ["Amsa", "Amsa S.p.A.", "A2A"],
-      "comuni": ["milano"],
+      "gestori": [
+        "Amsa",
+        "Amsa S.p.A.",
+        "A2A"
+      ],
+      "comuni": [
+        "milano"
+      ],
       "prenota_url": "https://servizionlineambiente.gruppoa2a.it/#/nuovaprenotazione",
       "account": "Serve un account A2A gratuito (email e password). Chi era registrato al vecchio portale deve registrarsi di nuovo.",
       "account_en": "You need a free A2A account (email and password). If you used the old portal, you need to register again.",
@@ -96,6 +109,40 @@
         "Put the items out with the booking sheet"
       ],
       "fonte": "https://www.amsa.it",
+      "verificato": "2026-11-19"
+    },
+    {
+      "id": "cosp-orvietano",
+      "nome": "COSP Tecno Service",
+      "gestori": [
+        "COSP Tecno Service"
+      ],
+      "comuni": [],
+      "prenota_url": "https://www.cosptecnoservice.it/rifiuti-ingombranti-e-raee/#ritiroorvietano",
+      "account": null,
+      "account_en": null,
+      "telefono": "800055505",
+      "orari": "Lun–ven 9:00–13:00 e 14:00–17:00 (numero dell’ATI 4)",
+      "orari_en": "Mon–Fri 9:00–13:00 and 14:00–17:00 (ATI 4 number)",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Gratuito solo per le utenze domestiche",
+        "Dopo la richiesta COSP ti contatta per stabilire giorno e orario",
+        "Esporre la sera prima del ritiro, a piano strada davanti al numero civico",
+        "Porte e finestre: massimo 5 oggetti per ritiro",
+        "Il modulo chiede codice utente e codice fiscale"
+      ],
+      "regole_en": [
+        "Free for households only",
+        "After your request COSP contacts you to set day and time",
+        "Put items out the evening before, at street level by your house number",
+        "Doors and windows: up to 5 items per pickup",
+        "The form asks for your user code and tax code"
+      ],
+      "fonte": "https://www.cosptecnoservice.it/rifiuti-ingombranti-e-raee/",
       "verificato": "2026-11-19"
     }
   ]
