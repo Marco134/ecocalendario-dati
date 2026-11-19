@@ -160,27 +160,27 @@
       "prenotazione": false,
       "account": null,
       "account_en": null,
-      "telefono": "0432693511",
+      "telefono": "0761780459",
       "tipo_numero": "telefono",
-      "orari": "Idealservice, gestore del servizio",
-      "orari_en": "Idealservice, the waste collection operator",
+      "orari": "Comune di Lubriano",
+      "orari_en": "Comune di Lubriano",
       "data": "comunicata",
       "stampa": "promemoria",
       "cartello": null,
       "esponi_entro": null,
       "regole": [
-        "Niente ritiro a domicilio: il Comune organizza giornate di raccolta con data e orario comunicati negli avvisi",
-        "L’ultima giornata (31/10/2026) era nel piazzale sotto il Comune, dalle 8:30 alle 10:30",
+        "Niente ritiro a domicilio: il Comune organizza giornate di raccolta e le pubblica negli avvisi sul suo sito",
+        "Per la data della prossima raccolta chiama il Comune o guarda gli avvisi",
         "Prima di scaricare compili il modulo; servono documento d’identità e tessera sanitaria",
         "Non si accettano pneumatici, eternit, vetroresina, bombole del gas e scarti di lavorazione: vanno a ditte specializzate"
       ],
       "regole_en": [
-        "No home pickup: the Comune runs collection days, with date and time given in its notices",
-        "The last one (31/10/2026) was in the square below the town hall, 8:30–10:30",
+        "No home pickup: the Comune runs collection days and posts them in the notices on its website",
+        "For the next date, call the Comune or check the notices",
         "Fill in the form before unloading; bring an ID and your health card",
         "Tyres, asbestos, fibreglass, gas cylinders and work waste are not accepted: use specialised companies"
       ],
-      "fonte": "https://www.comune.lubriano.vt.it/novita/avvisi/novita_104.html",
+      "fonte": "https://www.comune.lubriano.vt.it/novita/avvisi",
       "verificato": "2026-11-19"
     }
   ]
