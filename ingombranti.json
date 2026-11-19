@@ -148,6 +148,40 @@
       ],
       "fonte": "https://www.cosptecnoservice.it/rifiuti-ingombranti-e-raee/",
       "verificato": "2026-11-19"
+    },
+    {
+      "id": "lubriano",
+      "nome": "Comune di Lubriano",
+      "gestori": [],
+      "comuni": [
+        "lubriano"
+      ],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "0432693511",
+      "tipo_numero": "telefono",
+      "orari": "Idealservice, gestore del servizio",
+      "orari_en": "Idealservice, the waste collection operator",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Niente ritiro a domicilio: il Comune organizza giornate di raccolta con data e orario comunicati negli avvisi",
+        "L’ultima giornata (31/10/2026) era nel piazzale sotto il Comune, dalle 8:30 alle 10:30",
+        "Prima di scaricare compili il modulo; servono documento d’identità e tessera sanitaria",
+        "Non si accettano pneumatici, eternit, vetroresina, bombole del gas e scarti di lavorazione: vanno a ditte specializzate"
+      ],
+      "regole_en": [
+        "No home pickup: the Comune runs collection days, with date and time given in its notices",
+        "The last one (31/10/2026) was in the square below the town hall, 8:30–10:30",
+        "Fill in the form before unloading; bring an ID and your health card",
+        "Tyres, asbestos, fibreglass, gas cylinders and work waste are not accepted: use specialised companies"
+      ],
+      "fonte": "https://www.comune.lubriano.vt.it/novita/avvisi/novita_104.html",
+      "verificato": "2026-11-19"
     }
   ]
 }

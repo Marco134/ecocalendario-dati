@@ -459,7 +459,8 @@
           "valido_al": "2026-12-31"
         }
       ],
-      "regole": "regole/lubriano.json"
+      "regole": "regole/lubriano.json",
+      "consorzio": "lubriano"
     },
     {
       "id": "mappano",
@@ -860,6 +861,11 @@
       "gestore": "COSP Tecno Service",
       "ecocentri": "ecocentri/orvieto.json",
       "regole": "regole/orvieto.json"
+    },
+    "lubriano": {
+      "nome": "Comune di Lubriano",
+      "gestore": "Idealservice",
+      "ecocentri": "ecocentri/lubriano.json"
     }
   },
   "tipi_en": {
