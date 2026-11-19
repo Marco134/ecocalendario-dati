@@ -1,831 +1,861 @@
 {
- "schema": 1,
- "aggiornato": "2026-11-18",
- "tipi": {
-  "organico": "Organico",
-  "carta": "Carta",
-  "vetro": "Vetro",
-  "plastica": "Plastica",
-  "indifferenziato": "Indifferenziato",
-  "sfalci": "Sfalci"
- },
- "comuni": [
-  {
-   "id": "borgaro-torinese",
-   "nome": "Borgaro Torinese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.152,
-   "lon": 7.6579,
-   "zone": [
-    {
-     "id": "a",
-     "nome": "Zona A",
-     "file": "comuni/borgaro-torinese/zona-a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "b",
-     "nome": "Zona B",
-     "file": "comuni/borgaro-torinese/zona-b.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
+  "schema": 1,
+  "aggiornato": "2026-11-19",
+  "tipi": {
+    "organico": "Organico",
+    "carta": "Carta",
+    "vetro": "Vetro",
+    "plastica": "Plastica",
+    "indifferenziato": "Indifferenziato",
+    "sfalci": "Sfalci"
   },
-  {
-   "id": "brandizzo",
-   "nome": "Brandizzo",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1777,
-   "lon": 7.8415,
-   "zone": [
+  "comuni": [
     {
-     "id": "1",
-     "nome": "Zona 1",
-     "file": "comuni/brandizzo/zona-1.json",
-     "valido_al": "2027-01-31"
+      "id": "borgaro-torinese",
+      "nome": "Borgaro Torinese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.152,
+      "lon": 7.6579,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/borgaro-torinese/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/borgaro-torinese/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
     },
     {
-     "id": "2",
-     "nome": "Zona 2",
-     "file": "comuni/brandizzo/zona-2.json",
-     "valido_al": "2027-01-31"
+      "id": "brandizzo",
+      "nome": "Brandizzo",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1777,
+      "lon": 7.8415,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/brandizzo/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/brandizzo/zona-2.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/brandizzo/zona-3.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
     },
     {
-     "id": "3",
-     "nome": "Zona 3",
-     "file": "comuni/brandizzo/zona-3.json",
-     "valido_al": "2027-01-31"
+      "id": "brozolo",
+      "nome": "Brozolo",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1174,
+      "lon": 8.0713,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brozolo/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "brusasco",
+      "nome": "Brusasco",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.156,
+      "lon": 8.0601,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brusasco/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "casalborgone",
+      "nome": "Casalborgone",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.13,
+      "lon": 7.9404,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casalborgone/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "caselle-torinese",
+      "nome": "Caselle Torinese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1772,
+      "lon": 7.6482,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/caselle-torinese/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/caselle-torinese/zona-2.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/caselle-torinese/zona-3.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/caselle-torinese/zona-4.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/caselle-torinese/zona-5.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "castagneto-po",
+      "nome": "Castagneto Po",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1606,
+      "lon": 7.887,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castagneto-po/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "castiglione-torinese",
+      "nome": "Castiglione Torinese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1233,
+      "lon": 7.8161,
+      "zone": [
+        {
+          "id": "1a",
+          "nome": "Zona 1A",
+          "file": "comuni/castiglione-torinese/zona-1a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "1b",
+          "nome": "Zona 1B",
+          "file": "comuni/castiglione-torinese/zona-1b.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "tarip": {
+        "dal": "2026-07-01",
+        "rifiuto": "indifferenziato",
+        "fonte": "https://www.setaspa.com/tarip"
+      }
+    },
+    {
+      "id": "cavagnolo",
+      "nome": "Cavagnolo",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1521,
+      "lon": 8.0513,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavagnolo/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "chivasso",
+      "nome": "Chivasso",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1886,
+      "lon": 7.8871,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/chivasso/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/chivasso/zona-2.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3a",
+          "nome": "Zona 3A",
+          "file": "comuni/chivasso/zona-3a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3b",
+          "nome": "Zona 3B",
+          "file": "comuni/chivasso/zona-3b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/chivasso/zona-4.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/chivasso/zona-5.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/chivasso/zona-6.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cinzano",
+      "nome": "Cinzano",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.0939,
+      "lon": 7.9211,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cinzano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "tarip": {
+        "dal": "2026-07-01",
+        "rifiuto": "indifferenziato",
+        "fonte": "https://www.setaspa.com/tarip"
+      }
+    },
+    {
+      "id": "foglizzo",
+      "nome": "Foglizzo",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.272,
+      "lon": 7.8232,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/foglizzo/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "gassino-torinese",
+      "nome": "Gassino Torinese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1275,
+      "lon": 7.8249,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1 (ex 4 bis)",
+          "file": "comuni/gassino-torinese/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3a",
+          "nome": "Zona 3A",
+          "file": "comuni/gassino-torinese/zona-3a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3b",
+          "nome": "Zona 3B",
+          "file": "comuni/gassino-torinese/zona-3b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/gassino-torinese/zona-4.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "tarip": {
+        "dal": "2026-07-01",
+        "rifiuto": "indifferenziato",
+        "fonte": "https://www.setaspa.com/tarip"
+      }
+    },
+    {
+      "id": "lauriano",
+      "nome": "Lauriano",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1585,
+      "lon": 7.9917,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lauriano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "leini",
+      "nome": "Leinì",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1839,
+      "lon": 7.7151,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/leini/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/leini/zona-2.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3a",
+          "nome": "Zona 3A",
+          "file": "comuni/leini/zona-3a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3b",
+          "nome": "Zona 3B",
+          "file": "comuni/leini/zona-3b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/leini/zona-4.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/leini/zona-5.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/leini/zona-6.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "lombardore",
+      "nome": "Lombardore",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.2357,
+      "lon": 7.7363,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lombardore/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "lubriano",
+      "nome": "Lubriano",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "lat": 42.6353,
+      "lon": 12.1071,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lubriano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/lubriano.json"
+    },
+    {
+      "id": "mappano",
+      "nome": "Mappano",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1475,
+      "lon": 7.707,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/mappano/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/mappano/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "montanaro",
+      "nome": "Montanaro",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.2329,
+      "lon": 7.8528,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/montanaro/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/montanaro/zona-2.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "monteu-da-po",
+      "nome": "Monteu da Po",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1505,
+      "lon": 8.0148,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/monteu-da-po/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "orvieto",
+      "nome": "Orvieto",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "orvieto",
+      "lat": 42.7182,
+      "lon": 12.1083,
+      "zone": [
+        {
+          "id": "nord-area-vasta",
+          "nome": "Nord – area vasta (frazioni e case sparse)",
+          "file": "comuni/orvieto/zona-nord-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rivalba",
+      "nome": "Rivalba",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1188,
+      "lon": 7.887,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rivalba/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "tarip": {
+        "dal": "2026-07-01",
+        "rifiuto": "indifferenziato",
+        "fonte": "https://www.setaspa.com/tarip"
+      }
+    },
+    {
+      "id": "rondissone",
+      "nome": "Rondissone",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.2468,
+      "lon": 7.9658,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rondissone/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "san-benigno-canavese",
+      "nome": "San Benigno Canavese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.224,
+      "lon": 7.7827,
+      "zone": [
+        {
+          "id": "nord",
+          "nome": "Zona Nord",
+          "file": "comuni/san-benigno-canavese/zona-nord.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "sud",
+          "nome": "Zona Sud",
+          "file": "comuni/san-benigno-canavese/zona-sud.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "san-mauro-torinese",
+      "nome": "San Mauro Torinese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1031,
+      "lon": 7.7663,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Zona Capoluogo",
+          "file": "comuni/san-mauro-torinese/zona-capoluogo.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "oltrepo",
+          "nome": "Zona Oltrepò",
+          "file": "comuni/san-mauro-torinese/zona-oltrepo.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "san-raffaele-cimena",
+      "nome": "San Raffaele Cimena",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1472,
+      "lon": 7.8487,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-raffaele-cimena/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "tarip": {
+        "dal": "2026-07-01",
+        "rifiuto": "indifferenziato",
+        "fonte": "https://www.setaspa.com/tarip"
+      }
+    },
+    {
+      "id": "san-sebastiano-da-po",
+      "nome": "San Sebastiano da Po",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1664,
+      "lon": 7.9535,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-sebastiano-da-po/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "sciolze",
+      "nome": "Sciolze",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.095,
+      "lon": 7.8777,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sciolze/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "tarip": {
+        "dal": "2026-07-01",
+        "rifiuto": "indifferenziato",
+        "fonte": "https://www.setaspa.com/tarip"
+      }
+    },
+    {
+      "id": "settimo-torinese",
+      "nome": "Settimo Torinese",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.137,
+      "lon": 7.7712,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/settimo-torinese/zona-1.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/settimo-torinese/zona-2.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/settimo-torinese/zona-3.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/settimo-torinese/zona-4.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/settimo-torinese/zona-5.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/settimo-torinese/zona-6.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "torrazza-piemonte",
+      "nome": "Torrazza Piemonte",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.2152,
+      "lon": 7.9749,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/torrazza-piemonte/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "verolengo",
+      "nome": "Verolengo",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.189,
+      "lon": 7.9672,
+      "zone": [
+        {
+          "id": "1a",
+          "nome": "Zona 1A",
+          "file": "comuni/verolengo/zona-1a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "1b",
+          "nome": "Zona 1B",
+          "file": "comuni/verolengo/zona-1b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2a",
+          "nome": "Zona 2A",
+          "file": "comuni/verolengo/zona-2a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "2b",
+          "nome": "Zona 2B",
+          "file": "comuni/verolengo/zona-2b.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "verrua-savoia",
+      "nome": "Verrua Savoia",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.1566,
+      "lon": 8.0931,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/verrua-savoia/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "volpiano",
+      "nome": "Volpiano",
+      "provincia": "TO",
+      "gestore": "SETA S.p.A.",
+      "consorzio": "cb16",
+      "lat": 45.2019,
+      "lon": 7.7756,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Zona Centro",
+          "file": "comuni/volpiano/zona-centro.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "est-a",
+          "nome": "Zona Est A",
+          "file": "comuni/volpiano/zona-est-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "est-b",
+          "nome": "Zona Est B",
+          "file": "comuni/volpiano/zona-est-b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "ovest-a",
+          "nome": "Zona Ovest A",
+          "file": "comuni/volpiano/zona-ovest-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "ovest-b",
+          "nome": "Zona Ovest B",
+          "file": "comuni/volpiano/zona-ovest-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
     }
-   ]
+  ],
+  "consorzi": {
+    "cb16": {
+      "nome": "Consorzio di Area Vasta CB16",
+      "gestore": "SETA S.p.A.",
+      "ecocentri": "ecocentri/cb16.json",
+      "regole": "regole/cb16.json"
+    },
+    "orvieto": {
+      "nome": "Comune di Orvieto",
+      "gestore": "COSP Tecno Service",
+      "ecocentri": "ecocentri/orvieto.json",
+      "regole": "regole/orvieto.json"
+    }
   },
-  {
-   "id": "brozolo",
-   "nome": "Brozolo",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1174,
-   "lon": 8.0713,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/brozolo/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "brusasco",
-   "nome": "Brusasco",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.156,
-   "lon": 8.0601,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/brusasco/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "casalborgone",
-   "nome": "Casalborgone",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.13,
-   "lon": 7.9404,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/casalborgone/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "caselle-torinese",
-   "nome": "Caselle Torinese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1772,
-   "lon": 7.6482,
-   "zone": [
-    {
-     "id": "1",
-     "nome": "Zona 1",
-     "file": "comuni/caselle-torinese/zona-1.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2",
-     "nome": "Zona 2",
-     "file": "comuni/caselle-torinese/zona-2.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3",
-     "nome": "Zona 3",
-     "file": "comuni/caselle-torinese/zona-3.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "4",
-     "nome": "Zona 4",
-     "file": "comuni/caselle-torinese/zona-4.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "5",
-     "nome": "Zona 5",
-     "file": "comuni/caselle-torinese/zona-5.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "castagneto-po",
-   "nome": "Castagneto Po",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1606,
-   "lon": 7.887,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/castagneto-po/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "castiglione-torinese",
-   "nome": "Castiglione Torinese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1233,
-   "lon": 7.8161,
-   "zone": [
-    {
-     "id": "1a",
-     "nome": "Zona 1A",
-     "file": "comuni/castiglione-torinese/zona-1a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "1b",
-     "nome": "Zona 1B",
-     "file": "comuni/castiglione-torinese/zona-1b.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "cavagnolo",
-   "nome": "Cavagnolo",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1521,
-   "lon": 8.0513,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/cavagnolo/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "chivasso",
-   "nome": "Chivasso",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1886,
-   "lon": 7.8871,
-   "zone": [
-    {
-     "id": "1",
-     "nome": "Zona 1",
-     "file": "comuni/chivasso/zona-1.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2",
-     "nome": "Zona 2",
-     "file": "comuni/chivasso/zona-2.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3a",
-     "nome": "Zona 3A",
-     "file": "comuni/chivasso/zona-3a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3b",
-     "nome": "Zona 3B",
-     "file": "comuni/chivasso/zona-3b.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "4",
-     "nome": "Zona 4",
-     "file": "comuni/chivasso/zona-4.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "5",
-     "nome": "Zona 5",
-     "file": "comuni/chivasso/zona-5.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "6",
-     "nome": "Zona 6",
-     "file": "comuni/chivasso/zona-6.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "cinzano",
-   "nome": "Cinzano",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.0939,
-   "lon": 7.9211,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/cinzano/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "foglizzo",
-   "nome": "Foglizzo",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.272,
-   "lon": 7.8232,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/foglizzo/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "gassino-torinese",
-   "nome": "Gassino Torinese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1275,
-   "lon": 7.8249,
-   "zone": [
-    {
-     "id": "1",
-     "nome": "Zona 1 (ex 4 bis)",
-     "file": "comuni/gassino-torinese/zona-1.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3a",
-     "nome": "Zona 3A",
-     "file": "comuni/gassino-torinese/zona-3a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3b",
-     "nome": "Zona 3B",
-     "file": "comuni/gassino-torinese/zona-3b.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "4",
-     "nome": "Zona 4",
-     "file": "comuni/gassino-torinese/zona-4.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "lauriano",
-   "nome": "Lauriano",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1585,
-   "lon": 7.9917,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/lauriano/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "leini",
-   "nome": "Leinì",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1839,
-   "lon": 7.7151,
-   "zone": [
-    {
-     "id": "1",
-     "nome": "Zona 1",
-     "file": "comuni/leini/zona-1.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2",
-     "nome": "Zona 2",
-     "file": "comuni/leini/zona-2.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3a",
-     "nome": "Zona 3A",
-     "file": "comuni/leini/zona-3a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3b",
-     "nome": "Zona 3B",
-     "file": "comuni/leini/zona-3b.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "4",
-     "nome": "Zona 4",
-     "file": "comuni/leini/zona-4.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "5",
-     "nome": "Zona 5",
-     "file": "comuni/leini/zona-5.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "6",
-     "nome": "Zona 6",
-     "file": "comuni/leini/zona-6.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "lombardore",
-   "nome": "Lombardore",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.2357,
-   "lon": 7.7363,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/lombardore/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "lubriano",
-   "nome": "Lubriano",
-   "provincia": "VT",
-   "gestore": "Idealservice",
-   "lat": 42.6353,
-   "lon": 12.1071,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/lubriano/zona-unica.json",
-     "valido_al": "2026-12-31"
-    }
-   ],
-   "regole": "regole/lubriano.json"
-  },
-  {
-   "id": "mappano",
-   "nome": "Mappano",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1475,
-   "lon": 7.707,
-   "zone": [
-    {
-     "id": "a",
-     "nome": "Zona A",
-     "file": "comuni/mappano/zona-a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "b",
-     "nome": "Zona B",
-     "file": "comuni/mappano/zona-b.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "montanaro",
-   "nome": "Montanaro",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.2329,
-   "lon": 7.8528,
-   "zone": [
-    {
-     "id": "1",
-     "nome": "Zona 1",
-     "file": "comuni/montanaro/zona-1.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2",
-     "nome": "Zona 2",
-     "file": "comuni/montanaro/zona-2.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "monteu-da-po",
-   "nome": "Monteu da Po",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1505,
-   "lon": 8.0148,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/monteu-da-po/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "orvieto",
-   "nome": "Orvieto",
-   "provincia": "TR",
-   "gestore": "COSP Tecno Service",
-   "consorzio": "orvieto",
-   "lat": 42.7182,
-   "lon": 12.1083,
-   "zone": [
-    {
-     "id": "nord-area-vasta",
-     "nome": "Nord – area vasta (frazioni e case sparse)",
-     "file": "comuni/orvieto/zona-nord-area-vasta.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "rivalba",
-   "nome": "Rivalba",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1188,
-   "lon": 7.887,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/rivalba/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "rondissone",
-   "nome": "Rondissone",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.2468,
-   "lon": 7.9658,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/rondissone/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "san-benigno-canavese",
-   "nome": "San Benigno Canavese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.224,
-   "lon": 7.7827,
-   "zone": [
-    {
-     "id": "nord",
-     "nome": "Zona Nord",
-     "file": "comuni/san-benigno-canavese/zona-nord.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "sud",
-     "nome": "Zona Sud",
-     "file": "comuni/san-benigno-canavese/zona-sud.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "san-mauro-torinese",
-   "nome": "San Mauro Torinese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1031,
-   "lon": 7.7663,
-   "zone": [
-    {
-     "id": "capoluogo",
-     "nome": "Zona Capoluogo",
-     "file": "comuni/san-mauro-torinese/zona-capoluogo.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "oltrepo",
-     "nome": "Zona Oltrepò",
-     "file": "comuni/san-mauro-torinese/zona-oltrepo.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "san-raffaele-cimena",
-   "nome": "San Raffaele Cimena",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1472,
-   "lon": 7.8487,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/san-raffaele-cimena/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "san-sebastiano-da-po",
-   "nome": "San Sebastiano da Po",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1664,
-   "lon": 7.9535,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/san-sebastiano-da-po/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "sciolze",
-   "nome": "Sciolze",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.095,
-   "lon": 7.8777,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/sciolze/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "settimo-torinese",
-   "nome": "Settimo Torinese",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.137,
-   "lon": 7.7712,
-   "zone": [
-    {
-     "id": "1",
-     "nome": "Zona 1",
-     "file": "comuni/settimo-torinese/zona-1.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2",
-     "nome": "Zona 2",
-     "file": "comuni/settimo-torinese/zona-2.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "3",
-     "nome": "Zona 3",
-     "file": "comuni/settimo-torinese/zona-3.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "4",
-     "nome": "Zona 4",
-     "file": "comuni/settimo-torinese/zona-4.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "5",
-     "nome": "Zona 5",
-     "file": "comuni/settimo-torinese/zona-5.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "6",
-     "nome": "Zona 6",
-     "file": "comuni/settimo-torinese/zona-6.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "torrazza-piemonte",
-   "nome": "Torrazza Piemonte",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.2152,
-   "lon": 7.9749,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/torrazza-piemonte/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "verolengo",
-   "nome": "Verolengo",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.189,
-   "lon": 7.9672,
-   "zone": [
-    {
-     "id": "1a",
-     "nome": "Zona 1A",
-     "file": "comuni/verolengo/zona-1a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "1b",
-     "nome": "Zona 1B",
-     "file": "comuni/verolengo/zona-1b.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2a",
-     "nome": "Zona 2A",
-     "file": "comuni/verolengo/zona-2a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "2b",
-     "nome": "Zona 2B",
-     "file": "comuni/verolengo/zona-2b.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "verrua-savoia",
-   "nome": "Verrua Savoia",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.1566,
-   "lon": 8.0931,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Zona unica",
-     "file": "comuni/verrua-savoia/zona-unica.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
-  },
-  {
-   "id": "volpiano",
-   "nome": "Volpiano",
-   "provincia": "TO",
-   "gestore": "SETA S.p.A.",
-   "consorzio": "cb16",
-   "lat": 45.2019,
-   "lon": 7.7756,
-   "zone": [
-    {
-     "id": "centro",
-     "nome": "Zona Centro",
-     "file": "comuni/volpiano/zona-centro.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "est-a",
-     "nome": "Zona Est A",
-     "file": "comuni/volpiano/zona-est-a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "est-b",
-     "nome": "Zona Est B",
-     "file": "comuni/volpiano/zona-est-b.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "ovest-a",
-     "nome": "Zona Ovest A",
-     "file": "comuni/volpiano/zona-ovest-a.json",
-     "valido_al": "2027-01-31"
-    },
-    {
-     "id": "ovest-b",
-     "nome": "Zona Ovest B",
-     "file": "comuni/volpiano/zona-ovest-b.json",
-     "valido_al": "2027-01-31"
-    }
-   ]
+  "tipi_en": {
+    "organico": "Organic",
+    "carta": "Paper",
+    "vetro": "Glass",
+    "plastica": "Plastic",
+    "indifferenziato": "General waste",
+    "sfalci": "Garden waste"
   }
- ],
- "consorzi": {
-  "cb16": {
-   "nome": "Consorzio di Area Vasta CB16",
-   "gestore": "SETA S.p.A.",
-   "ecocentri": "ecocentri/cb16.json",
-   "regole": "regole/cb16.json"
-  },
-  "orvieto": {
-   "nome": "Comune di Orvieto",
-   "gestore": "COSP Tecno Service",
-   "ecocentri": "ecocentri/orvieto.json",
-   "regole": "regole/orvieto.json"
-  }
- },
- "tipi_en": {
-  "organico": "Organic",
-  "carta": "Paper",
-  "vetro": "Glass",
-  "plastica": "Plastic",
-  "indifferenziato": "General waste",
-  "sfalci": "Garden waste"
- }
 }
