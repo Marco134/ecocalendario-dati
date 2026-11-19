@@ -122,8 +122,8 @@
       "account": null,
       "account_en": null,
       "telefono": "800055505",
-      "orari": "Lun–ven 9:00–13:00 e 14:00–17:00 (numero dell’ATI 4)",
-      "orari_en": "Mon–Fri 9:00–13:00 and 14:00–17:00 (ATI 4 number)",
+      "orari": "Da rete fissa 800 055 505, da cellulare 0744 409 244 · lun–ven 9:00–13:00 e 14:00–17:00",
+      "orari_en": "Landline 800 055 505, mobile 0744 409 244 · Mon–Fri 9:00–13:00 and 14:00–17:00",
       "data": "comunicata",
       "stampa": "promemoria",
       "cartello": null,
@@ -131,15 +131,19 @@
       "regole": [
         "Gratuito solo per le utenze domestiche",
         "Dopo la richiesta COSP ti contatta per stabilire giorno e orario",
-        "Esporre la sera prima del ritiro, a piano strada davanti al numero civico",
+        "Ingombranti e grandi elettrodomestici: massimo 3 pezzi",
+        "Sfalci e potature: massimo 5 colli, entro 1 m³",
         "Porte e finestre: massimo 5 oggetti per ritiro",
+        "Esporre la sera prima del ritiro, a piano strada davanti al numero civico",
         "Il modulo chiede codice utente e codice fiscale"
       ],
       "regole_en": [
         "Free for households only",
         "After your request COSP contacts you to set day and time",
-        "Put items out the evening before, at street level by your house number",
+        "Bulky items and large appliances: up to 3 pieces",
+        "Grass cuttings and prunings: up to 5 bundles, within 1 m³",
         "Doors and windows: up to 5 items per pickup",
+        "Put items out the evening before, at street level by your house number",
         "The form asks for your user code and tax code"
       ],
       "fonte": "https://www.cosptecnoservice.it/rifiuti-ingombranti-e-raee/",

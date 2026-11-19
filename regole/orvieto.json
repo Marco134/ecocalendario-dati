@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "nome": "COSP Tecno Service · Orvieto",
- "fonte": "Calendario Orvieto Nord 2026 (raccolta \"Plastica e metalli\")",
+ "fonte": "Calendario Orvieto Nord 2026 (raccolta \"Plastica e metalli\"); Abecedario della differenziata COSP / ASM Terni (ATI 4)",
  "voci": {
   "lattine di alluminio": {
    "dove": "plastica",
@@ -27,6 +27,2844 @@
  },
  "verificato": {
   "voci": "2026-11-18, calendario COSP Orvieto Nord 2026",
-  "colori": "da verificare"
- }
+  "colori": "da verificare",
+  "extra": "2026-11-19, Abecedario della differenziata COSP (ATI 4)"
+ },
+ "extra": [
+  {
+   "nome": "abito",
+   "nome_en": "clothes",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "accendino",
+   "nome_en": "lighter",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "acciaio, oggetti di grandi dimensioni",
+   "nome_en": "steel, large objects",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "acciaio, oggetti di piccole dimensioni",
+   "nome_en": "steel, small objects",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "accumulatore per auto",
+   "nome_en": "car battery (accumulator)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "acetone, contenitore vuoto in plastica",
+   "nome_en": "nail polish remover, empty plastic container",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "acquaragia, contenitore vuoto in metallo",
+   "nome_en": "white spirit, empty metal container",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "addobbo natalizio",
+   "nome_en": "Christmas decoration",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "adesivo",
+   "nome_en": "sticker",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "agenda senza la copertina plastificata",
+   "nome_en": "planner without plastic cover",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "albero di Natale, abete naturale",
+   "nome_en": "Christmas tree, real fir",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "albero di Natale artificiale",
+   "nome_en": "artificial Christmas tree",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "alcool, contenitore vuoto in plastica",
+   "nome_en": "alcohol, empty plastic container",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "alimento",
+   "nome_en": "food",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "alluminio, fogli per alimenti senza residui o piccoli oggetti",
+   "nome_en": "aluminium food foil without residue or small objects",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "alluminio, oggetti di grandi dimensioni",
+   "nome_en": "aluminium, large objects",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "amianto",
+   "nome_en": "asbestos",
+   "dove": "varia",
+   "nota": "Rivolgiti a una ditta specializzata.",
+   "nota_en": "Contact a specialised company."
+  },
+  {
+   "nome": "ammoniaca, contenitore vuoto in plastica",
+   "nome_en": "ammonia, empty plastic container",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "anta di ferro di armadi o finestre",
+   "nome_en": "iron wardrobe or window door",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "antenna",
+   "nome_en": "antenna",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "apparecchiature elettroniche di grandi dimensioni",
+   "nome_en": "large electronic equipment",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "apparecchiature elettroniche di piccole dimensioni",
+   "nome_en": "small electronic equipment",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "apriscatole",
+   "nome_en": "can opener",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "armadio",
+   "nome_en": "wardrobe",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "asciugacapelli",
+   "nome_en": "hair dryer",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "aspirapolvere",
+   "nome_en": "vacuum cleaner",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "asse da stiro",
+   "nome_en": "ironing board",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "assorbente",
+   "nome_en": "sanitary pad",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "astuccio scolastico, del mascara, del rossetto",
+   "nome_en": "pencil case, mascara or lipstick case",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "attaccapanni",
+   "nome_en": "coat stand",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "attrezzatura sportiva (cyclette, sci, racchetta da tennis)",
+   "nome_en": "sports equipment (exercise bike, skis, tennis racket)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "avanzo di pasto",
+   "nome_en": "meal leftovers",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bacinella in plastica",
+   "nome_en": "plastic basin",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "bambola",
+   "nome_en": "doll",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bambù",
+   "nome_en": "bamboo",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "bandiera",
+   "nome_en": "flag",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "barattolo in metallo",
+   "nome_en": "metal can",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "barattolo in plastica",
+   "nome_en": "plastic jar",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "barattolo in vetro",
+   "nome_en": "glass jar",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bastone della scopa",
+   "nome_en": "broom handle",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "batteria di automobile",
+   "nome_en": "car battery",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "batteria per cellulari",
+   "nome_en": "mobile phone battery",
+   "dove": "pile",
+   "nota": "Contenitori per batterie o centro comunale di raccolta.",
+   "nota_en": "Battery bins or municipal recycling centre."
+  },
+  {
+   "nome": "batteria / pila",
+   "nome_en": "battery",
+   "dove": "pile",
+   "nota": "Contenitori per batterie o centro comunale di raccolta.",
+   "nota_en": "Battery bins or municipal recycling centre."
+  },
+  {
+   "nome": "batuffolo di cotone",
+   "nome_en": "cotton ball",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "baule",
+   "nome_en": "trunk (chest)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "berretto",
+   "nome_en": "cap",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "biancheria intima",
+   "nome_en": "underwear",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "bianchetto",
+   "nome_en": "correction fluid",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bicchiere in plastica",
+   "nome_en": "plastic cup",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bicchiere in vetro",
+   "nome_en": "drinking glass",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bicicletta",
+   "nome_en": "bicycle",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "bigiotteria",
+   "nome_en": "costume jewellery",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "biglia di vetro",
+   "nome_en": "glass marble",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "biscotto",
+   "nome_en": "biscuit",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bistecchiera",
+   "nome_en": "grill pan",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "blister contenente medicine",
+   "nome_en": "blister pack with medicines",
+   "dove": "farmacia",
+   "nota": "Contenitori per farmaci.",
+   "nota_en": "Medicine bins."
+  },
+  {
+   "nome": "blister senza medicine",
+   "nome_en": "blister pack without medicines",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bombola GPL",
+   "nome_en": "LPG cylinder",
+   "dove": "varia",
+   "nota": "Riportalo al rivenditore.",
+   "nota_en": "Take it back to the retailer."
+  },
+  {
+   "nome": "bomboletta spray etichettata T/F",
+   "nome_en": "spray can labelled T/F (toxic/flammable)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "bomboletta spray vuota non etichettata T/F",
+   "nome_en": "empty spray can not labelled T/F",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "borsa in cuoio",
+   "nome_en": "leather bag",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "bottiglia in plastica",
+   "nome_en": "plastic bottle",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bottiglia in vetro",
+   "nome_en": "glass bottle",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "bottone",
+   "nome_en": "button",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "box per bambini",
+   "nome_en": "playpen",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "bucce della frutta",
+   "nome_en": "fruit peel",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "busta per alimenti in plastica",
+   "nome_en": "plastic food bag",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "caffettiera di alluminio",
+   "nome_en": "aluminium coffee pot",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "calamita",
+   "nome_en": "magnet",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "calcinacci da demolizioni domestiche (max 150 kg)",
+   "nome_en": "household building rubble (max 150 kg)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "calcolatrice",
+   "nome_en": "calculator",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "calendario non plastificato",
+   "nome_en": "calendar, not laminated",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "calza e calzino",
+   "nome_en": "sock and stocking",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "candeggina, contenitore vuoto in plastica",
+   "nome_en": "bleach, empty plastic container",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "candela",
+   "nome_en": "candle",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "canna da pesca",
+   "nome_en": "fishing rod",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "capelli",
+   "nome_en": "hair",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cappello",
+   "nome_en": "hat",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "capsule del caffè",
+   "nome_en": "coffee capsules",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "card plastificata tipo bancomat",
+   "nome_en": "plastic card (bank card type)",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carne",
+   "nome_en": "meat",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carrozzina",
+   "nome_en": "pram",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "carta argentata dell'uovo di Pasqua",
+   "nome_en": "Easter egg foil wrap",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta carbone",
+   "nome_en": "carbon paper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta chimica degli scontrini e dei fax",
+   "nome_en": "thermal paper (receipts, faxes)",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta copiativa delle ricevute fiscali",
+   "nome_en": "carbonless receipt paper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta da forno",
+   "nome_en": "baking paper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta delle caramelle",
+   "nome_en": "sweet wrappers",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta oleata o plastificata",
+   "nome_en": "greaseproof or laminated paper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta per alimenti plastificata",
+   "nome_en": "plastic-coated food paper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta plastificata",
+   "nome_en": "laminated paper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta stagnola in alluminio senza residui alimentari",
+   "nome_en": "aluminium foil without food residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "carta vetrata",
+   "nome_en": "sandpaper",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cartone per bevande tipo Tetra Pak",
+   "nome_en": "Tetra Pak drink carton",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cartone per pizza, parti pulite senza residui alimentari",
+   "nome_en": "pizza box, clean parts without food",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cartuccia di toner",
+   "nome_en": "toner cartridge",
+   "dove": "varia",
+   "nota": "Riportalo al rivenditore.",
+   "nota_en": "Take it back to the retailer."
+  },
+  {
+   "nome": "casco per moto e motorino",
+   "nome_en": "motorbike or scooter helmet",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "cassetta audio/video",
+   "nome_en": "audio/video cassette",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cassetta di legno",
+   "nome_en": "wooden crate",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "cassetta in plastica della frutta e della verdura",
+   "nome_en": "plastic fruit and vegetable crate",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "CD e CD-ROM",
+   "nome_en": "CD and CD-ROM",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cellophane, pellicola",
+   "nome_en": "cellophane, film",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cellulare",
+   "nome_en": "mobile phone",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "cenere del camino",
+   "nome_en": "fireplace ash",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cera",
+   "nome_en": "wax",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "ceramica, stoviglie",
+   "nome_en": "ceramic dishes",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cerchione auto privo di pneumatico",
+   "nome_en": "car rim without tyre",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "cerotto",
+   "nome_en": "sticking plaster",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "chiodi",
+   "nome_en": "nails",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "chiusura dello yogurt senza residui alimentari",
+   "nome_en": "yogurt lid without food residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "ciabatta (calzatura)",
+   "nome_en": "slipper",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "ciabatta elettrica (multipresa)",
+   "nome_en": "power strip",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "cialda in plastica del caffè",
+   "nome_en": "plastic coffee pod",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cibo",
+   "nome_en": "food",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cintura",
+   "nome_en": "belt",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "colla",
+   "nome_en": "glue",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "computer",
+   "nome_en": "computer",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE, centro comunale di raccolta o ritiro ingombranti gratuito a domicilio (max 3 pezzi).",
+   "nota_en": "Small electrical waste (WEEE) bins, municipal recycling centre or free bulky waste home pickup (max 3 pieces)."
+  },
+  {
+   "nome": "congelatore",
+   "nome_en": "freezer",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "contenitore della pizza, parti pulite senza residui alimentari",
+   "nome_en": "pizza container, clean parts without food",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "contenitore in plastica sagomato per le uova",
+   "nome_en": "shaped plastic egg box",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "contenitore in vetro",
+   "nome_en": "glass container",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "contenitore Tetra Pak di latte, succhi, vino",
+   "nome_en": "Tetra Pak carton of milk, juice, wine",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "coperta",
+   "nome_en": "blanket",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "cornice",
+   "nome_en": "picture frame",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "cotone idrofilo",
+   "nome_en": "cotton wool",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cotton fioc",
+   "nome_en": "cotton buds",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cozze",
+   "nome_en": "mussel shells",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cristallo",
+   "nome_en": "crystal",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "cuoio",
+   "nome_en": "leather",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "cuscino",
+   "nome_en": "cushion / pillow",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "damigiana",
+   "nome_en": "demijohn",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "decoder",
+   "nome_en": "decoder",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "deiezioni canine",
+   "nome_en": "dog waste",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "dentiera",
+   "nome_en": "dentures",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "dentifricio, tubetto vuoto",
+   "nome_en": "toothpaste, empty tube",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "deodorante, contenitore vuoto",
+   "nome_en": "deodorant, empty container",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "depliant non plastificato",
+   "nome_en": "leaflet, not laminated",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "detersivo",
+   "nome_en": "detergent",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "detersivo, solo il contenitore di cartone",
+   "nome_en": "detergent, cardboard box only",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "dischetto per PC",
+   "nome_en": "computer diskette",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "disco in vinile",
+   "nome_en": "vinyl record",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "divano",
+   "nome_en": "sofa",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "DVD",
+   "nome_en": "DVD",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "elastico",
+   "nome_en": "rubber band",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "elettrodomestico di piccole dimensioni",
+   "nome_en": "small household appliance",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "elettrodomestico di grandi dimensioni",
+   "nome_en": "large household appliance",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "erba in grandi quantità",
+   "nome_en": "grass in large quantities",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "erba in piccole quantità",
+   "nome_en": "grass in small quantities",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "estintore",
+   "nome_en": "fire extinguisher",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "eternit",
+   "nome_en": "eternit (asbestos cement)",
+   "dove": "varia",
+   "nota": "Rivolgiti a una ditta specializzata.",
+   "nota_en": "Contact a specialised company."
+  },
+  {
+   "nome": "etichetta adesiva",
+   "nome_en": "adhesive label",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "evidenziatore",
+   "nome_en": "highlighter",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "farinacei",
+   "nome_en": "flour-based foods",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "farmaco",
+   "nome_en": "medicine",
+   "dove": "farmacia",
+   "nota": "Contenitori per farmaci.",
+   "nota_en": "Medicine bins."
+  },
+  {
+   "nome": "fazzoletto di carta",
+   "nome_en": "paper tissue",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "federa",
+   "nome_en": "pillowcase",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "feltrino",
+   "nome_en": "felt pad",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "ferro da stiro",
+   "nome_en": "clothes iron",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "ferro, oggetti di grandi dimensioni",
+   "nome_en": "iron, large objects",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "ferro, oggetti di piccole dimensioni",
+   "nome_en": "iron, small objects",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "fiala in vetro",
+   "nome_en": "glass vial",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "fiammifero",
+   "nome_en": "match",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "filo elettrico",
+   "nome_en": "electric wire",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "filo interdentale",
+   "nome_en": "dental floss",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "filtro di tè, caffè, tisane",
+   "nome_en": "tea, coffee or herbal tea filter",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "fiore finto",
+   "nome_en": "artificial flower",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "fiori in piccole quantità",
+   "nome_en": "flowers in small quantities",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "flacone di detergenti o cosmetici in plastica",
+   "nome_en": "plastic detergent or cosmetics bottle",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "floppy disc",
+   "nome_en": "floppy disk",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "foglie in piccole quantità",
+   "nome_en": "leaves in small quantities",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "foglio di alluminio",
+   "nome_en": "aluminium foil sheet",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "foglio di carta o cartone",
+   "nome_en": "sheet of paper or cardboard",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "fondo di caffè o tè",
+   "nome_en": "coffee grounds or tea leaves",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "forbice",
+   "nome_en": "scissors",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "formaggi",
+   "nome_en": "cheese",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "forno a gas, elettrico o a microonde",
+   "nome_en": "gas, electric or microwave oven",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "fotocopia",
+   "nome_en": "photocopy",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "fotografia",
+   "nome_en": "photograph",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "frigorifero",
+   "nome_en": "fridge",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "frutta",
+   "nome_en": "fruit",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "garze usate per medicazione",
+   "nome_en": "used medical gauze",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "giocattolo elettronico",
+   "nome_en": "electronic toy",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "giocattolo in plastica di grandi dimensioni",
+   "nome_en": "large plastic toy",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "giocattolo in plastica di piccole dimensioni",
+   "nome_en": "small plastic toy",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "giornale",
+   "nome_en": "newspaper",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "gomma da cancellare",
+   "nome_en": "eraser",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "gomma da masticare",
+   "nome_en": "chewing gum",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "gommapiuma",
+   "nome_en": "foam rubber",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "grattugia di metallo",
+   "nome_en": "metal grater",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "grattugia elettrica",
+   "nome_en": "electric grater",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "guanto in gomma, lattice, usa e getta",
+   "nome_en": "rubber, latex or disposable glove",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "guanto in lana o cotone",
+   "nome_en": "wool or cotton glove",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "guarnizione",
+   "nome_en": "gasket",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "guscio di molluschi",
+   "nome_en": "shellfish shell",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "guscio di uova",
+   "nome_en": "eggshell",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "imballaggio in carta e cartone privo di adesivo e plastica",
+   "nome_en": "paper and cardboard packaging without tape or plastic",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "imballaggio con il simbolo CA",
+   "nome_en": "packaging with the CA symbol",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "imballaggio in metallo",
+   "nome_en": "metal packaging",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "imballaggio in plastica del sottovuoto",
+   "nome_en": "vacuum-pack plastic packaging",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "imballaggio in plastica in generale",
+   "nome_en": "plastic packaging in general",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "imballaggio in polistirolo",
+   "nome_en": "polystyrene packaging",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "incarto trasparente per alimenti",
+   "nome_en": "clear food wrapping",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "isolante",
+   "nome_en": "insulation material",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "lacca, bomboletta spray vuota",
+   "nome_en": "hairspray, empty spray can",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "laccio per scarpe",
+   "nome_en": "shoelace",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "lametta, solo la lama in metallo",
+   "nome_en": "razor, metal blade only",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lametta usa e getta",
+   "nome_en": "disposable razor blade",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lampadario",
+   "nome_en": "ceiling lamp",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "lampadina a incandescenza",
+   "nome_en": "incandescent light bulb",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lampadina a neon",
+   "nome_en": "neon light bulb",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "lampadina a risparmio energetico",
+   "nome_en": "energy-saving light bulb",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "lastra di vetro",
+   "nome_en": "glass pane",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "lastra radiografica",
+   "nome_en": "X-ray film",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "latta vuota",
+   "nome_en": "empty tin",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lattina in acciaio, alluminio, banda stagnata",
+   "nome_en": "steel, aluminium or tinplate can",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lavastoviglie",
+   "nome_en": "dishwasher",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "lavatrice",
+   "nome_en": "washing machine",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "legno trattato o naturale",
+   "nome_en": "treated or natural wood",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "lente di ingrandimento",
+   "nome_en": "magnifying glass",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lente di occhiali",
+   "nome_en": "spectacle lens",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lenzuola",
+   "nome_en": "bed sheets",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "lettiera per animali",
+   "nome_en": "pet litter",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "libro senza la copertina plastificata",
+   "nome_en": "book without plastic cover",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lisca di pesce",
+   "nome_en": "fish bone",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "lucidascarpe",
+   "nome_en": "shoe polish",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "macerie da demolizioni domestiche (max 150 kg)",
+   "nome_en": "household demolition rubble (max 150 kg)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "mastice",
+   "nome_en": "mastic",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "materasso",
+   "nome_en": "mattress",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "materiale elettrico",
+   "nome_en": "electrical material",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "materiale in legno",
+   "nome_en": "wooden material",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "matita",
+   "nome_en": "pencil",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "mattoni e mattonelle da demolizioni domestiche (max 150 kg)",
+   "nome_en": "bricks and tiles from household demolition (max 150 kg)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "medicina",
+   "nome_en": "medicine",
+   "dove": "farmacia",
+   "nota": "Contenitori per farmaci.",
+   "nota_en": "Medicine bins."
+  },
+  {
+   "nome": "mensola in legno",
+   "nome_en": "wooden shelf",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "metallo in grandi quantità",
+   "nome_en": "metal in large quantities",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "metro in legno",
+   "nome_en": "wooden folding rule",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "metro in plastica",
+   "nome_en": "plastic tape measure",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "mobile",
+   "nome_en": "furniture",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "molletta per stendere in plastica",
+   "nome_en": "plastic clothes peg",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "monitor",
+   "nome_en": "monitor",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE, centro comunale di raccolta o ritiro ingombranti gratuito a domicilio (max 3 pezzi).",
+   "nota_en": "Small electrical waste (WEEE) bins, municipal recycling centre or free bulky waste home pickup (max 3 pieces)."
+  },
+  {
+   "nome": "mozzicone di sigaretta",
+   "nome_en": "cigarette butt",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "musicassetta",
+   "nome_en": "music cassette",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "nastro adesivo",
+   "nome_en": "adhesive tape",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "nastro per regali",
+   "nome_en": "gift ribbon",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "negativo fotografico",
+   "nome_en": "photo negative",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "neon",
+   "nome_en": "neon tube",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "nocciolo",
+   "nome_en": "fruit stone",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "nylon, retine da imballaggio",
+   "nome_en": "nylon packaging net",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "occhiali",
+   "nome_en": "glasses",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "olio minerale",
+   "nome_en": "mineral oil",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "olio vegetale",
+   "nome_en": "vegetable oil",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "ombrello e ombrellone",
+   "nome_en": "umbrella and parasol",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "ossa di grandi dimensioni",
+   "nome_en": "large bones",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "ossa di piccole dimensioni",
+   "nome_en": "small bones",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "ovatta",
+   "nome_en": "cotton wadding",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "padella",
+   "nome_en": "frying pan",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "paglia in piccole quantità",
+   "nome_en": "straw in small quantities",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pallet (pedana da imballaggio)",
+   "nome_en": "pallet",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "pallone da gioco",
+   "nome_en": "ball",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pane",
+   "nome_en": "bread",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "panno elettrostatico",
+   "nome_en": "electrostatic duster cloth",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pannolino, pannolone",
+   "nome_en": "nappy, incontinence pad",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pasta alimentare",
+   "nome_en": "pasta",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pelle di camoscio",
+   "nome_en": "chamois leather",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "pellicola fotografica",
+   "nome_en": "photographic film",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pellicola in plastica",
+   "nome_en": "plastic film",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "peluche",
+   "nome_en": "soft toy",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "penna e pennarello",
+   "nome_en": "pen and marker",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pennello",
+   "nome_en": "paintbrush",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pentola",
+   "nome_en": "saucepan",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "pergamena",
+   "nome_en": "parchment",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "persiana",
+   "nome_en": "shutter",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "pesce",
+   "nome_en": "fish",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pettine in plastica",
+   "nome_en": "plastic comb",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pettine in altri materiali",
+   "nome_en": "comb in other materials",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "piastrina per zanzare",
+   "nome_en": "mosquito repellent tablet",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "piatto in ceramica, singolo o pochi pezzi",
+   "nome_en": "ceramic plate, single or a few pieces",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "piatto in ceramica, molti pezzi o servizio intero",
+   "nome_en": "ceramic plates, many pieces or full set",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "piatto in plastica senza residui alimentari",
+   "nome_en": "plastic plate without food residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pila esausta",
+   "nome_en": "used battery",
+   "dove": "pile",
+   "nota": "Contenitori per batterie o centro comunale di raccolta.",
+   "nota_en": "Battery bins or municipal recycling centre."
+  },
+  {
+   "nome": "pneumatico",
+   "nome_en": "tyre",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "polistirolo da imballaggio",
+   "nome_en": "packaging polystyrene",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "poltrona",
+   "nome_en": "armchair",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "polvere",
+   "nome_en": "dust",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "porcellana, stoviglie",
+   "nome_en": "porcelain dishes",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "porta",
+   "nome_en": "door",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "posata in metallo",
+   "nome_en": "metal cutlery",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "posata in plastica",
+   "nome_en": "plastic cutlery",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "posata usa e getta in plastica",
+   "nome_en": "disposable plastic cutlery",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "preservativo",
+   "nome_en": "condom",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "pubblicità, volantini e stampe pubblicitarie",
+   "nome_en": "advertising leaflets and printed ads",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "quaderno senza la copertina plastificata",
+   "nome_en": "exercise book without plastic cover",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "quadro",
+   "nome_en": "painting",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "racchetta da tennis",
+   "nome_en": "tennis racket",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "radio",
+   "nome_en": "radio",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "radiografia",
+   "nome_en": "X-ray",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "rami in piccole quantità",
+   "nome_en": "branches in small quantities",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "rasoio usa e getta",
+   "nome_en": "disposable razor",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "residui di pulizia domestica",
+   "nome_en": "household cleaning waste",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "rete di confezionamento in plastica per frutta o verdura",
+   "nome_en": "plastic fruit or vegetable net",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "rete per letto",
+   "nome_en": "bed base",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "righello",
+   "nome_en": "ruler",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "rivista senza la copertina plastificata",
+   "nome_en": "magazine without plastic cover",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "rubinetto",
+   "nome_en": "tap",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "rullino fotografico in grandi quantità",
+   "nome_en": "photo film rolls in large quantities",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "rullino fotografico in piccole quantità",
+   "nome_en": "photo film rolls in small quantities",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sacchetto di plastica della confezione degli indumenti",
+   "nome_en": "plastic clothing bag",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sacchetto di plastica per la spesa",
+   "nome_en": "plastic shopping bag",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sacchetto per aspirapolvere",
+   "nome_en": "vacuum cleaner bag",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "salvietta struccante",
+   "nome_en": "make-up remover wipe",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "salvietta cattura polvere",
+   "nome_en": "dust-catching cloth",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sanitario (WC, lavandino, bidet)",
+   "nome_en": "sanitary ware (toilet, sink, bidet)",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "sapone",
+   "nome_en": "soap",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "scaffale",
+   "nome_en": "shelving unit",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "scala / scalandrino",
+   "nome_en": "ladder / step ladder",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "scarpe",
+   "nome_en": "shoes",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "scarti delle verdure",
+   "nome_en": "vegetable scraps",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "scarti di cucina",
+   "nome_en": "kitchen scraps",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "scatola della pizza, parti pulite senza residui alimentari",
+   "nome_en": "pizza box, clean parts without food",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "scatola e scatolone",
+   "nome_en": "box and carton",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "scatoletta e barattoli ferrosi",
+   "nome_en": "tins and metal cans",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "schedina del lotto, enalotto, totocalcio",
+   "nome_en": "lottery or betting slip",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "schermo del PC",
+   "nome_en": "computer screen",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE, centro comunale di raccolta o ritiro ingombranti gratuito a domicilio (max 3 pezzi).",
+   "nota_en": "Small electrical waste (WEEE) bins, municipal recycling centre or free bulky waste home pickup (max 3 pieces)."
+  },
+  {
+   "nome": "sci",
+   "nome_en": "skis",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "scontrino in carta termica",
+   "nome_en": "thermal paper receipt",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "scopa",
+   "nome_en": "broom",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "secchiello, gioco per bambini",
+   "nome_en": "toy bucket",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sedia e sdraio",
+   "nome_en": "chair and deckchair",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "sfalci e potature in piccole quantità",
+   "nome_en": "grass cuttings and prunings in small quantities",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sigaretta",
+   "nome_en": "cigarette",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "siringa completa di ago",
+   "nome_en": "syringe with needle",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "smalto per unghie",
+   "nome_en": "nail polish",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "spazzola",
+   "nome_en": "hairbrush",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "spazzolino da denti non elettrico",
+   "nome_en": "non-electric toothbrush",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "specchio",
+   "nome_en": "mirror",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "spugna",
+   "nome_en": "sponge",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "stagnola senza residui alimentari",
+   "nome_en": "foil without food residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "stampante",
+   "nome_en": "printer",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "stampe pubblicitarie, volantini, manifesti",
+   "nome_en": "printed ads, leaflets, posters",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "stampelle",
+   "nome_en": "hangers / crutches",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "stecco in legno per gelati",
+   "nome_en": "wooden ice-cream stick",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "stendino",
+   "nome_en": "clothes airer",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "stereo",
+   "nome_en": "stereo",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "stoviglie",
+   "nome_en": "dishes",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "strumento musicale",
+   "nome_en": "musical instrument",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "stuzzicadenti",
+   "nome_en": "toothpick",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "sughero, pannello",
+   "nome_en": "cork panel",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "sughero, tappo",
+   "nome_en": "cork stopper",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tagliere in legno",
+   "nome_en": "wooden chopping board",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "tagliere in plastica",
+   "nome_en": "plastic chopping board",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tanica",
+   "nome_en": "jerrycan",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "tapparella",
+   "nome_en": "roller shutter",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "tappetino antiscivolo",
+   "nome_en": "non-slip mat",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tappeto",
+   "nome_en": "rug",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "tappezzeria",
+   "nome_en": "upholstery",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "tappo di barattolo",
+   "nome_en": "jar lid",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tappo di sughero",
+   "nome_en": "cork",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tastiera del computer",
+   "nome_en": "computer keyboard",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "tavolo",
+   "nome_en": "table",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "tazzina in ceramica",
+   "nome_en": "ceramic cup",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "telecomando",
+   "nome_en": "remote control",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "telefono",
+   "nome_en": "telephone",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "televisore",
+   "nome_en": "television",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "tenda in stoffa",
+   "nome_en": "fabric curtain",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "termometro",
+   "nome_en": "thermometer",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "termosifone",
+   "nome_en": "radiator",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "terracotta, oggetti vari",
+   "nome_en": "terracotta items",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "Tetra Pak",
+   "nome_en": "Tetra Pak",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "toner",
+   "nome_en": "toner",
+   "dove": "varia",
+   "nota": "Riportalo al rivenditore.",
+   "nota_en": "Take it back to the retailer."
+  },
+  {
+   "nome": "tovaglia in carta non unta e senza residui alimentari",
+   "nome_en": "paper tablecloth, not greasy and without food",
+   "dove": "carta",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tovagliolo di carta pulito",
+   "nome_en": "clean paper napkin",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tovagliolo di carta sporco di cibo",
+   "nome_en": "paper napkin with food",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tovagliolo di carta sporco di sostanze chimiche e detergenti",
+   "nome_en": "paper napkin with chemicals or detergents",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "trucco",
+   "nome_en": "make-up",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tubetto di colore vuoto",
+   "nome_en": "empty paint tube",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tubetto di dentifricio vuoto",
+   "nome_en": "empty toothpaste tube",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "tubo al neon",
+   "nome_en": "neon tube",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "tubo in ferro",
+   "nome_en": "iron pipe",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "tubo in gomma",
+   "nome_en": "rubber hose",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "uncinetto di metallo",
+   "nome_en": "metal crochet hook",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "unghie",
+   "nome_en": "nail clippings",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "uova",
+   "nome_en": "eggs",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "valigia",
+   "nome_en": "suitcase",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "vaschetta di alluminio senza residui alimentari",
+   "nome_en": "aluminium tray without food residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vaschetta di polistirolo senza residui alimentari",
+   "nome_en": "polystyrene tray without food residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vaschetta per alimenti in plastica o metallo senza avanzi",
+   "nome_en": "plastic or metal food tray without leftovers",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vasetto dello yogurt in plastica senza residui alimentari",
+   "nome_en": "plastic yogurt pot without residue",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vasetto dello yogurt in vetro senza residui alimentari",
+   "nome_en": "glass yogurt jar without residue",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vasetto in vetro",
+   "nome_en": "glass jar",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vaso in plastica, solo se conteneva piante acquistate",
+   "nome_en": "plastic plant pot (only from bought plants)",
+   "dove": "plastica",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vaso in plastica, terracotta o vetro di grandi dimensioni",
+   "nome_en": "large plastic, terracotta or glass pot",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "vaso in plastica, terracotta o vetro di piccole dimensioni",
+   "nome_en": "small plastic, terracotta or glass pot",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "veneziane",
+   "nome_en": "Venetian blinds",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta o ritiro ingombranti gratuito a domicilio su prenotazione (max 3 pezzi).",
+   "nota_en": "Municipal recycling centre or free bulky waste home pickup by booking (max 3 pieces)."
+  },
+  {
+   "nome": "verdura",
+   "nome_en": "vegetables",
+   "dove": "organico",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vestito",
+   "nome_en": "clothing",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "vetro: bottiglie, barattoli, bicchieri",
+   "nome_en": "glass: bottles, jars, glasses",
+   "dove": "vetro",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "vetro: damigiane",
+   "nome_en": "glass demijohns",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "vetro in lastre",
+   "nome_en": "sheet glass",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "videocassetta",
+   "nome_en": "videotape",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "videoregistratore",
+   "nome_en": "video recorder",
+   "dove": "centro",
+   "nota": "Contenitori per piccoli RAEE o centro comunale di raccolta.",
+   "nota_en": "Small electrical waste (WEEE) bins or municipal recycling centre."
+  },
+  {
+   "nome": "zaino",
+   "nome_en": "backpack",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  },
+  {
+   "nome": "zanzariera",
+   "nome_en": "mosquito net",
+   "dove": "indifferenziato",
+   "nota": "",
+   "nota_en": ""
+  },
+  {
+   "nome": "zappa",
+   "nome_en": "hoe",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "zerbino",
+   "nome_en": "doormat",
+   "dove": "centro",
+   "nota": "Centro comunale di raccolta.",
+   "nota_en": "Municipal recycling centre."
+  },
+  {
+   "nome": "zoccoli",
+   "nome_en": "clogs",
+   "dove": "indumenti",
+   "nota": "Contenitori per gli abiti.",
+   "nota_en": "Clothing bins."
+  }
+ ]
 }
