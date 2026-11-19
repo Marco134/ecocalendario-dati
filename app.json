@@ -1,7 +1,11 @@
 {
-  "build": 21,
-  "versione": "1.3.3 beta",
+  "build": 23,
+  "versione": "1.4.1 beta",
   "url": "https://github.com/Marco134/ecocalendario/releases/download/apk-prova/eco-calendario-prova.apk",
   "email_richieste": "info.ecocalendario@gmail.com",
-  "ai_url": "https://ecocalendario-ai.info-ecocalendario.workers.dev"
+  "ai_url": "https://ecocalendario-ai.info-ecocalendario.workers.dev",
+  "questionario": {
+    "id": "beta1",
+    "attivo": true
+  }
 }
