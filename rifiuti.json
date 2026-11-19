@@ -19,527 +19,737 @@
   {
    "nome": "abiti e scarpe usati",
    "dove": "indumenti",
-   "nota": "Nei contenitori stradali per indumenti, in sacchi chiusi."
+   "nota": "Nei contenitori stradali per indumenti, in sacchi chiusi.",
+   "nome_en": "used clothes and shoes",
+   "nota_en": "In the street containers for clothes, in closed bags."
   },
   {
    "nome": "assorbenti",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "sanitary pads",
+   "nota_en": ""
   },
   {
    "nome": "avanzi di cibo",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "food leftovers",
+   "nota_en": ""
   },
   {
    "nome": "barattoli di latta",
    "dove": "varia",
-   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "tin cans",
+   "nota_en": "Usually with plastic or with glass. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "barattoli di vetro",
    "dove": "vetro",
-   "nota": ""
+   "nota": "",
+   "nome_en": "glass jars",
+   "nota_en": ""
   },
   {
    "nome": "bicchieri di vetro (non cristallo)",
    "dove": "vetro",
-   "nota": "Il cristallo va nell'indifferenziato."
+   "nota": "Il cristallo va nell'indifferenziato.",
+   "nome_en": "drinking glasses (not crystal)",
+   "nota_en": "Crystal goes in general waste."
   },
   {
    "nome": "blister vuoti (non di farmaci)",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "empty blister packs (not medicines)",
+   "nota_en": ""
   },
   {
    "nome": "bombolette spray vuote",
    "dove": "varia",
-   "nota": "Senza simboli di pericolo di solito con i metalli; con simboli di pericolo al centro di raccolta. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Senza simboli di pericolo di solito con i metalli; con simboli di pericolo al centro di raccolta. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "empty spray cans",
+   "nota_en": "Without hazard symbols usually with metals; with hazard symbols to the recycling centre. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "bottiglie di plastica",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plastic bottles",
+   "nota_en": ""
   },
   {
    "nome": "bottiglie di vetro",
    "dove": "vetro",
-   "nota": ""
+   "nota": "",
+   "nome_en": "glass bottles",
+   "nota_en": ""
   },
   {
    "nome": "bucce di frutta",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "fruit peel",
+   "nota_en": ""
   },
   {
    "nome": "buste da lettera",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "envelopes",
+   "nota_en": ""
   },
   {
    "nome": "buste della pasta",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "pasta bags",
+   "nota_en": ""
   },
   {
    "nome": "calcinacci e macerie",
    "dove": "centro",
-   "nota": "Piccole quantità domestiche al centro di raccolta."
+   "nota": "Piccole quantità domestiche al centro di raccolta.",
+   "nome_en": "rubble and building debris",
+   "nota_en": "Small household amounts to the recycling centre."
   },
   {
    "nome": "capelli e peli",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "hair",
+   "nota_en": ""
   },
   {
    "nome": "capsule di caffè in plastica o alluminio",
    "dove": "varia",
-   "nota": "Svuotate dal caffè seguono plastica o metalli; intere di solito indifferenziato. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Svuotate dal caffè seguono plastica o metalli; intere di solito indifferenziato. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "plastic or aluminium coffee capsules",
+   "nota_en": "Emptied of coffee they go with plastic or metals; whole, usually general waste. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "carta da cucina unta",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "greasy kitchen paper",
+   "nota_en": ""
   },
   {
    "nome": "carta oleata o plastificata",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "waxed or plastic-coated paper",
+   "nota_en": ""
   },
   {
    "nome": "carta stagnola e vaschette di alluminio",
    "dove": "varia",
-   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "aluminium foil and trays",
+   "nota_en": "Usually with plastic or with glass. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "cartone della pizza pulito",
    "dove": "carta",
-   "nota": "Se è molto unto o con residui va nell'organico (a pezzi) o nell'indifferenziato."
+   "nota": "Se è molto unto o con residui va nell'organico (a pezzi) o nell'indifferenziato.",
+   "nome_en": "clean pizza box",
+   "nota_en": "If very greasy or with leftovers, it goes in organic (torn up) or general waste."
   },
   {
    "nome": "cartone ondulato",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "corrugated cardboard",
+   "nota_en": ""
   },
   {
    "nome": "cassette di plastica per ortofrutta",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plastic fruit and vegetable crates",
+   "nota_en": ""
   },
   {
    "nome": "CD e DVD",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "CDs and DVDs",
+   "nota_en": ""
   },
   {
    "nome": "ceramica e porcellana rotte",
    "dove": "indifferenziato",
-   "nota": "Mai nel vetro: rovinano il riciclo."
+   "nota": "Mai nel vetro: rovinano il riciclo.",
+   "nome_en": "broken ceramics and porcelain",
+   "nota_en": "Never in glass: they spoil recycling."
   },
   {
    "nome": "cerotti",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plasters",
+   "nota_en": ""
   },
   {
    "nome": "cialde di caffè compostabili",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "compostable coffee pods",
+   "nota_en": ""
   },
   {
    "nome": "confezioni di merendine",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "snack wrappers",
+   "nota_en": ""
   },
   {
    "nome": "cotton fioc non compostabili",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "non-compostable cotton buds",
+   "nota_en": ""
   },
   {
    "nome": "cristallo",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "crystal",
+   "nota_en": ""
   },
   {
    "nome": "erba tagliata",
    "dove": "sfalci",
-   "nota": ""
+   "nota": "",
+   "nome_en": "grass cuttings",
+   "nota_en": ""
   },
   {
    "nome": "farmaci scaduti",
    "dove": "farmacia",
-   "nota": "Nei contenitori presso le farmacie. La scatola di cartone e il foglietto vanno nella carta."
+   "nota": "Nei contenitori presso le farmacie. La scatola di cartone e il foglietto vanno nella carta.",
+   "nome_en": "expired medicines",
+   "nota_en": "In the containers at pharmacies. The cardboard box and leaflet go in paper."
   },
   {
    "nome": "film da imballaggio",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "packaging film",
+   "nota_en": ""
   },
   {
    "nome": "filtri di tè e tisane",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "tea and herbal tea bags",
+   "nota_en": ""
   },
   {
    "nome": "fiori e piante del giardino",
    "dove": "sfalci",
-   "nota": ""
+   "nota": "",
+   "nome_en": "garden flowers and plants",
+   "nota_en": ""
   },
   {
    "nome": "fiori recisi",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cut flowers",
+   "nota_en": ""
   },
   {
    "nome": "flaconi di detersivo",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "detergent bottles",
+   "nota_en": ""
   },
   {
    "nome": "flaconi di shampoo",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "shampoo bottles",
+   "nota_en": ""
   },
   {
    "nome": "flaconi di vetro dei profumi",
    "dove": "vetro",
-   "nota": ""
+   "nota": "",
+   "nome_en": "glass perfume bottles",
+   "nota_en": ""
   },
   {
    "nome": "fogli e fotocopie",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "paper sheets and photocopies",
+   "nota_en": ""
   },
   {
    "nome": "foglie secche",
    "dove": "sfalci",
-   "nota": ""
+   "nota": "",
+   "nome_en": "dry leaves",
+   "nota_en": ""
   },
   {
    "nome": "fondi di caffè",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "coffee grounds",
+   "nota_en": ""
   },
   {
    "nome": "frigoriferi e lavatrici",
    "dove": "centro",
-   "nota": "Centro di raccolta o ritiro ingombranti a domicilio."
+   "nota": "Centro di raccolta o ritiro ingombranti a domicilio.",
+   "nome_en": "fridges and washing machines",
+   "nota_en": "Recycling centre or bulky waste home collection."
   },
   {
    "nome": "giocattoli rotti senza pile",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "broken toys without batteries",
+   "nota_en": ""
   },
   {
    "nome": "giornali e riviste",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "newspapers and magazines",
+   "nota_en": ""
   },
   {
    "nome": "gomme da masticare",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "chewing gum",
+   "nota_en": ""
   },
   {
    "nome": "guanti in lattice",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "latex gloves",
+   "nota_en": ""
   },
   {
    "nome": "gusci d'uovo",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "eggshells",
+   "nota_en": ""
   },
   {
    "nome": "lampadine a incandescenza",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "incandescent light bulbs",
+   "nota_en": ""
   },
   {
    "nome": "lampadine a LED e a basso consumo",
    "dove": "centro",
-   "nota": "Centro di raccolta, o nei negozi che le vendono."
+   "nota": "Centro di raccolta, o nei negozi che le vendono.",
+   "nome_en": "LED and energy-saving bulbs",
+   "nota_en": "Recycling centre, or the shops that sell them."
   },
   {
    "nome": "lattine di alluminio",
    "dove": "varia",
-   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Di solito con la plastica o con il vetro. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "aluminium cans",
+   "nota_en": "Usually with plastic or with glass. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "legno e cassette di legno",
    "dove": "centro",
-   "nota": "Centro di raccolta."
+   "nota": "Centro di raccolta.",
+   "nome_en": "wood and wooden crates",
+   "nota_en": "Recycling centre."
   },
   {
    "nome": "lettiera del gatto",
    "dove": "indifferenziato",
-   "nota": "Quella vegetale compostabile può andare nell'organico se il gestore lo prevede."
+   "nota": "Quella vegetale compostabile può andare nell'organico se il gestore lo prevede.",
+   "nome_en": "cat litter",
+   "nota_en": "Compostable plant-based litter can go in organic if your operator allows it."
   },
   {
    "nome": "libri",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "books",
+   "nota_en": ""
   },
   {
    "nome": "mascherine",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "face masks",
+   "nota_en": ""
   },
   {
    "nome": "mobili e materassi",
    "dove": "centro",
-   "nota": "Centro di raccolta o ritiro ingombranti a domicilio."
+   "nota": "Centro di raccolta o ritiro ingombranti a domicilio.",
+   "nome_en": "furniture and mattresses",
+   "nota_en": "Recycling centre or bulky waste home collection."
   },
   {
    "nome": "mozziconi di sigaretta",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cigarette butts",
+   "nota_en": ""
   },
   {
    "nome": "nastro adesivo",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "adhesive tape",
+   "nota_en": ""
   },
   {
    "nome": "olio di frittura",
    "dove": "centro",
-   "nota": "Raccolto in bottiglia, al centro di raccolta o nei punti dedicati. Mai nel lavandino."
+   "nota": "Raccolto in bottiglia, al centro di raccolta o nei punti dedicati. Mai nel lavandino.",
+   "nome_en": "frying oil",
+   "nota_en": "Collected in a bottle, at the recycling centre or at dedicated points. Never down the sink."
   },
   {
    "nome": "olio motore",
    "dove": "centro",
-   "nota": "Centro di raccolta."
+   "nota": "Centro di raccolta.",
+   "nome_en": "engine oil",
+   "nota_en": "Recycling centre."
   },
   {
    "nome": "ossa e lische",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "bones and fish bones",
+   "nota_en": ""
   },
   {
    "nome": "pane raffermo",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "stale bread",
+   "nota_en": ""
   },
   {
    "nome": "pannolini",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "nappies",
+   "nota_en": ""
   },
   {
    "nome": "pasta e riso avanzati",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "leftover pasta and rice",
+   "nota_en": ""
   },
   {
    "nome": "pellicola per alimenti",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cling film",
+   "nota_en": ""
   },
   {
    "nome": "penne e pennarelli",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "pens and markers",
+   "nota_en": ""
   },
   {
    "nome": "piatti e bicchieri di plastica usa e getta",
    "dove": "plastica",
-   "nota": "Vuoti e senza residui di cibo."
+   "nota": "Vuoti e senza residui di cibo.",
+   "nome_en": "disposable plastic plates and cups",
+   "nota_en": "Empty and without food leftovers."
   },
   {
    "nome": "piccoli elettrodomestici",
    "dove": "centro",
-   "nota": "Centro di raccolta, o consegna in negozio (ritiro uno contro zero per i piccoli apparecchi)."
+   "nota": "Centro di raccolta, o consegna in negozio (ritiro uno contro zero per i piccoli apparecchi).",
+   "nome_en": "small appliances",
+   "nota_en": "Recycling centre, or return to a shop (one-for-zero take-back for small devices)."
   },
   {
    "nome": "pile e batterie",
    "dove": "pile",
-   "nota": "Negli appositi contenitori presso negozi e supermercati, o al centro di raccolta."
+   "nota": "Negli appositi contenitori presso negozi e supermercati, o al centro di raccolta.",
+   "nome_en": "batteries",
+   "nota_en": "In the dedicated containers in shops and supermarkets, or at the recycling centre."
   },
   {
    "nome": "pirofile e pyrex",
    "dove": "indifferenziato",
-   "nota": "Non vanno nel vetro: fondono a temperatura diversa."
+   "nota": "Non vanno nel vetro: fondono a temperatura diversa.",
+   "nome_en": "oven dishes and Pyrex",
+   "nota_en": "Not in glass: they melt at a different temperature."
   },
   {
    "nome": "pneumatici",
    "dove": "centro",
-   "nota": "Dal gommista o al centro di raccolta, se accettati."
+   "nota": "Dal gommista o al centro di raccolta, se accettati.",
+   "nome_en": "tyres",
+   "nota_en": "At the tyre dealer or the recycling centre, if accepted."
   },
   {
    "nome": "polistirolo da imballaggio",
    "dove": "varia",
-   "nota": "Piccoli pezzi di solito con la plastica; grandi quantità al centro di raccolta. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Piccoli pezzi di solito con la plastica; grandi quantità al centro di raccolta. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "packaging polystyrene",
+   "nota_en": "Small pieces usually with plastic; large amounts to the recycling centre. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "polvere e residui di spazzatura",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "dust and sweepings",
+   "nota_en": ""
   },
   {
    "nome": "portauova in cartone",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cardboard egg boxes",
+   "nota_en": ""
   },
   {
    "nome": "posate di plastica",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plastic cutlery",
+   "nota_en": ""
   },
   {
    "nome": "quaderni",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "notebooks",
+   "nota_en": ""
   },
   {
    "nome": "ramaglie e potature",
    "dove": "sfalci",
-   "nota": "Grandi quantità: al centro di raccolta."
+   "nota": "Grandi quantità: al centro di raccolta.",
+   "nome_en": "branches and prunings",
+   "nota_en": "Large amounts: to the recycling centre."
   },
   {
    "nome": "rasoi usa e getta",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "disposable razors",
+   "nota_en": ""
   },
   {
    "nome": "residui dell'orto",
    "dove": "sfalci",
-   "nota": ""
+   "nota": "",
+   "nome_en": "vegetable garden waste",
+   "nota_en": ""
   },
   {
    "nome": "reti per frutta e verdura",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "fruit and vegetable nets",
+   "nota_en": ""
   },
   {
    "nome": "rotoli di cartone",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cardboard tubes",
+   "nota_en": ""
   },
   {
    "nome": "sacchetti dell'aspirapolvere",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "vacuum cleaner bags",
+   "nota_en": ""
   },
   {
    "nome": "sacchetti di carta",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "paper bags",
+   "nota_en": ""
   },
   {
    "nome": "sacchetti di plastica",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plastic bags",
+   "nota_en": ""
   },
   {
    "nome": "scarti di verdura",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "vegetable scraps",
+   "nota_en": ""
   },
   {
    "nome": "scatole dei cereali",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cereal boxes",
+   "nota_en": ""
   },
   {
    "nome": "scatole di cartone",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "cardboard boxes",
+   "nota_en": ""
   },
   {
    "nome": "scontrini (carta termica)",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "receipts (thermal paper)",
+   "nota_en": ""
   },
   {
    "nome": "siringhe",
    "dove": "indifferenziato",
-   "nota": "Con l'ago protetto dal cappuccio, in un contenitore rigido chiuso."
+   "nota": "Con l'ago protetto dal cappuccio, in un contenitore rigido chiuso.",
+   "nome_en": "syringes",
+   "nota_en": "With the needle protected by its cap, in a closed rigid container."
   },
   {
    "nome": "spazzolino da denti",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "toothbrush",
+   "nota_en": ""
   },
   {
    "nome": "specchi",
    "dove": "indifferenziato",
-   "nota": "Non vanno nel vetro. Se grandi, al centro di raccolta."
+   "nota": "Non vanno nel vetro. Se grandi, al centro di raccolta.",
+   "nome_en": "mirrors",
+   "nota_en": "Not in glass. If large, to the recycling centre."
   },
   {
    "nome": "spugne da cucina",
    "dove": "indifferenziato",
-   "nota": ""
+   "nota": "",
+   "nome_en": "kitchen sponges",
+   "nota_en": ""
   },
   {
    "nome": "stuzzicadenti in legno",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "wooden toothpicks",
+   "nota_en": ""
   },
   {
    "nome": "tappi di plastica",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plastic caps",
+   "nota_en": ""
   },
   {
    "nome": "tappi di sughero",
    "dove": "organico",
-   "nota": "In alcuni comuni esistono raccolte dedicate."
+   "nota": "In alcuni comuni esistono raccolte dedicate.",
+   "nome_en": "cork stoppers",
+   "nota_en": "Some towns have dedicated collections."
   },
   {
    "nome": "telefoni e caricabatterie",
    "dove": "centro",
-   "nota": "Centro di raccolta o consegna in negozio."
+   "nota": "Centro di raccolta o consegna in negozio.",
+   "nome_en": "phones and chargers",
+   "nota_en": "Recycling centre or return to a shop."
   },
   {
    "nome": "televisori e monitor",
    "dove": "centro",
-   "nota": "Centro di raccolta, o ritiro del negozio all'acquisto del nuovo."
+   "nota": "Centro di raccolta, o ritiro del negozio all'acquisto del nuovo.",
+   "nome_en": "TVs and monitors",
+   "nota_en": "Recycling centre, or taken back by the shop when you buy a new one."
   },
   {
    "nome": "termometri a mercurio",
    "dove": "centro",
-   "nota": "Centro di raccolta: rifiuto pericoloso."
+   "nota": "Centro di raccolta: rifiuto pericoloso.",
+   "nome_en": "mercury thermometers",
+   "nota_en": "Recycling centre: hazardous waste."
   },
   {
    "nome": "tetrapak (cartoni di latte e succhi)",
    "dove": "varia",
-   "nota": "Con la carta o con la plastica. Dipende dal comune: controlla le istruzioni del tuo gestore."
+   "nota": "Con la carta o con la plastica. Dipende dal comune: controlla le istruzioni del tuo gestore.",
+   "nome_en": "Tetra Pak (milk and juice cartons)",
+   "nota_en": "With paper or with plastic. It depends on the town: check your collection operator's instructions."
   },
   {
    "nome": "toner e cartucce per stampanti",
    "dove": "centro",
-   "nota": "Centro di raccolta o punti di ritiro dei rivenditori."
+   "nota": "Centro di raccolta o punti di ritiro dei rivenditori.",
+   "nome_en": "printer toner and cartridges",
+   "nota_en": "Recycling centre or retailer collection points."
   },
   {
    "nome": "tovaglioli di carta sporchi di cibo",
    "dove": "organico",
-   "nota": ""
+   "nota": "",
+   "nome_en": "paper napkins with food on them",
+   "nota_en": ""
   },
   {
    "nome": "vaschette di plastica per alimenti",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "plastic food trays",
+   "nota_en": ""
   },
   {
    "nome": "vasetti dello yogurt",
    "dove": "plastica",
-   "nota": ""
+   "nota": "",
+   "nome_en": "yogurt pots",
+   "nota_en": ""
   },
   {
    "nome": "vasetti di vetro",
    "dove": "vetro",
-   "nota": ""
+   "nota": "",
+   "nome_en": "small glass jars",
+   "nota_en": ""
   },
   {
    "nome": "vernici e solventi",
    "dove": "centro",
-   "nota": "Centro di raccolta, nei contenitori originali."
+   "nota": "Centro di raccolta, nei contenitori originali.",
+   "nome_en": "paints and solvents",
+   "nota_en": "Recycling centre, in the original containers."
   },
   {
    "nome": "volantini",
    "dove": "carta",
-   "nota": ""
+   "nota": "",
+   "nome_en": "flyers",
+   "nota_en": ""
   }
  ],
  "foto": {
@@ -1011,5 +1221,19 @@
   "piano": [
    "piccoli elettrodomestici"
   ]
- }
+ },
+ "destinazioni_en": {
+  "organico": "Organic",
+  "carta": "Paper",
+  "vetro": "Glass",
+  "plastica": "Plastic",
+  "indifferenziato": "General waste",
+  "sfalci": "Garden waste",
+  "centro": "Recycling centre",
+  "farmacia": "Pharmacy",
+  "pile": "Battery containers",
+  "indumenti": "Clothing containers",
+  "varia": "Depends on the town"
+ },
+ "avviso_en": "General guidance valid in most towns. Rules can change from one collection operator to another: if in doubt, your operator's rules apply."
 }

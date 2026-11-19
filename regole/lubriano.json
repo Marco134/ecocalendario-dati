@@ -5,23 +5,38 @@
  "voci": {
   "lattine di alluminio": {
    "dove": "vetro",
-   "nota": "A Lubriano lattine e vetro si raccolgono insieme (Vetro e lattine)."
+   "nota": "A Lubriano lattine e vetro si raccolgono insieme (Vetro e lattine).",
+   "nota_en": "In Lubriano cans and glass are collected together (Glass and cans)."
   },
   "barattoli di latta": {
    "dove": "vetro",
-   "nota": "A Lubriano scatole e lattine in banda stagnata vanno con Vetro e lattine."
+   "nota": "A Lubriano scatole e lattine in banda stagnata vanno con Vetro e lattine.",
+   "nota_en": "In Lubriano tin cans go with Glass and cans."
   },
   "carta stagnola e vaschette di alluminio": {
    "dove": "vetro",
-   "nota": "A Lubriano le vaschette in alluminio vanno con Vetro e lattine."
+   "nota": "A Lubriano le vaschette in alluminio vanno con Vetro e lattine.",
+   "nota_en": "In Lubriano aluminium trays go with Glass and cans."
   },
   "polistirolo da imballaggio": {
    "dove": "plastica",
-   "nota": "A Lubriano gli imballaggi in polistirolo vanno con la plastica."
+   "nota": "A Lubriano gli imballaggi in polistirolo vanno con la plastica.",
+   "nota_en": "In Lubriano packaging polystyrene goes with plastic."
   },
   "tetrapak (cartoni di latte e succhi)": {
    "dove": "carta",
-   "nota": "A Lubriano il tetrapak va con carta e cartone."
+   "nota": "A Lubriano il tetrapak va con carta e cartone.",
+   "nota_en": "In Lubriano Tetra Pak goes with paper and cardboard."
   }
+ },
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro e lattine",
+   "nome_en": "Glass and cans"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-18, volantino Idealservice del Comune di Lubriano",
+  "colori": "da verificare"
  }
 }

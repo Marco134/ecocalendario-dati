@@ -5,19 +5,33 @@
  "voci": {
   "lattine di alluminio": {
    "dove": "plastica",
-   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuote e schiacciate."
+   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuote e schiacciate.",
+   "nota_en": "In SETA towns metals are collected with plastic (Plastic and metals collection). Empty and crushed."
   },
   "barattoli di latta": {
    "dove": "plastica",
-   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuoti e sciacquati."
+   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Vuoti e sciacquati.",
+   "nota_en": "In SETA towns metals are collected with plastic (Plastic and metals collection). Empty and rinsed."
   },
   "carta stagnola e vaschette di alluminio": {
    "dove": "plastica",
-   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Pulite da residui di cibo."
+   "nota": "Nei comuni SETA i metalli si raccolgono con la plastica (raccolta Plastica e metalli). Pulite da residui di cibo.",
+   "nota_en": "In SETA towns metals are collected with plastic (Plastic and metals collection). Clean of food leftovers."
   },
   "polistirolo da imballaggio": {
    "dove": "plastica",
-   "nota": "Il polistirolo da imballaggio va con la plastica; grandi quantità al centro di raccolta."
+   "nota": "Il polistirolo da imballaggio va con la plastica; grandi quantità al centro di raccolta.",
+   "nota_en": "Packaging polystyrene goes with plastic; large amounts to the recycling centre."
   }
+ },
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e metalli",
+   "nome_en": "Plastic and metals"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-18, ecocalendario SETA luglio 2026 – gennaio 2027",
+  "colori": "colori dell'app ricavati dagli ecocalendari SETA"
  }
 }

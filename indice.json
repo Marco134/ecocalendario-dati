@@ -819,5 +819,13 @@
    "ecocentri": "ecocentri/orvieto.json",
    "regole": "regole/orvieto.json"
   }
+ },
+ "tipi_en": {
+  "organico": "Organic",
+  "carta": "Paper",
+  "vetro": "Glass",
+  "plastica": "Plastic",
+  "indifferenziato": "General waste",
+  "sfalci": "Garden waste"
  }
 }
