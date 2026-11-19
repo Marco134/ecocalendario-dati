@@ -1,0 +1,22 @@
+{
+ "schema": 1,
+ "comune": "Chianocco",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Entro le 6 del giorno di raccolta o la sera precedente. L’indifferenziato si raccoglie anche nei festivi.",
+ "fonte": "Calendario raccolta rifiuti 2026 Acsel – acselspa.it/wp-content/uploads/2025/12/CHIANOCCO-2026.pdf",
+ "raccolte": {
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ]
+ }
+}

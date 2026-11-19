@@ -216,6 +216,37 @@
       ],
       "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/",
       "verificato": "2026-11-20"
+    },
+    {
+      "id": "acsel",
+      "nome": "Acsel",
+      "gestori": [
+        "Acsel S.p.A."
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "800497052",
+      "orari": "Numero verde Acsel, gratuito anche da cellulare",
+      "orari_en": "Acsel toll-free number, free from mobiles too",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro a domicilio su richiesta al numero verde: massimo 5 pezzi",
+        "Sfalci erbosi a domicilio: massimo 10 sacchi, sempre tramite numero verde",
+        "In alternativa porti ingombranti e verde in uno degli ecocentri consortili della Valle"
+      ],
+      "regole_en": [
+        "Home pickup on request through the toll-free number: up to 5 items",
+        "Grass cuttings at home: up to 10 bags, again through the toll-free number",
+        "Or take bulky items and green waste to any of the Valley’s recycling centres"
+      ],
+      "fonte": "https://www.acselspa.it/calendari-raccolta-rifiuti/",
+      "verificato": "2026-11-20"
     }
   ]
 }

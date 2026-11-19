@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "comune": "Bruzolo",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Entro le 6 del giorno di raccolta o la sera precedente. L’indifferenziato si raccoglie anche nei festivi.",
+ "fonte": "Calendario raccolta rifiuti 2026 Acsel – acselspa.it/wp-content/uploads/2025/12/BRUZOLO-2026.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ]
+ }
+}

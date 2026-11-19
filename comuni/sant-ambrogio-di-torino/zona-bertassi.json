@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "comune": "Sant'Ambrogio di Torino",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "Borgata Bertassi",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Raccolte del mattino: entro le 6 (o la sera prima). Raccolte del pomeriggio: entro le 12 (o la sera prima).",
+ "fonte": "Calendario raccolta rifiuti 2026 Acsel – acselspa.it/wp-content/uploads/2025/12/SANT-AMBROGIO-2026.pdf",
+ "raccolte": {
+  "2026-11-24": [
+   "carta"
+  ],
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-09",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-08"
+  }
+ ]
+}

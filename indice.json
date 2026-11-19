@@ -11,6 +11,23 @@
   },
   "comuni": [
     {
+      "id": "almese",
+      "nome": "Almese",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1169,
+      "lon": 7.3945,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/almese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "alpignano",
       "nome": "Alpignano",
       "provincia": "TO",
@@ -41,6 +58,30 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
     },
     {
+      "id": "avigliana",
+      "nome": "Avigliana",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.0779,
+      "lon": 7.3984,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/avigliana/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/avigliana/zona-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.acselspa.it/calendari-raccolta-rifiuti/"
+    },
+    {
       "id": "borgaro-torinese",
       "nome": "Borgaro Torinese",
       "provincia": "TO",
@@ -60,6 +101,23 @@
           "nome": "Zona B",
           "file": "comuni/borgaro-torinese/zona-b.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "borgone-susa",
+      "nome": "Borgone Susa",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.123,
+      "lon": 7.2409,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/borgone-susa/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -127,6 +185,47 @@
       ]
     },
     {
+      "id": "bruzolo",
+      "nome": "Bruzolo",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1422,
+      "lon": 7.1956,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/bruzolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bussoleno",
+      "nome": "Bussoleno",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1393,
+      "lon": 7.1477,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/bussoleno/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/bussoleno/zona-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.acselspa.it/calendari-raccolta-rifiuti/"
+    },
+    {
       "id": "buttigliera-alta",
       "nome": "Buttigliera Alta",
       "provincia": "TO",
@@ -151,6 +250,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-buttigliera-alta/"
     },
     {
+      "id": "caprie",
+      "nome": "Caprie",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1188,
+      "lon": 7.3319,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/caprie/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "casalborgone",
       "nome": "Casalborgone",
       "provincia": "TO",
@@ -164,6 +280,23 @@
           "nome": "Zona unica",
           "file": "comuni/casalborgone/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "caselette",
+      "nome": "Caselette",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1047,
+      "lon": 7.4808,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/caselette/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -274,6 +407,40 @@
           "nome": "Zona unica",
           "file": "comuni/cavagnolo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "chianocco",
+      "nome": "Chianocco",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1486,
+      "lon": 7.1682,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato, ogni due settimane)",
+          "file": "comuni/chianocco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chiusa-di-san-michele",
+      "nome": "Chiusa di San Michele",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1039,
+      "lon": 7.327,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato, ogni due settimane)",
+          "file": "comuni/chiusa-di-san-michele/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -484,6 +651,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-collegno/"
+    },
+    {
+      "id": "condove",
+      "nome": "Condove",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1174,
+      "lon": 7.3095,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/condove/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "druento",
@@ -846,6 +1030,23 @@
       ]
     },
     {
+      "id": "mompantero",
+      "nome": "Mompantero",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1421,
+      "lon": 7.0644,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mompantero/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montanaro",
       "nome": "Montanaro",
       "provincia": "TO",
@@ -1079,6 +1280,23 @@
       ]
     },
     {
+      "id": "rubiana",
+      "nome": "Rubiana",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1379,
+      "lon": 7.3848,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/rubiana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-benigno-canavese",
       "nome": "San Benigno Canavese",
       "provincia": "TO",
@@ -1182,6 +1400,47 @@
       ]
     },
     {
+      "id": "sant-ambrogio-di-torino",
+      "nome": "Sant'Ambrogio di Torino",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.0994,
+      "lon": 7.3623,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sant-ambrogio-di-torino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "bertassi",
+          "nome": "Borgata Bertassi",
+          "file": "comuni/sant-ambrogio-di-torino/zona-bertassi.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.acselspa.it/calendari-raccolta-rifiuti/"
+    },
+    {
+      "id": "sant-antonino-di-susa",
+      "nome": "Sant'Antonino di Susa",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1071,
+      "lon": 7.2736,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta: indifferenziato e vetro)",
+          "file": "comuni/sant-antonino-di-susa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "sciolze",
       "nome": "Sciolze",
       "provincia": "TO",
@@ -1252,6 +1511,23 @@
       ]
     },
     {
+      "id": "susa",
+      "nome": "Susa",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1384,
+      "lon": 7.0493,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/susa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "torrazza-piemonte",
       "nome": "Torrazza Piemonte",
       "provincia": "TO",
@@ -1282,6 +1558,23 @@
           "nome": "Zona unica",
           "file": "comuni/trana/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "vaie",
+      "nome": "Vaie",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.0958,
+      "lon": 7.2935,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/vaie/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -1404,6 +1697,40 @@
       ]
     },
     {
+      "id": "villar-dora",
+      "nome": "Villar Dora",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1146,
+      "lon": 7.3835,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato)",
+          "file": "comuni/villar-dora/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villar-focchiardo",
+      "nome": "Villar Focchiardo",
+      "provincia": "TO",
+      "gestore": "Acsel S.p.A.",
+      "consorzio": "acsel",
+      "lat": 45.1114,
+      "lon": 7.2247,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica (porta a porta solo indifferenziato, ogni due settimane)",
+          "file": "comuni/villar-focchiardo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "villarbasse",
       "nome": "Villarbasse",
       "provincia": "TO",
@@ -1484,6 +1811,11 @@
       "nome": "Consorzio CADOS – comuni serviti da Cidiu",
       "gestore": "Cidiu S.p.A.",
       "ecocentri": "ecocentri/cidiu.json"
+    },
+    "acsel": {
+      "nome": "Consorzio CADOS – comuni serviti da Acsel (Valle di Susa)",
+      "gestore": "Acsel S.p.A.",
+      "ecocentri": "ecocentri/acsel.json"
     }
   },
   "tipi_en": {

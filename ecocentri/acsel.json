@@ -1,0 +1,477 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-20",
+  "gestore": "Acsel S.p.A.",
+  "fonte": "https://www.acselspa.it/ecocentri-2/",
+  "numero_verde": "800 497 052",
+  "orari_numero_verde": "gratuito anche da cellulare",
+  "accesso": "Ecocentri consortili: puoi usarli tutti se abiti, o hai una seconda casa, in uno dei comuni Acsel. Porta documento d’identità e codice fiscale (tessera ambientale se l’hai ricevuta).",
+  "avviso": "Orari invernali; quelli estivi partono con il cambio dell’ora. Orari dal sito Acsel; posizione indicativa.",
+  "consorzio": "acsel",
+  "centri": [
+    {
+      "id": "acsel-almese",
+      "tipo": "raccolta",
+      "comune": "Almese",
+      "indirizzo": "Località Granaglie, vicino ai campi sportivi",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "16:45"
+          ]
+        ],
+        "2": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "16:45"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "08:45",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1169,
+      "lon": 7.3945
+    },
+    {
+      "id": "acsel-avigliana",
+      "tipo": "raccolta",
+      "comune": "Avigliana",
+      "indirizzo": "Località via Nobel",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:45",
+            "12:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:45",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:45",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:45",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "16:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:45",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0779,
+      "lon": 7.3984
+    },
+    {
+      "id": "acsel-bardonecchia",
+      "tipo": "raccolta",
+      "comune": "Bardonecchia",
+      "indirizzo": "Località Rocca Tagliata",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:30",
+            "12:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "3": [
+          [
+            "07:30",
+            "12:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "5": [
+          [
+            "07:30",
+            "12:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0783,
+      "lon": 6.7032
+    },
+    {
+      "id": "acsel-bussoleno",
+      "tipo": "raccolta",
+      "comune": "Bussoleno",
+      "indirizzo": "Località Isolabella",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "11:45"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "6": [
+          [
+            "08:45",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1393,
+      "lon": 7.1477
+    },
+    {
+      "id": "acsel-condove",
+      "tipo": "raccolta",
+      "comune": "Condove",
+      "indirizzo": "Località Battagliero, zona industriale",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "12:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1174,
+      "lon": 7.3095
+    },
+    {
+      "id": "acsel-rubiana",
+      "tipo": "raccolta",
+      "comune": "Rubiana",
+      "indirizzo": "Località Borgata Ratta",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "09:30",
+            "12:15"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "12:15"
+          ],
+          [
+            "14:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1379,
+      "lon": 7.3848
+    },
+    {
+      "id": "acsel-sant-antonino-di-susa",
+      "tipo": "raccolta",
+      "comune": "Sant’Antonino di Susa",
+      "indirizzo": "Località zona cimitero",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "10:00",
+            "12:45"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "15:45"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "13:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1071,
+      "lon": 7.2736
+    },
+    {
+      "id": "acsel-sauze-d-oulx",
+      "tipo": "raccolta",
+      "comune": "Sauze d’Oulx",
+      "indirizzo": "Via Monfol",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ],
+        "5": [
+          [
+            "14:00",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0281,
+      "lon": 6.8605
+    },
+    {
+      "id": "acsel-sestriere",
+      "tipo": "raccolta",
+      "comune": "Sestriere",
+      "indirizzo": "Via Azzurri d’Italia",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "13:30",
+            "15:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "13:30",
+            "15:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "13:30",
+            "15:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "13:30",
+            "15:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "10:00"
+          ],
+          [
+            "13:30",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "11:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9585,
+      "lon": 6.8787
+    },
+    {
+      "id": "acsel-susa",
+      "tipo": "raccolta",
+      "comune": "Susa",
+      "indirizzo": "Località Castelpietra",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "15:45"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "12:45"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "15:45"
+          ]
+        ],
+        "4": [
+          [
+            "10:00",
+            "12:45"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "15:45"
+          ]
+        ],
+        "6": [
+          [
+            "10:00",
+            "15:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.1384,
+      "lon": 7.0493
+    }
+  ]
+}

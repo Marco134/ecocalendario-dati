@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "comune": "Susa",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Raccolte del mattino: entro le 6 (o la sera prima). Raccolte del pomeriggio: entro le 12 (o la sera prima).",
+ "fonte": "Calendario raccolta rifiuti 2026 Acsel – acselspa.it/wp-content/uploads/2025/12/SUSA-2026.pdf",
+ "raccolte": {
+  "2026-11-20": [
+   "vetro"
+  ],
+  "2026-11-21": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-26": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-04": [
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-18": [
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "carta"
+  ]
+ }
+}
