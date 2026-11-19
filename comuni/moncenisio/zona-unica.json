@@ -1,0 +1,14 @@
+{
+ "schema": 1,
+ "comune": "Moncenisio",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2099-12-31",
+ "esposizione": "",
+ "fonte": "https://www.acselspa.it/servizi-di-raccolta-rifiuti/",
+ "info": "Qui la raccolta avviene con cassonetti stradali o isole di prossimità: il gestore non pubblica un calendario porta a porta. Qui sotto trovi ecocentri e ritiro ingombranti.",
+ "info_en": "Waste here is collected through street bins or nearby collection points: the operator publishes no door-to-door calendar. Recycling centres and bulky waste pickup are below.",
+ "raccolte": {}
+}
