@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-20",
+  "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+  "fonte": "https://www.teknoserviceitalia.com/piemonte/torino/castellamonte/",
+  "numero_verde": "800 079 960",
+  "orari_numero_verde": "lun-sab 9-18",
+  "accesso": "Centro di raccolta per gli utenti TARI dei comuni CCA serviti da Teknoservice: porta il codice fiscale dell’intestatario TARI.",
+  "avviso": "Da ottobre a dicembre passa anche l’Ecomobile (centro di raccolta mobile, 8-12) a Rueglio, Cuorgnè e Ronco Canavese: date sul calendario Ecomobile CCA o al numero verde.",
+  "consorzio": "cca",
+  "centri": [
+    {
+      "id": "cca-castellamonte",
+      "tipo": "raccolta",
+      "comune": "Castellamonte",
+      "indirizzo": "Strada del Ghiaro Inferiore 16",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "11:00"
+          ],
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "11:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.38,
+      "lon": 7.708
+    }
+  ]
+}

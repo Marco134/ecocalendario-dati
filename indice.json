@@ -69,6 +69,23 @@
       ]
     },
     {
+      "id": "alpette",
+      "nome": "Alpette",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.41,
+      "lon": 7.5786,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/alpette/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "alpignano",
       "nome": "Alpignano",
       "provincia": "TO",
@@ -339,6 +356,30 @@
       ]
     },
     {
+      "id": "borgiallo",
+      "nome": "Borgiallo",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4168,
+      "lon": 7.6677,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/borgiallo/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/borgiallo/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/borgiallo/"
+    },
+    {
       "id": "borgone-susa",
       "nome": "Borgone Susa",
       "provincia": "TO",
@@ -351,6 +392,23 @@
           "id": "unica",
           "nome": "Zona unica (porta a porta solo indifferenziato)",
           "file": "comuni/borgone-susa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bosconero",
+      "nome": "Bosconero",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.2686,
+      "lon": 7.7651,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bosconero/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -398,6 +456,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/bricherasio/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "brosso",
+      "nome": "Brosso",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4928,
+      "lon": 7.8033,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brosso/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -492,6 +567,30 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "busano",
+      "nome": "Busano",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3288,
+      "lon": 7.6557,
+      "zone": [
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/busano/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/busano/zona-1.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/busano/"
     },
     {
       "id": "bussoleno",
@@ -622,6 +721,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/candiolo/"
+    },
+    {
+      "id": "canischio",
+      "nome": "Canischio",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3743,
+      "lon": 7.5952,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/canischio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "cantalupa",
@@ -876,6 +992,47 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/castagnole-piemonte/"
     },
     {
+      "id": "castellamonte",
+      "nome": "Castellamonte",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3833,
+      "lon": 7.7099,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castellamonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castelnuovo-nigra",
+      "nome": "Castelnuovo Nigra",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4373,
+      "lon": 7.6951,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/castelnuovo-nigra/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/castelnuovo-nigra/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/castelnuovo-nigra/"
+    },
+    {
       "id": "castiglione-torinese",
       "nome": "Castiglione Torinese",
       "provincia": "TO",
@@ -986,6 +1143,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/ceres/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "ceresole-reale",
+      "nome": "Ceresole Reale",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4326,
+      "lon": 7.2325,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ceresole-reale/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cesana-torinese",
       "nome": "Cesana Torinese",
       "provincia": "TO",
@@ -1042,6 +1216,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "chiesanuova",
+      "nome": "Chiesanuova",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4178,
+      "lon": 7.6561,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/chiesanuova/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/chiesanuova/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/chiesanuova/"
     },
     {
       "id": "chiomonte",
@@ -1129,6 +1327,47 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "ciconio",
+      "nome": "Ciconio",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3303,
+      "lon": 7.7599,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ciconio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cintano",
+      "nome": "Cintano",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4281,
+      "lon": 7.6866,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/cintano/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/cintano/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/cintano/"
     },
     {
       "id": "cinzano",
@@ -1351,6 +1590,30 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-collegno/"
     },
     {
+      "id": "colleretto-castelnuovo",
+      "nome": "Colleretto Castelnuovo",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4214,
+      "lon": 7.679,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/colleretto-castelnuovo/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/colleretto-castelnuovo/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/colleretto-castelnuovo/"
+    },
+    {
       "id": "condove",
       "nome": "Condove",
       "provincia": "TO",
@@ -1405,6 +1668,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/cumiana/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cuorgne",
+      "nome": "Cuorgnè",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3912,
+      "lon": 7.6489,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cuorgne/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -1492,6 +1772,40 @@
       ]
     },
     {
+      "id": "favria",
+      "nome": "Favria",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3328,
+      "lon": 7.688,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/favria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "feletto",
+      "nome": "Feletto",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3055,
+      "lon": 7.7471,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/feletto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "fenestrelle",
       "nome": "Fenestrelle",
       "provincia": "TO",
@@ -1539,6 +1853,40 @@
           "nome": "Zona unica",
           "file": "comuni/foglizzo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "forno-canavese",
+      "nome": "Forno Canavese",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3468,
+      "lon": 7.5868,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/forno-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "frassinetto",
+      "nome": "Frassinetto",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.436,
+      "lon": 7.6057,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/frassinetto/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -1852,6 +2200,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
     },
     {
+      "id": "ingria",
+      "nome": "Ingria",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4663,
+      "lon": 7.5709,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ingria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "inverso-pinasca",
       "nome": "Inverso Pinasca",
       "provincia": "TO",
@@ -1867,6 +2232,30 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "issiglio",
+      "nome": "Issiglio",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4468,
+      "lon": 7.7542,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/issiglio/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/issiglio/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/issiglio/"
     },
     {
       "id": "la-cassa",
@@ -2052,6 +2441,47 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/lemie/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "levone",
+      "nome": "Levone",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3181,
+      "lon": 7.6059,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/levone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "locana",
+      "nome": "Locana",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.417,
+      "lon": 7.4613,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/locana/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/locana/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/locana/"
+    },
+    {
       "id": "lombardore",
       "nome": "Lombardore",
       "provincia": "TO",
@@ -2134,6 +2564,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/lusernetta/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "lusiglie",
+      "nome": "Lusigliè",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3186,
+      "lon": 7.7665,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lusiglie/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2506,6 +2953,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/nichelino/"
     },
     {
+      "id": "noasca",
+      "nome": "Noasca",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4531,
+      "lon": 7.3135,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/noasca/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "nole",
       "nome": "Nole",
       "provincia": "TO",
@@ -2555,6 +3019,30 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "oglianico",
+      "nome": "Oglianico",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3426,
+      "lon": 7.6927,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/oglianico/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/oglianico/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/oglianico/"
     },
     {
       "id": "orbassano",
@@ -2703,6 +3191,23 @@
       ]
     },
     {
+      "id": "ozegna",
+      "nome": "Ozegna",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.349,
+      "lon": 7.7431,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ozegna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pancalieri",
       "nome": "Pancalieri",
       "provincia": "TO",
@@ -2750,6 +3255,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/perrero/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pertusio",
+      "nome": "Pertusio",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3534,
+      "lon": 7.6387,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pertusio/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2972,6 +3494,30 @@
       ]
     },
     {
+      "id": "pont-canavese",
+      "nome": "Pont Canavese",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4207,
+      "lon": 7.5936,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/pont-canavese/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/pont-canavese/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/pont-canavese/"
+    },
+    {
       "id": "porte",
       "nome": "Porte",
       "provincia": "TO",
@@ -3057,6 +3603,40 @@
       ]
     },
     {
+      "id": "prascorsano",
+      "nome": "Prascorsano",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3677,
+      "lon": 7.6157,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/prascorsano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pratiglione",
+      "nome": "Pratiglione",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3536,
+      "lon": 7.5961,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pratiglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "reano",
       "nome": "Reano",
       "provincia": "TO",
@@ -3070,6 +3650,23 @@
           "nome": "Zona unica",
           "file": "comuni/reano/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "ribordone",
+      "nome": "Ribordone",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4316,
+      "lon": 7.5024,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ribordone/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3149,6 +3746,57 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/rivalta-di-torino/"
+    },
+    {
+      "id": "rivara",
+      "nome": "Rivara",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3323,
+      "lon": 7.6251,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rivara/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rivarolo-canavese",
+      "nome": "Rivarolo Canavese",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3328,
+      "lon": 7.7252,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rivarolo-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rivarossa",
+      "nome": "Rivarossa",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.2513,
+      "lon": 7.7172,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rivarossa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "rivoli",
@@ -3262,6 +3910,23 @@
       ]
     },
     {
+      "id": "ronco-canavese",
+      "nome": "Ronco Canavese",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4994,
+      "lon": 7.5457,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ronco-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "rondissone",
       "nome": "Rondissone",
       "provincia": "TO",
@@ -3347,6 +4012,40 @@
       ]
     },
     {
+      "id": "rueglio",
+      "nome": "Rueglio",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4678,
+      "lon": 7.7558,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rueglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "salassa",
+      "nome": "Salassa",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3596,
+      "lon": 7.6894,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/salassa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "salbertrand",
       "nome": "Salbertrand",
       "provincia": "TO",
@@ -3417,6 +4116,23 @@
           "nome": "Zona unica",
           "file": "comuni/san-carlo-canavese/zona-unica.json",
           "valido_al": "2028-02-25"
+        }
+      ]
+    },
+    {
+      "id": "san-colombano-belmonte",
+      "nome": "San Colombano Belmonte",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3814,
+      "lon": 7.6185,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-colombano-belmonte/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3559,6 +4275,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/san-pietro-val-lemina/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-ponso",
+      "nome": "San Ponso",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3508,
+      "lon": 7.6675,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-ponso/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3816,6 +4549,30 @@
       ]
     },
     {
+      "id": "sparone",
+      "nome": "Sparone",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4133,
+      "lon": 7.5442,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/sparone/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/sparone/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/sparone/"
+    },
+    {
       "id": "susa",
       "nome": "Susa",
       "provincia": "TO",
@@ -3882,6 +4639,30 @@
           "valido_al": "2027-02-28"
         }
       ]
+    },
+    {
+      "id": "traversella",
+      "nome": "Traversella",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.5094,
+      "lon": 7.7504,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/traversella/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/traversella/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/traversella/"
     },
     {
       "id": "traves",
@@ -4026,6 +4807,54 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/val-della-torre/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "val-di-chy",
+      "nome": "Val di Chy",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.459,
+      "lon": 7.778,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/val-di-chy/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/val-di-chy/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/val-di-chy/"
+    },
+    {
+      "id": "valchiusa",
+      "nome": "Valchiusa",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.493,
+      "lon": 7.795,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/valchiusa/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/valchiusa/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/valchiusa/"
+    },
+    {
       "id": "valgioie",
       "nome": "Valgioie",
       "provincia": "TO",
@@ -4056,6 +4885,40 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/vallo-torinese/zona-stradale.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valperga",
+      "nome": "Valperga",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.3703,
+      "lon": 7.6568,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valperga/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valprato-soana",
+      "nome": "Valprato Soana",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.5224,
+      "lon": 7.549,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valprato-soana/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -4229,6 +5092,23 @@
       ]
     },
     {
+      "id": "vidracco",
+      "nome": "Vidracco",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4305,
+      "lon": 7.759,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vidracco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vigone",
       "nome": "Vigone",
       "provincia": "TO",
@@ -4365,6 +5245,30 @@
       ]
     },
     {
+      "id": "vistrorio",
+      "nome": "Vistrorio",
+      "provincia": "TO",
+      "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+      "consorzio": "cca",
+      "lat": 45.4411,
+      "lon": 7.7694,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/vistrorio/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/vistrorio/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/vistrorio/"
+    },
+    {
       "id": "viu",
       "nome": "Viù",
       "provincia": "TO",
@@ -4489,6 +5393,11 @@
       "nome": "Consorzio ACEA Pinerolese",
       "gestore": "Acea Pinerolese Industriale",
       "ecocentri": "ecocentri/acea.json"
+    },
+    "cca": {
+      "nome": "Consorzio Canavesano Ambiente (area Teknoservice)",
+      "gestore": "Teknoservice",
+      "ecocentri": "ecocentri/cca.json"
     }
   },
   "tipi_en": {

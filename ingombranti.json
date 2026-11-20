@@ -341,6 +341,35 @@
       ],
       "fonte": "https://ambiente.aceapinerolese.it/ingombranti/",
       "verificato": "2026-11-20"
+    },
+    {
+      "id": "cca-teknoservice",
+      "nome": "Teknoservice (CCA)",
+      "gestori": [
+        "Teknoservice (Consorzio Canavesano Ambiente)"
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "800079960",
+      "orari": "Numero verde Teknoservice, lun-sab 9-18",
+      "orari_en": "Teknoservice toll-free number, Mon-Sat 9-18",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro gratuito a domicilio, su prenotazione al numero verde",
+        "In alternativa li porti al centro di raccolta di Castellamonte o all’Ecomobile"
+      ],
+      "regole_en": [
+        "Free home pickup, booked through the toll-free number",
+        "Or take them to the Castellamonte recycling centre or the Ecomobile"
+      ],
+      "fonte": "Calendari raccolta rifiuti 2026 Teknoservice (CCA)",
+      "verificato": "2026-11-20"
     }
   ]
 }

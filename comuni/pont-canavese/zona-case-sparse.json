@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "comune": "Pont Canavese",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Case sparse",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i mastelli dalle 19 della sera prima alle 5 del giorno di raccolta.",
+ "fonte": "Calendario raccolta rifiuti 2026 – teknoserviceitalia.com/piemonte/torino/pont-canavese",
+ "raccolte": {
+  "2026-11-20": [
+   "vetro"
+  ],
+  "2026-11-21": [
+   "plastica"
+  ],
+  "2026-11-23": [
+   "organico"
+  ],
+  "2026-11-24": [
+   "carta"
+  ],
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "vetro"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "vetro"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ]
+ }
+}

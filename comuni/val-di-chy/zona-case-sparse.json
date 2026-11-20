@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "comune": "Val di Chy",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Case sparse",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i mastelli dalle 19 della sera prima alle 5 del giorno di raccolta.",
+ "fonte": "Calendario raccolta rifiuti 2026 – teknoserviceitalia.com/piemonte/torino/val-di-chy",
+ "raccolte": {
+  "2026-11-20": [
+   "carta"
+  ],
+  "2026-11-21": [
+   "vetro"
+  ],
+  "2026-11-24": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "vetro"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "comune": "Vistrorio",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Centro abitato",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i mastelli dalle 19 della sera prima alle 5 del giorno di raccolta.",
+ "fonte": "Calendario raccolta rifiuti 2026 – teknoserviceitalia.com/piemonte/torino/vistrorio",
+ "raccolte": {
+  "2026-11-20": [
+   "carta"
+  ],
+  "2026-11-21": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-25": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ]
+ }
+}

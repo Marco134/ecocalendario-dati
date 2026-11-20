@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "comune": "Noasca",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "unica",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i mastelli dalle 19 della sera prima alle 5 del giorno di raccolta.",
+ "fonte": "Calendario raccolta rifiuti 2026 – teknoserviceitalia.com/piemonte/torino/noasca",
+ "raccolte": {
+  "2026-11-20": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-25": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ }
+}
