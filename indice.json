@@ -188,6 +188,66 @@
       ]
     },
     {
+      "id": "beinasco",
+      "nome": "Beinasco",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 45.0221,
+      "lon": 7.5792,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/beinasco/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/beinasco/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/beinasco/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/beinasco/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/beinasco/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1b",
+          "nome": "Zona 1B",
+          "file": "comuni/beinasco/zona-1b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4b",
+          "nome": "Zona 4B",
+          "file": "comuni/beinasco/zona-4b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5b",
+          "nome": "Zona 5B",
+          "file": "comuni/beinasco/zona-5b.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/beinasco/"
+    },
+    {
       "id": "borgaro-torinese",
       "nome": "Borgaro Torinese",
       "provincia": "TO",
@@ -272,6 +332,30 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "bruino",
+      "nome": "Bruino",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 45.0202,
+      "lon": 7.4677,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/bruino/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/bruino/zona-2.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/bruino/"
     },
     {
       "id": "brusasco",
@@ -373,6 +457,54 @@
       ]
     },
     {
+      "id": "candiolo",
+      "nome": "Candiolo",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.9603,
+      "lon": 7.6012,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/candiolo/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/candiolo/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/candiolo/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/candiolo/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/candiolo/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/candiolo/zona-6.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/candiolo/"
+    },
+    {
       "id": "cantoira",
       "nome": "Cantoira",
       "provincia": "TO",
@@ -412,6 +544,78 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "carignano",
+      "nome": "Carignano",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.9067,
+      "lon": 7.6753,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/carignano/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/carignano/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/carignano/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/carignano/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/carignano/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/carignano/zona-6.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "7",
+          "nome": "Zona 7",
+          "file": "comuni/carignano/zona-7.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "8",
+          "nome": "Zona 8",
+          "file": "comuni/carignano/zona-8.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "9",
+          "nome": "Zona 9",
+          "file": "comuni/carignano/zona-9.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "10",
+          "nome": "Zona 10",
+          "file": "comuni/carignano/zona-10.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/carignano/"
     },
     {
       "id": "casalborgone",
@@ -504,6 +708,36 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "castagnole-piemonte",
+      "nome": "Castagnole Piemonte",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.8986,
+      "lon": 7.5666,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/castagnole-piemonte/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/castagnole-piemonte/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/castagnole-piemonte/zona-3.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/castagnole-piemonte/"
     },
     {
       "id": "castiglione-torinese",
@@ -1397,6 +1631,54 @@
       ]
     },
     {
+      "id": "la-loggia",
+      "nome": "La Loggia",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.9567,
+      "lon": 7.6677,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/la-loggia/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/la-loggia/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/la-loggia/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/la-loggia/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/la-loggia/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/la-loggia/zona-6.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/la-loggia/"
+    },
+    {
       "id": "lanzo-torinese",
       "nome": "Lanzo Torinese",
       "provincia": "TO",
@@ -1528,6 +1810,23 @@
           "nome": "Zona unica",
           "file": "comuni/lombardore/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "lombriasco",
+      "nome": "Lombriasco",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.8416,
+      "lon": 7.6358,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lombriasco/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -1689,6 +1988,96 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/monastero-di-lanzo/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "moncalieri",
+      "nome": "Moncalieri",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 45.0009,
+      "lon": 7.6852,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/moncalieri/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/moncalieri/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/moncalieri/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/moncalieri/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/moncalieri/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/moncalieri/zona-6.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "7",
+          "nome": "Zona 7",
+          "file": "comuni/moncalieri/zona-7.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "8",
+          "nome": "Zona 8",
+          "file": "comuni/moncalieri/zona-8.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "9",
+          "nome": "Zona 9",
+          "file": "comuni/moncalieri/zona-9.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "10",
+          "nome": "Zona 10",
+          "file": "comuni/moncalieri/zona-10.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "11",
+          "nome": "Zona 11",
+          "file": "comuni/moncalieri/zona-11.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "12",
+          "nome": "Zona 12",
+          "file": "comuni/moncalieri/zona-12.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "9a",
+          "nome": "Zona 9A",
+          "file": "comuni/moncalieri/zona-9a.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/moncalieri/"
+    },
+    {
       "id": "moncenisio",
       "nome": "Moncenisio",
       "provincia": "TO",
@@ -1746,6 +2135,54 @@
       ]
     },
     {
+      "id": "nichelino",
+      "nome": "Nichelino",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.9952,
+      "lon": 7.6474,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/nichelino/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/nichelino/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/nichelino/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/nichelino/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/nichelino/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/nichelino/zona-6.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/nichelino/"
+    },
+    {
       "id": "nole",
       "nome": "Nole",
       "provincia": "TO",
@@ -1780,6 +2217,84 @@
       ]
     },
     {
+      "id": "orbassano",
+      "nome": "Orbassano",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 45.007,
+      "lon": 7.537,
+      "zone": [
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/orbassano/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/orbassano/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/orbassano/zona-6.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1a",
+          "nome": "Zona 1A",
+          "file": "comuni/orbassano/zona-1a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1b",
+          "nome": "Zona 1B",
+          "file": "comuni/orbassano/zona-1b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2a",
+          "nome": "Zona 2A",
+          "file": "comuni/orbassano/zona-2a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2b",
+          "nome": "Zona 2B",
+          "file": "comuni/orbassano/zona-2b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4a",
+          "nome": "Zona 4A",
+          "file": "comuni/orbassano/zona-4a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4b",
+          "nome": "Zona 4B",
+          "file": "comuni/orbassano/zona-4b.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2ba",
+          "nome": "Zona 2BA",
+          "file": "comuni/orbassano/zona-2ba.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2bb",
+          "nome": "Zona 2BB",
+          "file": "comuni/orbassano/zona-2bb.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/orbassano/"
+    },
+    {
       "id": "orvieto",
       "nome": "Orvieto",
       "provincia": "TR",
@@ -1797,6 +2312,23 @@
       ]
     },
     {
+      "id": "osasio",
+      "nome": "Osasio",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.8695,
+      "lon": 7.6075,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/osasio/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "oulx",
       "nome": "Oulx",
       "provincia": "TO",
@@ -1810,6 +2342,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/oulx/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pancalieri",
+      "nome": "Pancalieri",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.8305,
+      "lon": 7.5882,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pancalieri/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -1880,6 +2429,90 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
     },
     {
+      "id": "piobesi-torinese",
+      "nome": "Piobesi Torinese",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.9331,
+      "lon": 7.6119,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/piobesi-torinese/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/piobesi-torinese/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/piobesi-torinese/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/piobesi-torinese/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/piobesi-torinese/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/piobesi-torinese/zona-6.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/piobesi-torinese/"
+    },
+    {
+      "id": "piossasco",
+      "nome": "Piossasco",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.9907,
+      "lon": 7.4628,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/piossasco/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/piossasco/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/piossasco/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/piossasco/zona-4.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/piossasco/"
+    },
+    {
       "id": "reano",
       "nome": "Reano",
       "provincia": "TO",
@@ -1918,6 +2551,60 @@
         "fonte": "https://www.setaspa.com/tarip",
         "nome": "TARIP"
       }
+    },
+    {
+      "id": "rivalta-di-torino",
+      "nome": "Rivalta di Torino",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 45.0345,
+      "lon": 7.5233,
+      "zone": [
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/rivalta-di-torino/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/rivalta-di-torino/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/rivalta-di-torino/zona-4.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/rivalta-di-torino/zona-5.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/rivalta-di-torino/zona-6.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1a",
+          "nome": "Zona 1A",
+          "file": "comuni/rivalta-di-torino/zona-1a.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "1b",
+          "nome": "Zona 1B",
+          "file": "comuni/rivalta-di-torino/zona-1b.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/rivalta-di-torino/"
     },
     {
       "id": "rivoli",
@@ -2524,6 +3211,42 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/traves/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "trofarello",
+      "nome": "Trofarello",
+      "provincia": "TO",
+      "gestore": "Co.Va.R. 14",
+      "consorzio": "covar14",
+      "lat": 44.986,
+      "lon": 7.7403,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/trofarello/zona-1.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/trofarello/zona-2.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/trofarello/zona-3.json",
+          "valido_al": "2027-02-28"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/trofarello/zona-4.json",
+          "valido_al": "2027-02-28"
+        }
+      ],
+      "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/trofarello/"
+    },
+    {
       "id": "usseglio",
       "nome": "Usseglio",
       "provincia": "TO",
@@ -2957,6 +3680,11 @@
       "nome": "Consorzio CISA (Ciriè e Valli di Lanzo)",
       "gestore": "CISA",
       "ecocentri": "ecocentri/cisa.json"
+    },
+    "covar14": {
+      "nome": "Consorzio COVAR 14",
+      "gestore": "Co.Va.R. 14",
+      "ecocentri": "ecocentri/covar14.json"
     }
   },
   "tipi_en": {

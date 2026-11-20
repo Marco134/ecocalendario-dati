@@ -278,6 +278,35 @@
       ],
       "fonte": "https://www.cisaweb.info/it-it/servizi-/servizi/calendari-di-raccolta",
       "verificato": "2026-11-20"
+    },
+    {
+      "id": "covar14",
+      "nome": "COVAR 14",
+      "gestori": [
+        "COVAR 14"
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "800639639",
+      "orari": "Numero verde consortile",
+      "orari_en": "Consortium toll-free number",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione al numero verde consortile",
+        "In alternativa li porti all’ecocentro"
+      ],
+      "regole_en": [
+        "Free home pickup, booked through the consortium’s toll-free number",
+        "Or take them to the recycling centre"
+      ],
+      "fonte": "Ecocalendari COVAR 14 2026",
+      "verificato": "2026-11-20"
     }
   ]
 }

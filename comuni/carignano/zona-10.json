@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "comune": "Carignano",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "10",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Calendario-Covar14-2026-CARIGNANO-ZONA10.pdf",
+ "raccolte": {
+  "2026-11-20": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "indifferenziato"
+  ],
+  "2027-02-02": [
+   "organico"
+  ],
+  "2027-02-09": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-16": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "carta"
+  ],
+  "2027-02-23": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-07",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "plastica"
+  }
+ ]
+}

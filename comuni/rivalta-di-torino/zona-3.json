@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "comune": "Rivalta di Torino",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "3",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Calendario-Covar14-2026-RIVALTA-ZONA-3.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-25": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-05": [
+   "plastica"
+  ],
+  "2027-01-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-09": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-16": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-20": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-23": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-03": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-06": [
+   "organico"
+  ],
+  "2027-02-10": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-13": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-17": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-20": [
+   "organico"
+  ],
+  "2027-02-24": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-27": [
+   "organico",
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-26"
+  },
+  {
+   "data": "2027-01-05",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-06"
+  }
+ ]
+}

@@ -1,0 +1,160 @@
+{
+ "schema": 1,
+ "comune": "Piobesi Torinese",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "6",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Calendario-Covar14-2026-PIOBESI-ZONA-6.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-13": [
+   "organico"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-27": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-03": [
+   "organico"
+  ],
+  "2027-02-06": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-10": [
+   "organico"
+  ],
+  "2027-02-13": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2027-02-17": [
+   "organico"
+  ],
+  "2027-02-20": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-24": [
+   "organico"
+  ],
+  "2027-02-27": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-26"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-26"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-26"
+  },
+  {
+   "data": "2027-01-07",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-06"
+  }
+ ]
+}

@@ -1,0 +1,779 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-20",
+  "gestore": "Co.Va.R. 14 (servizio Teknoservice)",
+  "fonte": "Ecocalendari COVAR 14 2026",
+  "numero_verde": "800 639 639",
+  "orari_numero_verde": "numero verde consortile",
+  "accesso": "Ecocentri dei comuni COVAR 14. Prima di andare in quello di un altro comune, chiedi al numero verde se puoi conferire lì e con quali limiti.",
+  "avviso": "Chiusi nei festivi. Orari dagli ecocalendari 2026; posizione indicativa (centro del comune).",
+  "consorzio": "covar14",
+  "centri": [
+    {
+      "id": "covar-beinasco",
+      "tipo": "raccolta",
+      "comune": "Beinasco",
+      "indirizzo": "Strada del Bottone",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0221,
+      "lon": 7.5792
+    },
+    {
+      "id": "covar-bruino",
+      "tipo": "raccolta",
+      "comune": "Bruino",
+      "indirizzo": "Viale Cruto",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:30",
+            "12:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:30",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:30",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:30",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:30",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario invernale (1 novembre – 31 marzo).",
+      "lat": 45.0202,
+      "lon": 7.4677
+    },
+    {
+      "id": "covar-candiolo",
+      "tipo": "raccolta",
+      "comune": "Candiolo",
+      "indirizzo": "Strada Pinerolo 91",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "16:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9603,
+      "lon": 7.6012
+    },
+    {
+      "id": "covar-carignano",
+      "tipo": "raccolta",
+      "comune": "Carignano",
+      "indirizzo": "Viale della Molinetta",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Serve anche Lombriasco e Osasio.",
+      "lat": 44.9067,
+      "lon": 7.6753
+    },
+    {
+      "id": "covar-castagnole",
+      "tipo": "raccolta",
+      "comune": "Castagnole Piemonte",
+      "indirizzo": "Via Circonvallazione",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:30",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario invernale.",
+      "lat": 44.8986,
+      "lon": 7.5666
+    },
+    {
+      "id": "covar-la-loggia",
+      "tipo": "raccolta",
+      "comune": "La Loggia",
+      "indirizzo": "Via Amendola",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9567,
+      "lon": 7.6677
+    },
+    {
+      "id": "covar-moncalieri",
+      "tipo": "raccolta",
+      "comune": "Moncalieri",
+      "indirizzo": "Via Lurisia angolo Strada Carpice",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:30",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:30",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:30",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:30",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "14:00"
+          ],
+          [
+            "14:30",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "14:00"
+          ],
+          [
+            "14:30",
+            "18:00"
+          ]
+        ],
+        "7": [
+          [
+            "09:00",
+            "11:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0009,
+      "lon": 7.6852
+    },
+    {
+      "id": "covar-nichelino",
+      "tipo": "raccolta",
+      "comune": "Nichelino",
+      "indirizzo": "Via Mentana 33",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "17:00"
+          ]
+        ],
+        "7": [
+          [
+            "09:00",
+            "11:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9952,
+      "lon": 7.6474
+    },
+    {
+      "id": "covar-orbassano",
+      "tipo": "raccolta",
+      "comune": "Orbassano",
+      "indirizzo": "Via Nazario Sauro",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.007,
+      "lon": 7.537
+    },
+    {
+      "id": "covar-pancalieri",
+      "tipo": "raccolta",
+      "comune": "Pancalieri",
+      "indirizzo": "Strada Preti, presso il depuratore",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "14:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.8305,
+      "lon": 7.5882
+    },
+    {
+      "id": "covar-piobesi",
+      "tipo": "raccolta",
+      "comune": "Piobesi Torinese",
+      "indirizzo": "Via Lenagena",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario invernale (1 novembre – 31 marzo).",
+      "lat": 44.9331,
+      "lon": 7.6119
+    },
+    {
+      "id": "covar-piossasco",
+      "tipo": "raccolta",
+      "comune": "Piossasco",
+      "indirizzo": "Strada Volvera",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "14:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "16:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "11:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9907,
+      "lon": 7.4628
+    },
+    {
+      "id": "covar-rivalta",
+      "tipo": "raccolta",
+      "comune": "Rivalta di Torino",
+      "indirizzo": "Via Avigliana",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0345,
+      "lon": 7.5233
+    },
+    {
+      "id": "covar-trofarello",
+      "tipo": "raccolta",
+      "comune": "Trofarello",
+      "indirizzo": "Via Croce Rossa",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario invernale (1 novembre – 31 marzo).",
+      "lat": 44.986,
+      "lon": 7.7403
+    }
+  ]
+}

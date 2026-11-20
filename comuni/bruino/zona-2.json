@@ -1,0 +1,172 @@
+{
+ "schema": 1,
+ "comune": "Bruino",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "2",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Calendario-Covar14-2026-BRUINO-ZONA-2.pdf",
+ "raccolte": {
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-24": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-08": [
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-05": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-19": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-26": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-02-02": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2027-02-05": [
+   "organico"
+  ],
+  "2027-02-09": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-02-12": [
+   "organico"
+  ],
+  "2027-02-16": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2027-02-19": [
+   "organico"
+  ],
+  "2027-02-23": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-02-26": [
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-07",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-07",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}

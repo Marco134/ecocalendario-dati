@@ -1,0 +1,205 @@
+{
+ "schema": 1,
+ "comune": "Moncalieri",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "11",
+ "valido_dal": "2026-11-20",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Covar14-2026-Moncalieri-ZONA-11.pdf",
+ "raccolte": {
+  "2026-11-20": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-27": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "vetro"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2027-02-02": [
+   "organico"
+  ],
+  "2027-02-05": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-02-09": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-02-16": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2027-02-23": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "indifferenziato",
+   "organico",
+   "carta",
+   "vetro",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}
