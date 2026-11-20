@@ -307,6 +307,40 @@
       ],
       "fonte": "Ecocalendari COVAR 14 2026",
       "verificato": "2026-11-20"
+    },
+    {
+      "id": "acea",
+      "nome": "Acea Pinerolese",
+      "gestori": [
+        "Acea Pinerolese Industriale"
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "0121236400",
+      "tipo_numero": "telefono",
+      "orari": "Area Ambiente Acea (anche 0121 236401 o area.ambiente@aceapinerolese.it)",
+      "orari_en": "Acea environment office (also 0121 236401 or area.ambiente@aceapinerolese.it)",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro a domicilio gratuito in tutti i 47 comuni Acea, su prenotazione",
+        "Quando prenoti indica il nome dell’intestatario della tassa rifiuti e un recapito telefonico",
+        "Esponi gli oggetti su suolo pubblico come ti dice l’operatore",
+        "In alternativa li porti in una Ecoisola"
+      ],
+      "regole_en": [
+        "Free home pickup in all 47 Acea towns, by booking",
+        "When booking give the name on the waste tax bill and a phone number",
+        "Put items on public ground as the operator tells you",
+        "Or take them to an Ecoisola"
+      ],
+      "fonte": "https://ambiente.aceapinerolese.it/ingombranti/",
+      "verificato": "2026-11-20"
     }
   ]
 }

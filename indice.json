@@ -11,6 +11,23 @@
   },
   "comuni": [
     {
+      "id": "airasca",
+      "nome": "Airasca",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9169,
+      "lon": 7.4844,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/airasca/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "ala-di-stura",
       "nome": "Ala di Stura",
       "provincia": "TO",
@@ -80,6 +97,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
+    },
+    {
+      "id": "angrogna",
+      "nome": "Angrogna",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8434,
+      "lon": 7.2243,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/angrogna/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     },
     {
       "id": "avigliana",
@@ -248,6 +282,40 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/beinasco/"
     },
     {
+      "id": "bibiana",
+      "nome": "Bibiana",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.7976,
+      "lon": 7.2898,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/bibiana/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bobbio-pellice",
+      "nome": "Bobbio Pellice",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8077,
+      "lon": 7.1179,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/bobbio-pellice/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "borgaro-torinese",
       "nome": "Borgaro Torinese",
       "provincia": "TO",
@@ -313,6 +381,23 @@
           "nome": "Zona 3",
           "file": "comuni/brandizzo/zona-3.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "bricherasio",
+      "nome": "Bricherasio",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8256,
+      "lon": 7.3029,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/bricherasio/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -392,6 +477,23 @@
       ]
     },
     {
+      "id": "buriasco",
+      "nome": "Buriasco",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8734,
+      "lon": 7.4119,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/buriasco/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "bussoleno",
       "nome": "Bussoleno",
       "provincia": "TO",
@@ -457,6 +559,23 @@
       ]
     },
     {
+      "id": "campiglione-fenile",
+      "nome": "Campiglione Fenile",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8021,
+      "lon": 7.325,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/campiglione-fenile/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "candiolo",
       "nome": "Candiolo",
       "provincia": "TO",
@@ -503,6 +622,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/candiolo/"
+    },
+    {
+      "id": "cantalupa",
+      "nome": "Cantalupa",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9403,
+      "lon": 7.3326,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/cantalupa/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     },
     {
       "id": "cantoira",
@@ -788,6 +924,40 @@
           "nome": "Zona unica",
           "file": "comuni/cavagnolo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cavour",
+      "nome": "Cavour",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.784,
+      "lon": 7.3752,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/cavour/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cercenasco",
+      "nome": "Cercenasco",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8613,
+      "lon": 7.5013,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/cercenasco/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -1222,6 +1392,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/corio/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "cumiana",
+      "nome": "Cumiana",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9828,
+      "lon": 7.3744,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/cumiana/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "druento",
       "nome": "Druento",
       "provincia": "TO",
@@ -1305,6 +1492,23 @@
       ]
     },
     {
+      "id": "fenestrelle",
+      "nome": "Fenestrelle",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 45.0343,
+      "lon": 7.0519,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/fenestrelle/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "fiano",
       "nome": "Fiano",
       "provincia": "TO",
@@ -1352,6 +1556,40 @@
           "nome": "Zona unica",
           "file": "comuni/front/zona-unica.json",
           "valido_al": "2028-02-25"
+        }
+      ]
+    },
+    {
+      "id": "frossasco",
+      "nome": "Frossasco",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9336,
+      "lon": 7.3508,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/frossasco/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "garzigliana",
+      "nome": "Garzigliana",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8368,
+      "lon": 7.3747,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/garzigliana/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -1614,6 +1852,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
     },
     {
+      "id": "inverso-pinasca",
+      "nome": "Inverso Pinasca",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9472,
+      "lon": 7.216,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/inverso-pinasca/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "la-cassa",
       "nome": "La Cassa",
       "provincia": "TO",
@@ -1849,6 +2104,57 @@
       "consorzio": "lubriano"
     },
     {
+      "id": "luserna-san-giovanni",
+      "nome": "Luserna San Giovanni",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8143,
+      "lon": 7.2458,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/luserna-san-giovanni/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "lusernetta",
+      "nome": "Lusernetta",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8024,
+      "lon": 7.2502,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/lusernetta/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "macello",
+      "nome": "Macello",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8512,
+      "lon": 7.4008,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/macello/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "mappano",
       "nome": "Mappano",
       "provincia": "TO",
@@ -1868,6 +2174,23 @@
           "nome": "Zona B",
           "file": "comuni/mappano/zona-b.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "massello",
+      "nome": "Massello",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9586,
+      "lon": 7.0563,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/massello/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -2200,6 +2523,23 @@
       ]
     },
     {
+      "id": "none",
+      "nome": "None",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9323,
+      "lon": 7.5412,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/none/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "novalesa",
       "nome": "Novalesa",
       "provincia": "TO",
@@ -2312,6 +2652,23 @@
       ]
     },
     {
+      "id": "osasco",
+      "nome": "Osasco",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8495,
+      "lon": 7.3432,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/osasco/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "osasio",
       "nome": "Osasio",
       "provincia": "TO",
@@ -2359,6 +2716,40 @@
           "nome": "Zona unica",
           "file": "comuni/pancalieri/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "perosa-argentina",
+      "nome": "Perosa Argentina",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9581,
+      "lon": 7.1924,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/perosa-argentina/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "perrero",
+      "nome": "Perrero",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9375,
+      "lon": 7.1153,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/perrero/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -2427,6 +2818,40 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
+    },
+    {
+      "id": "pinasca",
+      "nome": "Pinasca",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9427,
+      "lon": 7.2277,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/pinasca/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pinerolo",
+      "nome": "Pinerolo",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8873,
+      "lon": 7.332,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/pinerolo/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     },
     {
       "id": "piobesi-torinese",
@@ -2511,6 +2936,125 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/piossasco/"
+    },
+    {
+      "id": "piscina",
+      "nome": "Piscina",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9195,
+      "lon": 7.4259,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/piscina/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pomaretto",
+      "nome": "Pomaretto",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9551,
+      "lon": 7.1822,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/pomaretto/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "porte",
+      "nome": "Porte",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8876,
+      "lon": 7.268,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/porte/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pragelato",
+      "nome": "Pragelato",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 45.0163,
+      "lon": 6.9423,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/pragelato/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "prali",
+      "nome": "Prali",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8904,
+      "lon": 7.049,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/prali/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pramollo",
+      "nome": "Pramollo",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9046,
+      "lon": 7.2117,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/pramollo/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "prarostino",
+      "nome": "Prarostino",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8658,
+      "lon": 7.2697,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/prarostino/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     },
     {
       "id": "reano",
@@ -2701,6 +3245,23 @@
       ]
     },
     {
+      "id": "roletto",
+      "nome": "Roletto",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9252,
+      "lon": 7.3307,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/roletto/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "rondissone",
       "nome": "Rondissone",
       "provincia": "TO",
@@ -2718,6 +3279,23 @@
       ]
     },
     {
+      "id": "rora",
+      "nome": "Rorà",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.7923,
+      "lon": 7.1985,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/rora/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "rosta",
       "nome": "Rosta",
       "provincia": "TO",
@@ -2731,6 +3309,23 @@
           "nome": "Zona unica (porta a porta solo organico)",
           "file": "comuni/rosta/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "roure",
+      "nome": "Roure",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 45.0011,
+      "lon": 7.1291,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/roure/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -2764,6 +3359,23 @@
           "id": "unica",
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/salbertrand/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "salza-di-pinerolo",
+      "nome": "Salza di Pinerolo",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9405,
+      "lon": 7.0532,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/salza-di-pinerolo/zona-unica.json",
           "valido_al": "2099-12-31"
         }
       ]
@@ -2843,6 +3455,23 @@
       ]
     },
     {
+      "id": "san-germano-chisone",
+      "nome": "San Germano Chisone",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8987,
+      "lon": 7.2409,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/san-germano-chisone/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-gillio",
       "nome": "San Gillio",
       "provincia": "TO",
@@ -2917,6 +3546,23 @@
       ]
     },
     {
+      "id": "san-pietro-val-lemina",
+      "nome": "San Pietro Val Lemina",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9073,
+      "lon": 7.3136,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/san-pietro-val-lemina/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-raffaele-cimena",
       "nome": "San Raffaele Cimena",
       "provincia": "TO",
@@ -2953,6 +3599,23 @@
           "nome": "Zona unica",
           "file": "comuni/san-sebastiano-da-po/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "san-secondo-di-pinerolo",
+      "nome": "San Secondo di Pinerolo",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8666,
+      "lon": 7.2986,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/san-secondo-di-pinerolo/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -3044,6 +3707,23 @@
           "id": "unica",
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/sauze-di-cesana/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "scalenghe",
+      "nome": "Scalenghe",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8883,
+      "lon": 7.498,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/scalenghe/zona-unica.json",
           "valido_al": "2099-12-31"
         }
       ]
@@ -3170,6 +3850,23 @@
       ]
     },
     {
+      "id": "torre-pellice",
+      "nome": "Torre Pellice",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8207,
+      "lon": 7.224,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/torre-pellice/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "trana",
       "nome": "Trana",
       "provincia": "TO",
@@ -3245,6 +3942,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/trofarello/"
+    },
+    {
+      "id": "usseaux",
+      "nome": "Usseaux",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 45.0485,
+      "lon": 7.0269,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/usseaux/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     },
     {
       "id": "usseglio",
@@ -3515,6 +4229,40 @@
       ]
     },
     {
+      "id": "vigone",
+      "nome": "Vigone",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8424,
+      "lon": 7.4945,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/vigone/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villafranca-piemonte",
+      "nome": "Villafranca Piemonte",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.7813,
+      "lon": 7.5045,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/villafranca-piemonte/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "villanova-canavese",
       "nome": "Villanova Canavese",
       "provincia": "TO",
@@ -3562,6 +4310,40 @@
           "nome": "Zona unica (porta a porta solo indifferenziato, ogni due settimane)",
           "file": "comuni/villar-focchiardo/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villar-pellice",
+      "nome": "Villar Pellice",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.8086,
+      "lon": 7.1583,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/villar-pellice/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villar-perosa",
+      "nome": "Villar Perosa",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.9202,
+      "lon": 7.2493,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/villar-perosa/zona-unica.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },
@@ -3646,6 +4428,23 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "volvera",
+      "nome": "Volvera",
+      "provincia": "TO",
+      "gestore": "Acea Pinerolese Industriale",
+      "consorzio": "acea",
+      "lat": 44.955,
+      "lon": 7.5123,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Raccolta stradale (Eco-Punti)",
+          "file": "comuni/volvera/zona-unica.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -3685,6 +4484,11 @@
       "nome": "Consorzio COVAR 14",
       "gestore": "Co.Va.R. 14",
       "ecocentri": "ecocentri/covar14.json"
+    },
+    "acea": {
+      "nome": "Consorzio ACEA Pinerolese",
+      "gestore": "Acea Pinerolese Industriale",
+      "ecocentri": "ecocentri/acea.json"
     }
   },
   "tipi_en": {

@@ -1,0 +1,560 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-20",
+  "gestore": "Acea Pinerolese Industriale",
+  "fonte": "https://ambiente.aceapinerolese.it/regolamento/",
+  "numero_verde": "0121 236400",
+  "tipo_numero": "telefono",
+  "orari_numero_verde": "Area Ambiente Acea",
+  "accesso": "Le Ecoisole sono sovracomunali: puoi usare quella che preferisci se abiti o paghi la TARI in uno dei 47 comuni Acea. Si conferisce solo in orario e in presenza dell’addetto.",
+  "avviso": "Orari pubblicati da Acea (aggiornamento 1/3/2022, ancora indicati sul sito); posizione indicativa (centro del comune).",
+  "consorzio": "acea",
+  "centri": [
+    {
+      "id": "acea-airasca",
+      "tipo": "raccolta",
+      "comune": "Airasca",
+      "indirizzo": "Via Piscina",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "5": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "10:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9169,
+      "lon": 7.4844
+    },
+    {
+      "id": "acea-cavour",
+      "tipo": "raccolta",
+      "comune": "Cavour",
+      "indirizzo": "Via Gemerello 33",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "5": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.784,
+      "lon": 7.3752
+    },
+    {
+      "id": "acea-cumiana",
+      "tipo": "raccolta",
+      "comune": "Cumiana",
+      "indirizzo": "Via alla Grotta",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "3": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "5": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "10:30"
+          ],
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9828,
+      "lon": 7.3744
+    },
+    {
+      "id": "acea-frossasco",
+      "tipo": "raccolta",
+      "comune": "Frossasco",
+      "indirizzo": "Via Piscina",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "4": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "11:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9336,
+      "lon": 7.3508
+    },
+    {
+      "id": "acea-luserna-san-giovanni",
+      "tipo": "raccolta",
+      "comune": "Luserna San Giovanni",
+      "indirizzo": "Strada raccordo via I Maggio – Viale Matteotti",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "2": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "3": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "4": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "5": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "11:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.8143,
+      "lon": 7.2458
+    },
+    {
+      "id": "acea-none",
+      "tipo": "raccolta",
+      "comune": "None",
+      "indirizzo": "Via delle Lame",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "4": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "5": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "11:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9323,
+      "lon": 7.5412
+    },
+    {
+      "id": "acea-perosa-argentina",
+      "tipo": "raccolta",
+      "comune": "Perosa Argentina",
+      "indirizzo": "Via Renato Calzi",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "3": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9581,
+      "lon": 7.1924
+    },
+    {
+      "id": "acea-pinerolo",
+      "tipo": "raccolta",
+      "comune": "Pinerolo",
+      "indirizzo": "Corso Costituzione 15",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:45",
+            "15:45"
+          ]
+        ],
+        "2": [
+          [
+            "07:45",
+            "13:15"
+          ]
+        ],
+        "3": [
+          [
+            "07:45",
+            "15:45"
+          ]
+        ],
+        "4": [
+          [
+            "07:45",
+            "13:15"
+          ]
+        ],
+        "5": [
+          [
+            "07:45",
+            "13:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:15",
+            "13:45"
+          ],
+          [
+            "14:15",
+            "16:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.8873,
+      "lon": 7.332
+    },
+    {
+      "id": "acea-piscina",
+      "tipo": "raccolta",
+      "comune": "Piscina",
+      "indirizzo": "Via Rivarossa",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "3": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.9195,
+      "lon": 7.4259
+    },
+    {
+      "id": "acea-pragelato",
+      "tipo": "raccolta",
+      "comune": "Pragelato",
+      "indirizzo": "Borgata La Ruà",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "09:30",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Da maggio a ottobre anche il martedì 13:30–15:30, secondo il calendario Acea.",
+      "lat": 45.0163,
+      "lon": 6.9423
+    },
+    {
+      "id": "acea-roure",
+      "tipo": "raccolta",
+      "comune": "Roure",
+      "indirizzo": "Strada Regionale 23",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "13:30",
+            "16:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Anche il 2° e 4° martedì del mese, 10–12, secondo il calendario Acea.",
+      "lat": 45.0011,
+      "lon": 7.1291
+    },
+    {
+      "id": "acea-san-germano-chisone",
+      "tipo": "raccolta",
+      "comune": "San Germano Chisone",
+      "indirizzo": "Strada Regionale 166, km 10",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "4": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "11:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.8987,
+      "lon": 7.2409
+    },
+    {
+      "id": "acea-san-secondo-di-pinerolo",
+      "tipo": "raccolta",
+      "comune": "San Secondo di Pinerolo",
+      "indirizzo": "Via San Rocco",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "4": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "10:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.8666,
+      "lon": 7.2986
+    },
+    {
+      "id": "acea-vigone",
+      "tipo": "raccolta",
+      "comune": "Vigone",
+      "indirizzo": "Via Mattalia",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "4": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "10:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.8424,
+      "lon": 7.4945
+    },
+    {
+      "id": "acea-villafranca-piemonte",
+      "tipo": "raccolta",
+      "comune": "Villafranca Piemonte",
+      "indirizzo": "Località San Grato",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "3": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "11:00",
+            "13:00"
+          ],
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.7813,
+      "lon": 7.5045
+    },
+    {
+      "id": "acea-volvera",
+      "tipo": "raccolta",
+      "comune": "Volvera",
+      "indirizzo": "Strada Antica di Orbassano",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "3": [
+          [
+            "10:30",
+            "12:45"
+          ]
+        ],
+        "5": [
+          [
+            "13:15",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "10:30"
+          ],
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 44.955,
+      "lon": 7.5123
+    }
+  ]
+}
