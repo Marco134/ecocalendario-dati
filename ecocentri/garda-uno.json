@@ -1263,6 +1263,114 @@
    "avviso": "Posizione indicativa del comune. Orario dal 15 ottobre al 14 marzo. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
    "lat": 45.771079,
    "lon": 10.760773
+  },
+  {
+   "id": "garda-uno-verolanuova-via-paolo-vi-cadignano",
+   "tipo": "raccolta",
+   "comune": "Verolanuova",
+   "indirizzo": "Via Paolo VI, Cadignano, Verolanuova",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa del comune. Orario invernale, ora solare. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.328581,
+   "lon": 10.076086
+  },
+  {
+   "id": "garda-uno-verolanuova-via-dell-artigianato",
+   "tipo": "raccolta",
+   "comune": "Verolanuova",
+   "indirizzo": "Via dell’Artigianato, Verolanuova",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa del comune. Orario invernale, ora solare. Ingresso consentito fino a 10 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.328581,
+   "lon": 10.076086
   }
  ]
 }

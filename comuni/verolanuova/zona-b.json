@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "comune": "Verolanuova",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona B – Cadignano, Breda Libera, cascine e zona industriale",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Entro le 12:00 del giorno di raccolta.",
+ "fonte": "https://www.gardauno.it/media/20075/verolanuova-2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Consulta le condizioni del gestore per il ritiro di vegetale, pannolini e gli altri servizi a richiesta."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "12:00"
+}

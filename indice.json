@@ -9728,6 +9728,23 @@
       ]
     },
     {
+      "id": "moniga-del-garda",
+      "nome": "Moniga del Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.528523,
+      "lon": 10.537573,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/moniga-del-garda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montagna-in-valtellina",
       "nome": "Montagna in Valtellina",
       "provincia": "SO",
@@ -16324,6 +16341,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "verolanuova",
+      "nome": "Verolanuova",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.328581,
+      "lon": 10.076086,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A – Capoluogo",
+          "file": "comuni/verolanuova/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B – Cadignano, Breda Libera, cascine e zona industriale",
+          "file": "comuni/verolanuova/zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
     },
     {
       "id": "verolengo",

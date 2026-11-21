@@ -1302,6 +1302,44 @@
       ],
       "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-moniga-del-garda",
+      "nome": "Garda Uno – Moniga del Garda",
+      "comuni": [
+        "moniga-del-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo e quarto sabato del mese.",
+        "Prenota al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-verolanuova",
+      "nome": "Garda Uno – Verolanuova",
+      "comuni": [
+        "verolanuova"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro su prenotazione. Il calendario indica giovedì e la scheda del gestore primo sabato del mese. Conferma la data al numero verde.",
+        "Prenota al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
     }
   ]
 }
