@@ -618,6 +618,34 @@
         "You can also take them to the recycling centre"
       ],
       "fonte": "Calendari raccolta rifiuti 2026 CoAbSeR (coabser.it)"
+    },
+    {
+      "prenota_url": "https://servizi.irenambiente.it",
+      "account": null,
+      "account_en": null,
+      "data": "scelta",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "cec",
+      "nome": "CEC – San Germano / Iren Ambiente",
+      "gestori": [
+        "CEC – San Germano / Iren Ambiente"
+      ],
+      "comuni": [],
+      "telefono": "800654300",
+      "orari": "Numero verde 800 654300 (da rete fissa e mobile), app Iren Ambiente o servizi.irenambiente.it",
+      "orari_en": "Toll-free 800 654300 (landline and mobile), Iren Ambiente app or servizi.irenambiente.it",
+      "regole": [
+        "Prenoti il ritiro a domicilio in autonomia con l’app Iren Ambiente o sul sito servizi.irenambiente.it, oppure al numero verde",
+        "In alternativa porti gli ingombranti al centro di raccolta"
+      ],
+      "regole_en": [
+        "Book home pickup yourself with the Iren Ambiente app or at servizi.irenambiente.it, or call the toll-free number",
+        "You can also take bulky items to the recycling centre"
+      ],
+      "fonte": "Calendari di raccolta 2026 CEC (cecrifiuti.it)"
     }
   ]
 }

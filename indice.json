@@ -1026,6 +1026,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/beinasco/"
     },
     {
+      "id": "beinette",
+      "nome": "Beinette",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3657,
+      "lon": 7.6457,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/beinette/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "belgirate",
       "nome": "Belgirate",
       "provincia": "VB",
@@ -1065,6 +1082,23 @@
         }
       ],
       "zone_url": "https://coabser.it/pdf/calendari_raccolte/bene_vagienna.pdf"
+    },
+    {
+      "id": "bernezzo",
+      "nome": "Bernezzo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3886,
+      "lon": 7.4353,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bernezzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "beura-cardezza",
@@ -1267,6 +1301,36 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/borgiallo/"
     },
     {
+      "id": "borgo-san-dalmazzo",
+      "nome": "Borgo San Dalmazzo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3288,
+      "lon": 7.4875,
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/borgo-san-dalmazzo/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/borgo-san-dalmazzo/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/borgo-san-dalmazzo/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://cecrifiuti.it/calendari-di-raccolta/"
+    },
+    {
       "id": "borgo-ticino",
       "nome": "Borgo Ticino",
       "provincia": "NO",
@@ -1394,6 +1458,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/bosconero/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "boves",
+      "nome": "Boves",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3298,
+      "lon": 7.552,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/boves/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1651,6 +1732,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/busano/"
+    },
+    {
+      "id": "busca",
+      "nome": "Busca",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.5137,
+      "lon": 7.4735,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/busca/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "bussoleno",
@@ -2066,6 +2164,23 @@
       ]
     },
     {
+      "id": "caraglio",
+      "nome": "Caraglio",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.4177,
+      "lon": 7.4276,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caraglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "caravino",
       "nome": "Caravino",
       "provincia": "TO",
@@ -2468,6 +2583,23 @@
       ]
     },
     {
+      "id": "castelletto-stura",
+      "nome": "Castelletto Stura",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.4442,
+      "lon": 7.6391,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelletto-stura/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "castelletto-sopra-ticino",
       "nome": "Castelletto sopra Ticino",
       "provincia": "NO",
@@ -2738,6 +2870,23 @@
       ]
     },
     {
+      "id": "centallo",
+      "nome": "Centallo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.5041,
+      "lon": 7.5901,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/centallo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "ceppo-morelli",
       "nome": "Ceppo Morelli",
       "provincia": "VB",
@@ -2825,6 +2974,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/ceresole-reale/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cervasca",
+      "nome": "Cervasca",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3832,
+      "lon": 7.4679,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cervasca/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -3084,6 +3250,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/chiomonte/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chiusa-di-pesio",
+      "nome": "Chiusa di Pesio",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3248,
+      "lon": 7.6779,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/chiusa-di-pesio/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3712,6 +3895,84 @@
       ]
     },
     {
+      "id": "cuneo",
+      "nome": "Cuneo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3933,
+      "lon": 7.5512,
+      "zone": [
+        {
+          "id": "zona-1-esterna",
+          "nome": "Zona 1 – Area esterna al centro storico",
+          "file": "comuni/cuneo/zona-1-esterna.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-1-gesso",
+          "nome": "Zona 1 – Centro storico lato Gesso",
+          "file": "comuni/cuneo/zona-1-gesso.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-1-stura",
+          "nome": "Zona 1 – Centro storico lato Stura",
+          "file": "comuni/cuneo/zona-1-stura.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-1-via-roma",
+          "nome": "Zona 1 – Via Roma",
+          "file": "comuni/cuneo/zona-1-via-roma.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/cuneo/zona-2.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/cuneo/zona-3.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-4",
+          "nome": "Zona 4",
+          "file": "comuni/cuneo/zona-4.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-5",
+          "nome": "Zona 5",
+          "file": "comuni/cuneo/zona-5.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-6",
+          "nome": "Zona 6",
+          "file": "comuni/cuneo/zona-6.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-7",
+          "nome": "Zona 7",
+          "file": "comuni/cuneo/zona-7.json",
+          "valido_al": "2027-04-30"
+        },
+        {
+          "id": "zona-8",
+          "nome": "Zona 8",
+          "file": "comuni/cuneo/zona-8.json",
+          "valido_al": "2027-04-30"
+        }
+      ],
+      "zone_url": "https://cecrifiuti.it/calendari-di-raccolta/"
+    },
+    {
       "id": "cuorgne",
       "nome": "Cuorgnè",
       "provincia": "TO",
@@ -3810,6 +4071,23 @@
           "nome": "Zona unica",
           "file": "comuni/dormelletto/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "dronero",
+      "nome": "Dronero",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.467,
+      "lon": 7.3633,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dronero/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -5741,6 +6019,23 @@
       ]
     },
     {
+      "id": "margarita",
+      "nome": "Margarita",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.4026,
+      "lon": 7.6869,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/margarita/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "marta",
       "nome": "Marta",
       "provincia": "VT",
@@ -6310,6 +6605,23 @@
       ]
     },
     {
+      "id": "montanera",
+      "nome": "Montanera",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.462,
+      "lon": 7.6656,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montanera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montecastrilli",
       "nome": "Montecastrilli",
       "provincia": "TR",
@@ -6537,6 +6849,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/moriondo-torinese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "morozzo",
+      "nome": "Morozzo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.423,
+      "lon": 7.7104,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/morozzo/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7419,6 +7748,23 @@
       ]
     },
     {
+      "id": "peveragno",
+      "nome": "Peveragno",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.33,
+      "lon": 7.6171,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/peveragno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pianezza",
       "nome": "Pianezza",
       "provincia": "TO",
@@ -7459,6 +7805,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
+    },
+    {
+      "id": "pianfei",
+      "nome": "Pianfei",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3705,
+      "lon": 7.7098,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pianfei/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "piansano",
@@ -8524,6 +8887,40 @@
           "nome": "Zona unica",
           "file": "comuni/rocca-canavese/zona-unica.json",
           "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "roccasparvera",
+      "nome": "Roccasparvera",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3417,
+      "lon": 7.4413,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/roccasparvera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "roccavione",
+      "nome": "Roccavione",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3144,
+      "lon": 7.4813,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/roccavione/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -9827,6 +10224,23 @@
       ]
     },
     {
+      "id": "tarantasca",
+      "nome": "Tarantasca",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.4934,
+      "lon": 7.5451,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tarantasca/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "tavagnasco",
       "nome": "Tavagnasco",
       "provincia": "TO",
@@ -10720,6 +11134,23 @@
       ]
     },
     {
+      "id": "vignolo",
+      "nome": "Vignolo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.3596,
+      "lon": 7.4699,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vignolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vignone",
       "nome": "Vignone",
       "provincia": "VB",
@@ -10886,6 +11317,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/villar-perosa/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villar-san-costanzo",
+      "nome": "Villar San Costanzo",
+      "provincia": "CN",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "consorzio": "cec",
+      "lat": 44.483,
+      "lon": 7.3803,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villar-san-costanzo/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -11170,6 +11618,11 @@
       "nome": "CoAbSeR – Consorzio Albese Braidese Servizi Rifiuti",
       "gestore": "STR – Verde Gufo (CoAbSeR)",
       "ecocentri": "ecocentri/coabser.json"
+    },
+    "cec": {
+      "nome": "CEC – Consorzio Ecologico Cuneese",
+      "gestore": "CEC – San Germano / Iren Ambiente",
+      "ecocentri": "ecocentri/cec.json"
     }
   },
   "tipi_en": {

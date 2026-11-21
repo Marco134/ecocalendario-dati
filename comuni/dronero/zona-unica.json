@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "comune": "Dronero",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti dalle 21:00 della sera prima ed entro le 6:00 del giorno di raccolta. Organico in contenitori stradali. Ingombranti e informazioni: numero verde 800 654300 o app Iren Ambiente.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta 2026 – https://cecrifiuti.it/wp-content/uploads/2025/12/Dronero-calendario-2026-UD.pdf",
+ "raccolte": {
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "lattine",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-27": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "comune": "Vignolo",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti dalle 21:00 della sera prima ed entro le 6:00 del giorno di raccolta. Le raccolte si fanno anche nei giorni festivi. Ingombranti e informazioni: numero verde 800 654300 o app Iren Ambiente.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta 2026 – https://cecrifiuti.it/wp-content/uploads/2025/12/Vignolo-calendario-2026-UD.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ]
+ }
+}

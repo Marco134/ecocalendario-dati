@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "comune": "Villar San Costanzo",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti dalle 21:00 della sera prima ed entro le 6:00 del giorno di raccolta. Organico, vetro e metalli nei contenitori stradali. Ingombranti e informazioni: numero verde 800 654300 o app Iren Ambiente.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta 2026 – https://cecrifiuti.it/wp-content/uploads/2025/12/Villar-San-Costanzo-calendario-2026-UD.pdf",
+ "raccolte": {
+  "2026-11-24": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-27": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  }
+ ]
+}
