@@ -495,6 +495,36 @@
       ],
       "fonte": "Calendari raccolta rifiuti 2026 ConSer VCO",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "idealservice-vt",
+      "nome": "Idealservice",
+      "gestori": [
+        "Idealservice"
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "prenotazione": false,
+      "account": null,
+      "account_en": null,
+      "telefono": "0432693511",
+      "tipo_numero": "telefono",
+      "orari": "Idealservice",
+      "orari_en": "Idealservice",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Per il ritiro degli ingombranti chiedi a Idealservice o al tuo Comune come funziona nel tuo paese",
+        "In alternativa li porti all’ecocentro del tuo comune, se c’è"
+      ],
+      "regole_en": [
+        "For bulky waste pickup ask Idealservice or your town hall how it works where you live",
+        "Or take them to your town's recycling centre, if there is one"
+      ],
+      "fonte": "https://serviziambientali.idealservice.it",
+      "verificato": "2026-11-21"
     }
   ]
 }

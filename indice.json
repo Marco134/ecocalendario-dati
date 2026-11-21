@@ -11,6 +11,23 @@
   },
   "comuni": [
     {
+      "id": "acquapendente",
+      "nome": "Acquapendente",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.744,
+      "lon": 11.8651,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/acquapendente/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "aglie",
       "nome": "Agliè",
       "provincia": "TO",
@@ -269,6 +286,23 @@
       ]
     },
     {
+      "id": "arlena-di-castro",
+      "nome": "Arlena di Castro",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.463,
+      "lon": 11.8236,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/arlena-di-castro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "arola",
       "nome": "Arola",
       "provincia": "VB",
@@ -518,6 +552,23 @@
       ]
     },
     {
+      "id": "barbarano-romano",
+      "nome": "Barbarano Romano",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.2522,
+      "lon": 12.066,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/barbarano-romano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bardonecchia",
       "nome": "Bardonecchia",
       "provincia": "TO",
@@ -743,6 +794,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/bollengo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bolsena",
+      "nome": "Bolsena",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.6447,
+      "lon": 11.9876,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bolsena/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1322,6 +1390,30 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/candiolo/"
     },
     {
+      "id": "canino",
+      "nome": "Canino",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.4642,
+      "lon": 11.7491,
+      "zone": [
+        {
+          "id": "urbana",
+          "nome": "Zona urbana",
+          "file": "comuni/canino/zona-urbana.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "vasta",
+          "nome": "Zona vasta (campagna)",
+          "file": "comuni/canino/zona-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://serviziambientali.idealservice.it/comuni/canino/calendario"
+    },
+    {
       "id": "canischio",
       "nome": "Canischio",
       "provincia": "TO",
@@ -1412,6 +1504,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/cantoira/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "capodimonte",
+      "nome": "Capodimonte",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.5489,
+      "lon": 11.9063,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/capodimonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "caprezzo",
@@ -1864,6 +1973,40 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/cavour/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "celleno",
+      "nome": "Celleno",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.5598,
+      "lon": 12.1264,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/celleno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cellere",
+      "nome": "Cellere",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.508,
+      "lon": 11.7678,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cellere/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2826,6 +2969,23 @@
       ]
     },
     {
+      "id": "farnese",
+      "nome": "Farnese",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.5502,
+      "lon": 11.7245,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/farnese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "favria",
       "nome": "Favria",
       "provincia": "TO",
@@ -3009,6 +3169,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/frossasco/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "gallese",
+      "nome": "Gallese",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.3724,
+      "lon": 12.4045,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gallese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3209,6 +3386,23 @@
       ]
     },
     {
+      "id": "gradoli",
+      "nome": "Gradoli",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.6437,
+      "lon": 11.8561,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gradoli/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "gravellona-toce",
       "nome": "Gravellona Toce",
       "provincia": "VB",
@@ -3280,6 +3474,23 @@
           "nome": "Zona unica",
           "file": "comuni/grosso/zona-unica.json",
           "valido_al": "2028-02-28"
+        }
+      ]
+    },
+    {
+      "id": "grotte-di-castro",
+      "nome": "Grotte di Castro",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.6739,
+      "lon": 11.8702,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grotte-di-castro/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3420,6 +3631,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/inverso-pinasca/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ischia-di-castro",
+      "nome": "Ischia di Castro",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.5442,
+      "lon": 11.7578,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ischia-di-castro/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3726,6 +3954,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/lanzo-torinese/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "latera",
+      "nome": "Latera",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.6264,
+      "lon": 11.8284,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/latera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "lauriano",
@@ -4137,6 +4382,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/marentino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "marta",
+      "nome": "Marta",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.535,
+      "lon": 11.9252,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/marta/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4882,6 +5144,23 @@
       "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
     },
     {
+      "id": "onano",
+      "nome": "Onano",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.6937,
+      "lon": 11.815,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/onano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "orbassano",
       "nome": "Orbassano",
       "provincia": "TO",
@@ -5349,6 +5628,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
+    },
+    {
+      "id": "piansano",
+      "nome": "Piansano",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.5179,
+      "lon": 11.8282,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/piansano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "piedimulera",
@@ -5868,6 +6164,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/premosello-chiovenda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "proceno",
+      "nome": "Proceno",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.7572,
+      "lon": 11.8304,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/proceno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -6657,6 +6970,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/san-giusto-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-lorenzo-nuovo",
+      "nome": "San Lorenzo Nuovo",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.6856,
+      "lon": 11.9061,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-lorenzo-nuovo/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7577,6 +7907,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/valchiusa/"
     },
     {
+      "id": "valentano",
+      "nome": "Valentano",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.5692,
+      "lon": 11.8184,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valentano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "valgioie",
       "nome": "Valgioie",
       "provincia": "TO",
@@ -7606,6 +7953,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/valle-cannobina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vallerano",
+      "nome": "Vallerano",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.3838,
+      "lon": 12.264,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vallerano/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7725,6 +8089,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/varzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vasanello",
+      "nome": "Vasanello",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.4182,
+      "lon": 12.3465,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vasanello/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7950,6 +8331,23 @@
       ]
     },
     {
+      "id": "vignanello",
+      "nome": "Vignanello",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.3838,
+      "lon": 12.2781,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vignanello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vignone",
       "nome": "Vignone",
       "provincia": "VB",
@@ -7980,6 +8378,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/vigone/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villa-san-giovanni-in-tuscia",
+      "nome": "Villa San Giovanni in Tuscia",
+      "provincia": "VT",
+      "gestore": "Idealservice",
+      "consorzio": "idealservice-vt",
+      "lat": 42.2835,
+      "lon": 12.0529,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villa-san-giovanni-in-tuscia/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8356,6 +8771,11 @@
       "nome": "Consorzio Rifiuti del VCO",
       "gestore": "ConSer VCO",
       "ecocentri": "ecocentri/vco.json"
+    },
+    "idealservice-vt": {
+      "nome": "Comuni della Tuscia serviti da Idealservice",
+      "gestore": "Idealservice",
+      "ecocentri": "ecocentri/idealservice-vt.json"
     }
   },
   "tipi_en": {
