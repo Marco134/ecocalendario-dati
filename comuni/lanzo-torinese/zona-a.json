@@ -7,6 +7,7 @@
  "valido_dal": "2026-11-20",
  "valido_al": "2028-02-28",
  "esposizione": "Esponi i contenitori la sera prima o entro le 6 del giorno di raccolta, solo se pieni.",
+ "esposizione_entro": "06:00",
  "fonte": "Ecocalendario CISA 2026-2027 – https://www.cisaweb.info/it-it/download/zona-a-calendario-2026-27-2599-89-20059-1c6a5feb728ddb61409a7adbf323c426",
  "raccolte": {
   "2026-11-20": [

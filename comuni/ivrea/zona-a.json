@@ -7,6 +7,7 @@
  "valido_dal": "2026-11-01",
  "valido_al": "2026-12-31",
  "esposizione": "Esponi i contenitori dalle ore 6.00 del giorno di raccolta (organico dalle 12.00). Plastica, metalli e vetro: campane stradali. Nei festivi infrasettimanali la raccolta non si fa.",
+ "esposizione_entro": "06:00",
  "fonte": "Calendario raccolta 2026 – https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/",
  "raccolte": {
   "2026-11-02": [

@@ -7,6 +7,7 @@
  "valido_dal": "2026-11-20",
  "valido_al": "2026-12-31",
  "esposizione": "Raccolte del mattino: entro le 6 (o la sera prima). Raccolte del pomeriggio: entro le 12 (o la sera prima).",
+ "esposizione_entro": "06:00",
  "fonte": "Calendario raccolta rifiuti 2026 Acsel – acselspa.it/wp-content/uploads/2026/01/BUSSOLENO-ZONA-1-2026.pdf",
  "raccolte": {
   "2026-11-21": [
