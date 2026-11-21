@@ -1,0 +1,1951 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Silea S.p.A.",
+ "fonte": "https://www.sileaspa.it/calendario-centri-di-raccolta-riciclerie/",
+ "numero_verde": "800 004 590",
+ "orari_numero_verde": "",
+ "consorzio": "silea",
+ "accesso": "Orari del periodo in corso dal calendario dei centri di raccolta Silea; cambiano con le stagioni.",
+ "avviso": "Prima di andare verifica gli orari sul sito Silea.",
+ "centri": [
+  {
+   "id": "silea-61",
+   "tipo": "raccolta",
+   "comune": "Abbadia Lariana",
+   "indirizzo": "VIA PER NOVEGOLO - 23821 - Abbadia Lariana",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:15",
+      "15:15"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.90359,
+   "lon": 9.33363
+  },
+  {
+   "id": "silea-8",
+   "tipo": "raccolta",
+   "comune": "Ballabio",
+   "indirizzo": "VIA PROVINCIALE - 23811 - Ballabio",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:30",
+      "15:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.90698,
+   "lon": 9.43098
+  },
+  {
+   "id": "silea-9",
+   "tipo": "raccolta",
+   "comune": "Barzanò",
+   "indirizzo": "VIA DELLA SELVA - 23891 - Barzanò",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 settembre 2026 al 01 gennaio 2027.",
+   "lat": 45.73502,
+   "lon": 9.30975
+  },
+  {
+   "id": "silea-10",
+   "tipo": "raccolta",
+   "comune": "Barzio",
+   "indirizzo": "LOCALITA' MULINO - 23816 - Barzio",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "14:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.93754,
+   "lon": 9.4575
+  },
+  {
+   "id": "silea-11",
+   "tipo": "raccolta",
+   "comune": "Bellano",
+   "indirizzo": "STRADA NUOVA PER ORO - 23822 - Bellano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "10:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 46.04931,
+   "lon": 9.30993
+  },
+  {
+   "id": "silea-12",
+   "tipo": "raccolta",
+   "comune": "Bosisio Parini",
+   "indirizzo": "Via Cercè - 23842 - Bosisio Parini",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "11:30"
+     ]
+    ],
+    "3": [
+     [
+      "17:00",
+      "19:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "11:30"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.8013,
+   "lon": 9.29562
+  },
+  {
+   "id": "silea-7",
+   "tipo": "raccolta",
+   "comune": "Brivio",
+   "indirizzo": "Via per Airuno - 23883 - Brivio",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.74826,
+   "lon": 9.43693
+  },
+  {
+   "id": "silea-13",
+   "tipo": "raccolta",
+   "comune": "Calco",
+   "indirizzo": "Via Privata Calendoni - 23885 - Calco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.72311,
+   "lon": 9.40731
+  },
+  {
+   "id": "silea-5",
+   "tipo": "raccolta",
+   "comune": "Calolziocorte",
+   "indirizzo": "VIA SAN ROCCO - 23801 - Calolziocorte",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.78632,
+   "lon": 9.43559
+  },
+  {
+   "id": "silea-226",
+   "tipo": "raccolta",
+   "comune": "Caprino Bergamasco",
+   "indirizzo": "Via Tribulina - 24030 - Caprino Bergamasco",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.75692,
+   "lon": 9.48104
+  },
+  {
+   "id": "silea-14",
+   "tipo": "raccolta",
+   "comune": "Carenno",
+   "indirizzo": "Viale Verdi - 23802 - Carenno",
+   "per": "domestiche",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.80125,
+   "lon": 9.46455
+  },
+  {
+   "id": "silea-57",
+   "tipo": "raccolta",
+   "comune": "Casatenovo",
+   "indirizzo": "VIA BOSCHETTO - 23880 - Casatenovo",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.68019,
+   "lon": 9.31498
+  },
+  {
+   "id": "silea-15",
+   "tipo": "raccolta",
+   "comune": "Cassago Brianza",
+   "indirizzo": "Via Stazione - 23893 - Cassago Brianza",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.74635,
+   "lon": 9.28065
+  },
+  {
+   "id": "silea-16",
+   "tipo": "raccolta",
+   "comune": "Castello di Brianza",
+   "indirizzo": "Via Adamello - 23884 - Castello di Brianza",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "11:30"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.7628,
+   "lon": 9.35092
+  },
+  {
+   "id": "silea-17",
+   "tipo": "raccolta",
+   "comune": "Cernusco Lombardone",
+   "indirizzo": "VIA REGINA - 23870 - Cernusco Lombardone",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.68661,
+   "lon": 9.39071
+  },
+  {
+   "id": "silea-45",
+   "tipo": "raccolta",
+   "comune": "Cesana Brianza",
+   "indirizzo": "Via Pascoli - 23861 - Cesana Brianza",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.8134,
+   "lon": 9.29515
+  },
+  {
+   "id": "silea-18",
+   "tipo": "raccolta",
+   "comune": "Colico",
+   "indirizzo": "VIA STRADA GRANDA - 23823 - Colico",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 46.13734,
+   "lon": 9.40459
+  },
+  {
+   "id": "silea-19",
+   "tipo": "raccolta",
+   "comune": "Colle Brianza",
+   "indirizzo": "Via Giuseppe Ripamonti - 23886 - Colle Brianza",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.76697,
+   "lon": 9.36319
+  },
+  {
+   "id": "silea-20",
+   "tipo": "raccolta",
+   "comune": "Cortenova",
+   "indirizzo": "VIA CARREGGIATA - 23813 - Cortenova",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 46.01351,
+   "lon": 9.36879
+  },
+  {
+   "id": "silea-21",
+   "tipo": "raccolta",
+   "comune": "Dervio",
+   "indirizzo": "LUNGOLAGO DEGLI ULIVI - 23824 - Dervio",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 46.07289,
+   "lon": 9.29943
+  },
+  {
+   "id": "silea-22",
+   "tipo": "raccolta",
+   "comune": "Dolzago",
+   "indirizzo": "VIA PESSINA - 23843 - Dolzago",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.77038,
+   "lon": 9.33484
+  },
+  {
+   "id": "silea-23",
+   "tipo": "raccolta",
+   "comune": "Ello",
+   "indirizzo": "VIA DELLA BOGGIA - 23848 - Ello",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.78572,
+   "lon": 9.36112
+  },
+  {
+   "id": "silea-24",
+   "tipo": "raccolta",
+   "comune": "Esino Lario",
+   "indirizzo": "Strada statale 753 di Esino - 23825 - Esino Lario",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:15",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:15",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:15",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.99744,
+   "lon": 9.3242
+  },
+  {
+   "id": "silea-25",
+   "tipo": "raccolta",
+   "comune": "Galbiate",
+   "indirizzo": "VIA BERGAMO - 23851 - Galbiate",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.81243,
+   "lon": 9.3835
+  },
+  {
+   "id": "silea-26",
+   "tipo": "raccolta",
+   "comune": "Garbagnate Monastero",
+   "indirizzo": "VIA ITALIA - 23846 - Garbagnate Monastero",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "17:45"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:15"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.76463,
+   "lon": 9.29602
+  },
+  {
+   "id": "silea-27",
+   "tipo": "raccolta",
+   "comune": "Garlate",
+   "indirizzo": "VIA PONTE ROTTO - 23852 - Garlate",
+   "per": "domestiche",
+   "orari": {
+    "4": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "15:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.81176,
+   "lon": 9.3967
+  },
+  {
+   "id": "silea-28",
+   "tipo": "raccolta",
+   "comune": "Imbersago",
+   "indirizzo": "VIA DEI CADUTI - 23898 - Imbersago",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 settembre 2026 al 01 gennaio 2027.",
+   "lat": 45.71168,
+   "lon": 9.44469
+  },
+  {
+   "id": "silea-29",
+   "tipo": "raccolta",
+   "comune": "Introbio",
+   "indirizzo": "VIA PROVINCIALE - 23815 - Introbio",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.96476,
+   "lon": 9.45057
+  },
+  {
+   "id": "silea-30",
+   "tipo": "raccolta",
+   "comune": "Lasnigo",
+   "indirizzo": "Via Cristoforo Colombo - 22030 - Lasnigo",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale: dal 01 settembre 2026 al 31 dicembre 2026.",
+   "lat": 45.90731,
+   "lon": 9.26509
+  },
+  {
+   "id": "silea-31",
+   "tipo": "raccolta",
+   "comune": "Lecco",
+   "indirizzo": "VIA ARTURO TOSCANINI - 23900 - Lecco",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "18:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "18:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "18:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "18:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "18:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.83421,
+   "lon": 9.40782
+  },
+  {
+   "id": "silea-338",
+   "tipo": "raccolta",
+   "comune": "Lierna",
+   "indirizzo": "Via Giosuè Carducci - 23827 - Lierna",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 settembre 2026 al 30 giugno 2027.",
+   "lat": 45.96478,
+   "lon": 9.30528
+  },
+  {
+   "id": "silea-33",
+   "tipo": "raccolta",
+   "comune": "Lomagna",
+   "indirizzo": "Via del Roccolo - 23871 - Lomagna",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "12:30",
+      "16:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.67124,
+   "lon": 9.38107
+  },
+  {
+   "id": "silea-335",
+   "tipo": "raccolta",
+   "comune": "Mandello del Lario",
+   "indirizzo": "VIA DELLA CARLETTA - 23826 - Mandello del Lario",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 31 dicembre 2026.",
+   "lat": 45.91816,
+   "lon": 9.32568
+  },
+  {
+   "id": "silea-227",
+   "tipo": "raccolta",
+   "comune": "Mapello",
+   "indirizzo": "Via Giulio Natta - 24030 - Mapello",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario solare: dal 25 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.70113,
+   "lon": 9.55807
+  },
+  {
+   "id": "silea-35",
+   "tipo": "raccolta",
+   "comune": "Merate",
+   "indirizzo": "STRADA DELLA CASA ROSSA - 23807 - Merate",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 26 ottobre 2026 al 31 marzo 2027.",
+   "lat": 45.68353,
+   "lon": 9.42033
+  },
+  {
+   "id": "silea-36",
+   "tipo": "raccolta",
+   "comune": "Missaglia",
+   "indirizzo": "Via Primo Maggio - 23873 - Missaglia",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.70464,
+   "lon": 9.33821
+  },
+  {
+   "id": "silea-37",
+   "tipo": "raccolta",
+   "comune": "Monte Marenzo",
+   "indirizzo": "VIA SANT'ALESSANDRO - 23804 - Monte Marenzo",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "15:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.77106,
+   "lon": 9.45071
+  },
+  {
+   "id": "silea-38",
+   "tipo": "raccolta",
+   "comune": "Monticello Brianza",
+   "indirizzo": "Via Luigi Bocconi - 23876 - Monticello Brianza",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "11:30"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.71363,
+   "lon": 9.30537
+  },
+  {
+   "id": "silea-39",
+   "tipo": "raccolta",
+   "comune": "Nibionno",
+   "indirizzo": "Via Don Luigi Sturzo - 23895 - Nibionno",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.75716,
+   "lon": 9.27369
+  },
+  {
+   "id": "silea-40",
+   "tipo": "raccolta",
+   "comune": "Oggiono",
+   "indirizzo": "VIA BERSAGLIO - 23848 - Oggiono",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "12:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.79089,
+   "lon": 9.33851
+  },
+  {
+   "id": "silea-41",
+   "tipo": "raccolta",
+   "comune": "Olgiate Molgora",
+   "indirizzo": "VIA INDIPENDENZA - 23887 - Olgiate Molgora",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.72131,
+   "lon": 9.4028
+  },
+  {
+   "id": "silea-42",
+   "tipo": "raccolta",
+   "comune": "Olginate",
+   "indirizzo": "Strada dell'Alzaia - 23854 - Olginate",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.79357,
+   "lon": 9.42342
+  },
+  {
+   "id": "silea-43",
+   "tipo": "raccolta",
+   "comune": "Paderno d'Adda",
+   "indirizzo": "STRADA DELLE BRIGOLE - 23877 - Paderno d'Adda",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.67711,
+   "lon": 9.43068
+  },
+  {
+   "id": "silea-58",
+   "tipo": "raccolta",
+   "comune": "Perledo",
+   "indirizzo": "VIA ALLA CAVA ALTA - 23828 - Perledo",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 46.02253,
+   "lon": 9.28951
+  },
+  {
+   "id": "silea-44",
+   "tipo": "raccolta",
+   "comune": "Pescate",
+   "indirizzo": "VIA ALZAIA - 23855 - Pescate",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.83951,
+   "lon": 9.3976
+  },
+  {
+   "id": "silea-317",
+   "tipo": "raccolta",
+   "comune": "Presezzo",
+   "indirizzo": "Via Vittorio Veneto - 24030 - Presezzo",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.68705,
+   "lon": 9.56079
+  },
+  {
+   "id": "silea-47",
+   "tipo": "raccolta",
+   "comune": "Rogeno",
+   "indirizzo": "Via Calvenzana Inferiore - 23849 - Rogeno",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.77636,
+   "lon": 9.2751
+  },
+  {
+   "id": "silea-48",
+   "tipo": "raccolta",
+   "comune": "Santa Maria Hoè",
+   "indirizzo": "VIA DELLE INDUSTRIE - 23889 - Santa Maria Hoè",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.73851,
+   "lon": 9.38443
+  },
+  {
+   "id": "silea-49",
+   "tipo": "raccolta",
+   "comune": "Sirone",
+   "indirizzo": "VIA CAVOUR - 23844 - Sirone",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.76912,
+   "lon": 9.31567
+  },
+  {
+   "id": "silea-50",
+   "tipo": "raccolta",
+   "comune": "Sirtori",
+   "indirizzo": "VIA DEL PESCHIERONE - 23896 - Sirtori",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "11:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 01 gennaio 2027.",
+   "lat": 45.7298,
+   "lon": 9.33576
+  },
+  {
+   "id": "silea-51",
+   "tipo": "raccolta",
+   "comune": "Suello",
+   "indirizzo": "VIA SAN MIRO - 23867 - Suello",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "15:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.81698,
+   "lon": 9.31637
+  },
+  {
+   "id": "silea-52",
+   "tipo": "raccolta",
+   "comune": "Torre de' Busi",
+   "indirizzo": "Via San Gottardo - 23806 - Torre de' Busi",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.78027,
+   "lon": 9.45645
+  },
+  {
+   "id": "silea-3",
+   "tipo": "raccolta",
+   "comune": "Valmadrera",
+   "indirizzo": "VIA LEONARDO VASSENA - 23868 - Valmadrera",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "11:30"
+     ],
+     [
+      "12:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.83934,
+   "lon": 9.35976
+  },
+  {
+   "id": "silea-53",
+   "tipo": "raccolta",
+   "comune": "Valvarrone",
+   "indirizzo": "VIA VALVARRONE - 23836 - Valvarrone",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 giugno 2026 al 30 novembre 2026.",
+   "lat": 46.08157,
+   "lon": 9.32274
+  },
+  {
+   "id": "silea-332",
+   "tipo": "raccolta",
+   "comune": "Varenna",
+   "indirizzo": "VIA PINO - 23829 - Varenna",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario invernale: dal 01 novembre 2026 al 31 dicembre 2026.",
+   "lat": 45.98893,
+   "lon": 9.29401
+  },
+  {
+   "id": "silea-55",
+   "tipo": "raccolta",
+   "comune": "Vercurago",
+   "indirizzo": "VIA ADDA - 23808 - Vercurago",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.80865,
+   "lon": 9.41794
+  },
+  {
+   "id": "silea-56",
+   "tipo": "raccolta",
+   "comune": "Verderio",
+   "indirizzo": "Via dei Bacilli - 23879 - Verderio",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "11:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario apertura: dal 01 gennaio 2026 al 01 gennaio 2027.",
+   "lat": 45.65998,
+   "lon": 9.42442
+  },
+  {
+   "id": "silea-228",
+   "tipo": "raccolta",
+   "comune": "Villa d'Adda",
+   "indirizzo": "Via Catello - 24030 - Villa d'Adda",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario orario solare: dal 25 ottobre 2026 al 01 gennaio 2027.",
+   "lat": 45.71088,
+   "lon": 9.45963
+  }
+ ]
+}

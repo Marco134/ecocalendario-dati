@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "comune": "Perledo",
+ "provincia": "LC",
+ "gestore": "Silea S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti la sera prima oppure entro le 5:30 del giorno di ritiro; il passaggio termina di solito entro le 13:30. Sacco viola: multimateriale leggero (plastica e metalli). Variazioni per festività già indicate nel calendario. Info: numero verde Silea 800 004 590.",
+ "esposizione_entro": "05:30",
+ "fonte": "EcoCalendario 2026 Silea – https://www.sileaspa.it/wp-content/uploads/2025/12/Perledo-ecocalendario26_web.pdf",
+ "raccolte": {
+  "2026-11-23": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica",
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

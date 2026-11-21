@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "comune": "Esino Lario",
+ "provincia": "LC",
+ "gestore": "Silea S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti la sera prima oppure entro le 5:30 del giorno di ritiro; il passaggio termina di solito entro le 13:30. Sacco viola: multimateriale leggero (plastica e metalli). Variazioni per festività già indicate nel calendario. Info: numero verde Silea 800 004 590.",
+ "esposizione_entro": "05:30",
+ "fonte": "EcoCalendario 2026 Silea – https://www.sileaspa.it/wp-content/uploads/2025/12/Esino-ecocalendario26_web.pdf",
+ "raccolte": {
+  "2026-11-23": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "indifferenziato"
+  ]
+ }
+}

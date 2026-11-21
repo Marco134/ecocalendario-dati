@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Valmadrera",
+ "provincia": "LC",
+ "gestore": "Silea S.p.A.",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti la sera prima oppure entro le 5:30 del giorno di ritiro; il passaggio termina di solito entro le 13:30. Sacco viola: multimateriale leggero (plastica e metalli). Variazioni per festività già indicate nel calendario. Info: numero verde Silea 800 004 590.",
+ "esposizione_entro": "05:30",
+ "fonte": "EcoCalendario 2026 Silea – https://www.sileaspa.it/wp-content/uploads/2025/12/Valmadrera-z2-ecocalendario26_web.pdf",
+ "raccolte": {
+  "2026-11-24": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

@@ -676,6 +676,36 @@
         "For other requests call 800 07 66 11"
       ],
       "fonte": "contarina.it – EcoCentro e Contatti"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "silea",
+      "nome": "Silea S.p.A.",
+      "gestori": [
+        "Silea S.p.A."
+      ],
+      "comuni": [],
+      "telefono": "800004590",
+      "orari": "Numero verde Silea 800 004 590",
+      "orari_en": "Silea toll-free 800 004 590",
+      "regole": [
+        "Il ritiro a domicilio degli ingombranti è su richiesta e di norma a pagamento, salvo disposizioni del tuo Comune: chiedi al numero verde",
+        "Il ritiro a domicilio dei grandi elettrodomestici (grandi RAEE) è gratuito",
+        "In alternativa puoi portarli al centro di raccolta"
+      ],
+      "regole_en": [
+        "Home pickup of bulky waste is on request and usually charged, unless your town provides otherwise: ask the toll-free number",
+        "Home pickup of large appliances is free",
+        "You can also take them to the recycling centre"
+      ],
+      "fonte": "Silea (sileaspa.it)"
     }
   ]
 }

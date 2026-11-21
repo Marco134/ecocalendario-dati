@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Barzago",
+ "provincia": "LC",
+ "gestore": "Silea S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti la sera prima oppure entro le 5:30 del giorno di ritiro; il passaggio termina di solito entro le 13:30. Sacco viola: multimateriale leggero (plastica e metalli). Variazioni per festività già indicate nel calendario. Info: numero verde Silea 800 004 590.",
+ "esposizione_entro": "05:30",
+ "fonte": "EcoCalendario 2026 Silea – https://www.sileaspa.it/wp-content/uploads/2025/12/Barzago-ecocalendario26_web.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico",
+   "carta"
+  ]
+ }
+}

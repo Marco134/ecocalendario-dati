@@ -11,6 +11,23 @@
   },
   "comuni": [
     {
+      "id": "abbadia-lariana",
+      "nome": "Abbadia Lariana",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9005,
+      "lon": 9.3345,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/abbadia-lariana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "acquapendente",
       "nome": "Acquapendente",
       "provincia": "VT",
@@ -99,6 +116,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/airasca/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "airuno",
+      "nome": "Airuno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7544,
+      "lon": 9.4225,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/airuno/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -397,6 +431,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/angrogna/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "annone-di-brianza",
+      "nome": "Annone di Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8052,
+      "lon": 9.331,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/annone-di-brianza/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -806,6 +857,23 @@
       ]
     },
     {
+      "id": "ballabio",
+      "nome": "Ballabio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.896,
+      "lon": 9.4242,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ballabio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "balme",
       "nome": "Balme",
       "provincia": "TO",
@@ -966,6 +1034,57 @@
       ]
     },
     {
+      "id": "barzago",
+      "nome": "Barzago",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7552,
+      "lon": 9.3165,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/barzago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "barzano",
+      "nome": "Barzanò",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7346,
+      "lon": 9.3168,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/barzano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "barzio",
+      "nome": "Barzio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9465,
+      "lon": 9.4683,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/barzio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "baschi",
       "nome": "Baschi",
       "provincia": "TR",
@@ -1113,6 +1232,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/belgirate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bellano",
+      "nome": "Bellano",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0433,
+      "lon": 9.3028,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bellano/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1538,6 +1674,23 @@
       ]
     },
     {
+      "id": "bosisio-parini",
+      "nome": "Bosisio Parini",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8004,
+      "lon": 9.2879,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bosisio-parini/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "boves",
       "nome": "Boves",
       "provincia": "CN",
@@ -1659,6 +1812,23 @@
       ]
     },
     {
+      "id": "brivio",
+      "nome": "Brivio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7421,
+      "lon": 9.4483,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brivio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "brosso",
       "nome": "Brosso",
       "provincia": "TO",
@@ -1763,6 +1933,23 @@
           "id": "unica",
           "nome": "Zona unica (porta a porta solo indifferenziato)",
           "file": "comuni/bruzolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bulciago",
+      "nome": "Bulciago",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7509,
+      "lon": 9.2839,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bulciago/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1937,6 +2124,40 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/calasca-castiglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "calco",
+      "nome": "Calco",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7254,
+      "lon": 9.4179,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/calco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "calolziocorte",
+      "nome": "Calolziocorte",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8018,
+      "lon": 9.4321,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/calolziocorte/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2273,6 +2494,23 @@
       ]
     },
     {
+      "id": "caprino-bergamasco",
+      "nome": "Caprino Bergamasco",
+      "provincia": "BG",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7465,
+      "lon": 9.4816,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caprino-bergamasco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "caraglio",
       "nome": "Caraglio",
       "provincia": "CN",
@@ -2336,6 +2574,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/carema/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "carenno",
+      "nome": "Carenno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8014,
+      "lon": 9.4617,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carenno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2529,6 +2784,40 @@
       ]
     },
     {
+      "id": "casargo",
+      "nome": "Casargo",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0384,
+      "lon": 9.3883,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casargo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casatenovo",
+      "nome": "Casatenovo",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6991,
+      "lon": 9.3156,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casatenovo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cascinette-d-ivrea",
       "nome": "Cascinette d'Ivrea",
       "provincia": "TO",
@@ -2616,6 +2905,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/casier/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cassago-brianza",
+      "nome": "Cassago Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7405,
+      "lon": 9.2948,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cassago-brianza/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2837,6 +3143,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/castellinaldo-d-alba/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castello-di-brianza",
+      "nome": "Castello di Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7558,
+      "lon": 9.3483,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castello-di-brianza/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -3214,6 +3537,23 @@
       ]
     },
     {
+      "id": "cernusco-lombardone",
+      "nome": "Cernusco Lombardone",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6905,
+      "lon": 9.3976,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cernusco-lombardone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cervasca",
       "nome": "Cervasca",
       "provincia": "CN",
@@ -3243,6 +3583,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/cervere/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cesana-brianza",
+      "nome": "Cesana Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8195,
+      "lon": 9.3008,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cesana-brianza/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -3664,6 +4021,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/cirie/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "civate",
+      "nome": "Civate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8259,
+      "lon": 9.3474,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/civate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "claviere",
       "nome": "Claviere",
       "provincia": "TO",
@@ -3754,6 +4128,40 @@
           "nome": "Zona unica",
           "file": "comuni/colazza/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "colico",
+      "nome": "Colico",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.1338,
+      "lon": 9.375,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/colico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "colle-brianza",
+      "nome": "Colle Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7617,
+      "lon": 9.3659,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/colle-brianza/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3987,6 +4395,23 @@
       ]
     },
     {
+      "id": "cortenova",
+      "nome": "Cortenova",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9997,
+      "lon": 9.3838,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cortenova/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cossano-belbo",
       "nome": "Cossano Belbo",
       "provincia": "CN",
@@ -4045,6 +4470,40 @@
       ]
     },
     {
+      "id": "costa-masnaga",
+      "nome": "Costa Masnaga",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7696,
+      "lon": 9.2763,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/costa-masnaga/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "crandola-valsassina",
+      "nome": "Crandola Valsassina",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0222,
+      "lon": 9.3801,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/crandola-valsassina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "craveggia",
       "nome": "Craveggia",
       "provincia": "VB",
@@ -4057,6 +4516,40 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/craveggia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cremella",
+      "nome": "Cremella",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7399,
+      "lon": 9.3034,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cremella/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cremeno",
+      "nome": "Cremeno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9334,
+      "lon": 9.4736,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cremeno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4310,6 +4803,23 @@
       ]
     },
     {
+      "id": "dolzago",
+      "nome": "Dolzago",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7684,
+      "lon": 9.3437,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dolzago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "domodossola",
       "nome": "Domodossola",
       "provincia": "VB",
@@ -4322,6 +4832,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/domodossola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "dorio",
+      "nome": "Dorio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.1017,
+      "lon": 9.3194,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dorio/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4439,6 +4966,57 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/druogno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ello",
+      "nome": "Ello",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7878,
+      "lon": 9.3657,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "erve",
+      "nome": "Erve",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8207,
+      "lon": 9.4456,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/erve/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "esino-lario",
+      "nome": "Esino Lario",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9949,
+      "lon": 9.3354,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/esino-lario/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4757,6 +5335,23 @@
       ]
     },
     {
+      "id": "galbiate",
+      "nome": "Galbiate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8143,
+      "lon": 9.3744,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/galbiate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "gallese",
       "nome": "Gallese",
       "provincia": "VT",
@@ -4769,6 +5364,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/gallese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "garbagnate-monastero",
+      "nome": "Garbagnate Monastero",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7724,
+      "lon": 9.3027,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/garbagnate-monastero/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4787,6 +5399,23 @@
           "nome": "Zona unica",
           "file": "comuni/gargallo/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "garlate",
+      "nome": "Garlate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8043,
+      "lon": 9.4041,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/garlate/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -5369,6 +5998,23 @@
       ]
     },
     {
+      "id": "imbersago",
+      "nome": "Imbersago",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7053,
+      "lon": 9.4446,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/imbersago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "ingria",
       "nome": "Ingria",
       "provincia": "TO",
@@ -5398,6 +6044,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/intragna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "introbio",
+      "nome": "Introbio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9763,
+      "lon": 9.4518,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/introbio/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -5768,6 +6431,23 @@
       ]
     },
     {
+      "id": "la-valletta-brianza",
+      "nome": "La Valletta Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7386,
+      "lon": 9.3641,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/la-valletta-brianza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "lanzo-torinese",
       "nome": "Lanzo Torinese",
       "provincia": "TO",
@@ -5790,6 +6470,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/lanzo-torinese/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "lasnigo",
+      "nome": "Lasnigo",
+      "provincia": "CO",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8807,
+      "lon": 9.2641,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lasnigo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "latera",
@@ -5824,6 +6521,54 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "lecco",
+      "nome": "Lecco",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8558,
+      "lon": 9.3934,
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/lecco/zona-zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/lecco/zona-zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/lecco/zona-zona-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-4",
+          "nome": "Zona 4",
+          "file": "comuni/lecco/zona-zona-4.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-5",
+          "nome": "Zona 5",
+          "file": "comuni/lecco/zona-zona-5.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-6",
+          "nome": "Zona 6",
+          "file": "comuni/lecco/zona-zona-6.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.sileaspa.it/wp-content/uploads/2023/01/CartinaLecco_20210910.pdf"
     },
     {
       "id": "leini",
@@ -5954,6 +6699,23 @@
       ]
     },
     {
+      "id": "lierna",
+      "nome": "Lierna",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9561,
+      "lon": 9.3069,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lierna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "locana",
       "nome": "Locana",
       "provincia": "TO",
@@ -5976,6 +6738,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/locana/"
+    },
+    {
+      "id": "lomagna",
+      "nome": "Lomagna",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6676,
+      "lon": 9.3757,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lomagna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "lombardore",
@@ -6275,6 +7054,40 @@
       ]
     },
     {
+      "id": "malgrate",
+      "nome": "Malgrate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8519,
+      "lon": 9.3734,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/malgrate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mandello-del-lario",
+      "nome": "Mandello del Lario",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9173,
+      "lon": 9.3195,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mandello-del-lario/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "mango",
       "nome": "Mango",
       "provincia": "CN",
@@ -6287,6 +7100,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/mango/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mapello",
+      "nome": "Mapello",
+      "provincia": "BG",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7094,
+      "lon": 9.5457,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mapello/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -6368,6 +7198,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/margarita/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "margno",
+      "nome": "Margno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0305,
+      "lon": 9.38,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/margno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -6577,6 +7424,30 @@
       ]
     },
     {
+      "id": "merate",
+      "nome": "Merate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6985,
+      "lon": 9.41,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/merate/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/merate/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.sileaspa.it/wp-content/uploads/2025/12/Merate-zA-ecocalendario26_web.pdf"
+    },
+    {
       "id": "mercenasco",
       "nome": "Mercenasco",
       "provincia": "TO",
@@ -6664,6 +7535,57 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/miazzina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "missaglia",
+      "nome": "Missaglia",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7085,
+      "lon": 9.3343,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/missaglia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "moggio",
+      "nome": "Moggio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9313,
+      "lon": 9.49,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/moggio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "molteno",
+      "nome": "Molteno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7771,
+      "lon": 9.3066,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/molteno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7027,6 +7949,30 @@
       ]
     },
     {
+      "id": "monte-marenzo",
+      "nome": "Monte Marenzo",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7709,
+      "lon": 9.4535,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/monte-marenzo/zona-capoluogo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazione-levata",
+          "nome": "Frazione Levata",
+          "file": "comuni/monte-marenzo/zona-frazione-levata.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.sileaspa.it/wp-content/uploads/2025/12/MMarenzo-cap-ecocalendario26_web.pdf"
+    },
+    {
       "id": "montebelluna",
       "nome": "Montebelluna",
       "provincia": "TV",
@@ -7232,6 +8178,40 @@
       ]
     },
     {
+      "id": "montevecchia",
+      "nome": "Montevecchia",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7055,
+      "lon": 9.3806,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montevecchia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "monticello-brianza",
+      "nome": "Monticello Brianza",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7107,
+      "lon": 9.315,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/monticello-brianza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "monticello-d-alba",
       "nome": "Monticello d'Alba",
       "provincia": "CN",
@@ -7397,6 +8377,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/neviglie/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "nibionno",
+      "nome": "Nibionno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7531,
+      "lon": 9.264,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nibionno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7593,6 +8590,23 @@
       "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
     },
     {
+      "id": "oggiono",
+      "nome": "Oggiono",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7919,
+      "lon": 9.351,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/oggiono/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "oglianico",
       "nome": "Oglianico",
       "provincia": "TO",
@@ -7630,6 +8644,57 @@
           "nome": "Zona unica",
           "file": "comuni/oleggio-castello/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "olgiate-molgora",
+      "nome": "Olgiate Molgora",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7298,
+      "lon": 9.403,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/olgiate-molgora/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "olginate",
+      "nome": "Olginate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8023,
+      "lon": 9.4103,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/olginate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "oliveto-lario",
+      "nome": "Oliveto Lario",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.93,
+      "lon": 9.284,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/oliveto-lario/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -7874,6 +8939,23 @@
       ]
     },
     {
+      "id": "osnago",
+      "nome": "Osnago",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6757,
+      "lon": 9.388,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/osnago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "oulx",
       "nome": "Oulx",
       "provincia": "TO",
@@ -7920,6 +9002,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/paese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pagnona",
+      "nome": "Pagnona",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0598,
+      "lon": 9.4024,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pagnona/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7993,6 +9092,23 @@
       ]
     },
     {
+      "id": "parlasco",
+      "nome": "Parlasco",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0181,
+      "lon": 9.3454,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/parlasco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "parrano",
       "nome": "Parrano",
       "provincia": "TR",
@@ -8030,6 +9146,23 @@
           "nome": "Zona unica",
           "file": "comuni/paruzzaro/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pasturo",
+      "nome": "Pasturo",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9514,
+      "lon": 9.4434,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pasturo/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8136,6 +9269,23 @@
       ]
     },
     {
+      "id": "perledo",
+      "nome": "Perledo",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0153,
+      "lon": 9.2956,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/perledo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "perosa-argentina",
       "nome": "Perosa Argentina",
       "provincia": "TO",
@@ -8199,6 +9349,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pertusio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pescate",
+      "nome": "Pescate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.83,
+      "lon": 9.3945,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pescate/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -9013,6 +10180,23 @@
       ]
     },
     {
+      "id": "premana",
+      "nome": "Premana",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0522,
+      "lon": 9.4231,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/premana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "premeno",
       "nome": "Premeno",
       "provincia": "VB",
@@ -9064,6 +10248,40 @@
       ]
     },
     {
+      "id": "presezzo",
+      "nome": "Presezzo",
+      "provincia": "BG",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6916,
+      "lon": 9.5667,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/presezzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "primaluna",
+      "nome": "Primaluna",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.9869,
+      "lon": 9.4295,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/primaluna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "priocca",
       "nome": "Priocca",
       "provincia": "CN",
@@ -9093,6 +10311,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/proceno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pusiano",
+      "nome": "Pusiano",
+      "provincia": "CO",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8148,
+      "lon": 9.2821,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pusiano/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -9507,6 +10742,23 @@
       ]
     },
     {
+      "id": "robbiate",
+      "nome": "Robbiate",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.6888,
+      "lon": 9.4398,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/robbiate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "rocca-canavese",
       "nome": "Rocca Canavese",
       "provincia": "TO",
@@ -9604,6 +10856,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/rodello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rogeno",
+      "nome": "Rogeno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7833,
+      "lon": 9.267,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rogeno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -10389,6 +11658,23 @@
       ]
     },
     {
+      "id": "santa-maria-hoe",
+      "nome": "Santa Maria Hoè",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7436,
+      "lon": 9.3715,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/santa-maria-hoe/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "santa-maria-maggiore",
       "nome": "Santa Maria Maggiore",
       "provincia": "VB",
@@ -10710,6 +11996,40 @@
       ]
     },
     {
+      "id": "sirone",
+      "nome": "Sirone",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7725,
+      "lon": 9.3236,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sirone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sirtori",
+      "nome": "Sirtori",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7353,
+      "lon": 9.3339,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sirtori/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "sizzano",
       "nome": "Sizzano",
       "provincia": "NO",
@@ -10908,6 +12228,40 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/"
     },
     {
+      "id": "sueglio",
+      "nome": "Sueglio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0857,
+      "lon": 9.3331,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sueglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "suello",
+      "nome": "Suello",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8185,
+      "lon": 9.3082,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/suello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "suno",
       "nome": "Suno",
       "provincia": "NO",
@@ -10954,6 +12308,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/susegana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "taceno",
+      "nome": "Taceno",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0209,
+      "lon": 9.3651,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/taceno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -11057,6 +12428,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/torre-pellice/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "torre-de-busi",
+      "nome": "Torre de' Busi",
+      "provincia": "BG",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7728,
+      "lon": 9.4762,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/torre-de-busi/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -11458,6 +12846,23 @@
       ]
     },
     {
+      "id": "valgreghentino",
+      "nome": "Valgreghentino",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7694,
+      "lon": 9.4132,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valgreghentino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "valle-cannobina",
       "nome": "Valle Cannobina",
       "provincia": "VB",
@@ -11509,6 +12914,36 @@
       ]
     },
     {
+      "id": "valmadrera",
+      "nome": "Valmadrera",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.847,
+      "lon": 9.3603,
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/valmadrera/zona-zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/valmadrera/zona-zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/valmadrera/zona-zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.sileaspa.it/wp-content/uploads/2025/12/Valmadrera-z1-ecocalendario26_web.pdf"
+    },
+    {
       "id": "valperga",
       "nome": "Valperga",
       "provincia": "TO",
@@ -11556,6 +12991,23 @@
           "nome": "Zona unica",
           "file": "comuni/valstrona/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valvarrone",
+      "nome": "Valvarrone",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0816,
+      "lon": 9.3227,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valvarrone/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -11779,6 +13231,23 @@
       ]
     },
     {
+      "id": "vercurago",
+      "nome": "Vercurago",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.8107,
+      "lon": 9.4248,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vercurago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "verduno",
       "nome": "Verduno",
       "provincia": "CN",
@@ -11916,6 +13385,23 @@
       ]
     },
     {
+      "id": "vigano",
+      "nome": "Viganò",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7261,
+      "lon": 9.3242,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vigano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vignanello",
       "nome": "Vignanello",
       "provincia": "VT",
@@ -11996,6 +13482,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/villa-san-giovanni-in-tuscia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villa-d-adda",
+      "nome": "Villa d'Adda",
+      "provincia": "BG",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 45.7128,
+      "lon": 9.4646,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villa-d-adda/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -12495,6 +13998,11 @@
       "nome": "Consiglio di Bacino Priula – Contarina",
       "gestore": "Contarina S.p.A.",
       "ecocentri": "ecocentri/contarina.json"
+    },
+    "silea": {
+      "nome": "Silea – Società Intercomunale Lecchese per l’Ecologia e l’Ambiente",
+      "gestore": "Silea S.p.A.",
+      "ecocentri": "ecocentri/silea.json"
     }
   },
   "tipi_en": {
