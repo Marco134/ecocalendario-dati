@@ -5003,12 +5003,31 @@
       "lon": 12.1083,
       "zone": [
         {
+          "id": "nord-area-intensa",
+          "nome": "Nord – area intensa",
+          "file": "comuni/orvieto/zona-nord-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
           "id": "nord-area-vasta",
           "nome": "Nord – area vasta (frazioni e case sparse)",
           "file": "comuni/orvieto/zona-nord-area-vasta.json",
           "valido_al": "2026-12-31"
+        },
+        {
+          "id": "sud-area-intensa",
+          "nome": "Sud – area intensa",
+          "file": "comuni/orvieto/zona-sud-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "sud-area-vasta",
+          "nome": "Sud – area vasta (frazioni e case sparse)",
+          "file": "comuni/orvieto/zona-sud-area-vasta.json",
+          "valido_al": "2026-12-31"
         }
-      ]
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
     },
     {
       "id": "osasco",
