@@ -706,6 +706,36 @@
         "You can also take them to the recycling centre"
       ],
       "fonte": "Silea (sileaspa.it)"
+    },
+    {
+      "prenota_url": "https://vallidelverbano.va.it/ritiro-ingombranti/",
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "valli-del-verbano",
+      "nome": "Econord – Valli del Verbano",
+      "gestori": [
+        "Econord (Comunità Montana Valli del Verbano)"
+      ],
+      "comuni": [],
+      "telefono": "800135586",
+      "orari": "Numero verde 800 135 586, lunedì-venerdì 9:00-13:00",
+      "orari_en": "Toll-free 800 135 586, Monday-Friday 9:00-13:00",
+      "regole": [
+        "Ritiro gratuito su prenotazione, massimo due volte l’anno",
+        "Comunica cognome, nome, telefono, indirizzo ed elenco dei materiali",
+        "Solo ingombranti domestici (mobili, tappeti, reti, materassi, grandi imballaggi): chiedi al numero verde i limiti di quantità"
+      ],
+      "regole_en": [
+        "Free pickup on booking, up to twice a year",
+        "Give surname, name, phone, address and list of items",
+        "Household bulky items only (furniture, rugs, bed bases, mattresses, large packaging): ask the toll-free number about quantity limits"
+      ],
+      "fonte": "vallidelverbano.va.it – Ritiro ingombranti"
     }
   ]
 }

@@ -1,0 +1,320 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Econord (Comunità Montana Valli del Verbano)",
+ "fonte": "https://vallidelverbano.va.it/centri-di-raccolta-e-isole-ecologiche-ed-ecomat-come-chi-dove/",
+ "numero_verde": "800 135 586",
+ "orari_numero_verde": "",
+ "consorzio": "valli-del-verbano",
+ "accesso": "Accesso con CRS (Tessera Sanitaria Lombardia) o Ecocard. Massimo 5 accessi al mese; sabato e domenica solo autovetture private.",
+ "avviso": "Chiusi 1-6 gennaio, 5-6-25 aprile, 1 maggio, 2 giugno, 15 agosto, 1 novembre, 8-25-26 dicembre.",
+ "centri": [
+  {
+   "id": "vv-porto-valtravaglia",
+   "tipo": "raccolta",
+   "comune": "Porto Valtravaglia",
+   "indirizzo": "Località Trigo, Porto Valtravaglia",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:15"
+     ],
+     [
+      "14:00",
+      "15:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Chiuso temporaneamente dal 2 novembre 2026 per lavori; riapertura prevista entro fine novembre 2026, salvo imprevisti. Posizione indicativa (centro del comune).",
+   "lat": 45.9608,
+   "lon": 8.6803
+  },
+  {
+   "id": "vv-luino",
+   "tipo": "raccolta",
+   "comune": "Luino",
+   "indirizzo": "Via Gorizia, Luino",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:15"
+     ],
+     [
+      "14:00",
+      "15:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.0025,
+   "lon": 8.7424
+  },
+  {
+   "id": "vv-maccagno",
+   "tipo": "raccolta",
+   "comune": "Maccagno con Pino e Veddasca",
+   "indirizzo": "Via Reschigna, Maccagno con Pino e Veddasca",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:15"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.0426,
+   "lon": 8.7424
+  },
+  {
+   "id": "vv-dumenza",
+   "tipo": "raccolta",
+   "comune": "Dumenza",
+   "indirizzo": "Viale Europa, località Fraccia, Dumenza",
+   "per": "domestiche",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.0228,
+   "lon": 8.7849
+  },
+  {
+   "id": "vv-cavona",
+   "tipo": "raccolta",
+   "comune": "Cuveglio",
+   "indirizzo": "Via Cavona (Cavona), Cuveglio",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:45"
+     ],
+     [
+      "14:00",
+      "17:15"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 45.906,
+   "lon": 8.7358
+  }
+ ]
+}

@@ -86,6 +86,23 @@
       ]
     },
     {
+      "id": "agra",
+      "nome": "Agra",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 46.0341,
+      "lon": 8.7714,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/agra/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "agrate-conturbia",
       "nome": "Agrate Conturbia",
       "provincia": "NO",
@@ -737,6 +754,23 @@
           "nome": "Zona unica",
           "file": "comuni/azeglio/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "azzio",
+      "nome": "Azzio",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8854,
+      "lon": 8.7063,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/azzio/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -1778,6 +1812,40 @@
       ]
     },
     {
+      "id": "brenta",
+      "nome": "Brenta",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8952,
+      "lon": 8.6842,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brenta/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "brezzo-di-bedero",
+      "nome": "Brezzo di Bedero",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9779,
+      "lon": 8.7184,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brezzo-di-bedero/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "bricherasio",
       "nome": "Bricherasio",
       "provincia": "TO",
@@ -1808,6 +1876,40 @@
           "nome": "Zona unica",
           "file": "comuni/briga-novarese/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "brinzio",
+      "nome": "Brinzio",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8891,
+      "lon": 8.7868,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brinzio/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "brissago-valtravaglia",
+      "nome": "Brissago-Valtravaglia",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9496,
+      "lon": 8.7464,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brissago-valtravaglia/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -2528,6 +2630,23 @@
       ]
     },
     {
+      "id": "caravate",
+      "nome": "Caravate",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8795,
+      "lon": 8.6555,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caravate/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "caravino",
       "nome": "Caravino",
       "provincia": "TO",
@@ -2784,6 +2903,23 @@
       ]
     },
     {
+      "id": "casalzuigno",
+      "nome": "Casalzuigno",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9033,
+      "lon": 8.7055,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casalzuigno/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "casargo",
       "nome": "Casargo",
       "provincia": "LC",
@@ -2923,6 +3059,23 @@
           "nome": "Zona unica",
           "file": "comuni/cassago-brianza/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cassano-valcuvia",
+      "nome": "Cassano Valcuvia",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9326,
+      "lon": 8.7682,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cassano-valcuvia/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -3148,6 +3301,23 @@
       ]
     },
     {
+      "id": "castello-cabiaglio",
+      "nome": "Castello Cabiaglio",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8925,
+      "lon": 8.7548,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castello-cabiaglio/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "castello-di-brianza",
       "nome": "Castello di Brianza",
       "provincia": "LC",
@@ -3204,6 +3374,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/castelnuovo-nigra/"
+    },
+    {
+      "id": "castelveccana",
+      "nome": "Castelveccana",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9465,
+      "lon": 8.6648,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelveccana/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
     },
     {
       "id": "castiglione-falletto",
@@ -4021,6 +4208,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/cirie/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "cittiglio",
+      "nome": "Cittiglio",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8947,
+      "lon": 8.6687,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cittiglio/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "civate",
       "nome": "Civate",
       "provincia": "LC",
@@ -4769,6 +4973,57 @@
       ]
     },
     {
+      "id": "curiglia-con-monteviasco",
+      "nome": "Curiglia con Monteviasco",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 46.0606,
+      "lon": 8.8048,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/curiglia-con-monteviasco/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cuveglio",
+      "nome": "Cuveglio",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.906,
+      "lon": 8.7358,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cuveglio/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cuvio",
+      "nome": "Cuvio",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.898,
+      "lon": 8.7314,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cuvio/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "diano-d-alba",
       "nome": "Diano d'Alba",
       "provincia": "CN",
@@ -4971,6 +5226,40 @@
       ]
     },
     {
+      "id": "dumenza",
+      "nome": "Dumenza",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 46.0228,
+      "lon": 8.7849,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dumenza/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "duno",
+      "nome": "Duno",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9141,
+      "lon": 8.7385,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/duno/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "ello",
       "nome": "Ello",
       "provincia": "LC",
@@ -5137,6 +5426,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/fenestrelle/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ferrera-di-varese",
+      "nome": "Ferrera di Varese",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9323,
+      "lon": 8.7882,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ferrera-di-varese/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -5529,6 +5835,23 @@
       ]
     },
     {
+      "id": "germignaga",
+      "nome": "Germignaga",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9934,
+      "lon": 8.7268,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/germignaga/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "ghemme",
       "nome": "Ghemme",
       "provincia": "NO",
@@ -5738,6 +6061,23 @@
           "nome": "Zona unica",
           "file": "comuni/gradoli/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grantola",
+      "nome": "Grantola",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9496,
+      "lon": 8.7708,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grantola/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -6523,6 +6863,23 @@
       ]
     },
     {
+      "id": "laveno-mombello",
+      "nome": "Laveno-Mombello",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9158,
+      "lon": 8.6154,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/laveno-mombello/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "lecco",
       "nome": "Lecco",
       "provincia": "LC",
@@ -6884,6 +7241,23 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-lugnano-in-teverina/"
     },
     {
+      "id": "luino",
+      "nome": "Luino",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 46.0025,
+      "lon": 8.7424,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/luino/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "luserna-san-giovanni",
       "nome": "Luserna San Giovanni",
       "provincia": "TO",
@@ -6931,6 +7305,23 @@
           "nome": "Zona unica",
           "file": "comuni/lusiglie/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "maccagno-con-pino-e-veddasca",
+      "nome": "Maccagno con Pino e Veddasca",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 46.0426,
+      "lon": 8.7424,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maccagno-con-pino-e-veddasca/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -7237,6 +7628,23 @@
       ]
     },
     {
+      "id": "masciago-primo",
+      "nome": "Masciago Primo",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9164,
+      "lon": 8.7808,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/masciago-primo/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "maser",
       "nome": "Maser",
       "provincia": "TV",
@@ -7478,6 +7886,23 @@
           "nome": "Zona unica",
           "file": "comuni/mergozzo/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mesenzana",
+      "nome": "Mesenzana",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.947,
+      "lon": 8.7588,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mesenzana/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -8084,6 +8509,23 @@
         }
       ],
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montegabbione/"
+    },
+    {
+      "id": "montegrino-valtravaglia",
+      "nome": "Montegrino Valtravaglia",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9735,
+      "lon": 8.7681,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montegrino-valtravaglia/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
     },
     {
       "id": "monteleone-d-orvieto",
@@ -8816,6 +9258,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/orbassano/"
+    },
+    {
+      "id": "orino",
+      "nome": "Orino",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.8818,
+      "lon": 8.7129,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/orino/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
     },
     {
       "id": "orio-canavese",
@@ -9993,6 +10452,23 @@
       ]
     },
     {
+      "id": "porto-valtravaglia",
+      "nome": "Porto Valtravaglia",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9608,
+      "lon": 8.6803,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/porto-valtravaglia/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "possagno",
       "nome": "Possagno",
       "provincia": "TV",
@@ -10431,6 +10907,23 @@
           "nome": "Zona unica",
           "file": "comuni/quinto-di-treviso/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rancio-valcuvia",
+      "nome": "Rancio Valcuvia",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 45.9163,
+      "lon": 8.7702,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rancio-valcuvia/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -12682,6 +13175,23 @@
       ]
     },
     {
+      "id": "tronzano-lago-maggiore",
+      "nome": "Tronzano Lago Maggiore",
+      "provincia": "VA",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "consorzio": "valli-del-verbano",
+      "lat": 46.0915,
+      "lon": 8.7355,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tronzano-lago-maggiore/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "usseaux",
       "nome": "Usseaux",
       "provincia": "TO",
@@ -14003,6 +14513,11 @@
       "nome": "Silea – Società Intercomunale Lecchese per l’Ecologia e l’Ambiente",
       "gestore": "Silea S.p.A.",
       "ecocentri": "ecocentri/silea.json"
+    },
+    "valli-del-verbano": {
+      "nome": "Comunità Montana Valli del Verbano",
+      "gestore": "Econord (Comunità Montana Valli del Verbano)",
+      "ecocentri": "ecocentri/valli-del-verbano.json"
     }
   },
   "tipi_en": {
