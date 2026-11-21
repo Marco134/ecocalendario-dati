@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "comune": "Intragna",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta dal calendario ConSer VCO. Se nella tua via ci sono contenitori stradali, sono i giorni di svuotamento; per orari di esposizione e dubbi chiama il numero verde. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. (800 33 50 60)",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-03": [
+   "indifferenziato"
+  ],
+  "2026-11-04": [
+   "carta"
+  ],
+  "2026-11-07": [
+   "vetro"
+  ],
+  "2026-11-10": [
+   "indifferenziato"
+  ],
+  "2026-11-11": [
+   "plastica"
+  ],
+  "2026-11-14": [
+   "vetro"
+  ],
+  "2026-11-17": [
+   "indifferenziato"
+  ],
+  "2026-11-18": [
+   "carta"
+  ],
+  "2026-11-21": [
+   "vetro"
+  ],
+  "2026-11-24": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "vetro"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "vetro"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ }
+}

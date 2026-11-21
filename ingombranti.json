@@ -463,6 +463,38 @@
         "Have your user and account codes (on the TARI bill) and the list of items ready",
         "You can also book by email at cch.piemonte@etaspa.com"
       ]
+    },
+    {
+      "id": "conservco",
+      "nome": "ConSer VCO",
+      "gestori": [
+        "ConSer VCO"
+      ],
+      "comuni": [],
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "telefono": "800335060",
+      "orari": "Numero verde ConSer VCO, lun-ven 9-13 e 14:30-17",
+      "orari_en": "ConSer VCO toll-free, Mon-Fri 9-13 and 14:30-17",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro a domicilio su prenotazione al numero verde, descrivendo i rifiuti da ritirare",
+        "Massimo 5 pezzi, a piano strada davanti al tuo civico il giorno indicato",
+        "Gratuito per chi ha il bonus sociale (autocertificazione al Comune); niente rifiuti pericolosi né sgomberi",
+        "In alternativa li porti al centro di raccolta"
+      ],
+      "regole_en": [
+        "Home pickup booked through the toll-free number, describing the items",
+        "Up to 5 items, at street level in front of your house on the agreed day",
+        "Free for social bonus recipients (self-declaration to the town hall); no hazardous waste or house clearances",
+        "Or take them to a recycling centre"
+      ],
+      "fonte": "Calendari raccolta rifiuti 2026 ConSer VCO",
+      "verificato": "2026-11-21"
     }
   ]
 }

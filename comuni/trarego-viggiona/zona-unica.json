@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "comune": "Trarego Viggiona",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta dal calendario ConSer VCO. Se nella tua via ci sono contenitori stradali, sono i giorni di svuotamento; per orari di esposizione e dubbi chiama il numero verde. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. (800 33 50 60)",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-03": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "vetro"
+  ],
+  "2026-11-10": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-11-17": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "vetro"
+  ],
+  "2026-11-24": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta",
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ]
+ }
+}

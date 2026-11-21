@@ -1,0 +1,130 @@
+{
+ "schema": 1,
+ "comune": "Cossogno",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-03": [
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-06": [
+   "organico"
+  ],
+  "2026-11-07": [
+   "vetro"
+  ],
+  "2026-11-10": [
+   "indifferenziato"
+  ],
+  "2026-11-12": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-13": [
+   "organico"
+  ],
+  "2026-11-14": [
+   "vetro"
+  ],
+  "2026-11-17": [
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-21": [
+   "vetro"
+  ],
+  "2026-11-24": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "vetro"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "vetro"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

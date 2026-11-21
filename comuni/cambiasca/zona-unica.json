@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "comune": "Cambiasca",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. In alcune frazioni la raccolta è stradale (vedi il calendario del gestore). Info: numero verde 800 33 50 60.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-03": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-06": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-10": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-12": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-13": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-17": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-20": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-24": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  }
+ ]
+}

@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "comune": "Bognanco",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta dal calendario ConSer VCO. Se nella tua via ci sono contenitori stradali, sono i giorni di svuotamento; per orari di esposizione e dubbi chiama il numero verde. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. (800 33 50 60)",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-04": [
+   "carta"
+  ],
+  "2026-11-06": [
+   "plastica"
+  ],
+  "2026-11-07": [
+   "indifferenziato"
+  ],
+  "2026-11-09": [
+   "vetro"
+  ],
+  "2026-11-14": [
+   "indifferenziato"
+  ],
+  "2026-11-18": [
+   "carta"
+  ],
+  "2026-11-20": [
+   "plastica"
+  ],
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-23": [
+   "vetro"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}

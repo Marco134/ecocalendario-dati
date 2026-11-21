@@ -201,6 +201,40 @@
       ]
     },
     {
+      "id": "antrona-schieranco",
+      "nome": "Antrona Schieranco",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0614,
+      "lon": 8.1151,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/antrona-schieranco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "anzola-d-ossola",
+      "nome": "Anzola d'Ossola",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9895,
+      "lon": 8.3475,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/anzola-d-ossola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "arignano",
       "nome": "Arignano",
       "provincia": "TO",
@@ -213,6 +247,57 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/arignano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "arizzano",
+      "nome": "Arizzano",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9556,
+      "lon": 8.5831,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/arizzano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "arola",
+      "nome": "Arola",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8095,
+      "lon": 8.3588,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/arola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "aurano",
+      "nome": "Aurano",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9987,
+      "lon": 8.588,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/aurano/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -254,6 +339,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/azeglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "baceno",
+      "nome": "Baceno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.2615,
+      "lon": 8.3195,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/baceno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -382,6 +484,23 @@
       ]
     },
     {
+      "id": "bannio-anzino",
+      "nome": "Bannio Anzino",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9845,
+      "lon": 8.1462,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bannio-anzino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "barbania",
       "nome": "Barbania",
       "provincia": "TO",
@@ -428,6 +547,40 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/barone-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "baveno",
+      "nome": "Baveno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9089,
+      "lon": 8.5048,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/baveno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bee",
+      "nome": "Bee",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9627,
+      "lon": 8.5802,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bee/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -493,6 +646,40 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/beinasco/"
     },
     {
+      "id": "belgirate",
+      "nome": "Belgirate",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8384,
+      "lon": 8.5716,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/belgirate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "beura-cardezza",
+      "nome": "Beura-Cardezza",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0789,
+      "lon": 8.2993,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/beura-cardezza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bibiana",
       "nome": "Bibiana",
       "provincia": "TO",
@@ -523,6 +710,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/bobbio-pellice/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bognanco",
+      "nome": "Bognanco",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1228,
+      "lon": 8.2064,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bognanco/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -625,6 +829,23 @@
       ]
     },
     {
+      "id": "borgomezzavalle",
+      "nome": "Borgomezzavalle",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.05,
+      "lon": 8.193,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgomezzavalle/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "borgone-susa",
       "nome": "Borgone Susa",
       "provincia": "TO",
@@ -717,6 +938,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/brosso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "brovello-carpugnino",
+      "nome": "Brovello-Carpugnino",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8427,
+      "lon": 8.5332,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brovello-carpugnino/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -920,6 +1158,23 @@
       ]
     },
     {
+      "id": "calasca-castiglione",
+      "nome": "Calasca-Castiglione",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0038,
+      "lon": 8.1702,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/calasca-castiglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "caluso",
       "nome": "Caluso",
       "provincia": "TO",
@@ -966,6 +1221,23 @@
         }
       ],
       "zone_url": "https://www.ccs.to.it/calendari-raccolta"
+    },
+    {
+      "id": "cambiasca",
+      "nome": "Cambiasca",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9643,
+      "lon": 8.5411,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cambiasca/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "campiglione-fenile",
@@ -1067,6 +1339,40 @@
       ]
     },
     {
+      "id": "cannero-riviera",
+      "nome": "Cannero Riviera",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0221,
+      "lon": 8.6793,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cannero-riviera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cannobio",
+      "nome": "Cannobio",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0617,
+      "lon": 8.7002,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cannobio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cantalupa",
       "nome": "Cantalupa",
       "provincia": "TO",
@@ -1106,6 +1412,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/cantoira/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "caprezzo",
+      "nome": "Caprezzo",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9807,
+      "lon": 8.5613,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caprezzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "caprie",
@@ -1292,6 +1615,23 @@
           "nome": "Zona unica",
           "file": "comuni/casalborgone/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "casale-corte-cerro",
+      "nome": "Casale Corte Cerro",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9168,
+      "lon": 8.4151,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casale-corte-cerro/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -1528,6 +1868,23 @@
       ]
     },
     {
+      "id": "ceppo-morelli",
+      "nome": "Ceppo Morelli",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9714,
+      "lon": 8.0667,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ceppo-morelli/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cercenasco",
       "nome": "Cercenasco",
       "provincia": "TO",
@@ -1599,6 +1956,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/cesana-torinese/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cesara",
+      "nome": "Cesara",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8351,
+      "lon": 8.3659,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cesara/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2216,6 +2590,74 @@
       ]
     },
     {
+      "id": "cossogno",
+      "nome": "Cossogno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.964,
+      "lon": 8.51,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cossogno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "craveggia",
+      "nome": "Craveggia",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1406,
+      "lon": 8.4898,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/craveggia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "crevoladossola",
+      "nome": "Crevoladossola",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.156,
+      "lon": 8.3036,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/crevoladossola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "crodo",
+      "nome": "Crodo",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.2235,
+      "lon": 8.3234,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/crodo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cuceglio",
       "nome": "Cuceglio",
       "provincia": "TO",
@@ -2262,6 +2704,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/cuorgne/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "domodossola",
+      "nome": "Domodossola",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1153,
+      "lon": 8.292,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/domodossola/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2331,6 +2790,23 @@
         }
       ],
       "zone_url": "https://differenziata.junkerapp.it/druento"
+    },
+    {
+      "id": "druogno",
+      "nome": "Druogno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1353,
+      "lon": 8.4318,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/druogno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "exilles",
@@ -2448,6 +2924,23 @@
           "nome": "Zona unica",
           "file": "comuni/foglizzo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "formazza",
+      "nome": "Formazza",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.3767,
+      "lon": 8.4267,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/formazza/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2595,6 +3088,40 @@
       ]
     },
     {
+      "id": "germagno",
+      "nome": "Germagno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8925,
+      "lon": 8.388,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/germagno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ghiffa",
+      "nome": "Ghiffa",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9564,
+      "lon": 8.6171,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ghiffa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "giaglione",
       "nome": "Giaglione",
       "provincia": "TO",
@@ -2648,6 +3175,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-giaveno/"
     },
     {
+      "id": "gignese",
+      "nome": "Gignese",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8606,
+      "lon": 8.5099,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gignese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "givoletto",
       "nome": "Givoletto",
       "provincia": "TO",
@@ -2661,6 +3205,23 @@
           "nome": "Zona unica",
           "file": "comuni/givoletto/zona-unica.json",
           "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "gravellona-toce",
+      "nome": "Gravellona Toce",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9276,
+      "lon": 8.4314,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gravellona-toce/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2795,6 +3356,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
     },
     {
+      "id": "gurro",
+      "nome": "Gurro",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.086,
+      "lon": 8.5701,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gurro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "ingria",
       "nome": "Ingria",
       "provincia": "TO",
@@ -2807,6 +3385,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/ingria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "intragna",
+      "nome": "Intragna",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9953,
+      "lon": 8.5763,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/intragna/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -3336,6 +3931,23 @@
       ]
     },
     {
+      "id": "loreglia",
+      "nome": "Loreglia",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9064,
+      "lon": 8.371,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/loreglia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "lubriano",
       "nome": "Lubriano",
       "provincia": "VT",
@@ -3422,6 +4034,40 @@
       ]
     },
     {
+      "id": "macugnaga",
+      "nome": "Macugnaga",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9686,
+      "lon": 7.9678,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/macugnaga/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "madonna-del-sasso",
+      "nome": "Madonna del Sasso",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.7923,
+      "lon": 8.3681,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/madonna-del-sasso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "maglione",
       "nome": "Maglione",
       "provincia": "TO",
@@ -3434,6 +4080,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/maglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "malesco",
+      "nome": "Malesco",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1267,
+      "lon": 8.5004,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/malesco/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -3479,6 +4142,23 @@
       ]
     },
     {
+      "id": "masera",
+      "nome": "Masera",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.137,
+      "lon": 8.3265,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/masera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "massello",
       "nome": "Massello",
       "provincia": "TO",
@@ -3492,6 +4172,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/massello/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "massiola",
+      "nome": "Massiola",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9122,
+      "lon": 8.3197,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/massiola/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3581,6 +4278,23 @@
       ]
     },
     {
+      "id": "mergozzo",
+      "nome": "Mergozzo",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.961,
+      "lon": 8.4529,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mergozzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "mezzenile",
       "nome": "Mezzenile",
       "provincia": "TO",
@@ -3603,6 +4317,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/mezzenile/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "miazzina",
+      "nome": "Miazzina",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9752,
+      "lon": 8.5239,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/miazzina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "mombello-di-torino",
@@ -3861,6 +4592,40 @@
       ]
     },
     {
+      "id": "montecrestese",
+      "nome": "Montecrestese",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1655,
+      "lon": 8.3265,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montecrestese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "montescheno",
+      "nome": "Montescheno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0666,
+      "lon": 8.2329,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montescheno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "monteu-da-po",
       "nome": "Monteu da Po",
       "provincia": "TO",
@@ -4011,6 +4776,23 @@
       ]
     },
     {
+      "id": "nonio",
+      "nome": "Nonio",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8451,
+      "lon": 8.3768,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nonio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "novalesa",
       "nome": "Novalesa",
       "provincia": "TO",
@@ -4026,6 +4808,30 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "oggebbio",
+      "nome": "Oggebbio",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9969,
+      "lon": 8.6529,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/oggebbio/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "manegra-colle",
+          "nome": "Frazioni Manegra e Colle",
+          "file": "comuni/oggebbio/zona-manegra-colle.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
     },
     {
       "id": "oglianico",
@@ -4050,6 +4856,30 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/oglianico/"
+    },
+    {
+      "id": "omegna",
+      "nome": "Omegna",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8756,
+      "lon": 8.4089,
+      "zone": [
+        {
+          "id": "citta",
+          "nome": "Città",
+          "file": "comuni/omegna/zona-citta.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "mottarone",
+          "nome": "Vetta Mottarone",
+          "file": "comuni/omegna/zona-mottarone.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
     },
     {
       "id": "orbassano",
@@ -4142,6 +4972,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/orio-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ornavasso",
+      "nome": "Ornavasso",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9692,
+      "lon": 8.4158,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ornavasso/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4244,6 +5091,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/palazzo-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pallanzeno",
+      "nome": "Pallanzeno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0435,
+      "lon": 8.2579,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pallanzeno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4466,6 +5330,40 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
+    },
+    {
+      "id": "piedimulera",
+      "nome": "Piedimulera",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0271,
+      "lon": 8.2598,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/piedimulera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pieve-vergonte",
+      "nome": "Pieve Vergonte",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0056,
+      "lon": 8.2685,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pieve-vergonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "pinasca",
@@ -4905,6 +5803,57 @@
       ]
     },
     {
+      "id": "premeno",
+      "nome": "Premeno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9771,
+      "lon": 8.5915,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/premeno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "premia",
+      "nome": "Premia",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.2688,
+      "lon": 8.3395,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/premia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "premosello-chiovenda",
+      "nome": "Premosello-Chiovenda",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0027,
+      "lon": 8.3294,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/premosello-chiovenda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "quagliuzzo",
       "nome": "Quagliuzzo",
       "provincia": "TO",
@@ -4917,6 +5866,40 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/quagliuzzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quarna-sopra",
+      "nome": "Quarna Sopra",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.873,
+      "lon": 8.3722,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quarna-sopra/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quarna-sotto",
+      "nome": "Quarna Sotto",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8682,
+      "lon": 8.3639,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quarna-sotto/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4951,6 +5934,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/quincinetto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "re",
+      "nome": "Re",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1306,
+      "lon": 8.5444,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/re/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -5473,6 +6473,23 @@
       ]
     },
     {
+      "id": "san-bernardino-verbano",
+      "nome": "San Bernardino Verbano",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9568,
+      "lon": 8.5202,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-bernardino-verbano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-carlo-canavese",
       "nome": "San Carlo Canavese",
       "provincia": "TO",
@@ -5832,6 +6849,23 @@
       ]
     },
     {
+      "id": "santa-maria-maggiore",
+      "nome": "Santa Maria Maggiore",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1351,
+      "lon": 8.4669,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/santa-maria-maggiore/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "santena",
       "nome": "Santena",
       "provincia": "TO",
@@ -6116,6 +7150,30 @@
       "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-strambino-capoluogo/"
     },
     {
+      "id": "stresa",
+      "nome": "Stresa",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.8839,
+      "lon": 8.5407,
+      "zone": [
+        {
+          "id": "citta",
+          "nome": "Città",
+          "file": "comuni/stresa/zona-citta.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "isole-mottarone",
+          "nome": "Isola Bella, Isola Pescatori e Vetta Mottarone",
+          "file": "comuni/stresa/zona-isole-mottarone.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
+    },
+    {
       "id": "susa",
       "nome": "Susa",
       "provincia": "TO",
@@ -6145,6 +7203,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/tavagnasco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "toceno",
+      "nome": "Toceno",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1434,
+      "lon": 8.4676,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/toceno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -6214,6 +7289,40 @@
           "nome": "Zona unica",
           "file": "comuni/trana/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "trarego-viggiona",
+      "nome": "Trarego Viggiona",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0339,
+      "lon": 8.664,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trarego-viggiona/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "trasquera",
+      "nome": "Trasquera",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.2125,
+      "lon": 8.214,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trasquera/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -6300,6 +7409,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/trofarello/"
+    },
+    {
+      "id": "trontano",
+      "nome": "Trontano",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1222,
+      "lon": 8.3345,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trontano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "usseaux",
@@ -6449,6 +7575,23 @@
       ]
     },
     {
+      "id": "valle-cannobina",
+      "nome": "Valle Cannobina",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0725,
+      "lon": 8.5904,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valle-cannobina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vallo-torinese",
       "nome": "Vallo Torinese",
       "provincia": "TO",
@@ -6500,6 +7643,40 @@
       ]
     },
     {
+      "id": "valstrona",
+      "nome": "Valstrona",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9073,
+      "lon": 8.3408,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valstrona/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vanzone-con-san-carlo",
+      "nome": "Vanzone con San Carlo",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.98,
+      "lon": 8.1104,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vanzone-con-san-carlo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "varisella",
       "nome": "Varisella",
       "provincia": "TO",
@@ -6513,6 +7690,23 @@
           "nome": "Zona unica",
           "file": "comuni/varisella/zona-unica.json",
           "valido_al": "2028-02-28"
+        }
+      ]
+    },
+    {
+      "id": "varzo",
+      "nome": "Varzo",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.2067,
+      "lon": 8.2555,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/varzo/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -6613,6 +7807,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/venaus/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "verbania",
+      "nome": "Verbania",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9214,
+      "lon": 8.5511,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/verbania/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -6720,6 +7931,23 @@
       ]
     },
     {
+      "id": "vignone",
+      "nome": "Vignone",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 45.9604,
+      "lon": 8.5664,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vignone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vigone",
       "nome": "Vigone",
       "provincia": "TO",
@@ -6733,6 +7961,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/vigone/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villadossola",
+      "nome": "Villadossola",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0677,
+      "lon": 8.2601,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villadossola/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -6873,6 +8118,23 @@
       ]
     },
     {
+      "id": "villette",
+      "nome": "Villette",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.1313,
+      "lon": 8.5341,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villette/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vische",
       "nome": "Vische",
       "provincia": "TO",
@@ -6936,6 +8198,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/viu/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "vogogna",
+      "nome": "Vogogna",
+      "provincia": "VB",
+      "gestore": "ConSer VCO",
+      "consorzio": "vco",
+      "lat": 46.0078,
+      "lon": 8.2955,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vogogna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "volpiano",
@@ -7053,6 +8332,11 @@
       "nome": "Consorzio Chierese per i Servizi",
       "gestore": "CCS – Consorzio Chierese per i Servizi",
       "ecocentri": "ecocentri/ccs.json"
+    },
+    "vco": {
+      "nome": "Consorzio Rifiuti del VCO",
+      "gestore": "ConSer VCO",
+      "ecocentri": "ecocentri/vco.json"
     }
   },
   "tipi_en": {

@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "comune": "Crevoladossola",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-03": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-05": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-10": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-12": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-17": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-19": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-24": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-26": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-03": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "vetro",
+   "indifferenziato"
+  ]
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "comune": "Anzola d'Ossola",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-02": [
+   "indifferenziato"
+  ],
+  "2026-11-03": [
+   "organico"
+  ],
+  "2026-11-04": [
+   "vetro"
+  ],
+  "2026-11-05": [
+   "plastica"
+  ],
+  "2026-11-09": [
+   "indifferenziato"
+  ],
+  "2026-11-10": [
+   "organico"
+  ],
+  "2026-11-12": [
+   "carta"
+  ],
+  "2026-11-16": [
+   "indifferenziato"
+  ],
+  "2026-11-17": [
+   "organico"
+  ],
+  "2026-11-19": [
+   "plastica"
+  ],
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}

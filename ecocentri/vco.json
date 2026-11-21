@@ -1,0 +1,662 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-21",
+  "gestore": "ConSer VCO",
+  "fonte": "https://www.conservco.it/it/calendari-raccolta-2026/",
+  "numero_verde": "800 33 50 60",
+  "orari_numero_verde": "lun-ven 9-13 e 14:30-17",
+  "accesso": "Porta la Carta Rifiuti o un documento d’identità. Tessili, oli, batterie e RAEE puoi portarli in qualsiasi centro del VCO.",
+  "avviso": "Chiusi nei festivi, il 25 dicembre, il 1° gennaio, il 1° maggio, con allerta meteo arancione o rossa e nel giorno della festa patronale del comune.",
+  "consorzio": "vco",
+  "centri": [
+    {
+      "id": "vco-borgomezzavalle",
+      "tipo": "raccolta",
+      "comune": "Borgomezzavalle",
+      "indirizzo": "Via Provinciale",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "11:30"
+          ]
+        ],
+        "5": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.05,
+      "lon": 8.193
+    },
+    {
+      "id": "vco-premia",
+      "tipo": "raccolta",
+      "comune": "Premia",
+      "indirizzo": "Frazione Cagiogno",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "11:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Aperto anche il 1° e il 3° sabato del mese, 8:30-11:30.",
+      "lat": 46.2688,
+      "lon": 8.3395
+    },
+    {
+      "id": "vco-bannio-anzino",
+      "tipo": "raccolta",
+      "comune": "Bannio Anzino",
+      "indirizzo": "Via San Pietro (loc. Pontegrande)",
+      "per": "domestiche",
+      "orari": {
+        "4": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.9845,
+      "lon": 8.1462
+    },
+    {
+      "id": "vco-villadossola",
+      "tipo": "raccolta",
+      "comune": "Villadossola",
+      "indirizzo": "Via Lancone 2",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "11:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "11:30"
+          ]
+        ],
+        "2": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.0677,
+      "lon": 8.2601
+    },
+    {
+      "id": "vco-crevoladossola",
+      "tipo": "raccolta",
+      "comune": "Crevoladossola",
+      "indirizzo": "Via Geo Chavez",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ],
+          [
+            "08:30",
+            "11:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.156,
+      "lon": 8.3036
+    },
+    {
+      "id": "vco-cannobio",
+      "tipo": "raccolta",
+      "comune": "Cannobio",
+      "indirizzo": "Via Madonna delle Grazie",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "11:45"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "11:45"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "11:45"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "11:45"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.0617,
+      "lon": 8.7002
+    },
+    {
+      "id": "vco-casale-corte-cerro",
+      "tipo": "raccolta",
+      "comune": "Casale Corte Cerro",
+      "indirizzo": "Via Nazioni Unite 7",
+      "per": "domestiche",
+      "orari": {
+        "4": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.9168,
+      "lon": 8.4151
+    },
+    {
+      "id": "vco-omegna",
+      "tipo": "raccolta",
+      "comune": "Omegna",
+      "indirizzo": "Via Varallo (loc. Monte Zuoli)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.8756,
+      "lon": 8.4089
+    },
+    {
+      "id": "vco-malesco",
+      "tipo": "raccolta",
+      "comune": "Malesco",
+      "indirizzo": "Strada Provinciale 337 km 56",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.1267,
+      "lon": 8.5004
+    },
+    {
+      "id": "vco-domodossola",
+      "tipo": "raccolta",
+      "comune": "Domodossola",
+      "indirizzo": "Regione alle Nosere",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.1153,
+      "lon": 8.292
+    },
+    {
+      "id": "vco-gignese",
+      "tipo": "raccolta",
+      "comune": "Gignese",
+      "indirizzo": "Via Nova (loc. Pisciola)",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario 1/10-31/5. Dal 1/6 al 30/9 aperto anche il giovedì.",
+      "lat": 45.8606,
+      "lon": 8.5099
+    },
+    {
+      "id": "vco-gravellona-toce",
+      "tipo": "raccolta",
+      "comune": "Gravellona Toce",
+      "indirizzo": "Via Cavalier Anacleto Cirla 5",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.9276,
+      "lon": 8.4314
+    },
+    {
+      "id": "vco-piedimulera",
+      "tipo": "raccolta",
+      "comune": "Piedimulera",
+      "indirizzo": "Via Cascina Manini",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "10:30",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario 1/11-31/3. Dal 1/4 al 31/10 aperto anche il mercoledì.",
+      "lat": 46.0271,
+      "lon": 8.2598
+    },
+    {
+      "id": "vco-pieve-vergonte",
+      "tipo": "raccolta",
+      "comune": "Pieve Vergonte",
+      "indirizzo": "Via dei Gabbi (loc. Rumianca)",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Sabato dal 1° al 4° del mese.",
+      "lat": 46.0056,
+      "lon": 8.2685
+    },
+    {
+      "id": "vco-stresa",
+      "tipo": "raccolta",
+      "comune": "Stresa",
+      "indirizzo": "Via Selvalunga 26",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.8839,
+      "lon": 8.5407
+    },
+    {
+      "id": "vco-trarego-viggiona",
+      "tipo": "raccolta",
+      "comune": "Trarego Viggiona",
+      "indirizzo": "Via per Viggiona 1 (loc. Pertocca)",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.0339,
+      "lon": 8.664
+    },
+    {
+      "id": "vco-varzo",
+      "tipo": "raccolta",
+      "comune": "Varzo",
+      "indirizzo": "Via privata Galtarossa",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "11:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 46.2067,
+      "lon": 8.2555
+    },
+    {
+      "id": "vco-verbania",
+      "tipo": "raccolta",
+      "comune": "Verbania",
+      "indirizzo": "Via del Plusc 2",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.9214,
+      "lon": 8.5511
+    },
+    {
+      "id": "vco-vogogna",
+      "tipo": "raccolta",
+      "comune": "Vogogna",
+      "indirizzo": "Via Nazionale 200",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "11:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario 1/11-31/3. Dal 1/4 al 31/10 aperto anche il mercoledì.",
+      "lat": 46.0078,
+      "lon": 8.2955
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+ "schema": 1,
+ "comune": "Verbania",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti dopo le 22 del giorno prima ed entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-02": [
+   "vetro"
+  ],
+  "2026-11-03": [
+   "organico"
+  ],
+  "2026-11-04": [
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "carta"
+  ],
+  "2026-11-06": [
+   "organico"
+  ],
+  "2026-11-07": [
+   "plastica"
+  ],
+  "2026-11-09": [
+   "vetro"
+  ],
+  "2026-11-10": [
+   "organico"
+  ],
+  "2026-11-11": [
+   "indifferenziato"
+  ],
+  "2026-11-12": [
+   "carta"
+  ],
+  "2026-11-13": [
+   "organico"
+  ],
+  "2026-11-14": [
+   "plastica"
+  ],
+  "2026-11-16": [
+   "vetro"
+  ],
+  "2026-11-17": [
+   "organico"
+  ],
+  "2026-11-18": [
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "carta"
+  ],
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-21": [
+   "plastica"
+  ],
+  "2026-11-23": [
+   "vetro"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

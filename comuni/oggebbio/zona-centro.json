@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "comune": "Oggebbio",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Centro",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. In alcune frazioni la raccolta è stradale (vedi il calendario del gestore). Info: numero verde 800 33 50 60.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://www.conservco.it/it/calendari-raccolta-2026/",
+ "raccolte": {
+  "2026-11-02": [
+   "indifferenziato"
+  ],
+  "2026-11-04": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-05": [
+   "vetro"
+  ],
+  "2026-11-06": [
+   "indifferenziato"
+  ],
+  "2026-11-09": [
+   "indifferenziato"
+  ],
+  "2026-11-11": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-12": [
+   "vetro"
+  ],
+  "2026-11-13": [
+   "indifferenziato"
+  ],
+  "2026-11-16": [
+   "indifferenziato"
+  ],
+  "2026-11-18": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-19": [
+   "vetro"
+  ],
+  "2026-11-20": [
+   "indifferenziato"
+  ],
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-26": [
+   "vetro"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "vetro"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "vetro"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "indifferenziato"
+  }
+ ]
+}
