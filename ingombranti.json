@@ -1188,6 +1188,120 @@
       ],
       "fonte": "https://www.gardauno.it/it/comuni/valvestino | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-calvagese-della-riviera",
+      "nome": "Garda Uno – Calvagese della Riviera",
+      "comuni": [
+        "calvagese-della-riviera"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: terzo martedì del mese.",
+        "Prenota fino a due giorni prima al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-desenzano-del-garda",
+      "nome": "Garda Uno – Desenzano del Garda",
+      "comuni": [
+        "desenzano-del-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: dal lunedì al venerdì.",
+        "Prenota fino a due giorni prima al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-lonato-del-garda",
+      "nome": "Garda Uno – Lonato del Garda",
+      "comuni": [
+        "lonato-del-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo e quarto mercoledì del mese.",
+        "Prenota fino a due giorni prima al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-polpenazze-del-garda",
+      "nome": "Garda Uno – Polpenazze del Garda",
+      "comuni": [
+        "polpenazze-del-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: primo martedì del mese.",
+        "Prenota fino a due giorni prima al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-salo",
+      "nome": "Garda Uno – Salò",
+      "comuni": [
+        "salo"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: primo e terzo venerdì del mese.",
+        "Prenota fino a due giorni prima al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-tremosine-sul-garda",
+      "nome": "Garda Uno – Tremosine sul Garda",
+      "comuni": [
+        "tremosine-sul-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: terzo lunedì del mese.",
+        "Prenota fino a due giorni prima al numero verde. Massimo 3 pezzi. Conferma la data con il gestore."
+      ],
+      "regole_en": [
+        "Book bulky waste collection online or by phone where available. Check the municipal service page for dates and instructions. Limit of three items."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
     }
   ]
 }

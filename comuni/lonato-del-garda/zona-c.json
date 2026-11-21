@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "comune": "Lonato del Garda",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona C – Centro",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dalle 21:00 alle 24:00 del giorno precedente.",
+ "fonte": "https://www.gardauno.it/media/20057/lonato-2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Consulta le condizioni del gestore per il ritiro di vegetale, pannolini e gli altri servizi a richiesta."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "00:00"
+}

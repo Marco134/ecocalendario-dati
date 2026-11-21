@@ -2733,6 +2733,23 @@
       "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-caluso-capoluogo/"
     },
     {
+      "id": "calvagese-della-riviera",
+      "nome": "Calvagese della Riviera",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.54004,
+      "lon": 10.445833,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/calvagese-della-riviera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cambiano",
       "nome": "Cambiano",
       "provincia": "TO",
@@ -5943,6 +5960,36 @@
       ]
     },
     {
+      "id": "desenzano-del-garda",
+      "nome": "Desenzano del Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.469485,
+      "lon": 10.538947,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/desenzano-del-garda/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/desenzano-del-garda/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C – Centro storico",
+          "file": "comuni/desenzano-del-garda/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
+    },
+    {
       "id": "diano-d-alba",
       "nome": "Diano d'Alba",
       "provincia": "CN",
@@ -8348,6 +8395,36 @@
           "valido_al": "2027-02-28"
         }
       ]
+    },
+    {
+      "id": "lonato-del-garda",
+      "nome": "Lonato del Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.461039,
+      "lon": 10.484535,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A – Sud",
+          "file": "comuni/lonato-del-garda/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B – Nord",
+          "file": "comuni/lonato-del-garda/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C – Centro",
+          "file": "comuni/lonato-del-garda/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
     },
     {
       "id": "loranze",
@@ -12004,6 +12081,23 @@
       "zone_url": "https://www.ccs.to.it/calendari-raccolta"
     },
     {
+      "id": "polpenazze-del-garda",
+      "nome": "Polpenazze del Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.551185,
+      "lon": 10.504875,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/polpenazze-del-garda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pomaretto",
       "nome": "Pomaretto",
       "provincia": "TO",
@@ -13476,6 +13570,36 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "salo",
+      "nome": "Salò",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.605678,
+      "lon": 10.520069,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A – Centro",
+          "file": "comuni/salo/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/salo/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/salo/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
     },
     {
       "id": "samolaco",
@@ -15290,6 +15414,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/treiso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "tremosine-sul-garda",
+      "nome": "Tremosine sul Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.771079,
+      "lon": 10.760773,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tremosine-sul-garda/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
