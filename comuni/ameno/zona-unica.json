@@ -1,0 +1,197 @@
+{
+ "schema": 1,
+ "comune": "Ameno",
+ "provincia": "NO",
+ "gestore": "Cooperativa Sociale Risorse",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "fonte": "Calendario ufficiale Consorzio Area Vasta Medio Novarese – https://www.consorziomedionovarese.it/it-it/download/ameno-2026-uff-817-109-20027-12ac2a9538615820a42052337a074850",
+ "note": [
+  "Lattine: sacco dedicato, nei giorni indicati.",
+  "Verde: servizio a domicilio solo con abbonamento (contratto con il gestore), quindi non è nel calendario."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "lattine"
+  ],
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "lattine"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "indifferenziato"
+  ],
+  "2027-01-06": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-13": [
+   "plastica"
+  ],
+  "2027-01-14": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "carta"
+  ],
+  "2027-01-16": [
+   "lattine"
+  ],
+  "2027-01-18": [
+   "indifferenziato"
+  ],
+  "2027-01-20": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-27": [
+   "plastica"
+  ],
+  "2027-01-28": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "carta"
+  ],
+  "2027-02-01": [
+   "indifferenziato"
+  ],
+  "2027-02-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-04": [
+   "organico"
+  ],
+  "2027-02-05": [
+   "carta"
+  ],
+  "2027-02-10": [
+   "plastica"
+  ],
+  "2027-02-11": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "carta"
+  ],
+  "2027-02-13": [
+   "lattine"
+  ],
+  "2027-02-15": [
+   "indifferenziato"
+  ],
+  "2027-02-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-18": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "carta"
+  ],
+  "2027-02-24": [
+   "plastica"
+  ],
+  "2027-02-25": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}

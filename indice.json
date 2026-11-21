@@ -69,6 +69,23 @@
       ]
     },
     {
+      "id": "agrate-conturbia",
+      "nome": "Agrate Conturbia",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.676,
+      "lon": 8.5599,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/agrate-conturbia/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "airasca",
       "nome": "Airasca",
       "provincia": "TO",
@@ -263,6 +280,23 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-amelia/"
     },
     {
+      "id": "ameno",
+      "nome": "Ameno",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7888,
+      "lon": 8.4394,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ameno/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "andezeno",
       "nome": "Andezeno",
       "provincia": "TO",
@@ -399,6 +433,23 @@
       ]
     },
     {
+      "id": "armeno",
+      "nome": "Armeno",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.822,
+      "lon": 8.4392,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/armeno/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "arola",
       "nome": "Arola",
       "provincia": "VB",
@@ -414,6 +465,36 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "arona",
+      "nome": "Arona",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7604,
+      "lon": 8.5595,
+      "zone": [
+        {
+          "id": "a-b",
+          "nome": "Zone A e B",
+          "file": "comuni/arona/zona-a-b.json",
+          "valido_al": "2027-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/arona/zona-c.json",
+          "valido_al": "2027-12-31"
+        },
+        {
+          "id": "d",
+          "nome": "Zona D",
+          "file": "comuni/arona/zona-d.json",
+          "valido_al": "2027-12-31"
+        }
+      ],
+      "zone_url": "https://www.consorziomedionovarese.it/it-it/download/zone-di-raccolta-rifiuti-ad-arona-9-109-20027-e373b3b717a106207a092f94ccee3b2c"
     },
     {
       "id": "attigliano",
@@ -926,6 +1007,23 @@
       ]
     },
     {
+      "id": "boca",
+      "nome": "Boca",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6783,
+      "lon": 8.4087,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/boca/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "bognanco",
       "nome": "Bognanco",
       "provincia": "VB",
@@ -939,6 +1037,23 @@
           "nome": "Zona unica",
           "file": "comuni/bognanco/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bogogno",
+      "nome": "Bogogno",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6672,
+      "lon": 8.5345,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bogogno/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -973,6 +1088,23 @@
           "nome": "Zona unica",
           "file": "comuni/bolsena/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bolzano-novarese",
+      "nome": "Bolzano Novarese",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7628,
+      "lon": 8.4442,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bolzano-novarese/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -1024,6 +1156,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/borgiallo/"
     },
     {
+      "id": "borgo-ticino",
+      "nome": "Borgo Ticino",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6881,
+      "lon": 8.6039,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgo-ticino/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "borgofranco-d-ivrea",
       "nome": "Borgofranco d'Ivrea",
       "provincia": "TO",
@@ -1039,6 +1188,36 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "borgomanero",
+      "nome": "Borgomanero",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6989,
+      "lon": 8.463,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/borgomanero/zona-a.json",
+          "valido_al": "2027-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/borgomanero/zona-b.json",
+          "valido_al": "2027-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/borgomanero/zona-c.json",
+          "valido_al": "2027-12-31"
+        }
+      ],
+      "zone_url": "https://www.consorziomedionovarese.it/it-it/download/zone-di-raccolta-rifiuti-a-borgomanero-17-109-20027-025da79dc9e98b71425813a9f4a9f8a6"
     },
     {
       "id": "borgomasino",
@@ -1151,6 +1330,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/bricherasio/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "briga-novarese",
+      "nome": "Briga Novarese",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7314,
+      "lon": 8.4516,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/briga-novarese/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -1872,6 +2068,23 @@
       "zone_url": "https://www.ccs.to.it/calendari-raccolta"
     },
     {
+      "id": "carpignano-sesia",
+      "nome": "Carpignano Sesia",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.5353,
+      "lon": 8.4183,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carpignano-sesia/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "casalborgone",
       "nome": "Casalborgone",
       "provincia": "TO",
@@ -2086,6 +2299,30 @@
       ]
     },
     {
+      "id": "castelletto-sopra-ticino",
+      "nome": "Castelletto sopra Ticino",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7141,
+      "lon": 8.6424,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/castelletto-sopra-ticino/zona-a.json",
+          "valido_al": "2027-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/castelletto-sopra-ticino/zona-b.json",
+          "valido_al": "2027-12-31"
+        }
+      ],
+      "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+    },
+    {
       "id": "castelnuovo-nigra",
       "nome": "Castelnuovo Nigra",
       "provincia": "TO",
@@ -2162,6 +2399,40 @@
       ]
     },
     {
+      "id": "cavaglietto",
+      "nome": "Cavaglietto",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6028,
+      "lon": 8.5009,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavaglietto/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cavaglio-d-agogna",
+      "nome": "Cavaglio d'Agogna",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6118,
+      "lon": 8.4828,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavaglio-d-agogna/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "cavagnolo",
       "nome": "Cavagnolo",
       "provincia": "TO",
@@ -2175,6 +2446,23 @@
           "nome": "Zona unica",
           "file": "comuni/cavagnolo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cavallirio",
+      "nome": "Cavallirio",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.665,
+      "lon": 8.3967,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavallirio/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -2757,6 +3045,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-coazze/"
     },
     {
+      "id": "colazza",
+      "nome": "Colazza",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7926,
+      "lon": 8.4991,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/colazza/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "collegno",
       "nome": "Collegno",
       "provincia": "TO",
@@ -2894,6 +3199,23 @@
       ]
     },
     {
+      "id": "comignago",
+      "nome": "Comignago",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7152,
+      "lon": 8.5651,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/comignago/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "condove",
       "nome": "Condove",
       "provincia": "TO",
@@ -2986,6 +3308,23 @@
       ]
     },
     {
+      "id": "cressa",
+      "nome": "Cressa",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.648,
+      "lon": 8.5075,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cressa/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "crevoladossola",
       "nome": "Crevoladossola",
       "provincia": "VB",
@@ -3071,6 +3410,40 @@
       ]
     },
     {
+      "id": "cureggio",
+      "nome": "Cureggio",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6751,
+      "lon": 8.4614,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cureggio/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "divignano",
+      "nome": "Divignano",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6623,
+      "lon": 8.6015,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/divignano/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "domodossola",
       "nome": "Domodossola",
       "provincia": "VB",
@@ -3084,6 +3457,23 @@
           "nome": "Zona unica",
           "file": "comuni/domodossola/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "dormelletto",
+      "nome": "Dormelletto",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7302,
+      "lon": 8.5732,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dormelletto/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -3201,6 +3591,23 @@
           "nome": "Zona unica",
           "file": "comuni/fabro/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "fara-novarese",
+      "nome": "Fara Novarese",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.5551,
+      "lon": 8.4591,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fara-novarese/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -3348,6 +3755,23 @@
       ]
     },
     {
+      "id": "fontaneto-d-agogna",
+      "nome": "Fontaneto d'Agogna",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6399,
+      "lon": 8.4846,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fontaneto-d-agogna/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "formazza",
       "nome": "Formazza",
       "provincia": "VB",
@@ -3450,6 +3874,23 @@
       ]
     },
     {
+      "id": "gargallo",
+      "nome": "Gargallo",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7275,
+      "lon": 8.4292,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gargallo/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "garzigliana",
       "nome": "Garzigliana",
       "provincia": "TO",
@@ -3508,6 +3949,23 @@
       }
     },
     {
+      "id": "gattico-veruno",
+      "nome": "Gattico-Veruno",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7076,
+      "lon": 8.5213,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gattico-veruno/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "germagnano",
       "nome": "Germagnano",
       "provincia": "TO",
@@ -3538,6 +3996,23 @@
           "nome": "Zona unica",
           "file": "comuni/germagno/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ghemme",
+      "nome": "Ghemme",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.5978,
+      "lon": 8.4201,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ghemme/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -3670,6 +4145,23 @@
       ]
     },
     {
+      "id": "gozzano",
+      "nome": "Gozzano",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7476,
+      "lon": 8.4347,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gozzano/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "gradoli",
       "nome": "Gradoli",
       "provincia": "VT",
@@ -3717,6 +4209,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/gravere/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grignasco",
+      "nome": "Grignasco",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6819,
+      "lon": 8.3397,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grignasco/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -3939,6 +4448,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/inverso-pinasca/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "invorio",
+      "nome": "Invorio",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7559,
+      "lon": 8.4867,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/invorio/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -4375,6 +4901,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/lemie/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "lesa",
+      "nome": "Lesa",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.8301,
+      "lon": 8.5648,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lesa/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "lessolo",
       "nome": "Lessolo",
       "provincia": "TO",
@@ -4645,6 +5188,23 @@
       ]
     },
     {
+      "id": "maggiora",
+      "nome": "Maggiora",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6908,
+      "lon": 8.421,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maggiora/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "maglione",
       "nome": "Maglione",
       "provincia": "TO",
@@ -4770,6 +5330,23 @@
       ]
     },
     {
+      "id": "massino-visconti",
+      "nome": "Massino Visconti",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.8219,
+      "lon": 8.5388,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/massino-visconti/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "massiola",
       "nome": "Massiola",
       "provincia": "VB",
@@ -4855,6 +5432,23 @@
       ]
     },
     {
+      "id": "meina",
+      "nome": "Meina",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.79,
+      "lon": 8.5376,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/meina/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "mercenasco",
       "nome": "Mercenasco",
       "provincia": "TO",
@@ -4911,6 +5505,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/mezzenile/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "miasino",
+      "nome": "Miasino",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.8022,
+      "lon": 8.4304,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/miasino/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
     },
     {
       "id": "miazzina",
@@ -5350,6 +5961,23 @@
       ]
     },
     {
+      "id": "nebbiuno",
+      "nome": "Nebbiuno",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.8061,
+      "lon": 8.5242,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nebbiuno/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "nichelino",
       "nome": "Nichelino",
       "provincia": "TO",
@@ -5548,6 +6176,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/oglianico/"
     },
     {
+      "id": "oleggio-castello",
+      "nome": "Oleggio Castello",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7493,
+      "lon": 8.5297,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/oleggio-castello/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "omegna",
       "nome": "Omegna",
       "provincia": "VB",
@@ -5697,6 +6342,23 @@
           "nome": "Zona unica",
           "file": "comuni/ornavasso/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "orta-san-giulio",
+      "nome": "Orta San Giulio",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7992,
+      "lon": 8.4057,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/orta-san-giulio/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -5897,6 +6559,23 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-parrano/"
     },
     {
+      "id": "paruzzaro",
+      "nome": "Paruzzaro",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.7487,
+      "lon": 8.5135,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/paruzzaro/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
       "id": "pavarolo",
       "nome": "Pavarolo",
       "provincia": "TO",
@@ -5944,6 +6623,23 @@
           "nome": "Zona unica",
           "file": "comuni/pecetto-torinese/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pella",
+      "nome": "Pella",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7971,
+      "lon": 8.3831,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pella/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -6055,6 +6751,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/pessinetto/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "pettenasco",
+      "nome": "Pettenasco",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.8173,
+      "lon": 8.4086,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pettenasco/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
     },
     {
       "id": "pianezza",
@@ -6316,6 +7029,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/piossasco/"
     },
     {
+      "id": "pisano",
+      "nome": "Pisano",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7935,
+      "lon": 8.5104,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pisano/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "piscina",
       "nome": "Piscina",
       "provincia": "TO",
@@ -6346,6 +7076,23 @@
           "nome": "Zona unica",
           "file": "comuni/piverone/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pogno",
+      "nome": "Pogno",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7567,
+      "lon": 8.3831,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pogno/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -6423,6 +7170,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/pomaretto/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pombia",
+      "nome": "Pombia",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6493,
+      "lon": 8.6324,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pombia/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -6600,6 +7364,23 @@
           "nome": "Zona unica",
           "file": "comuni/pratiglione/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "prato-sesia",
+      "nome": "Prato Sesia",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6479,
+      "lon": 8.3738,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/prato-sesia/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -7060,6 +7841,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/roletto/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "romagnano-sesia",
+      "nome": "Romagnano Sesia",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6334,
+      "lon": 8.3829,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/romagnano-sesia/zona-unica.json",
+          "valido_al": "2027-02-28"
         }
       ]
     },
@@ -7536,6 +8334,23 @@
       ]
     },
     {
+      "id": "san-maurizio-d-opaglio",
+      "nome": "San Maurizio d'Opaglio",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7725,
+      "lon": 8.391,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-maurizio-d-opaglio/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "san-mauro-torinese",
       "nome": "San Mauro Torinese",
       "provincia": "TO",
@@ -7944,6 +8759,40 @@
       ]
     },
     {
+      "id": "sizzano",
+      "nome": "Sizzano",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.5773,
+      "lon": 8.4373,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sizzano/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "soriso",
+      "nome": "Soriso",
+      "provincia": "NO",
+      "gestore": "Cooperativa Sociale Risorse",
+      "consorzio": "medio-novarese",
+      "lat": 45.7423,
+      "lon": 8.4094,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/soriso/zona-unica.json",
+          "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
       "id": "sparone",
       "nome": "Sparone",
       "provincia": "TO",
@@ -8055,6 +8904,23 @@
         }
       ],
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/"
+    },
+    {
+      "id": "suno",
+      "nome": "Suno",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6311,
+      "lon": 8.5409,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/suno/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
     },
     {
       "id": "susa",
@@ -8590,6 +9456,23 @@
           "nome": "Zona unica",
           "file": "comuni/vanzone-con-san-carlo/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "varallo-pombia",
+      "nome": "Varallo Pombia",
+      "provincia": "NO",
+      "gestore": "Medio Novarese Ambiente",
+      "consorzio": "medio-novarese",
+      "lat": 45.6667,
+      "lon": 8.6331,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/varallo-pombia/zona-unica.json",
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -9322,6 +10205,11 @@
       "gestore": "COSP Tecno Service",
       "ecocentri": "ecocentri/castiglione-in-teverina.json",
       "regole": "regole/orvieto.json"
+    },
+    "medio-novarese": {
+      "nome": "Consorzio Area Vasta Medio Novarese",
+      "gestore": "Medio Novarese Ambiente",
+      "ecocentri": "ecocentri/medio-novarese.json"
     }
   },
   "tipi_en": {

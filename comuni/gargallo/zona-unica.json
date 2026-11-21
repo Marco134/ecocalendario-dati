@@ -1,0 +1,190 @@
+{
+ "schema": 1,
+ "comune": "Gargallo",
+ "provincia": "NO",
+ "gestore": "Cooperativa Sociale Risorse",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "fonte": "Calendario ufficiale Consorzio Area Vasta Medio Novarese – https://www.consorziomedionovarese.it/it-it/download/gargallo-2026-uff-827-109-20027-94f365d7f23aecb1ccd96d2f318e684e",
+ "note": [
+  "Lattine: sacco dedicato, nei giorni indicati.",
+  "Verde: servizio a domicilio solo con abbonamento (contratto con il gestore), quindi non è nel calendario."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "carta"
+  ],
+  "2026-11-25": [
+   "vetro"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "vetro"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "lattine"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2027-01-02": [
+   "indifferenziato"
+  ],
+  "2027-01-04": [
+   "organico"
+  ],
+  "2027-01-05": [
+   "carta"
+  ],
+  "2027-01-06": [
+   "vetro"
+  ],
+  "2027-01-07": [
+   "plastica"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "carta"
+  ],
+  "2027-01-14": [
+   "lattine"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-16": [
+   "indifferenziato"
+  ],
+  "2027-01-19": [
+   "carta"
+  ],
+  "2027-01-20": [
+   "vetro"
+  ],
+  "2027-01-21": [
+   "plastica"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-26": [
+   "carta"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "indifferenziato"
+  ],
+  "2027-02-02": [
+   "carta"
+  ],
+  "2027-02-03": [
+   "vetro"
+  ],
+  "2027-02-04": [
+   "plastica"
+  ],
+  "2027-02-05": [
+   "organico"
+  ],
+  "2027-02-09": [
+   "carta"
+  ],
+  "2027-02-11": [
+   "lattine"
+  ],
+  "2027-02-12": [
+   "organico"
+  ],
+  "2027-02-13": [
+   "indifferenziato"
+  ],
+  "2027-02-16": [
+   "carta"
+  ],
+  "2027-02-17": [
+   "vetro"
+  ],
+  "2027-02-18": [
+   "plastica"
+  ],
+  "2027-02-19": [
+   "organico"
+  ],
+  "2027-02-23": [
+   "carta"
+  ],
+  "2027-02-26": [
+   "organico"
+  ],
+  "2027-02-27": [
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}

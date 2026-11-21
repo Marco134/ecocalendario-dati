@@ -1,0 +1,180 @@
+{
+ "schema": 1,
+ "comune": "Romagnano Sesia",
+ "provincia": "NO",
+ "gestore": "Medio Novarese Ambiente",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "fonte": "Calendario ufficiale Consorzio Area Vasta Medio Novarese – https://www.consorziomedionovarese.it/it-it/download/romagnano-sesia-2026-uff-844-109-20027-71b52d9c5088d0ebf718a0c3caa38ffa",
+ "note": [
+  "Lattine: sacco dedicato, nei giorni indicati.",
+  "Verde: servizio a domicilio solo con abbonamento (contratto con il gestore), quindi non è nel calendario."
+ ],
+ "raccolte": {
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-27": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2027-01-04": [
+   "indifferenziato"
+  ],
+  "2027-01-05": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-08": [
+   "organico",
+   "lattine"
+  ],
+  "2027-01-11": [
+   "indifferenziato"
+  ],
+  "2027-01-12": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-15": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-18": [
+   "indifferenziato"
+  ],
+  "2027-01-19": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-22": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-25": [
+   "indifferenziato"
+  ],
+  "2027-01-26": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-29": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-01": [
+   "indifferenziato"
+  ],
+  "2027-02-02": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-05": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-08": [
+   "indifferenziato"
+  ],
+  "2027-02-09": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-12": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-15": [
+   "indifferenziato"
+  ],
+  "2027-02-16": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-19": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-22": [
+   "indifferenziato"
+  ],
+  "2027-02-23": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-26": [
+   "organico",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "vetro"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

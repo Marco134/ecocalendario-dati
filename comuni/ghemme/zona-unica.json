@@ -1,0 +1,187 @@
+{
+ "schema": 1,
+ "comune": "Ghemme",
+ "provincia": "NO",
+ "gestore": "Medio Novarese Ambiente",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "fonte": "Calendario ufficiale Consorzio Area Vasta Medio Novarese – https://www.consorziomedionovarese.it/it-it/download/ghemme-2026-uff-828-109-20027-dac877c24567a0df208392bc294fd59e",
+ "note": [
+  "Lattine: sacco dedicato, nei giorni indicati.",
+  "Verde: servizio a domicilio solo con abbonamento (contratto con il gestore), quindi non è nel calendario."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "carta"
+  ],
+  "2026-11-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-26": [
+   "organico",
+   "lattine"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "lattine"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico",
+   "lattine"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-06": [
+   "plastica"
+  ],
+  "2027-01-07": [
+   "organico",
+   "lattine"
+  ],
+  "2027-01-09": [
+   "carta"
+  ],
+  "2027-01-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-14": [
+   "organico"
+  ],
+  "2027-01-16": [
+   "carta"
+  ],
+  "2027-01-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-20": [
+   "plastica"
+  ],
+  "2027-01-21": [
+   "organico",
+   "lattine"
+  ],
+  "2027-01-23": [
+   "carta"
+  ],
+  "2027-01-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-28": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "carta"
+  ],
+  "2027-02-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-03": [
+   "plastica"
+  ],
+  "2027-02-04": [
+   "organico",
+   "lattine"
+  ],
+  "2027-02-06": [
+   "carta"
+  ],
+  "2027-02-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-11": [
+   "organico"
+  ],
+  "2027-02-13": [
+   "carta"
+  ],
+  "2027-02-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-17": [
+   "plastica"
+  ],
+  "2027-02-18": [
+   "organico",
+   "lattine"
+  ],
+  "2027-02-20": [
+   "carta"
+  ],
+  "2027-02-22": [
+   "indifferenziato"
+  ],
+  "2027-02-25": [
+   "organico"
+  ],
+  "2027-02-27": [
+   "carta"
+  ]
+ }
+}

@@ -1,0 +1,680 @@
+{
+ "schema": 1,
+ "comune": "Borgomanero",
+ "provincia": "NO",
+ "gestore": "Medio Novarese Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-12-31",
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "fonte": "Calendario ufficiale Consorzio Area Vasta Medio Novarese – https://www.consorziomedionovarese.it/it-it/download/borgomanero-zona-b-2026-uff-716-109-20027-eb2f49615b4aa2c98c2aae5eed4dcdba , https://www.consorziomedionovarese.it/it-it/download/borgomanero-zona-b-2027-uff-941-109-20027-fbfa4a79464f6dae5623542214c88ea8",
+ "note": [
+  "Lattine: sacco dedicato, nei giorni indicati.",
+  "Verde: servizio a domicilio solo con abbonamento (contratto con il gestore), quindi non è nel calendario."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-25": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-06": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-07": [
+   "plastica"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-13": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-14": [
+   "plastica"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-20": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-21": [
+   "plastica"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-27": [
+   "organico",
+   "carta"
+  ],
+  "2027-01-28": [
+   "plastica"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-03": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-04": [
+   "plastica"
+  ],
+  "2027-02-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-10": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-11": [
+   "plastica"
+  ],
+  "2027-02-13": [
+   "indifferenziato"
+  ],
+  "2027-02-17": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-18": [
+   "plastica"
+  ],
+  "2027-02-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-24": [
+   "organico",
+   "carta"
+  ],
+  "2027-02-25": [
+   "plastica"
+  ],
+  "2027-02-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-03": [
+   "organico",
+   "carta"
+  ],
+  "2027-03-04": [
+   "plastica"
+  ],
+  "2027-03-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-10": [
+   "organico",
+   "carta"
+  ],
+  "2027-03-11": [
+   "plastica"
+  ],
+  "2027-03-13": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-17": [
+   "organico",
+   "carta"
+  ],
+  "2027-03-18": [
+   "plastica"
+  ],
+  "2027-03-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-24": [
+   "organico",
+   "carta"
+  ],
+  "2027-03-25": [
+   "plastica"
+  ],
+  "2027-03-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-31": [
+   "organico",
+   "carta"
+  ],
+  "2027-04-01": [
+   "plastica"
+  ],
+  "2027-04-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-07": [
+   "organico",
+   "carta"
+  ],
+  "2027-04-08": [
+   "plastica"
+  ],
+  "2027-04-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-14": [
+   "organico",
+   "carta"
+  ],
+  "2027-04-15": [
+   "plastica"
+  ],
+  "2027-04-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-21": [
+   "organico",
+   "carta"
+  ],
+  "2027-04-22": [
+   "plastica"
+  ],
+  "2027-04-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-28": [
+   "organico",
+   "carta"
+  ],
+  "2027-04-29": [
+   "plastica"
+  ],
+  "2027-04-30": [
+   "indifferenziato"
+  ],
+  "2027-05-05": [
+   "organico",
+   "carta"
+  ],
+  "2027-05-06": [
+   "plastica"
+  ],
+  "2027-05-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-12": [
+   "organico",
+   "carta"
+  ],
+  "2027-05-13": [
+   "plastica"
+  ],
+  "2027-05-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-19": [
+   "organico",
+   "carta"
+  ],
+  "2027-05-20": [
+   "plastica"
+  ],
+  "2027-05-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-26": [
+   "organico",
+   "carta"
+  ],
+  "2027-05-27": [
+   "plastica"
+  ],
+  "2027-05-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-06-02": [
+   "organico",
+   "carta"
+  ],
+  "2027-06-03": [
+   "plastica"
+  ],
+  "2027-06-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-06-09": [
+   "organico",
+   "carta"
+  ],
+  "2027-06-10": [
+   "plastica"
+  ],
+  "2027-06-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-06-16": [
+   "organico",
+   "carta"
+  ],
+  "2027-06-17": [
+   "plastica"
+  ],
+  "2027-06-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-06-23": [
+   "organico",
+   "carta"
+  ],
+  "2027-06-24": [
+   "plastica"
+  ],
+  "2027-06-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-06-30": [
+   "organico",
+   "carta"
+  ],
+  "2027-07-01": [
+   "plastica"
+  ],
+  "2027-07-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-07-07": [
+   "organico",
+   "carta"
+  ],
+  "2027-07-08": [
+   "plastica"
+  ],
+  "2027-07-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-07-14": [
+   "organico",
+   "carta"
+  ],
+  "2027-07-15": [
+   "plastica"
+  ],
+  "2027-07-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-07-21": [
+   "organico",
+   "carta"
+  ],
+  "2027-07-22": [
+   "plastica"
+  ],
+  "2027-07-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-07-28": [
+   "organico",
+   "carta"
+  ],
+  "2027-07-29": [
+   "plastica"
+  ],
+  "2027-07-31": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-08-04": [
+   "organico",
+   "carta"
+  ],
+  "2027-08-05": [
+   "plastica"
+  ],
+  "2027-08-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-08-11": [
+   "organico",
+   "carta"
+  ],
+  "2027-08-12": [
+   "plastica"
+  ],
+  "2027-08-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-08-18": [
+   "organico",
+   "carta"
+  ],
+  "2027-08-19": [
+   "plastica"
+  ],
+  "2027-08-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-08-25": [
+   "organico",
+   "carta"
+  ],
+  "2027-08-26": [
+   "plastica"
+  ],
+  "2027-08-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-09-01": [
+   "organico",
+   "carta"
+  ],
+  "2027-09-02": [
+   "plastica"
+  ],
+  "2027-09-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-09-08": [
+   "organico",
+   "carta"
+  ],
+  "2027-09-09": [
+   "plastica"
+  ],
+  "2027-09-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-09-15": [
+   "organico",
+   "carta"
+  ],
+  "2027-09-16": [
+   "plastica"
+  ],
+  "2027-09-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-09-22": [
+   "organico",
+   "carta"
+  ],
+  "2027-09-23": [
+   "plastica"
+  ],
+  "2027-09-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-09-29": [
+   "organico",
+   "carta"
+  ],
+  "2027-09-30": [
+   "plastica"
+  ],
+  "2027-10-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-10-06": [
+   "organico",
+   "carta"
+  ],
+  "2027-10-07": [
+   "plastica"
+  ],
+  "2027-10-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-10-13": [
+   "organico",
+   "carta"
+  ],
+  "2027-10-14": [
+   "plastica"
+  ],
+  "2027-10-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-10-20": [
+   "organico",
+   "carta"
+  ],
+  "2027-10-21": [
+   "plastica"
+  ],
+  "2027-10-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-10-27": [
+   "organico",
+   "carta"
+  ],
+  "2027-10-28": [
+   "plastica"
+  ],
+  "2027-10-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-11-03": [
+   "organico",
+   "carta"
+  ],
+  "2027-11-04": [
+   "plastica"
+  ],
+  "2027-11-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-11-10": [
+   "organico",
+   "carta"
+  ],
+  "2027-11-11": [
+   "plastica"
+  ],
+  "2027-11-13": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-11-17": [
+   "organico",
+   "carta"
+  ],
+  "2027-11-18": [
+   "plastica"
+  ],
+  "2027-11-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-11-24": [
+   "organico",
+   "carta"
+  ],
+  "2027-11-25": [
+   "plastica"
+  ],
+  "2027-11-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2027-12-02": [
+   "plastica"
+  ],
+  "2027-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2027-12-09": [
+   "plastica"
+  ],
+  "2027-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2027-12-16": [
+   "plastica"
+  ],
+  "2027-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2027-12-23": [
+   "plastica"
+  ],
+  "2027-12-24": [
+   "indifferenziato"
+  ],
+  "2027-12-29": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2027-12-30": [
+   "plastica"
+  ],
+  "2027-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2027-04-30",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-05-01"
+  },
+  {
+   "data": "2027-05-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-12-24",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-12-25"
+  },
+  {
+   "data": "2027-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

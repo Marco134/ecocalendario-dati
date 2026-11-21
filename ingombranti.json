@@ -525,6 +525,68 @@
       ],
       "fonte": "https://serviziambientali.idealservice.it",
       "verificato": "2026-11-21"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "mna",
+      "nome": "Medio Novarese Ambiente",
+      "gestori": [
+        "Medio Novarese Ambiente"
+      ],
+      "comuni": [],
+      "telefono": "800810310",
+      "orari": "Numero verde Medio Novarese Ambiente",
+      "orari_en": "Medio Novarese Ambiente toll-free",
+      "regole": [
+        "Servizio di raccolta ingombranti gratuito su prenotazione al numero verde",
+        "Viene ritirato solo il materiale dichiarato al momento della prenotazione",
+        "Esponilo lontano da muretti e recinzioni",
+        "In alternativa portali alla piattaforma ecologica del tuo comune"
+      ],
+      "regole_en": [
+        "Free bulky waste pickup booked through the toll-free number",
+        "Only the items declared when booking are collected",
+        "Put them out away from walls and fences",
+        "Or take them to your town’s recycling platform"
+      ],
+      "fonte": "Calendari 2026 Consorzio Medio Novarese"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "cooprisorse",
+      "nome": "Cooperativa Risorse",
+      "gestori": [
+        "Cooperativa Sociale Risorse"
+      ],
+      "comuni": [],
+      "telefono": "800519109",
+      "orari": "Da rete fissa 800 519 109, da cellulare 0323 519109",
+      "orari_en": "Landline 800 519 109, mobile 0323 519109",
+      "regole": [
+        "Ritiro a domicilio di ingombranti e RAEE su prenotazione telefonica, dove il servizio è attivo",
+        "Viene ritirato solo il materiale dichiarato, fino a 2 metri cubi",
+        "In alcuni comuni (es. Gozzano) si portano solo alla stazione di conferimento comunale: chiedi al numero verde"
+      ],
+      "regole_en": [
+        "Home pickup of bulky waste and appliances booked by phone, where available",
+        "Only declared items, up to 2 cubic metres",
+        "In some towns (e.g. Gozzano) you take them to the municipal drop-off station: ask the toll-free number"
+      ],
+      "fonte": "Calendari 2026 Consorzio Medio Novarese"
     }
   ]
 }
