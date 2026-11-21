@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "comune": "Calcinato",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona C – Cascine sparse",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dalle 21:00 del giorno precedente alle 04:00 del giorno di raccolta.",
+ "fonte": "https://www.gardauno.it/media/20058/calcinato-2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Per i servizi su iscrizione o prenotazione consulta le condizioni del gestore."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "04:00"
+}

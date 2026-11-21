@@ -1,0 +1,760 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Garda Uno",
+ "consorzio": "garda-uno",
+ "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/centri-di-raccolta",
+ "numero_verde": "800 033 955",
+ "accesso": "Verifica sulla scheda comunale il centro abilitato, le condizioni di accesso e le variazioni festive. Le schede riportano gli orari invernali o annuali.",
+ "avviso": "Orari estivi e festività sul portale del gestore. Posizioni indicative.",
+ "centri": [
+  {
+   "id": "garda-uno-calcinato-via-baratello",
+   "tipo": "raccolta",
+   "comune": "Calcinato",
+   "indirizzo": "Via Baratello, Calcinato",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–31 marzo. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.457182,
+   "lon": 10.413574
+  },
+  {
+   "id": "garda-uno-dello-via-colombo-corticelle",
+   "tipo": "raccolta",
+   "comune": "Dello",
+   "indirizzo": "Via Colombo, Corticelle, Dello",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario ottobre–marzo. Posizione indicativa del comune. ingresso consentito fino a 10 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.41811,
+   "lon": 10.075203
+  },
+  {
+   "id": "garda-uno-dello-via-xi-febbraio",
+   "tipo": "raccolta",
+   "comune": "Dello",
+   "indirizzo": "Via XI Febbraio, Dello",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "2": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "3": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "4": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "5": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:30"
+     ],
+     [
+      "15:30",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario ottobre–marzo. Posizione indicativa del comune. ingresso consentito fino a 10 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.41811,
+   "lon": 10.075203
+  },
+  {
+   "id": "garda-uno-gardone-riviera-localita-traina",
+   "tipo": "raccolta",
+   "comune": "Gardone Riviera",
+   "indirizzo": "Località Traina, Gardone Riviera",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 16 settembre–14 maggio. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.618785,
+   "lon": 10.559101
+  },
+  {
+   "id": "garda-uno-gargnano-via-repubblica-80",
+   "tipo": "raccolta",
+   "comune": "Gargnano",
+   "indirizzo": "Via Repubblica 80, Gargnano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–31 maggio. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.688138,
+   "lon": 10.663501
+  },
+  {
+   "id": "garda-uno-manerba-del-garda-via-delle-cave",
+   "tipo": "raccolta",
+   "comune": "Manerba del Garda",
+   "indirizzo": "Via delle Cave, Manerba del Garda",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "18:30"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "18:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "18:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "18:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "18:30"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "18:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–31 marzo. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura Centro indicato dal gestore anche per Soiano e Moniga del Garda.",
+   "lat": 45.556043,
+   "lon": 10.562593
+  },
+  {
+   "id": "garda-uno-manerbio-strada-per-cadignano",
+   "tipo": "raccolta",
+   "comune": "Manerbio",
+   "indirizzo": "Strada per Cadignano, Manerbio",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–30 aprile. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.355777,
+   "lon": 10.13517
+  },
+  {
+   "id": "garda-uno-offlaga-via-artigianale",
+   "tipo": "raccolta",
+   "comune": "Offlaga",
+   "indirizzo": "Via Artigianale, Offlaga",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario tutto l’anno. Posizione indicativa del comune. Orario modificato da giugno 2024; Ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.386133,
+   "lon": 10.117457
+  },
+  {
+   "id": "garda-uno-padenghe-sul-garda-via-dell-artigianato",
+   "tipo": "raccolta",
+   "comune": "Padenghe sul Garda",
+   "indirizzo": "Via dell’Artigianato, Padenghe sul Garda",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–31 maggio. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.509584,
+   "lon": 10.506376
+  },
+  {
+   "id": "garda-uno-pontevico-strada-del-porto",
+   "tipo": "raccolta",
+   "comune": "Pontevico",
+   "indirizzo": "Strada del Porto, Pontevico",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–31 marzo. Posizione indicativa del comune. ingresso consentito fino a 10 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.274374,
+   "lon": 10.092471
+  },
+  {
+   "id": "garda-uno-pozzolengo-localita-poffe-sp-106-per-ponti",
+   "tipo": "raccolta",
+   "comune": "Pozzolengo",
+   "indirizzo": "Località Poffe, SP 106 per Ponti, Pozzolengo",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–30 giugno. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; APERTURE FESTIVE con i consueti orari: 6 gennaio, Lunedì di pasquetta; Il Centro di Raccolta è chiuso negli altri giorni festivi",
+   "lat": 45.40597,
+   "lon": 10.631373
+  },
+  {
+   "id": "garda-uno-prevalle-via-roggia-gazzette",
+   "tipo": "raccolta",
+   "comune": "Prevalle",
+   "indirizzo": "Via Roggia Gazzette, Prevalle",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario tutto l’anno. Posizione indicativa del comune. Ingresso consentito fino a 5 minuti prima della chiusura.; Il Centro di Raccolta è sempre chiuso nei giorni festivi",
+   "lat": 45.551482,
+   "lon": 10.421857
+  },
+  {
+   "id": "garda-uno-salo-via-enrico-fermi",
+   "tipo": "raccolta",
+   "comune": "Salò",
+   "indirizzo": "Via Enrico Fermi, Salò",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "7": [
+     [
+      "15:30",
+      "19:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario 1 ottobre–31 marzo. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; APERTURE FESTIVE 2025 (orario consueto): Centro indicato dal gestore anche per Puegnago del Garda e San Felice del Benaco.",
+   "lat": 45.605678,
+   "lon": 10.520069
+  },
+  {
+   "id": "garda-uno-toscolano-maderno-via-g-marconi",
+   "tipo": "raccolta",
+   "comune": "Toscolano-Maderno",
+   "indirizzo": "Via G. Marconi, Toscolano-Maderno",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "7": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario ottobre–marzo. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura L’ecocalendario indica chiusura il 25 dicembre e apertura il 26 dicembre.",
+   "lat": 45.63453,
+   "lon": 10.609521
+  }
+ ]
+}

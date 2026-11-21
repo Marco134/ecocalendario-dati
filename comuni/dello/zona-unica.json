@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "comune": "Dello",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Entro le 24:00 del giorno precedente.",
+ "fonte": "https://www.gardauno.it/media/20060/dello2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Per i servizi su iscrizione o prenotazione consulta le condizioni del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-24": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "00:00"
+}

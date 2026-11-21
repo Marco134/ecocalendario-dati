@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "nome": "Garda Uno",
+ "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "voci": {
+  "lattine di alluminio": {
+   "dove": "vetro",
+   "nota": "Conferisci le lattine per bevande nel contenitore di vetro e lattine.",
+   "nota_en": "Put beverage cans in the glass and metal packaging bin."
+  },
+  "barattoli di latta": {
+   "dove": "vetro",
+   "nota": "Conferisci i barattoli in acciaio o alluminio nel contenitore di vetro e lattine.",
+   "nota_en": "Put steel and aluminium tins in the glass and metal packaging bin."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferisci i vasetti di vetro nel contenitore di vetro e lattine.",
+   "nota_en": "Put glass jars in the glass and metal packaging bin."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Conferisci le bottiglie in plastica per bevande tra gli imballaggi in plastica.",
+   "nota_en": "Put plastic beverage bottles with plastic packaging."
+  },
+  "avanzi di cibo": {
+   "dove": "organico",
+   "nota": "Conferisci gli avanzi di cibo nella raccolta dell’umido.",
+   "nota_en": "Put food scraps in the organic waste bin."
+  },
+  "scatole di cartone": {
+   "dove": "carta",
+   "nota": "Piega o schiaccia le scatole di cartone prima del conferimento.",
+   "nota_en": "Flatten cardboard boxes before disposal."
+  }
+ },
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro e lattine",
+   "nome_en": "Glass and metal packaging"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-21, sezioni sulla differenziata dei calendari comunali 2026"
+ }
+}

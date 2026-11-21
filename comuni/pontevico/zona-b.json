@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "comune": "Pontevico",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona B – Frazioni e case sparse",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dalle 21:00 del giorno precedente alle 04:00 del giorno di raccolta.",
+ "fonte": "https://www.gardauno.it/media/20067/pontevico2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Per i servizi su iscrizione o prenotazione consulta le condizioni del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-24": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "esposizione_entro": "04:00"
+}

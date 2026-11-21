@@ -2645,6 +2645,36 @@
       ]
     },
     {
+      "id": "calcinato",
+      "nome": "Calcinato",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.457182,
+      "lon": 10.413574,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A – Calcinato",
+          "file": "comuni/calcinato/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B – Calcinatello e Ponte San Marco",
+          "file": "comuni/calcinato/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C – Cascine sparse",
+          "file": "comuni/calcinato/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
+    },
+    {
       "id": "calco",
       "nome": "Calco",
       "provincia": "LC",
@@ -5896,6 +5926,23 @@
       ]
     },
     {
+      "id": "dello",
+      "nome": "Dello",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.41811,
+      "lon": 10.075203,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "diano-d-alba",
       "nome": "Diano d'Alba",
       "provincia": "CN",
@@ -6673,6 +6720,23 @@
       ]
     },
     {
+      "id": "gardone-riviera",
+      "nome": "Gardone Riviera",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.618785,
+      "lon": 10.559101,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gardone-riviera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "gargallo",
       "nome": "Gargallo",
       "provincia": "NO",
@@ -6686,6 +6750,23 @@
           "nome": "Zona unica",
           "file": "comuni/gargallo/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "gargnano",
+      "nome": "Gargnano",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.688138,
+      "lon": 10.663501,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gargnano/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8668,6 +8749,53 @@
       ]
     },
     {
+      "id": "manerba-del-garda",
+      "nome": "Manerba del Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.556043,
+      "lon": 10.562593,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/manerba-del-garda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "manerbio",
+      "nome": "Manerbio",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.355777,
+      "lon": 10.13517,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/manerbio/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/manerbio/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/manerbio/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
+    },
+    {
       "id": "mango",
       "nome": "Mango",
       "provincia": "CN",
@@ -10364,6 +10492,30 @@
       ]
     },
     {
+      "id": "offlaga",
+      "nome": "Offlaga",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.386133,
+      "lon": 10.117457,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Centri abitati",
+          "file": "comuni/offlaga/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Case sparse",
+          "file": "comuni/offlaga/zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
+    },
+    {
       "id": "oggebbio",
       "nome": "Oggebbio",
       "provincia": "VB",
@@ -10834,6 +10986,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/ozegna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "padenghe-sul-garda",
+      "nome": "Padenghe sul Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.509584,
+      "lon": 10.506376,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/padenghe-sul-garda/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -11893,6 +12062,30 @@
       ]
     },
     {
+      "id": "pontevico",
+      "nome": "Pontevico",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.274374,
+      "lon": 10.092471,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A – Capoluogo",
+          "file": "comuni/pontevico/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B – Frazioni e case sparse",
+          "file": "comuni/pontevico/zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
+    },
+    {
       "id": "ponzano-veneto",
       "nome": "Ponzano Veneto",
       "provincia": "TV",
@@ -11990,6 +12183,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/povegliano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pozzolengo",
+      "nome": "Pozzolengo",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.40597,
+      "lon": 10.631373,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pozzolengo/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -12250,6 +12460,23 @@
       ]
     },
     {
+      "id": "prevalle",
+      "nome": "Prevalle",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.551482,
+      "lon": 10.421857,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/prevalle/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "primaluna",
       "nome": "Primaluna",
       "provincia": "LC",
@@ -12296,6 +12523,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/proceno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "puegnago-del-garda",
+      "nome": "Puegnago del Garda",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.565692,
+      "lon": 10.51147,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/puegnago-del-garda/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -13359,6 +13603,23 @@
       ]
     },
     {
+      "id": "san-felice-del-benaco",
+      "nome": "San Felice del Benaco",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.589546,
+      "lon": 10.551733,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-felice-del-benaco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-francesco-al-campo",
       "nome": "San Francesco al Campo",
       "provincia": "TO",
@@ -14264,6 +14525,23 @@
       ]
     },
     {
+      "id": "soiano-del-lago",
+      "nome": "Soiano del Lago",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.527784,
+      "lon": 10.512675,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/soiano-del-lago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "sommariva-perno",
       "nome": "Sommariva Perno",
       "provincia": "CN",
@@ -14828,6 +15106,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/torre-di-santa-maria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "toscolano-maderno",
+      "nome": "Toscolano-Maderno",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.63453,
+      "lon": 10.609521,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/toscolano-maderno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -16653,6 +16948,12 @@
       "nome": "Valle Camonica Servizi",
       "gestore": "Valle Camonica Servizi",
       "ecocentri": "ecocentri/valle-camonica-servizi.json"
+    },
+    "garda-uno": {
+      "nome": "Garda Uno",
+      "gestore": "Garda Uno",
+      "ecocentri": "ecocentri/garda-uno.json",
+      "regole": "regole/garda-uno.json"
     }
   },
   "tipi_en": {

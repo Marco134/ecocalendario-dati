@@ -1,0 +1,44 @@
+{
+ "schema": 1,
+ "comune": "Offlaga",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Case sparse",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Entro le 24:00 del giorno precedente.",
+ "fonte": "https://www.gardauno.it/media/20064/offlaga2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Per i servizi su iscrizione o prenotazione consulta le condizioni del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "carta",
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "carta",
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "carta",
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ]
+ },
+ "esposizione_entro": "00:00"
+}

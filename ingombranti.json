@@ -831,6 +831,306 @@
       ],
       "fonte": "https://vallecamonicaservizi.it/isola-ecologica/darfo-boario-terme/ | https://vallecamonicaservizi.it/faq/",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-calcinato",
+      "nome": "Garda Uno – Calcinato",
+      "comuni": [
+        "calcinato"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo e quarto venerdì del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-dello",
+      "nome": "Garda Uno – Dello",
+      "comuni": [
+        "dello"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-gardone-riviera",
+      "nome": "Garda Uno – Gardone Riviera",
+      "comuni": [
+        "gardone-riviera"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: terzo sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-gargnano",
+      "nome": "Garda Uno – Gargnano",
+      "comuni": [
+        "gargnano"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: primo e terzo giovedì del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-manerba-del-garda",
+      "nome": "Garda Uno – Manerba del Garda",
+      "comuni": [
+        "manerba-del-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: primo e terzo mercoledì del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-manerbio",
+      "nome": "Garda Uno – Manerbio",
+      "comuni": [
+        "manerbio"
+      ],
+      "gestori": [],
+      "telefono": "030 9387277",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: ultimo giovedì del mese.",
+        "Prenota con almeno una settimana di anticipo ai recapiti comunali 030 9387277 o 030 9387261, nei feriali da lunedì a venerdì 09:00–12:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-offlaga",
+      "nome": "Garda Uno – Offlaga",
+      "comuni": [
+        "offlaga"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: terzo sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-padenghe-sul-garda",
+      "nome": "Garda Uno – Padenghe sul Garda",
+      "comuni": [
+        "padenghe-sul-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: terzo sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-pontevico",
+      "nome": "Garda Uno – Pontevico",
+      "comuni": [
+        "pontevico"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: quarto sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-pozzolengo",
+      "nome": "Garda Uno – Pozzolengo",
+      "comuni": [
+        "pozzolengo"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: terzo mercoledì del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-prevalle",
+      "nome": "Garda Uno – Prevalle",
+      "comuni": [
+        "prevalle"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: primo giovedì del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-puegnago-del-garda",
+      "nome": "Garda Uno – Puegnago del Garda",
+      "comuni": [
+        "puegnago-del-garda"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: primo sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-san-felice-del-benaco",
+      "nome": "Garda Uno – San Felice del Benaco",
+      "comuni": [
+        "san-felice-del-benaco"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: quarto sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-soiano-del-lago",
+      "nome": "Garda Uno – Soiano del Lago",
+      "comuni": [
+        "soiano-del-lago"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo sabato del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-toscolano-maderno",
+      "nome": "Garda Uno – Toscolano-Maderno",
+      "comuni": [
+        "toscolano-maderno"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo e quarto martedì del mese.",
+        "Prenota fino a due giorni prima al numero verde, attivo lunedì–venerdì 08:00–20:00 e sabato 08:00–13:00.",
+        "Massimo 3 pezzi. Verifica il giorno assegnato alla prenotazione e le istruzioni del tuo Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal service page for collection dates and booking details."
+      ],
+      "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
     }
   ]
 }

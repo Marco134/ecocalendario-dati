@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "comune": "Prevalle",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dalle 21:00 del giorno precedente alle 05:00 del giorno di raccolta.",
+ "fonte": "https://www.gardauno.it/media/20090/prevalle2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Per i servizi su iscrizione o prenotazione consulta le condizioni del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "organico"
+  ],
+  "2026-11-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "05:00"
+}

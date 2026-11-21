@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "comune": "Manerbio",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona C",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi la sera prima della raccolta.",
+ "fonte": "https://www.gardauno.it/media/20121/manerbio2026-web.pdf | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. Per i servizi su iscrizione o prenotazione consulta le condizioni del gestore."
+ ],
+ "raccolte": {
+  "2026-11-27": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "carta",
+   "indifferenziato"
+  ]
+ }
+}
