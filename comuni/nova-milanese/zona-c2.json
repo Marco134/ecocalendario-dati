@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "comune": "Nova Milanese",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C2",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi la sera precedente, dalle 20:00 in inverno e dalle 22:00 in estate.",
+ "fonte": "Calendario Gelsia Ambiente 2026, Nova Milanese – https://www.gelsiambiente.it/wp-content/uploads/2025/12/01.Nova-Milanese_calendario-2026.pdf",
+ "note": [
+  "Tessili sanitari e sfalci: verificare le modalità dedicate nella guida del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-25": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ }
+}

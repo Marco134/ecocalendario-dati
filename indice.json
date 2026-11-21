@@ -1150,6 +1150,36 @@
       ]
     },
     {
+      "id": "barlassina",
+      "nome": "Barlassina",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.656416,
+      "lon": 9.130101,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/barlassina/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/barlassina/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/barlassina/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi-ai-comuni/barlassina/"
+    },
+    {
       "id": "barolo",
       "nome": "Barolo",
       "provincia": "CN",
@@ -1494,6 +1524,36 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "biassono",
+      "nome": "Biassono",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.630987,
+      "lon": 9.27512,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/biassono/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/biassono/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/biassono/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/wp-content/uploads/2025/12/Biassono_calendario-2026_def.pdf"
     },
     {
       "id": "bibiana",
@@ -2870,6 +2930,36 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "carate-brianza",
+      "nome": "Carate Brianza",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.676549,
+      "lon": 9.237162,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/carate-brianza/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/carate-brianza/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/carate-brianza/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi-ai-comuni/carate-brianza/"
     },
     {
       "id": "caravate",
@@ -4692,6 +4782,36 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-coazze/"
+    },
+    {
+      "id": "cogliate",
+      "nome": "Cogliate",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.64548,
+      "lon": 9.080732,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/cogliate/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/cogliate/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/cogliate/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi-ai-comuni/cogliate/"
     },
     {
       "id": "colazza",
@@ -8664,6 +8784,23 @@
       ]
     },
     {
+      "id": "misinto",
+      "nome": "Misinto",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.662375,
+      "lon": 9.083941,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/misinto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "missaglia",
       "nome": "Missaglia",
       "provincia": "LC",
@@ -9705,6 +9842,54 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "nova-milanese",
+      "nome": "Nova Milanese",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.58929,
+      "lon": 9.20034,
+      "zone": [
+        {
+          "id": "a1",
+          "nome": "Zona A1",
+          "file": "comuni/nova-milanese/zona-a1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "a2",
+          "nome": "Zona A2",
+          "file": "comuni/nova-milanese/zona-a2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b1",
+          "nome": "Zona B1",
+          "file": "comuni/nova-milanese/zona-b1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b2",
+          "nome": "Zona B2",
+          "file": "comuni/nova-milanese/zona-b2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c1",
+          "nome": "Zona C1",
+          "file": "comuni/nova-milanese/zona-c1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c2",
+          "nome": "Zona C2",
+          "file": "comuni/nova-milanese/zona-c2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/wp-content/uploads/2025/12/01.Nova-Milanese_calendario-2026.pdf"
     },
     {
       "id": "novalesa",
@@ -14305,6 +14490,36 @@
       ]
     },
     {
+      "id": "triuggio",
+      "nome": "Triuggio",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "consorzio": "gelsia",
+      "lat": 45.661364,
+      "lon": 9.267441,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/triuggio/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/triuggio/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/triuggio/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/wp-content/uploads/2025/12/Triuggio_calendario-2026.pdf"
+    },
+    {
       "id": "trofarello",
       "nome": "Trofarello",
       "provincia": "TO",
@@ -15871,6 +16086,11 @@
       "nome": "Valpe Ambiente",
       "gestore": "Valpe Ambiente",
       "ecocentri": "ecocentri/valpe.json"
+    },
+    "gelsia": {
+      "nome": "Gelsia Ambiente",
+      "gestore": "Gelsia Ambiente",
+      "ecocentri": "ecocentri/gelsia.json"
     }
   },
   "tipi_en": {

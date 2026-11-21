@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "comune": "Triuggio",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi dopo le 19:00 della sera precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario Gelsia Ambiente 2026, Triuggio – https://www.gelsiambiente.it/wp-content/uploads/2025/12/Triuggio_calendario-2026.pdf",
+ "note": [
+  "Tessili sanitari e sfalci: verificare le modalità dedicate nella guida del gestore."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-29",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  }
+ ]
+}

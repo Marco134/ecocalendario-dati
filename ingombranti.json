@@ -794,6 +794,26 @@
         "For other options ask the toll-free number"
       ],
       "fonte": "Valpe Ambiente – orari Ecocentri"
+    },
+    {
+      "id": "gelsia-ambiente",
+      "nome": "Gelsia Ambiente",
+      "gestori": [
+        "Gelsia Ambiente"
+      ],
+      "telefono": "800 445964",
+      "prenota_url": "https://www.gelsiambiente.it/servizi/ritiro-ingombranti-e-grandi-raee/",
+      "prenotazione": false,
+      "regole": [
+        "Seleziona il tuo comune per prenotare il ritiro a domicilio o sapere come conferire ingombranti e grandi RAEE alla piattaforma ecologica.",
+        "Costi, esenzioni e quantità ammesse dipendono dal comune. Esponi solo nella data e nelle quantità concordate durante la prenotazione."
+      ],
+      "regole_en": [
+        "Select your municipality to arrange doorstep collection or see how to take bulky waste and large appliances to the local recycling centre.",
+        "Charges, exemptions and limits depend on the municipality. Only put items out as agreed when booking."
+      ],
+      "fonte": "https://www.gelsiambiente.it/servizi/ritiro-ingombranti-e-grandi-raee/",
+      "verificato": "2026-11-21"
     }
   ]
 }

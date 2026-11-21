@@ -1,0 +1,335 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Gelsia Ambiente",
+ "consorzio": "gelsia",
+ "fonte": "https://www.gelsiambiente.it/servizi/piattaforme-ecologiche/ | https://www.gelsiambiente.it/servizi-ai-comuni/biassono/",
+ "numero_verde": "800 445964",
+ "accesso": "Consulta il centro indicato per il tuo comune. Orari, documenti di accesso e condizioni possono variare per piattaforma e utenza.",
+ "avviso": "Verifica sul sito del gestore le chiusure festive e le eventuali variazioni.",
+ "centri": [
+  {
+   "id": "gelsia-albiate",
+   "tipo": "raccolta",
+   "comune": "Albiate",
+   "indirizzo": "Via San Carlo, 28 – 20847 Albiate",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune). Da aprile a settembre: mar 09:00/12:30, 14:00/17:30, gio 09:00/12:30, 14:00/17:30, sab 09:00/12:30, 13:30/18:00, dom 09:00/12:00. Centro condiviso con Albiate e Sovico. Nel fine settimana solo mezzi sotto 3 t e quantità sotto 1 m³.",
+   "lat": 45.65899,
+   "lon": 9.255796
+  },
+  {
+   "id": "gelsia-barlassina",
+   "tipo": "raccolta",
+   "comune": "Barlassina",
+   "indirizzo": "Via Vecellio – 20825 Barlassina",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "",
+   "lat": 45.6609148,
+   "lon": 9.1312528
+  },
+  {
+   "id": "gelsia-biassono",
+   "tipo": "raccolta",
+   "comune": "Biassono",
+   "indirizzo": "Via Antonio Locatelli, 131, Biassono",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:30"
+     ]
+    ],
+    "7": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune). Da aprile a settembre lunedì e sabato 08:00–12:00 e 14:00–18:30, martedì e giovedì 14:00–18:30, venerdì e domenica 08:00–12:00.",
+   "lat": 45.630987,
+   "lon": 9.27512
+  },
+  {
+   "id": "gelsia-carate-brianza",
+   "tipo": "raccolta",
+   "comune": "Carate Brianza",
+   "indirizzo": "Via Lombardia, snc – 20841 Carate Brianza",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 45.676549,
+   "lon": 9.237162
+  },
+  {
+   "id": "gelsia-cogliate",
+   "tipo": "raccolta",
+   "comune": "Cogliate",
+   "indirizzo": "Via Montello – 20815 Cogliate",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Da aprile a settembre: mar 14:00/18:00, gio 14:00/18:00, ven 14:00/18:00, sab 09:00/12:00, 14:30/17:30.",
+   "lat": 45.6398732,
+   "lon": 9.0853852
+  },
+  {
+   "id": "gelsia-misinto",
+   "tipo": "raccolta",
+   "comune": "Misinto",
+   "indirizzo": "Via della Longura, 37 – 20826 Misinto",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Apre anche la prima domenica del mese dalle 08:30 alle 12:00.",
+   "lat": 45.6621,
+   "lon": 9.0655
+  },
+  {
+   "id": "gelsia-nova-milanese",
+   "tipo": "raccolta",
+   "comune": "Nova Milanese",
+   "indirizzo": "Via degli Orti – 20834 Nova Milanese",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "",
+   "lat": 45.5968229,
+   "lon": 9.2094647
+  }
+ ]
+}

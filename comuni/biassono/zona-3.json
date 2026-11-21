@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "comune": "Biassono",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 3",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi dopo le 19:00 della sera precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario Gelsia Ambiente 2026, Biassono – https://www.gelsiambiente.it/wp-content/uploads/2025/12/Biassono_calendario-2026_def.pdf",
+ "note": [
+  "Tessili sanitari e sfalci: verificare le modalità dedicate nella guida del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-11-25": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "carta",
+   "organico",
+   "vetro"
+  ]
+ }
+}
