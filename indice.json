@@ -127,6 +127,42 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/ala-di-stura/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "alba",
+      "nome": "Alba",
+      "provincia": "CN",
+      "gestore": "STR – Verde Gufo (CoAbSeR)",
+      "consorzio": "coabser",
+      "lat": 44.7009,
+      "lon": 8.0357,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A – Centro cittadino",
+          "file": "comuni/alba/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "a1",
+          "nome": "Zona A1 – Frazioni (Gallo, Biglini, Scaparone…)",
+          "file": "comuni/alba/zona-a1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "a2",
+          "nome": "Zona A2 – Frazioni (Altavilla, Madonna di Como, San Rocco Cherasca…)",
+          "file": "comuni/alba/zona-a2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "corso-barolo",
+          "nome": "Corso Barolo e vie vicine",
+          "file": "comuni/alba/zona-corso-barolo.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://coabser.it/pdf/calendari_raccolte/alba.pdf"
+    },
+    {
       "id": "albiano-d-ivrea",
       "nome": "Albiano d'Ivrea",
       "provincia": "TO",
@@ -1361,6 +1397,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "bra",
+      "nome": "Bra",
+      "provincia": "CN",
+      "gestore": "STR – Verde Gufo (CoAbSeR)",
+      "consorzio": "coabser",
+      "lat": 44.6977,
+      "lon": 7.8553,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/bra/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/bra/zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://coabser.it/pdf/calendari_raccolte/bra.pdf"
     },
     {
       "id": "brandizzo",

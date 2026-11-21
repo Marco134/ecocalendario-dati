@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "comune": "Alba",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Zona A2 – Frazioni (Altavilla, Madonna di Como, San Rocco Cherasca…)",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Segui il calendario della tua zona; per l’indifferenziato usa il sacco dedicato (codificato), da ritirare all’Ecosportello di Via Vivaro 2. La raccolta del verde non è riportata qui: vedi il calendario del gestore. Lattine e metalli: raccolta mensile a domicilio per zone di vie, vedi il calendario lattine su coabser.it. Ingombranti: ritiro gratuito su prenotazione, Ecosportello 0172 18 36 714 o prenotazioni.verdegufo.it.",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://coabser.it/pdf/calendari_raccolte/alba.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-23": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-07": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta"
+  ]
+ }
+}

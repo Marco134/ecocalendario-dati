@@ -586,6 +586,256 @@
    "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
    "lat": 44.7713,
    "lon": 7.7843
+  },
+  {
+   "id": "coabser-alba-mussotto",
+   "tipo": "raccolta",
+   "comune": "Alba",
+   "indirizzo": "Centro di raccolta Alba – Mussotto",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa: l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7009,
+   "lon": 8.0357
+  },
+  {
+   "id": "coabser-alba-ognissanti",
+   "tipo": "raccolta",
+   "comune": "Alba",
+   "indirizzo": "Via Ognissanti, Alba",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa: l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7009,
+   "lon": 8.0357
+  },
+  {
+   "id": "coabser-bra-monviso",
+   "tipo": "raccolta",
+   "comune": "Bra",
+   "indirizzo": "Corso Monviso, Bra",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa: l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.6977,
+   "lon": 7.8553
+  },
+  {
+   "id": "coabser-pollenzo",
+   "tipo": "raccolta",
+   "comune": "Bra",
+   "indirizzo": "Via Langhe, Pollenzo (Bra)",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa: l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.6977,
+   "lon": 7.8553
   }
  ]
 }
