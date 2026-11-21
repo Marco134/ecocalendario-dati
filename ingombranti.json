@@ -814,6 +814,23 @@
       ],
       "fonte": "https://www.gelsiambiente.it/servizi/ritiro-ingombranti-e-grandi-raee/",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "valle-camonica-servizi",
+      "nome": "Valle Camonica Servizi",
+      "gestori": [
+        "Valle Camonica Servizi"
+      ],
+      "telefono": "800 905 522",
+      "prenotazione": false,
+      "regole": [
+        "Gli ingombranti si conferiscono al centro di raccolta abilitato per il tuo Comune. Verifica orari, accesso e materiali ammessi nella scheda comunale o chiamando il gestore."
+      ],
+      "regole_en": [
+        "Take bulky waste to a collection centre authorised for your municipality. Check opening hours, access and accepted materials on the local service page or call the provider."
+      ],
+      "fonte": "https://vallecamonicaservizi.it/isola-ecologica/darfo-boario-terme/ | https://vallecamonicaservizi.it/faq/",
+      "verificato": "2026-11-21"
     }
   ]
 }

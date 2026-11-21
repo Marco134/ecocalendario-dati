@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "comune": "Cevo",
+ "provincia": "BS",
+ "gestore": "Valle Camonica Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esponi dalle 20:00 del giorno precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://vallecamonicaservizi.it/wp-content/uploads/2026/01/CALENDARIO_CEVO_FEB26_GEN27.pdf | https://vallecamonicaservizi.it/comuni/cevo/",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. I ritiri dedicati di pannolini e il verde si consultano sul portale del gestore."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-25": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-02": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-06": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-07": [
+   "indifferenziato"
+  ],
+  "2027-01-09": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-13": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-16": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-20": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-21": [
+   "indifferenziato"
+  ],
+  "2027-01-23": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-27": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-30": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ }
+}

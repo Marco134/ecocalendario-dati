@@ -1,0 +1,112 @@
+{
+ "schema": 1,
+ "comune": "Lozio",
+ "provincia": "BS",
+ "gestore": "Valle Camonica Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esponi dalle 20:00 del giorno precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://vallecamonicaservizi.it/wp-content/uploads/2026/01/CALENDARIO_LOZIO_FEB26_GEN27.pdf | https://vallecamonicaservizi.it/comuni/lozio/",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. I ritiri dedicati di pannolini e il verde si consultano sul portale del gestore."
+ ],
+ "raccolte": {
+  "2026-11-23": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-04": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-07": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-11": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-14": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-18": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-21": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-25": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-28": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ }
+}

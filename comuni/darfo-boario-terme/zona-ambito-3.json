@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "comune": "Darfo Boario Terme",
+ "provincia": "BS",
+ "gestore": "Valle Camonica Servizi",
+ "zona": "Ambito 3 Boario, Erbanno, Gorzone, Angone",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esponi dalle 20:00 del giorno precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://vallecamonicaservizi.it/wp-content/uploads/2026/01/CALENDARIO_DARFO_BOARIO_TERME_AMB_3_FEB26_GEN27.pdf | https://vallecamonicaservizi.it/comuni/darfo-boario-terme-ambito-3/",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. I ritiri dedicati di pannolini e il verde si consultano sul portale del gestore."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-27": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-27": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2027-01-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-05": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-12": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato"
+  ],
+  "2027-01-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-19": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-26": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato"
+  ],
+  "2027-01-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-03",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-03",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2027-01-01"
+  }
+ ]
+}

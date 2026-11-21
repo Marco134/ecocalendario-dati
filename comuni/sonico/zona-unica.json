@@ -1,0 +1,144 @@
+{
+ "schema": 1,
+ "comune": "Sonico",
+ "provincia": "BS",
+ "gestore": "Valle Camonica Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esponi dalle 20:00 del giorno precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://vallecamonicaservizi.it/wp-content/uploads/2026/01/CALENDARIO_SONICO_FEB26_GEN27.pdf | https://vallecamonicaservizi.it/comuni/sonico/",
+ "note": [
+  "Vetro e lattine si raccolgono insieme. I ritiri dedicati di pannolini e il verde si consultano sul portale del gestore."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-27": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ],
+  "2027-01-03": [
+   "carta"
+  ],
+  "2027-01-05": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-14": [
+   "indifferenziato"
+  ],
+  "2027-01-15": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-28": [
+   "indifferenziato"
+  ],
+  "2027-01-29": [
+   "carta",
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-03",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}
