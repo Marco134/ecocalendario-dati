@@ -3354,7 +3354,7 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/crodo/zona-unica.json",
-          "valido_al": "2026-12-31"
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -5039,7 +5039,7 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/loreglia/zona-unica.json",
-          "valido_al": "2026-12-31"
+          "valido_al": "2027-12-31"
         }
       ]
     },
@@ -9438,7 +9438,7 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/valstrona/zona-unica.json",
-          "valido_al": "2026-12-31"
+          "valido_al": "2027-12-31"
         }
       ]
     },
