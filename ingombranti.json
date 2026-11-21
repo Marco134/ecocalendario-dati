@@ -400,6 +400,69 @@
       ],
       "fonte": "https://scsivrea.it/la-raccolta-degli-ingombranti/",
       "verificato": "2026-11-21"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "fonte": "Calendari raccolta CCS 2026 – https://www.ccs.to.it/calendari-raccolta",
+      "verificato": "2026-11-21",
+      "id": "ccs-devizia",
+      "nome": "De Vizia (CCS)",
+      "gestori": [],
+      "comuni": [
+        "carmagnola",
+        "poirino",
+        "isolabella",
+        "pralormo"
+      ],
+      "telefono": "800901925",
+      "orari": "Numero verde De Vizia: lun-ven 8:30-16:15, sab 8:30-12",
+      "orari_en": "De Vizia toll-free: Mon-Fri 8:30-16:15, Sat 8:30-12",
+      "regole": [
+        "Ritiro gratuito a domicilio, solo su prenotazione",
+        "Tieni a portata di mano codice utente e codice utenza (sulla bolletta TARI) e l’elenco degli oggetti",
+        "Si prenota anche per email a info@deviziachierese.it"
+      ],
+      "regole_en": [
+        "Free home pickup, booking required",
+        "Have your user and account codes (on the TARI bill) and the list of items ready",
+        "You can also book by email at info@deviziachierese.it"
+      ]
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "fonte": "Calendari raccolta CCS 2026 – https://www.ccs.to.it/calendari-raccolta",
+      "verificato": "2026-11-21",
+      "id": "ccs-etambiente",
+      "nome": "ETAmbiente (CCS)",
+      "gestori": [
+        "CCS – Consorzio Chierese per i Servizi"
+      ],
+      "comuni": [],
+      "telefono": "800843464",
+      "orari": "Numero verde ETAmbiente: lun-ven 8-13 e 14-17, sab 9-11",
+      "orari_en": "ETAmbiente toll-free: Mon-Fri 8-13 and 14-17, Sat 9-11",
+      "regole": [
+        "Ritiro gratuito a domicilio, solo su prenotazione",
+        "Tieni a portata di mano codice utente e codice utenza (sulla bolletta TARI) e l’elenco degli oggetti",
+        "Si prenota anche per email a cch.piemonte@etaspa.com"
+      ],
+      "regole_en": [
+        "Free home pickup, booking required",
+        "Have your user and account codes (on the TARI bill) and the list of items ready",
+        "You can also book by email at cch.piemonte@etaspa.com"
+      ]
     }
   ]
 }

@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "comune": "Chieri",
+ "provincia": "TO",
+ "gestore": "CCS – Consorzio Chierese per i Servizi",
+ "zona": "3A",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Le date del calendario valgono anche quando la raccolta cade in un giorno festivo. Per orari di esposizione e dubbi: numero verde CCS 800 911 913.",
+ "fonte": "Calendario raccolta 2026 – https://www.ccs.to.it/calendari-raccolta",
+ "raccolte": {
+  "2026-11-03": [
+   "organico"
+  ],
+  "2026-11-05": [
+   "plastica"
+  ],
+  "2026-11-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-10": [
+   "organico"
+  ],
+  "2026-11-11": [
+   "vetro"
+  ],
+  "2026-11-13": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-11-17": [
+   "organico"
+  ],
+  "2026-11-19": [
+   "plastica"
+  ],
+  "2026-11-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "vetro"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "vetro"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

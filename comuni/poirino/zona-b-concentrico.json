@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "comune": "Poirino",
+ "provincia": "TO",
+ "gestore": "CCS – Consorzio Chierese per i Servizi",
+ "zona": "B · Concentrico",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Le date del calendario valgono anche quando la raccolta cade in un giorno festivo. Per orari di esposizione e dubbi: numero verde CCS 800 911 913.",
+ "fonte": "Calendario raccolta 2026 – https://www.ccs.to.it/calendari-raccolta",
+ "raccolte": {
+  "2026-11-02": [
+   "organico"
+  ],
+  "2026-11-04": [
+   "carta",
+   "vetro"
+  ],
+  "2026-11-05": [
+   "indifferenziato"
+  ],
+  "2026-11-09": [
+   "organico"
+  ],
+  "2026-11-16": [
+   "organico"
+  ],
+  "2026-11-18": [
+   "plastica"
+  ],
+  "2026-11-19": [
+   "indifferenziato"
+  ],
+  "2026-11-23": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ }
+}

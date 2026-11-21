@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "comune": "Chieri",
+ "provincia": "TO",
+ "gestore": "CCS – Consorzio Chierese per i Servizi",
+ "zona": "4B",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Le date del calendario valgono anche quando la raccolta cade in un giorno festivo. Per orari di esposizione e dubbi: numero verde CCS 800 911 913.",
+ "fonte": "Calendario raccolta 2026 – https://www.ccs.to.it/calendari-raccolta",
+ "raccolte": {
+  "2026-11-06": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-12": [
+   "plastica"
+  ],
+  "2026-11-13": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-11-20": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

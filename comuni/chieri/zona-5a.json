@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "comune": "Chieri",
+ "provincia": "TO",
+ "gestore": "CCS – Consorzio Chierese per i Servizi",
+ "zona": "5A",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Le date del calendario valgono anche quando la raccolta cade in un giorno festivo. Per orari di esposizione e dubbi: numero verde CCS 800 911 913.",
+ "fonte": "Calendario raccolta 2026 – https://www.ccs.to.it/calendari-raccolta",
+ "raccolte": {
+  "2026-11-03": [
+   "organico"
+  ],
+  "2026-11-04": [
+   "vetro"
+  ],
+  "2026-11-05": [
+   "plastica"
+  ],
+  "2026-11-06": [
+   "organico"
+  ],
+  "2026-11-07": [
+   "indifferenziato"
+  ],
+  "2026-11-10": [
+   "organico"
+  ],
+  "2026-11-13": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-14": [
+   "indifferenziato"
+  ],
+  "2026-11-17": [
+   "organico"
+  ],
+  "2026-11-18": [
+   "vetro"
+  ],
+  "2026-11-19": [
+   "plastica"
+  ],
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-27": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-26"
+  }
+ ]
+}

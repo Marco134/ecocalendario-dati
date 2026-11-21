@@ -1,0 +1,340 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-21",
+  "gestore": "CCS – Consorzio Chierese per i Servizi",
+  "fonte": "https://www.ccs.to.it/calendari-raccolta",
+  "numero_verde": "800 911 913",
+  "orari_numero_verde": "",
+  "accesso": "Accesso con tessera sanitaria o partita IVA.",
+  "avviso": "Orari dai calendari CCS 2026: in estate alcuni pomeriggi cambiano (vedi la nota di ogni centro).",
+  "consorzio": "ccs",
+  "centri": [
+    {
+      "id": "ccs-chieri",
+      "tipo": "raccolta",
+      "comune": "Chieri",
+      "indirizzo": "Strada Fontaneto 119",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario invernale (novembre-marzo). Da aprile a ottobre il sabato pomeriggio 15-18. Per i comuni dell’area di Chieri.",
+      "lat": 45.0132,
+      "lon": 7.8211
+    },
+    {
+      "id": "ccs-riva",
+      "tipo": "raccolta",
+      "comune": "Riva presso Chieri",
+      "indirizzo": "Strada Ronello",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario ottobre-febbraio. Da marzo a settembre il mercoledì 14-19. Per Riva presso Chieri e Arignano.",
+      "lat": 44.9863,
+      "lon": 7.8692
+    },
+    {
+      "id": "ccs-carmagnola",
+      "tipo": "raccolta",
+      "comune": "Carmagnola",
+      "indirizzo": "Via Monteu Roero 13",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario ottobre-marzo. Da aprile a settembre il pomeriggio 14-18. Gestito da De Vizia.",
+      "lat": 44.8465,
+      "lon": 7.7182
+    },
+    {
+      "id": "ccs-poirino",
+      "tipo": "raccolta",
+      "comune": "Poirino",
+      "indirizzo": "Via Carmagnola (50 m sulla destra)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Orario novembre-aprile. Da maggio a ottobre il pomeriggio 14-18. Per Poirino, Isolabella e Pralormo.",
+      "lat": 44.9212,
+      "lon": 7.8436
+    },
+    {
+      "id": "ccs-pecetto",
+      "tipo": "raccolta",
+      "comune": "Pecetto Torinese",
+      "indirizzo": "Via Don Milani",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "15:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "15:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0196,
+      "lon": 7.7487
+    },
+    {
+      "id": "ccs-pino",
+      "tipo": "raccolta",
+      "comune": "Pino Torinese",
+      "indirizzo": "Via Valle Balbiana 61",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.0435,
+      "lon": 7.7722
+    },
+    {
+      "id": "ccs-pavarolo",
+      "tipo": "raccolta",
+      "comune": "Pavarolo",
+      "indirizzo": "Piazzale Olmetto",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Per Pavarolo e Montaldo Torinese.",
+      "lat": 45.0689,
+      "lon": 7.8348
+    }
+  ]
+}
