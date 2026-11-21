@@ -1,0 +1,1563 @@
+{
+ "schema": 1,
+ "nome": "Coinger",
+ "fonte": "https://www.coinger.it/wp-content/uploads/20230418_Regolamento_servizio_rifiuti_COINGER_V09.pdf",
+ "voci": {
+  "lattine di alluminio": {
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  "barattoli di latta": {
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  "carta stagnola e vaschette di alluminio": {
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  "tetrapak (cartoni di latte e succhi)": {
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  "tappi di sughero": {
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  "farmaci scaduti": {
+   "dove": "varia",
+   "nota": "Usa i contenitori stradali dedicati al materiale. Verifica l’ubicazione nella scheda del Comune.",
+   "nota_en": "Use dedicated street containers. Check the municipal service page for locations."
+  }
+ },
+ "extra": [
+  {
+   "nome": "accendino/accendi fuoco a gas",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "accessori auto, qualsi ad esempio tappetini, copricerchi. le parti di auto invece devono essere obbligatoriamente portati presso i centri individuati dalla prefettura",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "alimenti in generale",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "assorbenti igienici e pannolini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "automobili e loro parti. solo in centri autorizzati",
+   "dove": "varia",
+   "nota": "Conferire a un centro autorizzato, secondo le indicazioni del gestore.",
+   "nota_en": "Use an authorised specialist facility."
+  },
+  {
+   "nome": "avanzi di stoffa",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "avanzi sia dei pasti che della preparazione degli stessi",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "barattoli in latta (confezioni legumi, pelati, etc.)",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "barattoli in vetro",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "barattoli per il confezionamento di prodotti vari in plastica (es: cosmetici, articoli da cancelleria, salviette umide, detersivi, rullini fotografici)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "batterie automobili e motoveicoli",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "beni durevoli di plastica di grandi dimensioni quali ad esempio sedie, tavoli, panchine, grossi giocattoli, taniche e bidoni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "beni durevoli di plastica di piccole dimensioni quali ad esempio posacenere, portapenne, portasapone, scopino, casalinghi etc",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "biberon",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "biciclette",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "bretelle in cattivo stato",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bidoni vuoti di tempere",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "biglietti lotterie e giochi vari",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "blister e contenitori rigidi e formati a sagoma (es: gusci per giocattoli, pile, articoli da cancelleria, gadget vari, ecc)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "bombolette spray esaurite e senza simbolo di pericolo",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "borse e zaini in buono stato",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "borse e zaini in cattivo stato",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bottiglie in plastica (acqua, bibite, olio, succhi, latte…)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "bottoni",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "braccioli galleggiamento",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bretelle in buono stato",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "buste da corrispondenza (anche quelle con finestrella in plastica)",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "buste della spesa in carta",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "buste della spesa in plastica compostabile en 13432",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "buste della spesa in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "buste in carta con all’interno rivestimento in alluminio",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "buste in carta imbottite con pluriball",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "buste in plastica con all’interno rivestimento in alluminio",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "buste in plastica per alimenti in genere, anche per congelatore",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "buste monodose cibo per cani e gatti",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "bustine tè, camomilla o infusi",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "caffettiere",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "calcinacci (solo utenti domestici)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "calze di nylon",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "candele",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "canne da irrigazione",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cannucce per bibite",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "capelli",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carbonella per grigliate",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta da banco",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "carta da banco usata per prodotti di macelleria/pescheria (solo il primo foglio di contatto con alimento)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta da cucina e tovaglioli intrisi di unto da cucina",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "carta da cucina, tovaglioli o carta uso alimentare",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "carta da parati",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta da forno",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta lucida da disegno",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta mani",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "carta poliaccoppiata ad alluminio per biscotti",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "carta oleata",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "carta intrisa di vernice o oli minerali",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta stagnola",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "carta stagnola utilizzata per cucinare al cartoccio con parti di cibo non staccabili",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta tritata da ufficio",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "carta utilizzata come lettiera di animali",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta vetrata",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cartine di zucchero",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "cartoni della pizza (mettere nell'umido gli avanzi)",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "casalinghi in plastica tipo scolapasta, spremiagrumi, colino, etc",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "casalinghi in metallo senza supporto in plastica",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "caschi da moto/scooter",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cassette in cartone per prodotti ortofrutticoli e alimentari in genere",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "cassette in plastica per prodotti ortofrutticoli e alimentari",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "cavi elettrici (solo provenienza domestica)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "cellophane, anche per confezionamento capi prelevati da lavanderia",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "cassette per bottiglie di acqua, vino, bibite ecc",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "cenere di legna del camino/stufa completamente spenta",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "ceramica e porcellana",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "ceste in vimini",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "cestini portarifiuti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "cialde del caffè",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cinture in buono stato",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "cinture in cattivo stato",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "ciotole in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "colla stick/colla base vinilica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "confezioni in alluminio (tipo quelle di mousse alla frutta o di alcuni prodotti alimentari per animali)",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "confezioni in plastica dello yogurt",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "confezioni rigide per dolciumi (es scatole trasparenti e vassoi interni ad impronte)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "contenitori in plastica per conservare o cucinare",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "contenitori per yogurt, creme di formaggio, dessert",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "contenitori uova in carta",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "contenitori uova in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "coperte",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "copertone biciclette",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "coppette gelato in carta pressata",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "coprivasetti in alluminio di yogurt ed altri alimenti con linguetta a strappo",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "cosmetici e detersivi flaconi pieni (chiamare uffici coinger)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cotone idrofilo e cotton fioc",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cover per smartphone",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "diapositive",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "divani e mobilio di grandi dimensioni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "dvd, cd, videocassette, musicassette e loro confezioni",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "elastici",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "elettrodomestici ed eletroutensili in generale (frigo, tv, condizionatore, trapano, tostapane, etc)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "escrementi di animali",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "evidenziatori",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "farmaci",
+   "dove": "varia",
+   "nota": "Usa i contenitori stradali dedicati al materiale. Verifica l’ubicazione nella scheda del Comune.",
+   "nota_en": "Use dedicated street containers. Check the municipal service page for locations."
+  },
+  {
+   "nome": "fazzoletti per l’igiene nasale e fazzoletti struccanti",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fili elettrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "film di imballaggio per tenere più prodotti insieme: ad es per raggruppare bottiglie di acqua, etc",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "fiori (nel verde per chi ha servizio porta a porta)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "fiori finti",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fitofarmaci (solo utenti domestici)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "flaconi e tubetti in plastica vuoti di alimenti, sciroppi, creme, salse ma anche di detersivi, saponi, prodotti per l’igiene, cosmetici, acqua distillata e liquidi in genere",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "foglio retro di etichette adesive",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "fondi di the, caffè e tisane",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "fotografie",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "giocattoli in plastica (privi di pile)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "gomma anti-trauma per bambini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "gomma piuma",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "gomme per cancellare",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "graffette",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "grucce in plastica da abito",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "grucce metalliche da tintoria",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "guaine di tubazioni (solo provenienza domenistica)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "guanti di gomma",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "guarnizioni",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "gusci di frutta secca",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "gusci di molluschi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "ice box",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "imballaggi in plastica o polistirolo vuoti",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "indumenti da lavoro sporchi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "indumenti nuovi o logori",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "involucri di caramelle e cioccolatini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lampade e lampadine a led",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "lampade e lampadine alogene",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "lampade e lampadine fluorescenti a risparmio energetico e lampade al neon",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "lampadine di vecchia generazione a incandescenza",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lana materassi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lastre diagnostiche",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lattine per bibite e bevande",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "legno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "lettiera di animali minerali",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lettiere di animali vegetali (prive di escrementi)",
+   "dove": "sfalci",
+   "nota": "Raccolta del verde per gli aderenti al servizio o centro autorizzato.",
+   "nota_en": "Use the subscribed garden waste service or an authorised recycling centre."
+  },
+  {
+   "nome": "libri e quaderni",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "mastelli grandi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "mastelli piccoli",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "materassi e reti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "matite",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "mollette per bucato",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "moto e motorini e loro parti. solo in centri autorizzati",
+   "dove": "varia",
+   "nota": "Conferire a un centro autorizzato, secondo le indicazioni del gestore.",
+   "nota_en": "Use an authorised specialist facility."
+  },
+  {
+   "nome": "nastro/paglia per confezioni regalo",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "occhiali",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "oggetti di plastica per la casa (scolapasta, spremiagrumi, colino etc.)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "olio vegetale/minerale",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "oggetti in plastica e polistirolo che non sono imballaggi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "ombrelli (se non inseribili nel bidone rur)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "palloni",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pellicola d’imballaggio liscia e “a bolle” (pluriball)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "pellicola per alimenti, anche quella che richiude le vaschette di alimenti acquistati",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "pellicole trasparenti per riviste",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "pelo toelettatura cane",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "penne, pennarelli, pennelli",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "peluches/pupazzi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pentolame di grosse dimensioni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "pentole di dimensioni compatibili con secchi in uso (senza supporti in plastica)",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "pentole in coccio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "pettini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "phone/piastre per capelli",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "piatti e bicchieri in plastica monouso",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "piatti e bicchieri monouso in materiale compostabile en 13432",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "posate in materiale compostabile en 13432",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "pile",
+   "dove": "varia",
+   "nota": "Usa i contenitori stradali dedicati al materiale. Verifica l’ubicazione nella scheda del Comune.",
+   "nota_en": "Use dedicated street containers. Check the municipal service page for locations."
+  },
+  {
+   "nome": "pinne",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pirofile in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "piumoni",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "pneumatici di auto e moto (solo centri autorizzati)",
+   "dove": "varia",
+   "nota": "Conferire a un centro autorizzato, secondo le indicazioni del gestore.",
+   "nota_en": "Use an authorised specialist facility."
+  },
+  {
+   "nome": "portadocumenti in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "portapenne in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "posacenere in ceramica/porcellana",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "posacenere in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "posate in metallo",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "posate in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "potature siepe",
+   "dove": "sfalci",
+   "nota": "Raccolta del verde per gli aderenti al servizio o centro autorizzato.",
+   "nota_en": "Use the subscribed garden waste service or an authorised recycling centre."
+  },
+  {
+   "nome": "presine in stoffa/plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "radiografie",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "reggette per legatura pacchi",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "residui di sigarette",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "residuo della pulizia del pavimento",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "reti in plastica per frutta e verdura",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "righelli e squadre",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "rotoli interni di carta igienica / carta da cucina",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "sacche per plasma, contenitori per liquidi fisiologici e per emodialisi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sacchetti in carta (anche quelli con inserto in plastica), shopper in carta",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "sacchetti pieni dell’aspirapolvere",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sacchetti vari in plastica per alimenti per animali",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "sacchi cemento in carta",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sacchi in plastica per cemento, catrame a freddo, stabilitura",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "salvagente",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "scarpe e ciabatte in buono stato",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "scarpe e ciabatte in cattivo stato",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "scatole in carta per il confezionamento di capi di abbigliamento (es.: camicie, biancheria intima, calze, cravatte)",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "scatole in plastica per il confezionamento di capi di abbigliamento (es.: camicie, biancheria intima, calze, cravatte)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "sci, monopattini, pattini etc.",
+   "dove": "varia",
+   "nota": "Indifferenziato o centro di raccolta secondo dimensioni e condizioni di conferimento.",
+   "nota_en": "Residual waste or recycling centre depending on size and local instructions."
+  },
+  {
+   "nome": "scontrini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "scotch, anche rotolo interno in plastica",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "secchi, mastelli, catini in plastica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "sedie in plastica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "sfalcio prato",
+   "dove": "sfalci",
+   "nota": "Raccolta del verde per gli aderenti al servizio o centro autorizzato.",
+   "nota_en": "Use the subscribed garden waste service or an authorised recycling centre."
+  },
+  {
+   "nome": "shopper (sacchetti/buste)dei negozi in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "siringhe, sacche per plasma, contenitori per liquidi fisiologici e per emodialisi)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "smalto per unghie (secco/finito)",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "smartphone",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "spazzole e spazzolini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sporte",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "spugne",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stagnola plastificata del caffè o biscotti",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "stoffe",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "stoviglie in ceramica/porcellana",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "stracci sporchi",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stringhe",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stuzzicadenti e spiedini di legno",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido. Segui le condizioni riportate per il materiale.",
+   "nota_en": "Organic waste collection. Follow the instructions for this item."
+  },
+  {
+   "nome": "tappeti grandi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "tappeti piccoli",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tappetini da auto/camion anche se di gomma",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tappi a corona",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "tappi di metallo di vasetti",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "tappi di plastica di barattoli",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "tappo di plastica bottiglie",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "tavoletta copri wc",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "telecomandi (privi di batteria)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "telefonini (senza batteria)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "teli da imbianchino",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "teli da serra",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "termometro in mercurio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "tetrapak (cartoni del latte, succhi di frutta e altre bevande)",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "toner e cartucce stampanti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "tovaglie di carta",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "tovaglie plastificate",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tubetti di salse in metallo vuoti",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "tubetti dentifricio in plastica vuoto",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "tubi proteggi fili elettrici",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tubetto dentifricio in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "tubetto tempere in metallo",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "tubetto tempere in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "tute sportive",
+   "dove": "indumenti",
+   "nota": "Contenitore per abbigliamento o centro di raccolta abilitato.",
+   "nota_en": "Use a clothing container or authorised recycling centre."
+  },
+  {
+   "nome": "vaschette e confezioni in plastica trasparente o polistirolo per alimenti freschi (es. affettati, formaggi, pasta fresca, frutta, verdura)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vaschette in alluminio per cucinare",
+   "dove": "vetro",
+   "nota": "Vetro, lattine e latta.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "vaschette porta-uova in carta",
+   "dove": "carta",
+   "nota": "Carta e cartone, compresi i contenitori in Tetra Pak.",
+   "nota_en": "Paper and cardboard, including beverage cartons."
+  },
+  {
+   "nome": "vaschette porta-uova in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vaschette/barattoli in plastica e polistirolo per gelati",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vasi per piante",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "vasi per vendita e trasporto piantine (in genere sono neri)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vetri e/o specchi di grandi dimensioni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale.",
+   "nota_en": "Use a recycling centre authorised for this material."
+  },
+  {
+   "nome": "vetri tipo pyrex",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "videocassette, musicassette, dvd, cd e loro confezioni",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "zerbini",
+   "dove": "indifferenziato",
+   "nota": "RUR indifferenziato.",
+   "nota_en": "Residual waste."
+  }
+ ],
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro, lattine e latta",
+   "nome_en": "Glass and metal packaging"
+  },
+  "carta": {
+   "nome": "Carta, cartone e Tetra Pak",
+   "nome_en": "Paper, cardboard and beverage cartons"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-21, Allegato D del regolamento e PDF dei gruppi per i materiali principali"
+ }
+}

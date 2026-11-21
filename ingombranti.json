@@ -1340,6 +1340,28 @@
       ],
       "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "coinger",
+      "nome": "Ritiro ingombranti Coinger",
+      "gestori": [
+        "Coinger"
+      ],
+      "telefono": "800 35 95 95",
+      "prenota_url": "https://coinger.it/comuni/albizzate/ritiro-ingombranti/",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a pagamento su prenotazione il martedì e il giovedì dalle 05:00 alle 15:00.",
+        "Per il servizio ordinario, massimo 3 pezzi e 2 m³. La tariffa pubblicata è € 7,81 IVA inclusa. Conferma tariffa e appuntamento al numero verde.",
+        "Per mobili in legno o più di 3 pezzi è previsto un servizio con motocarro e preventivo. Il ritiro avviene nel cortile o all’esterno della proprietà secondo il servizio."
+      ],
+      "regole_en": [
+        "Paid collection by appointment on Tuesdays and Thursdays from 05:00 to 15:00.",
+        "Standard collection is limited to three items and 2 m³. The published charge is €7.81 including VAT. Confirm the charge and appointment with Coinger.",
+        "Wood furniture and larger loads require a separate quotation. Check the collection location with the provider."
+      ],
+      "fonte": "https://coinger.it/comuni/albizzate/ritiro-ingombranti/",
+      "verificato": "2026-11-21"
     }
   ]
 }

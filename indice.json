@@ -255,6 +255,23 @@
       ]
     },
     {
+      "id": "albizzate",
+      "nome": "Albizzate",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.723943,
+      "lon": 8.803131,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Gamma",
+          "file": "comuni/albizzate/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "albosaggia",
       "nome": "Albosaggia",
       "provincia": "SO",
@@ -904,6 +921,23 @@
           "nome": "Zona unica",
           "file": "comuni/azeglio/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "azzate",
+      "nome": "Azzate",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.780222,
+      "lon": 8.793769,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Delta",
+          "file": "comuni/azzate/zona-unica.json",
+          "valido_al": "2027-05-31"
         }
       ]
     },
@@ -1560,6 +1594,23 @@
       ]
     },
     {
+      "id": "besnate",
+      "nome": "Besnate",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.700165,
+      "lon": 8.768315,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Beta",
+          "file": "comuni/besnate/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "beura-cardezza",
       "nome": "Beura-Cardezza",
       "provincia": "VB",
@@ -1688,6 +1739,23 @@
           "nome": "Zona unica",
           "file": "comuni/boca/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "bodio-lomnago",
+      "nome": "Bodio Lomnago",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.791229,
+      "lon": 8.751004,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/bodio-lomnago/zona-unica.json",
+          "valido_al": "2027-05-31"
         }
       ]
     },
@@ -3418,6 +3486,23 @@
       ]
     },
     {
+      "id": "casale-litta",
+      "nome": "Casale Litta",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.767332,
+      "lon": 8.740087,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/casale-litta/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "casale-sul-sile",
       "nome": "Casale sul Sile",
       "provincia": "TV",
@@ -3959,6 +4044,23 @@
       ]
     },
     {
+      "id": "castiglione-olona",
+      "nome": "Castiglione Olona",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.755476,
+      "lon": 8.866883,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/castiglione-olona/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "castiglione-tinella",
       "nome": "Castiglione Tinella",
       "provincia": "CN",
@@ -4045,6 +4147,23 @@
       ]
     },
     {
+      "id": "castronno",
+      "nome": "Castronno",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.74683,
+      "lon": 8.814162,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Delta",
+          "file": "comuni/castronno/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "cavaglietto",
       "nome": "Cavaglietto",
       "provincia": "NO",
@@ -4113,6 +4232,24 @@
       ]
     },
     {
+      "id": "cavaria-con-premezzo",
+      "nome": "Cavaria con Premezzo",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.692682,
+      "lon": 8.796529,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Delta",
+          "file": "comuni/cavaria-con-premezzo/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ],
+      "regole": "regole/cavaria-con-premezzo.json"
+    },
+    {
       "id": "cavaso-del-tomba",
       "nome": "Cavaso del Tomba",
       "provincia": "TV",
@@ -4143,6 +4280,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/cavour/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cazzago-brabbia",
+      "nome": "Cazzago Brabbia",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.797686,
+      "lon": 8.73319,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/cazzago-brabbia/zona-unica.json",
+          "valido_al": "2027-05-31"
         }
       ]
     },
@@ -5682,6 +5836,23 @@
       ]
     },
     {
+      "id": "crosio-della-valle",
+      "nome": "Crosio della Valle",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.759974,
+      "lon": 8.770432,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Beta",
+          "file": "comuni/crosio-della-valle/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "cuceglio",
       "nome": "Cuceglio",
       "provincia": "TO",
@@ -5907,6 +6078,23 @@
         }
       ],
       "zone_url": "https://vallecamonicaservizi.it/download-calendari/"
+    },
+    {
+      "id": "daverio",
+      "nome": "Daverio",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.778403,
+      "lon": 8.771828,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/daverio/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
     },
     {
       "id": "dazio",
@@ -6750,6 +6938,23 @@
       ]
     },
     {
+      "id": "galliate-lombardo",
+      "nome": "Galliate Lombardo",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.784582,
+      "lon": 8.770894,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Delta",
+          "file": "comuni/galliate-lombardo/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "garbagnate-monastero",
       "nome": "Garbagnate Monastero",
       "provincia": "LC",
@@ -7539,6 +7744,23 @@
       ]
     },
     {
+      "id": "inarzo",
+      "nome": "Inarzo",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.785316,
+      "lon": 8.734475,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/inarzo/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "ingria",
       "nome": "Ingria",
       "provincia": "TO",
@@ -7871,6 +8093,23 @@
         }
       ],
       "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/"
+    },
+    {
+      "id": "jerago-con-orago",
+      "nome": "Jerago con Orago",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.708033,
+      "lon": 8.793964,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Gamma",
+          "file": "comuni/jerago-con-orago/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
     },
     {
       "id": "la-cassa",
@@ -10184,6 +10423,23 @@
       ]
     },
     {
+      "id": "morazzone",
+      "nome": "Morazzone",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.764961,
+      "lon": 8.8315,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Alfa",
+          "file": "comuni/morazzone/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "morbegno",
       "nome": "Morbegno",
       "provincia": "SO",
@@ -10231,6 +10487,23 @@
           "nome": "Zona unica",
           "file": "comuni/moriondo-torinese/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mornago",
+      "nome": "Mornago",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.747541,
+      "lon": 8.752299,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Beta",
+          "file": "comuni/mornago/zona-unica.json",
+          "valido_al": "2027-05-31"
         }
       ]
     },
@@ -10649,6 +10922,23 @@
         }
       ],
       "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
+    },
+    {
+      "id": "oggiona-con-santo-stefano",
+      "nome": "Oggiona con Santo Stefano",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.699435,
+      "lon": 8.818381,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Gamma",
+          "file": "comuni/oggiona-con-santo-stefano/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
     },
     {
       "id": "oggiono",
@@ -14700,6 +14990,23 @@
       ]
     },
     {
+      "id": "solbiate-arno",
+      "nome": "Solbiate Arno",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.719056,
+      "lon": 8.814344,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Gamma",
+          "file": "comuni/solbiate-arno/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "sommariva-perno",
       "nome": "Sommariva Perno",
       "provincia": "CN",
@@ -14979,6 +15286,23 @@
           "nome": "Zona unica",
           "file": "comuni/suello/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sumirago",
+      "nome": "Sumirago",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.739225,
+      "lon": 8.781004,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Delta",
+          "file": "comuni/sumirago/zona-unica.json",
+          "valido_al": "2027-05-31"
         }
       ]
     },
@@ -16175,6 +16499,23 @@
       ]
     },
     {
+      "id": "vedano-olona",
+      "nome": "Vedano Olona",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.776916,
+      "lon": 8.885596,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Beta",
+          "file": "comuni/vedano-olona/zona-unica.json",
+          "valido_al": "2027-05-31"
+        }
+      ]
+    },
+    {
       "id": "vedelago",
       "nome": "Vedelago",
       "provincia": "TV",
@@ -16271,6 +16612,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/venaus/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "venegono-inferiore",
+      "nome": "Venegono Inferiore",
+      "provincia": "VA",
+      "gestore": "Coinger",
+      "consorzio": "coinger",
+      "lat": 45.738376,
+      "lon": 8.901107,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Gruppo Beta",
+          "file": "comuni/venegono-inferiore/zona-unica.json",
+          "valido_al": "2027-05-31"
         }
       ]
     },
@@ -17187,6 +17545,12 @@
       "gestore": "Garda Uno",
       "ecocentri": "ecocentri/garda-uno.json",
       "regole": "regole/garda-uno.json"
+    },
+    "coinger": {
+      "nome": "Coinger",
+      "gestore": "Coinger",
+      "ecocentri": "ecocentri/coinger.json",
+      "regole": "regole/coinger.json"
     }
   },
   "tipi_en": {

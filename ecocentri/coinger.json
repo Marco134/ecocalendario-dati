@@ -1,0 +1,632 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Coinger",
+ "consorzio": "coinger",
+ "fonte": "https://coinger.it/comuni/venegono-inferiore/centri-di-raccolta/",
+ "numero_verde": "800 35 95 95",
+ "accesso": "Porta la carta dei servizi dell’intestatario TARI. Scegli il centro autorizzato al materiale da conferire. I centri B servono le utenze domestiche. I centri A sono abilitati anche alle aziende secondo le istruzioni del gestore.",
+ "avviso": "Orari invernali. Arriva almeno 15 minuti prima della chiusura e verifica le chiusure festive e gli orari alternati sul sito del gestore.",
+ "centri": [
+  {
+   "id": "coinger-albizzate",
+   "tipo": "raccolta",
+   "comune": "Albizzate",
+   "indirizzo": "Via Montello, Albizzate",
+   "per": "domestiche",
+   "orari": {
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo A. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.723943,
+   "lon": 8.803131
+  },
+  {
+   "id": "coinger-besnate",
+   "tipo": "raccolta",
+   "comune": "Besnate",
+   "indirizzo": "Via A. di Dio, Besnate",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.700165,
+   "lon": 8.768315
+  },
+  {
+   "id": "coinger-bodio-lomnago",
+   "tipo": "raccolta",
+   "comune": "Bodio Lomnago",
+   "indirizzo": "Via Galvani, Bodio Lomnago",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.791229,
+   "lon": 8.751004
+  },
+  {
+   "id": "coinger-brunello",
+   "tipo": "raccolta",
+   "comune": "Brunello",
+   "indirizzo": "Via Chiesa ad Erbamolle, Brunello",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.765371,
+   "lon": 8.797365
+  },
+  {
+   "id": "coinger-casale-litta",
+   "tipo": "raccolta",
+   "comune": "Casale Litta",
+   "indirizzo": "Via Tordera Inferiore, Casale Litta",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo A. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata. Sabato 2° e 4° del mese 08:00–11:45. Domenica 1°, 3° e 5° del mese 09:00–11:45.",
+   "lat": 45.767332,
+   "lon": 8.740087
+  },
+  {
+   "id": "coinger-castiglione-olona",
+   "tipo": "raccolta",
+   "comune": "Castiglione Olona",
+   "indirizzo": "Via Boccaccio, Castiglione Olona",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.755476,
+   "lon": 8.866883
+  },
+  {
+   "id": "coinger-crosio-della-valle",
+   "tipo": "raccolta",
+   "comune": "Crosio della Valle",
+   "indirizzo": "Via Caregò, Crosio della Valle",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo A. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata. Sabato 1°, 3° e 5° del mese 09:00–11:45. Domenica 2° e 4° del mese 09:00–11:45.",
+   "lat": 45.759974,
+   "lon": 8.770432
+  },
+  {
+   "id": "coinger-morazzone",
+   "tipo": "raccolta",
+   "comune": "Morazzone",
+   "indirizzo": "Via Caronaccio, Morazzone",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo A. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.764961,
+   "lon": 8.8315
+  },
+  {
+   "id": "coinger-oggiona-con-santo-stefano",
+   "tipo": "raccolta",
+   "comune": "Oggiona con Santo Stefano",
+   "indirizzo": "Via Bonacalza, Oggiona con Santo Stefano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.699435,
+   "lon": 8.818381
+  },
+  {
+   "id": "coinger-solbiate-arno",
+   "tipo": "raccolta",
+   "comune": "Solbiate Arno",
+   "indirizzo": "Via Molinello, Solbiate Arno",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.719056,
+   "lon": 8.814344
+  },
+  {
+   "id": "coinger-sumirago",
+   "tipo": "raccolta",
+   "comune": "Sumirago",
+   "indirizzo": "Via Kennedy, Sumirago",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.739225,
+   "lon": 8.781004
+  },
+  {
+   "id": "coinger-vedano-olona",
+   "tipo": "raccolta",
+   "comune": "Vedano Olona",
+   "indirizzo": "Via Boschina, Vedano Olona",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Centro del gruppo B. Posizione indicativa del comune. Dal 2 novembre al 31 marzo chiusura pomeridiana anticipata.",
+   "lat": 45.776916,
+   "lon": 8.885596
+  }
+ ]
+}

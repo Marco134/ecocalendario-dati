@@ -1,0 +1,345 @@
+{
+ "schema": 1,
+ "comune": "Castronno",
+ "provincia": "VA",
+ "gestore": "Coinger",
+ "zona": "Gruppo Delta",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2027-05-31",
+ "esposizione": "Almeno un’ora dopo il tramonto del giorno precedente e comunque entro le 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00",
+ "fonte": "https://coinger.it/wp-content/uploads/DELTA-Calendario-Aprile-2026-Maggio-2027.pdf | https://coinger.it/comuni/castronno/calendario/",
+ "note": [
+  "Vetro, lattine e latta si raccolgono insieme. I contenitori in Tetra Pak vanno con la carta. Sfalci, tessili e raccolte su richiesta seguono le condizioni del gestore.",
+  "Il 1º maggio 2027 il calendario indica il recupero dell’umido. Per la plastica non è riportato un recupero. Consultare eventuali avvisi."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-26": [
+   "carta",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-07": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-14": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-21": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-28": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-04": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-06": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-09": [
+   "organico"
+  ],
+  "2027-02-11": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-13": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-18": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-20": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-23": [
+   "organico"
+  ],
+  "2027-02-25": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-27": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-04": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-06": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-09": [
+   "organico"
+  ],
+  "2027-03-11": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-13": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-18": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-20": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-23": [
+   "organico"
+  ],
+  "2027-03-25": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-27": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-01": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-03": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-06": [
+   "organico"
+  ],
+  "2027-04-08": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-10": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-13": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-15": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-17": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-20": [
+   "organico"
+  ],
+  "2027-04-22": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-24": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-29": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-03": [
+   "organico"
+  ],
+  "2027-05-04": [
+   "organico"
+  ],
+  "2027-05-06": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-08": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-13": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-15": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-18": [
+   "organico"
+  ],
+  "2027-05-20": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-22": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-27": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-29": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2027-05-01",
+   "tipo": "annullato",
+   "raccolta": "plastica"
+  },
+  {
+   "data": "2027-05-03",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-05-01"
+  }
+ ]
+}
