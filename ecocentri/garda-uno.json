@@ -755,6 +755,91 @@
    "avviso": "Orario ottobre–marzo. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura L’ecocalendario indica chiusura il 25 dicembre e apertura il 26 dicembre.",
    "lat": 45.63453,
    "lon": 10.609521
+  },
+  {
+   "id": "garda-uno-magasa",
+   "tipo": "raccolta",
+   "comune": "Magasa",
+   "indirizzo": "Località Presos, Magasa",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "11:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tutto l’anno. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi. I rifiuti pericolosi e gli elettrodomestici si conferiscono al centro di Valvestino.",
+   "lat": 45.781392,
+   "lon": 10.615973
+  },
+  {
+   "id": "garda-uno-tignale",
+   "tipo": "raccolta",
+   "comune": "Tignale",
+   "indirizzo": "Via Leonardo da Vinci, Tignale",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Da ottobre a marzo. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi.",
+   "lat": 45.739781,
+   "lon": 10.721765
+  },
+  {
+   "id": "garda-uno-valvestino",
+   "tipo": "raccolta",
+   "comune": "Valvestino",
+   "indirizzo": "Località Turano, Valvestino",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "09:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "09:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tutto l’anno. Posizione indicativa del comune. ingresso consentito fino a 5 minuti prima della chiusura; Il Centro di Raccolta è sempre chiuso nei giorni festivi. Il centro è indicato anche per i rifiuti pericolosi e gli elettrodomestici provenienti da Magasa.",
+   "lat": 45.762092,
+   "lon": 10.594646
   }
  ]
 }

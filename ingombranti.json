@@ -1131,6 +1131,63 @@
       ],
       "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-magasa",
+      "nome": "Garda Uno – Magasa",
+      "comuni": [
+        "magasa"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: quarto lunedì del mese di gennaio-marzo-maggio-luglio-settembre-novembre.",
+        "Prenota fino a due giorni prima al numero verde. Il servizio è per un massimo di tre pezzi. Verifica il giorno e i materiali ammessi dal Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal page for collection dates and instructions."
+      ],
+      "fonte": "https://www.gardauno.it/it/comuni/magasa | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-tignale",
+      "nome": "Garda Uno – Tignale",
+      "comuni": [
+        "tignale"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: secondo martedì del mese.",
+        "Prenota fino a due giorni prima al numero verde. Il servizio è per un massimo di tre pezzi. Verifica il giorno e i materiali ammessi dal Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal page for collection dates and instructions."
+      ],
+      "fonte": "https://www.gardauno.it/it/comuni/tignale | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
+    },
+    {
+      "id": "garda-uno-valvestino",
+      "nome": "Garda Uno – Valvestino",
+      "comuni": [
+        "valvestino"
+      ],
+      "gestori": [],
+      "telefono": "800 033 955",
+      "prenotazione": true,
+      "regole": [
+        "Ritiro a domicilio: quarto lunedì del mese di gennaio-marzo-maggio-luglio-settembre-novembre.",
+        "Prenota fino a due giorni prima al numero verde. Il servizio è per un massimo di tre pezzi. Verifica il giorno e i materiali ammessi dal Comune."
+      ],
+      "regole_en": [
+        "Book your bulky waste collection in advance. The limit is three items per collection. Check the official municipal page for collection dates and instructions."
+      ],
+      "fonte": "https://www.gardauno.it/it/comuni/valvestino | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune",
+      "verificato": "2026-11-21"
     }
   ]
 }

@@ -8613,6 +8613,23 @@
       ]
     },
     {
+      "id": "magasa",
+      "nome": "Magasa",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.781392,
+      "lon": 10.615973,
+      "zone": [
+        {
+          "id": "stradale",
+          "nome": "Cassonetti stradali",
+          "file": "comuni/magasa/zona-stradale.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "maggiora",
       "nome": "Maggiora",
       "provincia": "NO",
@@ -14985,6 +15002,23 @@
       ]
     },
     {
+      "id": "tignale",
+      "nome": "Tignale",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.739781,
+      "lon": 10.721765,
+      "zone": [
+        {
+          "id": "stradale",
+          "nome": "Cassonetti stradali",
+          "file": "comuni/tignale/zona-stradale.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
       "id": "tirano",
       "nome": "Tirano",
       "provincia": "SO",
@@ -15860,6 +15894,23 @@
           "nome": "Zona unica",
           "file": "comuni/valvarrone/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valvestino",
+      "nome": "Valvestino",
+      "provincia": "BS",
+      "gestore": "Garda Uno",
+      "consorzio": "garda-uno",
+      "lat": 45.762092,
+      "lon": 10.594646,
+      "zone": [
+        {
+          "id": "stradale",
+          "nome": "Cassonetti stradali",
+          "file": "comuni/valvestino/zona-stradale.json",
+          "valido_al": "2099-12-31"
         }
       ]
     },

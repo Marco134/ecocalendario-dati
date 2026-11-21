@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "nome": "Garda Uno",
- "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+ "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/abc-dei-rifiuti | https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
  "voci": {
   "lattine di alluminio": {
    "dove": "vetro",
@@ -32,6 +32,21 @@
    "dove": "carta",
    "nota": "Piega o schiaccia le scatole di cartone prima del conferimento.",
    "nota_en": "Flatten cardboard boxes before disposal."
+  },
+  "pellicola per alimenti": {
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  "pile e batterie": {
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino. Verifica anche gli eventuali contenitori dedicati nel tuo Comune.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre. Check for local dedicated collection bins as well."
+  },
+  "tappi di sughero": {
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
   }
  },
  "tipi": {
@@ -41,6 +56,2235 @@
   }
  },
  "verificato": {
-  "voci": "2026-11-21, sezioni sulla differenziata dei calendari comunali 2026"
- }
+  "voci": "2026-11-21, sezioni sulla differenziata dei calendari comunali 2026",
+  "extra": "2026-11-21, ABC dei rifiuti Garda Uno e condizioni delle schede comunali"
+ },
+ "extra": [
+  {
+   "nome": "abbigliamento (pulito)",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "accendini",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "accumulatori",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "acetone per unghie",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "acquaragia",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "adesivi",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "agenda (senza copertina plastificata)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "aghi (con cappuccio protezione)",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo. Il gestore indica il ritiro per le sole utenze domestiche.",
+   "nota_en": "Residual waste. The provider only collects this hazardous item from households."
+  },
+  {
+   "nome": "albero di natale (sintetico)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "albero di natale (vivo)",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "alimentatori elettrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "alimenti avariati (senza confezione)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "alimenti per animali (crocchette e sim.)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "alluminio (barattoli, lattine, vaschette,etc)",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "altoparlanti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "antenne",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "antiparassitari",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "apparecchi elettrici ed elettronici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "appendiabiti in legno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "appendiabiti in metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "appendiabiti in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "armadio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "arredo da giardino",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "asciugacapelli",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "aspirapolvere",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "asse da stiro",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "assorbenti igienici",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "astuccio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "attaccapanni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "avanzi di cucina",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "bacinelle",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "barattoli di vetro o di metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "basamento per ombrelloni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "bastoncini del gelato",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "batterie auto",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "bicchieri di plastica riutilizzabili",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bicchieri di plastica usa e getta (puliti)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "bicchieri di vetro",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "biciclette",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "bigiotteria",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "blister per pastiglie",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bombole del gas",
+   "dove": "varia",
+   "nota": "Il gestore indica che la raccolta comunale non è prevista.",
+   "nota_en": "The provider states that this item is not covered by municipal collection."
+  },
+  {
+   "nome": "bombolette metalliche spray vuote",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "bombolette spray con simbolo t o f",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "borse",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "borse danneggiate",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bottoni",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "bucce (di alimenti)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "bulloni",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "buste biodegradabili",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "buste di plastica e alluminio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "buste di sola plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "caffè",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "caffettiera alluminio",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "calcinacci",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "calcolatrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "caldaia",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "calze (spugna-lana-cotone )",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "calze di nylon ( collant )",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "canne per irrigazione",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cannuccia",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "capelli",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "capsula caffè in plastica",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carcasse di animali",
+   "dove": "varia",
+   "nota": "Contatta l’autorità sanitaria locale secondo l’indicazione del gestore.",
+   "nota_en": "Follow the provider’s advice and contact the local health authority."
+  },
+  {
+   "nome": "caricabatterie",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "carta (anche bagnata di acqua)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "carta assorbente da cucina unta",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "carta da forno",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "carta oleata, alluminata, plastificata",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "carta stagnola",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "carta vetrata, carta abrasiva",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cartellette per documenti in cartoncino",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "cartone da imballaggio",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "cartone per bevande (tetrapak lavato e schiacc.)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "cartone per bevande (tetrapak sciacquato e schiacc.)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "cartone pizza pulito",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "cartone pizza sporco (a pezzetti)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "cartucce e bossoli esplosi",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cartucce stampanti e toner",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "casco",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cassette audio e video",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cassette frutta in legno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cassette frutta in plastica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cateteri",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cavi elettrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cd dvd",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cellophane",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "cellulare",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cenere di legno (spenta, piccole quantità)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "ceramica piatti e tazze",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "ceramiche varie",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cerchioni per pneumatici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "cerotti usati",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cesto in vimini",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "chewing gum",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "chiavi metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "cialda caffè in plastica o alluminio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cialda caffè in tnt (simile bustine the)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "cicche di sigarette",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cinture",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "colle",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "colori (pennarelli-pastelli)",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "computer",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "condizionatori d'aria",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "conf. in plastica per merendine, pasta, riso",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "conf. in plastica sagomate per uova e dolciumi",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "coperchi pentole in metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "coperte",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "coppetta gelato (in cartoncino sciacquata)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "cosmetici",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cotone idrofilo usato",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cotton fioc",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cuoio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "cuscino",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "custodie cd, dvd,vhs",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "damigiane",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "deiezioni piccoli animali domestici",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "dentifricio tubetto",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "depliant",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "detersivo (contenitore in cartone)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "detersivo (contenitore in plastica)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "diario",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "diluente",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "dischi in vinile e dischetti pc",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "diserbanti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "disinfettanti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "divano",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "dvd",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "elastici",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "elettrodomestici di grandi dimensioni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "elettrodomestici di piccole dimensioni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "erba",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "erba sintetica",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "escrementi animali (piccole quantità)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "eternit",
+   "dove": "varia",
+   "nota": "Rivolgiti a un’azienda specializzata secondo l’indicazione del gestore.",
+   "nota_en": "Follow the provider’s advice and contact a specialist waste handling company."
+  },
+  {
+   "nome": "evidenziatori e pennarelli",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "farine",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "farmaci scaduti e inutilizzati",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "fazzoletti cotone",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fazzoletti di carta usati",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "ferro da stiro",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "ferro vecchio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "fiale per iniezioni (vuote in vetro)",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "fiale per medicinali (vuote in plastica)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "filtri auto",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "filtri di the, tisane e camomilla",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "filtro sigaretta",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "finestre",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "fiocchi e nastri regalo",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fiori finti",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fiori secchi e recisi",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "fitofarmaci",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "flaconi in plastica (puliti)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "flaconi in vetro",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "flaconi per detersivi e detergenti",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "floppy disk",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fogli di carta o cartoncino",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "fogliame",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "forbici",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "forchette metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "forchette plastica",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "forni a gas",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "forni elettrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "fotografie e pellicole fotografiche",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "frigoriferi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "frutta deteriorata",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "fuliggine",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "fumogeni scaduti",
+   "dove": "varia",
+   "nota": "Rivolgiti ai rivenditori secondo l’indicazione del gestore.",
+   "nota_en": "Follow the provider’s advice and contact a retailer."
+  },
+  {
+   "nome": "gesso",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "giocattoli in plastica elettrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "giocattoli in plastica non elettrici",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "giornali",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "gomma",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "grassi alimentari liquidi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "grucce appendiabiti in legno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "grucce appendiabiti in metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "grucce appendiabiti in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "guanti in gomma o lattice",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "guanti lana (puliti)",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "gusci crostacei o molluschi (piccole quantità)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "gusci frutta secca (noci mandorle nocciole)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "hi-fi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "imballaggi in carta o cartone",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "imballaggi in metallo vuoti",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "imballaggi in plastica (puliti)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "imballaggi in plastica e alluminio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "imballaggi in polistirolo (puliti)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "imballaggi in vetro",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "inchiostro",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "indumenti (puliti)",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "inerti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "ingombranti (mobili, divani, poltrone, materassi)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "insetticidi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lacca (flacone metallico vuoto)",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "lamette da barba",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lampadari",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lampade alogene",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lampade fluorescenti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lampadina ad incandescenza",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lana gomitoli",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "lastre di vetro",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "latta in acciaio o banda stagnata",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "lattina alluminio",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "lavastoviglie",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lavatrice",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "legno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "legno verniciato",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "lettiere naturali per piccoli animali",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "lettiere sintetiche per piccoli animali",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "lucido da scarpe",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "maglieria (pulita)",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "materasso",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "matite",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "mattoni, mattonelle (piccole quantità)",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "medicinali scaduti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "mobili in legno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "mobili in plastica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "mocio con manico",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "mollette bucato",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "monitor",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "mouse",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "mozziconi sigaretta",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "musicassette",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "nastri regalo",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "nastro isolante",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "neon",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "noccioli della frutta",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "nylon",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "occhiali",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "olii minerali o lubrificanti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "olio da frittura",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "ombrello",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "onduline catramate",
+   "dove": "varia",
+   "nota": "Il gestore indica che la raccolta comunale non è prevista.",
+   "nota_en": "The provider states that this item is not covered by municipal collection."
+  },
+  {
+   "nome": "opuscoli",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "orologi con pila",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "orologi meccanici",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "ossa",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "padelle metallo",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "pallets",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "pane vecchio",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "pannolini e pannoloni",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pasta",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "pc",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "peli e piume (piccole quantità)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "pennarelli pastelli",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "penne (biro)",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pennelli",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pennello da barba",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "pentole in terracotta",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "pentole metallo",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "pesce (resti di)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "pesticidi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "piante",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "piastrelle",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "piatti di plastica usa e getta (puliti)",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "piatti di plastica usa e getta (sporchi)",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "piatti e tazze ceramica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "pirofila in terracotta",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "pirofila in vetro",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "piumini",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "pneumatici (consegnare ai gommisti)",
+   "dove": "varia",
+   "nota": "Rivolgiti ai rivenditori secondo l’indicazione del gestore.",
+   "nota_en": "Follow the provider’s advice and contact a retailer."
+  },
+  {
+   "nome": "polistirolo da imballo",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "polistirolo da isolamento",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "poltrona",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "polveri dell'aspirapolvere",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "porcellana",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "porte",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "posate metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "posate plastica usa e getta",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "prodotti cosmetici",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "quadri",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "radio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "radiografie",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "rami, ramaglie",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "rasoi elettrici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "residui di potatura",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "reti per letti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "retine per frutta a verdura",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "rivestimenti imbottiti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "riviste",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "riviste plastificate",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "rubinetteria",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "sabbia per gatti",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sacchetti di carta e alluminio (tipo biscotti)",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sacchetti di plastica e alluminio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sacchetti per aspirapolvere",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "salvagente anulare",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "salviette umidificate",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sanitari",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "scarpe",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "scarponi da sci",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "scarti di edilizia",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "scatola per pizza",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "scatolette metalliche (tonno, fagioli, etc)",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "schiuma da barba (bomboletta metallica)",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "sci",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "scontrino carta chimica",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "scontrino carta normale",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "scopa",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "scotch",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "secchio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "sedia",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "segatura pulita (piccole quantità)",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "segatura sporca",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "sfalci",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "silicone",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo. Il gestore indica il ritiro per le sole utenze domestiche.",
+   "nota_en": "Residual waste. The provider only collects this hazardous item from households."
+  },
+  {
+   "nome": "siringhe con cappuccio e protezione",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo. Il gestore indica il ritiro per le sole utenze domestiche.",
+   "nota_en": "Residual waste. The provider only collects this hazardous item from households."
+  },
+  {
+   "nome": "smalti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "solventi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "spazzole per capelli",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "specchio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "spugna e spugna per fioristi",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stampante",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "stecchini del gelato e stuzzicadenti",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "stendibiancheria metallo",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "stendibiancheria plastica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "stilografica",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stivali in gomma",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stoffa pulita",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "straccio sporco",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "stucchi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "sughero",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tamponi per timbri",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tapparelle",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tappeti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tappezzerie",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tappi in metallo",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "tastiera del computer",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tazze e piatti ceramica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tegole",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "telecomando",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "telefoni",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "televisori",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tende",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "termometro a mercurio",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "terriccio",
+   "dove": "sfalci",
+   "nota": "Raccolta del vegetale dove attiva, oppure al centro di raccolta. Verifica disponibilità e condizioni per il tuo Comune.",
+   "nota_en": "Use garden waste collection where available or a recycling centre. Check local arrangements."
+  },
+  {
+   "nome": "tetrapak (sciacquato e schiacciato)",
+   "dove": "carta",
+   "nota": "Raccolta di carta e cartone.",
+   "nota_en": "Paper and cardboard collection."
+  },
+  {
+   "nome": "toner",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "topicidi",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "torce elettriche",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tovaglioli in carta bagnati o sporchi di cibo",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "tovaglioli in carta sporchi di detergenti",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tovagliolo in tessuto non tessuto",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "trielina",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "tubetto del dentifricio",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tubo patatine",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "tubo per irrigazione",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "uova",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "utensili in metallo (cacciaviti, pinze, etc)",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "valigia",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vasca da bagno",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vaschette alluminio",
+   "dove": "vetro",
+   "nota": "Contenitore per vetro e lattine.",
+   "nota_en": "Glass and metal packaging collection."
+  },
+  {
+   "nome": "vaschette in polistirolo",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vasetto plastica piante da trapiantare",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vasetto yogurt",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vasi di terracotta",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vaso da fiori in plastica",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "vaso in plastica",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vassoio in polistirolo",
+   "dove": "plastica",
+   "nota": "Raccolta degli imballaggi in plastica.",
+   "nota_en": "Plastic packaging collection."
+  },
+  {
+   "nome": "verdura",
+   "dove": "organico",
+   "nota": "Raccolta dell’umido.",
+   "nota_en": "Organic waste collection."
+  },
+  {
+   "nome": "vernici",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vestiti (puliti)",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "vetri da finestra rotti",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vetrocemento",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. Il gestore indica il ritiro per le sole utenze domestiche. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. The provider only collects this hazardous item from households. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vetroresina",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "videocassette",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "videoregistratori",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "vimini",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  },
+  {
+   "nome": "zaino deteriorato",
+   "dove": "indifferenziato",
+   "nota": "Secco residuo.",
+   "nota_en": "Residual waste."
+  },
+  {
+   "nome": "zaino in buono stato",
+   "dove": "indumenti",
+   "nota": "Contenitore per gli indumenti.",
+   "nota_en": "Use a clothing collection bin."
+  },
+  {
+   "nome": "zerbino",
+   "dove": "centro",
+   "nota": "Al centro di raccolta abilitato per il materiale. A Magasa, i rifiuti pericolosi e gli elettrodomestici si portano al centro di Valvestino.",
+   "nota_en": "Use a recycling centre authorised for this material. In Magasa, take hazardous waste and electrical appliances to Valvestino’s recycling centre."
+  }
+ ]
 }
