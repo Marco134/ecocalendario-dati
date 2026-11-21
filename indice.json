@@ -28,6 +28,30 @@
       ]
     },
     {
+      "id": "acquasparta",
+      "nome": "Acquasparta",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6906,
+      "lon": 12.5463,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/acquasparta/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/acquasparta/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-acquasparta/"
+    },
+    {
       "id": "aglie",
       "nome": "Agliè",
       "provincia": "TO",
@@ -103,6 +127,30 @@
       ]
     },
     {
+      "id": "allerona",
+      "nome": "Allerona",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.8117,
+      "lon": 11.9739,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/allerona/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/allerona/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-allerona/"
+    },
+    {
       "id": "almese",
       "nome": "Almese",
       "provincia": "TO",
@@ -165,6 +213,54 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
+    },
+    {
+      "id": "alviano",
+      "nome": "Alviano",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.5877,
+      "lon": 12.2956,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/alviano/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/alviano/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/"
+    },
+    {
+      "id": "amelia",
+      "nome": "Amelia",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.5589,
+      "lon": 12.4119,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/amelia/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/amelia/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-amelia/"
     },
     {
       "id": "andezeno",
@@ -320,6 +416,23 @@
       ]
     },
     {
+      "id": "attigliano",
+      "nome": "Attigliano",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.5149,
+      "lon": 12.2894,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/attigliano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "aurano",
       "nome": "Aurano",
       "provincia": "VB",
@@ -359,6 +472,30 @@
         }
       ],
       "zone_url": "https://www.acselspa.it/calendari-raccolta-rifiuti/"
+    },
+    {
+      "id": "avigliano-umbro",
+      "nome": "Avigliano Umbro",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6551,
+      "lon": 12.4281,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/avigliano-umbro/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/avigliano-umbro/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-avigliano-umbro/"
     },
     {
       "id": "azeglio",
@@ -601,6 +738,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "baschi",
+      "nome": "Baschi",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6701,
+      "lon": 12.2163,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/baschi/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/baschi/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/"
     },
     {
       "id": "baveno",
@@ -1867,6 +2028,47 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/castagnole-piemonte/"
     },
     {
+      "id": "castel-giorgio",
+      "nome": "Castel Giorgio",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.7078,
+      "lon": 11.9796,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/castel-giorgio/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/castel-giorgio/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-giorgio/"
+    },
+    {
+      "id": "castel-viscardo",
+      "nome": "Castel Viscardo",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.7557,
+      "lon": 12.0015,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castel-viscardo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "castellamonte",
       "nome": "Castellamonte",
       "provincia": "TO",
@@ -2969,6 +3171,23 @@
       ]
     },
     {
+      "id": "fabro",
+      "nome": "Fabro",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.8634,
+      "lon": 12.0129,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fabro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "farnese",
       "nome": "Farnese",
       "provincia": "VT",
@@ -3052,6 +3271,30 @@
           "valido_al": "2028-02-28"
         }
       ]
+    },
+    {
+      "id": "ficulle",
+      "nome": "Ficulle",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.8363,
+      "lon": 12.0663,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/ficulle/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/ficulle/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-ficulle/"
     },
     {
       "id": "fiorano-canavese",
@@ -3369,6 +3612,30 @@
       ]
     },
     {
+      "id": "giove",
+      "nome": "Giove",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.5093,
+      "lon": 12.3251,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/giove/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/giove/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-giove/"
+    },
+    {
       "id": "givoletto",
       "nome": "Givoletto",
       "provincia": "TO",
@@ -3565,6 +3832,30 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
+    },
+    {
+      "id": "guardea",
+      "nome": "Guardea",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6235,
+      "lon": 12.2972,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/guardea/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/guardea/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-guardea/"
     },
     {
       "id": "gurro",
@@ -4211,6 +4502,30 @@
       "consorzio": "lubriano"
     },
     {
+      "id": "lugnano-in-teverina",
+      "nome": "Lugnano in Teverina",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.5743,
+      "lon": 12.3303,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/lugnano-in-teverina/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/lugnano-in-teverina/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-lugnano-in-teverina/"
+    },
+    {
       "id": "luserna-san-giovanni",
       "nome": "Luserna San Giovanni",
       "provincia": "TO",
@@ -4854,6 +5169,54 @@
       ]
     },
     {
+      "id": "montecastrilli",
+      "nome": "Montecastrilli",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6498,
+      "lon": 12.4878,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/montecastrilli/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/montecastrilli/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montecastrilli/"
+    },
+    {
+      "id": "montecchio",
+      "nome": "Montecchio",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6624,
+      "lon": 12.288,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/montecchio/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/montecchio/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montecchio/"
+    },
+    {
       "id": "montecrestese",
       "nome": "Montecrestese",
       "provincia": "VB",
@@ -4869,6 +5232,54 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "montegabbione",
+      "nome": "Montegabbione",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.9212,
+      "lon": 12.0925,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/montegabbione/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/montegabbione/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montegabbione/"
+    },
+    {
+      "id": "monteleone-d-orvieto",
+      "nome": "Monteleone d'Orvieto",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.9165,
+      "lon": 12.0516,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/monteleone-d-orvieto/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/monteleone-d-orvieto/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-monteleone-d-orvieto/"
     },
     {
       "id": "montescheno",
@@ -5445,6 +5856,30 @@
       ]
     },
     {
+      "id": "parrano",
+      "nome": "Parrano",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.8635,
+      "lon": 12.1057,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/parrano/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/parrano/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-parrano/"
+    },
+    {
       "id": "pavarolo",
       "nome": "Pavarolo",
       "provincia": "TO",
@@ -5491,6 +5926,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pecetto-torinese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "penna-in-teverina",
+      "nome": "Penna in Teverina",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.493,
+      "lon": 12.3554,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/penna-in-teverina/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -5980,6 +6432,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/pont-canavese/"
+    },
+    {
+      "id": "porano",
+      "nome": "Porano",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.687,
+      "lon": 12.102,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/porano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "porte",
@@ -6890,6 +7359,30 @@
       ]
     },
     {
+      "id": "san-gemini",
+      "nome": "San Gemini",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.6134,
+      "lon": 12.5462,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/san-gemini/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/san-gemini/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-san-gemini/"
+    },
+    {
       "id": "san-germano-chisone",
       "nome": "San Germano Chisone",
       "provincia": "TO",
@@ -7521,6 +8014,30 @@
         }
       ],
       "zone_url": "https://www.conservco.it/it/calendari-raccolta-2026/"
+    },
+    {
+      "id": "stroncone",
+      "nome": "Stroncone",
+      "provincia": "TR",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "cosp-tr",
+      "lat": 42.4983,
+      "lon": 12.6627,
+      "zone": [
+        {
+          "id": "area-intensa",
+          "nome": "Area intensa (centro abitato)",
+          "file": "comuni/stroncone/zona-area-intensa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "area-vasta",
+          "nome": "Area vasta (frazioni e case sparse)",
+          "file": "comuni/stroncone/zona-area-vasta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/"
     },
     {
       "id": "susa",
@@ -8776,6 +9293,12 @@
       "nome": "Comuni della Tuscia serviti da Idealservice",
       "gestore": "Idealservice",
       "ecocentri": "ecocentri/idealservice-vt.json"
+    },
+    "cosp-tr": {
+      "nome": "Comuni serviti da COSP Tecno Service",
+      "gestore": "COSP Tecno Service",
+      "ecocentri": "ecocentri/cosp-tr.json",
+      "regole": "regole/orvieto.json"
     }
   },
   "tipi_en": {

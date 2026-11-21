@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Stroncone",
+ "provincia": "TR",
+ "gestore": "COSP Tecno Service",
+ "zona": "Area vasta",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dalle 21:00 della sera prima fino alle 6:00 del giorno di raccolta, vicino al proprio numero civico.",
+ "fonte": "Calendario COSP 2026 per le famiglie (StronconeUD_AV2026_ST) – www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
+ "note": [
+  "Area intensa o area vasta: lo trovi scritto sul tuo calendario COSP cartaceo; se non lo sai chiedi al numero verde.",
+  "Numero verde COSP 800 055 505, da cellulare 0744 409244."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "plastica"
+  ],
+  "2026-11-23": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-25": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ }
+}
