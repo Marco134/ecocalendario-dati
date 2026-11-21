@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "comune": "Castiglione in Teverina",
+ "provincia": "VT",
+ "gestore": "COSP Tecno Service",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi il contenitore fuori casa entro le 6:00 del giorno di raccolta, ben chiuso.",
+ "fonte": "Calendario servizio raccolta domiciliare COSP, utenze domestiche – www.cosptecnoservice.it/raccolta-differenziata-castiglione-in-teverina/",
+ "note": [
+  "Calendario settimanale fisso pubblicato da COSP: variazioni per le festività non indicate, in caso di dubbi chiama il numero verde.",
+  "Pannolini: lunedì, mercoledì e sabato (raccolta dedicata).",
+  "Numero verde COSP 800 055 505."
+ ],
+ "raccolte": {
+  "2026-11-21": [
+   "organico"
+  ],
+  "2026-11-23": [
+   "organico"
+  ],
+  "2026-11-24": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ }
+}

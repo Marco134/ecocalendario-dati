@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-21",
+  "gestore": "COSP Tecno Service",
+  "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castiglione-in-teverina/",
+  "numero_verde": "800 055 505",
+  "orari_numero_verde": "ingombranti: 9-12",
+  "consorzio": "castiglione-in-teverina",
+  "accesso": "Isola ecologica comunale per i cittadini di Castiglione in Teverina.",
+  "avviso": "L’indirizzo non è indicato sul calendario: chiedilo al numero verde COSP.",
+  "centri": [
+    {
+      "id": "castiglione-isola",
+      "tipo": "raccolta",
+      "comune": "Castiglione in Teverina",
+      "indirizzo": "Isola ecologica comunale",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:00",
+            "12:00"
+          ]
+        ],
+        "3": [
+          [
+            "10:00",
+            "12:00"
+          ]
+        ],
+        "5": [
+          [
+            "10:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "10:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Posizione indicativa (centro del paese).",
+      "lat": 42.645,
+      "lon": 12.2041
+    }
+  ]
+}

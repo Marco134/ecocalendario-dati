@@ -2145,6 +2145,23 @@
       }
     },
     {
+      "id": "castiglione-in-teverina",
+      "nome": "Castiglione in Teverina",
+      "provincia": "VT",
+      "gestore": "COSP Tecno Service",
+      "consorzio": "castiglione-in-teverina",
+      "lat": 42.645,
+      "lon": 12.2041,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castiglione-in-teverina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cavagnolo",
       "nome": "Cavagnolo",
       "provincia": "TO",
@@ -9298,6 +9315,12 @@
       "nome": "Comuni serviti da COSP Tecno Service",
       "gestore": "COSP Tecno Service",
       "ecocentri": "ecocentri/cosp-tr.json",
+      "regole": "regole/orvieto.json"
+    },
+    "castiglione-in-teverina": {
+      "nome": "Comune di Castiglione in Teverina",
+      "gestore": "COSP Tecno Service",
+      "ecocentri": "ecocentri/castiglione-in-teverina.json",
       "regole": "regole/orvieto.json"
     }
   },
