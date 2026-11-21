@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "comune": "Neive",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6:00 del mattino del giorno di raccolta. In caso di anticipi o posticipi per festività il servizio si svolge nell’arco dell’intera giornata. Info e ingombranti: numero verde 800 957 793.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://coabser.it/pdf/calendari_raccolte/neive.pdf",
+ "raccolte": {
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

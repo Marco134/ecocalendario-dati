@@ -1,0 +1,591 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "fonte": "https://coabser.it/servizi/calendari-utenze-domestiche/",
+ "numero_verde": "800 957 793",
+ "orari_numero_verde": "10:00-13:00 da lunedì a sabato, 15:00-18:00 da lunedì a venerdì",
+ "consorzio": "coabser",
+ "accesso": "Orari dai calendari 2026 dei comuni. Gli altri centri di raccolta del consorzio e i loro orari sono su verdegufo.it.",
+ "avviso": "Prima di andare verifica gli orari su verdegufo.it o al numero verde 800 957 793.",
+ "centri": [
+  {
+   "id": "coabser-canale",
+   "tipo": "raccolta",
+   "comune": "Canale",
+   "indirizzo": "Centro di raccolta di Canale",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7972,
+   "lon": 7.9914
+  },
+  {
+   "id": "coabser-cervere",
+   "tipo": "raccolta",
+   "comune": "Cervere",
+   "indirizzo": "Centro di raccolta di Cervere",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "10:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.6348,
+   "lon": 7.7932
+  },
+  {
+   "id": "coabser-cherasco",
+   "tipo": "raccolta",
+   "comune": "Cherasco",
+   "indirizzo": "Centro di raccolta di Cherasco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.6522,
+   "lon": 7.8582
+  },
+  {
+   "id": "coabser-la-morra",
+   "tipo": "raccolta",
+   "comune": "La Morra",
+   "indirizzo": "Centro di raccolta di La Morra",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.6373,
+   "lon": 7.9335
+  },
+  {
+   "id": "coabser-marene",
+   "tipo": "raccolta",
+   "comune": "Marene",
+   "indirizzo": "Centro di raccolta di Marene",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.6615,
+   "lon": 7.7292
+  },
+  {
+   "id": "coabser-monta",
+   "tipo": "raccolta",
+   "comune": "Montà",
+   "indirizzo": "Centro di raccolta di Montà",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.8131,
+   "lon": 7.96
+  },
+  {
+   "id": "coabser-monticello-d-alba",
+   "tipo": "raccolta",
+   "comune": "Monticello d'Alba",
+   "indirizzo": "Centro di raccolta di Monticello d'Alba",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7183,
+   "lon": 7.941
+  },
+  {
+   "id": "coabser-narzole",
+   "tipo": "raccolta",
+   "comune": "Narzole",
+   "indirizzo": "Centro di raccolta di Narzole",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.5942,
+   "lon": 7.8705
+  },
+  {
+   "id": "coabser-neive",
+   "tipo": "raccolta",
+   "comune": "Neive",
+   "indirizzo": "Centro di raccolta di Neive",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "2": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7263,
+   "lon": 8.1155
+  },
+  {
+   "id": "coabser-novello",
+   "tipo": "raccolta",
+   "comune": "Novello",
+   "indirizzo": "Centro di raccolta di Novello",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.5872,
+   "lon": 7.9277
+  },
+  {
+   "id": "coabser-pocapaglia",
+   "tipo": "raccolta",
+   "comune": "Pocapaglia",
+   "indirizzo": "Centro di raccolta di Pocapaglia",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "11:00",
+      "13:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7195,
+   "lon": 7.8872
+  },
+  {
+   "id": "coabser-priocca",
+   "tipo": "raccolta",
+   "comune": "Priocca",
+   "indirizzo": "Centro di raccolta di Priocca",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7913,
+   "lon": 8.0627
+  },
+  {
+   "id": "coabser-santo-stefano-belbo",
+   "tipo": "raccolta",
+   "comune": "Santo Stefano Belbo",
+   "indirizzo": "Centro di raccolta di Santo Stefano Belbo",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "11:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7075,
+   "lon": 8.231
+  },
+  {
+   "id": "coabser-sommariva-del-bosco",
+   "tipo": "raccolta",
+   "comune": "Sommariva del Bosco",
+   "indirizzo": "Centro di raccolta di Sommariva del Bosco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune): l’indirizzo esatto è su verdegufo.it.",
+   "lat": 44.7713,
+   "lon": 7.7843
+  }
+ ]
+}

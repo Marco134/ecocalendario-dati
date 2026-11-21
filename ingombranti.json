@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "aggiornato": "2026-11-19",
+  "aggiornato": "2026-11-21",
   "gestori": [
     {
       "id": "seta",
@@ -588,6 +588,36 @@
         "In some towns (e.g. Gozzano) you take them to the municipal drop-off station: ask the toll-free number"
       ],
       "fonte": "Calendari 2026 Consorzio Medio Novarese"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "coabser",
+      "nome": "STR – Verde Gufo (CoAbSeR)",
+      "gestori": [
+        "STR – Verde Gufo (CoAbSeR)"
+      ],
+      "comuni": [],
+      "telefono": "800957793",
+      "orari": "Numero verde 800 957 793: 10:00-13:00 da lunedì a sabato, 15:00-18:00 da lunedì a venerdì",
+      "orari_en": "Toll-free 800 957 793: 10:00-13:00 Monday to Saturday, 15:00-18:00 Monday to Friday",
+      "regole": [
+        "Ritiro a domicilio degli ingombranti su prenotazione al numero verde",
+        "Data e modalità del ritiro te le comunica il gestore alla prenotazione",
+        "In alternativa puoi portarli al centro di raccolta"
+      ],
+      "regole_en": [
+        "Home pickup of bulky waste booked through the toll-free number",
+        "The operator tells you the pickup date and how to put items out",
+        "You can also take them to the recycling centre"
+      ],
+      "fonte": "Calendari raccolta rifiuti 2026 CoAbSeR (coabser.it)"
     }
   ]
 }

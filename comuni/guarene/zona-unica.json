@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "comune": "Guarene",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6:00 del mattino del giorno di raccolta. In caso di anticipi o posticipi per festività il servizio si svolge nell’arco dell’intera giornata. Info e ingombranti: numero verde 800 957 793.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://coabser.it/pdf/calendari_raccolte/guarene.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ }
+}

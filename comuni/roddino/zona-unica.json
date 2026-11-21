@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "comune": "Roddino",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti entro le 6:00 del mattino del giorno di raccolta. In caso di anticipi o posticipi per festività il servizio si svolge nell’arco dell’intera giornata. Info e ingombranti: numero verde 800 957 793.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta rifiuti 2026 – https://coabser.it/pdf/calendari_raccolte/roddino.pdf",
+ "raccolte": {
+  "2026-11-23": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "carta",
+   "indifferenziato"
+  ]
+ }
+}
