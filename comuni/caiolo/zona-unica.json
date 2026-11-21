@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Caiolo",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i sacchi e i contenitori entro le 6:00 del giorno di raccolta. Sacco nero: secco residuo; sacco giallo: plastica e lattine. Il vetro, dove non indicato, va nelle campane stradali. Info: numero verde SECAM 800 919 106.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolte 2026 SECAM – https://www.secam.net/wp-content/uploads/2023/04/Caiolo_2026_A_2_ristampa_D_FR.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-26"
+  }
+ ]
+}

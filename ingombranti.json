@@ -736,6 +736,36 @@
         "Household bulky items only (furniture, rugs, bed bases, mattresses, large packaging): ask the toll-free number about quantity limits"
       ],
       "fonte": "vallidelverbano.va.it – Ritiro ingombranti"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "secam",
+      "nome": "SECAM",
+      "gestori": [
+        "SECAM S.p.A."
+      ],
+      "comuni": [],
+      "telefono": "800919106",
+      "orari": "Numero verde SECAM 800 919 106 (lun-ven 8:30-12:30 e 14:00-17:00)",
+      "orari_en": "SECAM toll-free 800 919 106 (Mon-Fri 8:30-12:30 and 14:00-17:00)",
+      "regole": [
+        "Il servizio ingombranti cambia da comune a comune: in alcuni si chiama il Comune, in altri c’è un giorno fisso indicato sul calendario",
+        "Chiedi al numero verde SECAM o al tuo Comune",
+        "In alternativa porta gli ingombranti al centro di raccolta comunale"
+      ],
+      "regole_en": [
+        "Bulky waste service differs by town: in some you call the town hall, in others there is a fixed day on the calendar",
+        "Ask the SECAM toll-free number or your town hall",
+        "You can also take items to the municipal collection centre"
+      ],
+      "fonte": "secam.net e calendari SECAM 2026"
     }
   ]
 }

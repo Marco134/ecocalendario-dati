@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "comune": "Tirano",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i sacchi e i contenitori entro le 4:00 del giorno di raccolta. Sacco nero: secco residuo; sacco giallo: plastica e lattine. Il vetro, dove non indicato, va nelle campane stradali. Info: numero verde SECAM 800 919 106.",
+ "esposizione_entro": "04:00",
+ "fonte": "Calendario raccolte 2026 SECAM – https://www.secam.net/wp-content/uploads/2025/12/Tirano.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "comune": "Delebio",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Segui l’orario di esposizione indicato nel calendario SECAM del tuo comune. Sacco nero: secco residuo; sacco giallo: plastica e lattine. Il vetro, dove non indicato, va nelle campane stradali. Info: numero verde SECAM 800 919 106.",
+ "fonte": "Calendario raccolte 2026 SECAM – https://www.secam.net/wp-content/uploads/2025/12/Delebio.pdf",
+ "raccolte": {
+  "2026-11-21": [
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ]
+ }
+}

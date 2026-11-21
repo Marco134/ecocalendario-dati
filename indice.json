@@ -231,6 +231,23 @@
       ]
     },
     {
+      "id": "albosaggia",
+      "nome": "Albosaggia",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1474,
+      "lon": 9.8547,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/albosaggia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "allerona",
       "nome": "Allerona",
       "provincia": "TR",
@@ -401,6 +418,23 @@
       ]
     },
     {
+      "id": "andalo-valtellino",
+      "nome": "Andalo Valtellino",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1345,
+      "lon": 9.473,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/andalo-valtellino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "andezeno",
       "nome": "Andezeno",
       "provincia": "TO",
@@ -503,6 +537,23 @@
       ]
     },
     {
+      "id": "aprica",
+      "nome": "Aprica",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1533,
+      "lon": 10.1521,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/aprica/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "arcade",
       "nome": "Arcade",
       "provincia": "TV",
@@ -515,6 +566,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/arcade/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ardenno",
+      "nome": "Ardenno",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1728,
+      "lon": 9.6517,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ardenno/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1312,6 +1380,23 @@
       "zone_url": "https://coabser.it/pdf/calendari_raccolte/bene_vagienna.pdf"
     },
     {
+      "id": "berbenno-di-valtellina",
+      "nome": "Berbenno di Valtellina",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1687,
+      "lon": 9.7432,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/berbenno-di-valtellina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bernezzo",
       "nome": "Bernezzo",
       "provincia": "CN",
@@ -1341,6 +1426,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/beura-cardezza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bianzone",
+      "nome": "Bianzone",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1839,
+      "lon": 10.1093,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bianzone/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1669,6 +1771,23 @@
           "id": "unica",
           "nome": "Zona unica (porta a porta solo indifferenziato)",
           "file": "comuni/borgone-susa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bormio",
+      "nome": "Bormio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.4702,
+      "lon": 10.3756,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bormio/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2040,6 +2159,23 @@
       ]
     },
     {
+      "id": "buglio-in-monte",
+      "nome": "Buglio in Monte",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1834,
+      "lon": 9.6754,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/buglio-in-monte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bulciago",
       "nome": "Bulciago",
       "provincia": "LC",
@@ -2210,6 +2346,23 @@
           "nome": "Zona unica",
           "file": "comuni/cafasse/zona-unica.json",
           "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "caiolo",
+      "nome": "Caiolo",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1523,
+      "lon": 9.8171,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caiolo/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3046,6 +3199,23 @@
       ]
     },
     {
+      "id": "caspoggio",
+      "nome": "Caspoggio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2647,
+      "lon": 9.8618,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caspoggio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cassago-brianza",
       "nome": "Cassago Brianza",
       "provincia": "LC",
@@ -3479,6 +3649,23 @@
       ]
     },
     {
+      "id": "castione-andevenno",
+      "nome": "Castione Andevenno",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1729,
+      "lon": 9.8003,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castione-andevenno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cavaglietto",
       "nome": "Cavaglietto",
       "provincia": "NO",
@@ -3891,6 +4078,30 @@
       ]
     },
     {
+      "id": "chiavenna",
+      "nome": "Chiavenna",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.321,
+      "lon": 9.4055,
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Interno centro storico",
+          "file": "comuni/chiavenna/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-storico",
+          "nome": "Esterno centro storico",
+          "file": "comuni/chiavenna/zona-fuori-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.secam.net/wp-content/uploads/2025/12/Chiavenna.pdf"
+    },
+    {
       "id": "chiaverano",
       "nome": "Chiaverano",
       "provincia": "TO",
@@ -3992,6 +4203,23 @@
       "zone_url": "https://www.ccs.to.it/calendari-raccolta"
     },
     {
+      "id": "chiesa-in-valmalenco",
+      "nome": "Chiesa in Valmalenco",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2638,
+      "lon": 9.8483,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/chiesa-in-valmalenco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "chiesanuova",
       "nome": "Chiesanuova",
       "provincia": "TO",
@@ -4029,6 +4257,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/chiomonte/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chiuro",
+      "nome": "Chiuro",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1696,
+      "lon": 9.9892,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/chiuro/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -4507,6 +4752,23 @@
       ]
     },
     {
+      "id": "colorina",
+      "nome": "Colorina",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1518,
+      "lon": 9.7335,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/colorina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "comignago",
       "nome": "Comignago",
       "provincia": "NO",
@@ -4611,6 +4873,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/cortenova/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cosio-valtellino",
+      "nome": "Cosio Valtellino",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1304,
+      "lon": 9.5499,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cosio-valtellino/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -5024,6 +5303,40 @@
       ]
     },
     {
+      "id": "dazio",
+      "nome": "Dazio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1607,
+      "lon": 9.6002,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dazio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "delebio",
+      "nome": "Delebio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1372,
+      "lon": 9.4593,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/delebio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "diano-d-alba",
       "nome": "Diano d'Alba",
       "provincia": "CN",
@@ -5226,6 +5539,23 @@
       ]
     },
     {
+      "id": "dubino",
+      "nome": "Dubino",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.153,
+      "lon": 9.4609,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dubino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "dumenza",
       "nome": "Dumenza",
       "provincia": "VA",
@@ -5340,6 +5670,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/fabro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "faedo-valtellino",
+      "nome": "Faedo Valtellino",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1531,
+      "lon": 9.9063,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/faedo-valtellino/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -5551,6 +5898,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/fonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "forcola",
+      "nome": "Forcola",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1582,
+      "lon": 9.6611,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/forcola/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -6174,6 +6538,40 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/groscavallo/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "grosio",
+      "nome": "Grosio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2973,
+      "lon": 10.2757,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grosio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grosotto",
+      "nome": "Grosotto",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2788,
+      "lon": 10.2571,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grosotto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "grosso",
       "nome": "Grosso",
       "provincia": "TO",
@@ -6783,6 +7181,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/la-valletta-brianza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "lanzada",
+      "nome": "Lanzada",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2694,
+      "lon": 9.8739,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lanzada/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7496,6 +7911,23 @@
       ]
     },
     {
+      "id": "mantello",
+      "nome": "Mantello",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1529,
+      "lon": 9.488,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mantello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "mapello",
       "nome": "Mapello",
       "provincia": "BG",
@@ -7777,6 +8209,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/mattie/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mazzo-di-valtellina",
+      "nome": "Mazzo di Valtellina",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2565,
+      "lon": 10.2548,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mazzo-di-valtellina/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8266,6 +8715,23 @@
       ]
     },
     {
+      "id": "montagna-in-valtellina",
+      "nome": "Montagna in Valtellina",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1782,
+      "lon": 9.9006,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montagna-in-valtellina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montaldo-roero",
       "nome": "Montaldo Roero",
       "provincia": "CN",
@@ -8688,6 +9154,23 @@
       ]
     },
     {
+      "id": "morbegno",
+      "nome": "Morbegno",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1305,
+      "lon": 9.5698,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/morbegno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "morgano",
       "nome": "Morgano",
       "provincia": "TV",
@@ -8987,6 +9470,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/novalesa/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "novate-mezzola",
+      "nome": "Novate Mezzola",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.222,
+      "lon": 9.4468,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/novate-mezzola/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -9964,6 +10464,23 @@
       ]
     },
     {
+      "id": "piateda",
+      "nome": "Piateda",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1598,
+      "lon": 9.9389,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/piateda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "piedimulera",
       "nome": "Piedimulera",
       "provincia": "VB",
@@ -10266,6 +10783,23 @@
       ]
     },
     {
+      "id": "poggiridenti",
+      "nome": "Poggiridenti",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1759,
+      "lon": 9.9287,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/poggiridenti/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pogno",
       "nome": "Pogno",
       "provincia": "NO",
@@ -10399,6 +10933,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/pont-canavese/"
+    },
+    {
+      "id": "ponte-in-valtellina",
+      "nome": "Ponte in Valtellina",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1744,
+      "lon": 9.9775,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ponte-in-valtellina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "ponzano-veneto",
@@ -10600,6 +11151,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/prascorsano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "prata-camportaccio",
+      "nome": "Prata Camportaccio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.3064,
+      "lon": 9.395,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/prata-camportaccio/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -10924,6 +11492,23 @@
           "nome": "Zona unica",
           "file": "comuni/rancio-valcuvia/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rasura",
+      "nome": "Rasura",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1007,
+      "lon": 9.5529,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rasura/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -11371,6 +11956,23 @@
       ]
     },
     {
+      "id": "rogolo",
+      "nome": "Rogolo",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1363,
+      "lon": 9.4879,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rogolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "roletto",
       "nome": "Roletto",
       "provincia": "TO",
@@ -11626,6 +12228,23 @@
       ]
     },
     {
+      "id": "samolaco",
+      "nome": "Samolaco",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2442,
+      "lon": 9.3951,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/samolaco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "samone",
       "nome": "Samone",
       "provincia": "TO",
@@ -11805,6 +12424,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/san-germano-chisone/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-giacomo-filippo",
+      "nome": "San Giacomo Filippo",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.3371,
+      "lon": 9.3704,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-giacomo-filippo/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -12574,6 +13210,40 @@
       ]
     },
     {
+      "id": "sondalo",
+      "nome": "Sondalo",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.332,
+      "lon": 10.3237,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sondalo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sondrio",
+      "nome": "Sondrio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.171,
+      "lon": 9.8715,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sondrio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "soriso",
       "nome": "Soriso",
       "provincia": "NO",
@@ -12627,6 +13297,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/spresiano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "spriana",
+      "nome": "Spriana",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2201,
+      "lon": 9.8645,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/spriana/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -12823,6 +13510,23 @@
       ]
     },
     {
+      "id": "talamona",
+      "nome": "Talamona",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1375,
+      "lon": 9.6095,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/talamona/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "tarantasca",
       "nome": "Tarantasca",
       "provincia": "CN",
@@ -12855,6 +13559,47 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "teglio",
+      "nome": "Teglio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1723,
+      "lon": 10.0633,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/teglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "tirano",
+      "nome": "Tirano",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2169,
+      "lon": 10.1753,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/tirano/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/tirano/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.secam.net/wp-content/uploads/2025/12/Tirano.pdf"
     },
     {
       "id": "toceno",
@@ -12942,6 +13687,23 @@
       ]
     },
     {
+      "id": "torre-di-santa-maria",
+      "nome": "Torre di Santa Maria",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2326,
+      "lon": 9.8521,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/torre-di-santa-maria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "trana",
       "nome": "Trana",
       "provincia": "TO",
@@ -12955,6 +13717,23 @@
           "nome": "Zona unica",
           "file": "comuni/trana/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "traona",
+      "nome": "Traona",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1469,
+      "lon": 9.5268,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/traona/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -13053,6 +13832,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/treiso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "tresivio",
+      "nome": "Tresivio",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1747,
+      "lon": 9.9454,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tresivio/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -13250,6 +14046,23 @@
       ]
     },
     {
+      "id": "val-masino",
+      "nome": "Val Masino",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2111,
+      "lon": 9.6366,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/val-masino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "val-della-torre",
       "nome": "Val della Torre",
       "provincia": "TO",
@@ -13322,6 +14135,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/valchiusa/"
     },
     {
+      "id": "valdisotto",
+      "nome": "Valdisotto",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.4317,
+      "lon": 10.3551,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valdisotto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "valentano",
       "nome": "Valentano",
       "provincia": "VT",
@@ -13334,6 +14164,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/valentano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valfurva",
+      "nome": "Valfurva",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.4631,
+      "lon": 10.4109,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valfurva/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -13741,6 +14588,23 @@
       ]
     },
     {
+      "id": "verceia",
+      "nome": "Verceia",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.1966,
+      "lon": 9.4528,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/verceia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vercurago",
       "nome": "Vercurago",
       "provincia": "LC",
@@ -14009,6 +14873,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/villa-d-adda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villa-di-tirano",
+      "nome": "Villa di Tirano",
+      "provincia": "SO",
+      "gestore": "SECAM S.p.A.",
+      "consorzio": "secam",
+      "lat": 46.2027,
+      "lon": 10.1332,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villa-di-tirano/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -14518,6 +15399,11 @@
       "nome": "Comunità Montana Valli del Verbano",
       "gestore": "Econord (Comunità Montana Valli del Verbano)",
       "ecocentri": "ecocentri/valli-del-verbano.json"
+    },
+    "secam": {
+      "nome": "SECAM – Società per l’ecologia e l’ambiente (Sondrio)",
+      "gestore": "SECAM S.p.A.",
+      "ecocentri": "ecocentri/secam.json"
     }
   },
   "tipi_en": {

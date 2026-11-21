@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "comune": "Teglio",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Segui l’orario di esposizione indicato nel calendario SECAM del tuo comune. Sacco nero: secco residuo; sacco giallo: plastica e lattine. Il vetro, dove non indicato, va nelle campane stradali. Info: numero verde SECAM 800 919 106.",
+ "fonte": "Calendario raccolte 2026 SECAM – https://www.secam.net/wp-content/uploads/2025/12/Teglio.pdf",
+ "raccolte": {
+  "2026-11-23": [
+   "indifferenziato"
+  ],
+  "2026-11-24": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ }
+}
