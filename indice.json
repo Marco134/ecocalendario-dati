@@ -268,6 +268,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
     },
     {
+      "id": "altivole",
+      "nome": "Altivole",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.754,
+      "lon": 11.9558,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/altivole/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "alviano",
       "nome": "Alviano",
       "provincia": "TR",
@@ -418,6 +435,23 @@
       ]
     },
     {
+      "id": "arcade",
+      "nome": "Arcade",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.785,
+      "lon": 12.219,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/arcade/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "arignano",
       "nome": "Arignano",
       "provincia": "TO",
@@ -531,6 +565,30 @@
         }
       ],
       "zone_url": "https://www.consorziomedionovarese.it/it-it/download/zone-di-raccolta-rifiuti-ad-arona-9-109-20027-e373b3b717a106207a092f94ccee3b2c"
+    },
+    {
+      "id": "asolo",
+      "nome": "Asolo",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8022,
+      "lon": 11.9124,
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/asolo/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-storico",
+          "nome": "Fuori centro storico",
+          "file": "comuni/asolo/zona-fuori-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.contarina.it"
     },
     {
       "id": "attigliano",
@@ -1446,6 +1504,23 @@
       ]
     },
     {
+      "id": "borso-del-grappa",
+      "nome": "Borso del Grappa",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.821,
+      "lon": 11.7993,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borso-del-grappa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bosconero",
       "nome": "Bosconero",
       "provincia": "TO",
@@ -1529,6 +1604,23 @@
           "nome": "Zona 3",
           "file": "comuni/brandizzo/zona-3.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "breda-di-piave",
+      "nome": "Breda di Piave",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7241,
+      "lon": 12.331,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/breda-di-piave/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -1797,6 +1889,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-buttigliera-alta/"
+    },
+    {
+      "id": "caerano-di-san-marco",
+      "nome": "Caerano di San Marco",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7853,
+      "lon": 12.0012,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caerano-di-san-marco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "cafasse",
@@ -2198,6 +2307,23 @@
       ]
     },
     {
+      "id": "carbonera",
+      "nome": "Carbonera",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6816,
+      "lon": 12.289,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carbonera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "carema",
       "nome": "Carema",
       "provincia": "TO",
@@ -2386,6 +2512,23 @@
       ]
     },
     {
+      "id": "casale-sul-sile",
+      "nome": "Casale sul Sile",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.5975,
+      "lon": 12.3256,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casale-sul-sile/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cascinette-d-ivrea",
       "nome": "Cascinette d'Ivrea",
       "provincia": "TO",
@@ -2457,6 +2600,23 @@
           "nome": "Zona 5",
           "file": "comuni/caselle-torinese/zona-5.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "casier",
+      "nome": "Casier",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6342,
+      "lon": 12.255,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casier/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2566,6 +2726,47 @@
       ]
     },
     {
+      "id": "castelcucco",
+      "nome": "Castelcucco",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8332,
+      "lon": 11.8838,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelcucco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castelfranco-veneto",
+      "nome": "Castelfranco Veneto",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6714,
+      "lon": 11.9264,
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/castelfranco-veneto/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-storico",
+          "nome": "Fuori centro storico",
+          "file": "comuni/castelfranco-veneto/zona-fuori-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.contarina.it"
+    },
+    {
       "id": "castellamonte",
       "nome": "Castellamonte",
       "provincia": "TO",
@@ -2636,6 +2837,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/castellinaldo-d-alba/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castello-di-godego",
+      "nome": "Castello di Godego",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6921,
+      "lon": 11.881,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castello-di-godego/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2815,6 +3033,23 @@
           "nome": "Zona unica",
           "file": "comuni/cavallirio/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "cavaso-del-tomba",
+      "nome": "Cavaso del Tomba",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8603,
+      "lon": 11.8952,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavaso-del-tomba/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3735,6 +3970,23 @@
       ]
     },
     {
+      "id": "cornuda",
+      "nome": "Cornuda",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8318,
+      "lon": 12.0082,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cornuda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cossano-belbo",
       "nome": "Cossano Belbo",
       "provincia": "CN",
@@ -3839,6 +4091,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/crevoladossola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "crocetta-del-montello",
+      "nome": "Crocetta del Montello",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8249,
+      "lon": 12.0352,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/crocetta-del-montello/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4386,6 +4655,23 @@
       ]
     },
     {
+      "id": "fonte",
+      "nome": "Fonte",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7879,
+      "lon": 11.8673,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "formazza",
       "nome": "Formazza",
       "provincia": "VB",
@@ -4699,6 +4985,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-giaveno/"
+    },
+    {
+      "id": "giavera-del-montello",
+      "nome": "Giavera del Montello",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7938,
+      "lon": 12.1693,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/giavera-del-montello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "gignese",
@@ -5190,6 +5493,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/issiglio/"
+    },
+    {
+      "id": "istrana",
+      "nome": "Istrana",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6777,
+      "lon": 12.1033,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/istrana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "ivrea",
@@ -5726,6 +6046,23 @@
       ]
     },
     {
+      "id": "loria",
+      "nome": "Loria",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7284,
+      "lon": 11.8665,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/loria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "lubriano",
       "nome": "Lubriano",
       "provincia": "VT",
@@ -6053,6 +6390,23 @@
       ]
     },
     {
+      "id": "maser",
+      "nome": "Maser",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8075,
+      "lon": 11.972,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maser/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "masera",
       "nome": "Masera",
       "provincia": "VB",
@@ -6065,6 +6419,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/masera/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "maserada-sul-piave",
+      "nome": "Maserada sul Piave",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7497,
+      "lon": 12.3185,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maserada-sul-piave/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -6356,6 +6727,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/monastero-di-lanzo/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "monastier-di-treviso",
+      "nome": "Monastier di Treviso",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6495,
+      "lon": 12.4357,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/monastier-di-treviso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "moncalieri",
       "nome": "Moncalieri",
       "provincia": "TO",
@@ -6514,6 +6902,23 @@
       ]
     },
     {
+      "id": "monfumo",
+      "nome": "Monfumo",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8305,
+      "lon": 11.9204,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/monfumo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montaldo-roero",
       "nome": "Montaldo Roero",
       "provincia": "CN",
@@ -6620,6 +7025,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "montebelluna",
+      "nome": "Montebelluna",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7761,
+      "lon": 12.0451,
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/montebelluna/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-storico",
+          "nome": "Fuori centro storico",
+          "file": "comuni/montebelluna/zona-fuori-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.contarina.it"
     },
     {
       "id": "montecastrilli",
@@ -6837,6 +7266,23 @@
       ]
     },
     {
+      "id": "morgano",
+      "nome": "Morgano",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6344,
+      "lon": 12.0835,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/morgano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "moriondo-torinese",
       "nome": "Moriondo Torinese",
       "provincia": "TO",
@@ -6917,6 +7363,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/neive/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "nervesa-della-battaglia",
+      "nome": "Nervesa della Battaglia",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8245,
+      "lon": 12.2074,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nervesa-della-battaglia/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7445,6 +7908,23 @@
       ]
     },
     {
+      "id": "paese",
+      "nome": "Paese",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6716,
+      "lon": 12.1535,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/paese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "palazzo-canavese",
       "nome": "Palazzo Canavese",
       "provincia": "TO",
@@ -7600,6 +8080,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pecetto-torinese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pederobba",
+      "nome": "Pederobba",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8608,
+      "lon": 11.9858,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pederobba/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -7870,6 +8367,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pieve-vergonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pieve-del-grappa",
+      "nome": "Pieve del Grappa",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8256,
+      "lon": 11.8336,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pieve-del-grappa/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -8261,6 +8775,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/pont-canavese/"
     },
     {
+      "id": "ponzano-veneto",
+      "nome": "Ponzano Veneto",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7191,
+      "lon": 12.2071,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ponzano-veneto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "porano",
       "nome": "Porano",
       "provincia": "TR",
@@ -8291,6 +8822,40 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/porte/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "possagno",
+      "nome": "Possagno",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8547,
+      "lon": 11.8814,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/possagno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "povegliano",
+      "nome": "Povegliano",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.76,
+      "lon": 12.2059,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/povegliano/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8427,6 +8992,23 @@
           "nome": "Zona unica",
           "file": "comuni/prato-sesia/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "preganziol",
+      "nome": "Preganziol",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6014,
+      "lon": 12.2351,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/preganziol/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8601,6 +9183,23 @@
       ]
     },
     {
+      "id": "quinto-di-treviso",
+      "nome": "Quinto di Treviso",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.646,
+      "lon": 12.166,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quinto-di-treviso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "re",
       "nome": "Re",
       "provincia": "VB",
@@ -8635,6 +9234,23 @@
       ]
     },
     {
+      "id": "resana",
+      "nome": "Resana",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6343,
+      "lon": 11.9555,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/resana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "ribordone",
       "nome": "Ribordone",
       "provincia": "TO",
@@ -8647,6 +9263,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/ribordone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "riese-pio-x",
+      "nome": "Riese Pio X",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7297,
+      "lon": 11.9168,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/riese-pio-x/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -9010,6 +9643,23 @@
       ]
     },
     {
+      "id": "roncade",
+      "nome": "Roncade",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6304,
+      "lon": 12.374,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/roncade/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "ronco-canavese",
       "nome": "Ronco Canavese",
       "provincia": "TO",
@@ -9266,6 +9916,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/san-bernardino-verbano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-biagio-di-callalta",
+      "nome": "San Biagio di Callalta",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6848,
+      "lon": 12.3775,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-biagio-di-callalta/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -9626,6 +10293,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/san-secondo-di-pinerolo/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-zenone-degli-ezzelini",
+      "nome": "San Zenone degli Ezzelini",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7789,
+      "lon": 11.8403,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-zenone-degli-ezzelini/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -9992,6 +10676,23 @@
       ]
     },
     {
+      "id": "silea",
+      "nome": "Silea",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6551,
+      "lon": 12.2988,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/silea/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "sinio",
       "nome": "Sinio",
       "provincia": "CN",
@@ -10099,6 +10800,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/sparone/"
+    },
+    {
+      "id": "spresiano",
+      "nome": "Spresiano",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7794,
+      "lon": 12.2593,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/spresiano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "strambinello",
@@ -10219,6 +10937,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/susa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "susegana",
+      "nome": "Susegana",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.8509,
+      "lon": 12.25,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/susegana/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -10440,6 +11175,53 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "trevignano",
+      "nome": "Trevignano",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7427,
+      "lon": 12.0891,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trevignano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "treviso",
+      "nome": "Treviso",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6675,
+      "lon": 12.2451,
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/treviso/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/treviso/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-mura",
+          "nome": "Fuori mura",
+          "file": "comuni/treviso/zona-fuori-mura.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.contarina.it"
     },
     {
       "id": "trezzo-tinella",
@@ -10876,6 +11658,23 @@
           "nome": "Zona unica",
           "file": "comuni/vauda-canavese/zona-unica.json",
           "valido_al": "2028-02-25"
+        }
+      ]
+    },
+    {
+      "id": "vedelago",
+      "nome": "Vedelago",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6871,
+      "lon": 12.0183,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vedelago/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -11389,6 +12188,23 @@
       ]
     },
     {
+      "id": "villorba",
+      "nome": "Villorba",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7129,
+      "lon": 12.2604,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villorba/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vische",
       "nome": "Vische",
       "provincia": "TO",
@@ -11471,6 +12287,23 @@
       ]
     },
     {
+      "id": "volpago-del-montello",
+      "nome": "Volpago del Montello",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.7775,
+      "lon": 12.1187,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/volpago-del-montello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "volpiano",
       "nome": "Volpiano",
       "provincia": "TO",
@@ -11525,6 +12358,40 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/volvera/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "zenson-di-piave",
+      "nome": "Zenson di Piave",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.6782,
+      "lon": 12.4926,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/zenson-di-piave/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "zero-branco",
+      "nome": "Zero Branco",
+      "provincia": "TV",
+      "gestore": "Contarina S.p.A.",
+      "consorzio": "contarina",
+      "lat": 45.5993,
+      "lon": 12.1641,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/zero-branco/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     }
@@ -11623,6 +12490,11 @@
       "nome": "CEC – Consorzio Ecologico Cuneese",
       "gestore": "CEC – San Germano / Iren Ambiente",
       "ecocentri": "ecocentri/cec.json"
+    },
+    "contarina": {
+      "nome": "Consiglio di Bacino Priula – Contarina",
+      "gestore": "Contarina S.p.A.",
+      "ecocentri": "ecocentri/contarina.json"
     }
   },
   "tipi_en": {

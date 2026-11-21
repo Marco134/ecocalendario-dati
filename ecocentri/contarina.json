@@ -1,0 +1,1878 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Contarina S.p.A.",
+ "fonte": "https://contarina.it/cittadino/raccolta-differenziata/ecocentro/orari-ecocentro",
+ "numero_verde": "800 07 66 11",
+ "orari_numero_verde": "lun-ven 8:30-18:00, sab 8:30-13:00",
+ "consorzio": "contarina",
+ "accesso": "Puoi usare qualsiasi EcoCentro Contarina mostrando la tessera sanitaria dell’intestatario: 75 accessi all’anno compresi nella tariffa. Nei turni «su prenotazione» prenoti con lo Sportello Online o al numero verde (fino a 5 m³ per accesso).",
+ "avviso": "Gli EcoCentri sono chiusi tutti i venerdì e il 24 e 31 dicembre 2026.",
+ "centri": [
+  {
+   "id": "contarina-altivole",
+   "tipo": "raccolta",
+   "comune": "Altivole",
+   "indirizzo": "via della Botte (Caselle), Altivole",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.754,
+   "lon": 11.9558
+  },
+  {
+   "id": "contarina-arcade",
+   "tipo": "raccolta",
+   "comune": "Arcade",
+   "indirizzo": "via Roma, Arcade",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.785,
+   "lon": 12.219
+  },
+  {
+   "id": "contarina-asolo",
+   "tipo": "raccolta",
+   "comune": "Asolo",
+   "indirizzo": "via Fermi, Asolo",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8022,
+   "lon": 11.9124
+  },
+  {
+   "id": "contarina-borso-del-grappa",
+   "tipo": "raccolta",
+   "comune": "Borso del Grappa",
+   "indirizzo": "via Vallina Orticella, Borso del Grappa",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.821,
+   "lon": 11.7993
+  },
+  {
+   "id": "contarina-breda-di-piave",
+   "tipo": "raccolta",
+   "comune": "Breda di Piave",
+   "indirizzo": "via Volta, loc. Pero, Breda di Piave",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00, mar 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7241,
+   "lon": 12.331
+  },
+  {
+   "id": "contarina-caerano-di-san-marco",
+   "tipo": "raccolta",
+   "comune": "Caerano di San Marco",
+   "indirizzo": "via Vittime del Vajont, Caerano di San Marco",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7853,
+   "lon": 12.0012
+  },
+  {
+   "id": "contarina-carbonera",
+   "tipo": "raccolta",
+   "comune": "Carbonera",
+   "indirizzo": "via Tommaso Salsa, Carbonera",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6816,
+   "lon": 12.289
+  },
+  {
+   "id": "contarina-casale-sul-sile",
+   "tipo": "raccolta",
+   "comune": "Casale sul Sile",
+   "indirizzo": "via della Ricerca, Casale sul Sile",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.5975,
+   "lon": 12.3256
+  },
+  {
+   "id": "contarina-casier",
+   "tipo": "raccolta",
+   "comune": "Casier",
+   "indirizzo": "via Bigonzo, Casier",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6342,
+   "lon": 12.255
+  },
+  {
+   "id": "contarina-castelcucco",
+   "tipo": "raccolta",
+   "comune": "Castelcucco",
+   "indirizzo": "via S. Antonio, Castelcucco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8332,
+   "lon": 11.8838
+  },
+  {
+   "id": "contarina-castelfranco-veneto-via-dell-impresa",
+   "tipo": "raccolta",
+   "comune": "Castelfranco Veneto",
+   "indirizzo": "via dell'Impresa, Castelfranco Veneto",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6714,
+   "lon": 11.9264
+  },
+  {
+   "id": "contarina-castelfranco-veneto-via-montebelluna",
+   "tipo": "raccolta",
+   "comune": "Castelfranco Veneto",
+   "indirizzo": "via Montebelluna di S. Andrea, Castelfranco Veneto",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00, lun 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6714,
+   "lon": 11.9264
+  },
+  {
+   "id": "contarina-cavaso-del-tomba",
+   "tipo": "raccolta",
+   "comune": "Cavaso del Tomba",
+   "indirizzo": "via Pasubio (anche per Possagno), Cavaso del Tomba",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8603,
+   "lon": 11.8952
+  },
+  {
+   "id": "contarina-cornuda",
+   "tipo": "raccolta",
+   "comune": "Cornuda",
+   "indirizzo": "via Piave, Cornuda",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8318,
+   "lon": 12.0082
+  },
+  {
+   "id": "contarina-crocetta-del-montello",
+   "tipo": "raccolta",
+   "comune": "Crocetta del Montello",
+   "indirizzo": "via Artigiani, Crocetta del Montello",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8249,
+   "lon": 12.0352
+  },
+  {
+   "id": "contarina-fonte",
+   "tipo": "raccolta",
+   "comune": "Fonte",
+   "indirizzo": "via delle Industrie (Onè), Fonte",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7879,
+   "lon": 11.8673
+  },
+  {
+   "id": "contarina-povegliano",
+   "tipo": "raccolta",
+   "comune": "Povegliano",
+   "indirizzo": "via Prato della Valle (anche per Giavera del Montello), Povegliano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.76,
+   "lon": 12.2059
+  },
+  {
+   "id": "contarina-istrana",
+   "tipo": "raccolta",
+   "comune": "Istrana",
+   "indirizzo": "via Toniolo, Istrana",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6777,
+   "lon": 12.1033
+  },
+  {
+   "id": "contarina-loria",
+   "tipo": "raccolta",
+   "comune": "Loria",
+   "indirizzo": "via delle Fosse (anche per Castello di Godego), Loria",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7284,
+   "lon": 11.8665
+  },
+  {
+   "id": "contarina-maser",
+   "tipo": "raccolta",
+   "comune": "Maser",
+   "indirizzo": "via Roccoler, Maser",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8075,
+   "lon": 11.972
+  },
+  {
+   "id": "contarina-maserada-sul-piave",
+   "tipo": "raccolta",
+   "comune": "Maserada sul Piave",
+   "indirizzo": "via Papadopoli, Maserada sul Piave",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7497,
+   "lon": 12.3185
+  },
+  {
+   "id": "contarina-monastier-di-treviso",
+   "tipo": "raccolta",
+   "comune": "Monastier di Treviso",
+   "indirizzo": "via Vallio, Monastier di Treviso",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6495,
+   "lon": 12.4357
+  },
+  {
+   "id": "contarina-monfumo",
+   "tipo": "raccolta",
+   "comune": "Monfumo",
+   "indirizzo": "via Campiel, Monfumo",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8305,
+   "lon": 11.9204
+  },
+  {
+   "id": "contarina-montebelluna-via-feltrina-sud",
+   "tipo": "raccolta",
+   "comune": "Montebelluna",
+   "indirizzo": "via Feltrina Sud, Montebelluna",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7761,
+   "lon": 12.0451
+  },
+  {
+   "id": "contarina-montebelluna-via-san-gaetano",
+   "tipo": "raccolta",
+   "comune": "Montebelluna",
+   "indirizzo": "via San Gaetano, Montebelluna",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7761,
+   "lon": 12.0451
+  },
+  {
+   "id": "contarina-morgano",
+   "tipo": "raccolta",
+   "comune": "Morgano",
+   "indirizzo": "via dell'Ambiente, Morgano",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6344,
+   "lon": 12.0835
+  },
+  {
+   "id": "contarina-nervesa-della-battaglia",
+   "tipo": "raccolta",
+   "comune": "Nervesa della Battaglia",
+   "indirizzo": "via Perosin, Nervesa della Battaglia",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8245,
+   "lon": 12.2074
+  },
+  {
+   "id": "contarina-paese",
+   "tipo": "raccolta",
+   "comune": "Paese",
+   "indirizzo": "via Baldrocco, Paese",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6716,
+   "lon": 12.1535
+  },
+  {
+   "id": "contarina-pederobba",
+   "tipo": "raccolta",
+   "comune": "Pederobba",
+   "indirizzo": "via Cal Munera (Onigo), Pederobba",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8608,
+   "lon": 11.9858
+  },
+  {
+   "id": "contarina-pieve-del-grappa-crespano",
+   "tipo": "raccolta",
+   "comune": "Pieve del Grappa",
+   "indirizzo": "via Giare (ex Crespano del Grappa), Pieve del Grappa",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8256,
+   "lon": 11.8336
+  },
+  {
+   "id": "contarina-pieve-del-grappa-paderno",
+   "tipo": "raccolta",
+   "comune": "Pieve del Grappa",
+   "indirizzo": "p.zza Madonnina del Grappa (ex Paderno del Grappa), Pieve del Grappa",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8256,
+   "lon": 11.8336
+  },
+  {
+   "id": "contarina-ponzano-veneto",
+   "tipo": "raccolta",
+   "comune": "Ponzano Veneto",
+   "indirizzo": "via del Bellato, Ponzano Veneto",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7191,
+   "lon": 12.2071
+  },
+  {
+   "id": "contarina-preganziol",
+   "tipo": "raccolta",
+   "comune": "Preganziol",
+   "indirizzo": "via Schiavonia Nuova, Preganziol",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6014,
+   "lon": 12.2351
+  },
+  {
+   "id": "contarina-quinto-di-treviso",
+   "tipo": "raccolta",
+   "comune": "Quinto di Treviso",
+   "indirizzo": "via Mattei, Quinto di Treviso",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.646,
+   "lon": 12.166
+  },
+  {
+   "id": "contarina-resana",
+   "tipo": "raccolta",
+   "comune": "Resana",
+   "indirizzo": "via Cà Zane, Resana",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6343,
+   "lon": 11.9555
+  },
+  {
+   "id": "contarina-riese-pio-x",
+   "tipo": "raccolta",
+   "comune": "Riese Pio X",
+   "indirizzo": "via E. Minato, Riese Pio X",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7297,
+   "lon": 11.9168
+  },
+  {
+   "id": "contarina-roncade",
+   "tipo": "raccolta",
+   "comune": "Roncade",
+   "indirizzo": "via Tintoretto, Roncade",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6304,
+   "lon": 12.374
+  },
+  {
+   "id": "contarina-san-biagio-di-callalta",
+   "tipo": "raccolta",
+   "comune": "San Biagio di Callalta",
+   "indirizzo": "via De Gasperi (Spercenigo), San Biagio di Callalta",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6848,
+   "lon": 12.3775
+  },
+  {
+   "id": "contarina-san-zenone-degli-ezzelini",
+   "tipo": "raccolta",
+   "comune": "San Zenone degli Ezzelini",
+   "indirizzo": "via Marini, San Zenone degli Ezzelini",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7789,
+   "lon": 11.8403
+  },
+  {
+   "id": "contarina-silea",
+   "tipo": "raccolta",
+   "comune": "Silea",
+   "indirizzo": "via Cendon, Silea",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6551,
+   "lon": 12.2988
+  },
+  {
+   "id": "contarina-spresiano",
+   "tipo": "raccolta",
+   "comune": "Spresiano",
+   "indirizzo": "via Indipendenza, Spresiano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7794,
+   "lon": 12.2593
+  },
+  {
+   "id": "contarina-susegana",
+   "tipo": "raccolta",
+   "comune": "Susegana",
+   "indirizzo": "via Stradonelli, Susegana",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.8509,
+   "lon": 12.25
+  },
+  {
+   "id": "contarina-trevignano",
+   "tipo": "raccolta",
+   "comune": "Trevignano",
+   "indirizzo": "via Monte Bianco, Trevignano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7427,
+   "lon": 12.0891
+  },
+  {
+   "id": "contarina-treviso",
+   "tipo": "raccolta",
+   "comune": "Treviso",
+   "indirizzo": "viale della Serenissima, Porta del Leon, Treviso",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "12:00",
+      "14:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "12:00",
+      "14:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "12:00",
+      "14:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: lun 12:00-14:00, mer 12:00-14:00, gio 12:00-14:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6675,
+   "lon": 12.2451
+  },
+  {
+   "id": "contarina-vedelago",
+   "tipo": "raccolta",
+   "comune": "Vedelago",
+   "indirizzo": "via Papa Sarto, Vedelago",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mar 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6871,
+   "lon": 12.0183
+  },
+  {
+   "id": "contarina-villorba",
+   "tipo": "raccolta",
+   "comune": "Villorba",
+   "indirizzo": "via F.lli Cervi, Villorba",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7129,
+   "lon": 12.2604
+  },
+  {
+   "id": "contarina-volpago-del-montello",
+   "tipo": "raccolta",
+   "comune": "Volpago del Montello",
+   "indirizzo": "via Belfiore, Volpago del Montello",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: gio 09:00-12:00. Posizione indicativa (centro del comune).",
+   "lat": 45.7775,
+   "lon": 12.1187
+  },
+  {
+   "id": "contarina-zenson-di-piave",
+   "tipo": "raccolta",
+   "comune": "Zenson di Piave",
+   "indirizzo": "via Dell'Artigianato, Zenson di Piave",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.6782,
+   "lon": 12.4926
+  },
+  {
+   "id": "contarina-zero-branco",
+   "tipo": "raccolta",
+   "comune": "Zero Branco",
+   "indirizzo": "via Milan, Zero Branco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Su prenotazione: mer 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 45.5993,
+   "lon": 12.1641
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "comune": "Morgano",
+ "provincia": "TV",
+ "gestore": "Contarina S.p.A.",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Vetro, plastica e lattine si raccolgono insieme nel contenitore blu (VPL). Il servizio del verde (vegetale) non è riportato qui: vedi il calendario Contarina. Il calendario non indica l’orario di esposizione: chiedi a Contarina, numero verde 800 07 66 11.",
+ "fonte": "EcoCalendario 2026 Contarina – https://contarina.it/files/ecocalendari/12_allegato_bassa_Morgano_2026_sintetico.pdf",
+ "raccolte": {
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ }
+}

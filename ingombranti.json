@@ -646,6 +646,36 @@
         "You can also take bulky items to the recycling centre"
       ],
       "fonte": "Calendari di raccolta 2026 CEC (cecrifiuti.it)"
+    },
+    {
+      "prenota_url": "https://sportellonline.servizicontarina.it",
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "contarina",
+      "nome": "Contarina S.p.A.",
+      "gestori": [
+        "Contarina S.p.A."
+      ],
+      "comuni": [],
+      "telefono": "800076611",
+      "orari": "Numero verde 800 07 66 11 (lun-ven 8:30-18:00, sab 8:30-13:00) o Sportello Online",
+      "orari_en": "Toll-free 800 07 66 11 (Mon-Fri 8:30-18:00, Sat 8:30-13:00) or Sportello Online",
+      "regole": [
+        "Porta gli ingombranti a un EcoCentro Contarina con la tessera sanitaria dell’intestatario",
+        "Nei turni su prenotazione (Sportello Online o numero verde) puoi portare fino a 5 m³, massimo 1 m³ per tipo di rifiuto; senza prenotazione fino a 1 m³",
+        "Per altre richieste chiama il numero verde 800 07 66 11"
+      ],
+      "regole_en": [
+        "Take bulky waste to a Contarina EcoCentro with the account holder’s health card",
+        "In booked slots (Sportello Online or toll-free number) up to 5 m³, max 1 m³ per waste type; without booking up to 1 m³",
+        "For other requests call 800 07 66 11"
+      ],
+      "fonte": "contarina.it – EcoCentro e Contatti"
     }
   ]
 }
