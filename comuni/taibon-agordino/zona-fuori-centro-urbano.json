@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "comune": "Taibon Agordino",
+ "provincia": "BL",
+ "gestore": "Valpe Ambiente",
+ "zona": "Fuori centro urbano",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Tariffa puntuale: esponi il secco non riciclabile solo quando il contenitore è pieno, perché ogni svuotamento viene conteggiato. Vetro, plastica e lattine vanno insieme nel contenitore VPL. Il calendario non indica l’orario di esposizione: per dubbi chiama il numero verde Valpe 800 94 76 73.",
+ "fonte": "Ecocalendario 2026 Valpe Ambiente – https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/SINTETICI/Taibon%20FCU%202026%20sintetico.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ }
+}

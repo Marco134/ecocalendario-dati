@@ -766,6 +766,34 @@
         "You can also take items to the municipal collection centre"
       ],
       "fonte": "secam.net e calendari SECAM 2026"
+    },
+    {
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "verificato": "2026-11-21",
+      "id": "valpe",
+      "nome": "Valpe Ambiente",
+      "gestori": [
+        "Valpe Ambiente"
+      ],
+      "comuni": [],
+      "telefono": "800947673",
+      "orari": "Numero verde 800 94 76 73 (lun-ven 8:30-18:00, sab 8:30-13:00)",
+      "orari_en": "Toll-free 800 94 76 73 (Mon-Fri 8:30-18:00, Sat 8:30-13:00)",
+      "regole": [
+        "Porta gli ingombranti a un Ecocentro Valpe: puoi usarne uno qualsiasi",
+        "Per altre modalità chiedi al numero verde"
+      ],
+      "regole_en": [
+        "Take bulky waste to any Valpe Ecocentro",
+        "For other options ask the toll-free number"
+      ],
+      "fonte": "Valpe Ambiente – orari Ecocentri"
     }
   ]
 }

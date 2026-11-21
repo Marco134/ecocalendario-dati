@@ -86,6 +86,30 @@
       ]
     },
     {
+      "id": "agordo",
+      "nome": "Agordo",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.2815,
+      "lon": 12.0333,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/agordo/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/agordo/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
       "id": "agra",
       "nome": "Agra",
       "provincia": "VA",
@@ -246,6 +270,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "alleghe",
+      "nome": "Alleghe",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4063,
+      "lon": 12.0205,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/alleghe/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/alleghe/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "allerona",
@@ -1584,6 +1632,23 @@
       ]
     },
     {
+      "id": "borca-di-cadore",
+      "nome": "Borca di Cadore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4381,
+      "lon": 12.2188,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borca-di-cadore/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "borgaro-torinese",
       "nome": "Borgaro Torinese",
       "provincia": "TO",
@@ -2515,6 +2580,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "canale-d-agordo",
+      "nome": "Canale d'Agordo",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.3605,
+      "lon": 11.9149,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/canale-d-agordo/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/canale-d-agordo/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "candia-canavese",
@@ -3802,6 +3891,30 @@
       ]
     },
     {
+      "id": "cencenighe-agordino",
+      "nome": "Cencenighe Agordino",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.3513,
+      "lon": 11.9663,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/cencenighe-agordino/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/cencenighe-agordino/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
       "id": "centallo",
       "nome": "Centallo",
       "provincia": "CN",
@@ -4365,6 +4478,23 @@
       ]
     },
     {
+      "id": "cibiana-di-cadore",
+      "nome": "Cibiana di Cadore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.3917,
+      "lon": 12.2908,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cibiana-di-cadore/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "ciconio",
       "nome": "Ciconio",
       "provincia": "TO",
@@ -4613,6 +4743,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "colle-santa-lucia",
+      "nome": "Colle Santa Lucia",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4473,
+      "lon": 12.0143,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/colle-santa-lucia/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/colle-santa-lucia/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "collegno",
@@ -5692,6 +5846,30 @@
       ]
     },
     {
+      "id": "falcade",
+      "nome": "Falcade",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.3583,
+      "lon": 11.8728,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/falcade/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/falcade/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
       "id": "fara-novarese",
       "nome": "Fara Novarese",
       "provincia": "NO",
@@ -6376,6 +6554,30 @@
           "valido_al": "2028-02-29"
         }
       ]
+    },
+    {
+      "id": "gosaldo",
+      "nome": "Gosaldo",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.2205,
+      "lon": 11.9562,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/gosaldo/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/gosaldo/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "govone",
@@ -7169,6 +7371,30 @@
       ]
     },
     {
+      "id": "la-valle-agordina",
+      "nome": "La Valle Agordina",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.2822,
+      "lon": 12.0681,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/la-valle-agordina/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/la-valle-agordina/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
       "id": "la-valletta-brianza",
       "nome": "La Valletta Brianza",
       "provincia": "LC",
@@ -7486,6 +7712,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "livinallongo-del-col-di-lana",
+      "nome": "Livinallongo del Col di Lana",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4815,
+      "lon": 11.9544,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/livinallongo-del-col-di-lana/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/livinallongo-del-col-di-lana/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "locana",
@@ -11692,6 +11942,30 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/rivalta-di-torino/"
     },
     {
+      "id": "rivamonte-agordino",
+      "nome": "Rivamonte Agordino",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.2534,
+      "lon": 12.0245,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/rivamonte-agordino/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/rivamonte-agordino/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
       "id": "rivara",
       "nome": "Rivara",
       "provincia": "TO",
@@ -11852,6 +12126,30 @@
           "valido_al": "2028-02-29"
         }
       ]
+    },
+    {
+      "id": "rocca-pietore",
+      "nome": "Rocca Pietore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4347,
+      "lon": 11.9775,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/rocca-pietore/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/rocca-pietore/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "roccasparvera",
@@ -12695,6 +12993,47 @@
       ]
     },
     {
+      "id": "san-tomaso-agordino",
+      "nome": "San Tomaso Agordino",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.3812,
+      "lon": 11.9753,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/san-tomaso-agordino/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/san-tomaso-agordino/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
+      "id": "san-vito-di-cadore",
+      "nome": "San Vito di Cadore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4601,
+      "lon": 12.2048,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-vito-di-cadore/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-zenone-degli-ezzelini",
       "nome": "San Zenone degli Ezzelini",
       "provincia": "TV",
@@ -12974,6 +13313,30 @@
         "fonte": "https://www.setaspa.com/tarip",
         "nome": "TARIP"
       }
+    },
+    {
+      "id": "selva-di-cadore",
+      "nome": "Selva di Cadore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4515,
+      "lon": 12.0344,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/selva-di-cadore/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/selva-di-cadore/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "serralunga-d-alba",
@@ -13508,6 +13871,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "taibon-agordino",
+      "nome": "Taibon Agordino",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.2988,
+      "lon": 12.0133,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/taibon-agordino/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/taibon-agordino/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
     },
     {
       "id": "talamona",
@@ -14220,6 +14607,30 @@
       ]
     },
     {
+      "id": "vallada-agordina",
+      "nome": "Vallada Agordina",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.3681,
+      "lon": 11.9309,
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/vallada-agordina/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fuori-centro-urbano",
+          "nome": "Fuori centro urbano",
+          "file": "comuni/vallada-agordina/zona-fuori-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://valpeambiente.it"
+    },
+    {
       "id": "valle-cannobina",
       "nome": "Valle Cannobina",
       "provincia": "VB",
@@ -14232,6 +14643,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/valle-cannobina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valle-di-cadore",
+      "nome": "Valle di Cadore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.417,
+      "lon": 12.3278,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/valle-di-cadore/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -15164,6 +15592,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/viu/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "vodo-cadore",
+      "nome": "Vodo Cadore",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.4181,
+      "lon": 12.2503,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vodo-cadore/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vogogna",
       "nome": "Vogogna",
       "provincia": "VB",
@@ -15235,6 +15680,23 @@
           "nome": "Zona Ovest B",
           "file": "comuni/volpiano/zona-ovest-b.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "voltago-agordino",
+      "nome": "Voltago Agordino",
+      "provincia": "BL",
+      "gestore": "Valpe Ambiente",
+      "consorzio": "valpe",
+      "lat": 46.272,
+      "lon": 12.0049,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/voltago-agordino/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -15404,6 +15866,11 @@
       "nome": "SECAM – Società per l’ecologia e l’ambiente (Sondrio)",
       "gestore": "SECAM S.p.A.",
       "ecocentri": "ecocentri/secam.json"
+    },
+    "valpe": {
+      "nome": "Valpe Ambiente",
+      "gestore": "Valpe Ambiente",
+      "ecocentri": "ecocentri/valpe.json"
     }
   },
   "tipi_en": {

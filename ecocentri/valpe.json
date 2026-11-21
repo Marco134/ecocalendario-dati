@@ -1,0 +1,632 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-21",
+ "gestore": "Valpe Ambiente",
+ "fonte": "Orari Ecocentri Valpe Ambiente (volantini forniti da Marco)",
+ "numero_verde": "800 94 76 73",
+ "orari_numero_verde": "lun-ven 8:30-18:00, sab 8:30-13:00",
+ "consorzio": "valpe",
+ "accesso": "Puoi accedere a qualsiasi Ecocentro Valpe.",
+ "avviso": "Nei giorni festivi gli Ecocentri sono chiusi.",
+ "centri": [
+  {
+   "id": "valpe-agordo",
+   "tipo": "raccolta",
+   "comune": "Agordo",
+   "indirizzo": "Località Valcozzena (Agordo/Taibon)",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.2815,
+   "lon": 12.0333
+  },
+  {
+   "id": "valpe-cencenighe",
+   "tipo": "raccolta",
+   "comune": "Cencenighe Agordino",
+   "indirizzo": "Località Morbiach",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.3513,
+   "lon": 11.9663
+  },
+  {
+   "id": "valpe-colle",
+   "tipo": "raccolta",
+   "comune": "Colle Santa Lucia",
+   "indirizzo": "Località Rucavà",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Non si raccolgono pneumatici. Posizione indicativa (centro del comune).",
+   "lat": 46.4473,
+   "lon": 12.0143
+  },
+  {
+   "id": "valpe-falcade",
+   "tipo": "raccolta",
+   "comune": "Falcade",
+   "indirizzo": "Località Pian dei Ort",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.3583,
+   "lon": 11.8728
+  },
+  {
+   "id": "valpe-gosaldo",
+   "tipo": "raccolta",
+   "comune": "Gosaldo",
+   "indirizzo": "Località Tiser",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Non si raccolgono pneumatici. Posizione indicativa (centro del comune).",
+   "lat": 46.2205,
+   "lon": 11.9562
+  },
+  {
+   "id": "valpe-la-valle",
+   "tipo": "raccolta",
+   "comune": "La Valle Agordina",
+   "indirizzo": "Località Conaggia",
+   "per": "domestiche",
+   "orari": {
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.2822,
+   "lon": 12.0681
+  },
+  {
+   "id": "valpe-livinallongo",
+   "tipo": "raccolta",
+   "comune": "Livinallongo del Col di Lana",
+   "indirizzo": "Località Renaz",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario di bassa stagione. In alta stagione (dall’8/12 a Pasqua e dall’1/7 al 31/8): lun 9-12, mer 14:30-18:30, ven 9-12, sab 14:30-18:30. Posizione indicativa (centro del comune).",
+   "lat": 46.4815,
+   "lon": 11.9544
+  },
+  {
+   "id": "valpe-rivamonte",
+   "tipo": "raccolta",
+   "comune": "Rivamonte Agordino",
+   "indirizzo": "Località Capoluogo, impianti sportivi",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Non si raccolgono piccoli elettrodomestici, schermi, batterie auto e moto. Posizione indicativa (centro del comune).",
+   "lat": 46.2534,
+   "lon": 12.0245
+  },
+  {
+   "id": "valpe-rocca",
+   "tipo": "raccolta",
+   "comune": "Rocca Pietore",
+   "indirizzo": "Località Le Pale (Rocca Pietore/Alleghe)",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "19:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "19:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.4347,
+   "lon": 11.9775
+  },
+  {
+   "id": "valpe-san-tomaso",
+   "tipo": "raccolta",
+   "comune": "San Tomaso Agordino",
+   "indirizzo": "Località Pian Molin",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Non si raccolgono piccoli elettrodomestici, schermi, batterie auto e moto. Posizione indicativa (centro del comune).",
+   "lat": 46.3812,
+   "lon": 11.9753
+  },
+  {
+   "id": "valpe-selva",
+   "tipo": "raccolta",
+   "comune": "Selva di Cadore",
+   "indirizzo": "Località Pescul Le Pause",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.4515,
+   "lon": 12.0344
+  },
+  {
+   "id": "valpe-vallada",
+   "tipo": "raccolta",
+   "comune": "Vallada Agordina",
+   "indirizzo": "Località Bozon (Vallada/Canale d’Agordo)",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.3681,
+   "lon": 11.9309
+  },
+  {
+   "id": "valpe-voltago",
+   "tipo": "raccolta",
+   "comune": "Voltago Agordino",
+   "indirizzo": "Località Oronch Frassenè",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Non si raccolgono piccoli elettrodomestici, schermi, batterie auto e moto. Posizione indicativa (centro del comune).",
+   "lat": 46.272,
+   "lon": 12.0049
+  },
+  {
+   "id": "valpe-cortina",
+   "tipo": "raccolta",
+   "comune": "Cortina d'Ampezzo",
+   "indirizzo": "Località Pies de Ra Mognes (Unione Montana Valle del Boite)",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.5367,
+   "lon": 12.1385
+  },
+  {
+   "id": "valpe-sedico",
+   "tipo": "raccolta",
+   "comune": "Sedico",
+   "indirizzo": "Via Vittime del Vajont 6",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Pomeriggio con l’ora legale: 15:00-18:30. Posizione indicativa (centro del comune).",
+   "lat": 46.1109,
+   "lon": 12.0971
+  },
+  {
+   "id": "valpe-arsie",
+   "tipo": "raccolta",
+   "comune": "Arsiè",
+   "indirizzo": "Località La Menor",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 45.9844,
+   "lon": 11.7571
+  },
+  {
+   "id": "valpe-cesiomaggiore",
+   "tipo": "raccolta",
+   "comune": "Cesiomaggiore",
+   "indirizzo": "Via Pradenich",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "08:30",
+      "11:30"
+     ],
+     [
+      "13:15",
+      "16:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario novembre-marzo. Da aprile a ottobre il mercoledì pomeriggio 14:15-17:45; venerdì 8:30-11:30 solo giugno-agosto; sabato 8:00-11:30 solo l’ultimo sabato del mese. Posizione indicativa (centro del comune).",
+   "lat": 46.0887,
+   "lon": 11.9872
+  },
+  {
+   "id": "valpe-fonzaso",
+   "tipo": "raccolta",
+   "comune": "Fonzaso",
+   "indirizzo": "Via Nogaré",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:15",
+      "16:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Lunedì 15-17 da ottobre a marzo, 17-19 da aprile a settembre. Posizione indicativa (centro del comune).",
+   "lat": 46.0178,
+   "lon": 11.7996
+  },
+  {
+   "id": "valpe-lamon",
+   "tipo": "raccolta",
+   "comune": "Lamon",
+   "indirizzo": "Località Pian del Vescovo",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.0473,
+   "lon": 11.7486
+  },
+  {
+   "id": "valpe-pedavena",
+   "tipo": "raccolta",
+   "comune": "Pedavena",
+   "indirizzo": "Via Fermi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "16:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.0394,
+   "lon": 11.8814
+  },
+  {
+   "id": "valpe-sovramonte",
+   "tipo": "raccolta",
+   "comune": "Sovramonte",
+   "indirizzo": "Località Sorriva",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 46.0566,
+   "lon": 11.7866
+  }
+ ]
+}

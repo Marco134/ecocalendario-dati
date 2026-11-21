@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Vodo Cadore",
+ "provincia": "BL",
+ "gestore": "Valpe Ambiente",
+ "zona": "unica",
+ "valido_dal": "2026-11-21",
+ "valido_al": "2026-12-31",
+ "esposizione": "Tariffa puntuale: esponi il secco non riciclabile solo quando il contenitore è pieno, perché ogni svuotamento viene conteggiato. Vetro, plastica e lattine vanno insieme nel contenitore VPL. Il calendario non indica l’orario di esposizione: per dubbi chiama il numero verde Valpe 800 94 76 73.",
+ "fonte": "Ecocalendario 2026 Valpe Ambiente – https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/SINTETICI/Vodo%202026%20sintetico.pdf",
+ "raccolte": {
+  "2026-11-24": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ]
+ }
+}
