@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "comune": "Strambinello",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Organico: il lunedì e giovedì prima delle 12.30. Carta e cartone: il lunedì prima delle 6.00 ogni 15 giorni. Indifferenziato: tutti i mercoledì prima delle 6.00. Plastica e metalli: svuotamento campane stradali settimanale. Vetro: svuotamento campane stradali settimanale. Nei festivi infrasettimanali la raccolta non si fa (le caselle restano vuote sul calendario).",
+ "fonte": "Calendario raccolta 2026 – https://scsivrea.it/calendario-2-0/calendario-comune-di-strambinello/",
+ "raccolte": {
+  "2026-11-02": [
+   "organico"
+  ],
+  "2026-11-04": [
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "organico"
+  ],
+  "2026-11-09": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-11": [
+   "indifferenziato"
+  ],
+  "2026-11-12": [
+   "organico"
+  ],
+  "2026-11-16": [
+   "organico"
+  ],
+  "2026-11-18": [
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "organico"
+  ],
+  "2026-11-23": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ }
+}

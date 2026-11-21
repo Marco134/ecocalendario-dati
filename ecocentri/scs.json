@@ -1,0 +1,187 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-21",
+  "gestore": "SCS – Società Canavesana Servizi",
+  "fonte": "https://scsivrea.it/centri-di-raccolta/",
+  "numero_verde": "800 159040",
+  "orari_numero_verde": "",
+  "accesso": "Centri di raccolta SCS per i cittadini dei comuni serviti da SCS (area di Ivrea).",
+  "avviso": "Il sabato mattina sono aperti tutti i centri. Posizioni dalla mappa ufficiale SCS.",
+  "consorzio": "scs",
+  "centri": [
+    {
+      "id": "scs-ivrea",
+      "tipo": "raccolta",
+      "comune": "Ivrea",
+      "indirizzo": "Centro di raccolta di Ivrea",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.4328,
+      "lon": 7.8881
+    },
+    {
+      "id": "scs-strambino",
+      "tipo": "raccolta",
+      "comune": "Strambino",
+      "indirizzo": "Centro di raccolta di Strambino",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.3848,
+      "lon": 7.8896
+    },
+    {
+      "id": "scs-albiano",
+      "tipo": "raccolta",
+      "comune": "Albiano d'Ivrea",
+      "indirizzo": "Strada Guadalungo",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.4308,
+      "lon": 7.9472
+    },
+    {
+      "id": "scs-caluso",
+      "tipo": "raccolta",
+      "comune": "Caluso",
+      "indirizzo": "Centro di raccolta di Caluso",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Solo su prenotazione: chiama 800 159040 interno 2 (nome e cognome, auto o furgone, telefono).",
+      "lat": 45.2941,
+      "lon": 7.872
+    },
+    {
+      "id": "scs-colleretto-giacosa",
+      "tipo": "raccolta",
+      "comune": "Colleretto Giacosa",
+      "indirizzo": "Centro di raccolta di Colleretto Giacosa",
+      "per": "domestiche",
+      "orari": {
+        "4": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.4355,
+      "lon": 7.8244
+    },
+    {
+      "id": "scs-quassolo",
+      "tipo": "raccolta",
+      "comune": "Quassolo",
+      "indirizzo": "Centro di raccolta di Quassolo",
+      "per": "domestiche",
+      "orari": {
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "11:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "",
+      "lat": 45.5214,
+      "lon": 7.8355
+    }
+  ]
+}

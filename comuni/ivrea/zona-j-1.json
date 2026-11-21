@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "comune": "Ivrea",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "J.1",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i contenitori dalle ore 6.00 del giorno di raccolta. Plastica, metalli e vetro: campane stradali. Nei festivi infrasettimanali la raccolta non si fa.",
+ "fonte": "Calendario raccolta 2026 – https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/",
+ "raccolte": {
+  "2026-11-03": [
+   "organico"
+  ],
+  "2026-11-05": [
+   "indifferenziato"
+  ],
+  "2026-11-06": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-10": [
+   "organico"
+  ],
+  "2026-11-12": [
+   "indifferenziato"
+  ],
+  "2026-11-13": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-17": [
+   "organico"
+  ],
+  "2026-11-19": [
+   "indifferenziato"
+  ],
+  "2026-11-20": [
+   "organico",
+   "carta"
+  ],
+  "2026-11-24": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

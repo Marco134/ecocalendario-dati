@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "comune": "Azeglio",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Organico: il martedì e venerdì dalle ore 12.30. Carta e cartone: tutti i mercoledì dalle 6.00 ogni 15 giorni. Indifferenziato: tutti i martedì prima delle 12.30. Plastica e metalli: svuotamento campane stradali settimanale. Vetro: svuotamento campane stradali mensile. Nei festivi infrasettimanali la raccolta non si fa (le caselle restano vuote sul calendario).",
+ "fonte": "Calendario raccolta 2026 – https://scsivrea.it/calendario-2-0/calendario-comune-di-azeglio/",
+ "raccolte": {
+  "2026-11-03": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-06": [
+   "organico"
+  ],
+  "2026-11-10": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-11": [
+   "carta"
+  ],
+  "2026-11-13": [
+   "organico"
+  ],
+  "2026-11-17": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-20": [
+   "organico"
+  ],
+  "2026-11-24": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "indifferenziato"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

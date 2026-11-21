@@ -11,6 +11,23 @@
   },
   "comuni": [
     {
+      "id": "aglie",
+      "nome": "Agliè",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3634,
+      "lon": 7.7686,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/aglie/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "airasca",
       "nome": "Airasca",
       "provincia": "TO",
@@ -50,6 +67,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/ala-di-stura/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "albiano-d-ivrea",
+      "nome": "Albiano d'Ivrea",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4339,
+      "lon": 7.9491,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/albiano-d-ivrea/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "almese",
@@ -116,6 +150,23 @@
       "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
     },
     {
+      "id": "andrate",
+      "nome": "Andrate",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5284,
+      "lon": 7.8738,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/andrate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "angrogna",
       "nome": "Angrogna",
       "provincia": "TO",
@@ -157,6 +208,40 @@
       "zone_url": "https://www.acselspa.it/calendari-raccolta-rifiuti/"
     },
     {
+      "id": "azeglio",
+      "nome": "Azeglio",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4249,
+      "lon": 7.9948,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/azeglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bairo",
+      "nome": "Bairo",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3862,
+      "lon": 7.7569,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bairo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "balangero",
       "nome": "Balangero",
       "provincia": "TO",
@@ -181,6 +266,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/balangero/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "baldissero-canavese",
+      "nome": "Baldissero Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4084,
+      "lon": 7.7444,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/baldissero-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "balme",
       "nome": "Balme",
       "provincia": "TO",
@@ -203,6 +305,23 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/balme/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "banchette",
+      "nome": "Banchette",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4609,
+      "lon": 7.8566,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/banchette/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "barbania",
@@ -235,6 +354,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/bardonecchia/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "barone-canavese",
+      "nome": "Barone Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3277,
+      "lon": 7.8706,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/barone-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -333,6 +469,23 @@
       ]
     },
     {
+      "id": "bollengo",
+      "nome": "Bollengo",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4734,
+      "lon": 7.9453,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bollengo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "borgaro-torinese",
       "nome": "Borgaro Torinese",
       "provincia": "TO",
@@ -378,6 +531,40 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/borgiallo/"
+    },
+    {
+      "id": "borgofranco-d-ivrea",
+      "nome": "Borgofranco d'Ivrea",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.513,
+      "lon": 7.8585,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgofranco-d-ivrea/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "borgomasino",
+      "nome": "Borgomasino",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3616,
+      "lon": 7.9888,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgomasino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "borgone-susa",
@@ -569,6 +756,23 @@
       ]
     },
     {
+      "id": "burolo",
+      "nome": "Burolo",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4841,
+      "lon": 7.9321,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/burolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "busano",
       "nome": "Busano",
       "provincia": "TO",
@@ -658,6 +862,30 @@
       ]
     },
     {
+      "id": "caluso",
+      "nome": "Caluso",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3079,
+      "lon": 7.8915,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/caluso/zona-capoluogo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Frazioni",
+          "file": "comuni/caluso/zona-frazioni.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-caluso-capoluogo/"
+    },
+    {
       "id": "campiglione-fenile",
       "nome": "Campiglione Fenile",
       "provincia": "TO",
@@ -671,6 +899,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/campiglione-fenile/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "candia-canavese",
+      "nome": "Candia Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3282,
+      "lon": 7.8866,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/candia-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -798,6 +1043,40 @@
       ]
     },
     {
+      "id": "caravino",
+      "nome": "Caravino",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3986,
+      "lon": 7.9602,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caravino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "carema",
+      "nome": "Carema",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5844,
+      "lon": 7.8123,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carema/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "carignano",
       "nome": "Carignano",
       "provincia": "TO",
@@ -883,6 +1162,23 @@
           "nome": "Zona unica",
           "file": "comuni/casalborgone/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cascinette-d-ivrea",
+      "nome": "Cascinette d'Ivrea",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4785,
+      "lon": 7.9047,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cascinette-d-ivrea/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -1213,6 +1509,23 @@
           "id": "unica",
           "nome": "Zona unica (porta a porta solo indifferenziato, ogni due settimane)",
           "file": "comuni/chianocco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chiaverano",
+      "nome": "Chiaverano",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4994,
+      "lon": 7.9031,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/chiaverano/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -1614,6 +1927,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/colleretto-castelnuovo/"
     },
     {
+      "id": "colleretto-giacosa",
+      "nome": "Colleretto Giacosa",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4329,
+      "lon": 7.8,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/colleretto-giacosa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "condove",
       "nome": "Condove",
       "provincia": "TO",
@@ -1653,6 +1983,40 @@
         }
       ],
       "zone_url": "https://www.cisaweb.info/it-it/comune/corio/servizi-/servizi/calendari-di-raccolta"
+    },
+    {
+      "id": "cossano-canavese",
+      "nome": "Cossano Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3883,
+      "lon": 7.9934,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cossano-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cuceglio",
+      "nome": "Cuceglio",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3589,
+      "lon": 7.8148,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cuceglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "cumiana",
@@ -1836,6 +2200,23 @@
           "nome": "Zona unica",
           "file": "comuni/fiano/zona-unica.json",
           "valido_al": "2028-02-28"
+        }
+      ]
+    },
+    {
+      "id": "fiorano-canavese",
+      "nome": "Fiorano Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4676,
+      "lon": 7.829,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fiorano-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2258,6 +2639,180 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/issiglio/"
     },
     {
+      "id": "ivrea",
+      "nome": "Ivrea",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4662,
+      "lon": 7.876,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/ivrea/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/ivrea/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/ivrea/zona-c.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "d",
+          "nome": "Zona D",
+          "file": "comuni/ivrea/zona-d.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "e",
+          "nome": "Zona E",
+          "file": "comuni/ivrea/zona-e.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "f",
+          "nome": "Zona F",
+          "file": "comuni/ivrea/zona-f.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "g",
+          "nome": "Zona G",
+          "file": "comuni/ivrea/zona-g.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "h",
+          "nome": "Zona H",
+          "file": "comuni/ivrea/zona-h.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "i",
+          "nome": "Zona I",
+          "file": "comuni/ivrea/zona-i.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "j",
+          "nome": "Zona J",
+          "file": "comuni/ivrea/zona-j.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "j-1",
+          "nome": "Zona J.1",
+          "file": "comuni/ivrea/zona-j-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "k",
+          "nome": "Zona K",
+          "file": "comuni/ivrea/zona-k.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "l",
+          "nome": "Zona L",
+          "file": "comuni/ivrea/zona-l.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "m",
+          "nome": "Zona M",
+          "file": "comuni/ivrea/zona-m.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "m-1",
+          "nome": "Zona M.1",
+          "file": "comuni/ivrea/zona-m-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "n",
+          "nome": "Zona N",
+          "file": "comuni/ivrea/zona-n.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "n-1",
+          "nome": "Zona N.1",
+          "file": "comuni/ivrea/zona-n-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "o",
+          "nome": "Zona O",
+          "file": "comuni/ivrea/zona-o.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "q",
+          "nome": "Zona Q",
+          "file": "comuni/ivrea/zona-q.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "r",
+          "nome": "Zona R",
+          "file": "comuni/ivrea/zona-r.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "s",
+          "nome": "Zona S",
+          "file": "comuni/ivrea/zona-s.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "t",
+          "nome": "Zona T",
+          "file": "comuni/ivrea/zona-t.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "u",
+          "nome": "Zona U",
+          "file": "comuni/ivrea/zona-u.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "z",
+          "nome": "Zona Z",
+          "file": "comuni/ivrea/zona-z.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "z-1",
+          "nome": "Zona Z.1",
+          "file": "comuni/ivrea/zona-z-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "z-2",
+          "nome": "Zona Z.2",
+          "file": "comuni/ivrea/zona-z-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "z-3",
+          "nome": "Zona Z.3",
+          "file": "comuni/ivrea/zona-z-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/"
+    },
+    {
       "id": "la-cassa",
       "nome": "La Cassa",
       "provincia": "TO",
@@ -2441,6 +2996,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/lemie/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "lessolo",
+      "nome": "Lessolo",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4762,
+      "lon": 7.8142,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lessolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "levone",
       "nome": "Levone",
       "provincia": "TO",
@@ -2512,6 +3084,23 @@
           "nome": "Zona unica",
           "file": "comuni/lombriasco/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "loranze",
+      "nome": "Loranzè",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4422,
+      "lon": 7.8109,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/loranze/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2602,6 +3191,23 @@
       ]
     },
     {
+      "id": "maglione",
+      "nome": "Maglione",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3477,
+      "lon": 8.0117,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "mappano",
       "nome": "Mappano",
       "provincia": "TO",
@@ -2676,6 +3282,23 @@
       ]
     },
     {
+      "id": "mazze",
+      "nome": "Mazzè",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.2985,
+      "lon": 7.937,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mazze/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "meana-di-susa",
       "nome": "Meana di Susa",
       "provincia": "TO",
@@ -2689,6 +3312,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/meana-di-susa/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mercenasco",
+      "nome": "Mercenasco",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.357,
+      "lon": 7.8826,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mercenasco/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -2865,6 +3505,40 @@
       ]
     },
     {
+      "id": "montalenghe",
+      "nome": "Montalenghe",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3377,
+      "lon": 7.8399,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montalenghe/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "montalto-dora",
+      "nome": "Montalto Dora",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4936,
+      "lon": 7.8638,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montalto-dora/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montanaro",
       "nome": "Montanaro",
       "provincia": "TO",
@@ -2983,6 +3657,23 @@
           "nome": "Zona unica",
           "file": "comuni/nole/zona-unica.json",
           "valido_al": "2028-02-28"
+        }
+      ]
+    },
+    {
+      "id": "nomaglio",
+      "nome": "Nomaglio",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5352,
+      "lon": 7.8597,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nomaglio/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3123,6 +3814,23 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/orbassano/"
     },
     {
+      "id": "orio-canavese",
+      "nome": "Orio Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3285,
+      "lon": 7.8603,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/orio-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "orvieto",
       "nome": "Orvieto",
       "provincia": "TR",
@@ -3208,6 +3916,23 @@
       ]
     },
     {
+      "id": "palazzo-canavese",
+      "nome": "Palazzo Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4575,
+      "lon": 7.978,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/palazzo-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pancalieri",
       "nome": "Pancalieri",
       "provincia": "TO",
@@ -3225,6 +3950,40 @@
       ]
     },
     {
+      "id": "parella",
+      "nome": "Parella",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.43,
+      "lon": 7.791,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/parella/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pavone-canavese",
+      "nome": "Pavone Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4353,
+      "lon": 7.854,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pavone-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "perosa-argentina",
       "nome": "Perosa Argentina",
       "provincia": "TO",
@@ -3238,6 +3997,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/perosa-argentina/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "perosa-canavese",
+      "nome": "Perosa Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3972,
+      "lon": 7.8293,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/perosa-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3477,6 +4253,23 @@
       ]
     },
     {
+      "id": "piverone",
+      "nome": "Piverone",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4475,
+      "lon": 8.0071,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/piverone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pomaretto",
       "nome": "Pomaretto",
       "provincia": "TO",
@@ -3632,6 +4425,57 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pratiglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quagliuzzo",
+      "nome": "Quagliuzzo",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4265,
+      "lon": 7.7818,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quagliuzzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quassolo",
+      "nome": "Quassolo",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5249,
+      "lon": 7.8325,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quassolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quincinetto",
+      "nome": "Quincinetto",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5608,
+      "lon": 7.8058,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quincinetto/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4063,6 +4907,23 @@
       ]
     },
     {
+      "id": "salerano-canavese",
+      "nome": "Salerano Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4564,
+      "lon": 7.8499,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/salerano-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "salza-di-pinerolo",
       "nome": "Salza di Pinerolo",
       "provincia": "TO",
@@ -4076,6 +4937,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/salza-di-pinerolo/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "samone",
+      "nome": "Samone",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4493,
+      "lon": 7.8456,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/samone/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -4205,6 +5083,23 @@
       ]
     },
     {
+      "id": "san-giorgio-canavese",
+      "nome": "San Giorgio Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3354,
+      "lon": 7.7943,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-giorgio-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-giorio-di-susa",
       "nome": "San Giorio di Susa",
       "provincia": "TO",
@@ -4218,6 +5113,40 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/san-giorio-di-susa/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-giusto-canavese",
+      "nome": "San Giusto Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3122,
+      "lon": 7.8083,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-giusto-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-martino-canavese",
+      "nome": "San Martino Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3946,
+      "lon": 7.8184,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-martino-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -4462,6 +5391,23 @@
       ]
     },
     {
+      "id": "scarmagno",
+      "nome": "Scarmagno",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3858,
+      "lon": 7.8407,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/scarmagno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "sciolze",
       "nome": "Sciolze",
       "provincia": "TO",
@@ -4498,6 +5444,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/sestriere/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "settimo-rottaro",
+      "nome": "Settimo Rottaro",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4049,
+      "lon": 7.9922,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/settimo-rottaro/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -4549,6 +5512,23 @@
       ]
     },
     {
+      "id": "settimo-vittone",
+      "nome": "Settimo Vittone",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5481,
+      "lon": 7.8317,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/settimo-vittone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "sparone",
       "nome": "Sparone",
       "provincia": "TO",
@@ -4573,6 +5553,47 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/sparone/"
     },
     {
+      "id": "strambinello",
+      "nome": "Strambinello",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.4232,
+      "lon": 7.7687,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/strambinello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "strambino",
+      "nome": "Strambino",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3846,
+      "lon": 7.8806,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/strambino/zona-capoluogo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Frazioni",
+          "file": "comuni/strambino/zona-frazioni.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-strambino-capoluogo/"
+    },
+    {
       "id": "susa",
       "nome": "Susa",
       "provincia": "TO",
@@ -4585,6 +5606,23 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/susa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "tavagnasco",
+      "nome": "Tavagnasco",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.5432,
+      "lon": 7.8226,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tavagnasco/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -4603,6 +5641,23 @@
           "nome": "Zona unica",
           "file": "comuni/torrazza-piemonte/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "torre-canavese",
+      "nome": "Torre Canavese",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3918,
+      "lon": 7.7605,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/torre-canavese/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -5092,6 +6147,40 @@
       ]
     },
     {
+      "id": "vestigne",
+      "nome": "Vestignè",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3867,
+      "lon": 7.9539,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vestigne/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vialfre",
+      "nome": "Vialfrè",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3808,
+      "lon": 7.8182,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vialfre/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "vidracco",
       "nome": "Vidracco",
       "provincia": "TO",
@@ -5241,6 +6330,40 @@
           "nome": "Zona unica",
           "file": "comuni/villarbasse/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "villareggia",
+      "nome": "Villareggia",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.311,
+      "lon": 7.9785,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villareggia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vische",
+      "nome": "Vische",
+      "provincia": "TO",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "consorzio": "scs",
+      "lat": 45.3316,
+      "lon": 7.9514,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vische/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -5398,6 +6521,11 @@
       "nome": "Consorzio Canavesano Ambiente (area Teknoservice)",
       "gestore": "Teknoservice",
       "ecocentri": "ecocentri/cca.json"
+    },
+    "scs": {
+      "nome": "Consorzio Canavesano Ambiente (area SCS – Ivrea)",
+      "gestore": "SCS – Società Canavesana Servizi",
+      "ecocentri": "ecocentri/scs.json"
     }
   },
   "tipi_en": {

@@ -370,6 +370,36 @@
       ],
       "fonte": "Calendari raccolta rifiuti 2026 Teknoservice (CCA)",
       "verificato": "2026-11-20"
+    },
+    {
+      "id": "scs",
+      "nome": "SCS – Società Canavesana Servizi",
+      "gestori": [
+        "SCS – Società Canavesana Servizi"
+      ],
+      "comuni": [],
+      "prenota_url": "https://scsivrea.it/la-raccolta-degli-ingombranti/",
+      "account": null,
+      "account_en": null,
+      "telefono": "800159040",
+      "orari": "Numero verde SCS oppure modulo online sul sito",
+      "orari_en": "SCS toll-free number or online form",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Ritiro a domicilio su prenotazione, solo per utenze domestiche",
+        "Prenoti al numero verde o con il modulo online SCS",
+        "In alternativa li porti a un centro di raccolta SCS"
+      ],
+      "regole_en": [
+        "Home pickup on booking, households only",
+        "Book through the toll-free number or the SCS online form",
+        "Or take them to an SCS recycling centre"
+      ],
+      "fonte": "https://scsivrea.it/la-raccolta-degli-ingombranti/",
+      "verificato": "2026-11-21"
     }
   ]
 }

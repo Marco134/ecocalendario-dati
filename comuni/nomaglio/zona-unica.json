@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Nomaglio",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "unica",
+ "valido_dal": "2026-11-01",
+ "valido_al": "2026-12-31",
+ "esposizione": "Organico: il lunedì e giovedì prima delle 12.30. Carta e cartone: il lunedì prima delle ore 6.00 ogni 15 giorni. Indifferenziato: tutti i lunedì prima delle 6.00. Plastica e metalli: svuotamento campane stradali settimanale. Vetro: svuotamento campane stradali mensile. Nei festivi infrasettimanali la raccolta non si fa (le caselle restano vuote sul calendario).",
+ "fonte": "Calendario raccolta 2026 – https://scsivrea.it/calendario-2-0/calendario-comune-di-nomaglio/",
+ "raccolte": {
+  "2026-11-02": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-05": [
+   "organico"
+  ],
+  "2026-11-09": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-12": [
+   "organico"
+  ],
+  "2026-11-16": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-11-19": [
+   "organico"
+  ],
+  "2026-11-23": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico",
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ }
+}
