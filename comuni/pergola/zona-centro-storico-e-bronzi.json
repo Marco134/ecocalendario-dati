@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "comune": "Pergola",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Centro storico e Bronzi",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/aset_ecocalendario_pergola_2026_2.pdf",
+  "esposizione": "Esporre entro le 06:00. Il sabato, entro le 05:00.",
+  "note": [
+    "Per identificare la via o la frazione, usare la cartina ufficiale del gestore."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico",
+      "carta"
+    ],
+    "2026-11-25": [
+      "plastica"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "vetro"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-02": [
+      "plastica"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-04": [
+      "lattine"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-08": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "plastica"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "vetro"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-16": [
+      "plastica"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-18": [
+      "lattine"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-23": [
+      "plastica"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-26": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-30": [
+      "plastica"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  }
+}

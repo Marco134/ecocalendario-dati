@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "comune": "Pergola",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Zona gialla",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocalendario-zona-gialla-rev-giugno23.pdf",
+  "esposizione": "Esporre entro le 06:00 presso il proprio civico.",
+  "note": [
+    "Per identificare la via o la frazione, usare la cartina ufficiale del gestore.",
+    "Per le altre frazioni e l’eventuale ritiro festivo consultare ASET."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  },
+  "esposizione_entro": "06:00"
+}

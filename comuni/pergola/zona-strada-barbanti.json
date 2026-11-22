@@ -1,0 +1,36 @@
+{
+  "schema": 1,
+  "comune": "Pergola",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Strada Barbanti",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocal_pergola_barbanti_rev_nov2020_compressed.pdf",
+  "esposizione": "Esporre entro le 06:00 presso il proprio civico.",
+  "note": [
+    "Per identificare la via o la frazione, usare la cartina ufficiale del gestore.",
+    "Per le altre frazioni e l’eventuale ritiro festivo consultare ASET."
+  ],
+  "raccolte": {
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  },
+  "esposizione_entro": "06:00"
+}

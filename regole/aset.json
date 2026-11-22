@@ -25,5 +25,11 @@
   ],
   "verificato": {
     "voci": "2026-11-22, guida ASET e modalità comunali"
+  },
+  "tipi": {
+    "lattine": {
+      "nome": "Imballaggi metallici",
+      "nome_en": "Metal packaging"
+    }
   }
 }

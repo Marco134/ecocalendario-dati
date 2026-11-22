@@ -21704,6 +21704,120 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "colli-al-metauro",
+      "nome": "Colli al Metauro",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.742315,
+      "lon": 12.908919,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "zona-arancio-a-monte-della-flaminia",
+          "nome": "Zona arancio · a monte della Flaminia",
+          "file": "comuni/colli-al-metauro/zona-zona-arancio-a-monte-della-flaminia.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-azzurra-a-valle-della-flaminia-inclusa",
+          "nome": "Zona azzurra · a valle della Flaminia, inclusa",
+          "file": "comuni/colli-al-metauro/zona-zona-azzurra-a-valle-della-flaminia-inclusa.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "fossombrone",
+      "nome": "Fossombrone",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.690797,
+      "lon": 12.812612,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "zona-blu",
+          "nome": "Zona blu",
+          "file": "comuni/fossombrone/zona-zona-blu.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-arancio",
+          "nome": "Zona arancio",
+          "file": "comuni/fossombrone/zona-zona-arancio.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mondavio",
+      "nome": "Mondavio",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.674205,
+      "lon": 12.968771,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "zona-1-centro-e-periferia",
+          "nome": "Zona 1 · centro e periferia",
+          "file": "comuni/mondavio/zona-zona-1-centro-e-periferia.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2-s-andrea-s-michele-s-filippo-e-cavallara",
+          "nome": "Zona 2 · S. Andrea, S. Michele, S. Filippo e Cavallara",
+          "file": "comuni/mondavio/zona-zona-2-s-andrea-s-michele-s-filippo-e-cavallara.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pergola",
+      "nome": "Pergola",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset-pergola",
+      "lat": 43.56321,
+      "lon": 12.836317,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "centro-storico-e-bronzi",
+          "nome": "Centro storico e Bronzi",
+          "file": "comuni/pergola/zona-centro-storico-e-bronzi.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-blu",
+          "nome": "Zona blu",
+          "file": "comuni/pergola/zona-zona-blu.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-gialla",
+          "nome": "Zona gialla",
+          "file": "comuni/pergola/zona-zona-gialla.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "strada-barbanti",
+          "nome": "Strada Barbanti",
+          "file": "comuni/pergola/zona-strada-barbanti.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazione-cartoceto",
+          "nome": "Frazione Cartoceto",
+          "file": "comuni/pergola/zona-frazione-cartoceto.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -21917,6 +22031,12 @@
       "nome": "ASET",
       "gestore": "ASET",
       "ecocentri": "ecocentri/aset.json",
+      "regole": "regole/aset.json"
+    },
+    "aset-pergola": {
+      "nome": "ASET · Pergola",
+      "gestore": "ASET",
+      "ecocentri": "ecocentri/aset-pergola.json",
       "regole": "regole/aset.json"
     }
   },

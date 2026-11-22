@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "comune": "Pergola",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Frazione Cartoceto",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocal_pergola_frazcartoceto_rev_nov2020_compressed.pdf",
+  "esposizione": "Esporre entro le 06:00 presso il proprio civico.",
+  "note": [
+    "Per identificare la via o la frazione, usare la cartina ufficiale del gestore.",
+    "Per le altre frazioni e l’eventuale ritiro festivo consultare ASET."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-04": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-18": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  },
+  "esposizione_entro": "06:00"
+}
