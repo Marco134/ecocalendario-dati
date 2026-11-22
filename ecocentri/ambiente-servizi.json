@@ -1,0 +1,237 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-22",
+  "gestore": "Ambiente Servizi S.p.A.",
+  "fonte": "https://www.ambienteservizi.net/comuni",
+  "numero_verde": "800 774 728",
+  "orari_numero_verde": "lun–ven 08:00–20:00, sab 08:00–13:00",
+  "consorzio": "ambiente-servizi",
+  "accesso": "Usa il centro indicato per il tuo comune nella pagina di Ambiente Servizi. Verifica i materiali ammessi e consulta il gestore per accessi convenzionati.",
+  "avviso": "Centri chiusi durante le festività nazionali. Leggi le note sugli orari stagionali o su sabati selezionati.",
+  "centri": [
+    {
+      "id": "ambiente-servizi-arba",
+      "tipo": "raccolta",
+      "comune": "Arba",
+      "indirizzo": "Via del Molinat",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Arba.",
+      "lat": 46.141722308423,
+      "lon": 12.783513426433,
+      "fonte": "https://www.ambienteservizi.net/comuni/arba"
+    },
+    {
+      "id": "ambiente-servizi-brugnera",
+      "tipo": "raccolta",
+      "comune": "Brugnera",
+      "indirizzo": "Via Giolitti",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "13:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Brugnera.",
+      "lat": 45.898460788703,
+      "lon": 12.534387820747,
+      "fonte": "https://www.ambienteservizi.net/comuni/brugnera"
+    },
+    {
+      "id": "ambiente-servizi-castelnovo-del-friuli",
+      "tipo": "raccolta",
+      "comune": "Castelnovo del Friuli",
+      "indirizzo": "Strada Provinciale della Val Cosa 14",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "15:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Castelnovo del Friuli e Travesio. Primo e terzo sabato del mese 08:30–10:30.",
+      "lat": 46.198138,
+      "lon": 12.898081,
+      "fonte": "https://www.ambienteservizi.net/comuni/castelnovo-del-friuli"
+    },
+    {
+      "id": "ambiente-servizi-cavasso-nuovo",
+      "tipo": "raccolta",
+      "comune": "Cavasso Nuovo",
+      "indirizzo": "Via Meduna, località Case Sparse",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "15:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "10:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Cavasso Nuovo.",
+      "lat": 46.19615,
+      "lon": 12.783435767858,
+      "fonte": "https://www.ambienteservizi.net/comuni/cavasso-nuovo"
+    },
+    {
+      "id": "ambiente-servizi-cordovado",
+      "tipo": "raccolta",
+      "comune": "Cordovado",
+      "indirizzo": "Via Circonvallazione",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "14:30",
+            "15:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Cordovado. Orario solare. Con ora legale mercoledì 14:30–16:00.",
+      "lat": 45.849607733157,
+      "lon": 12.891848251748,
+      "fonte": "https://www.ambienteservizi.net/comuni/cordovado"
+    },
+    {
+      "id": "ambiente-servizi-pasiano-di-pordenone",
+      "tipo": "raccolta",
+      "comune": "Pasiano di Pordenone",
+      "indirizzo": "Via Comugnuzze",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:30"
+          ],
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Pasiano di Pordenone. Orario solare. Con ora legale mercoledì 16:30–18:30 e sabato 09:00–12:30 e 14:30–18:30.",
+      "lat": 45.842811712326,
+      "lon": 12.628914701307,
+      "fonte": "https://www.ambienteservizi.net/comuni/pasiano-di-pordenone"
+    },
+    {
+      "id": "ambiente-servizi-pinzano-al-tagliamento",
+      "tipo": "raccolta",
+      "comune": "Pinzano al Tagliamento",
+      "indirizzo": "Via XX Settembre",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "14:00",
+            "16:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Pinzano al Tagliamento. Consultare il PDF per i rifiuti ammessi alla sede locale e per quelli da consegnare a Spilimbergo.",
+      "lat": 46.185235547423,
+      "lon": 12.949064061395,
+      "fonte": "https://www.ambienteservizi.net/comuni/pinzano-al-tagliamento"
+    },
+    {
+      "id": "ambiente-servizi-san-martino-al-tagliamento",
+      "tipo": "raccolta",
+      "comune": "San Martino al Tagliamento",
+      "indirizzo": "Via Santa Fosca",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di San Martino al Tagliamento.",
+      "lat": 46.018427300327,
+      "lon": 12.860960922576,
+      "fonte": "https://www.ambienteservizi.net/comuni/san-martino-al-tagliamento"
+    },
+    {
+      "id": "ambiente-servizi-vajont",
+      "tipo": "raccolta",
+      "comune": "Vajont",
+      "indirizzo": "Via dell’Artigianato",
+      "per": "domestiche",
+      "orari": {
+        "4": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Vajont.",
+      "lat": 46.14085916753,
+      "lon": 12.692543604068,
+      "fonte": "https://www.ambienteservizi.net/comuni/vajont"
+    }
+  ]
+}

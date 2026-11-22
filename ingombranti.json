@@ -3014,6 +3014,196 @@
       "regole_en": [
         "Check the provider’s municipal page for booking, cost and collection limits."
       ]
+    },
+    {
+      "id": "ambiente-servizi-arba",
+      "nome": "Ambiente Servizi – Arba",
+      "comuni": [
+        "arba"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/arba",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Arba%202027.pdf?t=1795256895",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-brugnera",
+      "nome": "Ambiente Servizi – Brugnera",
+      "comuni": [
+        "brugnera"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/brugnera",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Brugnera%202027.pdf?t=1795255576",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-castelnovo-del-friuli",
+      "nome": "Ambiente Servizi – Castelnovo del Friuli",
+      "comuni": [
+        "castelnovo-del-friuli"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/castelnovo-del-friuli",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Castelnovo%20del%20Friuli%202027.pdf?t=1795256679",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-cavasso-nuovo",
+      "nome": "Ambiente Servizi – Cavasso Nuovo",
+      "comuni": [
+        "cavasso-nuovo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/cavasso-nuovo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Cavasso%20Nuovo%202027.pdf?t=1795257592",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-cordovado",
+      "nome": "Ambiente Servizi – Cordovado",
+      "comuni": [
+        "cordovado"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/cordovado",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Cordovado%202027.pdf?t=1795256214",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-pasiano-di-pordenone",
+      "nome": "Ambiente Servizi – Pasiano di Pordenone",
+      "comuni": [
+        "pasiano-di-pordenone"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/pasiano-di-pordenone",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pasiano%20di%20Pordenone%202027.pdf?t=1795257524",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-pinzano-al-tagliamento",
+      "nome": "Ambiente Servizi – Pinzano al Tagliamento",
+      "comuni": [
+        "pinzano-al-tagliamento"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/pinzano-al-tagliamento",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pinzano%20al%20Tagliamento%202027.pdf?t=1795257595",
+      "telefono": "800 774 728",
+      "regole": [
+        "Ritiro gratuito su prenotazione ogni due venerdì. Massimo 5 pezzi e circa 3 m³, fino a esaurimento posti."
+      ],
+      "regole_en": [
+        "Free collection by booking every other Friday, up to 5 items or approximately 3 m³, subject to availability."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-san-martino-al-tagliamento",
+      "nome": "Ambiente Servizi – San Martino al Tagliamento",
+      "comuni": [
+        "san-martino-al-tagliamento"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/san-martino-al-tagliamento",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Martino%20al%20Tagliamento%202027.pdf?t=1795256896",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-travesio",
+      "nome": "Ambiente Servizi – Travesio",
+      "comuni": [
+        "travesio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/travesio",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Travesio%202027.pdf?t=1795257599",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-vajont",
+      "nome": "Ambiente Servizi – Vajont",
+      "comuni": [
+        "vajont"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/vajont",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Vajont%202027.pdf?t=1795257600",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro comunale per i materiali ammessi. Per richiedere il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
     }
   ]
 }

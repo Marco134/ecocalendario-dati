@@ -18920,6 +18920,176 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "arba",
+      "nome": "Arba",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.14498,
+      "lon": 12.7914,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/arba/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "brugnera",
+      "nome": "Brugnera",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.90351,
+      "lon": 12.525989,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brugnera/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "castelnovo-del-friuli",
+      "nome": "Castelnovo del Friuli",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.213832,
+      "lon": 12.883104,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelnovo-del-friuli/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "cavasso-nuovo",
+      "nome": "Cavasso Nuovo",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.196556,
+      "lon": 12.770308,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavasso-nuovo/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "cordovado",
+      "nome": "Cordovado",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.845777,
+      "lon": 12.880665,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cordovado/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "pasiano-di-pordenone",
+      "nome": "Pasiano di Pordenone",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.849754,
+      "lon": 12.626509,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pasiano-di-pordenone/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "pinzano-al-tagliamento",
+      "nome": "Pinzano al Tagliamento",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.183104,
+      "lon": 12.945448,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pinzano-al-tagliamento/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "san-martino-al-tagliamento",
+      "nome": "San Martino al Tagliamento",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.020829,
+      "lon": 12.863761,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-martino-al-tagliamento/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "travesio",
+      "nome": "Travesio",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.196536,
+      "lon": 12.870994,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/travesio/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "vajont",
+      "nome": "Vajont",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.146136,
+      "lon": 12.697447,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vajont/zona-unica.json",
+          "valido_al": "2028-02-29"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -19069,6 +19239,11 @@
       "gestore": "CEM Ambiente",
       "ecocentri": "ecocentri/cem-ambiente.json",
       "regole": "regole/cem-ambiente.json"
+    },
+    "ambiente-servizi": {
+      "nome": "Ambiente Servizi",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "ecocentri": "ecocentri/ambiente-servizi.json"
     }
   },
   "tipi_en": {
