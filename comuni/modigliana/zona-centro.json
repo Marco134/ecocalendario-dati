@@ -1,0 +1,100 @@
+{
+  "schema": 1,
+  "comune": "Modigliana",
+  "provincia": "FC",
+  "gestore": "Alea Ambiente",
+  "zona": "Centro",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esponi i contenitori la sera precedente, secondo gli orari della zona.",
+  "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2025/12/MODIGLIANA-CENTRO.pdf",
+  "note": [
+    "La raccolta del vegetale è un servizio dedicato con tariffa. Consultare il calendario ufficiale per i turni.",
+    "Per identificare la propria zona consultare la fattura Alea e il calendario del gestore.",
+    "Il vetro domestico va nelle campane stradali."
+  ],
+  "raccolte": {
+    "2026-12-01": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-02": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-05": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-09": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-10": [
+      "organico"
+    ],
+    "2026-12-12": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-15": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-16": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-19": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-22": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-23": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-11-24": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-24": [
+      "organico"
+    ],
+    "2026-11-25": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-11-26": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "organico",
+      "plastica"
+    ],
+    "2026-11-28": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-30": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  }
+}

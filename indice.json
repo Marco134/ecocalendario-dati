@@ -20840,6 +20840,498 @@
           "valido_al": "2027-10-31"
         }
       ]
+    },
+    {
+      "id": "bertinoro",
+      "nome": "Bertinoro",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.148665,
+      "lon": 12.134235,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/bertinoro/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/bertinoro/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/bertinoro/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura Urbana",
+          "file": "comuni/bertinoro/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castrocaro-terme-e-terra-del-sole",
+      "nome": "Castrocaro Terme e Terra del Sole",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.182365,
+      "lon": 11.955631,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/castrocaro-terme-e-terra-del-sole/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/castrocaro-terme-e-terra-del-sole/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/castrocaro-terme-e-terra-del-sole/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/castrocaro-terme-e-terra-del-sole/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "civitella-di-romagna",
+      "nome": "Civitella di Romagna",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.007171,
+      "lon": 11.941346,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "cintura-urbana-1",
+          "nome": "Cintura urbana 1",
+          "file": "comuni/civitella-di-romagna/zona-cintura-urbana-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-2",
+          "nome": "Cintura urbana 2",
+          "file": "comuni/civitella-di-romagna/zona-cintura-urbana-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-3",
+          "nome": "Cintura urbana 3",
+          "file": "comuni/civitella-di-romagna/zona-cintura-urbana-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-4",
+          "nome": "Cintura urbana 4",
+          "file": "comuni/civitella-di-romagna/zona-cintura-urbana-4.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "dovadola",
+      "nome": "Dovadola",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.122574,
+      "lon": 11.888255,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/dovadola/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/dovadola/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/dovadola/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "forlimpopoli",
+      "nome": "Forlimpopoli",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.187305,
+      "lon": 12.125906,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/forlimpopoli/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/forlimpopoli/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "forli",
+      "nome": "Forlì",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.222728,
+      "lon": 12.041273,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro Storico",
+          "file": "comuni/forli/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-a",
+          "nome": "Cintura urbana A",
+          "file": "comuni/forli/zona-cintura-urbana-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-b",
+          "nome": "Cintura urbana B",
+          "file": "comuni/forli/zona-cintura-urbana-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-c",
+          "nome": "Cintura urbana C",
+          "file": "comuni/forli/zona-cintura-urbana-c.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-d",
+          "nome": "Cintura urbana D",
+          "file": "comuni/forli/zona-cintura-urbana-d.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "galeata",
+      "nome": "Galeata",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 43.996663,
+      "lon": 11.912006,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-1a",
+          "nome": "Case sparse 1A",
+          "file": "comuni/galeata/zona-case-sparse-1a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-1b",
+          "nome": "Case sparse 1B",
+          "file": "comuni/galeata/zona-case-sparse-1b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-2a",
+          "nome": "Case sparse 2A",
+          "file": "comuni/galeata/zona-case-sparse-2a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-2b",
+          "nome": "Case sparse 2B",
+          "file": "comuni/galeata/zona-case-sparse-2b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-3a",
+          "nome": "Case sparse 3A",
+          "file": "comuni/galeata/zona-case-sparse-3a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-3b",
+          "nome": "Case sparse 3B",
+          "file": "comuni/galeata/zona-case-sparse-3b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-4a",
+          "nome": "Case sparse 4A",
+          "file": "comuni/galeata/zona-case-sparse-4a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-4b",
+          "nome": "Case sparse 4B",
+          "file": "comuni/galeata/zona-case-sparse-4b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-1",
+          "nome": "Cintura urbana 1",
+          "file": "comuni/galeata/zona-cintura-urbana-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-2",
+          "nome": "Cintura urbana 2",
+          "file": "comuni/galeata/zona-cintura-urbana-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-3",
+          "nome": "Cintura urbana 3",
+          "file": "comuni/galeata/zona-cintura-urbana-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-4",
+          "nome": "Cintura urbana 4",
+          "file": "comuni/galeata/zona-cintura-urbana-4.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "meldola",
+      "nome": "Meldola",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.126721,
+      "lon": 12.061153,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "centro-urbano-raccolta-serale",
+          "nome": "Centro urbano · raccolta serale",
+          "file": "comuni/meldola/zona-centro-urbano-raccolta-serale.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-1",
+          "nome": "Cintura urbana 1",
+          "file": "comuni/meldola/zona-cintura-urbana-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-2",
+          "nome": "Cintura urbana 2",
+          "file": "comuni/meldola/zona-cintura-urbana-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-3",
+          "nome": "Cintura urbana 3",
+          "file": "comuni/meldola/zona-cintura-urbana-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana-4",
+          "nome": "Cintura urbana 4",
+          "file": "comuni/meldola/zona-cintura-urbana-4.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "modigliana",
+      "nome": "Modigliana",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.161163,
+      "lon": 11.793528,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/modigliana/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/modigliana/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/modigliana/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/modigliana/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "portico-e-san-benedetto",
+      "nome": "Portico e San Benedetto",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.003714,
+      "lon": 11.720184,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/portico-e-san-benedetto/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/portico-e-san-benedetto/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/portico-e-san-benedetto/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "predappio",
+      "nome": "Predappio",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.102215,
+      "lon": 11.98162,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/predappio/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/predappio/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/predappio/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rocca-san-casciano",
+      "nome": "Rocca San Casciano",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.059096,
+      "lon": 11.842061,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/rocca-san-casciano/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/rocca-san-casciano/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/rocca-san-casciano/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/rocca-san-casciano/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "tredozio",
+      "nome": "Tredozio",
+      "provincia": "FC",
+      "gestore": "Alea Ambiente",
+      "consorzio": "alea-ambiente",
+      "lat": 44.081042,
+      "lon": 11.744208,
+      "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+      "zone": [
+        {
+          "id": "case-sparse-a",
+          "nome": "Case sparse A",
+          "file": "comuni/tredozio/zona-case-sparse-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-b",
+          "nome": "Case sparse B",
+          "file": "comuni/tredozio/zona-case-sparse-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cintura-urbana",
+          "nome": "Cintura urbana",
+          "file": "comuni/tredozio/zona-cintura-urbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -21024,6 +21516,12 @@
       "gestore": "Cosir S.r.l.",
       "ecocentri": "ecocentri/cosir-marmilla.json",
       "regole": "regole/cosir-marmilla.json"
+    },
+    "alea-ambiente": {
+      "nome": "Alea Ambiente",
+      "gestore": "Alea Ambiente",
+      "ecocentri": "ecocentri/alea-ambiente.json",
+      "regole": "regole/alea-ambiente.json"
     }
   },
   "tipi_en": {

@@ -4082,6 +4082,40 @@
         "Up to 5 items per collection. Up to 3 collections per household per year are free.",
         "Book up to 5 bundles of garden waste and follow the operator’s preparation instructions."
       ]
+    },
+    {
+      "id": "alea-ambiente",
+      "nome": "Alea Ambiente",
+      "comuni": [
+        "bertinoro",
+        "castrocaro-terme-e-terra-del-sole",
+        "civitella-di-romagna",
+        "dovadola",
+        "forli",
+        "forlimpopoli",
+        "galeata",
+        "meldola",
+        "modigliana",
+        "portico-e-san-benedetto",
+        "predappio",
+        "rocca-san-casciano",
+        "tredozio"
+      ],
+      "gestori": [],
+      "telefono": "800 689 898",
+      "orari": "Lun–ven 08:30–18:00, sab 08:30–13:00, esclusi i festivi",
+      "prenota_url": "https://www.alea-ambiente.it/ingombranti/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.alea-ambiente.it/ingombranti/ | https://www.alea-ambiente.it/wp-content/uploads/2026/10/Tariffe-2026.pdf",
+      "regole": [
+        "Conferimento gratuito degli ingombranti ammessi agli ecocentri.",
+        "Il ritiro domestico a domicilio è opzionale, a pagamento e su richiesta, fino a 6 pezzi. Consultare i materiali ammessi direttamente sul sito Alea."
+      ],
+      "regole_en": [
+        "Accepted bulky waste can be dropped off at recycling centres free of charge.",
+        "Optional paid home collection is available by request for up to 6 items. Check the operator’s website for accepted materials."
+      ]
     }
   ]
 }

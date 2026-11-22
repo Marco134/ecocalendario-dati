@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "nome": "Alea Ambiente",
+  "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/vocabolario-dei-rifiuti/ | https://www.alea-ambiente.it/wp-content/uploads/2021/12/dizionario-rifiuti-Alea-2022-def.pdf | https://www.alea-ambiente.it/alea-ambiente-informa-capsule-del-caffe-nuove-regole-da-agosto/ | https://www.alea-ambiente.it/comunicazione/campagna-di-sensibilizzazione-smaltimento-plastica/",
+  "voci": {
+    "tetrapak (cartoni di latte e succhi)": {
+      "dove": "carta",
+      "nota": "Con carta e cartone.",
+      "nota_en": "Put with paper and cardboard."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "Con gli imballaggi in plastica e lattine.",
+      "nota_en": "Put with plastic packaging and cans."
+    },
+    "carta stagnola e vaschette di alluminio": {
+      "dove": "plastica",
+      "nota": "Con gli imballaggi in plastica e lattine.",
+      "nota_en": "Put with plastic packaging and cans."
+    },
+    "capsule di caffè in plastica o alluminio": {
+      "dove": "plastica",
+      "nota": "Dal 12 agosto 2026 anche con residui di caffè. Le capsule compostabili vanno nell’umido e quelle in alluminio si possono portare agli ecocentri.",
+      "nota_en": "From 12 August 2026, including capsules with coffee grounds. Compostable capsules go in food waste. Aluminium capsules can also go to a recycling centre."
+    },
+    "giocattoli rotti senza pile": {
+      "dove": "indifferenziato",
+      "nota": "Con il secco o, se ingombranti, all’ecocentro.",
+      "nota_en": "Put small items in residual waste. Take large items to a recycling centre."
+    },
+    "specchi": {
+      "dove": "indifferenziato",
+      "nota": "I frammenti vanno nel secco. Portare gli specchi interi all’ecocentro.",
+      "nota_en": "Put broken pieces in residual waste. Take whole mirrors to a recycling centre."
+    }
+  },
+  "extra": [
+    {
+      "nome": "cialde e capsule di caffè compostabili",
+      "nome_en": "compostable coffee pods and capsules",
+      "dove": "organico",
+      "nota": "Conferire nell’umido.",
+      "nota_en": "Put in food waste."
+    }
+  ],
+  "tipi": {
+    "plastica": {
+      "nome": "Plastica e lattine",
+      "nome_en": "Plastic packaging and cans"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-22, vocabolario e aggiornamento sulle capsule del caffè"
+  }
+}

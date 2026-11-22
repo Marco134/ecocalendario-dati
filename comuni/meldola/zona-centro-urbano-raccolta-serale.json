@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "comune": "Meldola",
+  "provincia": "FC",
+  "gestore": "Alea Ambiente",
+  "zona": "Centro urbano · raccolta serale",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre il giorno stesso entro le 21:00.",
+  "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2026/08/MELDOLA-CENTRO-SERALE.pdf",
+  "note": [
+    "La raccolta del vegetale è un servizio dedicato con tariffa. Consultare il calendario ufficiale per i turni.",
+    "Per identificare la propria zona consultare la fattura Alea e il calendario del gestore.",
+    "Sperimentazione attiva dal 31 agosto 2026. Il 25 dicembre la raccolta è prevista nel calendario serale."
+  ],
+  "raccolte": {
+    "2026-12-01": [
+      "carta"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "indifferenziato",
+      "vetro"
+    ],
+    "2026-12-04": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-07": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "carta",
+      "organico",
+      "plastica"
+    ],
+    "2026-12-14": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-15": [
+      "carta"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "indifferenziato",
+      "vetro"
+    ],
+    "2026-12-18": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-21": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-22": [
+      "carta"
+    ],
+    "2026-11-23": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "carta"
+    ],
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-12-25": [
+      "indifferenziato",
+      "organico",
+      "plastica"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-28": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-29": [
+      "carta"
+    ],
+    "2026-11-30": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-30": [
+      "organico"
+    ]
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-11",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-08"
+    }
+  ]
+}
