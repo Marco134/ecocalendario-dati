@@ -740,6 +740,166 @@
       "lat": 46.107039978787,
       "lon": 12.877358070481,
       "fonte": "https://www.ambienteservizi.net/comuni/spilimbergo"
+    },
+    {
+      "id": "ambiente-servizi-fontanafredda",
+      "tipo": "raccolta",
+      "comune": "Fontanafredda",
+      "indirizzo": "Via La Croce",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze del comune. Festività nazionali escluse. La consegna dei contenitori si effettua il sabato con il modulo comunale.",
+      "lat": 45.972698314299,
+      "lon": 12.517797818875,
+      "fonte": "https://www.ambienteservizi.net/comuni/fontanafredda"
+    },
+    {
+      "id": "ambiente-servizi-sacile",
+      "tipo": "raccolta",
+      "comune": "Sacile",
+      "indirizzo": "Strada interna San Giovanni di Livenza",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze del comune. Festività nazionali escluse. Orario in ora solare. In ora legale lunedì, mercoledì e venerdì 14:30–18:00, sabato 09:00–12:00 e 14:30–18:00.",
+      "lat": 45.925106349543,
+      "lon": 12.523636221886,
+      "fonte": "https://www.ambienteservizi.net/comuni/sacile"
+    },
+    {
+      "id": "ambiente-servizi-san-vito-al-tagliamento",
+      "tipo": "raccolta",
+      "comune": "San Vito al Tagliamento",
+      "indirizzo": "Via Zuccherificio",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "17:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze del comune. Festività nazionali escluse. Orario in ora solare. In ora legale lunedì e sabato 09:00–12:30 e 14:00–18:00, martedì, giovedì e venerdì 09:00–12:30, mercoledì 14:00–18:00. I pannelli fotovoltaici si conferiscono su prenotazione.",
+      "lat": 45.907748527123,
+      "lon": 12.850323915482,
+      "fonte": "https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento"
+    },
+    {
+      "id": "ambiente-servizi-san-vito-al-tagliamento-gleris",
+      "tipo": "raccolta",
+      "comune": "San Vito al Tagliamento",
+      "indirizzo": "Via Vissignano, Gleris",
+      "per": "domestiche",
+      "orari": {
+        "4": [
+          [
+            "14:00",
+            "16:30"
+          ]
+        ],
+        "6": [
+          [
+            "10:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze del comune. Festività nazionali escluse. Orario in ora solare. In ora legale giovedì 15:00–17:30, sabato 10:30–12:30 e 14:00–18:30. Ammessi ingombranti, legno, metalli, verde e ramaglie, vetro.",
+      "lat": 45.892881,
+      "lon": 12.872692,
+      "fonte": "https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SAN%20VITO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf?t=1776944482 | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142"
     }
   ]
 }

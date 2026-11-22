@@ -1,0 +1,348 @@
+{
+  "schema": 1,
+  "comune": "San Vito al Tagliamento",
+  "provincia": "PN",
+  "gestore": "Ambiente Servizi S.p.A.",
+  "zona": "Centro storico entro le fosse e vie indicate",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2028-02-29",
+  "esposizione": "Esporre contenitori e sacchi dopo le 20:00 della sera precedente il ritiro.",
+  "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20San%20Vito%20al%20Tagliamento%202026.pdf?t=1795256142 | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142 | https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento | https://ambienteservizi.net/sites/default/files/allegati/San%20Vito_24_0.pdf",
+  "note": [
+    "Consultare la legenda nel calendario per individuare la zona corretta.",
+    "Organico e vetro domestici nei contenitori stradali. Il verde richiede prenotazione entro le 13 del venerdì precedente.",
+    "Comprende Piazza Mercato, Via Falcon Vial, Via Freschi, Via Moro, Via Patriarcato, Via Roma e Via Stazione. Secco, carta e plastica si ritirano ogni giovedì come da legenda e Carta della qualità."
+  ],
+  "raccolte": {
+    "2026-11-26": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2026-12-03": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-10": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2026-12-17": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-24": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2026-12-31": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-01-07": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-01-14": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-01-21": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-01-28": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-02-04": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-02-11": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-02-18": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-02-25": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-03-04": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-03-11": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-03-18": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-03-25": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-04-01": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-04-08": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-04-15": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-04-22": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-04-29": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-05-06": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-05-13": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-05-20": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-05-27": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-06-03": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-06-10": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-06-17": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-06-24": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-07-01": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-07-08": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-07-15": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-07-22": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-07-29": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-08-05": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-08-12": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-08-19": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-08-26": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-09-02": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-09-09": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-09-16": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-09-23": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-09-30": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-10-07": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-10-14": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-10-21": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-10-28": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-11-04": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-11-11": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-11-18": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-11-25": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-12-02": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-12-09": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-12-16": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2027-12-23": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2027-12-30": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2028-01-06": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2028-01-13": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2028-01-20": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2028-01-27": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2028-02-03": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2028-02-10": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ],
+    "2028-02-17": [
+      "indifferenziato",
+      "plastica",
+      "carta"
+    ],
+    "2028-02-24": [
+      "indifferenziato",
+      "carta",
+      "plastica"
+    ]
+  }
+}

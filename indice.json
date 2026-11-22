@@ -19426,6 +19426,93 @@
         }
       ],
       "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Spilimbergo%202027.pdf?t=1795257599"
+    },
+    {
+      "id": "fontanafredda",
+      "nome": "Fontanafredda",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.967,
+      "lon": 12.567,
+      "zone": [
+        {
+          "id": "gialla",
+          "nome": "Zona gialla",
+          "file": "comuni/fontanafredda/zona-gialla.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "verde",
+          "nome": "Zona verde",
+          "file": "comuni/fontanafredda/zona-verde.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Fontanafredda%202027.pdf?t=1795257594",
+      "regole": "regole/fontanafredda.json"
+    },
+    {
+      "id": "sacile",
+      "nome": "Sacile",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.9543,
+      "lon": 12.503,
+      "zone": [
+        {
+          "id": "nord",
+          "nome": "Zona Nord",
+          "file": "comuni/sacile/zona-nord.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "sud",
+          "nome": "Zona Sud",
+          "file": "comuni/sacile/zona-sud.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "centro",
+          "nome": "Zona Centro",
+          "file": "comuni/sacile/zona-centro.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sacile%202027.pdf?t=1795255285",
+      "regole": "regole/sacile.json"
+    },
+    {
+      "id": "san-vito-al-tagliamento",
+      "nome": "San Vito al Tagliamento",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.9,
+      "lon": 12.867,
+      "zone": [
+        {
+          "id": "san-vito-prodolone",
+          "nome": "San Vito e Prodolone",
+          "file": "comuni/san-vito-al-tagliamento/zona-san-vito-prodolone.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Carbona, Gleris, Ligugnana, Rosa, Savorgnano, Zone Comunali, ZIPR e Via Capitello",
+          "file": "comuni/san-vito-al-tagliamento/zona-frazioni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico entro le fosse e vie indicate",
+          "file": "comuni/san-vito-al-tagliamento/zona-centro-storico.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142",
+      "regole": "regole/san-vito-al-tagliamento.json"
     }
   ],
   "consorzi": {

@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "nome": "Ambiente Servizi – San Vito al Tagliamento",
+  "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142",
+  "voci": {
+    "tetrapak (cartoni di latte e succhi)": {
+      "dove": "carta",
+      "nota": "Con carta e cartone.",
+      "nota_en": "With paper and cardboard."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "Con gli imballaggi in plastica, acciaio e alluminio.",
+      "nota_en": "With plastic, steel and aluminium packaging."
+    },
+    "tappi di plastica": {
+      "dove": "plastica",
+      "nota": "Con gli imballaggi in plastica, acciaio e alluminio.",
+      "nota_en": "With plastic, steel and aluminium packaging."
+    },
+    "cristallo": {
+      "dove": "indifferenziato",
+      "nota": "Nel secco residuo.",
+      "nota_en": "In residual waste."
+    },
+    "ceramica e porcellana rotte": {
+      "dove": "indifferenziato",
+      "nota": "Piccoli oggetti nel secco residuo. Il centro di raccolta accetta piccole quantità di inerti.",
+      "nota_en": "Put small items in residual waste. The recycling centre accepts small quantities of rubble."
+    },
+    "capsule di caffè in plastica o alluminio": {
+      "dove": "indifferenziato",
+      "nota": "Le capsule usate vanno nel secco. Le capsule in plastica sono accettate anche al centro di raccolta.",
+      "nota_en": "Put used capsules in residual waste. Plastic capsules are also accepted at the recycling centre."
+    }
+  },
+  "extra": [
+    {
+      "nome": "carta da forno",
+      "dove": "indifferenziato",
+      "nota": "Nel secco residuo.",
+      "nome_en": "baking paper",
+      "nota_en": "In residual waste."
+    },
+    {
+      "nome": "gusci di molluschi e crostacei",
+      "dove": "indifferenziato",
+      "nota": "Nel secco residuo.",
+      "nome_en": "mollusc and crustacean shells",
+      "nota_en": "In residual waste."
+    },
+    {
+      "nome": "grucce di plastica o ferro",
+      "dove": "plastica",
+      "nota": "Ammesse con gli imballaggi in plastica, acciaio e alluminio.",
+      "nome_en": "plastic or metal clothes hangers",
+      "nota_en": "Accepted with plastic, steel and aluminium packaging."
+    },
+    {
+      "nome": "piatti e bicchieri di plastica monouso",
+      "dove": "plastica",
+      "nota": "Svuotarli e conferirli con gli imballaggi.",
+      "nome_en": "disposable plastic plates and cups",
+      "nota_en": "Empty before putting them with packaging."
+    },
+    {
+      "nome": "bombolette di imballaggio senza simboli di pericolo",
+      "dove": "plastica",
+      "nota": "Con gli imballaggi in plastica, acciaio e alluminio.",
+      "nome_en": "non-hazardous aerosol packaging",
+      "nota_en": "With plastic, steel and aluminium packaging."
+    },
+    {
+      "nome": "lastre di vetro",
+      "dove": "centro",
+      "nota": "Al centro di raccolta.",
+      "nome_en": "flat glass panes",
+      "nota_en": "Take to a recycling centre."
+    },
+    {
+      "nome": "carta assorbente da cucina",
+      "dove": "organico",
+      "nota": "Con l’umido, in un sacchetto compostabile.",
+      "nome_en": "kitchen paper towels",
+      "nota_en": "With food waste in a compostable bag."
+    }
+  ],
+  "verificato": {
+    "voci": "2026-11-22, guida ufficiale 2027"
+  }
+}

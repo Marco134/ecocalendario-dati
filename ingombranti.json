@@ -3451,6 +3451,63 @@
       "regole_en": [
         "Free home collection every other Friday, subject to booking and availability. Accepted bulky items can be taken to the recycling centre free of charge."
       ]
+    },
+    {
+      "id": "ambiente-servizi-fontanafredda",
+      "nome": "Ambiente Servizi – Fontanafredda",
+      "comuni": [
+        "fontanafredda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/fontanafredda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Fontanafredda%202027.pdf?t=1795257594",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i materiali ammessi. Per richiedere il ritiro a domicilio chiamare il numero verde."
+      ],
+      "regole_en": [
+        "Take accepted bulky waste to the recycling centre free of charge. Call to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-sacile",
+      "nome": "Ambiente Servizi – Sacile",
+      "comuni": [
+        "sacile"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/sacile",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sacile%202027.pdf?t=1795255285",
+      "telefono": "800 774 728",
+      "regole": [
+        "Ritiro a domicilio su prenotazione, massimo 5 pezzi e 3 m³, fino a esaurimento posti. Le date sono indicate con I nel calendario. Conferimento gratuito al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book home collection for up to five items and 3 cubic metres, subject to availability. Dates are marked I in the calendar. Accepted items can be taken to the recycling centre free of charge."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-san-vito-al-tagliamento",
+      "nome": "Ambiente Servizi – San Vito al Tagliamento",
+      "comuni": [
+        "san-vito-al-tagliamento"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i materiali ammessi. Per richiedere il ritiro a domicilio chiamare il numero verde."
+      ],
+      "regole_en": [
+        "Take accepted bulky waste to the recycling centre free of charge. Call to request home collection."
+      ]
     }
   ]
 }
