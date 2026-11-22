@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Eco Calendario · Area del Comune (demo)</title>
+<style>
+  :root {
+    --sfondo:#F1F4F6; --scheda:#FFFFFF; --testo:#1B1F23; --debole:#4A5560; --linea:#E3E7EA;
+    --pannello:#14324A; --chip:#EEF1F4; --okS:#E2F2E8; --okT:#1E6B43; --avvS:#FDEBC4; --avvT:#7A4A00;
+    --arancio:#F59E0B; --navy:#14324A;
+  }
+  :root.scuro {
+    --sfondo:#101B26; --scheda:#182635; --testo:#E4EAF0; --debole:#A9B8C6; --linea:#2A3B4D;
+    --pannello:#1D4263; --chip:#22344A; --okS:#1D3A2E; --okT:#8FD3AE; --avvS:#3A2E12; --avvT:#F6C66B;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--sfondo); color:var(--testo); font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  header { background:var(--pannello); color:#fff; }
+  .barra { max-width:1100px; margin:0 auto; padding:14px 20px; display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+  .logo { width:34px; height:34px; border-radius:9px; background:var(--arancio); display:grid; place-items:center; font-weight:800; color:#1B1F23; }
+  .barra h1 { font-size:18px; margin:0; flex:1; min-width:200px; }
+  .barra select, .barra button { font:inherit; font-size:14px; border-radius:20px; border:1px solid rgba(255,255,255,.35); background:rgba(255,255,255,.1); color:#fff; padding:6px 12px; cursor:pointer; }
+  .barra select option { color:#1B1F23; }
+  main { max-width:1100px; margin:0 auto; padding:20px; display:grid; grid-template-columns:minmax(0,1fr) 380px; gap:24px; }
+  @media (max-width:860px) { main { grid-template-columns:1fr; } }
+  .avviso { grid-column:1/-1; background:var(--chip); color:var(--debole); border-radius:10px; padding:8px 12px; font-size:13px; }
+  .scheda { background:var(--scheda); border:1px solid var(--linea); border-radius:16px; padding:18px; margin-bottom:12px; }
+  h2 { font-size:26px; line-height:1.25; margin:0 0 8px; }
+  h3 { font-size:17px; margin:0 0 6px; }
+  .debole { color:var(--debole); }
+  .tit { font-size:12px; font-weight:700; letter-spacing:.6px; color:var(--debole); margin:22px 0 8px; text-transform:uppercase; }
+  .btn { display:block; width:100%; border-radius:999px; font:inherit; font-weight:700; padding:13px 18px; cursor:pointer; border:0; background:var(--arancio); color:#1B1F23; margin-top:10px; }
+  .btn.sec { background:transparent; color:var(--testo); border:1px solid var(--linea); font-weight:600; }
+  .btn:disabled { opacity:.45; cursor:not-allowed; }
+  .etichetta { display:inline-block; border-radius:20px; padding:5px 12px; font-weight:700; font-size:14px; margin-bottom:10px; }
+  .ok { background:var(--okS); color:var(--okT); }
+  .avv { background:var(--avvS); color:var(--avvT); }
+  .riga { display:flex; align-items:center; gap:10px; padding:4px 0; }
+  .bidone { width:22px; height:22px; border-radius:6px; flex:none; }
+  .giorno { background:var(--sfondo); border-radius:12px; padding:10px 12px; margin-bottom:8px; border:2px solid transparent; }
+  .giorno.spostato { border-color:var(--arancio); }
+  .giorno b { display:block; margin-bottom:4px; }
+  label.scelta { display:flex; gap:10px; align-items:flex-start; padding:9px 10px; border-radius:10px; cursor:pointer; }
+  label.scelta:hover { background:var(--chip); }
+  input[type=date] { font:inherit; padding:9px 12px; border-radius:10px; border:1px solid var(--linea); background:var(--scheda); color:var(--testo); width:100%; margin-top:8px; }
+  .storico { display:flex; justify-content:space-between; gap:10px; align-items:center; }
+  .link { background:none; border:0; color:var(--arancio); font:inherit; font-weight:700; cursor:pointer; }
+  .testo { background:var(--sfondo); border-radius:10px; padding:12px; }
+  .toast { position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:var(--pannello); color:#fff; padding:12px 18px; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.25); display:none; max-width:90vw; }
+  .telefono { border:8px solid var(--pannello); border-radius:28px; padding:14px; background:var(--scheda); }
+</style>
+</head>
+<body>
+<header>
+  <div class="barra">
+    <div class="logo">E</div>
+    <h1 id="titolo">Area del Comune</h1>
+    <select id="scegliComune" aria-label="Comune"></select>
+    <button id="tema" type="button">Tema</button>
+  </div>
+</header>
+<main>
+  <div class="avviso">Demo dell'area del Comune: le modifiche restano solo in questo browser e non arrivano ai cittadini.</div>
+  <section id="sinistra"><p class="debole">Caricamento…</p></section>
+  <aside id="destra"></aside>
+</main>
+<div class="toast" id="toast"></div>
+<input type="file" id="file" accept="application/pdf,image/*" hidden>
+<script>
+const BASE = './';
+const NOMI = { organico:'organico', carta:'carta', vetro:'vetro', plastica:'plastica', indifferenziato:'indifferenziato', sfalci:'sfalci', lattine:'lattine' };
+const COLORI = { organico:'#8B5E3C', carta:'#E0A800', vetro:'#1F6FB2', plastica:'#2AA7DF', indifferenziato:'#6B7280', sfalci:'#3A9B4B', lattine:'#8A939E' };
+const MESI = ['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'];
+const GIORNI = ['domenica','lunedì','martedì','mercoledì','giovedì','venerdì','sabato'];
+
+const st = { indice:null, comune:null, zone:[], dati:{}, passo:'home', documenti:[], dubbi:[], ok:[], risposte:{}, da:null, tipo:null, zoneSposta:new Set(), a:null, ultima:null };
+
+// ---------- archivio locale (con protezione se il browser lo blocca) ----------
+function leggi(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } }
+function scrivi(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+const kDoc = () => 'eco_comune_doc_' + st.comune.id;
+const kVar = () => 'eco_comune_var_' + st.comune.id;
+
+// ---------- tema: segue il sistema, il pulsante lo cambia ----------
+const sistemaScuro = matchMedia('(prefers-color-scheme: dark)');
+function applicaTema() {
+  const scelto = leggi('eco_tema', null);
+  const scuro = scelto ? scelto === 'scuro' : sistemaScuro.matches;
+  document.documentElement.classList.toggle('scuro', scuro);
+  document.getElementById('tema').textContent = scuro ? '☀ Tema chiaro' : '☾ Tema scuro';
+}
+document.getElementById('tema').onclick = () => {
+  scrivi('eco_tema', document.documentElement.classList.contains('scuro') ? 'chiaro' : 'scuro');
+  applicaTema();
+};
+sistemaScuro.addEventListener('change', applicaTema);
+applicaTema();
+
+// ---------- utilità ----------
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const chiave = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+const daChiave = k => { const [a,m,g] = k.split('-').map(Number); return new Date(a, m-1, g); };
+const dataLunga = k => { const d = daChiave(k); return `${GIORNI[d.getDay()]} ${d.getDate()} ${MESI[d.getMonth()]}`; };
+const dataAnno = k => { const d = daChiave(k); return `${d.getDate()} ${MESI[d.getMonth()]} ${d.getFullYear()}`; };
+const maiusc = s => s ? s[0].toUpperCase() + s.slice(1) : s;
+const nome = t => NOMI[t] || t;
+const nomeZona = id => (st.zone.find(z => z.id === id) || {nome:id}).nome;
+const dove = ids => (st.zone.length <= 1 || ids.length === st.zone.length) ? 'in tutto il Comune' : ids.map(nomeZona).join(', ');
+const oggi = chiave(new Date());
+function toast(t) { const e = document.getElementById('toast'); e.textContent = t; e.style.display = 'block'; clearTimeout(toast.t); toast.t = setTimeout(() => e.style.display = 'none', 3500); }
+
+function festivita(anno) {
+  const a = anno % 19, b = Math.floor(anno/100), c = anno % 100, d = Math.floor(b/4), e = b % 4;
+  const f = Math.floor((b+8)/25), g = Math.floor((b-f+1)/3), h = (19*a+b-d-g+15) % 30;
+  const i = Math.floor(c/4), k = c % 4, l = (32+2*e+2*i-h-k) % 7, m = Math.floor((a+11*h+22*l)/451);
+  const mese = Math.floor((h+l-7*m+114)/31), giorno = ((h+l-7*m+114) % 31) + 1;
+  const p = new Date(anno, mese-1, giorno), pp = new Date(anno, mese-1, giorno+1);
+  const r = {}; const s = (mm, gg, n) => r[chiave(new Date(anno, mm-1, gg))] = n;
+  s(1,1,'Capodanno'); s(1,6,'Epifania'); s(4,25,'Festa della Liberazione'); s(5,1,'Festa del lavoro'); s(6,2,'Festa della Repubblica');
+  s(8,15,'Ferragosto'); s(11,1,'Ognissanti'); s(12,8,'Immacolata'); s(12,25,'Natale'); s(12,26,'Santo Stefano');
+  r[chiave(p)] = 'Pasqua'; r[chiave(pp)] = 'Pasquetta';
+  return r;
+}
+
+// ---------- dati ----------
+async function scarica(f) { const r = await fetch(BASE + f, {cache:'no-cache'}); if (!r.ok) throw new Error(f); return r.json(); }
+
+function conVariazioni(dati, zona) {
+  const vv = leggi(kVar(), []).filter(v => v.zone.includes(zona));
+  if (!vv.length) return dati;
+  const c = JSON.parse(JSON.stringify(dati));
+  c.eccezioni = c.eccezioni || [];
+  for (const v of vv) {
+    const prima = c.raccolte[v.da] || [];
+    if (!prima.includes(v.raccolta)) continue;
+    const resto = prima.filter(x => x !== v.raccolta);
+    if (resto.length) c.raccolte[v.da] = resto; else delete c.raccolte[v.da];
+    const dopo = c.raccolte[v.a] || [];
+    if (!dopo.includes(v.raccolta)) dopo.push(v.raccolta);
+    c.raccolte[v.a] = dopo;
+    c.eccezioni.push({data:v.a, tipo:'spostato', raccolta:v.raccolta, da:v.da});
+  }
+  return c;
+}
+
+async function caricaZone() {
+  st.dati = {};
+  await Promise.all(st.zone.map(async z => {
+    try { st.dati[z.id] = conVariazioni(await scarica(z.file), z.id); } catch {}
+  }));
+}
+
+/** giorno -> raccolta -> zone */
+function comuneIntero() {
+  const r = {};
+  for (const z of st.zone) {
+    const d = st.dati[z.id]; if (!d) continue;
+    for (const [g, tt] of Object.entries(d.raccolte)) for (const t of tt) ((r[g] ??= {})[t] ??= []).push(z.id);
+  }
+  return Object.fromEntries(Object.entries(r).sort(([a],[b]) => a.localeCompare(b)));
+}
+function spostati() {
+  const s = new Set();
+  for (const d of Object.values(st.dati)) for (const e of d.eccezioni || []) if (e.tipo === 'spostato') s.add(e.data);
+  return s;
+}
+
+function analizza() {
+  st.ok = []; st.dubbi = []; st.risposte = {};
+  const dd = Object.values(st.dati); if (!dd.length) return;
+  const al = dd.map(d => d.valido_al).sort()[0];
+  const dal = dd.map(d => d.valido_dal).filter(Boolean).sort().pop();
+  st.ok.push(`Valido ${dal ? 'dal ' + dataAnno(dal) + ' ' : ''}al ${dataAnno(al)}`);
+  st.ok.push(st.zone.length === 1 ? 'Una sola zona nel Comune' : `${st.zone.length} zone nel Comune, tutte controllate`);
+  const tutto = comuneIntero();
+  st.ok.push(`${Object.keys(tutto).length} giorni di raccolta letti, nessuna data fuori periodo`);
+  for (const [g, rr] of Object.entries(tutto)) {
+    if (g < oggi) continue;
+    const f = festivita(+g.slice(0,4))[g]; if (!f) continue;
+    for (const [t, zz] of Object.entries(rr)) st.dubbi.push({ chiave:g+'|'+t, data:g, testo:`Il ${dataAnno(g)} (${f}) è indicato il ritiro ${nome(t)} ${dove(zz)}. È corretto?` });
+  }
+  if (!st.dubbi.length) st.ok.push('Nessun ritiro nei giorni festivi');
+}
+
+// ---------- azioni ----------
+const file = document.getElementById('file');
+file.onchange = () => { const f = file.files[0]; if (f) aggiungiDocumento(`${f.name} (${Math.round(f.size/1024)} KB)`); file.value = ''; };
+
+function aggiungiDocumento(n) {
+  const ora = new Date();
+  st.documenti.unshift({ nome:n, ricevuto:`${String(ora.getHours()).padStart(2,'0')}:${String(ora.getMinutes()).padStart(2,'0')}`, stato:'in verifica' });
+  scrivi(kDoc(), st.documenti); disegna();
+  setTimeout(() => { analizza(); st.documenti[0].stato = st.dubbi.length ? 'da chiarire' : 'pronto'; scrivi(kDoc(), st.documenti); disegna(); }, 2000);
+}
+
+async function pubblica() {
+  const v = { zone:[...st.zoneSposta].sort(), da:st.da, a:st.a, raccolta:st.tipo, quando:new Date().toISOString().slice(0,16).replace('T',' ') };
+  scrivi(kVar(), [...leggi(kVar(), []), v]);
+  await caricaZone();
+  st.ultima = v; st.passo = 'fatto';
+  toast(`Avviso inviato: ${maiusc(nome(v.raccolta))} del ${dataAnno(v.da)} passa a ${dataAnno(v.a)} (${dove(v.zone)}).`);
+  disegna();
+}
+
+async function annulla(i) {
+  const tutte = leggi(kVar(), []); tutte.splice(i, 1); scrivi(kVar(), tutte);
+  await caricaZone(); disegna();
+}
+
+// ---------- interfaccia ----------
+function anteprima() {
+  const sp = spostati();
+  const pross = Object.entries(comuneIntero()).filter(([g]) => g >= oggi).slice(0, 7);
+  return `<div class="telefono"><h3>Prossimi ritiri nel Comune</h3><p class="debole" style="margin:0 0 10px;font-size:14px">Così li vedono i cittadini nell'app.</p>` +
+    pross.map(([g, rr]) => `<div class="giorno ${sp.has(g) ? 'spostato' : ''}"><b>${esc(maiusc(dataLunga(g)))}</b>` +
+      Object.entries(rr).map(([t, zz]) => `<div class="riga"><span class="bidone" style="background:${COLORI[t] || '#6B7280'}"></span><span>${esc(maiusc(nome(t)))} · ${esc(dove(zz))}</span></div>`).join('') +
+      `</div>`).join('') + `</div>`;
+}
+
+function home() {
+  const vv = leggi(kVar(), []);
+  return `<h2>Ti è arrivato un calendario o una comunicazione del gestore?</h2>
+    <p class="debole">Caricala qui: la leggiamo noi, controlliamo date e zone e ti avvisiamo quando è pronta da approvare.</p>
+    <button class="btn" data-a="carica">Carica il PDF o la foto del gestore</button>
+    <button class="btn sec" data-a="prova">Prova con il calendario in uso</button>
+    <button class="btn sec" data-a="sposta">Sposta un ritiro (variazione)</button>
+    <div class="tit">I tuoi documenti</div>
+    ${st.documenti.length ? '' : '<p class="debole">Nessun documento caricato.</p>'}
+    ${st.documenti.slice(0,5).map(d => `<div class="scheda"><h3>${esc(d.nome)}</h3><div class="debole">${
+      d.stato === 'in verifica' ? `Ricevuto alle ${d.ricevuto}. Ti avvisiamo quando è pronto da approvare.` :
+      d.stato === 'pronto' ? 'Controllato: tutto in ordine.' : d.stato === 'pubblicato' ? 'Approvato.' : 'Controllato: c\'è una data da chiarire.'}</div>
+      ${d.stato !== 'in verifica' && d.stato !== 'pubblicato' ? '<button class="btn" data-a="anteprima">Vedi anteprima</button>' : ''}</div>`).join('')}
+    ${vv.length ? `<div class="tit">Storico variazioni</div>` + vv.map((v, i) => `<div class="scheda storico"><div><b>${esc(maiusc(nome(v.raccolta)))}: ${dataAnno(v.da)} → ${dataAnno(v.a)}</b><div class="debole" style="font-size:14px">${esc(maiusc(dove(v.zone)))} · pubblicata il ${esc(v.quando)}</div></div><button class="link" data-annulla="${i}">Annulla</button></div>`).reverse().join('') : ''}`;
+}
+
+function verifica() {
+  const aperti = st.dubbi.filter(d => st.risposte[d.chiave] !== 'si');
+  return `<span class="etichetta ${aperti.length ? 'avv' : 'ok'}">${aperti.length ? 'Una domanda per te' : 'Tutto in ordine'}</span>
+    <h2>${aperti.length ? 'Quasi pronto: c\'è una data da chiarire' : 'Pronto da pubblicare'}</h2>
+    <div class="scheda">${st.ok.map(c => `<div class="riga">✓ ${esc(c)}</div>`).join('')}</div>
+    ${st.dubbi.map(d => { const r = st.risposte[d.chiave]; return `<div class="scheda"><h3>${esc(d.testo)}</h3><div class="debole">Ci sembra strano perché è un giorno festivo.</div>
+      ${!r ? `<button class="btn" data-si="${d.chiave}">Sì, confermato dal gestore</button><button class="btn sec" data-no="${d.chiave}">No, da chiarire</button>` :
+        r === 'si' ? '<p class="debole">Confermato.</p>' :
+        r === 'no' ? `<button class="btn sec" data-affida="${d.chiave}">Verificatelo voi col gestore</button>` :
+        '<p class="debole">Affidato a Eco Calendario: questa data resta in verifica.</p>'}</div>`; }).join('')}
+    <button class="btn" data-a="pubblicaDoc">${aperti.length ? 'Pubblica le date già confermate' : 'Pubblica'}</button>`;
+}
+
+function sposta() {
+  const tutto = comuneIntero();
+  const pross = Object.entries(tutto).filter(([g]) => g >= oggi).slice(0, 10);
+  const zz = st.da ? (tutto[st.da]?.[st.tipo] || []) : [];
+  const min = oggi, max = st.da ? chiave(new Date(daChiave(st.da).getTime() + 60*864e5)) : '';
+  return `<h2>Sposta un ritiro</h2><p class="debole">Scegli il ritiro e il nuovo giorno: vale per tutte le zone che lo hanno quel giorno e i cittadini ricevono l'avviso.</p>
+    <div class="scheda">${pross.map(([g, rr]) => Object.entries(rr).map(([t, z]) => `<label class="scelta"><input type="radio" name="r" data-da="${g}" data-t="${t}" ${st.da === g && st.tipo === t ? 'checked' : ''}><span><b>${esc(maiusc(nome(t)))} · ${esc(dataLunga(g))}</b><br><span class="debole" style="font-size:14px">${esc(maiusc(dove(z)))}</span></span></label>`).join('')).join('')}</div>
+    ${zz.length > 1 ? `<div class="tit">Vale per</div><div class="scheda">${zz.map(z => `<label class="scelta"><input type="checkbox" data-z="${z}" ${st.zoneSposta.has(z) ? 'checked' : ''}><span>${esc(nomeZona(z))}</span></label>`).join('')}</div>` : ''}
+    <div class="tit">Nuovo giorno</div>
+    <input type="date" id="nuovo" ${st.da ? '' : 'disabled'} min="${min}" max="${max}" value="${st.a || ''}">
+    <button class="btn" data-a="pubblicaVar" ${st.da && st.a && st.zoneSposta.size ? '' : 'disabled'}>Pubblica e avvisa i cittadini</button>`;
+}
+
+function fatto() {
+  const v = st.ultima, d = v ? dove(v.zone) : 'in tutto il Comune';
+  const testo = v ? `Raccolta rifiuti: il ritiro ${nome(v.raccolta)} del ${dataAnno(v.da)} passa a ${dataAnno(v.a)} (${d}). Le date aggiornate sono sull'app Eco Calendario.`
+    : 'È in vigore il calendario della raccolta rifiuti aggiornato. Le date sono sull\'app Eco Calendario.';
+  const inVer = [...new Set(st.dubbi.filter(x => ['no','affidato'].includes(st.risposte[x.chiave])).map(x => dataAnno(x.data)))];
+  return `<span class="etichetta ok">Fatto</span><h2>Ecco cosa vedono ora i cittadini</h2>
+    <div class="scheda"><h3>Pubblicato ${d === 'in tutto il Comune' ? d : 'per ' + esc(d)}</h3><div class="debole">${v ? 'Già nell\'app. Avviso inviato ai cittadini interessati.' : 'Nessun avviso: per i cittadini non cambia nulla.'}</div>
+    ${inVer.length ? `<p class="debole">In verifica: ${inVer.join(', ')}. L'avviso partirà dopo il chiarimento.</p>` : ''}</div>
+    <div class="scheda"><h3>Testo pronto per il sito del Comune e i social</h3><div class="testo" id="testo">${esc(testo)}</div><button class="btn sec" data-a="copia">Copia il testo</button></div>
+    <button class="btn" data-a="home">Torna all'inizio</button>`;
+}
+
+function disegna() {
+  const sx = document.getElementById('sinistra');
+  if (st.passo !== 'home') sx.innerHTML = `<button class="link" data-a="home" style="margin-bottom:10px">← Indietro</button>`; else sx.innerHTML = '';
+  sx.innerHTML += ({ verifica, sposta, fatto }[st.passo] || home)();
+  document.getElementById('destra').innerHTML = anteprima();
+}
+
+document.getElementById('sinistra').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  const a = b.dataset.a;
+  if (a === 'carica') file.click();
+  else if (a === 'prova') aggiungiDocumento('Calendario in uso nell\'app (prova)');
+  else if (a === 'sposta') { Object.assign(st, { passo:'sposta', da:null, tipo:null, a:null, zoneSposta:new Set() }); disegna(); }
+  else if (a === 'anteprima') { analizza(); st.passo = 'verifica'; disegna(); }
+  else if (a === 'home') { st.passo = 'home'; disegna(); }
+  else if (a === 'pubblicaDoc') { if (st.documenti[0]) st.documenti[0].stato = 'pubblicato'; scrivi(kDoc(), st.documenti); st.ultima = null; st.passo = 'fatto'; disegna(); }
+  else if (a === 'pubblicaVar') pubblica();
+  else if (a === 'copia') { navigator.clipboard?.writeText(document.getElementById('testo').textContent).then(() => toast('Testo copiato'), () => toast('Copia non riuscita: seleziona il testo')); }
+  else if (b.dataset.si) { st.risposte[b.dataset.si] = 'si'; disegna(); }
+  else if (b.dataset.no) { st.risposte[b.dataset.no] = 'no'; disegna(); }
+  else if (b.dataset.affida) {
+    const d = st.dubbi.find(x => x.chiave === b.dataset.affida);
+    location.href = 'mailto:info.ecocalendario@gmail.com?subject=' + encodeURIComponent('Verifica data ' + st.comune.nome) + '&body=' + encodeURIComponent(d.testo);
+    st.risposte[b.dataset.affida] = 'affidato'; disegna();
+  }
+  else if (b.dataset.annulla) annulla(+b.dataset.annulla);
+});
+document.getElementById('sinistra').addEventListener('change', e => {
+  const i = e.target;
+  if (i.name === 'r') { const zz = comuneIntero()[i.dataset.da][i.dataset.t]; Object.assign(st, { da:i.dataset.da, tipo:i.dataset.t, a:null, zoneSposta:new Set(zz) }); disegna(); }
+  else if (i.dataset.z) { i.checked ? st.zoneSposta.add(i.dataset.z) : st.zoneSposta.delete(i.dataset.z); disegna(); }
+  else if (i.id === 'nuovo') { st.a = i.value || null; disegna(); }
+});
+
+async function apriComune(id) {
+  const c = st.indice.comuni.find(x => x.id === id) || st.indice.comuni.find(x => x.id === 'castiglione-torinese') || st.indice.comuni[0];
+  st.comune = c; st.zone = c.zone.filter(z => z.file);
+  document.getElementById('titolo').textContent = 'Comune di ' + c.nome;
+  document.getElementById('scegliComune').value = c.id;
+  document.title = 'Eco Calendario · Comune di ' + c.nome + ' (demo)';
+  history.replaceState(null, '', '?comune=' + encodeURIComponent(c.id));
+  st.documenti = leggi(kDoc(), []); st.passo = 'home'; st.dubbi = []; st.ultima = null;
+  document.getElementById('sinistra').innerHTML = '<p class="debole">Caricamento…</p>';
+  await caricaZone(); disegna();
+}
+
+(async () => {
+  try {
+    st.indice = await scarica('indice.json');
+    const sel = document.getElementById('scegliComune');
+    sel.innerHTML = [...st.indice.comuni].filter(c => (c.zone || []).some(z => z.file)).sort((a,b) => a.nome.localeCompare(b.nome, 'it'))
+      .map(c => `<option value="${esc(c.id)}">${esc(c.nome)}</option>`).join('');
+    sel.onchange = () => apriComune(sel.value);
+    await apriComune(new URLSearchParams(location.search).get('comune'));
+  } catch (e) {
+    document.getElementById('sinistra').innerHTML = '<p>Non riesco a leggere i calendari. Riprova tra poco.</p>';
+  }
+})();
+</script>
+</body>
+</html>
