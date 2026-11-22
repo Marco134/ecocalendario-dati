@@ -1,0 +1,407 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-22",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "numero_verde": "800 847 028",
+  "accesso": "Verificare i materiali ammessi, le condizioni di accesso e gli orari festivi.",
+  "avviso": "Per il residuo al Centro Integrato si applicano le condizioni tariffarie del gestore.",
+  "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato",
+  "centri": [
+    {
+      "id": "dolomiti-trento-integrato",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Centro Integrato, Tangenziale Ovest 11",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "16:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "16:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "16:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "16:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.057466,
+      "lon": 11.110161,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    },
+    {
+      "id": "dolomiti-trento-argentario",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Argentario, Via Pradiscola 22, Martignano",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.085838,
+      "lon": 11.133917,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    },
+    {
+      "id": "dolomiti-trento-bondone",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Bondone–Sopramonte, Strada di Campedél 10",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.080859,
+      "lon": 11.054861,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    },
+    {
+      "id": "dolomiti-trento-gardolo",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Gardolo, Via Martino Aichner 15",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.104047,
+      "lon": 11.101834,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    },
+    {
+      "id": "dolomiti-trento-mattarello",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Mattarello, Via della Gotarda",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.009126,
+      "lon": 11.123942,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    },
+    {
+      "id": "dolomiti-trento-meano",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Meano, Via Bellaria 44/B",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.129955,
+      "lon": 11.121566,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    },
+    {
+      "id": "dolomiti-trento-povo",
+      "tipo": "raccolta",
+      "comune": "Trento",
+      "indirizzo": "Povo–Villazzano, Via Castel di Pietrapiana 8",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "18:15"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "18:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Verificare sul sito del gestore i materiali ammessi e le chiusure festive. Per il residuo domestico si applica l’addebito in tariffa secondo le condizioni del gestore.",
+      "lat": 46.058484,
+      "lon": 11.1495,
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data"
+    }
+  ]
+}

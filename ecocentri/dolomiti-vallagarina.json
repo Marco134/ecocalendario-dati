@@ -132,6 +132,48 @@
       "lat": 45.9192,
       "lon": 11.03548,
       "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf | https://www.comune.villalagarina.tn.it/Vivere-il-Comune/Luoghi/Sede-C.R.M.-Centro-Raccola-Materiali | https://dolomitiambiente.it/it/villa-lagarina/domestica/raccolta-differenziata/centri-raccolta"
+    },
+    {
+      "id": "dolomiti-mori",
+      "tipo": "raccolta",
+      "comune": "Mori",
+      "indirizzo": "SP90, località Bazoera",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ],
+        "5": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:30"
+          ],
+          [
+            "13:30",
+            "17:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Accesso con QR code personale per le utenze autorizzate. Consultare il gestore per le chiusure festive.",
+      "lat": 45.844866,
+      "lon": 10.992556,
+      "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf | https://www.comune.mori.tn.it/Vivere-il-comune/Luoghi/Centro-di-Raccolta-C.R.-di-Mori"
     }
   ]
 }

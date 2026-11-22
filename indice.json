@@ -20293,6 +20293,315 @@
         }
       ],
       "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "brentonico",
+      "nome": "Brentonico",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.818774,
+      "lon": 10.956013,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Brentonico e frazioni",
+          "file": "comuni/brentonico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "folgaria",
+      "nome": "Folgaria",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.914973,
+      "lon": 11.173015,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/folgaria/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "lavarone",
+      "nome": "Lavarone",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.941289,
+      "lon": 11.288638,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/lavarone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "luserna",
+      "nome": "Luserna",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.921665,
+      "lon": 11.32429,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/luserna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "mori",
+      "nome": "Mori",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.852444,
+      "lon": 10.978275,
+      "zone": [
+        {
+          "id": "mori",
+          "nome": "Mori e località del calendario omonimo",
+          "file": "comuni/mori/zona-mori.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "besagno",
+          "nome": "Besagno",
+          "file": "comuni/mori/zona-besagno.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "loppio-val-di-gresta",
+          "nome": "Loppio e Val di Gresta",
+          "file": "comuni/mori/zona-loppio-val-di-gresta.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://dolomitiambiente.it/it/mori/domestica/raccolta-differenziata/calendario-di-raccolta",
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "nogaredo",
+      "nome": "Nogaredo",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.912089,
+      "lon": 11.023046,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/nogaredo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "ronzo-chienis",
+      "nome": "Ronzo-Chienis",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.889597,
+      "lon": 10.950079,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/ronzo-chienis/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "rovereto",
+      "nome": "Rovereto",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-rovereto",
+      "lat": 45.886548,
+      "lon": 11.045237,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A · Lizzana, Mori Ferrovia, Rovereto Sud, Marco, Borgo Sacco e San Giorgio",
+          "file": "comuni/rovereto/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B · Rovereto Centro, Rovereto Nord e Noriglio",
+          "file": "comuni/rovereto/zona-b.json",
+          "valido_al": "2027-01-02"
+        }
+      ],
+      "zone_url": "https://dolomitiambiente.it/it/rovereto/domestica/raccolta-differenziata/calendario-di-raccolta",
+      "regole": "regole/dolomiti-trento-rovereto.json"
+    },
+    {
+      "id": "terragnolo",
+      "nome": "Terragnolo",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.865249,
+      "lon": 11.177422,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/terragnolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "trambileno",
+      "nome": "Trambileno",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.834845,
+      "lon": 11.139211,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/trambileno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "trento",
+      "nome": "Trento",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-trento",
+      "lat": 46.066423,
+      "lon": 11.12576,
+      "zone": [
+        {
+          "id": "argentario",
+          "nome": "Argentario",
+          "file": "comuni/trento/zona-argentario.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "bondone-sardagna",
+          "nome": "Bondone e Sardagna",
+          "file": "comuni/trento/zona-bondone-sardagna.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cristo-re-san-martino",
+          "nome": "Cristo Re e San Martino",
+          "file": "comuni/trento/zona-cristo-re-san-martino.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "piedicastello-solteri-vela-campotrentino",
+          "nome": "Piedicastello, Solteri, Vela, Campotrentino e Centochiavi",
+          "file": "comuni/trento/zona-piedicastello-solteri-vela-campotrentino.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "gardolo-industriale-meano",
+          "nome": "Gardolo zona industriale e Meano",
+          "file": "comuni/trento/zona-gardolo-industriale-meano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "gardolo",
+          "nome": "Gardolo",
+          "file": "comuni/trento/zona-gardolo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "mattarello",
+          "nome": "Mattarello",
+          "file": "comuni/trento/zona-mattarello.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "oltrefersina",
+          "nome": "Oltrefersina",
+          "file": "comuni/trento/zona-oltrefersina.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "povo-villazzano",
+          "nome": "Povo e Villazzano",
+          "file": "comuni/trento/zona-povo-villazzano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "ravina-romagnano",
+          "nome": "Ravina e Romagnano",
+          "file": "comuni/trento/zona-ravina-romagnano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "san-giuseppe-san-chiara",
+          "nome": "San Giuseppe e San Chiara",
+          "file": "comuni/trento/zona-san-giuseppe-san-chiara.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "kofler-casteller",
+          "nome": "Via Kofler e Casteller",
+          "file": "comuni/trento/zona-kofler-casteller.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico-per-via",
+          "nome": "Centro storico · orari per via",
+          "file": "comuni/trento/zona-centro-storico-per-via.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/calendario-di-raccolta",
+      "regole": "regole/dolomiti-trento-rovereto.json"
+    },
+    {
+      "id": "vallarsa",
+      "nome": "Vallarsa",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.803355,
+      "lon": 11.10511,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/vallarsa/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
     }
   ],
   "consorzi": {
@@ -20459,6 +20768,18 @@
       "gestore": "Dolomiti Ambiente S.r.l.",
       "ecocentri": "ecocentri/dolomiti-vallagarina.json",
       "regole": "regole/dolomiti-vallagarina.json"
+    },
+    "dolomiti-trento": {
+      "nome": "Dolomiti Ambiente · Trento",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "ecocentri": "ecocentri/dolomiti-trento.json",
+      "regole": "regole/dolomiti-trento-rovereto.json"
+    },
+    "dolomiti-rovereto": {
+      "nome": "Dolomiti Ambiente · Rovereto",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "ecocentri": "ecocentri/dolomiti-rovereto.json",
+      "regole": "regole/dolomiti-trento-rovereto.json"
     }
   },
   "tipi_en": {

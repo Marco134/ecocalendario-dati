@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "comune": "Trento",
+  "provincia": "TN",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "zona": "Oltrefersina",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_oltrefersina.pdf | https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/calendario-di-raccolta | https://dolomitiambiente.it/it/trento/domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato",
+  "esposizione": "Esporre organico entro le 13:00, carta entro le 13:00, imballaggi leggeri entro le 06:00, residuo entro le 13:00, vetro entro le 13:00.",
+  "note": [
+    "Per il sacco azzurro degli imballaggi, esporre dalle 18:00 della sera precedente alle 06:00 del giorno di raccolta."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico",
+      "carta"
+    ],
+    "2026-11-25": [
+      "plastica"
+    ],
+    "2026-11-26": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-11-30": [
+      "organico",
+      "carta",
+      "vetro"
+    ],
+    "2026-12-02": [
+      "plastica"
+    ],
+    "2026-12-03": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-07": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-09": [
+      "plastica"
+    ],
+    "2026-12-10": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-14": [
+      "organico",
+      "carta",
+      "vetro"
+    ],
+    "2026-12-16": [
+      "plastica"
+    ],
+    "2026-12-17": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-21": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-23": [
+      "plastica"
+    ],
+    "2026-12-24": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico",
+      "carta",
+      "vetro"
+    ],
+    "2026-12-30": [
+      "plastica"
+    ],
+    "2026-12-31": [
+      "organico",
+      "indifferenziato"
+    ]
+  }
+}

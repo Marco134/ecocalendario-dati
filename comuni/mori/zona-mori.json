@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "comune": "Mori",
+  "provincia": "TN",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "zona": "Mori e località del calendario omonimo",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_mori.pdf | https://dolomitiambiente.it/it/mori/domestica/raccolta-differenziata/calendario-di-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf",
+  "esposizione": "Esporre organico entro le 13:00, carta entro le 06:00, imballaggi leggeri entro le 06:00, residuo entro le 13:00.",
+  "note": [
+    "Il vetro da imballaggio va nella campana stradale. Centro di riferimento: Mori, località Bazoera sulla SP90. Portare il QR code personale."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico",
+      "carta"
+    ],
+    "2026-11-25": [
+      "plastica"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-02": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-04": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "plastica"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-16": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-18": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-23": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-30": [
+      "plastica",
+      "indifferenziato"
+    ]
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-08",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    },
+    {
+      "data": "2026-12-08",
+      "tipo": "annullato",
+      "raccolta": "carta"
+    },
+    {
+      "data": "2026-12-25",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    }
+  ]
+}

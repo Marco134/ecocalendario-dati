@@ -3977,7 +3977,17 @@
         "nomi",
         "pomarolo",
         "villa-lagarina",
-        "volano"
+        "volano",
+        "brentonico",
+        "folgaria",
+        "lavarone",
+        "luserna",
+        "mori",
+        "nogaredo",
+        "ronzo-chienis",
+        "terragnolo",
+        "trambileno",
+        "vallarsa"
       ],
       "gestori": [],
       "prenotazione": false,
@@ -3992,6 +4002,48 @@
       "regole_en": [
         "Free home collection for bulky household waste. Book by calling the toll-free number. Also available in towns with a recycling centre.",
         "Bring your personal QR code to the recycling centre and check accepted materials."
+      ]
+    },
+    {
+      "id": "dolomiti-rovereto",
+      "nome": "Dolomiti Ambiente – Rovereto",
+      "comuni": [
+        "rovereto"
+      ],
+      "gestori": [],
+      "prenotazione": false,
+      "prenota_url": "https://dolomitiambiente.it/it/rovereto/domestica/servizi/servizi-a-pagamento",
+      "verificato": "2026-11-22",
+      "fonte": "https://dolomitiambiente.it/it/rovereto/domestica/servizi/servizi-a-pagamento",
+      "telefono": "800 847 028",
+      "regole": [
+        "Gli ingombranti e i RAEE ammessi si possono conferire ai centri di raccolta.",
+        "Per il ritiro a domicilio a pagamento, chiamare il numero verde con il codice cliente in bolletta. Massimo 5 pezzi a prenotazione. Chiedere il costo al momento della prenotazione."
+      ],
+      "regole_en": [
+        "Take accepted bulky and electrical waste to a recycling centre.",
+        "For paid home collection, call the toll-free number with the customer code from your bill. The limit is 5 items per booking. Ask for the fee when booking."
+      ]
+    },
+    {
+      "id": "dolomiti-trento",
+      "nome": "Dolomiti Ambiente – Trento",
+      "comuni": [
+        "trento"
+      ],
+      "gestori": [],
+      "prenotazione": false,
+      "prenota_url": "https://dolomitiambiente.it/it/trento/domestica/servizi/servizi-a-pagamento",
+      "verificato": "2026-11-22",
+      "fonte": "https://dolomitiambiente.it/it/trento/domestica/servizi/servizi-a-pagamento",
+      "telefono": "800 847 028",
+      "regole": [
+        "Gli ingombranti e i RAEE ammessi si possono conferire ai centri di raccolta.",
+        "Per il ritiro a domicilio a pagamento, chiamare il numero verde con il codice cliente in bolletta. Massimo 5 pezzi a prenotazione. Chiedere il costo al momento della prenotazione."
+      ],
+      "regole_en": [
+        "Take accepted bulky and electrical waste to a recycling centre.",
+        "For paid home collection, call the toll-free number with the customer code from your bill. The limit is 5 items per booking. Ask for the fee when booking."
       ]
     }
   ]
