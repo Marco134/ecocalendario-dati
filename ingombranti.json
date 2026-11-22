@@ -678,6 +678,25 @@
       "fonte": "contarina.it – EcoCentro e Contatti"
     },
     {
+      "id": "silea-cassina-valsassina",
+      "nome": "Silea S.p.A. – Cassina Valsassina",
+      "gestori": [],
+      "comuni": [
+        "cassina-valsassina"
+      ],
+      "telefono": "800004590",
+      "fonte": "https://www.sileaspa.it/wp-content/uploads/2026/08/Cassina-ecocalendario26_web-2.pdf | https://www.sileaspa.it/raccolte-differenziate/ritiro-ingombranti-a-domicilio/",
+      "verificato": "2026-11-22",
+      "regole": [
+        "Ritiro comunale gratuito per ingombranti fino a 2 m³ e 5 pezzi nei giorni del calendario. Oltre queste soglie occorre prenotare al numero verde.",
+        "Per i ritiri in giorni diversi è disponibile il servizio a pagamento. Per grandi RAEE il gestore indica il ritiro gratuito su chiamata."
+      ],
+      "regole_en": [
+        "Free municipal collection of up to five items and 2 m³ on the printed dates. Call Silea for larger loads.",
+        "Paid pickup is available on other days. Free collection of large electrical appliances is available on request."
+      ]
+    },
+    {
       "prenota_url": null,
       "account": null,
       "account_en": null,
