@@ -4148,6 +4148,35 @@
         "Book free drop-off for household bulky or electrical waste at your assigned recycling centre. Bring an identity document.",
         "Residents over 75 or with a disability can request home collection online. Attach the required documents."
       ]
+    },
+    {
+      "id": "aset",
+      "nome": "ASET · Ingombranti",
+      "comuni": [
+        "cartoceto",
+        "isola-del-piano",
+        "monte-porzio",
+        "montefelcino",
+        "san-costanzo",
+        "santippolito"
+      ],
+      "gestori": [],
+      "prenotazione": false,
+      "prenota_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/raccolta-rifiuti-ingombranti/",
+      "telefono": "800 997 474",
+      "orari": "Lun–ven 08:00–20:00, sab 08:00–13:00",
+      "regole": [
+        "Prenota il ritiro. Per le utenze TARI è gratuito entro 6 pezzi e 2 m³ a ritiro.",
+        "Si possono prenotare fino a 3 ritiri gratuiti di ingombranti e 3 di sfalci o potature all’anno, a distanza di almeno 4 mesi tra ritiri della stessa tipologia.",
+        "Al ritiro degli ingombranti si possono aggiungere fino a 3 piccoli RAEE. Per limiti superiori, consultare il disciplinare."
+      ],
+      "regole_en": [
+        "Book collection. For waste-tax users, up to 6 items and 2 cubic metres per collection are free.",
+        "Up to 3 free bulky-waste collections and 3 free garden-waste collections per year are available. Leave at least 4 months between collections of the same type.",
+        "Up to 3 small electrical items can be added to a bulky-waste booking. Check the rules for larger quantities."
+      ],
+      "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/10/Allegato-5-Disciplinare-ingombranti-rev-02-del-16.06.2026.pdf | https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/raccolta-rifiuti-ingombranti/",
+      "verificato": "2026-11-22"
     }
   ]
 }

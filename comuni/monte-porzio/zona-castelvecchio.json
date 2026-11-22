@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "comune": "Monte Porzio",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Castelvecchio",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocalendario-monte-porzio-revnov2020.pdf",
+  "esposizione": "Esporre presso il civico entro le 13:00.",
+  "esposizione_entro": "13:00",
+  "note": [
+    "Gli eventuali recuperi dei turni festivi di organico e secco vanno verificati con ASET.",
+    "Plastica, metalli e vetro si conferiscono secondo la modalità stradale locale.",
+    "La carta domestica si conferisce nei contenitori stradali secondo le indicazioni comunali."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  }
+}

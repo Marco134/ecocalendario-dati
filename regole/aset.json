@@ -1,0 +1,29 @@
+{
+  "schema": 1,
+  "nome": "ASET",
+  "fonte": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/come-butta-campagna-per-la-raccolta-differenziata-2026/ | https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+  "voci": {
+    "lattine di alluminio": {
+      "dove": "varia",
+      "nota": "Conferire negli appositi contenitori degli imballaggi metallici secondo il proprio comune.",
+      "nota_en": "Use the designated metal-packaging containers for your town."
+    },
+    "olio di frittura": {
+      "dove": "centro",
+      "nota": "È ammesso nei centri di raccolta. Verificare anche la presenza di contenitori dedicati.",
+      "nota_en": "Accepted at recycling centres. Check for dedicated collection points as well."
+    }
+  },
+  "extra": [
+    {
+      "nome": "carta sporca di cibo",
+      "nome_en": "food-soiled paper",
+      "dove": "organico",
+      "nota": "Conferire secondo le istruzioni comunali per l’organico.",
+      "nota_en": "Follow the local rules for food waste."
+    }
+  ],
+  "verificato": {
+    "voci": "2026-11-22, guida ASET e modalità comunali"
+  }
+}

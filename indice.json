@@ -21572,6 +21572,138 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "cartoceto",
+      "nome": "Cartoceto",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.765663,
+      "lon": 12.883458,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "cartoceto-zona-rosa",
+          "nome": "Cartoceto · zona rosa",
+          "file": "comuni/cartoceto/zona-cartoceto-zona-rosa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "lucrezia-zona-verde",
+          "nome": "Lucrezia · zona verde",
+          "file": "comuni/cartoceto/zona-lucrezia-zona-verde.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "isola-del-piano",
+      "nome": "Isola del Piano",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.737761,
+      "lon": 12.784057,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "zona-1-paese-sp48-e-strada-del-piano",
+          "nome": "Zona 1 · Paese, SP48 e strada del Piano",
+          "file": "comuni/isola-del-piano/zona-zona-1-paese-sp48-e-strada-del-piano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2-strada-delle-valli-e-via-monte-tomba-fino-al-civico-24",
+          "nome": "Zona 2 · strada delle Valli e via Monte Tomba fino al civico 24",
+          "file": "comuni/isola-del-piano/zona-zona-2-strada-delle-valli-e-via-monte-tomba-fino-al-civico-24.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "monte-porzio",
+      "nome": "Monte Porzio",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.689697,
+      "lon": 13.04569,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "monte-porzio",
+          "nome": "Monte Porzio",
+          "file": "comuni/monte-porzio/zona-monte-porzio.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "castelvecchio",
+          "nome": "Castelvecchio",
+          "file": "comuni/monte-porzio/zona-castelvecchio.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "montefelcino",
+      "nome": "Montefelcino",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.734761,
+      "lon": 12.833958,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "montefelcino",
+          "nome": "Montefelcino",
+          "file": "comuni/montefelcino/zona-montefelcino.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "valzangona-monteguiduccio-fontecorniale-e-montemontanaro",
+          "nome": "Valzangona, Monteguiduccio, Fontecorniale e Montemontanaro",
+          "file": "comuni/montefelcino/zona-valzangona-monteguiduccio-fontecorniale-e-montemontanaro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-costanzo",
+      "nome": "San Costanzo",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.766164,
+      "lon": 13.072763,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "stradale",
+          "nome": "Raccolta stradale",
+          "file": "comuni/san-costanzo/zona-stradale.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "santippolito",
+      "nome": "Sant'Ippolito",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.685715,
+      "lon": 12.871689,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "zona-unica",
+          "nome": "Zona unica",
+          "file": "comuni/santippolito/zona-zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -21780,6 +21912,12 @@
       "gestore": "ASM L’Aquila",
       "ecocentri": "ecocentri/asm-aquila-montereale.json",
       "regole": "regole/asm-aquila.json"
+    },
+    "aset": {
+      "nome": "ASET",
+      "gestore": "ASET",
+      "ecocentri": "ecocentri/aset.json",
+      "regole": "regole/aset.json"
     }
   },
   "tipi_en": {
