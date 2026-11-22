@@ -3964,6 +3964,35 @@
       "regole_en": [
         "Book free home collection via RCiclo, Geofor’s portal or by phone (option 2). Accepted items can be taken to the recycling centre."
       ]
+    },
+    {
+      "id": "dolomiti-vallagarina",
+      "nome": "Dolomiti Ambiente · Vallagarina e Altipiani Cimbri",
+      "comuni": [
+        "ala",
+        "avio",
+        "besenello",
+        "calliano",
+        "isera",
+        "nomi",
+        "pomarolo",
+        "villa-lagarina",
+        "volano"
+      ],
+      "gestori": [],
+      "prenotazione": false,
+      "prenota_url": "https://dolomitiambiente.it/it/vallagarina",
+      "verificato": "2026-11-22",
+      "fonte": "https://dolomitiambiente.it/it/vallagarina",
+      "telefono": "800 847 028",
+      "regole": [
+        "Ritiro gratuito a domicilio degli ingombranti domestici su prenotazione al numero verde. È disponibile anche nei comuni che hanno un centro di raccolta.",
+        "Per il conferimento presso il centro di raccolta, portare il QR code personale e verificare i rifiuti ammessi."
+      ],
+      "regole_en": [
+        "Free home collection for bulky household waste. Book by calling the toll-free number. Also available in towns with a recycling centre.",
+        "Bring your personal QR code to the recycling centre and check accepted materials."
+      ]
     }
   ]
 }

@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "comune": "Ala",
+  "provincia": "TN",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "zona": "Tutto il comune",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_ala.pdf | https://dolomitiambiente.it/it/ala/domestica/raccolta-differenziata/calendario-di-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf",
+  "esposizione": "Esporre: organico entro le 06:00, carta entro le 06:00, imballaggi leggeri entro le 13:00, residuo entro le 13:00.",
+  "note": [
+    "Il vetro da imballaggio va nella campana stradale.",
+    "Centro di riferimento a Ala, Via dell’Artigianato. Portare il QR code personale.",
+    "Orari del centro: mar 08:00–12:30, mer 13:30–17:30, gio 08:00–12:30, ven 08:00–12:30 e 13:30–17:30, sab 08:00–12:30."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico",
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "organico",
+      "carta"
+    ],
+    "2026-11-30": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-04": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-07": [
+      "organico",
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-14": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-18": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-21": [
+      "organico",
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico",
+      "plastica"
+    ]
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-25",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    },
+    {
+      "data": "2026-12-25",
+      "tipo": "annullato",
+      "raccolta": "carta"
+    }
+  ]
+}

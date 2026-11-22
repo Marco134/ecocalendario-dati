@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "nome": "Dolomiti Ambiente · Vallagarina",
+  "fonte": "https://dolomitiambiente.it/it/ala/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/avio/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/besenello/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/calliano/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/isera/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/nomi/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/pomarolo/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/villa-lagarina/domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/volano/domestica/raccolta-differenziata/guida-alla-raccolta",
+  "voci": {
+    "tetrapak (cartoni di latte e succhi)": {
+      "dove": "plastica",
+      "nota": "Vuoti, nel sacco giallo degli imballaggi leggeri.",
+      "nota_en": "Empty them and put them in the yellow lightweight packaging bag."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "Vuoti, nel sacco giallo degli imballaggi leggeri.",
+      "nota_en": "Empty them and put them in the yellow lightweight packaging bag."
+    },
+    "posate di plastica": {
+      "dove": "indifferenziato",
+      "nota": "Conferire nel residuo.",
+      "nota_en": "Put in residual waste."
+    },
+    "penne e pennarelli": {
+      "dove": "indifferenziato",
+      "nota": "Conferire nel residuo.",
+      "nota_en": "Put in residual waste."
+    }
+  },
+  "extra": [
+    {
+      "nome": "tappi e coperchi metallici",
+      "nome_en": "metal caps and lids",
+      "dove": "plastica",
+      "nota": "Vuoti, nel sacco giallo degli imballaggi leggeri.",
+      "nota_en": "Empty them and put them in the yellow lightweight packaging bag."
+    },
+    {
+      "nome": "scatole in banda stagnata per alimenti",
+      "nome_en": "tinplate food containers",
+      "dove": "plastica",
+      "nota": "Vuoti, nel sacco giallo degli imballaggi leggeri.",
+      "nota_en": "Empty them and put them in the yellow lightweight packaging bag."
+    },
+    {
+      "nome": "giocattoli non elettrici di plastica",
+      "nome_en": "non-electrical plastic toys",
+      "dove": "indifferenziato",
+      "nota": "Conferire nel residuo.",
+      "nota_en": "Put in residual waste."
+    }
+  ],
+  "tipi": {
+    "plastica": {
+      "nome": "Imballaggi leggeri",
+      "nome_en": "Lightweight packaging"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-22, guide domestiche ufficiali dei comuni pubblicati"
+  }
+}

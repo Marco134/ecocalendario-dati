@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "comune": "Volano",
+  "provincia": "TN",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "zona": "Tutto il comune",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_volano.pdf | https://dolomitiambiente.it/it/volano/domestica/raccolta-differenziata/calendario-di-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf",
+  "esposizione": "Esporre: organico entro le 13:00, carta entro le 06:00, imballaggi leggeri entro le 06:00, residuo entro le 06:00.",
+  "note": [
+    "Il vetro da imballaggio va nella campana stradale.",
+    "Centro di riferimento a Volano, Via ai Lopi 44. Portare il QR code personale.",
+    "Orari del centro: mar 13:30–17:30, gio 08:00–12:30, ven 08:00–12:30, sab 08:00–12:30 e 13:30–17:30."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-11-25": [
+      "carta",
+      "plastica"
+    ],
+    "2026-11-26": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-09": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-10": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-16": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-23": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-24": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  }
+}

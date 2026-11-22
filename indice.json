@@ -20124,6 +20124,175 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "ala",
+      "nome": "Ala",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.757901,
+      "lon": 11.001818,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/ala/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "avio",
+      "nome": "Avio",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.733793,
+      "lon": 10.937181,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/avio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "besenello",
+      "nome": "Besenello",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.941922,
+      "lon": 11.109544,
+      "zone": [
+        {
+          "id": "besenello",
+          "nome": "Besenello",
+          "file": "comuni/besenello/zona-besenello.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "dietrobeseno",
+          "nome": "Dietrobeseno",
+          "file": "comuni/besenello/zona-dietrobeseno.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://dolomitiambiente.it/it/besenello/domestica/raccolta-differenziata/calendario-di-raccolta",
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "calliano",
+      "nome": "Calliano",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.933851,
+      "lon": 11.093758,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/calliano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "isera",
+      "nome": "Isera",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.88527,
+      "lon": 11.009311,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/isera/zona-unica.json",
+          "valido_al": "2027-01-02"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "nomi",
+      "nome": "Nomi",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.928599,
+      "lon": 11.071881,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/nomi/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "pomarolo",
+      "nome": "Pomarolo",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.928099,
+      "lon": 11.04308,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/pomarolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "villa-lagarina",
+      "nome": "Villa Lagarina",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.91499,
+      "lon": 11.033002,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/villa-lagarina/zona-unica.json",
+          "valido_al": "2027-01-02"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "volano",
+      "nome": "Volano",
+      "provincia": "TN",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "consorzio": "dolomiti-vallagarina",
+      "lat": 45.917179,
+      "lon": 11.060803,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/volano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "regole": "regole/dolomiti-vallagarina.json"
     }
   ],
   "consorzi": {
@@ -20284,6 +20453,12 @@
       "gestore": "Geofor S.p.A.",
       "ecocentri": "ecocentri/geofor.json",
       "regole": "regole/geofor.json"
+    },
+    "dolomiti-vallagarina": {
+      "nome": "Dolomiti Ambiente · Vallagarina e Altipiani Cimbri",
+      "gestore": "Dolomiti Ambiente S.r.l.",
+      "ecocentri": "ecocentri/dolomiti-vallagarina.json",
+      "regole": "regole/dolomiti-vallagarina.json"
     }
   },
   "tipi_en": {

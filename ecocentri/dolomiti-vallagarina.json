@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-22",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "numero_verde": "800 847 028",
+  "accesso": "Portare il QR code dell’utenza. Per sedi, orari e condizioni consultare la voce del proprio comune e l’elenco del gestore.",
+  "centri": [
+    {
+      "id": "dolomiti-ala",
+      "tipo": "raccolta",
+      "comune": "Ala",
+      "indirizzo": "Via dell’Artigianato",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:30"
+          ],
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze domestiche attive in Vallagarina e Altipiani Cimbri. Accedere con il QR code personale e verificare le condizioni locali.",
+      "lat": 45.76609,
+      "lon": 11.00415,
+      "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf | https://www.comune.ala.tn.it/Vivere-il-comune/Luoghi/Centro-Raccolta-Materiali-CRM-Ala | https://dolomitiambiente.it/it/ala/domestica/raccolta-differenziata/centri-raccolta"
+    },
+    {
+      "id": "dolomiti-avio",
+      "tipo": "raccolta",
+      "comune": "Avio",
+      "indirizzo": "Viale Alcide Degasperi, località Lavé",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ],
+        "4": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "6": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze domestiche attive in Vallagarina e Altipiani Cimbri. Accedere con il QR code personale e verificare le condizioni locali.",
+      "lat": 45.739069,
+      "lon": 10.950698,
+      "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf | https://www.comune.avio.tn.it/Vivere-il-comune/Luoghi/Centro-di-raccolta-materiali | https://dolomitiambiente.it/it/avio/domestica/raccolta-differenziata/centri-raccolta"
+    },
+    {
+      "id": "dolomiti-villa-lagarina",
+      "tipo": "raccolta",
+      "comune": "Villa Lagarina",
+      "indirizzo": "Via Antonio Pesenti 43",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:30"
+          ],
+          [
+            "13:30",
+            "17:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze domestiche attive in Vallagarina e Altipiani Cimbri. Accedere con il QR code personale e verificare le condizioni locali.",
+      "lat": 45.9192,
+      "lon": 11.03548,
+      "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf | https://www.comune.villalagarina.tn.it/Vivere-il-Comune/Luoghi/Sede-C.R.M.-Centro-Raccola-Materiali | https://dolomitiambiente.it/it/villa-lagarina/domestica/raccolta-differenziata/centri-raccolta"
+    }
+  ]
+}

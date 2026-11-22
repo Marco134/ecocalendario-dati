@@ -1,0 +1,83 @@
+{
+  "schema": 1,
+  "comune": "Nomi",
+  "provincia": "TN",
+  "gestore": "Dolomiti Ambiente S.r.l.",
+  "zona": "Tutto il comune",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_nomi.pdf | https://dolomitiambiente.it/it/nomi/domestica/raccolta-differenziata/calendario-di-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/Vallagarina/260205_ORARI_CR.pdf",
+  "esposizione": "Esporre: organico entro le 13:00, carta entro le 13:00, imballaggi leggeri entro le 06:00, residuo entro le 13:00.",
+  "note": [
+    "Il vetro da imballaggio va nella campana stradale.",
+    "Centro di riferimento a Villa Lagarina, Via Antonio Pesenti 43. Portare il QR code personale.",
+    "Orari del centro: mar 08:00–12:30, mer 13:30–17:30, ven 08:00–12:30, sab 08:00–12:30 e 13:30–17:30."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "carta",
+      "plastica"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-04": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-18": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "carta",
+      "plastica"
+    ]
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-08",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    },
+    {
+      "data": "2026-12-25",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    }
+  ]
+}
