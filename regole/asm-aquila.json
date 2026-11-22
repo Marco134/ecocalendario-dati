@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "nome": "ASM L’Aquila",
+  "fonte": "https://cms.asmaq.it/uploads/dove_lo_butto_0b19f87ee9.pdf | https://cms.asmaq.it/uploads/ecocalendario_2026_bd60e214f6.pdf",
+  "voci": {
+    "tetrapak (cartoni di latte e succhi)": {
+      "dove": "carta",
+      "nota": "Svuotare e conferire nel contenitore bianco con carta e cartone.",
+      "nota_en": "Empty the cartons and put them in the white container with paper and cardboard."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "Svuotare e conferire nel contenitore giallo con plastica e metalli.",
+      "nota_en": "Empty cans and put them in the yellow container with plastic and metals."
+    },
+    "carta stagnola e vaschette di alluminio": {
+      "dove": "plastica",
+      "nota": "Conferire con plastica e metalli, nel contenitore giallo. Il tappo in stagnola dello yogurt va nel residuo secondo il rifiutario ASM.",
+      "nota_en": "Use the yellow container for plastic and metals. ASM lists yoghurt foil lids as residual waste."
+    },
+    "scontrini (carta termica)": {
+      "dove": "indifferenziato",
+      "nota": "Mettere nel contenitore verde del secco residuo.",
+      "nota_en": "Put in the green residual waste container."
+    },
+    "specchi": {
+      "dove": "indifferenziato",
+      "nota": "Gli specchi piccoli vanno nel secco. Per gli specchi ingombranti usare il centro di raccolta.",
+      "nota_en": "Put small mirrors in residual waste. Take large mirrors to a recycling centre."
+    },
+    "vasetti dello yogurt": {
+      "dove": "plastica",
+      "nota": "Conferire nel contenitore giallo dopo aver svuotato il vasetto.",
+      "nota_en": "Empty the pot and put it in the yellow container."
+    }
+  },
+  "extra": [
+    {
+      "nome": "tappo in stagnola dello yogurt",
+      "nome_en": "yoghurt foil lid",
+      "dove": "indifferenziato",
+      "nota": "Conferire nel secco residuo.",
+      "nota_en": "Put in residual waste."
+    }
+  ],
+  "tipi": {
+    "plastica": {
+      "nome": "Plastica, metalli e alluminio",
+      "nome_en": "Plastic, metals and aluminium"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-22, rifiutario ASM e calendario 2026–2027"
+  }
+}

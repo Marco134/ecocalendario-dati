@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "comune": "Pizzoli",
+  "provincia": "AQ",
+  "gestore": "ASM L’Aquila",
+  "zona": "Prossimità, stradale ed eco-isole",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2027-01-31",
+  "fonte": "https://www.asmaq.it/raccolta-di-prossimita | https://www.asmaq.it/comune-pizzoli",
+  "info": "Per gli indirizzi serviti da contenitori stradali, di prossimità o eco-isole, verificare con ASM punti, orari e modalità di accesso del proprio indirizzo.",
+  "info_en": "If your address uses roadside bins, shared neighbourhood bins or recycling stations, contact ASM for your assigned locations, opening times and access requirements.",
+  "raccolte": {}
+}

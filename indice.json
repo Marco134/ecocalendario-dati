@@ -21332,6 +21332,246 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "cagnano-amiterno",
+      "nome": "Cagnano Amiterno",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-pizzoli",
+      "lat": 42.455168,
+      "lon": 13.232189,
+      "zone_url": "https://www.asmaq.it/comune-cagnano-amiterno",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/cagnano-amiterno/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/cagnano-amiterno/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "campotosto",
+      "nome": "Campotosto",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-montereale",
+      "lat": 42.558839,
+      "lon": 13.367987,
+      "zone_url": "https://www.asmaq.it/comune-campotosto",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/campotosto/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/campotosto/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "capitignano",
+      "nome": "Capitignano",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-montereale",
+      "lat": 42.520203,
+      "lon": 13.300948,
+      "zone_url": "https://www.asmaq.it/comune-capitignano",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/capitignano/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/capitignano/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "fagnano-alto",
+      "nome": "Fagnano Alto",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-est",
+      "lat": 42.25418,
+      "lon": 13.597459,
+      "zone_url": "https://www.asmaq.it/comune-fagnano-alto",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/fagnano-alto/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/fagnano-alto/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "laquila",
+      "nome": "L'Aquila",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-est",
+      "lat": 42.136885,
+      "lon": 13.610341,
+      "zone_url": "https://www.asmaq.it/comune-laquila",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/laquila/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/laquila/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "montereale",
+      "nome": "Montereale",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-montereale",
+      "lat": 42.525096,
+      "lon": 13.244072,
+      "zone_url": "https://www.asmaq.it/comune-montereale",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/montereale/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/montereale/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "pizzoli",
+      "nome": "Pizzoli",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-pizzoli",
+      "lat": 42.436075,
+      "lon": 13.301272,
+      "zone_url": "https://www.asmaq.it/comune-pizzoli",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/pizzoli/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/pizzoli/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "san-pio-delle-camere",
+      "nome": "San Pio delle Camere",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-est",
+      "lat": 42.286172,
+      "lon": 13.657972,
+      "zone_url": "https://www.asmaq.it/comune-san-pio-delle-camere",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/san-pio-delle-camere/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/san-pio-delle-camere/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "scoppito",
+      "nome": "Scoppito",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-pizzoli",
+      "lat": 42.372612,
+      "lon": 13.255359,
+      "zone_url": "https://www.asmaq.it/comune-scoppito",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/scoppito/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/scoppito/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "villa-santangelo",
+      "nome": "Villa Sant'Angelo",
+      "provincia": "AQ",
+      "gestore": "ASM L’Aquila",
+      "consorzio": "asm-aquila-est",
+      "lat": 42.269937,
+      "lon": 13.537486,
+      "zone_url": "https://www.asmaq.it/comune-di-villa-santangelo",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/villa-santangelo/zona-porta-a-porta.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "prossimita-stradale",
+          "nome": "Prossimità, stradale ed eco-isole",
+          "file": "comuni/villa-santangelo/zona-prossimita-stradale.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -21522,6 +21762,24 @@
       "gestore": "Alea Ambiente",
       "ecocentri": "ecocentri/alea-ambiente.json",
       "regole": "regole/alea-ambiente.json"
+    },
+    "asm-aquila-est": {
+      "nome": "ASM L’Aquila · L'Aquila Est · Bazzano",
+      "gestore": "ASM L’Aquila",
+      "ecocentri": "ecocentri/asm-aquila-est.json",
+      "regole": "regole/asm-aquila.json"
+    },
+    "asm-aquila-pizzoli": {
+      "nome": "ASM L’Aquila · Pizzoli",
+      "gestore": "ASM L’Aquila",
+      "ecocentri": "ecocentri/asm-aquila-pizzoli.json",
+      "regole": "regole/asm-aquila.json"
+    },
+    "asm-aquila-montereale": {
+      "nome": "ASM L’Aquila · Montereale",
+      "gestore": "ASM L’Aquila",
+      "ecocentri": "ecocentri/asm-aquila-montereale.json",
+      "regole": "regole/asm-aquila.json"
     }
   },
   "tipi_en": {

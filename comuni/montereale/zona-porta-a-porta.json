@@ -1,0 +1,205 @@
+{
+  "schema": 1,
+  "comune": "Montereale",
+  "provincia": "AQ",
+  "gestore": "ASM L’Aquila",
+  "zona": "Porta a porta",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2027-01-31",
+  "esposizione": "Esporre dalle 22:00 della sera precedente. Il PDF indica entro le 05:00 e la scheda online indica fino alle 06:00. Per conferma rivolgersi ad ASM.",
+  "fonte": "https://cms.asmaq.it/uploads/ecocalendario_2026_bd60e214f6.pdf | https://www.asmaq.it/comune-montereale-raccolta-e-trasporto",
+  "note": [
+    "Le istruzioni di esposizione dipendono anche dall’indirizzo e dal contenitore assegnato.",
+    "Queste date si applicano alle utenze servite porta a porta. Per il proprio indirizzo verificare con ASM."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "vetro"
+    ],
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-25": [
+      "carta"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "plastica"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "carta"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "carta"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "plastica"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "vetro"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-16": [
+      "carta"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-23": [
+      "carta"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-26": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "carta"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ],
+    "2027-01-02": [
+      "organico"
+    ],
+    "2027-01-04": [
+      "vetro"
+    ],
+    "2027-01-05": [
+      "organico"
+    ],
+    "2027-01-07": [
+      "indifferenziato"
+    ],
+    "2027-01-08": [
+      "plastica"
+    ],
+    "2027-01-09": [
+      "organico"
+    ],
+    "2027-01-11": [
+      "carta"
+    ],
+    "2027-01-12": [
+      "organico"
+    ],
+    "2027-01-13": [
+      "carta"
+    ],
+    "2027-01-14": [
+      "indifferenziato"
+    ],
+    "2027-01-15": [
+      "plastica"
+    ],
+    "2027-01-16": [
+      "organico"
+    ],
+    "2027-01-18": [
+      "vetro"
+    ],
+    "2027-01-19": [
+      "organico"
+    ],
+    "2027-01-20": [
+      "carta"
+    ],
+    "2027-01-21": [
+      "indifferenziato"
+    ],
+    "2027-01-22": [
+      "plastica"
+    ],
+    "2027-01-23": [
+      "organico"
+    ],
+    "2027-01-26": [
+      "organico"
+    ],
+    "2027-01-27": [
+      "carta"
+    ],
+    "2027-01-28": [
+      "indifferenziato"
+    ],
+    "2027-01-29": [
+      "plastica"
+    ],
+    "2027-01-30": [
+      "organico"
+    ]
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-07",
+      "da": "2026-12-08",
+      "tipo": "spostato",
+      "raccolta": "organico"
+    },
+    {
+      "data": "2026-12-21",
+      "da": "2026-12-25",
+      "tipo": "spostato",
+      "raccolta": "plastica"
+    },
+    {
+      "data": "2026-12-28",
+      "da": "2027-01-01",
+      "tipo": "spostato",
+      "raccolta": "plastica"
+    },
+    {
+      "data": "2027-01-11",
+      "da": "2027-01-06",
+      "tipo": "spostato",
+      "raccolta": "carta"
+    }
+  ]
+}

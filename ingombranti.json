@@ -4116,6 +4116,38 @@
         "Accepted bulky waste can be dropped off at recycling centres free of charge.",
         "Optional paid home collection is available by request for up to 6 items. Check the operator’s website for accepted materials."
       ]
+    },
+    {
+      "id": "asm-aquila",
+      "nome": "ASM L’Aquila",
+      "comuni": [
+        "cagnano-amiterno",
+        "campotosto",
+        "capitignano",
+        "fagnano-alto",
+        "laquila",
+        "montereale",
+        "pizzoli",
+        "san-pio-delle-camere",
+        "scoppito",
+        "villa-santangelo"
+      ],
+      "gestori": [],
+      "telefono": "0862 4459299",
+      "tipo_numero": "telefono",
+      "orari": "Lun–ven 08:30–13:30, lun–mer anche 14:30–17:00",
+      "prenotazione": false,
+      "prenota_url": "https://www.asmaq.it/ritiro-a-domicilio",
+      "fonte": "https://www.asmaq.it/asm-laquila-centro-di-raccolta | https://www.asmaq.it/ritiro-a-domicilio",
+      "verificato": "2026-11-22",
+      "regole": [
+        "Per ingombranti e RAEE di uso domestico, prenotare il conferimento gratuito al centro di riferimento e portare un documento di riconoscimento.",
+        "Il ritiro a domicilio si può richiedere online se il residente ha più di 75 anni o una invalidità. Allegare i documenti richiesti."
+      ],
+      "regole_en": [
+        "Book free drop-off for household bulky or electrical waste at your assigned recycling centre. Bring an identity document.",
+        "Residents over 75 or with a disability can request home collection online. Attach the required documents."
+      ]
     }
   ]
 }
