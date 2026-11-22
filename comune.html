@@ -165,7 +165,7 @@ const nome = t => NOMI[t] || t;
 const nomeZona = id => (st.zone.find(z => z.id === id) || {nome:id}).nome;
 const dove = ids => (st.zone.length <= 1 || ids.length === st.zone.length) ? 'in tutto il Comune' : ids.map(nomeZona).join(', ');
 const oggi = chiave(new Date());
-const num = n => n < 3 ? '&lt;3' : String(n);
+const num = n => String(n);
 function toast(t) { const e = document.getElementById('toast'); e.textContent = t; e.style.display = 'block'; clearTimeout(toast.t); toast.t = setTimeout(() => e.style.display = 'none', 3500); }
 function rigaAz(azione, icona, sfondo, titolo, sotto) {
   return `<button class="riga-az" type="button" data-a="${azione}"><span class="ic" style="background:${sfondo}">${ICONE[icona]}</span><span><b>${titolo}</b>${sotto ? `<span class="sub">${sotto}</span>` : ''}</span><span class="fr" aria-hidden="true">›</span></button>`;
@@ -296,50 +296,54 @@ function segnalazioni() {
   const righe = st.stat.segnalazioni.filter(r => st.zonaStat === 'tutte' || r.zona === st.zonaStat);
   const oggiD = new Date(); oggiD.setHours(0,0,0,0);
   const lun = new Date(oggiD); lun.setDate(lun.getDate() - ((lun.getDay() + 6) % 7));
-  const inizi = []; for (let i = 7; i >= 0; i--) { const d = new Date(lun); d.setDate(d.getDate() - 7*i); inizi.push(d); }
-  const sett = Array(8).fill(0), perR = {}, perF = {}; let prima = 0;
+  const giorni = []; for (let i = 0; i < 7; i++) { const d = new Date(lun); d.setDate(d.getDate() + i); giorni.push(d); }
+  const in8 = new Date(lun); in8.setDate(in8.getDate() - 49);
+  const in16 = new Date(lun); in16.setDate(in16.getDate() - 105);
+  const perG = Array(7).fill(0), det = {}; let ult8 = 0, prima8 = 0;
   for (const r of righe) {
-    const g = daChiave(r.giorno); let i = -1;
-    for (let k = 0; k < 8; k++) if (g >= inizi[k]) i = k;
-    if (i < 0) { prima += r.n; continue; }
-    sett[i] += r.n; perR[r.raccolta] = (perR[r.raccolta] || 0) + r.n; perF[r.fascia] = (perF[r.fascia] || 0) + r.n;
+    const g = daChiave(r.giorno);
+    if (g >= in8) ult8 += r.n; else if (g >= in16) prima8 += r.n;
+    const i = Math.round((g - lun) / 864e5);
+    if (i >= 0 && i < 7) { perG[i] += r.n; const k = r.raccolta + '|' + r.zona; (det[r.giorno] ??= {})[k] = ((det[r.giorno] || {})[k] || 0) + r.n; }
   }
-  const tot = sett.reduce((a,b) => a+b, 0), max = Math.max(1, ...sett), picco = sett.indexOf(Math.max(...sett));
-  const racc = Object.entries(perR).sort((a,b) => b[1]-a[1]), maxR = Math.max(1, ...Object.values(perR));
-  const fasce = [['notte','Notte (0–6)'],['mattina','Mattina (6–12)'],['pomeriggio','Pomeriggio (12–18)'],['sera','Sera (18–24)']].filter(([k]) => k !== 'notte' || perF[k]);
-  const maxF = Math.max(1, ...Object.values(perF));
+  const max = Math.max(1, ...perG), diff = ult8 - prima8;
   const errori = st.stat.errori.filter(e => st.zonaStat === 'tutte' || e.zona === st.zonaStat);
-  const diff = tot - prima;
+  const fine = giorni[6];
   return `<h2>Segnalazioni di presunto mancato ritiro</h2>
-    <p class="debole">Quante volte i cittadini, da «Segnala mancato ritiro» nell'app, hanno chiamato il gestore o aperto il suo modulo online. Non prova il disservizio: indica dove è stato segnalato un ritiro saltato.</p>
+    <p class="debole">Quante volte i cittadini, da «Segnala mancato ritiro» nell'app, hanno scelto il ritiro saltato e poi chiamato il gestore o aperto il suo modulo online. Non prova il disservizio: indica dove è stato segnalato un ritiro saltato.</p>
     <div style="display:flex;flex-wrap:wrap;gap:8px;margin:14px 0">
       <button class="chip ${st.zonaStat === 'tutte' ? 'sel' : ''}" data-zs="tutte">Tutto il Comune</button>
       ${st.zone.map(z => `<button class="chip ${st.zonaStat === z.id ? 'sel' : ''}" data-zs="${esc(z.id)}">${esc(z.nome)}</button>`).join('')}
     </div>
-    <div class="griglia">
-      <div class="scheda"><div class="debole">Segnalazioni, ultime 8 settimane</div><div class="numero">${num(tot)}</div><div class="debole">${diff >= 0 ? '+' : ''}${diff} rispetto alle 8 settimane prima</div></div>
-      <div class="scheda" style="background:var(--avvS);color:var(--avvT)"><b>Picco da guardare</b><div style="font-size:20px;font-weight:700;margin-top:4px">${max >= 10 ? `Settimana del ${inizi[picco].getDate()} ${MESI[inizi[picco].getMonth()]}: ${sett[picco]}` : 'Nessun picco'}</div></div>
-    </div>
-    <div class="scheda"><h3>Andamento per settimana</h3>
-      <div class="barre" role="img" aria-label="Segnalazioni per settimana">${sett.map((n,i) => `<div class="col"><b style="font-size:13px">${num(n)}</b><div class="b ${i === picco && max >= 10 ? 'picco' : ''}" style="height:${6 + Math.round(150*n/max)}px"></div></div>`).join('')}</div>
-      <div class="assi">${inizi.map(d => `<div>${d.getDate()}/${d.getMonth()+1}</div>`).join('')}</div>
-      <p class="debole" style="font-size:13px;margin:10px 0 0">Sotto 3 segnalazioni il numero esatto non viene mostrato («&lt;3»).</p></div>
-    <div class="griglia">
-      <div class="scheda"><h3>Per raccolta</h3>${racc.length ? racc.map(([t,n]) => `<div class="orizz">${bin(t)}<span class="nome">${esc(maiusc(nome(t)))}</span><span class="traccia"><div style="width:${Math.round(100*n/maxR)}%"></div></span><span class="n">${num(n)}</span></div>`).join('') : '<p class="debole">Nessuna segnalazione nel periodo.</p>'}</div>
-      <div class="scheda"><h3>Per fascia oraria</h3>${fasce.map(([k,l]) => `<div class="orizz"><span class="nome">${l}</span><span class="traccia"><div style="width:${Math.round(100*(perF[k]||0)/maxF)}%"></div></span><span class="n">${num(perF[k]||0)}</span></div>`).join('')}<p class="debole" style="font-size:13px">L'ora esatta non viene registrata, solo la fascia.</p></div>
+    <div class="scheda"><div class="debole">Ultime 8 settimane</div><div class="numero">${ult8}</div><div class="debole">${diff >= 0 ? '+' : ''}${diff} rispetto alle 8 settimane prima</div></div>
+    <div class="scheda"><h3>Settimana dal ${lun.getDate()}/${lun.getMonth()+1} al ${fine.getDate()}/${fine.getMonth()+1}</h3>
+      <div class="barre" role="img" aria-label="Segnalazioni per giorno della settimana in corso">${perG.map((n,i) => `<div class="col"><b style="font-size:13px">${n}</b><div class="b ${chiave(giorni[i]) === oggi ? 'picco' : ''}" style="height:${4 + Math.round(150*n/max)}px"></div></div>`).join('')}</div>
+      <div class="assi">${giorni.map(d => `<div><b style="color:var(--testo)">${GIORNI_BREVI[d.getDay()]}</b><br>${d.getDate()}/${d.getMonth()+1}</div>`).join('')}</div></div>
+    <div class="scheda"><h3>Dettaglio della settimana</h3>
+      ${Object.keys(det).length ? giorni.filter(d => det[chiave(d)]).map(d => `<div style="margin-top:10px"><div class="debole" style="font-weight:700">${esc(maiusc(dataLunga(chiave(d))))}</div>${Object.entries(det[chiave(d)]).map(([k,n]) => { const [t,z] = k.split('|'); return `<div class="riga">${bin(t)}<span style="flex:1">${esc(maiusc(nome(t)))} · ${esc(nomeZona(z))}</span><b>${n}</b></div>`; }).join('')}</div>`).join('') : '<p class="debole">Nessuna segnalazione questa settimana.</p>'}
     </div>
     <div class="scheda"><h3>Errori nel calendario segnalati dai cittadini</h3><p class="debole" style="font-size:14px;margin-top:0">Separati dai mancati ritiri: riguardano le date pubblicate, non il servizio.</p>
       ${errori.length ? errori.map(e => `<div class="testo" style="margin-bottom:8px">«${esc(e.testo)}»<div class="debole" style="font-size:13px;margin-top:4px">${esc(nomeZona(e.zona))} · ${e.n === 1 ? '1 cittadino' : e.n + ' cittadini'}</div></div>`).join('') : '<p class="debole">Nessuna segnalazione negli ultimi 90 giorni.</p>'}</div>
     <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center">
-      <button class="pill" data-a="csv">Scarica CSV</button>
+      <button class="pill" data-a="csv">Scarica lo storico (CSV)</button>
       <button class="pill" data-a="stampa">Stampa o salva PDF</button>
-      <span class="debole" style="font-size:13px">Solo dati aggregati · conservati 24 mesi</span>
+      <span class="debole" style="font-size:13px">Giorno per giorno, con zero dove non ci sono segnalazioni · dati conservati 24 mesi</span>
     </div>`;
 }
 
 function scaricaCsv() {
-  const righe = [['giorno','zona','raccolta','fascia','canale','segnalazioni']];
-  for (const r of st.stat.segnalazioni) righe.push([r.giorno, nomeZona(r.zona), nome(r.raccolta), r.fascia, r.canale, r.n < 3 ? '<3' : r.n]);
+  // storico giorno per giorno: tutte le date dalla prima segnalazione (o da 8 settimane fa) a oggi, zero dove non c'è nulla
+  const tutte = st.stat.segnalazioni.filter(r => st.zonaStat === 'tutte' || r.zona === st.zonaStat);
+  const per = {};
+  for (const r of tutte) { const k = `${r.giorno}|${r.zona}|${r.raccolta}`; per[k] = (per[k] || 0) + r.n; }
+  const inizio = new Date(); inizio.setHours(0,0,0,0); inizio.setDate(inizio.getDate() - 56);
+  for (const r of tutte) { const g = daChiave(r.giorno); if (g < inizio) inizio.setTime(g.getTime()); }
+  const righe = [['data','giorno','zona','raccolta','segnalazioni']];
+  for (const d = new Date(inizio); chiave(d) <= oggi; d.setDate(d.getDate() + 1)) {
+    const k = chiave(d), voci = Object.entries(per).filter(([x]) => x.startsWith(k + '|'));
+    if (!voci.length) righe.push([k, GIORNI[d.getDay()], '', '', 0]);
+    for (const [x, n] of voci) { const [, z, t] = x.split('|'); righe.push([k, GIORNI[d.getDay()], nomeZona(z), nome(t), n]); }
+  }
   const csv = righe.map(r => r.map(x => `"${String(x).replace(/"/g,'""')}"`).join(';')).join('\n');
   const a = document.createElement('a');
   a.href = URL.createObjectURL(new Blob(['﻿' + csv], {type:'text/csv'}));
