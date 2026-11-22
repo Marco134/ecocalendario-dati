@@ -3869,6 +3869,101 @@
       "regole_en": [
         "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
       ]
+    },
+    {
+      "id": "geofor-san-giuliano-terme",
+      "nome": "Geofor – San Giuliano Terme",
+      "comuni": [
+        "san-giuliano-terme"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/s-giuliano-terme/prenota-ritiri-s-giuliano-terme/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/s-giuliano-terme/prenota-ritiri-s-giuliano-terme/ | https://www.geofor.it/wp-content/uploads/2026/09/SAN-GIULIANO-TERME-CALENDARIO-PAP-2026-valido-dal-21_09_2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Prenotare il ritiro gratuito a domicilio tramite app RCiclo, portale Geofor o numero verde (opzione 2). I materiali ammessi si possono portare al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, Geofor’s portal or by phone (option 2). Accepted items can be taken to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-pisa",
+      "nome": "Geofor – Pisa",
+      "comuni": [
+        "pisa"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/pisa/prenota-ritiri-pisa/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/pisa/prenota-ritiri-pisa/ | https://www.geofor.it/wp-content/uploads/2026/05/PISA-STEP-5-CALENDARIO-PAP-2026-Rev-1.pdf | https://www.geofor.it/wp-content/uploads/2026/05/PISA-GENERALE-CALENDARIO-PAP-2026-Rev-1.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Prenotare il ritiro gratuito a domicilio tramite app RCiclo, portale Geofor o numero verde (opzione 2). I materiali ammessi si possono portare al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, Geofor’s portal or by phone (option 2). Accepted items can be taken to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-chianni",
+      "nome": "Geofor – Chianni",
+      "comuni": [
+        "chianni"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/chianni/prenota-ritiri-chianni/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/chianni/prenota-ritiri-chianni/",
+      "telefono": "800 959095",
+      "regole": [
+        "Prenotare il ritiro degli ingombranti tramite Geofor o chiamare il numero verde (opzione 2). Per il conferimento in un centro di raccolta, verificare prima la sede autorizzata."
+      ],
+      "regole_en": [
+        "Book bulky waste collection via Geofor or by phone (option 2). Check which recycling centre you may use."
+      ]
+    },
+    {
+      "id": "geofor-lajatico",
+      "nome": "Geofor – Lajatico",
+      "comuni": [
+        "lajatico"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/lajatico/prenotazione-ritiri-lajatico/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/lajatico/prenotazione-ritiri-lajatico/",
+      "telefono": "800 959095",
+      "regole": [
+        "Prenotare il ritiro degli ingombranti tramite Geofor o chiamare il numero verde (opzione 2). Per il conferimento in un centro di raccolta, verificare prima la sede autorizzata."
+      ],
+      "regole_en": [
+        "Book bulky waste collection via Geofor or by phone (option 2). Check which recycling centre you may use."
+      ]
+    },
+    {
+      "id": "geofor-terricciola",
+      "nome": "Geofor – Terricciola",
+      "comuni": [
+        "terricciola"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/terricciola/prenota-ritiri-terricciola/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/terricciola/prenota-ritiri-terricciola/",
+      "telefono": "800 959095",
+      "regole": [
+        "Prenotare il ritiro gratuito a domicilio tramite app RCiclo, portale Geofor o numero verde (opzione 2). I materiali ammessi si possono portare al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, Geofor’s portal or by phone (option 2). Accepted items can be taken to the recycling centre."
+      ]
     }
   ]
 }

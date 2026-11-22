@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "comune": "Pisa",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Altre vie di Pisa · verifica indirizzo",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/",
+  "raccolte": {},
+  "info": "Usare la ricerca per via e civico sul sito Geofor. Per le aree in cui il servizio cambia, consultare gli avvisi del Comune e del gestore.",
+  "info_en": "Use Geofor’s street and house-number search. For areas in transition, check notices from the municipality and Geofor."
+}

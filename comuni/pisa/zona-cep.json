@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "comune": "Pisa",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "CEP · area servita dai cassonetti elettronici",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.comune.pisa.it/Novita/Comunicati/Ambiente-da-lunedi-27-gennaio-entra-in-funzione-al-CEP-la-raccolta-dei-rifiuti-con-cassonetti-elettronici",
+  "raccolte": {},
+  "info": "Nelle vie del quartiere coperte dal servizio si usano i cassonetti elettronici con tessera. Consultare Geofor per accesso e posizioni.",
+  "info_en": "Served streets use electronic waste containers with an access card. Consult Geofor for access and locations."
+}

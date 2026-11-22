@@ -930,6 +930,272 @@
       "lat": 43.804396,
       "lon": 10.37157,
       "fonte": "https://www.geofor.it/vecchiano/centro-di-raccolta-vecchiano/"
+    },
+    {
+      "id": "geofor-sgt-albavola",
+      "tipo": "raccolta",
+      "comune": "San Giuliano Terme",
+      "indirizzo": "Località Albavola",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:30"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario. Chiuso nelle festività e per il patrono.",
+      "lat": 43.767208,
+      "lon": 10.3521,
+      "fonte": "https://www.geofor.it/s-giuliano-terme/centro-di-raccolta-s-giuliano-terme/"
+    },
+    {
+      "id": "geofor-pisa-via-pindemonte",
+      "tipo": "raccolta",
+      "comune": "Pisa",
+      "indirizzo": "Via Pindemonte, Pratale",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario. Chiuso nelle festività e per il patrono. Centro condiviso per Pisa e San Giuliano Terme.",
+      "lat": 43.723647,
+      "lon": 10.417,
+      "fonte": "https://www.geofor.it/pisa/centro-di-raccolta-pisa/"
+    },
+    {
+      "id": "geofor-pisa-via-san-jacopo",
+      "tipo": "raccolta",
+      "comune": "Pisa",
+      "indirizzo": "Via San Jacopo, Porta a Lucca",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario. Chiuso nelle festività e per il patrono.",
+      "lat": 43.736753,
+      "lon": 10.389126,
+      "fonte": "https://www.geofor.it/pisa/centro-di-raccolta-pisa/"
+    },
+    {
+      "id": "geofor-pisa-tirrenia",
+      "tipo": "raccolta",
+      "comune": "Pisa",
+      "indirizzo": "Via delle Giunchiglie, Tirrenia",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "12:30",
+            "18:00"
+          ]
+        ],
+        "2": [
+          [
+            "12:30",
+            "18:00"
+          ]
+        ],
+        "4": [
+          [
+            "12:30",
+            "18:00"
+          ]
+        ],
+        "5": [
+          [
+            "12:30",
+            "18:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "13:00"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario. Chiuso nelle festività e per il patrono. Orario da gennaio ad aprile e da ottobre a dicembre. Da maggio a settembre: lunedì e venerdì 12:30–19:15, martedì, giovedì e sabato 07:45–19:15.",
+      "lat": 43.637756,
+      "lon": 10.302914,
+      "fonte": "https://www.geofor.it/pisa/centro-di-raccolta-pisa/"
+    },
+    {
+      "id": "geofor-pisa-centro-del-riuso",
+      "tipo": "riuso",
+      "comune": "Pisa",
+      "indirizzo": "Via Fiorentina, Le Bocchette, Putignano",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario. Chiuso nelle festività e per il patrono. Per cittadini iscritti alla TARI del Comune di Pisa. Oggetti ancora utilizzabili, come piccoli mobili e giocattoli.",
+      "lat": 43.695736,
+      "lon": 10.434278,
+      "fonte": "https://www.geofor.it/pisa/centro-del-riuso-pisa/"
+    },
+    {
+      "id": "geofor-terricciola",
+      "tipo": "raccolta",
+      "comune": "Terricciola",
+      "indirizzo": "Via Pian d’Era, località La Rosa",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario. Chiuso nelle festività e per il patrono.",
+      "lat": 43.54469,
+      "lon": 10.703289,
+      "fonte": "https://www.geofor.it/terricciola/centro-di-raccolta-terricciola/"
     }
   ]
 }

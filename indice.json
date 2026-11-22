@@ -19953,6 +19953,177 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "san-giuliano-terme",
+      "nome": "San Giuliano Terme",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.762996,
+      "lon": 10.44104,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona sfalci A · Arena Metato, Madonna dell’Acqua",
+          "file": "comuni/san-giuliano-terme/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona sfalci B · Sant’Andrea in Pescaiola, San Martino Ulmiano, Pontasserchio",
+          "file": "comuni/san-giuliano-terme/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona sfalci C · Ripafratta, Pugnano, Colognole, Molina di Quosa, Rigoli, Pappiana, Orzignano",
+          "file": "comuni/san-giuliano-terme/zona-c.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "d",
+          "nome": "Zona sfalci D · Ghezzano e La Fontina fuori dalla zona artigianale",
+          "file": "comuni/san-giuliano-terme/zona-d.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "d-area-artigianale",
+          "nome": "La Fontina · zona artigianale (sfalci D)",
+          "file": "comuni/san-giuliano-terme/zona-d-area-artigianale.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "e",
+          "nome": "Zona sfalci E · Gello e San Giuliano Terme",
+          "file": "comuni/san-giuliano-terme/zona-e.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "f",
+          "nome": "Zona sfalci F · Asciano, Agnano, Colignola, Mezzana, Campo",
+          "file": "comuni/san-giuliano-terme/zona-f.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/s-giuliano-terme/calendario-raccolta-porta-a-porta-s-giuliano-terme/"
+    },
+    {
+      "id": "pisa",
+      "nome": "Pisa",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.71594,
+      "lon": 10.401862,
+      "zone": [
+        {
+          "id": "porta-lucca-passi-gagno",
+          "nome": "Porta a Lucca, I Passi e Gagno · vie con residuo stradale",
+          "file": "comuni/pisa/zona-porta-lucca-passi-gagno.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cisanello-pisanova-piagge-don-bosco",
+          "nome": "Cisanello, Pisanova, Piagge e Don Bosco · vie con residuo stradale",
+          "file": "comuni/pisa/zona-cisanello-pisanova-piagge-don-bosco.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "pratale",
+          "nome": "Pratale · vie con residuo stradale",
+          "file": "comuni/pisa/zona-pratale.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "porta-a-porta-13",
+          "nome": "Riglione, Oratoio, Putignano, Ospedaletto–Montacchiello e Coltano",
+          "file": "comuni/pisa/zona-porta-a-porta-13.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-e-litorale",
+          "nome": "Centro storico e vie del litorale con cassonetti elettronici",
+          "file": "comuni/pisa/zona-centro-e-litorale.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "via-bonanno",
+          "nome": "Via Bonanno Pisano · vie indicate dal Comune",
+          "file": "comuni/pisa/zona-via-bonanno.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cep",
+          "nome": "CEP · area servita dai cassonetti elettronici",
+          "file": "comuni/pisa/zona-cep.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "transizione-novembre",
+          "nome": "Sant’Ermete, San Giusto, San Marco e Porta a Mare · verifica civico",
+          "file": "comuni/pisa/zona-transizione-novembre.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "altre-zone",
+          "nome": "Altre vie di Pisa · verifica indirizzo",
+          "file": "comuni/pisa/zona-altre-zone.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/"
+    },
+    {
+      "id": "chianni",
+      "nome": "Chianni",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.48612,
+      "lon": 10.642362,
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Servizi e riferimenti del gestore",
+          "file": "comuni/chianni/zona-servizi.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "lajatico",
+      "nome": "Lajatico",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.475418,
+      "lon": 10.728284,
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Servizi e riferimenti del gestore",
+          "file": "comuni/lajatico/zona-servizi.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "terricciola",
+      "nome": "Terricciola",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.524738,
+      "lon": 10.680114,
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Servizi e riferimenti del gestore",
+          "file": "comuni/terricciola/zona-servizi.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {

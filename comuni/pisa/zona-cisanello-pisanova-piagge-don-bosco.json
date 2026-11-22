@@ -1,0 +1,96 @@
+{
+  "schema": 1,
+  "comune": "Pisa",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Cisanello, Pisanova, Piagge e Don Bosco · vie con residuo stradale",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2026/05/PISA-GENERALE-CALENDARIO-PAP-2026-Rev-1.pdf | https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/ | https://www.geofor.it/pisa-avvio-della-misurazione-dei-rifiuti-indifferenziati-a-cisanello-don-bosco-pisanova-e-piagge/ | https://www.geofor.it/pisa-4/",
+  "raccolte": {
+    "2026-11-23": [
+      "plastica"
+    ],
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "carta"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "plastica"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "carta"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "plastica"
+    ],
+    "2026-12-08": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "carta"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "plastica"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "carta"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "carta"
+    ],
+    "2026-12-26": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "carta"
+    ]
+  },
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Consultare la nota per gli sfalci.",
+  "esposizione_entro": "06:00",
+  "note": [
+    "Il secco residuo si conferisce nei contenitori stradali ad accesso controllato nelle vie indicate dal gestore. Carta, organico e Multimateriale seguono il porta a porta. Il vetro da imballaggio va nelle campane verdi.",
+    "Nelle vie elencate dal gestore i nuovi contenitori per il residuo sono attivi dal 16 novembre 2026.",
+    "Il ritiro di sfalci e potature va prenotato. Massimo 9 colli da 10 kg ciascuno, lunghezza massima 1,5 m e diametro massimo 50 cm."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-24",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-25"
+    }
+  ]
+}

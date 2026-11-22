@@ -1,0 +1,102 @@
+{
+  "schema": 1,
+  "comune": "Pisa",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Porta a Lucca, I Passi e Gagno · vie con residuo stradale",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2026/05/PISA-STEP-5-CALENDARIO-PAP-2026-Rev-1.pdf | https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/ | https://www.geofor.it/pisa-2/ | https://www.comune.pisa.it/Novita/Comunicati/Rifiuti-al-via-fase-sperimentale-di-misurazione-dell-indifferenziato-nel-quartiere-di-Porta-a-Lucca-Ovest | https://www.comune.pisa.it/content/download/27585/653266/file/ord_00695_28-03-2025.pdf",
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "plastica"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-11-28": [
+      "carta"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "plastica"
+    ],
+    "2026-12-04": [
+      "organico"
+    ],
+    "2026-12-05": [
+      "carta"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "plastica"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-12": [
+      "carta"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "plastica"
+    ],
+    "2026-12-18": [
+      "organico"
+    ],
+    "2026-12-19": [
+      "carta"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-23": [
+      "carta"
+    ],
+    "2026-12-24": [
+      "plastica"
+    ],
+    "2026-12-26": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "carta"
+    ],
+    "2026-12-31": [
+      "plastica"
+    ]
+  },
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Consultare la nota per gli sfalci.",
+  "esposizione_entro": "06:00",
+  "note": [
+    "Il secco residuo si conferisce nei contenitori stradali ad accesso controllato nelle vie indicate dal gestore. Carta, organico e Multimateriale seguono il porta a porta. Il vetro da imballaggio va nelle campane verdi.",
+    "Consultare le vie e i limiti dei civici nelle fonti ufficiali.",
+    "Il ritiro di sfalci e potature va prenotato. Massimo 9 colli da 10 kg ciascuno, lunghezza massima 1,5 m e diametro massimo 50 cm."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "organico",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2026-12-23",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-26"
+    }
+  ]
+}
