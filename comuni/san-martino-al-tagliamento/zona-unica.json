@@ -27,16 +27,9 @@
     "2026-12-18": [
       "plastica"
     ],
-    "2026-12-25": [
-      "carta",
-      "indifferenziato"
-    ],
     "2026-12-26": [
       "carta",
       "indifferenziato"
-    ],
-    "2027-01-01": [
-      "plastica"
     ],
     "2027-01-04": [
       "plastica"
@@ -251,5 +244,25 @@
     "2028-02-25": [
       "plastica"
     ]
-  }
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "indifferenziato",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2027-01-04",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2027-01-01"
+    }
+  ]
 }

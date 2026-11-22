@@ -270,9 +270,6 @@
     "2027-12-29": [
       "plastica"
     ],
-    "2028-01-01": [
-      "indifferenziato"
-    ],
     "2028-01-03": [
       "indifferenziato"
     ],
@@ -312,5 +309,13 @@
     "2028-02-26": [
       "indifferenziato"
     ]
-  }
+  },
+  "eccezioni": [
+    {
+      "data": "2028-01-03",
+      "tipo": "spostato",
+      "raccolta": "indifferenziato",
+      "da": "2028-01-01"
+    }
+  ]
 }

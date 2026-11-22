@@ -192,9 +192,6 @@
       "plastica",
       "sfalci"
     ],
-    "2027-06-02": [
-      "indifferenziato"
-    ],
     "2027-06-07": [
       "carta",
       "sfalci"
@@ -376,9 +373,6 @@
     "2027-12-06": [
       "carta"
     ],
-    "2027-12-08": [
-      "indifferenziato"
-    ],
     "2027-12-13": [
       "plastica",
       "sfalci"
@@ -451,5 +445,17 @@
     "2028-02-28": [
       "carta"
     ]
-  }
+  },
+  "eccezioni": [
+    {
+      "data": "2027-06-02",
+      "tipo": "annullato",
+      "raccolta": "indifferenziato"
+    },
+    {
+      "data": "2027-12-08",
+      "tipo": "annullato",
+      "raccolta": "indifferenziato"
+    }
+  ]
 }

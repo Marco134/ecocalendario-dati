@@ -46,19 +46,11 @@
     "2026-12-24": [
       "vetro"
     ],
-    "2026-12-25": [
-      "organico",
-      "vetro"
-    ],
     "2026-12-26": [
       "organico"
     ],
     "2026-12-29": [
       "plastica"
-    ],
-    "2027-01-01": [
-      "organico",
-      "indifferenziato"
     ],
     "2027-01-02": [
       "organico",
@@ -532,5 +524,31 @@
     "2028-02-29": [
       "carta"
     ]
-  }
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-24",
+      "tipo": "spostato",
+      "raccolta": "vetro",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "organico",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2027-01-02",
+      "tipo": "spostato",
+      "raccolta": "indifferenziato",
+      "da": "2027-01-01"
+    },
+    {
+      "data": "2027-01-02",
+      "tipo": "spostato",
+      "raccolta": "organico",
+      "da": "2027-01-01"
+    }
+  ]
 }
