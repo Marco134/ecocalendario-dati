@@ -1,0 +1,233 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-22",
+  "gestore": "Geofor S.p.A.",
+  "numero_verde": "800 959095",
+  "accesso": "Centri riservati alle utenze autorizzate del comune o dei comuni convenzionati. Portare la tessera sanitaria dell’intestatario.",
+  "centri": [
+    {
+      "id": "geofor-bientina",
+      "tipo": "raccolta",
+      "comune": "Bientina",
+      "indirizzo": "Via E. Fermi",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività e per il patrono. Per le utenze di Bientina.",
+      "lat": 43.696268,
+      "lon": 10.623202,
+      "fonte": "https://www.geofor.it/bientina/centro-di-raccolta-bientina/"
+    },
+    {
+      "id": "geofor-buti",
+      "tipo": "raccolta",
+      "comune": "Buti",
+      "indirizzo": "Via dei Macelli",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:30",
+            "13:30"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività e per il patrono. Per le utenze di Buti.",
+      "lat": 43.72749,
+      "lon": 10.595573,
+      "fonte": "https://www.geofor.it/buti/centro-di-raccolta-buti/"
+    },
+    {
+      "id": "geofor-calci",
+      "tipo": "raccolta",
+      "comune": "Calci",
+      "indirizzo": "Via del Paduletto, zona industriale",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:30"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività e per il patrono. Centro sovracomunale per Calci, Vicopisano e San Giuliano Terme.",
+      "lat": 43.717609,
+      "lon": 10.505961,
+      "fonte": "https://www.geofor.it/calci/centro-di-raccolta-calci/"
+    },
+    {
+      "id": "geofor-calcinaia",
+      "tipo": "raccolta",
+      "comune": "Calcinaia",
+      "indirizzo": "Via del Marrucco",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività e per il patrono. Centro sovracomunale per Calcinaia e Vicopisano.",
+      "lat": 43.690522,
+      "lon": 10.60779,
+      "fonte": "https://www.geofor.it/calcinaia/centro-di-raccolta-calcinaia/"
+    },
+    {
+      "id": "geofor-capannoli",
+      "tipo": "raccolta",
+      "comune": "Capannoli",
+      "indirizzo": "Via Reggina",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività e per il patrono. Per le utenze di Capannoli.",
+      "lat": 43.599831,
+      "lon": 10.672093,
+      "fonte": "https://www.geofor.it/capannoli/centro-di-raccolta-capannoli/"
+    }
+  ]
+}

@@ -3508,6 +3508,101 @@
       "regole_en": [
         "Take accepted bulky waste to the recycling centre free of charge. Call to request home collection."
       ]
+    },
+    {
+      "id": "geofor-bientina",
+      "nome": "Geofor – Bientina",
+      "comuni": [
+        "bientina"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/bientina/prenota-ritiri-bientina/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/bientina/prenota-ritiri-bientina/ | https://www.geofor.it/wp-content/uploads/2025/12/BIENTINA-CALENDARIO-PAP-2026-Rev1.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione online, tramite app RCiclo o al numero verde (opzione 2). In alternativa, conferire i materiali ammessi al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection online, via RCiclo or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-buti",
+      "nome": "Geofor – Buti",
+      "comuni": [
+        "buti"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/buti/prenota-ritiri-buti/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/buti/prenota-ritiri-buti/ | https://www.geofor.it/wp-content/uploads/2025/12/BUTI-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione online, tramite app RCiclo o al numero verde (opzione 2). In alternativa, conferire i materiali ammessi al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection online, via RCiclo or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-calci",
+      "nome": "Geofor – Calci",
+      "comuni": [
+        "calci"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/calci/prenota-ritiri-calci/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/calci/prenota-ritiri-calci/ | https://www.geofor.it/wp-content/uploads/2025/12/CALCI-CALENDARIO-2026-PAP-CON-QRCODE-DEL-RIFIUTARIO.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione online, tramite app RCiclo o al numero verde (opzione 2). In alternativa, conferire i materiali ammessi al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection online, via RCiclo or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-calcinaia",
+      "nome": "Geofor – Calcinaia",
+      "comuni": [
+        "calcinaia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/calcinaia/prenota-ritiri-calcinaia/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/calcinaia/prenota-ritiri-calcinaia/ | https://www.geofor.it/wp-content/uploads/2025/12/CALCINAIA-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione online, tramite app RCiclo o al numero verde (opzione 2). In alternativa, conferire i materiali ammessi al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection online, via RCiclo or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-capannoli",
+      "nome": "Geofor – Capannoli",
+      "comuni": [
+        "capannoli"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/capannoli/prenota-ritiri-capannoli/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/capannoli/prenota-ritiri-capannoli/ | https://www.geofor.it/wp-content/uploads/2025/12/CAPANNOLI-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione online, tramite app RCiclo o al numero verde (opzione 2). In alternativa, conferire i materiali ammessi al centro di raccolta."
+      ],
+      "regole_en": [
+        "Book free home collection online, via RCiclo or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
     }
   ]
 }

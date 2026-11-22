@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "comune": "Capannoli",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Utenze servite dal porta a porta",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CAPANNOLI-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/capannoli/calendario-raccolta-porta-a-porta-capannoli/",
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "plastica"
+    ],
+    "2026-11-25": [
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "carta"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "plastica"
+    ],
+    "2026-12-02": [
+      "indifferenziato"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "carta"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "carta"
+    ],
+    "2026-12-12": [
+      "plastica"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "plastica"
+    ],
+    "2026-12-16": [
+      "indifferenziato"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "carta"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "plastica"
+    ],
+    "2026-12-23": [
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "carta"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "plastica"
+    ],
+    "2026-12-30": [
+      "indifferenziato"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  },
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "note": [
+    "Il vetro da imballaggio va nelle campane verdi sul territorio. Il Multimateriale include gli imballaggi in plastica e metallo.",
+    "Le case sparse prive di porta a porta conferiscono al centro di raccolta, come indicato nella scheda separata."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-12",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-25"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "nome": "Geofor",
+  "fonte": "https://www.geofor.it/dove-lo-butto/",
+  "voci": {
+    "tetrapak (cartoni di latte e succhi)": {
+      "dove": "plastica",
+      "nota": "Mettere i cartoni per alimenti e bevande con il Multimateriale.",
+      "nota_en": "Put food and drink cartons with mixed packaging."
+    },
+    "capsule di caffè in plastica o alluminio": {
+      "dove": "plastica",
+      "nota": "Con il Multimateriale. Separare i componenti quando possibile per favorire il riciclo.",
+      "nota_en": "Put with mixed packaging. Separate the components where possible."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "Vuote, con il Multimateriale.",
+      "nota_en": "Empty them and put them with mixed packaging."
+    },
+    "polistirolo da imballaggio": {
+      "dove": "plastica",
+      "nota": "Gli imballaggi domestici puliti si conferiscono con il Multimateriale.",
+      "nota_en": "Put clean household packaging with mixed packaging."
+    },
+    "cristallo": {
+      "dove": "indifferenziato",
+      "nota": "Nel residuo, anche se si tratta di un bicchiere.",
+      "nota_en": "Put in residual waste, including crystal glasses."
+    },
+    "lampadine a incandescenza": {
+      "dove": "indifferenziato",
+      "nota": "Nel residuo secondo il Rifiutario Geofor.",
+      "nota_en": "Put in residual waste according to Geofor’s guide."
+    }
+  },
+  "extra": [
+    {
+      "nome": "carta da forno",
+      "dove": "indifferenziato",
+      "nota": "Nel contenitore del residuo.",
+      "nome_en": "baking paper",
+      "nota_en": "Put in residual waste."
+    },
+    {
+      "nome": "grucce di plastica o filo di ferro",
+      "dove": "plastica",
+      "nota": "Con il Multimateriale. Le grucce di legno si portano al centro di raccolta.",
+      "nome_en": "plastic or wire clothes hangers",
+      "nota_en": "Put with mixed packaging. Take wooden hangers to the recycling centre."
+    },
+    {
+      "nome": "grucce di legno",
+      "dove": "centro",
+      "nota": "Al centro di raccolta.",
+      "nome_en": "wooden clothes hangers",
+      "nota_en": "Take to a recycling centre."
+    }
+  ],
+  "tipi": {
+    "plastica": {
+      "nome": "Multimateriale",
+      "nome_en": "Mixed packaging"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-22, Rifiutario Geofor"
+  }
+}

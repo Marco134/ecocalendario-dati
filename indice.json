@@ -19513,6 +19513,105 @@
       ],
       "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142",
       "regole": "regole/san-vito-al-tagliamento.json"
+    },
+    {
+      "id": "bientina",
+      "nome": "Bientina",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.717,
+      "lon": 10.617,
+      "zone": [
+        {
+          "id": "sfalci-1",
+          "nome": "Zona sfalci 1 · area rossa",
+          "file": "comuni/bientina/zona-sfalci-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "sfalci-2",
+          "nome": "Zona sfalci 2 · area verde",
+          "file": "comuni/bientina/zona-sfalci-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/wp-content/uploads/2025/12/BIENTINA-CALENDARIO-PAP-2026-Rev1.pdf#page=2"
+    },
+    {
+      "id": "buti",
+      "nome": "Buti",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.729722,
+      "lon": 10.586667,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/buti/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "calci",
+      "nome": "Calci",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.717,
+      "lon": 10.517,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/calci/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "calcinaia",
+      "nome": "Calcinaia",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.683,
+      "lon": 10.617,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/calcinaia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "capannoli",
+      "nome": "Capannoli",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.583,
+      "lon": 10.667,
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Utenze servite dal porta a porta",
+          "file": "comuni/capannoli/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse prive di porta a porta",
+          "file": "comuni/capannoli/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/capannoli/calendario-raccolta-porta-a-porta-capannoli/"
     }
   ],
   "consorzi": {
@@ -19667,6 +19766,12 @@
       "nome": "Ambiente Servizi",
       "gestore": "Ambiente Servizi S.p.A.",
       "ecocentri": "ecocentri/ambiente-servizi.json"
+    },
+    "geofor": {
+      "nome": "Geofor",
+      "gestore": "Geofor S.p.A.",
+      "ecocentri": "ecocentri/geofor.json",
+      "regole": "regole/geofor.json"
     }
   },
   "tipi_en": {
