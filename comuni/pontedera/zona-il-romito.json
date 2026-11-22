@@ -1,0 +1,122 @@
+{
+  "schema": 1,
+  "comune": "Pontedera",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Il Romito",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PONTEDERA-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/pontedera/calendario-raccolta-porta-a-porta-pontedera/",
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "plastica"
+    ],
+    "2026-11-25": [
+      "carta"
+    ],
+    "2026-11-26": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "indifferenziato",
+      "sfalci"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "plastica"
+    ],
+    "2026-12-02": [
+      "carta"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "indifferenziato"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "carta"
+    ],
+    "2026-12-10": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "indifferenziato",
+      "sfalci"
+    ],
+    "2026-12-12": [
+      "plastica"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "plastica"
+    ],
+    "2026-12-16": [
+      "carta"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "indifferenziato"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "plastica"
+    ],
+    "2026-12-23": [
+      "carta"
+    ],
+    "2026-12-24": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico",
+      "sfalci"
+    ],
+    "2026-12-29": [
+      "plastica"
+    ],
+    "2026-12-30": [
+      "carta"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  },
+  "esposizione": "Esporre entro le 13:00 del giorno di raccolta.",
+  "esposizione_entro": "13:00",
+  "note": [
+    "Il vetro da imballaggio va nelle campane verdi. Il Multimateriale include gli imballaggi in plastica e metalli.",
+    "Le zone combinano gli orari di esposizione e il turno degli sfalci. La carta del sabato nel centro è per gli esercizi commerciali."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-12",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "indifferenziato",
+      "da": "2026-12-25"
+    }
+  ]
+}

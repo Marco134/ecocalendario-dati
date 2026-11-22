@@ -19612,6 +19612,347 @@
         }
       ],
       "zone_url": "https://www.geofor.it/capannoli/calendario-raccolta-porta-a-porta-capannoli/"
+    },
+    {
+      "id": "casciana-terme-lari",
+      "nome": "Casciana Terme Lari",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.552159,
+      "lon": 10.594206,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A · area indicata nella mappa",
+          "file": "comuni/casciana-terme-lari/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B · area indicata nella mappa",
+          "file": "comuni/casciana-terme-lari/zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/casciana-terme-lari/calendario-raccolta-porta-a-porta-casciana-terme-lari/"
+    },
+    {
+      "id": "cascina",
+      "nome": "Cascina",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.676674,
+      "lon": 10.549224,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A · civici sulla Tosco-Romagnola inclusi",
+          "file": "comuni/cascina/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/cascina/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C · corti e aree interne indicate in mappa",
+          "file": "comuni/cascina/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/cascina/calendario-raccolta-porta-a-porta-cascina/"
+    },
+    {
+      "id": "castelfranco-di-sotto",
+      "nome": "Castelfranco di Sotto",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.699715,
+      "lon": 10.745178,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/castelfranco-di-sotto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "crespina-lorenzana",
+      "nome": "Crespina Lorenzana",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.587912,
+      "lon": 10.554653,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/crespina-lorenzana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "fauglia",
+      "nome": "Fauglia",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.570638,
+      "lon": 10.514409,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro storico · vie indicate nel PDF",
+          "file": "comuni/fauglia/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "resto",
+          "nome": "Resto del comune · RSA e bidoni carrellati di Piazza San Lorenzo",
+          "file": "comuni/fauglia/zona-resto.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/Fauglia/calendario-raccolta-porta-a-porta-Fauglia/"
+    },
+    {
+      "id": "montopoli-in-val-d-arno",
+      "nome": "Montopoli in Val d'Arno",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.670299,
+      "lon": 10.760832,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/montopoli-in-val-d-arno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "palaia",
+      "nome": "Palaia",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.605041,
+      "lon": 10.772014,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/palaia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ponsacco",
+      "nome": "Ponsacco",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.620713,
+      "lon": 10.630829,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/ponsacco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pontedera",
+      "nome": "Pontedera",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.663454,
+      "lon": 10.635485,
+      "zone": [
+        {
+          "id": "villaggi",
+          "nome": "Villaggi",
+          "file": "comuni/pontedera/zona-villaggi.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "gello-e-localita",
+          "nome": "Gello, Santa Lucia, Pardossi, PIP3 e Il Chiesino",
+          "file": "comuni/pontedera/zona-gello-e-localita.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-e-localita",
+          "nome": "Centro, Sozzifanti e Bellaria",
+          "file": "comuni/pontedera/zona-centro-e-localita.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "la-borra",
+          "nome": "La Borra",
+          "file": "comuni/pontedera/zona-la-borra.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "oltrera",
+          "nome": "Oltrera",
+          "file": "comuni/pontedera/zona-oltrera.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "il-romito",
+          "nome": "Il Romito",
+          "file": "comuni/pontedera/zona-il-romito.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "la-bianca-e-localita",
+          "nome": "La Bianca, Pietroconti, La Rotta e Montecastello",
+          "file": "comuni/pontedera/zona-la-bianca-e-localita.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "treggiaia-i-fabbri",
+          "nome": "Treggiaia e I Fabbri",
+          "file": "comuni/pontedera/zona-treggiaia-i-fabbri.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/pontedera/calendario-raccolta-porta-a-porta-pontedera/"
+    },
+    {
+      "id": "san-miniato",
+      "nome": "San Miniato",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.67975,
+      "lon": 10.850095,
+      "zone": [
+        {
+          "id": "mattina",
+          "nome": "Area gialla · mattina",
+          "file": "comuni/san-miniato/zona-mattina.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "pomeriggio",
+          "nome": "Area verde · pomeriggio",
+          "file": "comuni/san-miniato/zona-pomeriggio.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/san-miniato/calendario-raccolta-porta-a-porta-san-miniato/"
+    },
+    {
+      "id": "santa-croce-sull-arno",
+      "nome": "Santa Croce sull'Arno",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.710108,
+      "lon": 10.781941,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/santa-croce-sull-arno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "santa-maria-a-monte",
+      "nome": "Santa Maria a Monte",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.698064,
+      "lon": 10.692998,
+      "zone": [
+        {
+          "id": "rur-1",
+          "nome": "Zona 1 · residuo",
+          "file": "comuni/santa-maria-a-monte/zona-rur-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "rur-2",
+          "nome": "Zona 2 · residuo",
+          "file": "comuni/santa-maria-a-monte/zona-rur-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/santa-maria-a-monte/calendario-raccolta-porta-a-porta-santa-maria-a-monte/"
+    },
+    {
+      "id": "vecchiano",
+      "nome": "Vecchiano",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.783342,
+      "lon": 10.384403,
+      "zone": [
+        {
+          "id": "resto-sfalci-1",
+          "nome": "Resto del comune · sfalci zona 1",
+          "file": "comuni/vecchiano/zona-resto-sfalci-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "resto-sfalci-2",
+          "nome": "Resto del comune · sfalci zona 2",
+          "file": "comuni/vecchiano/zona-resto-sfalci-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "migliarino-marina-sfalci-1",
+          "nome": "Zona artigianale Migliarino e Marina di Vecchiano · sfalci 1",
+          "file": "comuni/vecchiano/zona-migliarino-marina-sfalci-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "migliarino-marina-sfalci-2",
+          "nome": "Zona artigianale Migliarino e Marina di Vecchiano · sfalci 2",
+          "file": "comuni/vecchiano/zona-migliarino-marina-sfalci-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.geofor.it/vecchiano/calendario-raccolta-porta-a-porta-vecchiano/"
+    },
+    {
+      "id": "vicopisano",
+      "nome": "Vicopisano",
+      "provincia": "PI",
+      "gestore": "Geofor S.p.A.",
+      "consorzio": "geofor",
+      "lat": 43.699832,
+      "lon": 10.584695,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Tutto il comune",
+          "file": "comuni/vicopisano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {

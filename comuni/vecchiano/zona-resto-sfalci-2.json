@@ -1,0 +1,141 @@
+{
+  "schema": 1,
+  "comune": "Vecchiano",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Resto del comune · sfalci zona 2",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/VECCHIANO-CALENDARIO-PAP-2026-ESCLUSO-Z.A.-MIGLIARINO-E-MARINA-DI-VECCHIANO-con-ecomobile-e-Sfalci-CON-MAPPA.pdf | https://www.geofor.it/vecchiano/calendario-raccolta-porta-a-porta-vecchiano/",
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "carta"
+    ],
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "plastica"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "carta"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "indifferenziato",
+      "sfalci"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "plastica"
+    ],
+    "2026-12-12": [
+      "carta"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "carta"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "indifferenziato",
+      "sfalci"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "carta"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-26": [
+      "plastica"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "carta"
+    ],
+    "2026-12-30": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "indifferenziato",
+      "sfalci"
+    ]
+  },
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "note": [
+    "Il vetro da imballaggio va nelle campane verdi. Il Multimateriale include gli imballaggi in plastica e metalli.",
+    "Gli sfalci vanno esposti entro le 13:00. Identificare la zona 1 o 2 sulla mappa del PDF."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-12",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2026-12-12",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    }
+  ]
+}

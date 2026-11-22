@@ -1,0 +1,117 @@
+{
+  "schema": 1,
+  "comune": "Santa Croce sull'Arno",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Tutto il comune",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/SANTA-CROCE-SULLARNO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/santa-croce-sull-arno/calendario-raccolta-porta-a-porta-santa-croce-sull-arno/",
+  "raccolte": {
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-25": [
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "carta"
+    ],
+    "2026-11-27": [
+      "plastica"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "indifferenziato"
+    ],
+    "2026-12-03": [
+      "carta"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "carta"
+    ],
+    "2026-12-11": [
+      "plastica"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-16": [
+      "indifferenziato"
+    ],
+    "2026-12-17": [
+      "carta"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-23": [
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "carta"
+    ],
+    "2026-12-26": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "indifferenziato"
+    ],
+    "2026-12-31": [
+      "carta"
+    ]
+  },
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "note": [
+    "Il vetro da imballaggio va nelle campane verdi. Il Multimateriale include gli imballaggi in plastica e metalli.",
+    "Verde a domicilio su prenotazione per le utenze domestiche.",
+    "Il ritiro del verde ammette fino a 9 colli da 10 kg ciascuno, lunghezza massima 1,5 m e diametro massimo 50 cm."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-07",
+      "tipo": "spostato",
+      "raccolta": "organico",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-28",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2026-12-25"
+    }
+  ]
+}

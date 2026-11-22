@@ -3603,6 +3603,272 @@
       "regole_en": [
         "Book free home collection online, via RCiclo or by phone (option 2). Alternatively, take accepted items to the recycling centre."
       ]
+    },
+    {
+      "id": "geofor-casciana-terme-lari",
+      "nome": "Geofor – Casciana Terme Lari",
+      "comuni": [
+        "casciana-terme-lari"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/casciana-terme-lari/prenota-ritiri-casciana-terme-lari/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/casciana-terme-lari/prenota-ritiri-casciana-terme-lari/ | https://www.geofor.it/wp-content/uploads/2026/02/CASCIANA-TERME-LARI-CALENDARO-PAP-2026-con-mappa-approvato-27.02.26.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-cascina",
+      "nome": "Geofor – Cascina",
+      "comuni": [
+        "cascina"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/cascina/prenota-ritiri-cascina/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/cascina/prenota-ritiri-cascina/ | https://www.geofor.it/wp-content/uploads/2026/01/CASCINA-CALENDARIO-PAP-2026-CON-ECOMOBILE-rev-1.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-castelfranco-di-sotto",
+      "nome": "Geofor – Castelfranco di Sotto",
+      "comuni": [
+        "castelfranco-di-sotto"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/castelfranco-di-sotto/prenota-ritiri-castelfranco/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/castelfranco-di-sotto/prenota-ritiri-castelfranco/ | https://www.geofor.it/wp-content/uploads/2025/12/CASTELFRANCO-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-crespina-lorenzana",
+      "nome": "Geofor – Crespina Lorenzana",
+      "comuni": [
+        "crespina-lorenzana"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/Crespina-Lorenzana/prenota-ritiri-Crespina-Lorenzana/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/Crespina-Lorenzana/prenota-ritiri-Crespina-Lorenzana/ | https://www.geofor.it/wp-content/uploads/2025/12/CRESPINA-LORENZANA-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-fauglia",
+      "nome": "Geofor – Fauglia",
+      "comuni": [
+        "fauglia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/Fauglia/prenota-ritiri-Fauglia/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/Fauglia/prenota-ritiri-Fauglia/ | https://www.geofor.it/wp-content/uploads/2026/05/FAUGLIA-CALENDARIO-PAP-2026-valido-dal-11_05_2026.pub-rev-1.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-montopoli-in-val-d-arno",
+      "nome": "Geofor – Montopoli in Val d'Arno",
+      "comuni": [
+        "montopoli-in-val-d-arno"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/montopoli/prenota-ritiri-montopoli/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/montopoli/prenota-ritiri-montopoli/ | https://www.geofor.it/wp-content/uploads/2025/12/MONTOPOLI-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-palaia",
+      "nome": "Geofor – Palaia",
+      "comuni": [
+        "palaia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/Palaia/prenota-ritiri-Palaia/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/Palaia/prenota-ritiri-Palaia/ | https://www.geofor.it/wp-content/uploads/2025/12/PALAIA-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-ponsacco",
+      "nome": "Geofor – Ponsacco",
+      "comuni": [
+        "ponsacco"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/ponsacco/prenota-ritiri-ponsacco/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/ponsacco/prenota-ritiri-ponsacco/ | https://www.geofor.it/wp-content/uploads/2026/06/PONSACCO-CALENDARIO-PAP-2026-rev0.1.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-pontedera",
+      "nome": "Geofor – Pontedera",
+      "comuni": [
+        "pontedera"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/pontedera/prenota-ritiri-pontedera/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/pontedera/prenota-ritiri-pontedera/ | https://www.geofor.it/wp-content/uploads/2025/12/PONTEDERA-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-san-miniato",
+      "nome": "Geofor – San Miniato",
+      "comuni": [
+        "san-miniato"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/san-miniato/prenota-ritiri-san-miniato/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/san-miniato/prenota-ritiri-san-miniato/ | https://www.geofor.it/wp-content/uploads/2025/12/SAN-MINIATO-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-santa-croce-sull-arno",
+      "nome": "Geofor – Santa Croce sull'Arno",
+      "comuni": [
+        "santa-croce-sull-arno"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/santa-croce-sull-arno/prenota-ritiri-santa-croce-sull-arno/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/santa-croce-sull-arno/prenota-ritiri-santa-croce-sull-arno/ | https://www.geofor.it/wp-content/uploads/2025/12/SANTA-CROCE-SULLARNO-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-santa-maria-a-monte",
+      "nome": "Geofor – Santa Maria a Monte",
+      "comuni": [
+        "santa-maria-a-monte"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/santa-maria-a-monte/prenota-ritiri-santa-maria-a-monte/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/santa-maria-a-monte/prenota-ritiri-santa-maria-a-monte/ | https://www.geofor.it/wp-content/uploads/2025/12/SANTA-MARIA-A-MONTE-CALENDARIO-PAP-2026-con-mappa.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-vecchiano",
+      "nome": "Geofor – Vecchiano",
+      "comuni": [
+        "vecchiano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/vecchiano/prenota-ritiri-vecchiano/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/vecchiano/prenota-ritiri-vecchiano/ | https://www.geofor.it/wp-content/uploads/2025/12/VECCHIANO-CALENDARIO-PAP-2026-ESCLUSO-Z.A.-MIGLIARINO-E-MARINA-DI-VECCHIANO-con-ecomobile-e-Sfalci-CON-MAPPA.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
+    },
+    {
+      "id": "geofor-vicopisano",
+      "nome": "Geofor – Vicopisano",
+      "comuni": [
+        "vicopisano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.geofor.it/vicopisano/prenota-ritiri-vicopisano/",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.geofor.it/vicopisano/prenota-ritiri-vicopisano/ | https://www.geofor.it/wp-content/uploads/2025/12/VICOPISANO-CALENDARIO-PAP-2026.pdf",
+      "telefono": "800 959095",
+      "regole": [
+        "Ritiro gratuito a domicilio su prenotazione via app RCiclo, sito Geofor o numero verde (opzione 2). Conferimento alternativo al centro di raccolta per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Book free home collection via RCiclo, the Geofor portal or by phone (option 2). Alternatively, take accepted items to the recycling centre."
+      ]
     }
   ]
 }

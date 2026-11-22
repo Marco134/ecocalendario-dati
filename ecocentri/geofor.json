@@ -228,6 +228,708 @@
       "lat": 43.599831,
       "lon": 10.672093,
       "fonte": "https://www.geofor.it/capannoli/centro-di-raccolta-capannoli/"
+    },
+    {
+      "id": "geofor-casciana-terme-lari-via-del-commercio-nord",
+      "tipo": "raccolta",
+      "comune": "Casciana Terme Lari",
+      "indirizzo": "Via del Commercio Nord",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.540527,
+      "lon": 10.617335,
+      "fonte": "https://www.geofor.it/casciana-terme-lari/centro-di-raccolta-casciana-terme-lari/"
+    },
+    {
+      "id": "geofor-casciana-terme-lari-via-delle-melorie-perignano",
+      "tipo": "raccolta",
+      "comune": "Casciana Terme Lari",
+      "indirizzo": "Via delle Melorie (Perignano)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:30"
+          ],
+          [
+            "14:00",
+            "17:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.616392,
+      "lon": 10.598326,
+      "fonte": "https://www.geofor.it/casciana-terme-lari/centro-di-raccolta-casciana-terme-lari/"
+    },
+    {
+      "id": "geofor-cascina-via-fiorentina",
+      "tipo": "raccolta",
+      "comune": "Pisa",
+      "indirizzo": "Via Fiorentina",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono. Centro sovracomunale per Pisa e Cascina.",
+      "lat": 43.695736,
+      "lon": 10.434278,
+      "fonte": "https://www.geofor.it/cascina/centro-di-raccolta-cascina/"
+    },
+    {
+      "id": "geofor-cascina-via-campania",
+      "tipo": "raccolta",
+      "comune": "Cascina",
+      "indirizzo": "Via Campania",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.6680747,
+      "lon": 10.5442788,
+      "fonte": "https://www.geofor.it/cascina/centro-di-raccolta-cascina/"
+    },
+    {
+      "id": "geofor-castelfranco-di-sotto-via-tabellata-capoluogo",
+      "tipo": "raccolta",
+      "comune": "Castelfranco di Sotto",
+      "indirizzo": "Via Tabellata (Capoluogo)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.702767,
+      "lon": 10.751255,
+      "fonte": "https://www.geofor.it/castelfranco-di-sotto/centro-di-raccolta-castelfranco-di-sotto"
+    },
+    {
+      "id": "geofor-castelfranco-di-sotto-via-della-chiesa-loc-orentano",
+      "tipo": "raccolta",
+      "comune": "Castelfranco di Sotto",
+      "indirizzo": "Via della Chiesa (Loc. Orentano)",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.776583,
+      "lon": 10.65231,
+      "fonte": "https://www.geofor.it/castelfranco-di-sotto/centro-di-raccolta-castelfranco-di-sotto"
+    },
+    {
+      "id": "geofor-crespina-lorenzana",
+      "tipo": "raccolta",
+      "comune": "Crespina Lorenzana",
+      "indirizzo": "Via Lavoria",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.613015,
+      "lon": 10.526331,
+      "fonte": "https://www.geofor.it/Crespina-Lorenzana/centro-di-raccolta-Crespina-Lorenzana/"
+    },
+    {
+      "id": "geofor-fauglia",
+      "tipo": "raccolta",
+      "comune": "Fauglia",
+      "indirizzo": "Via Querciole",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:30",
+            "19:15"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "19:15"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:15"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.572759,
+      "lon": 10.524839,
+      "fonte": "https://www.geofor.it/Fauglia/centro-di-raccolta-Fauglia/"
+    },
+    {
+      "id": "geofor-montopoli-in-val-d-arno",
+      "tipo": "raccolta",
+      "comune": "Montopoli in Val d'Arno",
+      "indirizzo": "Via J.F.Kennedy",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.685642,
+      "lon": 10.734162,
+      "fonte": "https://www.geofor.it/montopoli/centro-di-raccolta-montopoli/"
+    },
+    {
+      "id": "geofor-palaia",
+      "tipo": "raccolta",
+      "comune": "Palaia",
+      "indirizzo": "Via Da Vinci",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.591566,
+      "lon": 10.715942,
+      "fonte": "https://www.geofor.it/Palaia/centro-di-raccolta-Palaia/"
+    },
+    {
+      "id": "geofor-ponsacco",
+      "tipo": "raccolta",
+      "comune": "Ponsacco",
+      "indirizzo": "Viale Europa",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:30"
+          ],
+          [
+            "14:00",
+            "18:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.630729,
+      "lon": 10.618782,
+      "fonte": "https://www.geofor.it/ponsacco/centro-di-raccolta-ponsacco/"
+    },
+    {
+      "id": "geofor-pontedera",
+      "tipo": "raccolta",
+      "comune": "Pontedera",
+      "indirizzo": "Via Don Mei",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:30",
+            "19:30"
+          ]
+        ],
+        "2": [
+          [
+            "07:30",
+            "19:30"
+          ]
+        ],
+        "3": [
+          [
+            "07:30",
+            "19:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:30",
+            "19:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:30",
+            "19:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "19:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono. Accesso su prenotazione, riservato ai residenti di Pontedera.",
+      "lat": 43.669196,
+      "lon": 10.658829,
+      "fonte": "https://www.geofor.it/pontedera/centro-di-raccolta-pontedera/"
+    },
+    {
+      "id": "geofor-san-miniato",
+      "tipo": "raccolta",
+      "comune": "San Miniato",
+      "indirizzo": "Via Guerrazzi",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "13:30"
+          ],
+          [
+            "15:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "13:30"
+          ],
+          [
+            "15:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.690411,
+      "lon": 10.822257,
+      "fonte": "https://www.geofor.it/san-miniato/centro-di-raccolta-san-miniato/"
+    },
+    {
+      "id": "geofor-santa-croce-sull-arno",
+      "tipo": "raccolta",
+      "comune": "Santa Croce sull'Arno",
+      "indirizzo": "Via Marco Polo",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:30",
+            "12:45"
+          ]
+        ],
+        "2": [
+          [
+            "13:00",
+            "18:15"
+          ]
+        ],
+        "3": [
+          [
+            "07:30",
+            "12:45"
+          ]
+        ],
+        "4": [
+          [
+            "13:00",
+            "18:15"
+          ]
+        ],
+        "5": [
+          [
+            "07:30",
+            "12:45"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "12:45"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.72498,
+      "lon": 10.77017,
+      "fonte": "https://www.geofor.it/santa-croce-sull-arno/centro-di-raccolta-santa-croce-sull-arno/"
+    },
+    {
+      "id": "geofor-santa-maria-a-monte",
+      "tipo": "raccolta",
+      "comune": "Santa Maria a Monte",
+      "indirizzo": "Via Marconi",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.692832,
+      "lon": 10.711216,
+      "fonte": "https://www.geofor.it/santa-maria-a-monte/centro-di-raccolta-santa-maria-a-monte/"
+    },
+    {
+      "id": "geofor-vecchiano",
+      "tipo": "raccolta",
+      "comune": "Vecchiano",
+      "indirizzo": "Via Salcetti",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "19:00"
+          ]
+        ],
+        "4": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "13:00"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "19:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Portare la tessera sanitaria dell’intestatario dell’utenza. Chiuso nelle festività nazionali e per il patrono.",
+      "lat": 43.804396,
+      "lon": 10.37157,
+      "fonte": "https://www.geofor.it/vecchiano/centro-di-raccolta-vecchiano/"
     }
   ]
 }

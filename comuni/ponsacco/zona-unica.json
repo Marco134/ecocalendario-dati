@@ -1,0 +1,105 @@
+{
+  "schema": 1,
+  "comune": "Ponsacco",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Tutto il comune",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2026/06/PONSACCO-CALENDARIO-PAP-2026-rev0.1.pdf | https://www.geofor.it/ponsacco/calendario-raccolta-porta-a-porta-ponsacco/",
+  "raccolte": {
+    "2026-11-24": [
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "carta"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-11-28": [
+      "plastica"
+    ],
+    "2026-12-01": [
+      "indifferenziato"
+    ],
+    "2026-12-02": [
+      "sfalci"
+    ],
+    "2026-12-03": [
+      "carta"
+    ],
+    "2026-12-04": [
+      "organico"
+    ],
+    "2026-12-05": [
+      "plastica"
+    ],
+    "2026-12-09": [
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "carta"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-12": [
+      "plastica"
+    ],
+    "2026-12-15": [
+      "indifferenziato"
+    ],
+    "2026-12-17": [
+      "carta"
+    ],
+    "2026-12-18": [
+      "organico"
+    ],
+    "2026-12-19": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "indifferenziato"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "carta"
+    ],
+    "2026-12-26": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "indifferenziato"
+    ],
+    "2026-12-30": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "carta"
+    ]
+  },
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "note": [
+    "Il vetro da imballaggio va nelle campane verdi. Il Multimateriale include gli imballaggi in plastica e metalli.",
+    "Per gli sfalci il calendario indica il 2 dicembre. Massimo 9 colli da 10 kg ciascuno.",
+    "Il PDF indica un ritiro aggiuntivo il 30 dicembre."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-09",
+      "tipo": "spostato",
+      "raccolta": "indifferenziato",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-23",
+      "tipo": "spostato",
+      "raccolta": "organico",
+      "da": "2026-12-25"
+    }
+  ]
+}

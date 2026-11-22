@@ -1,0 +1,141 @@
+{
+  "schema": 1,
+  "comune": "Vecchiano",
+  "provincia": "PI",
+  "gestore": "Geofor S.p.A.",
+  "zona": "Zona artigianale Migliarino e Marina di Vecchiano · sfalci 2",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/VECCHIANO-CALENDARIO-PAP-2026-Z.A.-MIGLIARINO-E-MARINA-DI-VECCHIANO-CON-SFALCI-ECOMOBILE-E-MAPPA.pdf | https://www.geofor.it/vecchiano/calendario-raccolta-porta-a-porta-vecchiano/",
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "plastica"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "sfalci"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "plastica"
+    ],
+    "2026-12-12": [
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "sfalci"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "plastica"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-12-30": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "sfalci"
+    ]
+  },
+  "esposizione": "Gli orari dipendono dal tipo di rifiuto. Consultare il calendario.",
+  "note": [
+    "Il vetro da imballaggio va nelle campane verdi. Il Multimateriale include gli imballaggi in plastica e metalli.",
+    "Gli sfalci vanno esposti entro le 13:00. Identificare la zona 1 o 2 sulla mappa del PDF.",
+    "Esposizione entro le 06:00 per l’organico e le 13:00 per carta, Multimateriale e residuo nei turni ordinari. I ritiri aggiuntivi di Marina valgono da maggio a settembre."
+  ],
+  "eccezioni": [
+    {
+      "data": "2026-12-12",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-12",
+      "tipo": "spostato",
+      "raccolta": "indifferenziato",
+      "da": "2026-12-08"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2026-12-12",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    },
+    {
+      "data": "2026-12-26",
+      "tipo": "annullato",
+      "raccolta": "organico"
+    }
+  ]
+}
