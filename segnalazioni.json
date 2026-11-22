@@ -1,0 +1,199 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-22",
+  "nota": "Canali per segnalare un mancato ritiro. Il telefono è quello del gestore in ingombranti.json (numero verde, obbligatorio per ARERA); qui solo il modulo online ufficiale, dove esiste. Le voci sono legate per id a ingombranti.json.",
+  "gestori": [
+    {
+      "id": "seta",
+      "modulo_url": "https://www.setaspa.com/richieste-segnalazioni-e-disservizi",
+      "fonte": "https://www.setaspa.com/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "coinger",
+      "modulo_url": "https://coinger.it/invia-richiesta/",
+      "fonte": "https://www.coinger.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "contarina",
+      "modulo_url": "https://contarina.it/segnalazioni",
+      "fonte": "https://www.contarina.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "conservco",
+      "modulo_url": "https://www.conservco.it/it/segnalazione-disservizio/",
+      "fonte": "https://www.conservco.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "valpe",
+      "modulo_url": "https://valpeambiente.it/segnalazioni/",
+      "fonte": "https://www.valpeambiente.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "gelsia-ambiente",
+      "modulo_url": "https://www.gelsiambiente.it/contatti/",
+      "fonte": "https://www.gelsiambiente.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-calcinato",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-dello",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-gardone-riviera",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-gargnano",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-manerba-del-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-manerbio",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-offlaga",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-padenghe-sul-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-pontevico",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-pozzolengo",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-prevalle",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-puegnago-del-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-san-felice-del-benaco",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-soiano-del-lago",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-toscolano-maderno",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-magasa",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-tignale",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-valvestino",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-calvagese-della-riviera",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-desenzano-del-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-lonato-del-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-polpenazze-del-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-salo",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-tremosine-sul-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-moniga-del-garda",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    },
+    {
+      "id": "garda-uno-verolanuova",
+      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+      "fonte": "https://www.gardauno.it/",
+      "verificato": "2026-11-22"
+    }
+  ]
+}

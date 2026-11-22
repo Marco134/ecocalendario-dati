@@ -5,64 +5,109 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
 <title>Eco Calendario · Area del Comune (demo)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;800&amp;display=swap" rel="stylesheet">
 <style>
+  /* stessi colori dell'app (Tinte in main.dart) */
   :root {
     --sfondo:#F1F4F6; --scheda:#FFFFFF; --testo:#1B1F23; --debole:#4A5560; --linea:#E3E7EA;
-    --pannello:#14324A; --chip:#EEF1F4; --okS:#E2F2E8; --okT:#1E6B43; --avvS:#FDEBC4; --avvT:#7A4A00;
-    --arancio:#F59E0B; --navy:#14324A;
+    --pannello:#14324A; --accento:#14324A; --chip:#EEF1F4; --okS:#E2F2E8; --okT:#1E6B43; --avvS:#FDEBC4; --avvT:#7A4A00;
+    --arancio:#F59E0B; --navy:#14324A; --chiaro:#C9D6E2;
   }
   :root.scuro {
-    --sfondo:#101B26; --scheda:#182635; --testo:#E4EAF0; --debole:#A9B8C6; --linea:#2A3B4D;
-    --pannello:#1D4263; --chip:#22344A; --okS:#1D3A2E; --okT:#8FD3AE; --avvS:#3A2E12; --avvT:#F6C66B;
+    --sfondo:#0E1822; --scheda:#182635; --testo:#F2F5F7; --debole:#A9B8C6; --linea:#2A3B4D;
+    --pannello:#1D4263; --accento:#F59E0B; --chip:#22344A; --okS:#1D3A2E; --okT:#8FD3AE; --avvS:#3A2E12; --avvT:#F6C66B;
   }
   * { box-sizing:border-box; }
-  body { margin:0; background:var(--sfondo); color:var(--testo); font:16px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
-  header { background:var(--pannello); color:#fff; }
-  .barra { max-width:1100px; margin:0 auto; padding:14px 20px; display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
-  .logo { width:34px; height:34px; border-radius:9px; background:var(--arancio); display:grid; place-items:center; font-weight:800; color:#1B1F23; }
-  .barra h1 { font-size:18px; margin:0; flex:1; min-width:200px; }
-  .barra select, .barra button { font:inherit; font-size:14px; border-radius:20px; border:1px solid rgba(255,255,255,.35); background:rgba(255,255,255,.1); color:#fff; padding:6px 12px; cursor:pointer; }
-  .barra select option { color:#1B1F23; }
-  main { max-width:1100px; margin:0 auto; padding:20px; display:grid; grid-template-columns:minmax(0,1fr) 380px; gap:24px; }
-  @media (max-width:860px) { main { grid-template-columns:1fr; } }
-  .avviso { grid-column:1/-1; background:var(--chip); color:var(--debole); border-radius:10px; padding:8px 12px; font-size:13px; }
-  .scheda { background:var(--scheda); border:1px solid var(--linea); border-radius:16px; padding:18px; margin-bottom:12px; }
+  body { margin:0; background:var(--sfondo); color:var(--testo); font:16px/1.45 Roboto,system-ui,-apple-system,"Segoe UI",sans-serif; }
+  button, input, select { font:inherit; color:inherit; }
+  .barra { max-width:1120px; margin:0 auto; padding:14px 20px; display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+  .logo { width:34px; height:34px; border-radius:8px; background:var(--navy); position:relative; display:grid; place-items:center; border:1px solid rgba(255,255,255,.2); flex:none; }
+  .logo svg { width:21px; height:21px; }
+  .logo::after { content:""; position:absolute; right:3px; top:3px; width:9px; height:9px; border-radius:50%; background:var(--arancio); border:1.4px solid var(--navy); }
+  .barra h1 { font-size:20px; margin:0; font-weight:700; }
+  .barra .comune { color:var(--debole); font-weight:500; font-size:15px; flex:1; min-width:140px; }
+  .pill { height:40px; padding:0 14px; border-radius:20px; border:1px solid var(--linea); background:var(--scheda); cursor:pointer; display:inline-flex; align-items:center; gap:6px; font-size:14px; }
+  .schede-tab { max-width:1120px; margin:0 auto; padding:0 20px; display:flex; gap:8px; }
+  .tab { height:44px; padding:0 18px; border-radius:22px; border:0; background:transparent; color:var(--debole); font-weight:500; cursor:pointer; }
+  .tab.attiva { background:var(--scheda); color:var(--testo); font-weight:700; }
+  main { max-width:1120px; margin:0 auto; padding:16px 20px 60px; display:grid; grid-template-columns:minmax(0,1fr) 380px; gap:24px; }
+  main.pieno { grid-template-columns:minmax(0,1fr); }
+  @media (max-width:880px) { main { grid-template-columns:1fr; } }
+  .avviso { grid-column:1/-1; background:var(--chip); color:var(--debole); border-radius:14px; padding:10px 14px; font-size:13px; }
+  .scheda { background:var(--scheda); border-radius:22px; padding:18px; margin-bottom:12px; }
   h2 { font-size:26px; line-height:1.25; margin:0 0 8px; }
   h3 { font-size:17px; margin:0 0 6px; }
   .debole { color:var(--debole); }
-  .tit { font-size:12px; font-weight:700; letter-spacing:.6px; color:var(--debole); margin:22px 0 8px; text-transform:uppercase; }
-  .btn { display:block; width:100%; border-radius:999px; font:inherit; font-weight:700; padding:13px 18px; cursor:pointer; border:0; background:var(--arancio); color:#1B1F23; margin-top:10px; }
-  .btn.sec { background:transparent; color:var(--testo); border:1px solid var(--linea); font-weight:600; }
+  .etichetta-sez { font-size:12px; font-weight:700; letter-spacing:1px; color:var(--debole); margin:24px 4px 10px; text-transform:uppercase; }
+  /* righe come le ListTile della Home */
+  .riga-az { display:flex; align-items:center; gap:14px; width:100%; background:var(--scheda); border:0; border-radius:22px; padding:12px 16px; margin-bottom:10px; cursor:pointer; text-align:left; }
+  .riga-az:hover { filter:brightness(.98); }
+  .riga-az .ic { width:44px; height:44px; border-radius:14px; display:grid; place-items:center; flex:none; }
+  .riga-az .ic svg { width:24px; height:24px; }
+  .riga-az b { display:block; font-size:17px; }
+  .riga-az span.sub { font-size:14px; color:var(--debole); }
+  .riga-az .fr { margin-left:auto; color:var(--debole); }
+  .btn { display:block; width:100%; border-radius:999px; font-weight:700; padding:14px 18px; cursor:pointer; border:0; background:var(--arancio); color:#1B1F23; margin-top:10px; font-size:16px; }
+  .btn.sec { background:transparent; color:var(--testo); border:1px solid var(--linea); font-weight:500; }
   .btn:disabled { opacity:.45; cursor:not-allowed; }
   .etichetta { display:inline-block; border-radius:20px; padding:5px 12px; font-weight:700; font-size:14px; margin-bottom:10px; }
   .ok { background:var(--okS); color:var(--okT); }
   .avv { background:var(--avvS); color:var(--avvT); }
   .riga { display:flex; align-items:center; gap:10px; padding:4px 0; }
-  .bidone { width:22px; height:22px; border-radius:6px; flex:none; }
-  .giorno { background:var(--sfondo); border-radius:12px; padding:10px 12px; margin-bottom:8px; border:2px solid transparent; }
-  .giorno.spostato { border-color:var(--arancio); }
-  .giorno b { display:block; margin-bottom:4px; }
-  label.scelta { display:flex; gap:10px; align-items:flex-start; padding:9px 10px; border-radius:10px; cursor:pointer; }
+  .bin { width:24px; height:24px; flex:none; }
+  .link { background:none; border:0; color:var(--accento); font-weight:700; cursor:pointer; padding:0; }
+  .testo { background:var(--sfondo); border-radius:12px; padding:12px; }
+  .toast { position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:var(--navy); color:#fff; padding:12px 18px; border-radius:14px; box-shadow:0 6px 20px rgba(0,0,0,.25); display:none; max-width:90vw; z-index:5; }
+  /* anteprima: la carta blu "Prossimi ritiri" dell'app */
+  .carta { background:var(--pannello); color:#fff; border-radius:28px; padding:22px; position:relative; overflow:hidden; }
+  .carta .filigrana { position:absolute; right:-34px; bottom:-46px; width:220px; height:220px; opacity:.08; }
+  .carta .sopra { font-size:12px; font-weight:700; letter-spacing:1.2px; color:var(--arancio); display:flex; align-items:center; gap:6px; }
+  .carta h3 { font-size:24px; margin:10px 0 4px; }
+  .carta .sub { color:var(--chiaro); font-size:14px; margin-bottom:12px; }
+  .elenco { background:var(--scheda); color:var(--testo); border-radius:22px; margin-top:12px; overflow:hidden; }
+  .giorno { padding:12px 16px; border-top:1px solid var(--linea); }
+  .giorno:first-child { border-top:0; }
+  .giorno.spostato { box-shadow:inset 4px 0 0 var(--arancio); }
+  .giorno .data { font-weight:600; color:var(--debole); font-size:14px; margin-bottom:4px; }
+  .scelte { background:var(--scheda); border-radius:22px; padding:6px; }
+  label.scelta { display:flex; gap:12px; align-items:center; padding:10px 12px; border-radius:14px; cursor:pointer; }
   label.scelta:hover { background:var(--chip); }
-  input[type=date] { font:inherit; padding:9px 12px; border-radius:10px; border:1px solid var(--linea); background:var(--scheda); color:var(--testo); width:100%; margin-top:8px; }
+  label.scelta input { accent-color:var(--arancio); width:18px; height:18px; }
+  input[type=date], input[type=text], input[type=password] { padding:12px 14px; border-radius:14px; border:1px solid var(--linea); background:var(--scheda); width:100%; }
   .storico { display:flex; justify-content:space-between; gap:10px; align-items:center; }
-  .link { background:none; border:0; color:var(--arancio); font:inherit; font-weight:700; cursor:pointer; }
-  .testo { background:var(--sfondo); border-radius:10px; padding:12px; }
-  .toast { position:fixed; left:50%; bottom:24px; transform:translateX(-50%); background:var(--pannello); color:#fff; padding:12px 18px; border-radius:12px; box-shadow:0 6px 20px rgba(0,0,0,.25); display:none; max-width:90vw; }
-  .telefono { border:8px solid var(--pannello); border-radius:28px; padding:14px; background:var(--scheda); }
+  .chip { height:40px; padding:0 16px; border-radius:20px; border:1px solid var(--linea); background:var(--scheda); cursor:pointer; }
+  .chip.sel { background:var(--pannello); color:#fff; border-color:var(--pannello); font-weight:700; }
+  .griglia { display:grid; grid-template-columns:repeat(auto-fit, minmax(220px,1fr)); gap:12px; }
+  .numero { font-size:34px; font-weight:700; }
+  .barre { display:flex; align-items:flex-end; gap:10px; height:190px; border-bottom:1px solid var(--linea); padding-top:8px; }
+  .barre .col { flex:1; display:flex; flex-direction:column; align-items:center; justify-content:flex-end; gap:6px; height:100%; }
+  .barre .b { width:100%; max-width:52px; border-radius:6px 6px 0 0; background:var(--accento); }
+  .barre .b.picco { background:var(--arancio); }
+  .assi { display:flex; gap:10px; }
+  .assi div { flex:1; text-align:center; font-size:12px; color:var(--debole); padding-top:6px; }
+  .orizz { display:flex; align-items:center; gap:12px; padding:5px 0; }
+  .orizz .nome { width:140px; }
+  .orizz .traccia { flex:1; height:12px; border-radius:6px; background:var(--linea); overflow:hidden; }
+  .orizz .traccia div { height:12px; background:var(--accento); }
+  .orizz .n { width:40px; text-align:right; font-weight:700; }
+  :root.scuro .barre .b:not(.picco), :root.scuro .orizz .traccia div { background:#6FA8D6; }
 </style>
 </head>
 <body>
-<header>
-  <div class="barra">
-    <div class="logo">E</div>
-    <h1 id="titolo">Area del Comune</h1>
-    <select id="scegliComune" aria-label="Comune"></select>
-    <button id="tema" type="button">Tema</button>
-  </div>
-</header>
-<main>
-  <div class="avviso">Demo dell'area del Comune: le modifiche restano solo in questo browser e non arrivano ai cittadini.</div>
+<div class="barra">
+  <div class="logo" aria-hidden="true"><svg viewBox="0 0 40 40"><path fill="#fff" d="M17 4h6a2 2 0 012 2v0a2 2 0 01-2 2h-6a2 2 0 01-2-2 2 2 0 012-2zM8 7.5h24a2 2 0 012 2v1a2 2 0 01-2 2H8a2 2 0 01-2-2v-1a2 2 0 012-2zM9 14h22l-2 19q0 3-3 3H14q-3 0-3-3z"/></svg></div>
+  <h1>Eco Calendario</h1>
+  <span class="comune" id="titolo">Area del Comune</span>
+  <select class="pill" id="scegliComune" aria-label="Comune"></select>
+  <button class="pill" id="tema" type="button">Tema</button>
+</div>
+<div class="schede-tab" role="tablist">
+  <button class="tab attiva" id="tabCal" role="tab" type="button">Calendario</button>
+  <button class="tab" id="tabSeg" role="tab" type="button">Segnalazioni</button>
+</div>
+<main id="main">
+  <div class="avviso">Demo dell'area del Comune: le modifiche al calendario restano solo in questo browser e non arrivano ai cittadini.</div>
   <section id="sinistra"><p class="debole">Caricamento…</p></section>
   <aside id="destra"></aside>
 </main>
@@ -74,14 +119,24 @@ const NOMI = { organico:'organico', carta:'carta', vetro:'vetro', plastica:'plas
 const COLORI = { organico:'#8B5E3C', carta:'#E0A800', vetro:'#1F6FB2', plastica:'#2AA7DF', indifferenziato:'#6B7280', sfalci:'#3A9B4B', lattine:'#8A939E' };
 const MESI = ['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre'];
 const GIORNI = ['domenica','lunedì','martedì','mercoledì','giovedì','venerdì','sabato'];
+const GIORNI_BREVI = ['Dom','Lun','Mar','Mer','Gio','Ven','Sab'];
+// il bidone dell'app (BidonePainter), su una griglia 40x40
+const BIDONE = 'M17 4h6a2 2 0 012 2v0a2 2 0 01-2 2h-6a2 2 0 01-2-2 2 2 0 012-2zM8 7.5h24a2 2 0 012 2v1a2 2 0 01-2 2H8a2 2 0 01-2-2v-1a2 2 0 012-2zM9 14h22l-2 19q0 3-3 3H14q-3 0-3-3z';
+const bin = (t, cls = 'bin') => `<svg class="${cls}" viewBox="0 0 40 40" role="img" aria-label="${NOMI[t] || t}"><path fill="${COLORI[t] || '#6B7280'}" d="${BIDONE}"/></svg>`;
+const ICONE = {
+  carica: '<svg viewBox="0 0 24 24" fill="none" stroke="#1B1F23" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 16V4M6 10l6-6 6 6M4 20h16"/></svg>',
+  prova: '<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="3"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>',
+  sposta: '<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg>',
+  stat: '<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20V10M10 20V4M16 20v-7M22 20H2"/></svg>',
+};
 
-const st = { indice:null, comune:null, zone:[], dati:{}, passo:'home', documenti:[], dubbi:[], ok:[], risposte:{}, da:null, tipo:null, zoneSposta:new Set(), a:null, ultima:null };
+const st = { indice:null, comune:null, zone:[], dati:{}, scheda:'cal', passo:'home', documenti:[], dubbi:[], ok:[], risposte:{}, da:null, tipo:null, zoneSposta:new Set(), a:null, ultima:null, stat:null, statErr:null, zonaStat:'tutte', servizio:null };
 
-// ---------- archivio locale (con protezione se il browser lo blocca) ----------
 function leggi(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch { return d; } }
 function scrivi(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
 const kDoc = () => 'eco_comune_doc_' + st.comune.id;
 const kVar = () => 'eco_comune_var_' + st.comune.id;
+const kCod = () => 'eco_comune_codice_' + st.comune.id;
 
 // ---------- tema: segue il sistema, il pulsante lo cambia ----------
 const sistemaScuro = matchMedia('(prefers-color-scheme: dark)');
@@ -103,13 +158,18 @@ const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>'
 const chiave = d => `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
 const daChiave = k => { const [a,m,g] = k.split('-').map(Number); return new Date(a, m-1, g); };
 const dataLunga = k => { const d = daChiave(k); return `${GIORNI[d.getDay()]} ${d.getDate()} ${MESI[d.getMonth()]}`; };
+const dataBreve = k => { const d = daChiave(k); return `${GIORNI_BREVI[d.getDay()]} ${d.getDate()}`; };
 const dataAnno = k => { const d = daChiave(k); return `${d.getDate()} ${MESI[d.getMonth()]} ${d.getFullYear()}`; };
 const maiusc = s => s ? s[0].toUpperCase() + s.slice(1) : s;
 const nome = t => NOMI[t] || t;
 const nomeZona = id => (st.zone.find(z => z.id === id) || {nome:id}).nome;
 const dove = ids => (st.zone.length <= 1 || ids.length === st.zone.length) ? 'in tutto il Comune' : ids.map(nomeZona).join(', ');
 const oggi = chiave(new Date());
+const num = n => n < 3 ? '&lt;3' : String(n);
 function toast(t) { const e = document.getElementById('toast'); e.textContent = t; e.style.display = 'block'; clearTimeout(toast.t); toast.t = setTimeout(() => e.style.display = 'none', 3500); }
+function rigaAz(azione, icona, sfondo, titolo, sotto) {
+  return `<button class="riga-az" type="button" data-a="${azione}"><span class="ic" style="background:${sfondo}">${ICONE[icona]}</span><span><b>${titolo}</b>${sotto ? `<span class="sub">${sotto}</span>` : ''}</span><span class="fr" aria-hidden="true">›</span></button>`;
+}
 
 function festivita(anno) {
   const a = anno % 19, b = Math.floor(anno/100), c = anno % 100, d = Math.floor(b/4), e = b % 4;
@@ -152,7 +212,6 @@ async function caricaZone() {
   }));
 }
 
-/** giorno -> raccolta -> zone */
 function comuneIntero() {
   const r = {};
   for (const z of st.zone) {
@@ -209,37 +268,120 @@ async function annulla(i) {
   await caricaZone(); disegna();
 }
 
-// ---------- interfaccia ----------
+// ---------- segnalazioni dei cittadini (servizio cloud) ----------
+async function caricaStatistiche() {
+  st.stat = null; st.statErr = null; disegna();
+  const codice = leggi(kCod(), '');
+  if (!codice) { st.statErr = 'codice'; disegna(); return; }
+  try {
+    if (!st.servizio) st.servizio = (await scarica('app.json')).ai_url;
+    const r = await fetch(`${st.servizio}/comune/${encodeURIComponent(st.comune.id)}/segnalazioni?codice=${encodeURIComponent(codice)}`);
+    if (r.status === 403) { st.statErr = 'accesso'; disegna(); return; }
+    if (!r.ok) throw new Error(r.status);
+    st.stat = await r.json();
+  } catch { st.statErr = 'rete'; }
+  disegna();
+}
+
+function segnalazioni() {
+  if (st.statErr === 'codice' || st.statErr === 'accesso') {
+    return `<h2>Segnalazioni dei cittadini</h2>
+      <p class="debole">${st.statErr === 'accesso' ? 'Il codice non è corretto per questo Comune.' : 'Inserisci il codice di accesso del Comune che ti abbiamo dato.'}</p>
+      <div class="scheda"><label for="codice"><b>Codice di accesso</b></label>
+      <input type="password" id="codice" autocomplete="off" style="margin-top:8px">
+      <button class="btn" data-a="codice">Entra</button></div>`;
+  }
+  if (st.statErr === 'rete') return `<h2>Segnalazioni dei cittadini</h2><p class="debole">Non riesco a leggere le segnalazioni ora. Riprova tra poco.</p><button class="btn sec" data-a="ricarica">Riprova</button>`;
+  if (!st.stat) return '<p class="debole">Caricamento…</p>';
+  const righe = st.stat.segnalazioni.filter(r => st.zonaStat === 'tutte' || r.zona === st.zonaStat);
+  const oggiD = new Date(); oggiD.setHours(0,0,0,0);
+  const lun = new Date(oggiD); lun.setDate(lun.getDate() - ((lun.getDay() + 6) % 7));
+  const inizi = []; for (let i = 7; i >= 0; i--) { const d = new Date(lun); d.setDate(d.getDate() - 7*i); inizi.push(d); }
+  const sett = Array(8).fill(0), perR = {}, perF = {}; let prima = 0;
+  for (const r of righe) {
+    const g = daChiave(r.giorno); let i = -1;
+    for (let k = 0; k < 8; k++) if (g >= inizi[k]) i = k;
+    if (i < 0) { prima += r.n; continue; }
+    sett[i] += r.n; perR[r.raccolta] = (perR[r.raccolta] || 0) + r.n; perF[r.fascia] = (perF[r.fascia] || 0) + r.n;
+  }
+  const tot = sett.reduce((a,b) => a+b, 0), max = Math.max(1, ...sett), picco = sett.indexOf(Math.max(...sett));
+  const racc = Object.entries(perR).sort((a,b) => b[1]-a[1]), maxR = Math.max(1, ...Object.values(perR));
+  const fasce = [['notte','Notte (0–6)'],['mattina','Mattina (6–12)'],['pomeriggio','Pomeriggio (12–18)'],['sera','Sera (18–24)']].filter(([k]) => k !== 'notte' || perF[k]);
+  const maxF = Math.max(1, ...Object.values(perF));
+  const errori = st.stat.errori.filter(e => st.zonaStat === 'tutte' || e.zona === st.zonaStat);
+  const diff = tot - prima;
+  return `<h2>Segnalazioni di presunto mancato ritiro</h2>
+    <p class="debole">Quante volte i cittadini, da «Segnala mancato ritiro» nell'app, hanno chiamato il gestore o aperto il suo modulo online. Non prova il disservizio: indica dove è stato segnalato un ritiro saltato.</p>
+    <div style="display:flex;flex-wrap:wrap;gap:8px;margin:14px 0">
+      <button class="chip ${st.zonaStat === 'tutte' ? 'sel' : ''}" data-zs="tutte">Tutto il Comune</button>
+      ${st.zone.map(z => `<button class="chip ${st.zonaStat === z.id ? 'sel' : ''}" data-zs="${esc(z.id)}">${esc(z.nome)}</button>`).join('')}
+    </div>
+    <div class="griglia">
+      <div class="scheda"><div class="debole">Segnalazioni, ultime 8 settimane</div><div class="numero">${num(tot)}</div><div class="debole">${diff >= 0 ? '+' : ''}${diff} rispetto alle 8 settimane prima</div></div>
+      <div class="scheda" style="background:var(--avvS);color:var(--avvT)"><b>Picco da guardare</b><div style="font-size:20px;font-weight:700;margin-top:4px">${max >= 10 ? `Settimana del ${inizi[picco].getDate()} ${MESI[inizi[picco].getMonth()]}: ${sett[picco]}` : 'Nessun picco'}</div></div>
+    </div>
+    <div class="scheda"><h3>Andamento per settimana</h3>
+      <div class="barre" role="img" aria-label="Segnalazioni per settimana">${sett.map((n,i) => `<div class="col"><b style="font-size:13px">${num(n)}</b><div class="b ${i === picco && max >= 10 ? 'picco' : ''}" style="height:${6 + Math.round(150*n/max)}px"></div></div>`).join('')}</div>
+      <div class="assi">${inizi.map(d => `<div>${d.getDate()}/${d.getMonth()+1}</div>`).join('')}</div>
+      <p class="debole" style="font-size:13px;margin:10px 0 0">Sotto 3 segnalazioni il numero esatto non viene mostrato («&lt;3»).</p></div>
+    <div class="griglia">
+      <div class="scheda"><h3>Per raccolta</h3>${racc.length ? racc.map(([t,n]) => `<div class="orizz">${bin(t)}<span class="nome">${esc(maiusc(nome(t)))}</span><span class="traccia"><div style="width:${Math.round(100*n/maxR)}%"></div></span><span class="n">${num(n)}</span></div>`).join('') : '<p class="debole">Nessuna segnalazione nel periodo.</p>'}</div>
+      <div class="scheda"><h3>Per fascia oraria</h3>${fasce.map(([k,l]) => `<div class="orizz"><span class="nome">${l}</span><span class="traccia"><div style="width:${Math.round(100*(perF[k]||0)/maxF)}%"></div></span><span class="n">${num(perF[k]||0)}</span></div>`).join('')}<p class="debole" style="font-size:13px">L'ora esatta non viene registrata, solo la fascia.</p></div>
+    </div>
+    <div class="scheda"><h3>Errori nel calendario segnalati dai cittadini</h3><p class="debole" style="font-size:14px;margin-top:0">Separati dai mancati ritiri: riguardano le date pubblicate, non il servizio.</p>
+      ${errori.length ? errori.map(e => `<div class="testo" style="margin-bottom:8px">«${esc(e.testo)}»<div class="debole" style="font-size:13px;margin-top:4px">${esc(nomeZona(e.zona))} · ${e.n === 1 ? '1 cittadino' : e.n + ' cittadini'}</div></div>`).join('') : '<p class="debole">Nessuna segnalazione negli ultimi 90 giorni.</p>'}</div>
+    <div style="display:flex;flex-wrap:wrap;gap:12px;align-items:center">
+      <button class="pill" data-a="csv">Scarica CSV</button>
+      <button class="pill" data-a="stampa">Stampa o salva PDF</button>
+      <span class="debole" style="font-size:13px">Solo dati aggregati · conservati 24 mesi</span>
+    </div>`;
+}
+
+function scaricaCsv() {
+  const righe = [['giorno','zona','raccolta','fascia','canale','segnalazioni']];
+  for (const r of st.stat.segnalazioni) righe.push([r.giorno, nomeZona(r.zona), nome(r.raccolta), r.fascia, r.canale, r.n < 3 ? '<3' : r.n]);
+  const csv = righe.map(r => r.map(x => `"${String(x).replace(/"/g,'""')}"`).join(';')).join('\n');
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(new Blob(['﻿' + csv], {type:'text/csv'}));
+  a.download = `segnalazioni-${st.comune.id}.csv`; a.click();
+}
+
+// ---------- interfaccia del calendario ----------
 function anteprima() {
   const sp = spostati();
   const pross = Object.entries(comuneIntero()).filter(([g]) => g >= oggi).slice(0, 7);
-  return `<div class="telefono"><h3>Prossimi ritiri nel Comune</h3><p class="debole" style="margin:0 0 10px;font-size:14px">Così li vedono i cittadini nell'app.</p>` +
-    pross.map(([g, rr]) => `<div class="giorno ${sp.has(g) ? 'spostato' : ''}"><b>${esc(maiusc(dataLunga(g)))}</b>` +
-      Object.entries(rr).map(([t, zz]) => `<div class="riga"><span class="bidone" style="background:${COLORI[t] || '#6B7280'}"></span><span>${esc(maiusc(nome(t)))} · ${esc(dove(zz))}</span></div>`).join('') +
-      `</div>`).join('') + `</div>`;
+  return `<div class="carta"><svg class="filigrana" viewBox="0 0 40 40" aria-hidden="true"><path fill="#fff" d="${BIDONE}"/></svg>
+      <div class="sopra">● PROSSIMI RITIRI NEL COMUNE</div>
+      <h3>${esc(st.comune.nome)}</h3><div class="sub">Così li vedono i cittadini nell'app</div></div>
+    <div class="elenco">${pross.map(([g, rr]) => `<div class="giorno ${sp.has(g) ? 'spostato' : ''}"><div class="data">${esc(maiusc(dataBreve(g)))}${sp.has(g) ? ' · <span style="color:var(--arancio)">spostato</span>' : ''}</div>` +
+      Object.entries(rr).map(([t, zz]) => `<div class="riga">${bin(t)}<span><b>${esc(maiusc(nome(t)))}</b> · <span class="debole">${esc(dove(zz))}</span></span></div>`).join('') +
+      `</div>`).join('')}</div>`;
 }
 
 function home() {
   const vv = leggi(kVar(), []);
   return `<h2>Ti è arrivato un calendario o una comunicazione del gestore?</h2>
     <p class="debole">Caricala qui: la leggiamo noi, controlliamo date e zone e ti avvisiamo quando è pronta da approvare.</p>
-    <button class="btn" data-a="carica">Carica il PDF o la foto del gestore</button>
-    <button class="btn sec" data-a="prova">Prova con il calendario in uso</button>
-    <button class="btn sec" data-a="sposta">Sposta un ritiro (variazione)</button>
-    <div class="tit">I tuoi documenti</div>
-    ${st.documenti.length ? '' : '<p class="debole">Nessun documento caricato.</p>'}
+    <div style="margin-top:16px">
+    ${rigaAz('carica', 'carica', 'var(--arancio)', 'Carica il PDF o la foto del gestore', 'La leggiamo e controlliamo noi')}
+    ${rigaAz('prova', 'prova', 'var(--navy)', 'Prova con il calendario in uso', 'Controlli su tutte le zone')}
+    ${rigaAz('sposta', 'sposta', COLORI.vetro, 'Sposta un ritiro', 'Variazione con avviso ai cittadini')}
+    ${rigaAz('vaiSeg', 'stat', COLORI.sfalci, 'Segnalazioni dei cittadini', 'Mancati ritiri ed errori nel calendario')}
+    </div>
+    <div class="etichetta-sez">I tuoi documenti</div>
+    ${st.documenti.length ? '' : '<p class="debole" style="margin-left:4px">Nessun documento caricato.</p>'}
     ${st.documenti.slice(0,5).map(d => `<div class="scheda"><h3>${esc(d.nome)}</h3><div class="debole">${
       d.stato === 'in verifica' ? `Ricevuto alle ${d.ricevuto}. Ti avvisiamo quando è pronto da approvare.` :
       d.stato === 'pronto' ? 'Controllato: tutto in ordine.' : d.stato === 'pubblicato' ? 'Approvato.' : 'Controllato: c\'è una data da chiarire.'}</div>
       ${d.stato !== 'in verifica' && d.stato !== 'pubblicato' ? '<button class="btn" data-a="anteprima">Vedi anteprima</button>' : ''}</div>`).join('')}
-    ${vv.length ? `<div class="tit">Storico variazioni</div>` + vv.map((v, i) => `<div class="scheda storico"><div><b>${esc(maiusc(nome(v.raccolta)))}: ${dataAnno(v.da)} → ${dataAnno(v.a)}</b><div class="debole" style="font-size:14px">${esc(maiusc(dove(v.zone)))} · pubblicata il ${esc(v.quando)}</div></div><button class="link" data-annulla="${i}">Annulla</button></div>`).reverse().join('') : ''}`;
+    ${vv.length ? `<div class="etichetta-sez">Storico variazioni</div>` + vv.map((v, i) => `<div class="scheda storico"><div><b>${esc(maiusc(nome(v.raccolta)))}: ${dataAnno(v.da)} → ${dataAnno(v.a)}</b><div class="debole" style="font-size:14px">${esc(maiusc(dove(v.zone)))} · pubblicata il ${esc(v.quando)}</div></div><button class="link" data-annulla="${i}">Annulla</button></div>`).reverse().join('') : ''}`;
 }
 
 function verifica() {
   const aperti = st.dubbi.filter(d => st.risposte[d.chiave] !== 'si');
   return `<span class="etichetta ${aperti.length ? 'avv' : 'ok'}">${aperti.length ? 'Una domanda per te' : 'Tutto in ordine'}</span>
     <h2>${aperti.length ? 'Quasi pronto: c\'è una data da chiarire' : 'Pronto da pubblicare'}</h2>
-    <div class="scheda">${st.ok.map(c => `<div class="riga">✓ ${esc(c)}</div>`).join('')}</div>
+    <div class="scheda">${st.ok.map(c => `<div class="riga"><span style="color:var(--okT);font-weight:700">✓</span> ${esc(c)}</div>`).join('')}</div>
     ${st.dubbi.map(d => { const r = st.risposte[d.chiave]; return `<div class="scheda"><h3>${esc(d.testo)}</h3><div class="debole">Ci sembra strano perché è un giorno festivo.</div>
       ${!r ? `<button class="btn" data-si="${d.chiave}">Sì, confermato dal gestore</button><button class="btn sec" data-no="${d.chiave}">No, da chiarire</button>` :
         r === 'si' ? '<p class="debole">Confermato.</p>' :
@@ -252,12 +394,12 @@ function sposta() {
   const tutto = comuneIntero();
   const pross = Object.entries(tutto).filter(([g]) => g >= oggi).slice(0, 10);
   const zz = st.da ? (tutto[st.da]?.[st.tipo] || []) : [];
-  const min = oggi, max = st.da ? chiave(new Date(daChiave(st.da).getTime() + 60*864e5)) : '';
+  const max = st.da ? chiave(new Date(daChiave(st.da).getTime() + 60*864e5)) : '';
   return `<h2>Sposta un ritiro</h2><p class="debole">Scegli il ritiro e il nuovo giorno: vale per tutte le zone che lo hanno quel giorno e i cittadini ricevono l'avviso.</p>
-    <div class="scheda">${pross.map(([g, rr]) => Object.entries(rr).map(([t, z]) => `<label class="scelta"><input type="radio" name="r" data-da="${g}" data-t="${t}" ${st.da === g && st.tipo === t ? 'checked' : ''}><span><b>${esc(maiusc(nome(t)))} · ${esc(dataLunga(g))}</b><br><span class="debole" style="font-size:14px">${esc(maiusc(dove(z)))}</span></span></label>`).join('')).join('')}</div>
-    ${zz.length > 1 ? `<div class="tit">Vale per</div><div class="scheda">${zz.map(z => `<label class="scelta"><input type="checkbox" data-z="${z}" ${st.zoneSposta.has(z) ? 'checked' : ''}><span>${esc(nomeZona(z))}</span></label>`).join('')}</div>` : ''}
-    <div class="tit">Nuovo giorno</div>
-    <input type="date" id="nuovo" ${st.da ? '' : 'disabled'} min="${min}" max="${max}" value="${st.a || ''}">
+    <div class="scelte">${pross.map(([g, rr]) => Object.entries(rr).map(([t, z]) => `<label class="scelta"><input type="radio" name="r" data-da="${g}" data-t="${t}" ${st.da === g && st.tipo === t ? 'checked' : ''}>${bin(t)}<span><b>${esc(maiusc(nome(t)))} · ${esc(dataLunga(g))}</b><br><span class="debole" style="font-size:14px">${esc(maiusc(dove(z)))}</span></span></label>`).join('')).join('')}</div>
+    ${zz.length > 1 ? `<div class="etichetta-sez">Vale per</div><div class="scelte">${zz.map(z => `<label class="scelta"><input type="checkbox" data-z="${z}" ${st.zoneSposta.has(z) ? 'checked' : ''}><span>${esc(nomeZona(z))}</span></label>`).join('')}</div>` : ''}
+    <div class="etichetta-sez">Nuovo giorno</div>
+    <input type="date" id="nuovo" ${st.da ? '' : 'disabled'} min="${oggi}" max="${max}" value="${st.a || ''}">
     <button class="btn" data-a="pubblicaVar" ${st.da && st.a && st.zoneSposta.size ? '' : 'disabled'}>Pubblica e avvisa i cittadini</button>`;
 }
 
@@ -274,11 +416,17 @@ function fatto() {
 }
 
 function disegna() {
-  const sx = document.getElementById('sinistra');
-  if (st.passo !== 'home') sx.innerHTML = `<button class="link" data-a="home" style="margin-bottom:10px">← Indietro</button>`; else sx.innerHTML = '';
-  sx.innerHTML += ({ verifica, sposta, fatto }[st.passo] || home)();
-  document.getElementById('destra').innerHTML = anteprima();
+  const sx = document.getElementById('sinistra'), dx = document.getElementById('destra');
+  document.getElementById('tabCal').classList.toggle('attiva', st.scheda === 'cal');
+  document.getElementById('tabSeg').classList.toggle('attiva', st.scheda === 'seg');
+  document.getElementById('main').classList.toggle('pieno', st.scheda === 'seg');
+  if (st.scheda === 'seg') { sx.innerHTML = segnalazioni(); dx.innerHTML = ''; return; }
+  sx.innerHTML = (st.passo !== 'home' ? `<button class="link" data-a="home" style="margin-bottom:12px">← Indietro</button>` : '') + ({ verifica, sposta, fatto }[st.passo] || home)();
+  dx.innerHTML = anteprima();
 }
+
+document.getElementById('tabCal').onclick = () => { st.scheda = 'cal'; disegna(); };
+document.getElementById('tabSeg').onclick = () => { st.scheda = 'seg'; caricaStatistiche(); };
 
 document.getElementById('sinistra').addEventListener('click', e => {
   const b = e.target.closest('button'); if (!b) return;
@@ -286,11 +434,17 @@ document.getElementById('sinistra').addEventListener('click', e => {
   if (a === 'carica') file.click();
   else if (a === 'prova') aggiungiDocumento('Calendario in uso nell\'app (prova)');
   else if (a === 'sposta') { Object.assign(st, { passo:'sposta', da:null, tipo:null, a:null, zoneSposta:new Set() }); disegna(); }
+  else if (a === 'vaiSeg') { st.scheda = 'seg'; caricaStatistiche(); }
   else if (a === 'anteprima') { analizza(); st.passo = 'verifica'; disegna(); }
   else if (a === 'home') { st.passo = 'home'; disegna(); }
   else if (a === 'pubblicaDoc') { if (st.documenti[0]) st.documenti[0].stato = 'pubblicato'; scrivi(kDoc(), st.documenti); st.ultima = null; st.passo = 'fatto'; disegna(); }
   else if (a === 'pubblicaVar') pubblica();
   else if (a === 'copia') { navigator.clipboard?.writeText(document.getElementById('testo').textContent).then(() => toast('Testo copiato'), () => toast('Copia non riuscita: seleziona il testo')); }
+  else if (a === 'codice') { scrivi(kCod(), document.getElementById('codice').value.trim()); caricaStatistiche(); }
+  else if (a === 'ricarica') caricaStatistiche();
+  else if (a === 'csv') scaricaCsv();
+  else if (a === 'stampa') print();
+  else if (b.dataset.zs) { st.zonaStat = b.dataset.zs; disegna(); }
   else if (b.dataset.si) { st.risposte[b.dataset.si] = 'si'; disegna(); }
   else if (b.dataset.no) { st.risposte[b.dataset.no] = 'no'; disegna(); }
   else if (b.dataset.affida) {
@@ -306,17 +460,23 @@ document.getElementById('sinistra').addEventListener('change', e => {
   else if (i.dataset.z) { i.checked ? st.zoneSposta.add(i.dataset.z) : st.zoneSposta.delete(i.dataset.z); disegna(); }
   else if (i.id === 'nuovo') { st.a = i.value || null; disegna(); }
 });
+document.getElementById('sinistra').addEventListener('keydown', e => {
+  if (e.target.id === 'codice' && e.key === 'Enter') { scrivi(kCod(), e.target.value.trim()); caricaStatistiche(); }
+});
 
 async function apriComune(id) {
   const c = st.indice.comuni.find(x => x.id === id) || st.indice.comuni.find(x => x.id === 'castiglione-torinese') || st.indice.comuni[0];
   st.comune = c; st.zone = c.zone.filter(z => z.file);
-  document.getElementById('titolo').textContent = 'Comune di ' + c.nome;
+  document.getElementById('titolo').textContent = 'Area del Comune di ' + c.nome;
   document.getElementById('scegliComune').value = c.id;
   document.title = 'Eco Calendario · Comune di ' + c.nome + ' (demo)';
-  history.replaceState(null, '', '?comune=' + encodeURIComponent(c.id));
-  st.documenti = leggi(kDoc(), []); st.passo = 'home'; st.dubbi = []; st.ultima = null;
+  const q = new URLSearchParams(location.search);
+  q.set('comune', c.id);
+  history.replaceState(null, '', '?' + q.toString());
+  st.documenti = leggi(kDoc(), []); st.passo = 'home'; st.dubbi = []; st.ultima = null; st.zonaStat = 'tutte'; st.stat = null;
   document.getElementById('sinistra').innerHTML = '<p class="debole">Caricamento…</p>';
-  await caricaZone(); disegna();
+  await caricaZone();
+  if (st.scheda === 'seg') caricaStatistiche(); else disegna();
 }
 
 (async () => {
@@ -326,7 +486,9 @@ async function apriComune(id) {
     sel.innerHTML = [...st.indice.comuni].filter(c => (c.zone || []).some(z => z.file)).sort((a,b) => a.nome.localeCompare(b.nome, 'it'))
       .map(c => `<option value="${esc(c.id)}">${esc(c.nome)}</option>`).join('');
     sel.onchange = () => apriComune(sel.value);
-    await apriComune(new URLSearchParams(location.search).get('comune'));
+    const q = new URLSearchParams(location.search);
+    if (q.get('vista') === 'segnalazioni') st.scheda = 'seg';
+    await apriComune(q.get('comune'));
   } catch (e) {
     document.getElementById('sinistra').innerHTML = '<p>Non riesco a leggere i calendari. Riprova tra poco.</p>';
   }
