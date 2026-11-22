@@ -3204,6 +3204,253 @@
       "regole_en": [
         "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
       ]
+    },
+    {
+      "id": "ambiente-servizi-casarsa-della-delizia",
+      "nome": "Ambiente Servizi – Casarsa della Delizia",
+      "comuni": [
+        "casarsa-della-delizia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/casarsa-della-delizia",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Casarsa%20della%20Delizia%202027.pdf?t=1795255643",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-chions",
+      "nome": "Ambiente Servizi – Chions",
+      "comuni": [
+        "chions"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/chions",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Chions%202027.pdf?t=1795256805",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-fiume-veneto",
+      "nome": "Ambiente Servizi – Fiume Veneto",
+      "comuni": [
+        "fiume-veneto"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/fiume-veneto",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Fiume%20Veneto%202027.pdf?t=1795256242",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-morsano-al-tagliamento",
+      "nome": "Ambiente Servizi – Morsano al Tagliamento",
+      "comuni": [
+        "morsano-al-tagliamento"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/morsano-al-tagliamento",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Morsano%20al%20Tagliamento%202027.pdf?t=1795257594",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-polcenigo",
+      "nome": "Ambiente Servizi – Polcenigo",
+      "comuni": [
+        "polcenigo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/polcenigo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Polcenigo%202027.pdf?t=1795257204",
+      "telefono": "800 774 728",
+      "regole": [
+        "Ritiro a domicilio gratuito il quarto martedì del mese su prenotazione, fino a esaurimento posti. Massimo 5 pezzi e circa 3 m³."
+      ],
+      "regole_en": [
+        "Free home collection on the fourth Tuesday of the month, subject to booking and availability. Limit of 5 items and approximately 3 m³."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-porcia",
+      "nome": "Ambiente Servizi – Porcia",
+      "comuni": [
+        "porcia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/porcia",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Porcia%202027.pdf?t=1795256818",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-pravisdomini",
+      "nome": "Ambiente Servizi – Pravisdomini",
+      "comuni": [
+        "pravisdomini"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/pravisdomini",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pravisdomini%202027.pdf?t=1795256035",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-san-giorgio-della-richinvelda",
+      "nome": "Ambiente Servizi – San Giorgio della Richinvelda",
+      "comuni": [
+        "san-giorgio-della-richinvelda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/san-giorgio-della-richinvelda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Giorgio%20della%20Richinvelda%202027.pdf?t=1795256448",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-sesto-al-reghena",
+      "nome": "Ambiente Servizi – Sesto al Reghena",
+      "comuni": [
+        "sesto-al-reghena"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/sesto-al-reghena",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sesto%20al%20Reghena%202027.pdf?t=1795255735",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-valvasone-arzene",
+      "nome": "Ambiente Servizi – Valvasone Arzene",
+      "comuni": [
+        "valvasone-arzene"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/valvasone-arzene",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Valvasone%20Arzene%202027.pdf?t=1795255236",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-zoppola",
+      "nome": "Ambiente Servizi – Zoppola",
+      "comuni": [
+        "zoppola"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/zoppola",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Zoppola%202027.pdf?t=1795257601",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-azzano-decimo",
+      "nome": "Ambiente Servizi – Azzano Decimo",
+      "comuni": [
+        "azzano-decimo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/azzano-decimo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Azzano%20Decimo%202027.pdf?t=1795256396",
+      "telefono": "800 774 728",
+      "regole": [
+        "Conferimento gratuito al centro di raccolta per i rifiuti ammessi. Per il ritiro a domicilio contattare il numero verde."
+      ],
+      "regole_en": [
+        "Households can take accepted bulky items to the recycling centre free of charge. Call the service to request home collection."
+      ]
+    },
+    {
+      "id": "ambiente-servizi-spilimbergo",
+      "nome": "Ambiente Servizi – Spilimbergo",
+      "comuni": [
+        "spilimbergo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.ambienteservizi.net/comuni/spilimbergo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Spilimbergo%202027.pdf?t=1795257599",
+      "telefono": "800 774 728",
+      "regole": [
+        "Ritiro a domicilio gratuito ogni due venerdì su prenotazione al numero verde e fino a esaurimento posti. Conferimento gratuito all’ecocentro per i materiali ammessi."
+      ],
+      "regole_en": [
+        "Free home collection every other Friday, subject to booking and availability. Accepted bulky items can be taken to the recycling centre free of charge."
+      ]
     }
   ]
 }

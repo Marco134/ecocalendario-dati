@@ -232,6 +232,514 @@
       "lat": 46.14085916753,
       "lon": 12.692543604068,
       "fonte": "https://www.ambienteservizi.net/comuni/vajont"
+    },
+    {
+      "id": "ambiente-servizi-casarsa-della-delizia",
+      "tipo": "raccolta",
+      "comune": "Casarsa della Delizia",
+      "indirizzo": "Casarsa, Località Turridetta",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Casarsa della Delizia. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 15:00–19:00, Gio 15:00–19:00, Sab 09:00–12:00 / 15:00–19:00.",
+      "lat": 45.960950108038,
+      "lon": 12.852950048558,
+      "fonte": "https://www.ambienteservizi.net/comuni/casarsa-della-delizia"
+    },
+    {
+      "id": "ambiente-servizi-chions",
+      "tipo": "raccolta",
+      "comune": "Chions",
+      "indirizzo": "Via Garibaldi",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "16:00"
+          ]
+        ],
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Chions. Festività nazionali escluse.",
+      "lat": 45.849769769496,
+      "lon": 12.708316195795,
+      "fonte": "https://www.ambienteservizi.net/comuni/chions"
+    },
+    {
+      "id": "ambiente-servizi-chions-2",
+      "tipo": "raccolta",
+      "comune": "Chions",
+      "indirizzo": "Villotta via XXV Aprile",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Chions. Festività nazionali escluse.",
+      "lat": 45.880432,
+      "lon": 12.770701,
+      "fonte": "https://www.ambienteservizi.net/comuni/chions"
+    },
+    {
+      "id": "ambiente-servizi-fiume-veneto",
+      "tipo": "raccolta",
+      "comune": "Fiume Veneto",
+      "indirizzo": "Via G. Mazzini",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Fiume Veneto. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Lun 14:00–18:00, Mer 15:00–19:00, Sab 08:30–12:30 / 14:00–18:00.",
+      "lat": 45.917873136053,
+      "lon": 12.706005125306,
+      "fonte": "https://www.ambienteservizi.net/comuni/fiume-veneto"
+    },
+    {
+      "id": "ambiente-servizi-morsano-al-tagliamento",
+      "tipo": "raccolta",
+      "comune": "Morsano al Tagliamento",
+      "indirizzo": "Via Feletti",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "08:30",
+            "12:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Morsano al Tagliamento. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mer 16:30–18:30, Sab 08:30–12:30.",
+      "lat": 45.854633121198,
+      "lon": 12.907255911236,
+      "fonte": "https://www.ambienteservizi.net/comuni/morsano-al-tagliamento"
+    },
+    {
+      "id": "ambiente-servizi-polcenigo",
+      "tipo": "raccolta",
+      "comune": "Polcenigo",
+      "indirizzo": "Località Murada",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "10:00",
+            "12:00"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Polcenigo. Festività nazionali escluse.",
+      "lat": 46.01079007829,
+      "lon": 12.52313883846,
+      "fonte": "https://www.ambienteservizi.net/comuni/polcenigo"
+    },
+    {
+      "id": "ambiente-servizi-porcia",
+      "tipo": "raccolta",
+      "comune": "Porcia",
+      "indirizzo": "Via Pieve 9",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "08:00",
+            "13:00"
+          ]
+        ],
+        "4": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:30"
+          ],
+          [
+            "14:00",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Porcia. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 14:00–18:00, Mer 08:00–13:00, Gio 14:00–18:00, Sab 08:00–12:30 / 14:00–16:30.",
+      "lat": 45.956852738602,
+      "lon": 12.598172,
+      "fonte": "https://www.ambienteservizi.net/comuni/porcia"
+    },
+    {
+      "id": "ambiente-servizi-pravisdomini",
+      "tipo": "raccolta",
+      "comune": "Pravisdomini",
+      "indirizzo": "Via Barco",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "10:00",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "16:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Pravisdomini. Festività nazionali escluse.",
+      "lat": 45.814087213743,
+      "lon": 12.680162905522,
+      "fonte": "https://www.ambienteservizi.net/comuni/pravisdomini"
+    },
+    {
+      "id": "ambiente-servizi-san-giorgio-della-richinvelda",
+      "tipo": "raccolta",
+      "comune": "San Giorgio della Richinvelda",
+      "indirizzo": "Via Cjampagnatis, 3",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di San Giorgio della Richinvelda. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 14:00–17:00, Gio 11:00–13:00, Sab 14:00–17:00.",
+      "lat": 46.051695593279,
+      "lon": 12.844226508697,
+      "fonte": "https://www.ambienteservizi.net/comuni/san-giorgio-della-richinvelda"
+    },
+    {
+      "id": "ambiente-servizi-sesto-al-reghena",
+      "tipo": "raccolta",
+      "comune": "Sesto al Reghena",
+      "indirizzo": "Viale degli Olmi",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "11:00",
+            "13:30"
+          ]
+        ],
+        "6": [
+          [
+            "10:30",
+            "13:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Sesto al Reghena. Festività nazionali escluse.",
+      "lat": 45.845503964195,
+      "lon": 12.809918465351,
+      "fonte": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
+    },
+    {
+      "id": "ambiente-servizi-sesto-al-reghena-2",
+      "tipo": "raccolta",
+      "comune": "Sesto al Reghena",
+      "indirizzo": "Bagnarola, Via Casette",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "08:00",
+            "10:30"
+          ]
+        ],
+        "6": [
+          [
+            "14:30",
+            "17:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Sesto al Reghena. Festività nazionali escluse.",
+      "lat": 45.864867420201,
+      "lon": 12.871373111054,
+      "fonte": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
+    },
+    {
+      "id": "ambiente-servizi-sesto-al-reghena-3",
+      "tipo": "raccolta",
+      "comune": "Sesto al Reghena",
+      "indirizzo": "Ramuscello, via Risorgimento",
+      "per": "domestiche",
+      "orari": {
+        "3": [
+          [
+            "15:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "10:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Sesto al Reghena. Festività nazionali escluse.",
+      "lat": 45.879763,
+      "lon": 12.890612,
+      "fonte": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
+    },
+    {
+      "id": "ambiente-servizi-valvasone-arzene",
+      "tipo": "raccolta",
+      "comune": "Valvasone Arzene",
+      "indirizzo": "Arzene, Via Chiesa",
+      "per": "domestiche",
+      "orari": {
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Valvasone Arzene. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 14:30–16:00, Sab 09:00–12:00.",
+      "lat": 45.999061034732,
+      "lon": 12.841661538031,
+      "fonte": "https://www.ambienteservizi.net/comuni/valvasone-arzene"
+    },
+    {
+      "id": "ambiente-servizi-valvasone-arzene-2",
+      "tipo": "raccolta",
+      "comune": "Valvasone Arzene",
+      "indirizzo": "Valvasone, viale Rimembranza",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ],
+        "6": [
+          [
+            "14:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Valvasone Arzene. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 16:30–18:00, Sab 15:00–18:00.",
+      "lat": 46.141722308423,
+      "lon": 12.783513426433,
+      "fonte": "https://www.ambienteservizi.net/comuni/valvasone-arzene"
+    },
+    {
+      "id": "ambiente-servizi-zoppola",
+      "tipo": "raccolta",
+      "comune": "Zoppola",
+      "indirizzo": "Via Tavielis",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "15:30",
+            "17:30"
+          ]
+        ],
+        "3": [
+          [
+            "13:30",
+            "17:30"
+          ]
+        ],
+        "6": [
+          [
+            "09:00",
+            "12:00"
+          ],
+          [
+            "13:30",
+            "17:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Zoppola. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Lun 15:30–18:30, Mer 13:30–18:30, Sab 09:00–12:00 / 13:30–18:30.",
+      "lat": 45.963029291687,
+      "lon": 12.78188559755,
+      "fonte": "https://www.ambienteservizi.net/comuni/zoppola"
+    },
+    {
+      "id": "ambiente-servizi-azzano-decimo",
+      "tipo": "raccolta",
+      "comune": "Azzano Decimo",
+      "indirizzo": "Via Troiat",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "13:00",
+            "17:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "12:00"
+          ],
+          [
+            "14:00",
+            "17:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Azzano Decimo. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Lun 14:00–18:00, Mer 14:00–18:00, Ven 14:00–18:00, Sab 08:30–12:00 / 14:00–18:00.",
+      "lat": 45.873173801652,
+      "lon": 12.715290662954,
+      "fonte": "https://www.ambienteservizi.net/comuni/azzano-decimo"
+    },
+    {
+      "id": "ambiente-servizi-spilimbergo",
+      "tipo": "raccolta",
+      "comune": "Spilimbergo",
+      "indirizzo": "Zona Industriale del Cosa",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:00",
+            "16:30"
+          ]
+        ],
+        "3": [
+          [
+            "14:00",
+            "16:30"
+          ]
+        ],
+        "5": [
+          [
+            "14:00",
+            "16:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Utenze di Spilimbergo. Festività nazionali escluse.",
+      "lat": 46.107039978787,
+      "lon": 12.877358070481,
+      "fonte": "https://www.ambienteservizi.net/comuni/spilimbergo"
     }
   ]
 }

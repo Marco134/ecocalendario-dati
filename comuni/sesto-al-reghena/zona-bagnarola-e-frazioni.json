@@ -1,0 +1,372 @@
+{
+  "schema": 1,
+  "comune": "Sesto al Reghena",
+  "provincia": "PN",
+  "gestore": "Ambiente Servizi S.p.A.",
+  "zona": "Bagnarola, Casette, Ramuscello e Vissignano",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2028-02-29",
+  "esposizione": "Esporre contenitori e sacchi dopo le 20:00 della sera precedente il ritiro.",
+  "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Sesto%20al%20Reghena%202026.pdf?t=1795255735 | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sesto%20al%20Reghena%202027.pdf?t=1795255735 | https://www.ambienteservizi.net/comuni/sesto-al-reghena",
+  "note": [
+    "Organico e vetro nei contenitori stradali. Per il vetro separare colorato e incolore.",
+    "Consultare la legenda e l’elenco delle vie nel PDF per verificare i confini della zona.",
+    "Per il verde verificare limiti e condizioni di esposizione nel PDF."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "sfalci"
+    ],
+    "2026-11-25": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-02": [
+      "plastica"
+    ],
+    "2026-12-07": [
+      "sfalci"
+    ],
+    "2026-12-09": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-16": [
+      "plastica"
+    ],
+    "2026-12-23": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2026-12-30": [
+      "plastica"
+    ],
+    "2027-01-06": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-01-11": [
+      "sfalci"
+    ],
+    "2027-01-13": [
+      "plastica"
+    ],
+    "2027-01-20": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-01-27": [
+      "plastica"
+    ],
+    "2027-02-03": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-02-08": [
+      "sfalci"
+    ],
+    "2027-02-10": [
+      "plastica"
+    ],
+    "2027-02-17": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-02-24": [
+      "plastica"
+    ],
+    "2027-03-03": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-03-08": [
+      "sfalci"
+    ],
+    "2027-03-10": [
+      "plastica"
+    ],
+    "2027-03-17": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-03-22": [
+      "sfalci"
+    ],
+    "2027-03-24": [
+      "plastica"
+    ],
+    "2027-03-31": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-04-05": [
+      "sfalci"
+    ],
+    "2027-04-07": [
+      "plastica"
+    ],
+    "2027-04-12": [
+      "sfalci"
+    ],
+    "2027-04-14": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-04-19": [
+      "sfalci"
+    ],
+    "2027-04-21": [
+      "plastica"
+    ],
+    "2027-04-26": [
+      "sfalci"
+    ],
+    "2027-04-28": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-05-03": [
+      "sfalci"
+    ],
+    "2027-05-05": [
+      "plastica"
+    ],
+    "2027-05-10": [
+      "sfalci"
+    ],
+    "2027-05-12": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-05-17": [
+      "sfalci"
+    ],
+    "2027-05-19": [
+      "plastica"
+    ],
+    "2027-05-24": [
+      "sfalci"
+    ],
+    "2027-05-26": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-05-31": [
+      "sfalci"
+    ],
+    "2027-06-02": [
+      "plastica"
+    ],
+    "2027-06-07": [
+      "sfalci"
+    ],
+    "2027-06-09": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-06-14": [
+      "sfalci"
+    ],
+    "2027-06-16": [
+      "plastica"
+    ],
+    "2027-06-21": [
+      "sfalci"
+    ],
+    "2027-06-23": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-06-28": [
+      "sfalci"
+    ],
+    "2027-06-30": [
+      "plastica"
+    ],
+    "2027-07-05": [
+      "sfalci"
+    ],
+    "2027-07-07": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-07-12": [
+      "sfalci"
+    ],
+    "2027-07-14": [
+      "plastica"
+    ],
+    "2027-07-19": [
+      "sfalci"
+    ],
+    "2027-07-21": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-07-26": [
+      "sfalci"
+    ],
+    "2027-07-28": [
+      "plastica"
+    ],
+    "2027-08-02": [
+      "sfalci"
+    ],
+    "2027-08-04": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-08-09": [
+      "sfalci"
+    ],
+    "2027-08-11": [
+      "plastica"
+    ],
+    "2027-08-16": [
+      "sfalci"
+    ],
+    "2027-08-18": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-08-23": [
+      "sfalci"
+    ],
+    "2027-08-25": [
+      "plastica"
+    ],
+    "2027-08-30": [
+      "sfalci"
+    ],
+    "2027-09-01": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-09-06": [
+      "sfalci"
+    ],
+    "2027-09-08": [
+      "plastica"
+    ],
+    "2027-09-13": [
+      "sfalci"
+    ],
+    "2027-09-15": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-09-20": [
+      "sfalci"
+    ],
+    "2027-09-22": [
+      "plastica"
+    ],
+    "2027-09-27": [
+      "sfalci"
+    ],
+    "2027-09-29": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-10-04": [
+      "sfalci"
+    ],
+    "2027-10-06": [
+      "plastica"
+    ],
+    "2027-10-11": [
+      "sfalci"
+    ],
+    "2027-10-13": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-10-18": [
+      "sfalci"
+    ],
+    "2027-10-20": [
+      "plastica"
+    ],
+    "2027-10-25": [
+      "sfalci"
+    ],
+    "2027-10-27": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-11-03": [
+      "plastica"
+    ],
+    "2027-11-08": [
+      "sfalci"
+    ],
+    "2027-11-10": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-11-17": [
+      "plastica"
+    ],
+    "2027-11-22": [
+      "sfalci"
+    ],
+    "2027-11-24": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-12-01": [
+      "plastica"
+    ],
+    "2027-12-06": [
+      "sfalci"
+    ],
+    "2027-12-08": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-12-15": [
+      "plastica"
+    ],
+    "2027-12-22": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2027-12-29": [
+      "plastica"
+    ],
+    "2028-01-05": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2028-01-10": [
+      "sfalci"
+    ],
+    "2028-01-12": [
+      "plastica"
+    ],
+    "2028-01-19": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2028-01-26": [
+      "plastica"
+    ],
+    "2028-02-02": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2028-02-07": [
+      "sfalci"
+    ],
+    "2028-02-09": [
+      "plastica"
+    ],
+    "2028-02-16": [
+      "indifferenziato",
+      "carta"
+    ],
+    "2028-02-23": [
+      "plastica"
+    ]
+  }
+}

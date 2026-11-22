@@ -19090,6 +19090,342 @@
           "valido_al": "2028-02-29"
         }
       ]
+    },
+    {
+      "id": "casarsa-della-delizia",
+      "nome": "Casarsa della Delizia",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.955937,
+      "lon": 12.842693,
+      "zone": [
+        {
+          "id": "san-giovanni",
+          "nome": "San Giovanni di Casarsa",
+          "file": "comuni/casarsa-della-delizia/zona-san-giovanni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "casarsa",
+          "nome": "Casarsa della Delizia",
+          "file": "comuni/casarsa-della-delizia/zona-casarsa.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Casarsa%20della%20Delizia%202027.pdf?t=1795255643"
+    },
+    {
+      "id": "chions",
+      "nome": "Chions",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.847186,
+      "lon": 12.711062,
+      "zone": [
+        {
+          "id": "chions-basedo",
+          "nome": "Chions e Basedo",
+          "file": "comuni/chions/zona-chions-basedo.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "taiedo-villotta",
+          "nome": "Taiedo e Villotta",
+          "file": "comuni/chions/zona-taiedo-villotta.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "vie-secco-settimanale",
+          "nome": "Via Roma, Santa Caterina, San Giorgio e Vittorio Veneto",
+          "file": "comuni/chions/zona-vie-secco-settimanale.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Chions%202027.pdf?t=1795256805"
+    },
+    {
+      "id": "fiume-veneto",
+      "nome": "Fiume Veneto",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.927943,
+      "lon": 12.732176,
+      "zone": [
+        {
+          "id": "fiume-veneto",
+          "nome": "Fiume Veneto e Via Nino Bixio",
+          "file": "comuni/fiume-veneto/zona-fiume-veneto.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Bannia, Cimpello, Pescincanna e Praturlone",
+          "file": "comuni/fiume-veneto/zona-frazioni.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Fiume%20Veneto%202027.pdf?t=1795256242"
+    },
+    {
+      "id": "morsano-al-tagliamento",
+      "nome": "Morsano al Tagliamento",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.858141,
+      "lon": 12.929336,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo e vie elencate nel PDF",
+          "file": "comuni/morsano-al-tagliamento/zona-capoluogo.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Bando, Mussons, Saletto, San Paolo e altre vie",
+          "file": "comuni/morsano-al-tagliamento/zona-frazioni.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Morsano%20al%20Tagliamento%202027.pdf?t=1795257594"
+    },
+    {
+      "id": "polcenigo",
+      "nome": "Polcenigo",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.0307,
+      "lon": 12.501626,
+      "zone": [
+        {
+          "id": "fontaniva-e-frazioni",
+          "nome": "Fontaniva, Masat, San Giovanni e Sottocolle",
+          "file": "comuni/polcenigo/zona-fontaniva-e-frazioni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "polcenigo-e-frazioni",
+          "nome": "Polcenigo, Coltura, Gorgazzo, Mezzomonte, Range e Santissima",
+          "file": "comuni/polcenigo/zona-polcenigo-e-frazioni.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Polcenigo%202027.pdf?t=1795257204"
+    },
+    {
+      "id": "porcia",
+      "nome": "Porcia",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.946555,
+      "lon": 12.601781,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo, Palse, Pieve, Rondover e Talponedo",
+          "file": "comuni/porcia/zona-capoluogo.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "rorai-santantonio",
+          "nome": "Rorai Piccolo, Sant’Antonio e vie indicate a nord della ferrovia",
+          "file": "comuni/porcia/zona-rorai-santantonio.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Porcia%202027.pdf?t=1795256818"
+    },
+    {
+      "id": "pravisdomini",
+      "nome": "Pravisdomini",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.818909,
+      "lon": 12.694425,
+      "zone": [
+        {
+          "id": "pravisdomini-panigai",
+          "nome": "Pravisdomini, Panigai e zona industriale",
+          "file": "comuni/pravisdomini/zona-pravisdomini-panigai.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "barco-frattina",
+          "nome": "Barco, Frattina e Via Coare",
+          "file": "comuni/pravisdomini/zona-barco-frattina.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pravisdomini%202027.pdf?t=1795256035"
+    },
+    {
+      "id": "san-giorgio-della-richinvelda",
+      "nome": "San Giorgio della Richinvelda",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.039508,
+      "lon": 12.882333,
+      "zone": [
+        {
+          "id": "capoluogo-e-frazioni",
+          "nome": "San Giorgio, Aurava, Cosa, Pozzo e Provesano",
+          "file": "comuni/san-giorgio-della-richinvelda/zona-capoluogo-e-frazioni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "domanins-rauscedo",
+          "nome": "Domanins e Rauscedo",
+          "file": "comuni/san-giorgio-della-richinvelda/zona-domanins-rauscedo.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Giorgio%20della%20Richinvelda%202027.pdf?t=1795256448"
+    },
+    {
+      "id": "sesto-al-reghena",
+      "nome": "Sesto al Reghena",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.847642,
+      "lon": 12.815531,
+      "zone": [
+        {
+          "id": "sesto-e-frazioni",
+          "nome": "Sesto, Marignana, Mure, Versiola e vie indicate di Bagnarola",
+          "file": "comuni/sesto-al-reghena/zona-sesto-e-frazioni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "bagnarola-e-frazioni",
+          "nome": "Bagnarola, Casette, Ramuscello e Vissignano",
+          "file": "comuni/sesto-al-reghena/zona-bagnarola-e-frazioni.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sesto%20al%20Reghena%202027.pdf?t=1795255735"
+    },
+    {
+      "id": "valvasone-arzene",
+      "nome": "Valvasone Arzene",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.995211,
+      "lon": 12.86631,
+      "zone": [
+        {
+          "id": "valvasone",
+          "nome": "Valvasone",
+          "file": "comuni/valvasone-arzene/zona-valvasone.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "arzene-san-lorenzo",
+          "nome": "Arzene e San Lorenzo",
+          "file": "comuni/valvasone-arzene/zona-arzene-san-lorenzo.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Valvasone%20Arzene%202027.pdf?t=1795255236"
+    },
+    {
+      "id": "zoppola",
+      "nome": "Zoppola",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.966254,
+      "lon": 12.771564,
+      "zone": [
+        {
+          "id": "zoppola-cusano-poincicco",
+          "nome": "Zoppola, Cusano e Poincicco",
+          "file": "comuni/zoppola/zona-zoppola-cusano-poincicco.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Castions, Murlis, Ovoledo, Orcenico Inferiore e Orcenico Superiore",
+          "file": "comuni/zoppola/zona-frazioni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "vie-secco-settimanale",
+          "nome": "Via Panciera (tratto indicato), Piazza Vittorio Emanuele II e Via Roma",
+          "file": "comuni/zoppola/zona-vie-secco-settimanale.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Zoppola%202027.pdf?t=1795257601"
+    },
+    {
+      "id": "azzano-decimo",
+      "nome": "Azzano Decimo",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 45.88142,
+      "lon": 12.714314,
+      "zone": [
+        {
+          "id": "zona-gialla",
+          "nome": "Zona gialla · Corva, Fagnigola e Tiezzo",
+          "file": "comuni/azzano-decimo/zona-zona-gialla.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "zona-verde",
+          "nome": "Zona verde · Azzano Decimo",
+          "file": "comuni/azzano-decimo/zona-zona-verde.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "zona-rossa",
+          "nome": "Zona rossa · Vie del centro indicate nel PDF",
+          "file": "comuni/azzano-decimo/zona-zona-rossa.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Azzano%20Decimo%202027.pdf?t=1795256396"
+    },
+    {
+      "id": "spilimbergo",
+      "nome": "Spilimbergo",
+      "provincia": "PN",
+      "gestore": "Ambiente Servizi S.p.A.",
+      "consorzio": "ambiente-servizi",
+      "lat": 46.111335,
+      "lon": 12.901629,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/spilimbergo/zona-capoluogo.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Barbeano, Baseglia, Gaio, Gradisca, Istrago, Tauriano e Vacile",
+          "file": "comuni/spilimbergo/zona-frazioni.json",
+          "valido_al": "2028-02-29"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/spilimbergo/zona-centro-storico.json",
+          "valido_al": "2028-02-29"
+        }
+      ],
+      "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Spilimbergo%202027.pdf?t=1795257599"
     }
   ],
   "consorzi": {

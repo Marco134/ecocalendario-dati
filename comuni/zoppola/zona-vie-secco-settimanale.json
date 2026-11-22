@@ -1,0 +1,431 @@
+{
+  "schema": 1,
+  "comune": "Zoppola",
+  "provincia": "PN",
+  "gestore": "Ambiente Servizi S.p.A.",
+  "zona": "Via Panciera (tratto indicato), Piazza Vittorio Emanuele II e Via Roma",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2028-02-29",
+  "esposizione": "Esporre contenitori e sacchi dopo le 20:00 della sera precedente il ritiro.",
+  "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Zoppola%202026.pdf?t=1795257601 | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Zoppola%202027.pdf?t=1795257601 | https://www.ambienteservizi.net/comuni/zoppola",
+  "note": [
+    "Organico e vetro nei contenitori stradali. Per il vetro separare colorato e incolore.",
+    "Consultare la legenda e l’elenco delle vie nel PDF per verificare i confini della zona.",
+    "Verde e ramaglie su prenotazione. Consultare il PDF o contattare il numero verde per costi e condizioni."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "carta"
+    ],
+    "2026-12-01": [
+      "indifferenziato"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-08": [
+      "indifferenziato"
+    ],
+    "2026-12-11": [
+      "carta"
+    ],
+    "2026-12-15": [
+      "indifferenziato"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "carta"
+    ],
+    "2026-12-29": [
+      "indifferenziato"
+    ],
+    "2027-01-04": [
+      "plastica"
+    ],
+    "2027-01-05": [
+      "indifferenziato"
+    ],
+    "2027-01-08": [
+      "carta"
+    ],
+    "2027-01-12": [
+      "indifferenziato"
+    ],
+    "2027-01-15": [
+      "plastica"
+    ],
+    "2027-01-19": [
+      "indifferenziato"
+    ],
+    "2027-01-22": [
+      "carta"
+    ],
+    "2027-01-26": [
+      "indifferenziato"
+    ],
+    "2027-01-29": [
+      "plastica"
+    ],
+    "2027-02-02": [
+      "indifferenziato"
+    ],
+    "2027-02-05": [
+      "carta"
+    ],
+    "2027-02-09": [
+      "indifferenziato"
+    ],
+    "2027-02-12": [
+      "plastica"
+    ],
+    "2027-02-16": [
+      "indifferenziato"
+    ],
+    "2027-02-19": [
+      "carta"
+    ],
+    "2027-02-23": [
+      "indifferenziato"
+    ],
+    "2027-02-26": [
+      "plastica"
+    ],
+    "2027-03-02": [
+      "indifferenziato"
+    ],
+    "2027-03-05": [
+      "carta"
+    ],
+    "2027-03-09": [
+      "indifferenziato"
+    ],
+    "2027-03-12": [
+      "plastica"
+    ],
+    "2027-03-16": [
+      "indifferenziato"
+    ],
+    "2027-03-19": [
+      "carta"
+    ],
+    "2027-03-23": [
+      "indifferenziato"
+    ],
+    "2027-03-26": [
+      "plastica"
+    ],
+    "2027-03-30": [
+      "indifferenziato"
+    ],
+    "2027-04-02": [
+      "carta"
+    ],
+    "2027-04-06": [
+      "indifferenziato"
+    ],
+    "2027-04-09": [
+      "plastica"
+    ],
+    "2027-04-13": [
+      "indifferenziato"
+    ],
+    "2027-04-16": [
+      "carta"
+    ],
+    "2027-04-20": [
+      "indifferenziato"
+    ],
+    "2027-04-23": [
+      "plastica"
+    ],
+    "2027-04-27": [
+      "indifferenziato"
+    ],
+    "2027-04-30": [
+      "carta"
+    ],
+    "2027-05-04": [
+      "indifferenziato"
+    ],
+    "2027-05-07": [
+      "plastica"
+    ],
+    "2027-05-11": [
+      "indifferenziato"
+    ],
+    "2027-05-14": [
+      "carta"
+    ],
+    "2027-05-18": [
+      "indifferenziato"
+    ],
+    "2027-05-21": [
+      "plastica"
+    ],
+    "2027-05-25": [
+      "indifferenziato"
+    ],
+    "2027-05-28": [
+      "carta"
+    ],
+    "2027-06-01": [
+      "indifferenziato"
+    ],
+    "2027-06-04": [
+      "plastica"
+    ],
+    "2027-06-08": [
+      "indifferenziato"
+    ],
+    "2027-06-11": [
+      "carta"
+    ],
+    "2027-06-15": [
+      "indifferenziato"
+    ],
+    "2027-06-18": [
+      "plastica"
+    ],
+    "2027-06-22": [
+      "indifferenziato"
+    ],
+    "2027-06-25": [
+      "carta"
+    ],
+    "2027-06-29": [
+      "indifferenziato"
+    ],
+    "2027-07-02": [
+      "plastica"
+    ],
+    "2027-07-06": [
+      "indifferenziato"
+    ],
+    "2027-07-09": [
+      "carta"
+    ],
+    "2027-07-13": [
+      "indifferenziato"
+    ],
+    "2027-07-16": [
+      "plastica"
+    ],
+    "2027-07-20": [
+      "indifferenziato"
+    ],
+    "2027-07-23": [
+      "carta"
+    ],
+    "2027-07-27": [
+      "indifferenziato"
+    ],
+    "2027-07-30": [
+      "plastica"
+    ],
+    "2027-08-03": [
+      "indifferenziato"
+    ],
+    "2027-08-06": [
+      "carta"
+    ],
+    "2027-08-10": [
+      "indifferenziato"
+    ],
+    "2027-08-13": [
+      "plastica"
+    ],
+    "2027-08-17": [
+      "indifferenziato"
+    ],
+    "2027-08-20": [
+      "carta"
+    ],
+    "2027-08-24": [
+      "indifferenziato"
+    ],
+    "2027-08-27": [
+      "plastica"
+    ],
+    "2027-08-31": [
+      "indifferenziato"
+    ],
+    "2027-09-03": [
+      "carta"
+    ],
+    "2027-09-07": [
+      "indifferenziato"
+    ],
+    "2027-09-10": [
+      "plastica"
+    ],
+    "2027-09-14": [
+      "indifferenziato"
+    ],
+    "2027-09-17": [
+      "carta"
+    ],
+    "2027-09-21": [
+      "indifferenziato"
+    ],
+    "2027-09-24": [
+      "plastica"
+    ],
+    "2027-09-28": [
+      "indifferenziato"
+    ],
+    "2027-10-01": [
+      "carta"
+    ],
+    "2027-10-05": [
+      "indifferenziato"
+    ],
+    "2027-10-08": [
+      "plastica"
+    ],
+    "2027-10-12": [
+      "indifferenziato"
+    ],
+    "2027-10-15": [
+      "carta"
+    ],
+    "2027-10-19": [
+      "indifferenziato"
+    ],
+    "2027-10-22": [
+      "plastica"
+    ],
+    "2027-10-26": [
+      "indifferenziato"
+    ],
+    "2027-10-29": [
+      "carta"
+    ],
+    "2027-11-02": [
+      "indifferenziato"
+    ],
+    "2027-11-05": [
+      "plastica"
+    ],
+    "2027-11-09": [
+      "indifferenziato"
+    ],
+    "2027-11-12": [
+      "carta"
+    ],
+    "2027-11-16": [
+      "indifferenziato"
+    ],
+    "2027-11-19": [
+      "plastica"
+    ],
+    "2027-11-23": [
+      "indifferenziato"
+    ],
+    "2027-11-26": [
+      "carta"
+    ],
+    "2027-11-30": [
+      "indifferenziato"
+    ],
+    "2027-12-03": [
+      "plastica"
+    ],
+    "2027-12-07": [
+      "indifferenziato"
+    ],
+    "2027-12-10": [
+      "carta"
+    ],
+    "2027-12-14": [
+      "indifferenziato"
+    ],
+    "2027-12-17": [
+      "plastica"
+    ],
+    "2027-12-21": [
+      "indifferenziato"
+    ],
+    "2027-12-24": [
+      "carta"
+    ],
+    "2027-12-28": [
+      "indifferenziato"
+    ],
+    "2027-12-31": [
+      "plastica"
+    ],
+    "2028-01-04": [
+      "indifferenziato"
+    ],
+    "2028-01-07": [
+      "carta"
+    ],
+    "2028-01-11": [
+      "indifferenziato"
+    ],
+    "2028-01-14": [
+      "plastica"
+    ],
+    "2028-01-18": [
+      "indifferenziato"
+    ],
+    "2028-01-21": [
+      "carta"
+    ],
+    "2028-01-25": [
+      "indifferenziato"
+    ],
+    "2028-01-28": [
+      "plastica"
+    ],
+    "2028-02-01": [
+      "indifferenziato"
+    ],
+    "2028-02-04": [
+      "carta"
+    ],
+    "2028-02-08": [
+      "indifferenziato"
+    ],
+    "2028-02-11": [
+      "plastica"
+    ],
+    "2028-02-15": [
+      "indifferenziato"
+    ],
+    "2028-02-18": [
+      "carta"
+    ],
+    "2028-02-22": [
+      "indifferenziato"
+    ],
+    "2028-02-25": [
+      "plastica"
+    ],
+    "2028-02-29": [
+      "indifferenziato"
+    ]
+  },
+  "eccezioni": [
+    {
+      "data": "2026-12-28",
+      "tipo": "spostato",
+      "raccolta": "carta",
+      "da": "2026-12-25"
+    },
+    {
+      "data": "2027-01-04",
+      "tipo": "spostato",
+      "raccolta": "plastica",
+      "da": "2027-01-01"
+    }
+  ]
+}
