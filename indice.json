@@ -21818,6 +21818,114 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "fano",
+      "nome": "Fano",
+      "provincia": "PU",
+      "gestore": "ASET",
+      "consorzio": "aset",
+      "lat": 43.842417,
+      "lon": 13.014663,
+      "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+      "zone": [
+        {
+          "id": "bellocchi-e-falcineto",
+          "nome": "Bellocchi e Falcineto",
+          "file": "comuni/fano/zona-bellocchi-e-falcineto.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "metaurilia-caminate-e-tombaccia",
+          "nome": "Metaurilia, Caminate e Tombaccia",
+          "file": "comuni/fano/zona-metaurilia-caminate-e-tombaccia.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "ponte-sasso-lato-monte",
+          "nome": "Ponte Sasso · lato monte",
+          "file": "comuni/fano/zona-ponte-sasso-lato-monte.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "torrette-e-ponte-sasso-lato-mare",
+          "nome": "Torrette e Ponte Sasso · lato mare",
+          "file": "comuni/fano/zona-torrette-e-ponte-sasso-lato-mare.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "rosciano-cuccurano-e-carrara",
+          "nome": "Rosciano, Cuccurano e Carrara",
+          "file": "comuni/fano/zona-rosciano-cuccurano-e-carrara.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centinarola-fenile-carignano-santandrea-e-roncosambaccio",
+          "nome": "Centinarola, Fenile, Carignano, Sant’Andrea e Roncosambaccio",
+          "file": "comuni/fano/zona-centinarola-fenile-carignano-santandrea-e-roncosambaccio.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "lido-mare-sassonia-e-baia-metauro",
+          "nome": "Lido Mare, Sassonia e Baia Metauro",
+          "file": "comuni/fano/zona-lido-mare-sassonia-e-baia-metauro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "fosso-sejore-gimarra-paleotta-e-via-dellarzilla",
+          "nome": "Fosso Sejore, Gimarra, Paleotta e via dell’Arzilla",
+          "file": "comuni/fano/zona-fosso-sejore-gimarra-paleotta-e-via-dellarzilla.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "santorso",
+          "nome": "Sant’Orso",
+          "file": "comuni/fano/zona-santorso.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/fano/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "lido-alto",
+          "nome": "Lido Alto",
+          "file": "comuni/fano/zona-lido-alto.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "don-gentili-ex-caserma-ospedale-e-stazione",
+          "nome": "Don Gentili, ex Caserma, ospedale e stazione",
+          "file": "comuni/fano/zona-don-gentili-ex-caserma-ospedale-e-stazione.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "san-lazzaro-colonna-vallato-tre-ponti-ed-ex-zuccherificio",
+          "nome": "San Lazzaro, Colonna, Vallato, Tre Ponti ed ex Zuccherificio",
+          "file": "comuni/fano/zona-san-lazzaro-colonna-vallato-tre-ponti-ed-ex-zuccherificio.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "san-martino-san-cristoforo-flaminio-e-fano-2",
+          "nome": "San Martino, San Cristoforo, Flaminio e Fano 2",
+          "file": "comuni/fano/zona-san-martino-san-cristoforo-flaminio-e-fano-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "trave-poderino-e-fanfani",
+          "nome": "Trave, Poderino e Fanfani",
+          "file": "comuni/fano/zona-trave-poderino-e-fanfani.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "aree-rurali-secco-a-prossimita",
+          "nome": "Aree rurali · secco a prossimità",
+          "file": "comuni/fano/zona-aree-rurali-secco-a-prossimita.json",
+          "valido_al": "2099-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {

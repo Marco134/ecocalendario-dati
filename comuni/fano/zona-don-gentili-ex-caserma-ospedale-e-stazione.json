@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "comune": "Fano",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Don Gentili, ex Caserma, ospedale e stazione",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocalendario-fano-dongentili_excaserma_ospedale_stazione-revnov2020_compressed.pdf",
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta davanti al proprio civico. Il PDF consente di esporre dopo il tramonto della sera precedente.",
+  "note": [
+    "Verificare il proprio quartiere e il civico nel portale ASET.",
+    "Carta, imballaggi in plastica, vetro e imballaggi metallici nei contenitori indicati da ASET.",
+    "La verifica dei turni e dei recuperi festivi è ancora aperta. Consultare gli avvisi ASET."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  },
+  "esposizione_entro": "06:00"
+}

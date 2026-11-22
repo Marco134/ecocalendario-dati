@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "comune": "Fano",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Aree rurali · secco a prossimità",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2099-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/fano.pdf",
+  "esposizione": "Il secco si conferisce nei bidoni di prossimità nelle aree rurali servite.",
+  "note": [
+    "Verificare il proprio quartiere e il civico nel portale ASET.",
+    "Chiedere ad ASET quali civici sono serviti e come avviene il conferimento delle altre frazioni."
+  ],
+  "raccolte": {},
+  "info": "Nelle aree rurali servite, il secco non riciclabile va nei bidoni di prossimità. Chiedi ad ASET quali postazioni servono il tuo civico e come conferire le altre frazioni.",
+  "info_en": "In rural areas covered by proximity collection, use the shared bins for residual waste. Ask ASET which bins serve your address and how to dispose of the other materials."
+}

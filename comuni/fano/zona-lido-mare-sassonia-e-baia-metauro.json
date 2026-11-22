@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "comune": "Fano",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Lido Mare, Sassonia e Baia Metauro",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocalendario-fano-lido-mare_sassonia_baia-metauro-rev-ottobre-2025_compressed.pdf",
+  "esposizione": "Esporre entro le 06:00 del giorno di raccolta davanti al proprio civico. Il PDF consente di esporre dopo il tramonto della sera precedente.",
+  "note": [
+    "Verificare il proprio quartiere e il civico nel portale ASET.",
+    "Carta, imballaggi in plastica, vetro e imballaggi metallici nei contenitori indicati da ASET.",
+    "La verifica dei turni e dei recuperi festivi è ancora aperta. Consultare gli avvisi ASET.",
+    "Queste date usano lo schema invernale, valido dall’11 settembre al 31 maggio.",
+    "Lo schema estivo dal 1° giugno al 10 settembre cambia le frequenze e anticipa l’esposizione alle 05:00."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "indifferenziato"
+    ],
+    "2026-12-04": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "indifferenziato"
+    ],
+    "2026-12-18": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "indifferenziato"
+    ]
+  },
+  "esposizione_entro": "06:00"
+}

@@ -1,0 +1,70 @@
+{
+  "schema": 1,
+  "comune": "Fano",
+  "provincia": "PU",
+  "gestore": "ASET",
+  "zona": "Centinarola, Fenile, Carignano, Sant’Andrea e Roncosambaccio",
+  "valido_dal": "2026-11-22",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocalendario-fano-centinarola_fenile_carignano_sant-andrea_roncosambaccio-rev-giugno-2025_compressed.pdf",
+  "esposizione": "Esporre entro le 13:00 del giorno di raccolta davanti al proprio civico.",
+  "note": [
+    "Verificare il proprio quartiere e il civico nel portale ASET.",
+    "Carta, imballaggi in plastica, vetro e imballaggi metallici nei contenitori indicati da ASET.",
+    "La verifica dei turni e dei recuperi festivi è ancora aperta. Consultare gli avvisi ASET."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "organico"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "indifferenziato"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "indifferenziato"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "indifferenziato"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  },
+  "esposizione_entro": "13:00"
+}
