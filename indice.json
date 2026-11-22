@@ -20602,6 +20602,244 @@
         }
       ],
       "regole": "regole/dolomiti-vallagarina.json"
+    },
+    {
+      "id": "barumini",
+      "nome": "Barumini",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.701546,
+      "lon": 9.002736,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/barumini/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "collinas",
+      "nome": "Collinas",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.640631,
+      "lon": 8.839875,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/collinas/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "genuri",
+      "nome": "Genuri",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.744246,
+      "lon": 8.923334,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/genuri/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "gesturi",
+      "nome": "Gesturi",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.739991,
+      "lon": 9.024004,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gesturi/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "las-plassas",
+      "nome": "Las Plassas",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.680145,
+      "lon": 8.984936,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/las-plassas/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "lunamatrona",
+      "nome": "Lunamatrona",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.650544,
+      "lon": 8.899335,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lunamatrona/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "pauli-arbarei",
+      "nome": "Pauli Arbarei",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.660744,
+      "lon": 8.922035,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pauli-arbarei/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "setzu",
+      "nome": "Setzu",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.722945,
+      "lon": 8.939235,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/setzu/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "siddi",
+      "nome": "Siddi",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.672198,
+      "lon": 8.888371,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/siddi/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "tuili",
+      "nome": "Tuili",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.713988,
+      "lon": 8.960342,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tuili/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "turri",
+      "nome": "Turri",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.704845,
+      "lon": 8.916534,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/turri/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "ussaramanna",
+      "nome": "Ussaramanna",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.692845,
+      "lon": 8.907634,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ussaramanna/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "villanovaforru",
+      "nome": "Villanovaforru",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.631843,
+      "lon": 8.869035,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villanovaforru/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
+    },
+    {
+      "id": "villanovafranca",
+      "nome": "Villanovafranca",
+      "provincia": "VS",
+      "gestore": "Cosir S.r.l.",
+      "consorzio": "cosir-marmilla",
+      "lat": 39.645183,
+      "lon": 9.001398,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villanovafranca/zona-unica.json",
+          "valido_al": "2027-10-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -20780,6 +21018,12 @@
       "gestore": "Dolomiti Ambiente S.r.l.",
       "ecocentri": "ecocentri/dolomiti-rovereto.json",
       "regole": "regole/dolomiti-trento-rovereto.json"
+    },
+    "cosir-marmilla": {
+      "nome": "Unione dei Comuni della Marmilla",
+      "gestore": "Cosir S.r.l.",
+      "ecocentri": "ecocentri/cosir-marmilla.json",
+      "regole": "regole/cosir-marmilla.json"
     }
   },
   "tipi_en": {

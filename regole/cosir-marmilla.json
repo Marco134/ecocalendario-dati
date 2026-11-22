@@ -1,0 +1,50 @@
+{
+  "schema": 1,
+  "nome": "Cosir · Marmilla",
+  "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf",
+  "voci": {
+    "tetrapak (cartoni di latte e succhi)": {
+      "dove": "carta",
+      "nota": "Con carta e cartone, senza sacchetto di plastica.",
+      "nota_en": "Put with paper and cardboard, without a plastic bag."
+    },
+    "lattine di alluminio": {
+      "dove": "vetro",
+      "nota": "Nel contenitore di vetro, alluminio e barattolame.",
+      "nota_en": "Put in the container for glass, aluminium and cans."
+    },
+    "carta stagnola e vaschette di alluminio": {
+      "dove": "vetro",
+      "nota": "Nel contenitore di vetro, alluminio e barattolame.",
+      "nota_en": "Put in the container for glass, aluminium and cans."
+    },
+    "posate di plastica": {
+      "dove": "indifferenziato",
+      "nota": "Conferire nel secco residuo.",
+      "nota_en": "Put in residual waste."
+    },
+    "specchi": {
+      "dove": "indifferenziato",
+      "nota": "I frammenti vanno nel secco residuo. Per specchi interi chiedere al gestore.",
+      "nota_en": "Put broken pieces in residual waste. Ask the operator about whole mirrors."
+    }
+  },
+  "extra": [
+    {
+      "nome": "gusci di cozze e vongole",
+      "nome_en": "mussel and clam shells",
+      "dove": "organico",
+      "nota": "Conferire con l’umido in un sacchetto compostabile.",
+      "nota_en": "Put with food waste in a compostable bag."
+    }
+  ],
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro, alluminio e barattolame",
+      "nome_en": "Glass, aluminium and cans"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-22, guida Cosir 2026–2027, pagina 2"
+  }
+}

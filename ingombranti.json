@@ -4045,6 +4045,43 @@
         "Take accepted bulky and electrical waste to a recycling centre.",
         "For paid home collection, call the toll-free number with the customer code from your bill. The limit is 5 items per booking. Ask for the fee when booking."
       ]
+    },
+    {
+      "id": "cosir-marmilla",
+      "nome": "Cosir · Marmilla",
+      "comuni": [
+        "barumini",
+        "collinas",
+        "genuri",
+        "gesturi",
+        "las-plassas",
+        "lunamatrona",
+        "pauli-arbarei",
+        "setzu",
+        "siddi",
+        "tuili",
+        "turri",
+        "ussaramanna",
+        "villanovaforru",
+        "villanovafranca"
+      ],
+      "gestori": [],
+      "prenotazione": false,
+      "prenota_url": "https://ingombranti.cosir.org/",
+      "telefono": "800 069 960",
+      "orari": "Lunedì–sabato 09:00–14:00",
+      "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf | https://ingombranti.cosir.org/",
+      "verificato": "2026-11-22",
+      "regole": [
+        "Prenota sul portale, scrivi a ingombranti@cosir.org o chiama il numero verde da rete fissa. Da fisso o cellulare chiama anche 070 684415.",
+        "Massimo 5 pezzi per ritiro. Sono gratuiti fino a 3 interventi all’anno per utenza.",
+        "Per il ritiro di sfalci e potature si possono prenotare fino a 5 colli. Seguire le istruzioni del gestore per prepararli."
+      ],
+      "regole_en": [
+        "Book online, email ingombranti@cosir.org or call the toll-free number from a landline. Call 070 684415 from a landline or mobile.",
+        "Up to 5 items per collection. Up to 3 collections per household per year are free.",
+        "Book up to 5 bundles of garden waste and follow the operator’s preparation instructions."
+      ]
     }
   ]
 }

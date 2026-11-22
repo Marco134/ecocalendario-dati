@@ -1,0 +1,215 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-22",
+  "gestore": "Cosir S.r.l.",
+  "numero_verde": "800 069 960",
+  "accesso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità.",
+  "avviso": "Per le altre sedi, l’accesso e gli avvisi festivi consultare l’elenco dell’Unione.",
+  "fonte": "https://www.comune.siddi.su.it/novita/calendario-ecocentri/",
+  "centri": [
+    {
+      "id": "marmilla-collinas",
+      "tipo": "raccolta",
+      "comune": "Collinas",
+      "indirizzo": "Ecocentro comunale, Collinas",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ],
+        "2": [
+          [
+            "07:00",
+            "13:30"
+          ]
+        ],
+        "3": [
+          [
+            "13:00",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:00",
+            "12:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità.",
+      "lat": 39.639328,
+      "lon": 8.8359137,
+      "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf | https://www.comune.siddi.su.it/novita/calendario-ecocentri/"
+    },
+    {
+      "id": "marmilla-villanovaforru",
+      "tipo": "raccolta",
+      "comune": "Villanovaforru",
+      "indirizzo": "Ecocentro comunale, Villanovaforru",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "14:30",
+            "18:30"
+          ]
+        ],
+        "4": [
+          [
+            "07:30",
+            "13:30"
+          ]
+        ],
+        "5": [
+          [
+            "14:30",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:30",
+            "13:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità. L’orario del sabato indicato dal PDF e da Cosir differisce da quello pubblicato dal Comune di Siddi.",
+      "lat": 39.6263771,
+      "lon": 8.8643799,
+      "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf | https://www.comune.siddi.su.it/novita/calendario-ecocentri/"
+    },
+    {
+      "id": "marmilla-barumini",
+      "tipo": "raccolta",
+      "comune": "Barumini",
+      "indirizzo": "Ecocentro comunale, Barumini",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:30"
+          ]
+        ],
+        "3": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "14:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità.",
+      "lat": 39.6980247,
+      "lon": 8.996913,
+      "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf | https://www.comune.siddi.su.it/novita/calendario-ecocentri/"
+    },
+    {
+      "id": "marmilla-lunamatrona",
+      "tipo": "raccolta",
+      "comune": "Lunamatrona",
+      "indirizzo": "Ecocentro comunale, Lunamatrona",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "07:00",
+            "13:30"
+          ]
+        ],
+        "4": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ],
+        "6": [
+          [
+            "07:00",
+            "14:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità. Il PDF 2026–2027 e le altre schede riportano orari diversi. Verificare con l’Unione prima di recarsi al centro.",
+      "lat": 39.6572533,
+      "lon": 8.9001236,
+      "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf | https://www.comune.siddi.su.it/novita/calendario-ecocentri/"
+    },
+    {
+      "id": "marmilla-tuili",
+      "tipo": "raccolta",
+      "comune": "Tuili",
+      "indirizzo": "Ecocentro comunale, Tuili",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "07:00",
+            "13:30"
+          ]
+        ],
+        "3": [
+          [
+            "12:00",
+            "18:30"
+          ]
+        ],
+        "5": [
+          [
+            "07:00",
+            "14:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità.",
+      "lat": 39.7078133,
+      "lon": 8.9548433,
+      "fonte": "https://www.cosir.org/wp-content/uploads/2026/11/20260913-Calendario-Marmilla-Domestiche-Novembre-2026-Ottobre-2027.pdf | https://www.comune.siddi.su.it/novita/calendario-ecocentri/"
+    },
+    {
+      "id": "marmilla-sanluri",
+      "tipo": "raccolta",
+      "comune": "Sanluri",
+      "indirizzo": "SP4 per Sanluri Stato, di fronte all’ingresso Comochi Industriale",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "10:30",
+            "17:00"
+          ]
+        ],
+        "5": [
+          [
+            "07:30",
+            "14:00"
+          ]
+        ],
+        "6": [
+          [
+            "08:00",
+            "14:00"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "avviso": "Residenti o domiciliati nei comuni dell’Unione, in regola con la TARI. Portare un documento d’identità. Da giugno a ottobre il turno del sabato si tiene il mercoledì 07:30–14:00.",
+      "lat": 39.5558056,
+      "lon": 8.8908611,
+      "fonte": "https://www.comune.sanluri.su.it/vivere-il-comune/servizi-comunali-nel-territorio/ecocentro/"
+    }
+  ]
+}
