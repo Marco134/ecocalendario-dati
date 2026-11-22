@@ -1,0 +1,107 @@
+{
+ "schema": 1,
+ "comune": "Roncello",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 21:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Roncello&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Roncello",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-26": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-05": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-07": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-12": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-14": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-19": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-21": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-26": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-28": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

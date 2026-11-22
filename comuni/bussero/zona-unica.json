@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "comune": "Bussero",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 18:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Bussero&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Bussero",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-27": [
+   "carta",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-02": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-04": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-08": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-13": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-15": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-22": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-29": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2027-01-01"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "comune": "Trezzo sull'Adda",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona Nord",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 21:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=TrezzoSullAdda_Zona+NORD&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Trezzo+Sull%27Adda",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-05": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-08": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-12": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-15": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-19": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-22": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-26": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-29": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2027-01-01"
+  }
+ ]
+}

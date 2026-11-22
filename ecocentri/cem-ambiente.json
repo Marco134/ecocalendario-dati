@@ -1,0 +1,3193 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-22",
+ "gestore": "CEM Ambiente",
+ "consorzio": "cem-ambiente",
+ "fonte": "https://www.cemambiente.it/cemfacile/",
+ "numero_verde": "800 342 266",
+ "accesso": "Verifica nel portale la piattaforma associata al Comune e i documenti di accesso richiesti.",
+ "avviso": "Orari invernali. Accesso e rifiuti ammessi variano a seconda della piattaforma e dell’utenza.",
+ "centri": [
+  {
+   "id": "cem-ambiente-648dc48a49ee31e8f8dd53bc",
+   "tipo": "raccolta",
+   "comune": "Agrate Brianza",
+   "indirizzo": "Via Montegrappa 73",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Agrate Brianza. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.56869341126385,
+   "lon": 9.347781
+  },
+  {
+   "id": "cem-ambiente-648dcc8049ee31e8f8dd53bf",
+   "tipo": "raccolta",
+   "comune": "Aicurzio",
+   "indirizzo": "Via dei Prati",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Aicurzio. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.63796,
+   "lon": 9.409959
+  },
+  {
+   "id": "cem-ambiente-648dd3ec49ee31e8f8dd53c0",
+   "tipo": "raccolta",
+   "comune": "Masate",
+   "indirizzo": "SP 179 - Località Torrente Gura/Trobbia",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Basiano, Masate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.568157,
+   "lon": 9.470262
+  },
+  {
+   "id": "cem-ambiente-648dd67849ee31e8f8dd53c1",
+   "tipo": "raccolta",
+   "comune": "Bellinzago Lombardo",
+   "indirizzo": "Via dell'Ecologia",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Bellinzago Lombardo. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.534121,
+   "lon": 9.448263
+  },
+  {
+   "id": "cem-ambiente-648dd79e49ee31e8f8dd53c2",
+   "tipo": "raccolta",
+   "comune": "Gorgonzola",
+   "indirizzo": "Via Ticino",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Gorgonzola. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.54089,
+   "lon": 9.400575
+  },
+  {
+   "id": "cem-ambiente-648dee1249ee31e8f8dd53c4",
+   "tipo": "raccolta",
+   "comune": "Cernusco Sul Naviglio",
+   "indirizzo": "Via Resegone",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cernusco sul Naviglio. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.528875,
+   "lon": 9.3133
+  },
+  {
+   "id": "cem-ambiente-648defbb49ee31e8f8dd53c5",
+   "tipo": "raccolta",
+   "comune": "Cassano D'Adda",
+   "indirizzo": "Via Leonardo da Vinci",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cassano d'Adda. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.526798,
+   "lon": 9.496433
+  },
+  {
+   "id": "cem-ambiente-648df1a949ee31e8f8dd53c6",
+   "tipo": "raccolta",
+   "comune": "Vignate",
+   "indirizzo": "Via del Lavoro",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Vignate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.501356,
+   "lon": 9.388685
+  },
+  {
+   "id": "cem-ambiente-648df66a49ee31e8f8dd54d5",
+   "tipo": "raccolta",
+   "comune": "Casalmaiocco",
+   "indirizzo": "Via dei Risi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Casalmaiocco. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.355134,
+   "lon": 9.381301
+  },
+  {
+   "id": "cem-ambiente-648df72c49ee31e8f8dd54d6",
+   "tipo": "raccolta",
+   "comune": "Bellusco",
+   "indirizzo": "Via Mezzago",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Bellusco. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.622478,
+   "lon": 9.422756
+  },
+  {
+   "id": "cem-ambiente-64a57a8d60de09229d677d21",
+   "tipo": "raccolta",
+   "comune": "Inzago",
+   "indirizzo": "Cascina Redenta",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:15"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:15"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:15"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:15"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Inzago. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.549102,
+   "lon": 9.485269
+  },
+  {
+   "id": "cem-ambiente-64aad886fcca5a14798c514c",
+   "tipo": "raccolta",
+   "comune": "Cologno Monzese",
+   "indirizzo": "Via Portogallo",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cologno Monzese. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.531567,
+   "lon": 9.266974
+  },
+  {
+   "id": "cem-ambiente-64bbccb8fcca5a14798c645d",
+   "tipo": "raccolta",
+   "comune": "Mezzago",
+   "indirizzo": "Via XXV Aprile",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Mezzago. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.621649,
+   "lon": 9.439021
+  },
+  {
+   "id": "cem-ambiente-64bbeaf2fcca5a14798c645f",
+   "tipo": "raccolta",
+   "comune": "Vaprio D'Adda",
+   "indirizzo": "Via Cascinello",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Vaprio d'Adda. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.56882,
+   "lon": 9.513647
+  },
+  {
+   "id": "cem-ambiente-64be4400fcca5a14798c67d8",
+   "tipo": "raccolta",
+   "comune": "Arcore",
+   "indirizzo": "Via della Pace",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Arcore. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.623597,
+   "lon": 9.328601
+  },
+  {
+   "id": "cem-ambiente-64be4749fcca5a14798c67d9",
+   "tipo": "raccolta",
+   "comune": "Brugherio",
+   "indirizzo": "Via San Francesco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ],
+    "2": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Brugherio. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.558159,
+   "lon": 9.321869
+  },
+  {
+   "id": "cem-ambiente-64be4b97fcca5a14798c67da",
+   "tipo": "raccolta",
+   "comune": "Trezzo Sull'Adda",
+   "indirizzo": "Via Santi 10",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Trezzo sull'Adda. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.593802,
+   "lon": 9.514479
+  },
+  {
+   "id": "cem-ambiente-64be4daafcca5a14798c67db",
+   "tipo": "raccolta",
+   "comune": "Vimercate",
+   "indirizzo": "Strada Cascina Casiraghi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Vimercate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.603015,
+   "lon": 9.372104
+  },
+  {
+   "id": "cem-ambiente-64be509cfcca5a14798c67dc",
+   "tipo": "raccolta",
+   "comune": "Sant'Angelo Lodigiano",
+   "indirizzo": "Via Cav. Angelo Manzoni - Zona Industriale Maiano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Sant'Angelo Lodigiano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.246135,
+   "lon": 9.416247
+  },
+  {
+   "id": "cem-ambiente-64be54c9fcca5a14798c67dd",
+   "tipo": "raccolta",
+   "comune": "Settala",
+   "indirizzo": "Viale delle Industrie, 13",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Settala. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.4489,
+   "lon": 9.381327
+  },
+  {
+   "id": "cem-ambiente-64be5692fcca5a14798c67de",
+   "tipo": "raccolta",
+   "comune": "Melzo",
+   "indirizzo": "Via Buozzi 4/C",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Melzo. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.494767,
+   "lon": 9.41571
+  },
+  {
+   "id": "cem-ambiente-64be584ffcca5a14798c67df",
+   "tipo": "raccolta",
+   "comune": "Merlino",
+   "indirizzo": "SP 181",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Merlino. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.427142,
+   "lon": 9.43067
+  },
+  {
+   "id": "cem-ambiente-64be73eafcca5a14798c67e0",
+   "tipo": "raccolta",
+   "comune": "Bernareggio",
+   "indirizzo": "Via della Croce",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "15:00",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "7": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Bernareggio. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.63686,
+   "lon": 9.395951
+  },
+  {
+   "id": "cem-ambiente-64be7573fcca5a14798c67e1",
+   "tipo": "raccolta",
+   "comune": "Borgo San Giovanni",
+   "indirizzo": "SP 140",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Borgo San Giovanni. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.27966,
+   "lon": 9.439684
+  },
+  {
+   "id": "cem-ambiente-64be7818fcca5a14798c67e2",
+   "tipo": "raccolta",
+   "comune": "Burago Di Molgora",
+   "indirizzo": "Via Fermi",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Burago di Molgora. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.590401,
+   "lon": 9.388487
+  },
+  {
+   "id": "cem-ambiente-64be795afcca5a14798c67e3",
+   "tipo": "raccolta",
+   "comune": "Busnago",
+   "indirizzo": "Via del Lavoro",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Busnago, Roncello. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.608074,
+   "lon": 9.460692
+  },
+  {
+   "id": "cem-ambiente-64be8236fcca5a14798c67e4",
+   "tipo": "raccolta",
+   "comune": "Bussero",
+   "indirizzo": "Via Milano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Bussero. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.530068,
+   "lon": 9.369076
+  },
+  {
+   "id": "cem-ambiente-64be854ffcca5a14798c67e5",
+   "tipo": "raccolta",
+   "comune": "Cavenago Di Brianza",
+   "indirizzo": "Via Manzoni (strada comunale per Basiano)",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "18:30"
+     ]
+    ],
+    "2": [
+     [
+      "14:30",
+      "18:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "18:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "18:30"
+     ]
+    ],
+    "5": [
+     [
+      "14:30",
+      "18:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "18:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cambiago, Cavenago di Brianza. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.587663,
+   "lon": 9.434309
+  },
+  {
+   "id": "cem-ambiente-64be87f3fcca5a14798c67e7",
+   "tipo": "raccolta",
+   "comune": "Concorezzo",
+   "indirizzo": "Via Monterosa",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "18:00"
+     ]
+    ],
+    "7": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Concorezzo, Villasanta. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.597611,
+   "lon": 9.318197
+  },
+  {
+   "id": "cem-ambiente-64be9017fcca5a14798c67e9",
+   "tipo": "raccolta",
+   "comune": "Lesmo",
+   "indirizzo": "Via Ratti",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "7": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Camparada, Lesmo. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.651354,
+   "lon": 9.320238
+  },
+  {
+   "id": "cem-ambiente-64bf815afcca5a14798c6b6a",
+   "tipo": "raccolta",
+   "comune": "Caponago",
+   "indirizzo": "Via Galilei",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Caponago. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.569472,
+   "lon": 9.369176
+  },
+  {
+   "id": "cem-ambiente-64bf82e0fcca5a14798c6b6b",
+   "tipo": "raccolta",
+   "comune": "Carnate",
+   "indirizzo": "Via Fornace",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Carnate, Ronco Briantino. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.657274,
+   "lon": 9.387539
+  },
+  {
+   "id": "cem-ambiente-64bf843efcca5a14798c6b6c",
+   "tipo": "raccolta",
+   "comune": "Carpiano",
+   "indirizzo": "Zona Industriale Via del Commercio",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Carpiano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.350935,
+   "lon": 9.273765
+  },
+  {
+   "id": "cem-ambiente-64bf873bfcca5a14798c6b6d",
+   "tipo": "raccolta",
+   "comune": "Carugate",
+   "indirizzo": "Via Riva Bambina",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Carugate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.543543072245136,
+   "lon": 9.345334051147956
+  },
+  {
+   "id": "cem-ambiente-64bf88c6fcca5a14798c6b6e",
+   "tipo": "raccolta",
+   "comune": "Casaletto Lodigiano",
+   "indirizzo": "Via Don Minzoni - Frazione Mairano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "15:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Casaletto Lodigiano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.308712,
+   "lon": 9.357399
+  },
+  {
+   "id": "cem-ambiente-64bf8ed7fcca5a14798c6b70",
+   "tipo": "raccolta",
+   "comune": "Caselle Lurani",
+   "indirizzo": "Strada Com.le per Calvenzano",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Caselle Lurani. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.272147,
+   "lon": 9.367954
+  },
+  {
+   "id": "cem-ambiente-64bf9238fcca5a14798c6b71",
+   "tipo": "raccolta",
+   "comune": "Cassina De' Pecchi",
+   "indirizzo": "Loc. Villa Magri, Via dell'Artigianato snc",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cassina de' Pecchi. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.521716,
+   "lon": 9.383771
+  },
+  {
+   "id": "cem-ambiente-64bf9512fcca5a14798c6b72",
+   "tipo": "raccolta",
+   "comune": "Cerro Al Lambro",
+   "indirizzo": "Via Autosole",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cerro al Lambro. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.334937,
+   "lon": 9.338472
+  },
+  {
+   "id": "cem-ambiente-64bf97d9fcca5a14798c6b73",
+   "tipo": "raccolta",
+   "comune": "Cervignano D'Adda",
+   "indirizzo": "Via Mosè Bianchi",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "15:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cervignano d'Adda. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.36997,
+   "lon": 9.42382
+  },
+  {
+   "id": "cem-ambiente-64bf99edfcca5a14798c6b74",
+   "tipo": "raccolta",
+   "comune": "Colturano",
+   "indirizzo": "Via Generale Dalla Chiesa",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Colturano, Mediglia. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.384427,
+   "lon": 9.331505
+  },
+  {
+   "id": "cem-ambiente-64bf9ae6fcca5a14798c6b75",
+   "tipo": "raccolta",
+   "comune": "Comazzo",
+   "indirizzo": "SP 181",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Comazzo. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.450936,
+   "lon": 9.455235
+  },
+  {
+   "id": "cem-ambiente-64bf9f17fcca5a14798c6b77",
+   "tipo": "raccolta",
+   "comune": "Cornate D'Adda",
+   "indirizzo": "Via Primo Stucchi",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cornate d'Adda. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.636916,
+   "lon": 9.480795
+  },
+  {
+   "id": "cem-ambiente-64bfa16afcca5a14798c6b79",
+   "tipo": "raccolta",
+   "comune": "Correzzana",
+   "indirizzo": "Via Stelvio",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Correzzana. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.677125,
+   "lon": 9.304403
+  },
+  {
+   "id": "cem-ambiente-64bfa32ffcca5a14798c6b7a",
+   "tipo": "raccolta",
+   "comune": "Dresano",
+   "indirizzo": "Via P. Lombardi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Dresano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.370177,
+   "lon": 9.364096
+  },
+  {
+   "id": "cem-ambiente-64bfa8e4fcca5a14798c6b7b",
+   "tipo": "raccolta",
+   "comune": "Gessate",
+   "indirizzo": "Via Repubblica",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Gessate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.551997,
+   "lon": 9.428394
+  },
+  {
+   "id": "cem-ambiente-64bfcd1cfcca5a14798c6b7c",
+   "tipo": "raccolta",
+   "comune": "Grezzago",
+   "indirizzo": "Piazza Argentina",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Grezzago. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.587694,
+   "lon": 9.497271
+  },
+  {
+   "id": "cem-ambiente-64bfcedffcca5a14798c6b7d",
+   "tipo": "raccolta",
+   "comune": "Liscate",
+   "indirizzo": "Via A. Grandi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Liscate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.482093,
+   "lon": 9.391839
+  },
+  {
+   "id": "cem-ambiente-64bfd03ffcca5a14798c6b7f",
+   "tipo": "raccolta",
+   "comune": "Macherio",
+   "indirizzo": "Via San Cassiano",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Macherio. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.639603,
+   "lon": 9.276913
+  },
+  {
+   "id": "cem-ambiente-64bfdc24fcca5a14798c6b80",
+   "tipo": "raccolta",
+   "comune": "Pantigliate",
+   "indirizzo": "Via De Gasperi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Mediglia, Pantigliate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.432932,
+   "lon": 9.362561
+  },
+  {
+   "id": "cem-ambiente-64c0c2f245ce32026506c6cd",
+   "tipo": "raccolta",
+   "comune": "Melegnano",
+   "indirizzo": "Viale Repubblica",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Melegnano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.360807,
+   "lon": 9.313684
+  },
+  {
+   "id": "cem-ambiente-64c0c96145ce32026506c6ce",
+   "tipo": "raccolta",
+   "comune": "Mulazzano",
+   "indirizzo": "SP 158",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "11:00"
+     ],
+     [
+      "16:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "16:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "11:00"
+     ],
+     [
+      "16:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "11:00"
+     ],
+     [
+      "16:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Mulazzano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.379168,
+   "lon": 9.396847
+  },
+  {
+   "id": "cem-ambiente-64c0daff45ce32026506c6cf",
+   "tipo": "raccolta",
+   "comune": "Ornago",
+   "indirizzo": "Via Faro",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Ornago. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.603369,
+   "lon": 9.423347
+  },
+  {
+   "id": "cem-ambiente-64c0decb45ce32026506c6d1",
+   "tipo": "raccolta",
+   "comune": "Pessano Con Bornago",
+   "indirizzo": "Via di Vittorio",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Pessano con Bornago. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.55137,
+   "lon": 9.38977
+  },
+  {
+   "id": "cem-ambiente-64c0e06145ce32026506c6d2",
+   "tipo": "raccolta",
+   "comune": "Pozzo D'Adda",
+   "indirizzo": "Via Leonardo da Vinci",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Pozzo d'Adda. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.572891,
+   "lon": 9.494077
+  },
+  {
+   "id": "cem-ambiente-64c0e49345ce32026506c6d3",
+   "tipo": "raccolta",
+   "comune": "Pozzuolo Martesana",
+   "indirizzo": "Via Ferrero",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Pozzuolo Martesana. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.510544,
+   "lon": 9.448046
+  },
+  {
+   "id": "cem-ambiente-64c0e59745ce32026506c6d4",
+   "tipo": "raccolta",
+   "comune": "Rodano",
+   "indirizzo": "Via Kennedy",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Rodano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.475741,
+   "lon": 9.333062
+  },
+  {
+   "id": "cem-ambiente-64c0e83c45ce32026506c6d5",
+   "tipo": "raccolta",
+   "comune": "San Zenone Al Lambro",
+   "indirizzo": "Via Primo Maggio",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: San Zenone al Lambro. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.342459,
+   "lon": 9.350152
+  },
+  {
+   "id": "cem-ambiente-64c0ea1045ce32026506c6d7",
+   "tipo": "raccolta",
+   "comune": "Sulbiate",
+   "indirizzo": "Via IV Novembre",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Sulbiate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.635066,
+   "lon": 9.427885
+  },
+  {
+   "id": "cem-ambiente-64c0eb4a45ce32026506c6d8",
+   "tipo": "raccolta",
+   "comune": "Torrevecchia Pia",
+   "indirizzo": "Via Fratelli Cervi - Loc. Vigonzone",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Torrevecchia Pia. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.27637,
+   "lon": 9.31101
+  },
+  {
+   "id": "cem-ambiente-64c0ec9545ce32026506c6d9",
+   "tipo": "raccolta",
+   "comune": "Trezzano Rosa",
+   "indirizzo": "Via Bologna",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Trezzano Rosa. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.588624,
+   "lon": 9.478712
+  },
+  {
+   "id": "cem-ambiente-64c0ee3645ce32026506c6da",
+   "tipo": "raccolta",
+   "comune": "Truccazzano",
+   "indirizzo": "Via Grandi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:15"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:15"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:15"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Truccazzano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.480867,
+   "lon": 9.45367
+  },
+  {
+   "id": "cem-ambiente-64c0ef8545ce32026506c6db",
+   "tipo": "raccolta",
+   "comune": "Usmate Velate",
+   "indirizzo": "Via della Tecnica",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "7": [
+     [
+      "09:30",
+      "11:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Usmate Velate. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.643971,
+   "lon": 9.343716
+  },
+  {
+   "id": "cem-ambiente-64c0f0e945ce32026506c6dc",
+   "tipo": "raccolta",
+   "comune": "Vedano Al Lambro",
+   "indirizzo": "Via Meucci",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Vedano al Lambro. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.617036,
+   "lon": 9.26573
+  },
+  {
+   "id": "cem-ambiente-64c0f1e345ce32026506c6dd",
+   "tipo": "raccolta",
+   "comune": "Vizzolo Predabissi",
+   "indirizzo": "Via per Casalmaiocco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Vizzolo Predabissi. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.354218,
+   "lon": 9.35669
+  },
+  {
+   "id": "cem-ambiente-64c1509185a4022e22c8a9c7",
+   "tipo": "raccolta",
+   "comune": "Riozzo",
+   "indirizzo": "Via dell'Artigianato",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Cerro al Lambro. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.348204,
+   "lon": 9.31788
+  },
+  {
+   "id": "cem-ambiente-654a0e9f0888bf5092977968",
+   "tipo": "raccolta",
+   "comune": "Tribiano",
+   "indirizzo": "Via Monte Grappa",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Tribiano. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.411568,
+   "lon": 9.367749
+  },
+  {
+   "id": "cem-ambiente-6579789c01b7c31309bbad74",
+   "tipo": "raccolta",
+   "comune": "Vimodrone",
+   "indirizzo": "Via XV Matiri",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Vimodrone. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.50943516895785,
+   "lon": 9.284824221817013
+  },
+  {
+   "id": "cem-ambiente-65855d856326e6c91657e4e4",
+   "tipo": "raccolta",
+   "comune": "Sordio",
+   "indirizzo": "Via Alessandro Volta",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Sordio. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.345517,
+   "lon": 9.361069
+  },
+  {
+   "id": "cem-ambiente-661398e5b1c0bcb5789ee93d",
+   "tipo": "raccolta",
+   "comune": "Paullo",
+   "indirizzo": "Via Rosa Boschi",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Paullo. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.4147589535804,
+   "lon": 9.395548332022225
+  },
+  {
+   "id": "cem-ambiente-673c9170c1bce974ca7dfd18",
+   "tipo": "raccolta",
+   "comune": "Salerano sul Lambro",
+   "indirizzo": "via dell'Artigianato",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Salerano sul Lambro. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.29238,
+   "lon": 9.383882
+  },
+  {
+   "id": "cem-ambiente-6971fdb7f57098c68681eac2",
+   "tipo": "raccolta",
+   "comune": "Massalengo",
+   "indirizzo": "Strada Vecchia Provinciale 187",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Comuni associati nel portale: Massalengo. Verifica orari festivi e stagionali nella scheda ufficiale.",
+   "lat": 45.26608,
+   "lon": 9.495977
+  }
+ ]
+}

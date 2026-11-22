@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "comune": "Sulbiate",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 21:00 del giorno precedente alle ore 06:00 del giorno di raccolta.",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Sulbiate&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Sulbiate",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2027-01-05": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-12": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "carta"
+  ],
+  "2027-01-19": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-26": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "carta"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-30",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}

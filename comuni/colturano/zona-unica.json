@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "comune": "Colturano",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Colturano&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Colturano",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-05": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-12": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

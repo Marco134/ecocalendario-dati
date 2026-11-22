@@ -1362,6 +1362,1639 @@
       ],
       "fonte": "https://coinger.it/comuni/albizzate/ritiro-ingombranti/",
       "verificato": "2026-11-21"
+    },
+    {
+      "id": "cem-ambiente-agrate-brianza",
+      "nome": "CEM Ambiente – Agrate Brianza",
+      "comuni": [
+        "agrate-brianza"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Agrate+Brianza",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Agrate+Brianza",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-aicurzio",
+      "nome": "CEM Ambiente – Aicurzio",
+      "comuni": [
+        "aicurzio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Aicurzio",
+      "prenotazione": false,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Aicurzio",
+      "regole": [
+        "Il portale indica che il ritiro a domicilio non è attivo. Consulta la piattaforma ecologica abilitata."
+      ],
+      "regole_en": [
+        "Home collection is not listed as available. Check the authorised recycling centre."
+      ]
+    },
+    {
+      "id": "cem-ambiente-arcore",
+      "nome": "CEM Ambiente – Arcore",
+      "comuni": [
+        "arcore"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Arcore",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Arcore",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-basiano",
+      "nome": "CEM Ambiente – Basiano",
+      "comuni": [
+        "basiano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Basiano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Basiano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-bellinzago-lombardo",
+      "nome": "CEM Ambiente – Bellinzago Lombardo",
+      "comuni": [
+        "bellinzago-lombardo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Bellinzago+Lombardo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bellinzago+Lombardo",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-bellusco",
+      "nome": "CEM Ambiente – Bellusco",
+      "comuni": [
+        "bellusco"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Bellusco",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bellusco",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Costo indicato: € 15.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-bernareggio",
+      "nome": "CEM Ambiente – Bernareggio",
+      "comuni": [
+        "bernareggio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Bernareggio",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bernareggio",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-borgo-san-giovanni",
+      "nome": "CEM Ambiente – Borgo San Giovanni",
+      "comuni": [
+        "borgo-san-giovanni"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Borgo+San+Giovanni",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Borgo+San+Giovanni",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-brugherio",
+      "nome": "CEM Ambiente – Brugherio",
+      "comuni": [
+        "brugherio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Brugherio",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Brugherio",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-burago-di-molgora",
+      "nome": "CEM Ambiente – Burago di Molgora",
+      "comuni": [
+        "burago-di-molgora"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Burago+Di+Molgora",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Burago+Di+Molgora",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-busnago",
+      "nome": "CEM Ambiente – Busnago",
+      "comuni": [
+        "busnago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Busnago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Busnago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-bussero",
+      "nome": "CEM Ambiente – Bussero",
+      "comuni": [
+        "bussero"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Bussero",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bussero",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cambiago",
+      "nome": "CEM Ambiente – Cambiago",
+      "comuni": [
+        "cambiago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cambiago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cambiago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-camparada",
+      "nome": "CEM Ambiente – Camparada",
+      "comuni": [
+        "camparada"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Camparada",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Camparada",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-caponago",
+      "nome": "CEM Ambiente – Caponago",
+      "comuni": [
+        "caponago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Caponago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Caponago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-carnate",
+      "nome": "CEM Ambiente – Carnate",
+      "comuni": [
+        "carnate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Carnate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Carnate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-carpiano",
+      "nome": "CEM Ambiente – Carpiano",
+      "comuni": [
+        "carpiano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Carpiano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Carpiano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-carugate",
+      "nome": "CEM Ambiente – Carugate",
+      "comuni": [
+        "carugate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Carugate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Carugate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-casaletto-lodigiano",
+      "nome": "CEM Ambiente – Casaletto Lodigiano",
+      "comuni": [
+        "casaletto-lodigiano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Casaletto+Lodigiano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Casaletto+Lodigiano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-casalmaiocco",
+      "nome": "CEM Ambiente – Casalmaiocco",
+      "comuni": [
+        "casalmaiocco"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Casalmaiocco",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Casalmaiocco",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-caselle-lurani",
+      "nome": "CEM Ambiente – Caselle Lurani",
+      "comuni": [
+        "caselle-lurani"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Caselle+Lurani",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Caselle+Lurani",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cassano-d-adda",
+      "nome": "CEM Ambiente – Cassano d'Adda",
+      "comuni": [
+        "cassano-d-adda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cassano+D%27Adda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cassano+D%27Adda",
+      "regole": [
+        "Prenotazione presso il Comune.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cassina-de-pecchi",
+      "nome": "CEM Ambiente – Cassina de' Pecchi",
+      "comuni": [
+        "cassina-de-pecchi"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cassina+De%27+Pecchi",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cassina+De%27+Pecchi",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cavenago-di-brianza",
+      "nome": "CEM Ambiente – Cavenago di Brianza",
+      "comuni": [
+        "cavenago-di-brianza"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cavenago+Di+Brianza",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cavenago+Di+Brianza",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cernusco-sul-naviglio",
+      "nome": "CEM Ambiente – Cernusco sul Naviglio",
+      "comuni": [
+        "cernusco-sul-naviglio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cernusco+Sul+Naviglio",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cernusco+Sul+Naviglio",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cerro-al-lambro",
+      "nome": "CEM Ambiente – Cerro al Lambro",
+      "comuni": [
+        "cerro-al-lambro"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cerro+Al+Lambro",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cerro+Al+Lambro",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Settimanale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cervignano-d-adda",
+      "nome": "CEM Ambiente – Cervignano d'Adda",
+      "comuni": [
+        "cervignano-d-adda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cervignano+D%27Adda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cervignano+D%27Adda",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cologno-monzese",
+      "nome": "CEM Ambiente – Cologno Monzese",
+      "comuni": [
+        "cologno-monzese"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cologno+Monzese",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cologno+Monzese",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-colturano",
+      "nome": "CEM Ambiente – Colturano",
+      "comuni": [
+        "colturano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Colturano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Colturano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-comazzo",
+      "nome": "CEM Ambiente – Comazzo",
+      "comuni": [
+        "comazzo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Comazzo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Comazzo",
+      "telefono": "02 9061015",
+      "regole": [
+        "Prenotazione presso il Comune.",
+        "Gratuito secondo il portale.",
+        "Ritiro il giovedì mattina. Prenota entro le 11:30 del mercoledì precedente."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-concorezzo",
+      "nome": "CEM Ambiente – Concorezzo",
+      "comuni": [
+        "concorezzo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Concorezzo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Concorezzo",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-cornate-d-adda",
+      "nome": "CEM Ambiente – Cornate d'Adda",
+      "comuni": [
+        "cornate-d-adda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Cornate+D%27Adda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cornate+D%27Adda",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-correzzana",
+      "nome": "CEM Ambiente – Correzzana",
+      "comuni": [
+        "correzzana"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Correzzana",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Correzzana",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-dresano",
+      "nome": "CEM Ambiente – Dresano",
+      "comuni": [
+        "dresano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Dresano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Dresano",
+      "regole": [
+        "Controlla il canale di prenotazione nella scheda ufficiale.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-gessate",
+      "nome": "CEM Ambiente – Gessate",
+      "comuni": [
+        "gessate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Gessate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Gessate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-gorgonzola",
+      "nome": "CEM Ambiente – Gorgonzola",
+      "comuni": [
+        "gorgonzola"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Gorgonzola",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Gorgonzola",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-grezzago",
+      "nome": "CEM Ambiente – Grezzago",
+      "comuni": [
+        "grezzago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Grezzago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Grezzago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-inzago",
+      "nome": "CEM Ambiente – Inzago",
+      "comuni": [
+        "inzago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Inzago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Inzago",
+      "regole": [
+        "Prenotazione presso il Comune.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Ritiro a bordo strada su prenotazione via lavoripubblici.ecologia@comune.inzago.mi.it o tramite il link comunale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-lesmo",
+      "nome": "CEM Ambiente – Lesmo",
+      "comuni": [
+        "lesmo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Lesmo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Lesmo",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-liscate",
+      "nome": "CEM Ambiente – Liscate",
+      "comuni": [
+        "liscate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Liscate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Liscate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-macherio",
+      "nome": "CEM Ambiente – Macherio",
+      "comuni": [
+        "macherio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Macherio",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Macherio",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-masate",
+      "nome": "CEM Ambiente – Masate",
+      "comuni": [
+        "masate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Masate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Masate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-massalengo",
+      "nome": "CEM Ambiente – Massalengo",
+      "comuni": [
+        "massalengo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Massalengo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Massalengo",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-mediglia",
+      "nome": "CEM Ambiente – Mediglia",
+      "comuni": [
+        "mediglia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Mediglia",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Mediglia",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Settimanale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-melegnano",
+      "nome": "CEM Ambiente – Melegnano",
+      "comuni": [
+        "melegnano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Melegnano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Melegnano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Settimanale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-melzo",
+      "nome": "CEM Ambiente – Melzo",
+      "comuni": [
+        "melzo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Melzo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Melzo",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-merlino",
+      "nome": "CEM Ambiente – Merlino",
+      "comuni": [
+        "merlino"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Merlino",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Merlino",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Settimanale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-mezzago",
+      "nome": "CEM Ambiente – Mezzago",
+      "comuni": [
+        "mezzago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Mezzago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Mezzago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Costo indicato: € 15.",
+        "Ritiri consentiti in un anno: 2.",
+        "Servizio a pagamento con contributo di 15,00€ a prese (Modalità ed esenzioni disponibili su www.comune.mezzago.mb.it)."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-mulazzano",
+      "nome": "CEM Ambiente – Mulazzano",
+      "comuni": [
+        "mulazzano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Mulazzano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Mulazzano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Mensile."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-ornago",
+      "nome": "CEM Ambiente – Ornago",
+      "comuni": [
+        "ornago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Ornago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Ornago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-pantigliate",
+      "nome": "CEM Ambiente – Pantigliate",
+      "comuni": [
+        "pantigliate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Pantigliate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pantigliate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-paullo",
+      "nome": "CEM Ambiente – Paullo",
+      "comuni": [
+        "paullo"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Paullo",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Paullo",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-pessano-con-bornago",
+      "nome": "CEM Ambiente – Pessano con Bornago",
+      "comuni": [
+        "pessano-con-bornago"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Pessano+Con+Bornago",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pessano+Con+Bornago",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-pozzo-d-adda",
+      "nome": "CEM Ambiente – Pozzo d'Adda",
+      "comuni": [
+        "pozzo-d-adda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Pozzo+D%27Adda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pozzo+D%27Adda",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-pozzuolo-martesana",
+      "nome": "CEM Ambiente – Pozzuolo Martesana",
+      "comuni": [
+        "pozzuolo-martesana"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Pozzuolo+Martesana",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pozzuolo+Martesana",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-rodano",
+      "nome": "CEM Ambiente – Rodano",
+      "comuni": [
+        "rodano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Rodano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Rodano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-roncello",
+      "nome": "CEM Ambiente – Roncello",
+      "comuni": [
+        "roncello"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Roncello",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Roncello",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-ronco-briantino",
+      "nome": "CEM Ambiente – Ronco Briantino",
+      "comuni": [
+        "ronco-briantino"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Ronco+Briantino",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Ronco+Briantino",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-salerano-sul-lambro",
+      "nome": "CEM Ambiente – Salerano sul Lambro",
+      "comuni": [
+        "salerano-sul-lambro"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Salerano+sul+Lambro",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Salerano+sul+Lambro",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-san-zenone-al-lambro",
+      "nome": "CEM Ambiente – San Zenone al Lambro",
+      "comuni": [
+        "san-zenone-al-lambro"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=San+Zenone+Al+Lambro",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=San+Zenone+Al+Lambro",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-sant-angelo-lodigiano",
+      "nome": "CEM Ambiente – Sant'Angelo Lodigiano",
+      "comuni": [
+        "sant-angelo-lodigiano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Sant%27Angelo+Lodigiano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Sant%27Angelo+Lodigiano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-settala",
+      "nome": "CEM Ambiente – Settala",
+      "comuni": [
+        "settala"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Settala",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Settala",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-sordio",
+      "nome": "CEM Ambiente – Sordio",
+      "comuni": [
+        "sordio"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Sordio",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Sordio",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-sulbiate",
+      "nome": "CEM Ambiente – Sulbiate",
+      "comuni": [
+        "sulbiate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Sulbiate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Sulbiate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-torrevecchia-pia",
+      "nome": "CEM Ambiente – Torrevecchia Pia",
+      "comuni": [
+        "torrevecchia-pia"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Torrevecchia+Pia",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Torrevecchia+Pia",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-trezzano-rosa",
+      "nome": "CEM Ambiente – Trezzano Rosa",
+      "comuni": [
+        "trezzano-rosa"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Trezzano+Rosa",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Trezzano+Rosa",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-trezzo-sull-adda",
+      "nome": "CEM Ambiente – Trezzo sull'Adda",
+      "comuni": [
+        "trezzo-sull-adda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Trezzo+Sull%27Adda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Trezzo+Sull%27Adda",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-tribiano",
+      "nome": "CEM Ambiente – Tribiano",
+      "comuni": [
+        "tribiano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Tribiano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Tribiano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-truccazzano",
+      "nome": "CEM Ambiente – Truccazzano",
+      "comuni": [
+        "truccazzano"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Truccazzano",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Truccazzano",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-usmate-velate",
+      "nome": "CEM Ambiente – Usmate Velate",
+      "comuni": [
+        "usmate-velate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Usmate+Velate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Usmate+Velate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-vaprio-d-adda",
+      "nome": "CEM Ambiente – Vaprio d'Adda",
+      "comuni": [
+        "vaprio-d-adda"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Vaprio+D%27Adda",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vaprio+D%27Adda",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-vedano-al-lambro",
+      "nome": "CEM Ambiente – Vedano al Lambro",
+      "comuni": [
+        "vedano-al-lambro"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Vedano+Al+Lambro",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vedano+Al+Lambro",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-vignate",
+      "nome": "CEM Ambiente – Vignate",
+      "comuni": [
+        "vignate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Vignate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vignate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-villasanta",
+      "nome": "CEM Ambiente – Villasanta",
+      "comuni": [
+        "villasanta"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Villasanta",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Villasanta",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-vimercate",
+      "nome": "CEM Ambiente – Vimercate",
+      "comuni": [
+        "vimercate"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Vimercate",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vimercate",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-vimodrone",
+      "nome": "CEM Ambiente – Vimodrone",
+      "comuni": [
+        "vimodrone"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Vimodrone",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vimodrone",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
+    },
+    {
+      "id": "cem-ambiente-vizzolo-predabissi",
+      "nome": "CEM Ambiente – Vizzolo Predabissi",
+      "comuni": [
+        "vizzolo-predabissi"
+      ],
+      "gestori": [],
+      "prenota_url": "https://www.cemambiente.it/cemfacile/?citta=Vizzolo+Predabissi",
+      "prenotazione": true,
+      "verificato": "2026-11-22",
+      "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vizzolo+Predabissi",
+      "telefono": "800 342 266",
+      "regole": [
+        "Prenotazione presso CEM Ambiente.",
+        "Gratuito secondo il portale.",
+        "Ritiri consentiti in un anno: 2.",
+        "Quindicinale."
+      ],
+      "regole_en": [
+        "Check the provider’s municipal page for booking, cost and collection limits."
+      ]
     }
   ]
 }

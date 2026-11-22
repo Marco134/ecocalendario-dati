@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "comune": "Mezzago",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 21:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Mezzago&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Mezzago",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-23": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-04": [
+   "organico"
+  ],
+  "2027-01-07": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-11": [
+   "organico"
+  ],
+  "2027-01-14": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-18": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-25": [
+   "organico"
+  ],
+  "2027-01-28": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

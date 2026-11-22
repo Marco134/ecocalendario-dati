@@ -1,0 +1,167 @@
+{
+ "schema": 1,
+ "comune": "Sant'Angelo Lodigiano",
+ "provincia": "LO",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=SantAngeloLodigiano_Zona+B&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Sant%27Angelo+Lodigiano",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ],
+  "2027-01-02": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-06": [
+   "organico"
+  ],
+  "2027-01-07": [
+   "plastica"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-13": [
+   "organico"
+  ],
+  "2027-01-14": [
+   "plastica"
+  ],
+  "2027-01-15": [
+   "carta"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "plastica"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-27": [
+   "organico"
+  ],
+  "2027-01-28": [
+   "plastica"
+  ],
+  "2027-01-29": [
+   "carta"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}

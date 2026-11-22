@@ -1,0 +1,163 @@
+{
+ "schema": 1,
+ "comune": "San Zenone al Lambro",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=SanZenoneAlLambro&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=San+Zenone+Al+Lambro",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-23": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "plastica"
+  ],
+  "2027-01-04": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-09": [
+   "plastica"
+  ],
+  "2027-01-11": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-16": [
+   "plastica"
+  ],
+  "2027-01-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-23": [
+   "plastica"
+  ],
+  "2027-01-25": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-30": [
+   "plastica"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}

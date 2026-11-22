@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "nome": "CEM Ambiente",
+ "fonte": "https://www.cemambiente.it/cemfacile/",
+ "voci": {
+  "tetrapak (cartoni di latte e succhi)": {
+   "dove": "plastica",
+   "nota": "Si conferiscono con il Multipak.",
+   "nota_en": "Put this packaging in the Multipak collection."
+  },
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "Si conferiscono con il multipak.",
+   "nota_en": "Put this packaging in the Multipak collection."
+  }
+ },
+ "extra": [],
+ "tipi": {
+  "plastica": {
+   "nome": "Multipak",
+   "nome_en": "Mixed packaging"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-22, dizionario ufficiale CEM Facile"
+ }
+}

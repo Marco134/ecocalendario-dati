@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "comune": "Pozzuolo Martesana",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 19:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=PozzuoloMartesana&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Pozzuolo+Martesana",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-06": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-13": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-20": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-27": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

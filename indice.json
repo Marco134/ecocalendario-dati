@@ -127,6 +127,23 @@
       ]
     },
     {
+      "id": "agrate-brianza",
+      "nome": "Agrate Brianza",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.576173,
+      "lon": 9.350948,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/agrate-brianza/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "agrate-conturbia",
       "nome": "Agrate Conturbia",
       "provincia": "NO",
@@ -140,6 +157,23 @@
           "nome": "Zona unica",
           "file": "comuni/agrate-conturbia/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "aicurzio",
+      "nome": "Aicurzio",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.639977,
+      "lon": 9.414949,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/aicurzio/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -651,6 +685,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "arcore",
+      "nome": "Arcore",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.626556,
+      "lon": 9.321465,
+      "zone": [
+        {
+          "id": "nord",
+          "nome": "Zona Nord",
+          "file": "comuni/arcore/zona-nord.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "sud",
+          "nome": "Zona Sud",
+          "file": "comuni/arcore/zona-sud.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Arcore"
     },
     {
       "id": "ardenno",
@@ -1357,6 +1415,23 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/"
     },
     {
+      "id": "basiano",
+      "nome": "Basiano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.573588,
+      "lon": 9.467854,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/basiano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "baveno",
       "nome": "Baveno",
       "provincia": "VB",
@@ -1502,6 +1577,40 @@
       ]
     },
     {
+      "id": "bellinzago-lombardo",
+      "nome": "Bellinzago Lombardo",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.542075,
+      "lon": 9.445951,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bellinzago-lombardo/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "bellusco",
+      "nome": "Bellusco",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.618748,
+      "lon": 9.418633,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bellusco/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "bene-vagienna",
       "nome": "Bene Vagienna",
       "provincia": "CN",
@@ -1539,6 +1648,23 @@
           "nome": "Zona unica",
           "file": "comuni/berbenno-di-valtellina/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bernareggio",
+      "nome": "Bernareggio",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.647508,
+      "lon": 9.406138,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bernareggio/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -1937,6 +2063,23 @@
         }
       ],
       "zone_url": "https://cecrifiuti.it/calendari-di-raccolta/"
+    },
+    {
+      "id": "borgo-san-giovanni",
+      "nome": "Borgo San Giovanni",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.278042,
+      "lon": 9.435836,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgo-san-giovanni/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
     },
     {
       "id": "borgo-ticino",
@@ -2430,6 +2573,30 @@
       ]
     },
     {
+      "id": "brugherio",
+      "nome": "Brugherio",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.550749,
+      "lon": 9.301222,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/brugherio/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/brugherio/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Brugherio"
+    },
+    {
       "id": "bruino",
       "nome": "Bruino",
       "provincia": "TO",
@@ -2522,6 +2689,23 @@
       ]
     },
     {
+      "id": "burago-di-molgora",
+      "nome": "Burago di Molgora",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.59666,
+      "lon": 9.377706,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/burago-di-molgora/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "buriasco",
       "nome": "Buriasco",
       "provincia": "TO",
@@ -2593,6 +2777,40 @@
           "nome": "Zona unica",
           "file": "comuni/busca/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "busnago",
+      "nome": "Busnago",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.616184,
+      "lon": 9.46567,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/busnago/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "bussero",
+      "nome": "Bussero",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.536676,
+      "lon": 9.372003,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bussero/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -2818,6 +3036,23 @@
       ]
     },
     {
+      "id": "cambiago",
+      "nome": "Cambiago",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.572544,
+      "lon": 9.426842,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cambiago/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "cambiano",
       "nome": "Cambiano",
       "provincia": "TO",
@@ -2855,6 +3090,23 @@
           "nome": "Zona unica",
           "file": "comuni/cambiasca/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "camparada",
+      "nome": "Camparada",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.655977,
+      "lon": 9.319646,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/camparada/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -3128,6 +3380,23 @@
           "nome": "Zona unica",
           "file": "comuni/capodimonte/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "caponago",
+      "nome": "Caponago",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.565438,
+      "lon": 9.375441,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caponago/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -3435,6 +3704,40 @@
       "zone_url": "https://www.ccs.to.it/calendari-raccolta"
     },
     {
+      "id": "carnate",
+      "nome": "Carnate",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.647281,
+      "lon": 9.379087,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carnate/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "carpiano",
+      "nome": "Carpiano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.340572,
+      "lon": 9.272733,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carpiano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "carpignano-sesia",
       "nome": "Carpignano Sesia",
       "provincia": "NO",
@@ -3448,6 +3751,23 @@
           "nome": "Zona unica",
           "file": "comuni/carpignano-sesia/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "carugate",
+      "nome": "Carugate",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.549774,
+      "lon": 9.343749,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/carugate/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -3516,6 +3836,40 @@
           "nome": "Zona unica",
           "file": "comuni/casale-sul-sile/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casaletto-lodigiano",
+      "nome": "Casaletto Lodigiano",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.293568,
+      "lon": 9.361954,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casaletto-lodigiano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "casalmaiocco",
+      "nome": "Casalmaiocco",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.35387,
+      "lon": 9.374353,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casalmaiocco/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -3601,6 +3955,23 @@
           "nome": "Zona unica (porta a porta solo indifferenziato)",
           "file": "comuni/caselette/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "caselle-lurani",
+      "nome": "Caselle Lurani",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.280388,
+      "lon": 9.360225,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caselle-lurani/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -3697,6 +4068,36 @@
       ]
     },
     {
+      "id": "cassano-d-adda",
+      "nome": "Cassano d'Adda",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.526333,
+      "lon": 9.521491,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/cassano-d-adda/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/cassano-d-adda/zona-b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/cassano-d-adda/zona-c.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Cassano+D%27Adda"
+    },
+    {
       "id": "cassano-valcuvia",
       "nome": "Cassano Valcuvia",
       "provincia": "VA",
@@ -3712,6 +4113,30 @@
           "valido_al": "2027-12-31"
         }
       ]
+    },
+    {
+      "id": "cassina-de-pecchi",
+      "nome": "Cassina de' Pecchi",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.519189,
+      "lon": 9.361976,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/cassina-de-pecchi/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/cassina-de-pecchi/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Cassina+De%27+Pecchi"
     },
     {
       "id": "castagneto-po",
@@ -4267,6 +4692,23 @@
       ]
     },
     {
+      "id": "cavenago-di-brianza",
+      "nome": "Cavenago di Brianza",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.584917,
+      "lon": 9.416059,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavenago-di-brianza/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "cavour",
       "nome": "Cavour",
       "provincia": "TO",
@@ -4502,6 +4944,53 @@
       ]
     },
     {
+      "id": "cernusco-sul-naviglio",
+      "nome": "Cernusco sul Naviglio",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.524558,
+      "lon": 9.330925,
+      "zone": [
+        {
+          "id": "arancio",
+          "nome": "Zona Arancio",
+          "file": "comuni/cernusco-sul-naviglio/zona-arancio.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "blu",
+          "nome": "Zona Blu",
+          "file": "comuni/cernusco-sul-naviglio/zona-blu.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "verde",
+          "nome": "Zona Verde",
+          "file": "comuni/cernusco-sul-naviglio/zona-verde.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Cernusco+Sul+Naviglio"
+    },
+    {
+      "id": "cerro-al-lambro",
+      "nome": "Cerro al Lambro",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.329969,
+      "lon": 9.339053,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cerro-al-lambro/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "cervasca",
       "nome": "Cervasca",
       "provincia": "CN",
@@ -4549,6 +5038,23 @@
           "nome": "Zona unica",
           "file": "comuni/cervere/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cervignano-d-adda",
+      "nome": "Cervignano d'Adda",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.373871,
+      "lon": 9.424054,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cervignano-d-adda/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -5465,6 +5971,37 @@
       ]
     },
     {
+      "id": "cologno-monzese",
+      "nome": "Cologno Monzese",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.528554,
+      "lon": 9.278224,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/cologno-monzese/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/cologno-monzese/zona-b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/cologno-monzese/zona-c.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Cologno+Monzese",
+      "regole": "regole/cologno-monzese.json"
+    },
+    {
       "id": "colorina",
       "nome": "Colorina",
       "provincia": "SO",
@@ -5482,6 +6019,40 @@
       ]
     },
     {
+      "id": "colturano",
+      "nome": "Colturano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.37977,
+      "lon": 9.337852,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/colturano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "comazzo",
+      "nome": "Comazzo",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.440973,
+      "lon": 9.464654,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/comazzo/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "comignago",
       "nome": "Comignago",
       "provincia": "NO",
@@ -5495,6 +6066,23 @@
           "nome": "Zona unica",
           "file": "comuni/comignago/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "concorezzo",
+      "nome": "Concorezzo",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.589675,
+      "lon": 9.335948,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/concorezzo/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -5540,6 +6128,23 @@
       "zone_url": "https://www.cisaweb.info/it-it/comune/corio/servizi-/servizi/calendari-di-raccolta"
     },
     {
+      "id": "cornate-d-adda",
+      "nome": "Cornate d'Adda",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.646699,
+      "lon": 9.465939,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cornate-d-adda/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "corneliano-d-alba",
       "nome": "Corneliano d'Alba",
       "provincia": "CN",
@@ -5570,6 +6175,23 @@
           "nome": "Zona unica",
           "file": "comuni/cornuda/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "correzzana",
+      "nome": "Correzzana",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.665689,
+      "lon": 9.303626,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/correzzana/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -6276,6 +6898,23 @@
           "nome": "Zona unica",
           "file": "comuni/dormelletto/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "dresano",
+      "nome": "Dresano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.37297,
+      "lon": 9.360642,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dresano/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -7166,6 +7805,23 @@
       ]
     },
     {
+      "id": "gessate",
+      "nome": "Gessate",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.554388,
+      "lon": 9.435192,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gessate/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "ghemme",
       "nome": "Ghemme",
       "provincia": "NO",
@@ -7345,6 +8001,36 @@
       ]
     },
     {
+      "id": "gorgonzola",
+      "nome": "Gorgonzola",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.531574,
+      "lon": 9.404651,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/gorgonzola/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/gorgonzola/zona-b.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/gorgonzola/zona-c.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Gorgonzola"
+    },
+    {
       "id": "gosaldo",
       "nome": "Gosaldo",
       "provincia": "BL",
@@ -7467,6 +8153,23 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/gravere/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grezzago",
+      "nome": "Grezzago",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.591865,
+      "lon": 9.495203,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grezzago/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -7842,6 +8545,23 @@
           "nome": "Zona unica",
           "file": "comuni/invorio/zona-unica.json",
           "valido_al": "2027-02-28"
+        }
+      ]
+    },
+    {
+      "id": "inzago",
+      "nome": "Inzago",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.540475,
+      "lon": 9.482052,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/inzago/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -8486,6 +9206,23 @@
       ]
     },
     {
+      "id": "lesmo",
+      "nome": "Lesmo",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.648974,
+      "lon": 9.305652,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lesmo/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "lessolo",
       "nome": "Lessolo",
       "provincia": "TO",
@@ -8533,6 +9270,23 @@
           "nome": "Zona unica",
           "file": "comuni/lierna/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "liscate",
+      "nome": "Liscate",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.481549,
+      "lon": 9.409012,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/liscate/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -8891,6 +9645,23 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/macello/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "macherio",
+      "nome": "Macherio",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.640116,
+      "lon": 9.269371,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/macherio/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -9295,6 +10066,23 @@
       ]
     },
     {
+      "id": "masate",
+      "nome": "Masate",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.567547,
+      "lon": 9.463821,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/masate/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "masciago-primo",
       "nome": "Masciago Primo",
       "provincia": "VA",
@@ -9359,6 +10147,23 @@
           "nome": "Zona unica",
           "file": "comuni/maserada-sul-piave/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "massalengo",
+      "nome": "Massalengo",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.26472,
+      "lon": 9.490245,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/massalengo/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -9499,6 +10304,30 @@
       ]
     },
     {
+      "id": "mediglia",
+      "nome": "Mediglia",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.39537,
+      "lon": 9.331652,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/mediglia/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/mediglia/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Mediglia"
+    },
+    {
       "id": "meina",
       "nome": "Meina",
       "provincia": "NO",
@@ -9514,6 +10343,60 @@
           "valido_al": "2027-02-28"
         }
       ]
+    },
+    {
+      "id": "melegnano",
+      "nome": "Melegnano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.358789,
+      "lon": 9.323976,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/melegnano/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/melegnano/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Melegnano"
+    },
+    {
+      "id": "melzo",
+      "nome": "Melzo",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.498585,
+      "lon": 9.424251,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Zona Centro",
+          "file": "comuni/melzo/zona-centro.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "est",
+          "nome": "Zona Est",
+          "file": "comuni/melzo/zona-est.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "nord",
+          "nome": "Zona Nord",
+          "file": "comuni/melzo/zona-nord.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Melzo"
     },
     {
       "id": "merate",
@@ -9574,6 +10457,23 @@
       ]
     },
     {
+      "id": "merlino",
+      "nome": "Merlino",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.433372,
+      "lon": 9.429853,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/merlino/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "mesenzana",
       "nome": "Mesenzana",
       "provincia": "VA",
@@ -9587,6 +10487,23 @@
           "nome": "Zona unica",
           "file": "comuni/mesenzana/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mezzago",
+      "nome": "Mezzago",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.628977,
+      "lon": 9.44485,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mezzago/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -10525,6 +11442,23 @@
       ]
     },
     {
+      "id": "mulazzano",
+      "nome": "Mulazzano",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.373492,
+      "lon": 9.397993,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mulazzano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "narzole",
       "nome": "Narzole",
       "provincia": "CN",
@@ -11220,6 +12154,23 @@
       ]
     },
     {
+      "id": "ornago",
+      "nome": "Ornago",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.598404,
+      "lon": 9.422214,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ornago/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "ornavasso",
       "nome": "Ornavasso",
       "provincia": "VB",
@@ -11511,6 +12462,23 @@
       ]
     },
     {
+      "id": "pantigliate",
+      "nome": "Pantigliate",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.439548,
+      "lon": 9.352631,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pantigliate/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "parella",
       "nome": "Parella",
       "provincia": "TO",
@@ -11601,6 +12569,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "paullo",
+      "nome": "Paullo",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.416787,
+      "lon": 9.398241,
+      "zone": [
+        {
+          "id": "gialla",
+          "nome": "Zona Gialla",
+          "file": "comuni/paullo/zona-gialla.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "rosa",
+          "nome": "Zona Rosa",
+          "file": "comuni/paullo/zona-rosa.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Paullo"
     },
     {
       "id": "pavarolo",
@@ -11803,6 +12795,23 @@
           "nome": "Zona unica",
           "file": "comuni/pescate/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pessano-con-bornago",
+      "nome": "Pessano con Bornago",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.548535,
+      "lon": 9.388324,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pessano-con-bornago/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -12606,6 +13615,23 @@
       ]
     },
     {
+      "id": "pozzo-d-adda",
+      "nome": "Pozzo d'Adda",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.575666,
+      "lon": 9.500377,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pozzo-d-adda/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "pozzolengo",
       "nome": "Pozzolengo",
       "provincia": "BS",
@@ -12619,6 +13645,23 @@
           "nome": "Zona unica",
           "file": "comuni/pozzolengo/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pozzuolo-martesana",
+      "nome": "Pozzuolo Martesana",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.513975,
+      "lon": 9.456252,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pozzuolo-martesana/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -13539,6 +14582,23 @@
       ]
     },
     {
+      "id": "rodano",
+      "nome": "Rodano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.477658,
+      "lon": 9.353461,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rodano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "roddi",
       "nome": "Roddi",
       "provincia": "CN",
@@ -13671,6 +14731,40 @@
           "nome": "Zona unica",
           "file": "comuni/roncade/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "roncello",
+      "nome": "Roncello",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.602443,
+      "lon": 9.457611,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/roncello/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "ronco-briantino",
+      "nome": "Ronco Briantino",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.667563,
+      "lon": 9.400698,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ronco-briantino/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -13841,6 +14935,23 @@
           "nome": "Zona unica",
           "file": "comuni/salerano-canavese/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "salerano-sul-lambro",
+      "nome": "Salerano sul Lambro",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.296569,
+      "lon": 9.385155,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/salerano-sul-lambro/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -14434,6 +15545,23 @@
       ]
     },
     {
+      "id": "san-zenone-al-lambro",
+      "nome": "San Zenone al Lambro",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.327269,
+      "lon": 9.355253,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-zenone-al-lambro/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "san-zenone-degli-ezzelini",
       "nome": "San Zenone degli Ezzelini",
       "provincia": "TV",
@@ -14507,6 +15635,30 @@
         }
       ],
       "zone_url": "https://www.acselspa.it/calendari-raccolta-rifiuti/"
+    },
+    {
+      "id": "sant-angelo-lodigiano",
+      "nome": "Sant'Angelo Lodigiano",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.238067,
+      "lon": 9.408656,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/sant-angelo-lodigiano/zona-a.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/sant-angelo-lodigiano/zona-b.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Sant%27Angelo+Lodigiano"
     },
     {
       "id": "sant-antonino-di-susa",
@@ -14807,6 +15959,23 @@
       ]
     },
     {
+      "id": "settala",
+      "nome": "Settala",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.454413,
+      "lon": 9.386766,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/settala/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "settimo-rottaro",
       "nome": "Settimo Rottaro",
       "provincia": "TO",
@@ -15092,6 +16261,23 @@
       ]
     },
     {
+      "id": "sordio",
+      "nome": "Sordio",
+      "provincia": "LO",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.341143,
+      "lon": 9.365693,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sordio/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "soriso",
       "nome": "Soriso",
       "provincia": "NO",
@@ -15286,6 +16472,23 @@
           "nome": "Zona unica",
           "file": "comuni/suello/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sulbiate",
+      "nome": "Sulbiate",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.633999,
+      "lon": 9.420684,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sulbiate/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -15610,6 +16813,23 @@
       ]
     },
     {
+      "id": "torrevecchia-pia",
+      "nome": "Torrevecchia Pia",
+      "provincia": "PV",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.283242,
+      "lon": 9.29665,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/torrevecchia-pia/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "toscolano-maderno",
       "nome": "Toscolano-Maderno",
       "provincia": "BS",
@@ -15841,6 +17061,47 @@
       "zone_url": "https://www.contarina.it"
     },
     {
+      "id": "trezzano-rosa",
+      "nome": "Trezzano Rosa",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.582777,
+      "lon": 9.486652,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trezzano-rosa/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "trezzo-sull-adda",
+      "nome": "Trezzo sull'Adda",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.608718,
+      "lon": 9.519844,
+      "zone": [
+        {
+          "id": "nord",
+          "nome": "Zona Nord",
+          "file": "comuni/trezzo-sull-adda/zona-nord.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "sud",
+          "nome": "Zona Sud",
+          "file": "comuni/trezzo-sull-adda/zona-sud.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Trezzo+Sull%27Adda"
+    },
+    {
       "id": "trezzo-tinella",
       "nome": "Trezzo Tinella",
       "provincia": "CN",
@@ -15854,6 +17115,23 @@
           "nome": "Zona unica",
           "file": "comuni/trezzo-tinella/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "tribiano",
+      "nome": "Tribiano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.413371,
+      "lon": 9.378952,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/tribiano/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -15954,6 +17232,40 @@
           "nome": "Zona unica",
           "file": "comuni/tronzano-lago-maggiore/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "truccazzano",
+      "nome": "Truccazzano",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.483874,
+      "lon": 9.468553,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/truccazzano/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "usmate-velate",
+      "nome": "Usmate Velate",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.652458,
+      "lon": 9.354342,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/usmate-velate/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -16414,6 +17726,23 @@
       ]
     },
     {
+      "id": "vaprio-d-adda",
+      "nome": "Vaprio d'Adda",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.576576,
+      "lon": 9.529174,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vaprio-d-adda/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "varallo-pombia",
       "nome": "Varallo Pombia",
       "provincia": "NO",
@@ -16495,6 +17824,23 @@
           "nome": "Zona unica",
           "file": "comuni/vauda-canavese/zona-unica.json",
           "valido_al": "2028-02-25"
+        }
+      ]
+    },
+    {
+      "id": "vedano-al-lambro",
+      "nome": "Vedano al Lambro",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.611508,
+      "lon": 9.275072,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vedano-al-lambro/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -16879,6 +18225,23 @@
       ]
     },
     {
+      "id": "vignate",
+      "nome": "Vignate",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.496573,
+      "lon": 9.376651,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vignate/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "vignolo",
       "nome": "Vignolo",
       "provincia": "CN",
@@ -17151,6 +18514,23 @@
       ]
     },
     {
+      "id": "villasanta",
+      "nome": "Villasanta",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.603981,
+      "lon": 9.300571,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villasanta/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
       "id": "villette",
       "nome": "Villette",
       "provincia": "VB",
@@ -17181,6 +18561,53 @@
           "nome": "Zona unica",
           "file": "comuni/villorba/zona-unica.json",
           "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vimercate",
+      "nome": "Vimercate",
+      "provincia": "MB",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.613963,
+      "lon": 9.37006,
+      "zone": [
+        {
+          "id": "arancio",
+          "nome": "Zona Arancio",
+          "file": "comuni/vimercate/zona-arancio.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "blu",
+          "nome": "Zona Blu",
+          "file": "comuni/vimercate/zona-blu.json",
+          "valido_al": "2027-01-31"
+        },
+        {
+          "id": "verde",
+          "nome": "Zona Verde",
+          "file": "comuni/vimercate/zona-verde.json",
+          "valido_al": "2027-01-31"
+        }
+      ],
+      "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Vimercate"
+    },
+    {
+      "id": "vimodrone",
+      "nome": "Vimodrone",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.512832,
+      "lon": 9.284672,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vimodrone/zona-unica.json",
+          "valido_al": "2027-01-31"
         }
       ]
     },
@@ -17224,6 +18651,23 @@
         }
       ],
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/vistrorio/"
+    },
+    {
+      "id": "vizzolo-predabissi",
+      "nome": "Vizzolo Predabissi",
+      "provincia": "MI",
+      "gestore": "CEM Ambiente",
+      "consorzio": "cem-ambiente",
+      "lat": 45.35636,
+      "lon": 9.349762,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vizzolo-predabissi/zona-unica.json",
+          "valido_al": "2027-01-31"
+        }
+      ]
     },
     {
       "id": "viu",
@@ -17551,6 +18995,12 @@
       "gestore": "Coinger",
       "ecocentri": "ecocentri/coinger.json",
       "regole": "regole/coinger.json"
+    },
+    "cem-ambiente": {
+      "nome": "CEM Ambiente",
+      "gestore": "CEM Ambiente",
+      "ecocentri": "ecocentri/cem-ambiente.json",
+      "regole": "regole/cem-ambiente.json"
     }
   },
   "tipi_en": {

@@ -1,0 +1,167 @@
+{
+ "schema": 1,
+ "comune": "Carnate",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Carnate&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Carnate",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-25": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "vetro"
+  ],
+  "2027-01-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-06": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-08": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-13": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-15": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-20": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-22": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-27": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-29": [
+   "organico",
+   "vetro"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2027-01-01"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "schema": 1,
+ "comune": "Melegnano",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona A",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 19:00 (ore 18:00 per le sole utenze NON domestiche) del giorno precedente alle ore 05:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Melegnano_Zona+A&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Melegnano",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-23": [
+   "plastica"
+  ],
+  "2026-11-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-25": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "plastica"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "plastica"
+  ],
+  "2027-01-05": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-06": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-11": [
+   "plastica"
+  ],
+  "2027-01-12": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-18": [
+   "plastica"
+  ],
+  "2027-01-19": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-20": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-25": [
+   "plastica"
+  ],
+  "2027-01-26": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "organico"
+  ]
+ },
+ "esposizione_entro": "05:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "schema": 1,
+ "comune": "Vimercate",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona Arancio",
+ "valido_dal": "2026-11-22",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 19:00 per le utenze non domestiche e dalle ore 18:00 per le utenze domestiche, sino alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Vimercate_Zona+ARANCIO&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Vimercate",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati."
+ ],
+ "raccolte": {
+  "2026-11-24": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-02": [
+   "carta"
+  ],
+  "2027-01-05": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2026-12-31",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}
