@@ -1,12 +1,717 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-21",
+ "aggiornato": "2026-11-22",
  "gestore": "SECAM S.p.A.",
  "fonte": "https://www.secam.net/ambiente/",
  "numero_verde": "800 919 106",
  "orari_numero_verde": "lun-ven 8:30-12:30 e 14:00-17:00",
  "consorzio": "secam",
- "accesso": "I centri di raccolta sono comunali: indirizzo e orari sono sul calendario SECAM del tuo comune o sulla pagina del comune su secam.net.",
- "avviso": "Indirizzi e orari non ancora trascritti in app: chiedi al numero verde SECAM.",
- "centri": []
+ "accesso": "L’elenco è ordinato per distanza. Accedi solo al centro previsto per il tuo Comune e verifica autorizzazione, tessera e prenotazione chiamando il gestore prima di partire.",
+ "avviso": "Le schede riportano gli orari ordinari verificati. Leggi le note per aperture a settimane alterne, stagioni e festività. Dove indicato, la distanza è calcolata dal centro del comune sede dell’ecocentro.",
+ "centri": [
+  {
+   "id": "secam-014005",
+   "tipo": "raccolta",
+   "comune": "Ardenno",
+   "indirizzo": "Via Empio",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:30",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Accesso negli orari pubblicati dal Comune.",
+   "lat": 46.166628,
+   "lon": 9.65283,
+   "fonte": "https://www.comune.ardenno.so.it/vivere_il_comune/luoghi/luogo_13.html"
+  },
+  {
+   "id": "secam-014007",
+   "tipo": "raccolta",
+   "comune": "Berbenno di Valtellina",
+   "indirizzo": "Via Campo Sportivo, località Isola",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Consultare la scheda del Comune per materiali ammessi, limiti e contributi. Posizione indicativa del comune.",
+   "lat": 46.168878,
+   "lon": 9.742367,
+   "fonte": "https://www.comune.berbenno.so.it/vivere_il_comune/luoghi/luogo_12.html"
+  },
+  {
+   "id": "secam-014009",
+   "tipo": "raccolta",
+   "comune": "Bormio",
+   "indirizzo": "Località Ask",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Bormio, Valdisotto e Valfurva secondo gli accordi comunali. Prenotazione 800 919 106. Posizione indicativa del comune.",
+   "lat": 46.469244,
+   "lon": 10.372216,
+   "fonte": "https://www.secam.net/comuni/bormio/"
+  },
+  {
+   "id": "secam-014013",
+   "tipo": "raccolta",
+   "comune": "Caspoggio",
+   "indirizzo": "Località Castello",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Caspoggio, Chiesa in Valmalenco, Lanzada, Spriana e Torre di Santa Maria. A luglio e agosto lunedì e mercoledì 10:00–12:00 e 13:00–16:00. Sabato 08:00–13:00. Festività nazionali escluse. Posizione indicativa del comune.",
+   "lat": 46.263526,
+   "lon": 9.862576,
+   "fonte": "https://www.unionevalmalenco.it/novita/notizie/novita_39.html"
+  },
+  {
+   "id": "secam-014018",
+   "tipo": "raccolta",
+   "comune": "Chiavenna",
+   "indirizzo": "Via Falcone e Borsellino",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "3": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "4": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "5": [
+     [
+      "16:00",
+      "18:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Giovedì e sabato riservati alle utenze domestiche. Chiuso nei festivi. Posizione indicativa del comune.",
+   "lat": 46.319979,
+   "lon": 9.398122,
+   "fonte": "https://www.comune.chiavenna.so.it/novita/avvisi/novita_131.html"
+  },
+  {
+   "id": "secam-014026",
+   "tipo": "raccolta",
+   "comune": "Delebio",
+   "indirizzo": "Località Trivate snc",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Mercoledì 13:00–17:00 con ora solare e 14:00–18:00 con ora legale. Ingombranti su prenotazione 800 919 106. Posizione indicativa del comune.",
+   "lat": 46.13609,
+   "lon": 9.46064,
+   "fonte": "https://www.secam.net/comuni/delebio/"
+  },
+  {
+   "id": "secam-014033",
+   "tipo": "raccolta",
+   "comune": "Grosio",
+   "indirizzo": "Via Tirano, svincolo SS38",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:15",
+      "16:45"
+     ]
+    ],
+    "3": [
+     [
+      "08:15",
+      "11:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Apertura aggiuntiva 08:15–11:45 il venerdì delle settimane pari o il sabato delle settimane dispari. Posizione indicativa del comune.",
+   "lat": 46.29893,
+   "lon": 10.274516,
+   "fonte": "https://www.secam.net/comuni/grosio/"
+  },
+  {
+   "id": "secam-014034",
+   "tipo": "raccolta",
+   "comune": "Grosotto",
+   "indirizzo": "Località Coltura di Dentro",
+   "per": "domestiche",
+   "orari": {
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare materiali e condizioni con SECAM prima di conferire. Posizione indicativa del comune.",
+   "lat": 46.279862,
+   "lon": 10.258441,
+   "fonte": "https://www.secam.net/comuni/grosotto/"
+  },
+  {
+   "id": "secam-014037",
+   "tipo": "raccolta",
+   "comune": "Livigno",
+   "indirizzo": "Località Val Viera",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Prenotazione presso il Comune al numero 0342 970935. Posizione indicativa del comune.",
+   "lat": 46.537801,
+   "lon": 10.136316,
+   "fonte": "https://www.secam.net/comuni/livigno/"
+  },
+  {
+   "id": "secam-014038",
+   "tipo": "raccolta",
+   "comune": "Lovero",
+   "indirizzo": "Via alla Piana 5",
+   "per": "domestiche",
+   "orari": {
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Autorizzazione del Comune convenzionato. Confermare altri giorni e sabati dispari al 0342 771044. Prenotare ingombranti, verde e inerti. Posizione indicativa del comune.",
+   "lat": 46.2314,
+   "lon": 10.228556,
+   "fonte": "https://www.secam.net/comuni/lovero/"
+  },
+  {
+   "id": "secam-014045",
+   "tipo": "raccolta",
+   "comune": "Morbegno",
+   "indirizzo": "Via Lungo Adda snc",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare accesso e modalità di conferimento con SECAM. Posizione indicativa del comune.",
+   "lat": 46.132419,
+   "lon": 9.569474,
+   "fonte": "https://www.secam.net/comuni/morbegno/"
+  },
+  {
+   "id": "secam-014054",
+   "tipo": "raccolta",
+   "comune": "Prata Camportaccio",
+   "indirizzo": "Località Pizzo",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare con il Comune convenzionato l’eventuale autorizzazione. Prenotare ingombranti, verde e inerti al 0343 20094. Posizione indicativa del comune.",
+   "lat": 46.307194,
+   "lon": 9.395236,
+   "fonte": "https://www.secam.net/comuni/prata-camportaccio/"
+  },
+  {
+   "id": "secam-014056",
+   "tipo": "raccolta",
+   "comune": "Rogolo",
+   "indirizzo": "Località Vedessa",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare con il Comune convenzionato l’autorizzazione o la tessera. Prenotare ingombranti, verde e inerti al 0342 684700. Posizione indicativa del comune.",
+   "lat": 46.135746,
+   "lon": 9.487317,
+   "fonte": "https://www.secam.net/comuni/rogolo/"
+  },
+  {
+   "id": "secam-014060",
+   "tipo": "raccolta",
+   "comune": "Sondalo",
+   "indirizzo": "Località Lenasco",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Autorizzazione del Comune convenzionato. Apertura anche nei sabati pari 09:00–13:00, da confermare. Prenotare ingombranti, verde e inerti al 0342 802320. Posizione indicativa del comune.",
+   "lat": 46.331392,
+   "lon": 10.324863,
+   "fonte": "https://www.secam.net/comuni/sondalo/"
+  },
+  {
+   "id": "secam-014061",
+   "tipo": "raccolta",
+   "comune": "Sondrio",
+   "indirizzo": "Via Ventina",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Sondrio, Albosaggia, Caiolo, Castione Andevenno e Montagna in Valtellina. Consultare la scheda ufficiale per i documenti richiesti. Posizione indicativa del comune.",
+   "lat": 46.323362,
+   "lon": 10.258414,
+   "fonte": "https://comune.sondrio.it/novita/centro-intercomunale-rifiuti-un-servizio-sempre-piu-apprezzato-aumentano-gradimento-e-quantitativi-conferiti/"
+  },
+  {
+   "id": "secam-014063",
+   "tipo": "raccolta",
+   "comune": "Talamona",
+   "indirizzo": "Via Tartano 1458, località La Piazza",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Residenti di Talamona. Orario ottobre–febbraio. Verificare gli orari estivi presso il Comune, in particolare il sabato pomeriggio.",
+   "lat": 46.137062,
+   "lon": 9.628122,
+   "fonte": "https://www.comune.talamona.so.it/vivere_il_comune/luoghi/luogo_16.html"
+  },
+  {
+   "id": "secam-014066",
+   "tipo": "raccolta",
+   "comune": "Tirano",
+   "indirizzo": "Via Giustizia 6, località Foro Boario",
+   "per": "domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "11:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "11:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Ingombranti solo su prenotazione fino a nuovo avviso, massimo 1 m³ per utenza. Richiesta almeno tre giorni lavorativi prima. Posizione indicativa del comune.",
+   "lat": 46.215672,
+   "lon": 10.173178,
+   "fonte": "https://comune.tirano.so.it/it/vivere/741037?category_id=398936"
+  },
+  {
+   "id": "secam-014071",
+   "tipo": "raccolta",
+   "comune": "Valdidentro",
+   "indirizzo": "Località Tres",
+   "per": "domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze domestiche. Il giovedì 14:00–18:00 è riservato alle attività economiche. Posizione indicativa del comune.",
+   "lat": 46.489037,
+   "lon": 10.292304,
+   "fonte": "https://www.secam.net/comuni/valdidentro/"
+  }
+ ]
 }
