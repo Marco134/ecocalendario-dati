@@ -30,13 +30,34 @@
   }
  },
  "tipi": {
+  "organico": {
+   "nome": "Organico",
+   "nome_en": "Organic",
+   "colore": "#763B08"
+  },
+  "carta": {
+   "nome": "Carta e cartone",
+   "nome_en": "Paper and cardboard",
+   "colore": "#D3A200"
+  },
   "vetro": {
    "nome": "Vetro e lattine",
-   "nome_en": "Glass and cans"
+   "nome_en": "Glass and cans",
+   "colore": "#182383"
+  },
+  "plastica": {
+   "nome": "Plastica",
+   "nome_en": "Plastic",
+   "colore": "#D3A200"
+  },
+  "indifferenziato": {
+   "nome": "Secco residuo",
+   "nome_en": "Residual waste",
+   "colore": "#858585"
   }
  },
  "verificato": {
   "voci": "2026-11-18, volantino Idealservice del Comune di Lubriano",
-  "colori": "da verificare"
+  "colori": "2026-11-23, portale Idealservice (serviziambientali.idealservice.it/comuni/lubriano)"
  }
 }
