@@ -23342,6 +23342,85 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "rota-dimagna",
+      "nome": "Rota d'Imagna",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-rota-dimagna.json",
+      "lat": 45.830854,
+      "lon": 9.512792,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rota-dimagna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-pellegrino-terme",
+      "nome": "San Pellegrino Terme",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-san-pellegrino-terme.json",
+      "lat": 45.838631,
+      "lon": 9.664731,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/san-pellegrino-terme/zona-capoluogo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Frazioni",
+          "file": "comuni/san-pellegrino-terme/zona-frazioni.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.vcsonline.it/comuni/san-pellegrino-terme/"
+    },
+    {
+      "id": "sorisole",
+      "nome": "Sorisole",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-sorisole.json",
+      "lat": 45.744579,
+      "lon": 9.661195,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sorisole/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "trescore-balneario",
+      "nome": "Trescore Balneario",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-trescore-balneario.json",
+      "lat": 45.696483,
+      "lon": 9.842557,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/trescore-balneario/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {

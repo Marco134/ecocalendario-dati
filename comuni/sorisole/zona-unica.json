@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "comune": "Sorisole",
+  "provincia": "BG",
+  "gestore": "Val Cavallina Servizi",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/calendario-raccolta-2026_SORISOLE.pdf",
+  "note": [
+    "Vetro e lattine insieme secondo il calendario del gestore.",
+    "L’orario di martedì del centro è discordante nelle due pagine del PDF. Il sito comunale indica chiuso."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-28": [
+      "plastica"
+    ],
+    "2026-11-30": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-03": [
+      "indifferenziato"
+    ],
+    "2026-12-05": [
+      "carta"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-12": [
+      "plastica"
+    ],
+    "2026-12-14": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-17": [
+      "indifferenziato"
+    ],
+    "2026-12-19": [
+      "carta"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-26": [
+      "plastica"
+    ],
+    "2026-12-28": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-31": [
+      "indifferenziato"
+    ]
+  }
+}
