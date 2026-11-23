@@ -1,0 +1,273 @@
+{
+  "schema": 1,
+  "nome": "Aprica · Seriate",
+  "fonte": "https://comune.seriate.bg.it/wp-content/uploads/2025/12/Calendario-2026-Zona-A.pdf | https://www.apricaspa.it/it/seriate/servizi/centro-raccolta-rifiuti",
+  "voci": {
+    "bottiglia di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "flacone di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "retina per frutta": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "sacchetto di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "piatto di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "bicchiere di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "vaschetta alimentare di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "cassetta di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "barattolo di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti. Mettere le cassette a lato del sacco."
+    },
+    "tela cerata": {
+      "dove": "indifferenziato"
+    },
+    "carta carbone": {
+      "dove": "indifferenziato"
+    },
+    "carta plastificata": {
+      "dove": "indifferenziato"
+    },
+    "carta vetrata": {
+      "dove": "indifferenziato"
+    },
+    "posata di plastica": {
+      "dove": "indifferenziato"
+    },
+    "cannuccia di plastica": {
+      "dove": "indifferenziato"
+    },
+    "assorbente": {
+      "dove": "indifferenziato"
+    },
+    "bastoncino per orecchie": {
+      "dove": "indifferenziato"
+    },
+    "garza": {
+      "dove": "indifferenziato"
+    },
+    "lettiera per gatti": {
+      "dove": "indifferenziato"
+    },
+    "lettiera per cani": {
+      "dove": "indifferenziato"
+    },
+    "fuliggine": {
+      "dove": "indifferenziato"
+    },
+    "straccio sporco": {
+      "dove": "indifferenziato"
+    },
+    "stoviglia in bioplastica pla": {
+      "dove": "indifferenziato"
+    },
+    "pellicola fotografica": {
+      "dove": "indifferenziato"
+    },
+    "lische di pesce": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "ossa": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "fondo di caffè": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "filtro del tè": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "bucce di frutta": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "avanzi di cibo": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "guscio d’uovo": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "guscio di noce": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "carta assorbente bagnata": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "tovagliolo di carta non colorato": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "stoviglia compostabile in amido vegetale": {
+      "dove": "organico",
+      "nota": "Per i prodotti in amido vegetale verifica che siano compostabili. La carta assorbente deve essere senza colore."
+    },
+    "carta pulita": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "giornale": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "rivista": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "libro": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "quaderno": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "cartone": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "cartone per alimenti": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "tetrapak": {
+      "dove": "carta",
+      "nota": "Carta o cartone puliti. Svuotare i cartoni per bevande."
+    },
+    "bottiglia di vetro": {
+      "dove": "vetro",
+      "nota": "Conferire gli imballaggi puliti. Unire vetro e barattolame."
+    },
+    "barattolo di vetro": {
+      "dove": "vetro",
+      "nota": "Conferire gli imballaggi puliti. Unire vetro e barattolame."
+    },
+    "scatoletta di metallo": {
+      "dove": "vetro",
+      "nota": "Conferire gli imballaggi puliti. Unire vetro e barattolame."
+    },
+    "lattina": {
+      "dove": "vetro",
+      "nota": "Conferire gli imballaggi puliti. Unire vetro e barattolame."
+    },
+    "tappo di metallo": {
+      "dove": "vetro",
+      "nota": "Conferire gli imballaggi puliti. Unire vetro e barattolame."
+    },
+    "foglio di alluminio": {
+      "dove": "vetro",
+      "nota": "Conferire gli imballaggi puliti. Unire vetro e barattolame."
+    },
+    "giocattolo in plastica dura": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "plastica dura": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "polistirolo di grandi dimensioni": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "pellicola di grandi dimensioni": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "frammento grande di vetro": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "ceramica": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "porcellana": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "materasso": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "frigorifero": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "lavatrice": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "televisore": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "batteria per auto": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "olio esausto": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "cartuccia toner": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "farmaco scaduto": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "lampada fluorescente": {
+      "dove": "centro",
+      "nota": "Verifica le condizioni di accesso e consegna del centro di via Lazzaretto."
+    },
+    "pannolino": {
+      "dove": "varia",
+      "nota": "Servizio dedicato alle famiglie con bambini fino a tre anni e alle famiglie con persone bisognose di assistenza. Per l’attivazione consulta il Comune."
+    },
+    "pannolone": {
+      "dove": "varia",
+      "nota": "Servizio dedicato alle famiglie con bambini fino a tre anni e alle famiglie con persone bisognose di assistenza. Per l’attivazione consulta il Comune."
+    },
+    "traversa sanitaria": {
+      "dove": "varia",
+      "nota": "Servizio dedicato alle famiglie con bambini fino a tre anni e alle famiglie con persone bisognose di assistenza. Per l’attivazione consulta il Comune."
+    }
+  },
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro e barattolame",
+      "nome_en": "Glass and metal packaging"
+    }
+  },
+  "verificato": {
+    "voci": "Dai calendari comunali 2026 e dalla pagina del centro di raccolta del gestore."
+  }
+}

@@ -23475,6 +23475,31 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "seriate",
+      "nome": "Seriate",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "consorzio": "aprica-seriate",
+      "zone_url": "https://comune.seriate.bg.it/trasparenza-rifiuti/calendari-raccolta-e-zone/",
+      "ecocentri": "ecocentri/aprica-seriate.json",
+      "lat": 45.684371,
+      "lon": 9.717998,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A · Ovest del fiume",
+          "file": "comuni/seriate/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B · Est del fiume",
+          "file": "comuni/seriate/zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -23731,6 +23756,12 @@
       "gestore": "Aprica",
       "ecocentri": "ecocentri/aprica-nembro.json",
       "regole": "regole/aprica-nembro.json"
+    },
+    "aprica-seriate": {
+      "nome": "Aprica · Seriate",
+      "gestore": "Aprica",
+      "ecocentri": "ecocentri/aprica-seriate.json",
+      "regole": "regole/aprica-seriate.json"
     }
   },
   "tipi_en": {

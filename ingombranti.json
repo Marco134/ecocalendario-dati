@@ -4460,6 +4460,25 @@
       "regole_en": [
         "Collection for households on the second and fourth Saturday of the month. Book at least 15 days in advance. The fixed €43 fee including VAT is charged on the next waste tax bill."
       ]
+    },
+    {
+      "id": "aprica-seriate",
+      "nome": "Aprica · Seriate",
+      "gestori": [],
+      "comuni": [
+        "seriate"
+      ],
+      "telefono": "800 437 678",
+      "prenota_url": "https://www.apricaspa.it/it/seriate/servizi/prenotazione-ritiro-ingombranti",
+      "prenotazione": false,
+      "fonte": "https://www.apricaspa.it/it/seriate/servizi/prenotazione-ritiro-ingombranti",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Ritiro a domicilio gratuito su prenotazione entro i limiti indicati da Aprica. Smonta i mobili e segui le indicazioni ricevute alla prenotazione."
+      ],
+      "regole_en": [
+        "Free home collection within Aprica’s limits. Book first, dismantle furniture and follow the booking instructions."
+      ]
     }
   ]
 }

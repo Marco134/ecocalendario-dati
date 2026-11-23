@@ -1,0 +1,94 @@
+{
+  "schema": 1,
+  "comune": "Seriate",
+  "provincia": "BG",
+  "gestore": "Aprica",
+  "zona": "Zona A · Ovest del fiume",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "fonte": "https://comune.seriate.bg.it/wp-content/uploads/2025/12/Calendario-2026-Zona-A.pdf",
+  "note": [
+    "Controlla la zona e le vie nell’elenco del Comune.",
+    "Vetro e barattolame si raccolgono insieme. Il PDF riporta anche il servizio dedicato a pannolini e pannoloni.",
+    "Prima dei festivi consulta gli avvisi del gestore."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "indifferenziato"
+    ],
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "carta"
+    ],
+    "2026-11-28": [
+      "plastica"
+    ],
+    "2026-11-30": [
+      "vetro"
+    ],
+    "2026-12-01": [
+      "indifferenziato"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "carta"
+    ],
+    "2026-12-05": [
+      "plastica"
+    ],
+    "2026-12-08": [
+      "indifferenziato"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "carta"
+    ],
+    "2026-12-12": [
+      "plastica"
+    ],
+    "2026-12-14": [
+      "vetro"
+    ],
+    "2026-12-15": [
+      "indifferenziato"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "carta"
+    ],
+    "2026-12-19": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "indifferenziato"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-25": [
+      "carta"
+    ],
+    "2026-12-26": [
+      "plastica"
+    ],
+    "2026-12-28": [
+      "vetro"
+    ],
+    "2026-12-29": [
+      "indifferenziato"
+    ],
+    "2026-12-30": [
+      "organico"
+    ]
+  }
+}
