@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "comune": "Settimo Milanese",
+  "provincia": "MI",
+  "gestore": "Mantova Ambiente / AMSA",
+  "zona": "Zona B · Nord",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "fonte": "https://static.mantovaambiente.it/4a/cc/pieghevole_ud_settimo_v01.pdf",
+  "raccolte": {
+    "2026-11-24": [
+      "organico",
+      "carta",
+      "plastica",
+      "sfalci"
+    ],
+    "2026-11-26": [
+      "organico",
+      "vetro",
+      "indifferenziato"
+    ],
+    "2026-11-28": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-01": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-03": [
+      "organico",
+      "vetro",
+      "indifferenziato"
+    ],
+    "2026-12-05": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-10": [
+      "organico",
+      "vetro",
+      "indifferenziato"
+    ],
+    "2026-12-12": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-15": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-17": [
+      "organico",
+      "vetro",
+      "indifferenziato"
+    ],
+    "2026-12-19": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-22": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-24": [
+      "organico",
+      "vetro",
+      "indifferenziato"
+    ],
+    "2026-12-29": [
+      "organico",
+      "carta",
+      "plastica"
+    ],
+    "2026-12-31": [
+      "organico",
+      "vetro",
+      "indifferenziato"
+    ]
+  },
+  "esposizione": "AMSA indica dalle 22:00 della sera prima alle 06:30 del giorno di ritiro.",
+  "esposizione_entro": "06:30",
+  "note": [
+    "La guida comunale del 2024 indica esposizione dalle 20:00. Seguire gli orari correnti di AMSA.",
+    "Per le festività consultare gli avvisi AMSA. Via Di Vittorio: in zona B fino al civico 17 incluso.",
+    "Plastica e metallo insieme. Vetro separato. Gli sfalci porta a porta sono indicati da marzo a novembre."
+  ]
+}

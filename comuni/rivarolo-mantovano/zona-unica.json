@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "comune": "Rivarolo Mantovano",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del ritiro indicato.",
+  "fonte": "https://static.mantovaambiente.it/ad/a3/rivarolo_ma-calendario2026_multi_21x21_00-web.pdf",
+  "note": [
+    "Vetro e imballaggi metallici nello stesso contenitore."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "plastica",
+      "vetro"
+    ],
+    "2026-11-28": [
+      "indifferenziato"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "carta"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "plastica",
+      "vetro"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "carta"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "plastica",
+      "vetro"
+    ],
+    "2026-12-26": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "carta"
+    ]
+  }
+}

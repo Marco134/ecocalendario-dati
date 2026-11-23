@@ -22226,6 +22226,508 @@
         }
       ],
       "zone_url": "https://mantovaambiente.it/comuni/borgo-mantovano-1"
+    },
+    {
+      "id": "acquanegra-sul-chiese",
+      "nome": "Acquanegra sul Chiese",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-acquanegra-sul-chiese.json",
+      "lat": 45.162475,
+      "lon": 10.43468,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/acquanegra-sul-chiese/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bozzolo",
+      "nome": "Bozzolo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-bozzolo.json",
+      "lat": 45.102474,
+      "lon": 10.483982,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bozzolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castel-dario",
+      "nome": "Castel d'Ario",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-castel-dario.json",
+      "lat": 45.189008,
+      "lon": 10.97513,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castel-dario/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ceresara",
+      "nome": "Ceresara",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-ceresara.json",
+      "lat": 45.26513,
+      "lon": 10.567035,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ceresara/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "gazzuolo",
+      "nome": "Gazzuolo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-gazzuolo.json",
+      "lat": 45.069175,
+      "lon": 10.583113,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gazzuolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "gonzaga",
+      "nome": "Gonzaga",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-gonzaga.json",
+      "lat": 44.952488,
+      "lon": 10.822623,
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/gonzaga/zona-zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/gonzaga/zona-zona-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/gonzaga/raccolta-e-trasporto-gonzaga/zone-raccolta-gonzaga"
+    },
+    {
+      "id": "magnacavallo",
+      "nome": "Magnacavallo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-magnacavallo.json",
+      "lat": 45.005578,
+      "lon": 11.1811,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/magnacavallo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "marcaria",
+      "nome": "Marcaria",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-marcaria.json",
+      "lat": 45.120575,
+      "lon": 10.532783,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/marcaria/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/marcaria/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.comune.marcaria.mn.it/Servizi?ID=146363"
+    },
+    {
+      "id": "pegognaga",
+      "nome": "Pegognaga",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-pegognaga.json",
+      "lat": 44.995988,
+      "lon": 10.858772,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pegognaga/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "poggio-rusco",
+      "nome": "Poggio Rusco",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-poggio-rusco.json",
+      "lat": 44.975558,
+      "lon": 11.114649,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/poggio-rusco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ponti-sul-mincio",
+      "nome": "Ponti sul Mincio",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-ponti-sul-mincio.json",
+      "lat": 45.412515,
+      "lon": 10.687221,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ponti-sul-mincio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quingentole",
+      "nome": "Quingentole",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-quingentole.json",
+      "lat": 45.039077,
+      "lon": 11.045796,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quingentole/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "quistello",
+      "nome": "Quistello",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-quistello.json",
+      "lat": 45.006579,
+      "lon": 10.98046,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/quistello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "redondesco",
+      "nome": "Redondesco",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-redondesco.json",
+      "lat": 45.166376,
+      "lon": 10.512282,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/redondesco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rivarolo-mantovano",
+      "nome": "Rivarolo Mantovano",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-rivarolo-mantovano.json",
+      "lat": 45.070309,
+      "lon": 10.432104,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rivarolo-mantovano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rodigo",
+      "nome": "Rodigo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-rodigo.json",
+      "lat": 45.199577,
+      "lon": 10.624984,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rodigo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "roncoferraro",
+      "nome": "Roncoferraro",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-roncoferraro.json",
+      "lat": 45.135929,
+      "lon": 10.951354,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/roncoferraro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sabbioneta",
+      "nome": "Sabbioneta",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-sabbioneta.json",
+      "lat": 44.998436,
+      "lon": 10.488587,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sabbioneta/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-giovanni-del-dosso",
+      "nome": "San Giovanni del Dosso",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-san-giovanni-del-dosso.json",
+      "lat": 44.966893,
+      "lon": 11.081617,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-giovanni-del-dosso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-martino-dallargine",
+      "nome": "San Martino dall'Argine",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-san-martino-dallargine.json",
+      "lat": 45.099056,
+      "lon": 10.518348,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-martino-dallargine/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "schivenoglia",
+      "nome": "Schivenoglia",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-schivenoglia.json",
+      "lat": 44.995094,
+      "lon": 11.072981,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/schivenoglia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sermide-e-felonica",
+      "nome": "Sermide e Felonica",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-sermide-e-felonica.json",
+      "lat": 44.97833,
+      "lon": 11.29043,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/sermide-e-felonica/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/sermide-e-felonica/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.comune.sermideefelonica.mn.it/amministrazione/trasparenza/pubblicazioni/allegati/allegato_2187.html"
+    },
+    {
+      "id": "solferino",
+      "nome": "Solferino",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-solferino.json",
+      "lat": 45.368581,
+      "lon": 10.566679,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/solferino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "volta-mantovana",
+      "nome": "Volta Mantovana",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-volta-mantovana.json",
+      "lat": 45.321302,
+      "lon": 10.659224,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/volta-mantovana/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/volta-mantovana/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.comune.volta.mn.it/novita/notizie/novita_49.html"
+    },
+    {
+      "id": "borgocarbonara",
+      "nome": "Borgocarbonara",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-borgocarbonara.json",
+      "lat": 45.034383,
+      "lon": 11.214786,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgocarbonara/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "settimo-milanese",
+      "nome": "Settimo Milanese",
+      "provincia": "MI",
+      "gestore": "Mantova Ambiente / AMSA",
+      "consorzio": "amsa-settimo-milanese",
+      "lat": 45.480309,
+      "lon": 9.055356,
+      "zone_url": "https://www.amsa.it/it/settimo-milanese/servizi/raccolta-differenziata",
+      "zone": [
+        {
+          "id": "zona-a-sud",
+          "nome": "Zona A · Sud",
+          "file": "comuni/settimo-milanese/zona-zona-a-sud.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b-nord",
+          "nome": "Zona B · Nord",
+          "file": "comuni/settimo-milanese/zona-zona-b-nord.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -22452,6 +22954,12 @@
       "gestore": "Mantova Ambiente",
       "ecocentri": "ecocentri/mantova-ambiente.json",
       "regole": "regole/mantova-ambiente.json"
+    },
+    "amsa-settimo-milanese": {
+      "nome": "AMSA · Settimo Milanese",
+      "gestore": "Mantova Ambiente / AMSA",
+      "ecocentri": "ecocentri/amsa-settimo-milanese.json",
+      "regole": "regole/amsa-settimo-milanese.json"
     }
   },
   "tipi_en": {

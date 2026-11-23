@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "comune": "Redondesco",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del ritiro indicato.",
+  "fonte": "https://static.mantovaambiente.it/09/4e/redondesco_ma-calendario2026_mono_01-web.pdf",
+  "note": [
+    "Vetro e imballaggi metallici nello stesso contenitore.",
+    "Il ritiro degli sfalci richiede attivazione. Consultare le date e le condizioni del proprio comune nel documento ufficiale."
+  ],
+  "raccolte": {
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "indifferenziato"
+    ],
+    "2026-11-27": [
+      "carta"
+    ],
+    "2026-12-01": [
+      "vetro"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "carta"
+    ],
+    "2026-12-15": [
+      "vetro"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "carta"
+    ],
+    "2026-12-29": [
+      "vetro"
+    ],
+    "2026-12-30": [
+      "organico"
+    ]
+  }
+}

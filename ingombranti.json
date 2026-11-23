@@ -4188,18 +4188,41 @@
       "nome": "Mantova Ambiente",
       "gestori": [],
       "comuni": [
+        "acquanegra-sul-chiese",
         "asola",
         "bagnolo-san-vito",
         "borgo-mantovano",
+        "borgocarbonara",
+        "bozzolo",
         "casalmoro",
         "casaloldo",
         "casalromano",
+        "castel-dario",
         "castel-goffredo",
         "castelbelforte",
+        "ceresara",
+        "gazzuolo",
+        "gonzaga",
+        "magnacavallo",
+        "marcaria",
         "marmirolo",
+        "pegognaga",
+        "poggio-rusco",
+        "ponti-sul-mincio",
         "porto-mantovano",
+        "quingentole",
+        "quistello",
+        "redondesco",
+        "rivarolo-mantovano",
+        "roncoferraro",
         "roverbella",
-        "san-giorgio-bigarello"
+        "sabbioneta",
+        "san-giorgio-bigarello",
+        "san-giovanni-del-dosso",
+        "san-martino-dallargine",
+        "sermide-e-felonica",
+        "solferino",
+        "volta-mantovana"
       ],
       "telefono": "800 473 165",
       "orari": "Lun–ven 08:00–18:00 e sab 09:00–13:00",
@@ -4235,6 +4258,68 @@
       "regole_en": [
         "Take bulky waste to the recycling centre in Quistello. Home collection is available for a fee by appointment.",
         "See municipal resolution no. 77 of 31 July 2024 or ask the municipality for the charge."
+      ]
+    },
+    {
+      "id": "mantova-ambiente-rodigo",
+      "nome": "Mantova Ambiente · Rodigo",
+      "gestori": [],
+      "comuni": [
+        "rodigo"
+      ],
+      "telefono": "800 473 165",
+      "prenotazione": false,
+      "fonte": "https://static.mantovaambiente.it/3f/63/rodigo_ma-calendario2026_mono_08-web.pdf",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Ritiro gratuito su prenotazione il primo venerdì del mese. Fino a cinque colli, da esporre la sera prima.",
+        "Piccoli elettrodomestici e rifiuti facilmente trasportabili vanno al centro."
+      ],
+      "regole_en": [
+        "Book free collection for the first Friday of the month. Leave up to five items outside the evening before.",
+        "Take small electrical appliances and easy-to-carry waste to the recycling centre."
+      ]
+    },
+    {
+      "id": "mantova-ambiente-schivenoglia",
+      "nome": "Comune di Schivenoglia",
+      "gestori": [],
+      "comuni": [
+        "schivenoglia"
+      ],
+      "telefono": "0386 58141",
+      "tipo_numero": "telefono",
+      "prenotazione": false,
+      "fonte": "https://www.comune.schivenoglia.mn.it/wp-content/uploads/2026/01/Schivenoglia_MA-calendario2026_mono_01-WEB.pdf",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Prenotare il ritiro gratuito con l’Ufficio Segreteria, interno 2. Esporre al massimo tre colli la sera prima della raccolta.",
+        "Esclusi svuotacantine, smontaggio dei mobili e sacchi dell’indifferenziato."
+      ],
+      "regole_en": [
+        "Call the municipal office and select extension 2 for free collection. Put out up to three items the evening before collection.",
+        "The service excludes clearing out cellars, dismantling furniture and collecting residual waste sacks."
+      ]
+    },
+    {
+      "id": "amsa-settimo-milanese",
+      "nome": "AMSA · Settimo Milanese",
+      "gestori": [],
+      "comuni": [
+        "settimo-milanese"
+      ],
+      "telefono": "800 332 299",
+      "prenota_url": "https://www.amsa.it/it/settimo-milanese/servizi/prenotazione-ritiro-ingombranti",
+      "prenotazione": false,
+      "fonte": "https://www.amsa.it/it/settimo-milanese/servizi/prenotazione-ritiro-ingombranti",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Ritiro gratuito su prenotazione, al massimo ogni 30 giorni. Limiti AMSA attuali: 50 kg e 2,50 m per pezzo.",
+        "La piattaforma di prenotazione indica i limiti per tipologia e per carico. Esporre i materiali smontati nell’orario concordato."
+      ],
+      "regole_en": [
+        "Book free collection once every 30 days. Current AMSA limits are 50 kg and 2.5 m per item.",
+        "The booking system displays per-category and total limits. Dismantle items and set them out at the time specified."
       ]
     }
   ]

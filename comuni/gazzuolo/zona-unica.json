@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "comune": "Gazzuolo",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del ritiro indicato.",
+  "fonte": "https://www.comune.gazzuolo.mn.it/s3/3076/allegati/gazzuolo_ma-calendario2026_mono_01-web.pdf",
+  "note": [
+    "Vetro e imballaggi metallici nello stesso contenitore.",
+    "Il ritiro degli sfalci richiede attivazione. Consultare le date e le condizioni del proprio comune nel documento ufficiale."
+  ],
+  "raccolte": {
+    "2026-11-25": [
+      "carta"
+    ],
+    "2026-11-26": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "vetro"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "plastica"
+    ],
+    "2026-12-09": [
+      "carta"
+    ],
+    "2026-12-10": [
+      "organico"
+    ],
+    "2026-12-14": [
+      "indifferenziato"
+    ],
+    "2026-12-16": [
+      "vetro"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-23": [
+      "carta"
+    ],
+    "2026-12-24": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "vetro"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  }
+}

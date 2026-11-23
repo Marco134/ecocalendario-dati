@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "comune": "Pegognaga",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del ritiro indicato.",
+  "fonte": "https://static.mantovaambiente.it/39/88/pegognaga_ma-calendario2026_mono_00-web.pdf",
+  "note": [
+    "Vetro e imballaggi metallici nello stesso contenitore."
+  ],
+  "raccolte": {
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "indifferenziato",
+      "vetro"
+    ],
+    "2026-12-01": [
+      "carta"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "plastica"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "vetro"
+    ],
+    "2026-12-15": [
+      "carta"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "plastica"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "vetro"
+    ],
+    "2026-12-29": [
+      "carta"
+    ],
+    "2026-12-30": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-31": [
+      "plastica"
+    ]
+  }
+}

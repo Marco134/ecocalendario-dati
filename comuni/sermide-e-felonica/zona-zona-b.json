@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "comune": "Sermide e Felonica",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona B",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del ritiro indicato.",
+  "fonte": "https://www.comune.sermideefelonica.mn.it/amministrazione/trasparenza/pubblicazioni/allegati/allegato_2187.html",
+  "note": [
+    "Vetro e imballaggi metallici nello stesso contenitore.",
+    "Il ritiro degli sfalci richiede attivazione. Consultare le date e le condizioni del proprio comune nel documento ufficiale."
+  ],
+  "raccolte": {
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "plastica"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "vetro"
+    ],
+    "2026-12-05": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "plastica"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "vetro"
+    ],
+    "2026-12-19": [
+      "organico",
+      "carta",
+      "indifferenziato"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "plastica"
+    ],
+    "2026-12-30": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "vetro"
+    ]
+  }
+}

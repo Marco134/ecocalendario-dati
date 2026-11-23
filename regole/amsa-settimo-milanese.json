@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "nome": "Settimo Milanese",
+  "fonte": "https://www.amsa.it/it/settimo-milanese/servizi/dove-lo-butto | https://content.amsa.it/sites/default/files/2024-05/settimo-milanese-guida-raccolta-differenziata.pdf",
+  "tipi": {
+    "plastica": {
+      "nome": "Imballaggi in plastica e metallo",
+      "nome_en": "Plastic and metal packaging"
+    }
+  },
+  "voci": {
+    "imballaggi in polistirolo": {
+      "dove": "plastica",
+      "nota": "Nel contenitore degli imballaggi in plastica e metallo."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "Nel contenitore degli imballaggi in plastica e metallo."
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro",
+      "nota": "Usa il contenitore del vetro."
+    },
+    "contenitori in tetra pak": {
+      "dove": "carta",
+      "nota": "Usa la raccolta di carta e cartone."
+    },
+    "cartone della pizza unto": {
+      "dove": "carta",
+      "nota": "La pagina AMSA ammette il cartone unto. Con residui di cibo, conferire il cartone nell’indifferenziato."
+    },
+    "cartone della pizza con residui": {
+      "dove": "indifferenziato",
+      "nota": "Per esempio cartone con residui di mozzarella."
+    },
+    "posate in plastica": {
+      "dove": "indifferenziato",
+      "nota": "Sono escluse dagli imballaggi in plastica e metallo."
+    },
+    "olio di frittura": {
+      "dove": "centro",
+      "nota": "Conferibile anche al CAM e nei punti dedicati, tra cui il punto vendita di via Gramsci 115."
+    },
+    "piccoli elettrodomestici": {
+      "dove": "centro",
+      "nota": "Ammessi anche al CAM e alle ecoisole RAEE con CRS."
+    },
+    "lampadine al led": {
+      "dove": "centro",
+      "nota": "Ammesse anche al CAM e alle ecoisole RAEE con CRS."
+    },
+    "lettiera sintetica": {
+      "dove": "indifferenziato",
+      "nota": "Conferire nei sacchi grigi con tag secondo il gestore."
+    },
+    "fondi di caffè": {
+      "dove": "organico",
+      "nota": "Conferire nella frazione organica."
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-23, AMSA e guida locale"
+  }
+}

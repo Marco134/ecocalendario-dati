@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "comune": "Acquanegra sul Chiese",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del ritiro indicato.",
+  "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4873822/Raccolta-differenziata-2026.pdf",
+  "note": [
+    "Vetro e imballaggi metallici nello stesso contenitore.",
+    "Calendario 2026. Il Comune ha pubblicato una nuova procedura di affidamento per il servizio."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "carta"
+    ],
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-27": [
+      "vetro"
+    ],
+    "2026-11-28": [
+      "plastica",
+      "organico"
+    ],
+    "2026-11-30": [
+      "indifferenziato"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-08": [
+      "carta"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-11": [
+      "vetro"
+    ],
+    "2026-12-12": [
+      "plastica",
+      "organico"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "carta"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-26": [
+      "plastica",
+      "organico"
+    ],
+    "2026-12-28": [
+      "indifferenziato",
+      "vetro"
+    ],
+    "2026-12-30": [
+      "organico"
+    ]
+  }
+}
