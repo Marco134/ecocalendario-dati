@@ -1,0 +1,1121 @@
+{
+  "schema": 1,
+  "nome": "Val Cavallina Servizi",
+  "fonte": "https://www.vcsonline.it/",
+  "voci": {
+    "alluminio (vaschette, lattine ecc.)": {
+      "dove": "vetro"
+    },
+    "barattoli in latta o banda stagnatavuoti e puliti (capacita max litri 5)": {
+      "dove": "vetro"
+    },
+    "bicchieri di vetro": {
+      "dove": "vetro"
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro"
+    },
+    "caraffe di vetro": {
+      "dove": "vetro"
+    },
+    "chiusure metalliche per vasetti di vetro": {
+      "dove": "vetro"
+    },
+    "latte per olio da cucina (capacità max 5 litri)": {
+      "dove": "vetro"
+    },
+    "lattine per bevande": {
+      "dove": "vetro"
+    },
+    "tappi a corona in metallo": {
+      "dove": "vetro"
+    },
+    "tappi delle bottiglie in alluminio": {
+      "dove": "vetro"
+    },
+    "vaschette in alluminio": {
+      "dove": "vetro"
+    },
+    "vaschette in vetro": {
+      "dove": "vetro"
+    },
+    "alimenti avariati": {
+      "dove": "organico"
+    },
+    "avanzi di cibo": {
+      "dove": "organico"
+    },
+    "bucce e scarti frutta e verdura": {
+      "dove": "organico"
+    },
+    "bustine del tè": {
+      "dove": "organico"
+    },
+    "carne": {
+      "dove": "organico"
+    },
+    "carta da cucina unta di cibo": {
+      "dove": "organico"
+    },
+    "ceneri spente di caminetti/stufe": {
+      "dove": "organico"
+    },
+    "fazzoletti di carta usati": {
+      "dove": "organico"
+    },
+    "fondi di caffè": {
+      "dove": "organico"
+    },
+    "formaggi (scarti)": {
+      "dove": "organico"
+    },
+    "frutta": {
+      "dove": "organico"
+    },
+    "gusci d’uovo, frutta secca, molluschi, ecc.": {
+      "dove": "organico"
+    },
+    "lische di pesce": {
+      "dove": "organico"
+    },
+    "ossi": {
+      "dove": "organico"
+    },
+    "pane": {
+      "dove": "organico"
+    },
+    "pasta": {
+      "dove": "organico"
+    },
+    "pesce": {
+      "dove": "organico"
+    },
+    "pizza": {
+      "dove": "organico"
+    },
+    "riso": {
+      "dove": "organico"
+    },
+    "semi": {
+      "dove": "organico"
+    },
+    "stuzzicadenti": {
+      "dove": "organico"
+    },
+    "torsoli": {
+      "dove": "organico"
+    },
+    "tovaglioli di carta bagnati o unti di cibo": {
+      "dove": "organico"
+    },
+    "uova": {
+      "dove": "organico"
+    },
+    "verdura": {
+      "dove": "organico"
+    },
+    "accessori auto": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "acquaragia": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "alberi di natale": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "antiparassitari": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "antiruggine": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "abiti/grucce in metallo o plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "articoli per l’edilizia (tubi, guaine, ecc)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "asciugacapelli": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "aspirapolvere": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "asse da stiro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "bacinelle e contenitori in plastica rigida": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "bancali": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "barattoli di vernice e solventi": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "batterie esauste d’auto e moto": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "batterie e pile esauste": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "biciclette": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "bombolette spray etichettate t o f (insetticida, lacca, ecc)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "bulloneria": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "calcinacci (piccoli quantitativi)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "calcolatrici": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "caraffe di ceramica o terracotta": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cartucce d’inchiostro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "casco per moto": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cassapanca": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cassette in legno per la frutta": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cera per legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "ceramiche (piccoli quantitativi)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "ceste di grandi dimensioni": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cestini portafiuti in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cestini portarifiuti in metallo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "colle": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "computer": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "condizionatori": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "contenitori vuoti in plastica per ortoflorovivaismo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cuoio": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "cuscini": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "damigiane": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "diluenti": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "diserbanti": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "divani": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "elettrodomestici": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "ferro da stiro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "fili elettrici": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "finestra di legno (n. 01 unità)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "finestra in alluminio (n. 01 unità)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "fiori": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "fiori finti": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "foglie secche": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "forni elettrici": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "frigoriferi": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "giocattoli elettrici/elettronici": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "giocattoli in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "gomma piuma": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "grattuggia in metallo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "grattuggia in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "grucce in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "grucce in metallo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "infisso in alluminio (n. 01 unità)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "infisso in legno (n. 01 unità)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "infisso in plastica (n. 01 unità)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "insetticidi": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "isolanti (piccoli quantitativi)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lampadari": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lampade al neon": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lampadine a basso consumo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lampadine a filamento": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lastre di vetro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lastre radiografiche": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lavastoviglie": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lavatrici": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "legno verniciato": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "lettore cd/dvd": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "mastice": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "materassi": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "mensole in legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "mensole in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "mensole in vetro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "mobile in legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "monitor": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "neon": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "oli minerali esausti": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "oli vegetali esausti": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "ombrello": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "ovatta": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "pallets": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "pedane in legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "pedane in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "peluches": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "pentole": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "piastelle (piccoli quantitativi)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "piatti in ceramica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "pile e batterie": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "pirofile": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "plastica espansa per imballaggio (piccoli quantitativi)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "poltrona": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "posacenere": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "posate in acciaio": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "radio": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "rasoio elettrico": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "rubinetteria": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "sanitari": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "scaffali in ferro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "sci e scarponi da sci": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "secchielli di plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "sedie e sdraio in legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "sedie e sdraio in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "sedie e sdraio in metallo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "segatura pulita": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "seggiolone per bambini": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "sfalci di erba": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "smacchiatori": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "solventi": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "stampante": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "stereo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "stracci": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "strutture in ferro": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tagliere in legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tagliere in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tapparella (n. 01 unità)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tastiere per computer": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tavoli in legno": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tavoli in plastica": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tavoli in metallo": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "telefono": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "telefoni cellulari": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "televisori": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "termometri digitali": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tintura per scarpe": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "toner, cartucce per stampanti ecc": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "trucchi": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "tubi di gomma": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "valigie": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "vasi in terracotta": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "vetri rotti": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "vetro opale (boccette profumo)": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "vetro retinato": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "videoregistratore": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "zaini": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "zanzariera": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "zerbino": {
+      "dove": "centro",
+      "nota": "Verifica che il centro assegnato al tuo comune accetti questo materiale.",
+      "nota_en": "Check that your assigned recycling centre accepts this item."
+    },
+    "abiti usati": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "biancheria per la casa": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "borse di pelle o tela in buono stato": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "cappelli": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "cinture": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "coperte": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "cravatte": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "farmaci scaduti": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "scarpe": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "sciarpe": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "vestiti": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati sul territorio. Chiedi al gestore o al Comune dove trovarli."
+    },
+    "accendini": {
+      "dove": "indifferenziato"
+    },
+    "adesivi": {
+      "dove": "indifferenziato"
+    },
+    "assorbenti igienici": {
+      "dove": "indifferenziato"
+    },
+    "bianchetto vuoto": {
+      "dove": "indifferenziato"
+    },
+    "bottoni": {
+      "dove": "indifferenziato"
+    },
+    "calze di nylon": {
+      "dove": "indifferenziato"
+    },
+    "cancelleria (matite, biro, righelli, ecc)": {
+      "dove": "indifferenziato"
+    },
+    "carta accoppiata con alluminio": {
+      "dove": "indifferenziato"
+    },
+    "carta carbone": {
+      "dove": "indifferenziato"
+    },
+    "carta da forno": {
+      "dove": "indifferenziato"
+    },
+    "carta lucida da disegno": {
+      "dove": "indifferenziato"
+    },
+    "carta oleata per alimenti": {
+      "dove": "indifferenziato"
+    },
+    "carta plastificata": {
+      "dove": "indifferenziato"
+    },
+    "carta sporca di prodotti detergenti ecc": {
+      "dove": "indifferenziato"
+    },
+    "carta stagnola da cucina": {
+      "dove": "indifferenziato"
+    },
+    "carta vetrata": {
+      "dove": "indifferenziato"
+    },
+    "cassette audio e video e relative custodie": {
+      "dove": "indifferenziato"
+    },
+    "cd audio e video e relative custodie": {
+      "dove": "indifferenziato"
+    },
+    "cerotti": {
+      "dove": "indifferenziato"
+    },
+    "cialde macchina del caffè": {
+      "dove": "indifferenziato"
+    },
+    "cosmetici": {
+      "dove": "indifferenziato"
+    },
+    "cotone idrofilo": {
+      "dove": "indifferenziato"
+    },
+    "cottonfioc": {
+      "dove": "indifferenziato"
+    },
+    "dvd e relative custodie": {
+      "dove": "indifferenziato"
+    },
+    "elastici": {
+      "dove": "indifferenziato"
+    },
+    "etichette adesive": {
+      "dove": "indifferenziato"
+    },
+    "feltrini": {
+      "dove": "indifferenziato"
+    },
+    "filo da cucire": {
+      "dove": "indifferenziato"
+    },
+    "floppy disk": {
+      "dove": "indifferenziato"
+    },
+    "fotografie": {
+      "dove": "indifferenziato"
+    },
+    "gomma (cancelleria)": {
+      "dove": "indifferenziato"
+    },
+    "gomma da masticare": {
+      "dove": "indifferenziato"
+    },
+    "guanti in gomma": {
+      "dove": "indifferenziato"
+    },
+    "lamette": {
+      "dove": "indifferenziato"
+    },
+    "lettiere per animali domestici (in piccole quantità)": {
+      "dove": "indifferenziato"
+    },
+    "mozziconi di sigarette e sigari": {
+      "dove": "indifferenziato"
+    },
+    "nastro abrasivo": {
+      "dove": "indifferenziato"
+    },
+    "nastro adesivo": {
+      "dove": "indifferenziato"
+    },
+    "occhiali": {
+      "dove": "indifferenziato"
+    },
+    "oggetti in gomma": {
+      "dove": "indifferenziato"
+    },
+    "pannolini e pannoloni": {
+      "dove": "indifferenziato"
+    },
+    "pettini e spazzole": {
+      "dove": "indifferenziato"
+    },
+    "posate in plastica": {
+      "dove": "indifferenziato"
+    },
+    "profilattici": {
+      "dove": "indifferenziato"
+    },
+    "rasoio monouso": {
+      "dove": "indifferenziato"
+    },
+    "rullino fotografico": {
+      "dove": "indifferenziato"
+    },
+    "sacchetti per aspirapolvere usati": {
+      "dove": "indifferenziato"
+    },
+    "sacchetti per congelatore puliti": {
+      "dove": "indifferenziato"
+    },
+    "sapone": {
+      "dove": "indifferenziato"
+    },
+    "spazzolino da denti": {
+      "dove": "indifferenziato"
+    },
+    "spugne": {
+      "dove": "indifferenziato"
+    },
+    "stecchini in legno per gelato": {
+      "dove": "indifferenziato"
+    },
+    "tamponi per timbri": {
+      "dove": "indifferenziato"
+    },
+    "tappi di sughero": {
+      "dove": "indifferenziato"
+    },
+    "videocassette e relative custodie": {
+      "dove": "indifferenziato"
+    },
+    "agende di carta e/o cartoncino": {
+      "dove": "carta"
+    },
+    "bicchieri di carta": {
+      "dove": "carta"
+    },
+    "brick per succo di frutta, tè": {
+      "dove": "carta"
+    },
+    "buste di carta": {
+      "dove": "carta"
+    },
+    "calendari (togliere le parti non in plastica)": {
+      "dove": "carta"
+    },
+    "carta da cucina non unta": {
+      "dove": "carta"
+    },
+    "carta da pacco": {
+      "dove": "carta"
+    },
+    "carta del pane": {
+      "dove": "carta"
+    },
+    "cartone ondulato": {
+      "dove": "carta"
+    },
+    "cartone delle pizze puliti": {
+      "dove": "carta"
+    },
+    "cartoni per bevande (tetrapack)": {
+      "dove": "carta"
+    },
+    "cassette di cartone per la frutta": {
+      "dove": "carta"
+    },
+    "confezioni sagomate in cartone per uova": {
+      "dove": "carta"
+    },
+    "contenitori in cartone (sale, zucchero, ecc)": {
+      "dove": "carta"
+    },
+    "depliant se non plastificati": {
+      "dove": "carta"
+    },
+    "giornali": {
+      "dove": "carta"
+    },
+    "imballaggi di carta o cartone": {
+      "dove": "carta"
+    },
+    "libri (senza copertina plastificata)": {
+      "dove": "carta"
+    },
+    "quaderni": {
+      "dove": "carta"
+    },
+    "riviste non plastificate": {
+      "dove": "carta"
+    },
+    "sacchetti di carta": {
+      "dove": "carta"
+    },
+    "scatole in cartoncino": {
+      "dove": "carta"
+    },
+    "scontrini fiscali": {
+      "dove": "carta"
+    },
+    "tabulati in carta": {
+      "dove": "carta"
+    },
+    "tetrapack": {
+      "dove": "carta"
+    },
+    "tovaglioli di carta puliti": {
+      "dove": "carta"
+    },
+    "volantini non plastificati": {
+      "dove": "carta"
+    },
+    "siringhe con tappo sull’ago ed in contenitore rigido": {
+      "dove": "varia",
+      "nota": "Contenitori dedicati in ambulatorio. Chiedi al gestore o al Comune dove trovarli."
+    }
+  },
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro e lattine",
+      "nome_en": "Glass and cans"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-23, guida Val Cavallina Servizi. Verificare le particolarità locali."
+  }
+}

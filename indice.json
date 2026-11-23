@@ -22777,6 +22777,571 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "berzo-san-fermo",
+      "nome": "Berzo San Fermo",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-berzo-san-fermo.json",
+      "lat": 45.719384,
+      "lon": 9.903158,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/berzo-san-fermo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bianzano",
+      "nome": "Bianzano",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-bianzano.json",
+      "lat": 45.774503,
+      "lon": 9.920848,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bianzano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "borgo-di-terzo",
+      "nome": "Borgo di Terzo",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-borgo-di-terzo.json",
+      "lat": 45.721786,
+      "lon": 9.894848,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgo-di-terzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bossico",
+      "nome": "Bossico",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-bossico.json",
+      "lat": 45.828388,
+      "lon": 10.045059,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bossico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casazza",
+      "nome": "Casazza",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-casazza.json",
+      "lat": 45.749184,
+      "lon": 9.907258,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casazza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castro",
+      "nome": "Castro",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-castro.json",
+      "lat": 45.802987,
+      "lon": 10.06706,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cenate-sopra",
+      "nome": "Cenate Sopra",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-cenate-sopra.json",
+      "lat": 45.711865,
+      "lon": 9.823789,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cenate-sopra/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "chignolo-disola",
+      "nome": "Chignolo d'Isola",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-chignolo-disola.json",
+      "lat": 45.667579,
+      "lon": 9.527651,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/chignolo-disola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "costa-volpino",
+      "nome": "Costa Volpino",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-costa-volpino.json",
+      "lat": 45.829888,
+      "lon": 10.098161,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/costa-volpino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "endine-gaiano",
+      "nome": "Endine Gaiano",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-endine-gaiano.json",
+      "lat": 45.792486,
+      "lon": 9.969058,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/endine-gaiano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "entratico",
+      "nome": "Entratico",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-entratico.json",
+      "lat": 45.705615,
+      "lon": 9.874626,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/entratico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "fonteno",
+      "nome": "Fonteno",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-fonteno.json",
+      "lat": 45.757803,
+      "lon": 10.020207,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fonteno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "gaverina-terme",
+      "nome": "Gaverina Terme",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-gaverina-terme.json",
+      "lat": 45.755784,
+      "lon": 9.886657,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gaverina-terme/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grone",
+      "nome": "Grone",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-grone.json",
+      "lat": 45.727504,
+      "lon": 9.911202,
+      "zone": [
+        {
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/grone/zona-capoluogo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "santantonio-e-colli-di-san-fermo",
+          "nome": "Sant’Antonio e Colli di San Fermo",
+          "file": "comuni/grone/zona-santantonio-e-colli-di-san-fermo.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.vcsonline.it/comuni/grone/"
+    },
+    {
+      "id": "lovere",
+      "nome": "Lovere",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-lovere.json",
+      "lat": 45.816882,
+      "lon": 10.075214,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lovere/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "luzzana",
+      "nome": "Luzzana",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-luzzana.json",
+      "lat": 45.716393,
+      "lon": 9.880496,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/luzzana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "monasterolo-del-castello",
+      "nome": "Monasterolo del Castello",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-monasterolo-del-castello.json",
+      "lat": 45.763185,
+      "lon": 9.931658,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/monasterolo-del-castello/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "peia",
+      "nome": "Peia",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-peia.json",
+      "lat": 45.799761,
+      "lon": 9.900355,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/peia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pianico",
+      "nome": "Pianico",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-pianico.json",
+      "lat": 45.809887,
+      "lon": 10.04306,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pianico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "piazza-brembana",
+      "nome": "Piazza Brembana",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-piazza-brembana.json",
+      "lat": 45.947786,
+      "lon": 9.675623,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/piazza-brembana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ranzanico",
+      "nome": "Ranzanico",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-ranzanico.json",
+      "lat": 45.789229,
+      "lon": 9.935725,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ranzanico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "riva-di-solto",
+      "nome": "Riva di Solto",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-riva-di-solto.json",
+      "lat": 45.77357,
+      "lon": 10.039343,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/riva-di-solto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rogno",
+      "nome": "Rogno",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-rogno.json",
+      "lat": 45.857665,
+      "lon": 10.133545,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rogno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-giovanni-bianco",
+      "nome": "San Giovanni Bianco",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-san-giovanni-bianco.json",
+      "lat": 45.874075,
+      "lon": 9.653022,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-giovanni-bianco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "scanzorosciate",
+      "nome": "Scanzorosciate",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-scanzorosciate.json",
+      "lat": 45.710782,
+      "lon": 9.735055,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/scanzorosciate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "solto-collina",
+      "nome": "Solto Collina",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-solto-collina.json",
+      "lat": 45.781784,
+      "lon": 10.025203,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/solto-collina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "spinone-al-lago",
+      "nome": "Spinone al Lago",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-spinone-al-lago.json",
+      "lat": 45.767485,
+      "lon": 9.924158,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/spinone-al-lago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sovere",
+      "nome": "Sovere",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-sovere.json",
+      "lat": 45.820724,
+      "lon": 10.023098,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sovere/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "strozza",
+      "nome": "Strozza",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-strozza.json",
+      "lat": 45.773082,
+      "lon": 9.57745,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/strozza/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "terno-disola",
+      "nome": "Terno d'Isola",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-terno-disola.json",
+      "lat": 45.685479,
+      "lon": 9.530951,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/terno-disola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "vigano-san-martino",
+      "nome": "Vigano San Martino",
+      "provincia": "BG",
+      "gestore": "Val Cavallina Servizi",
+      "consorzio": "val-cavallina-servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi-vigano-san-martino.json",
+      "lat": 45.726531,
+      "lon": 9.89399,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/vigano-san-martino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -23009,6 +23574,12 @@
       "gestore": "Mantova Ambiente / AMSA",
       "ecocentri": "ecocentri/amsa-settimo-milanese.json",
       "regole": "regole/amsa-settimo-milanese.json"
+    },
+    "val-cavallina-servizi": {
+      "nome": "Val Cavallina Servizi",
+      "gestore": "Val Cavallina Servizi",
+      "ecocentri": "ecocentri/val-cavallina-servizi.json",
+      "regole": "regole/val-cavallina-servizi.json"
     }
   },
   "tipi_en": {

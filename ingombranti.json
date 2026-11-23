@@ -4322,6 +4322,79 @@
         "Book free collection once every 30 days. Current AMSA limits are 50 kg and 2.5 m per item.",
         "The booking system displays per-category and total limits. Dismantle items and set them out at the time specified."
       ]
+    },
+    {
+      "id": "val-cavallina-servizi",
+      "nome": "Val Cavallina Servizi",
+      "gestori": [],
+      "comuni": [
+        "berzo-san-fermo",
+        "bianzano",
+        "borgo-di-terzo",
+        "bossico",
+        "casazza",
+        "castro",
+        "cenate-sopra",
+        "chignolo-disola",
+        "costa-volpino",
+        "endine-gaiano",
+        "entratico",
+        "fonteno",
+        "gaverina-terme",
+        "grone",
+        "lovere",
+        "luzzana",
+        "monasterolo-del-castello",
+        "peia",
+        "pianico",
+        "piazza-brembana",
+        "ranzanico",
+        "riva-di-solto",
+        "rogno",
+        "san-giovanni-bianco",
+        "scanzorosciate",
+        "solto-collina",
+        "spinone-al-lago",
+        "strozza",
+        "terno-disola",
+        "vigano-san-martino"
+      ],
+      "telefono": "800 401 106",
+      "prenota_url": "https://www.vcsonline.it/ritiro-ingombranti/",
+      "prenotazione": false,
+      "fonte": "https://www.vcsonline.it/ritiro-ingombranti/",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Prenotare con il modulo del gestore. Al massimo due colli.",
+        "Gratuito per chi ha più di 75 anni o una disabilità documentata.",
+        "Negli altri casi, primo collo da 30 euro + IVA con un operatore o 60 euro + IVA con due. Secondo collo 8 euro + IVA. Attendere il preventivo."
+      ],
+      "regole_en": [
+        "Use the operator’s form to book collection for up to two items.",
+        "Free for people over 75 or with a documented disability.",
+        "Otherwise, the first item costs €30 plus VAT with one operator or €60 plus VAT with two. A second item costs €8 plus VAT. Wait for the quote."
+      ]
+    },
+    {
+      "id": "val-cavallina-servizi-sovere",
+      "nome": "Val Cavallina Servizi · Sovere",
+      "gestori": [],
+      "comuni": [
+        "sovere"
+      ],
+      "telefono": "800 401 106",
+      "prenota_url": "https://www.vcsonline.it/ritiro-ingombranti/",
+      "prenotazione": false,
+      "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/calendario-raccolta-2026_SOVERE_REV2.pdf | https://www.vcsonline.it/ritiro-ingombranti/",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Il calendario comunale indica ritiro gratuito per chi ha più di 75 anni e non è autosufficiente o vive solo.",
+        "Contatta Val Cavallina Servizi per verificare requisiti e prenotazione. Il modulo generale indica due colli al massimo."
+      ],
+      "regole_en": [
+        "The local calendar lists free collection for people over 75 who are not self-sufficient or live alone.",
+        "Ask Val Cavallina Servizi about eligibility and booking. The operator’s general form sets a two-item limit."
+      ]
     }
   ]
 }
