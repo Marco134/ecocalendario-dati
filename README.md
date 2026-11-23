@@ -9,6 +9,7 @@ Progetto non ufficiale: i dati sono trascritti dagli ecocalendari pubblicati dai
 - `indice.json`: elenco dei comuni e delle zone disponibili, con il percorso di ogni file.
 - `comuni/<comune>/zona-<id>.json`: un file per zona.
 - `strumenti/`: script usati per generare i file.
+  - `strumenti/verifica_seta.py CARTELLA_PDF [--dal AAAA-MM-GG] [--comune ID ...]`: confronta tutte le zone SETA (CB16) con i PDF ufficiali di setaspa.com (sigle lette come testo dal PDF, sottozone I-1A/I-1B comprese). Da usare a ogni rinnovo dei calendari SETA; esce con codice 1 se trova differenze.
 
 ## Formato di un file zona
 
