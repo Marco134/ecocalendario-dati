@@ -23591,7 +23591,8 @@
     "idealservice-vt": {
       "nome": "Comuni della Tuscia serviti da Idealservice",
       "gestore": "Idealservice",
-      "ecocentri": "ecocentri/idealservice-vt.json"
+      "ecocentri": "ecocentri/idealservice-vt.json",
+      "regole": "regole/idealservice-vt.json"
     },
     "cosp-tr": {
       "nome": "Comuni serviti da COSP Tecno Service",

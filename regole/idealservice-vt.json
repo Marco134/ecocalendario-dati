@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Idealservice · Tuscia",
+ "fonte": "Portale Idealservice (serviziambientali.idealservice.it)",
+ "voci": {},
+ "tipi": {
+  "organico": {
+   "nome": "Organico",
+   "nome_en": "Organic",
+   "colore": "#763B08"
+  },
+  "carta": {
+   "nome": "Carta e cartone",
+   "nome_en": "Paper and cardboard",
+   "colore": "#D3A200"
+  },
+  "plastica": {
+   "nome": "Plastica",
+   "nome_en": "Plastic",
+   "colore": "#D3A200"
+  },
+  "vetro": {
+   "colore": "#182383"
+  },
+  "indifferenziato": {
+   "nome": "Secco residuo",
+   "nome_en": "Residual waste",
+   "colore": "#858585"
+  }
+ },
+ "verificato": {
+  "voci": "nessuna regola specifica",
+  "colori": "2026-11-23, icone del portale Idealservice (uguali in tutti i comuni controllati)"
+ }
+}
