@@ -1,0 +1,1704 @@
+{
+  "schema": 1,
+  "nome": "Mantova Ambiente",
+  "fonte": "https://mantovaambiente.it/guida-sintetica-alla-raccolta-differenziata",
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro e lattine",
+      "nome_en": "Glass and metal packaging"
+    }
+  },
+  "voci": {
+    "abiti usati": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: contenitore abiti / indifferenziato. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: clothing bank / residual waste. Check the services in your town."
+    },
+    "accendini": {
+      "dove": "indifferenziato"
+    },
+    "acetone per unghie": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "adesivi": {
+      "dove": "indifferenziato"
+    },
+    "agende": {
+      "dove": "carta"
+    },
+    "aghi da cucito": {
+      "dove": "indifferenziato"
+    },
+    "aghi per siringhe": {
+      "dove": "indifferenziato"
+    },
+    "alberi di natale naturali": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: garden waste / recycling centre. Check the services in your town."
+    },
+    "alberi di natale sintetici": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "alimenti": {
+      "dove": "organico"
+    },
+    "alluminio": {
+      "dove": "vetro"
+    },
+    "amplificatori audio": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "antenne": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "antiparassitari": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "antiruggine": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "antitarli": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "arbusti": {
+      "dove": "sfalci"
+    },
+    "armadi in ferro": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "armadi in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "asciugacapelli": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "asciugatrici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "aspirapolvere": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "asse da stiro": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "assorbenti": {
+      "dove": "indifferenziato"
+    },
+    "attrezzi da giardino": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "attrezzi da orto": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "avanzi di cucina": {
+      "dove": "organico"
+    },
+    "bacinelle in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "bambole": {
+      "dove": "indifferenziato"
+    },
+    "bancali": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "bandiere": {
+      "dove": "indifferenziato"
+    },
+    "barattoli in alluminio": {
+      "dove": "vetro"
+    },
+    "barattoli in latta o banda stagnata": {
+      "dove": "vetro"
+    },
+    "barattoli in metallo": {
+      "dove": "vetro"
+    },
+    "barattoli in plastica": {
+      "dove": "plastica"
+    },
+    "barattoli in vetro": {
+      "dove": "vetro"
+    },
+    "bastoncini in legno": {
+      "dove": "organico"
+    },
+    "bastoncini per la pulizia delle orecchie": {
+      "dove": "indifferenziato"
+    },
+    "batterie per auto": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "batuffoli di cotone": {
+      "dove": "indifferenziato"
+    },
+    "bauli": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "bianchetti": {
+      "dove": "indifferenziato"
+    },
+    "bicchieri in plastica": {
+      "dove": "plastica"
+    },
+    "bicchieri in vetro": {
+      "dove": "vetro"
+    },
+    "biciclette": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "bidet": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "biglietti autobus in carta": {
+      "dove": "carta"
+    },
+    "bilancia da cucina o pesa persone": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "biro": {
+      "dove": "indifferenziato"
+    },
+    "blister in plastica": {
+      "dove": "plastica"
+    },
+    "blister medicine": {
+      "dove": "plastica"
+    },
+    "boiler scaldabagno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "bolle d'aria per imballaggio": {
+      "dove": "plastica"
+    },
+    "bombolette spray con simboli di pericolo": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "bombolette spray senza simboli di pericolo": {
+      "dove": "vetro"
+    },
+    "borsine in carta": {
+      "dove": "carta"
+    },
+    "borsine in materiale biodegradabile e compostabile": {
+      "dove": "organico"
+    },
+    "borsine in plastica": {
+      "dove": "plastica"
+    },
+    "bottiglie in plastica": {
+      "dove": "plastica"
+    },
+    "bottiglie in vetro": {
+      "dove": "vetro"
+    },
+    "bottoni": {
+      "dove": "indifferenziato"
+    },
+    "bucce": {
+      "dove": "organico"
+    },
+    "bulloneria": {
+      "dove": "vetro"
+    },
+    "busta in carta accoppiata con alluminio": {
+      "dove": "indifferenziato"
+    },
+    "buste in carta": {
+      "dove": "carta"
+    },
+    "buste in nylon": {
+      "dove": "plastica"
+    },
+    "buste in plastica": {
+      "dove": "plastica"
+    },
+    "buste in plastica argentata": {
+      "dove": "plastica"
+    },
+    "bustine per bevande": {
+      "dove": "organico"
+    },
+    "caffettiere": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "calamite": {
+      "dove": "indifferenziato"
+    },
+    "calcinacci": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "calcolatrici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "calendari in carta": {
+      "dove": "carta"
+    },
+    "calendari in plastica": {
+      "dove": "plastica"
+    },
+    "calze": {
+      "dove": "indifferenziato"
+    },
+    "candele": {
+      "dove": "indifferenziato"
+    },
+    "cannucce": {
+      "dove": "plastica"
+    },
+    "capelli": {
+      "dove": "indifferenziato"
+    },
+    "cappelli": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: indifferenziato / contenitore abiti. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: residual waste / clothing bank. Check the services in your town."
+    },
+    "capsule caffè compostabili": {
+      "dove": "organico"
+    },
+    "capsule caffè in alluminio": {
+      "dove": "vetro"
+    },
+    "capsule caffè in plastica": {
+      "dove": "plastica"
+    },
+    "caraffe in ceramica o terracotta": {
+      "dove": "indifferenziato"
+    },
+    "caraffe in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "caraffe in vetro": {
+      "dove": "vetro"
+    },
+    "carta": {
+      "dove": "carta"
+    },
+    "carta accoppiata con alluminio": {
+      "dove": "indifferenziato"
+    },
+    "carta assorbente da cucina bagnata": {
+      "dove": "carta"
+    },
+    "carta assorbente da cucina unta": {
+      "dove": "organico"
+    },
+    "carta carbone": {
+      "dove": "indifferenziato"
+    },
+    "carta catramata": {
+      "dove": "indifferenziato"
+    },
+    "carta da forno": {
+      "dove": "indifferenziato"
+    },
+    "carta da pacco": {
+      "dove": "carta"
+    },
+    "carta lucida da disegno": {
+      "dove": "indifferenziato"
+    },
+    "carta oleata per alimenti": {
+      "dove": "indifferenziato"
+    },
+    "carta per il pane": {
+      "dove": "carta"
+    },
+    "carta plastificata": {
+      "dove": "indifferenziato"
+    },
+    "carta sporca": {
+      "dove": "indifferenziato"
+    },
+    "carta stagnola in alluminio": {
+      "dove": "vetro"
+    },
+    "carta vetrata": {
+      "dove": "indifferenziato"
+    },
+    "carte paglia": {
+      "dove": "carta"
+    },
+    "cartone": {
+      "dove": "carta"
+    },
+    "cartone per pizza": {
+      "dove": "carta"
+    },
+    "cartucce d'inchiostro": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "casco per moto": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "cassapanche": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "cassette audio/video": {
+      "dove": "indifferenziato"
+    },
+    "cassette per frutta di cartone": {
+      "dove": "carta"
+    },
+    "cassette per frutta in legno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "cassette per frutta in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "cd": {
+      "dove": "indifferenziato"
+    },
+    "cellulari": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "cenere": {
+      "dove": "organico"
+    },
+    "cera per legno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "ceramiche": {
+      "dove": "indifferenziato"
+    },
+    "cerchioni": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "cerniere": {
+      "dove": "indifferenziato"
+    },
+    "cerotti": {
+      "dove": "indifferenziato"
+    },
+    "ceste": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "cestini portarifiuti": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "chewing gum": {
+      "dove": "indifferenziato"
+    },
+    "chiavi": {
+      "dove": "vetro"
+    },
+    "chiusura in carta stagnola": {
+      "dove": "vetro"
+    },
+    "chiusura lampo": {
+      "dove": "indifferenziato"
+    },
+    "cialde in materiale organico": {
+      "dove": "organico"
+    },
+    "cinture": {
+      "dove": "indifferenziato"
+    },
+    "collant": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: indifferenziato / contenitore abiti. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: residual waste / clothing bank. Check the services in your town."
+    },
+    "colle": {
+      "dove": "indifferenziato"
+    },
+    "computer": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "conchiglie": {
+      "dove": "organico"
+    },
+    "condizionatori": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "confezione caffè sottovuoto": {
+      "dove": "plastica"
+    },
+    "confezione in plastica": {
+      "dove": "plastica"
+    },
+    "confezioni in tetra pak": {
+      "dove": "carta"
+    },
+    "confezioni sagomate in plastica": {
+      "dove": "plastica"
+    },
+    "contenitori in cartone": {
+      "dove": "carta"
+    },
+    "contenitori in plastica": {
+      "dove": "plastica"
+    },
+    "contenitori in poliaccoppiati": {
+      "dove": "carta"
+    },
+    "contenitori in tetra pak": {
+      "dove": "carta"
+    },
+    "coperte": {
+      "dove": "indifferenziato"
+    },
+    "cosmetici": {
+      "dove": "indifferenziato"
+    },
+    "cotone idrofilo": {
+      "dove": "indifferenziato"
+    },
+    "cotton fioc": {
+      "dove": "indifferenziato"
+    },
+    "cravatte": {
+      "dove": "indifferenziato"
+    },
+    "cristalli": {
+      "dove": "indifferenziato"
+    },
+    "crostacei": {
+      "dove": "organico"
+    },
+    "croste in cera di formaggi": {
+      "dove": "indifferenziato"
+    },
+    "cuoio": {
+      "dove": "indifferenziato"
+    },
+    "cuscini": {
+      "dove": "indifferenziato"
+    },
+    "custodie": {
+      "dove": "indifferenziato"
+    },
+    "damigiane": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "depliant": {
+      "dove": "carta"
+    },
+    "diluenti": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "dischi vinile": {
+      "dove": "indifferenziato"
+    },
+    "divani": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "doghe": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "dvd": {
+      "dove": "indifferenziato"
+    },
+    "elastici": {
+      "dove": "indifferenziato"
+    },
+    "elettrodomestici": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "erba": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: garden waste / recycling centre. Check the services in your town."
+    },
+    "escrementi animali domestici": {
+      "dove": "organico"
+    },
+    "escrementi di animali": {
+      "dove": "organico"
+    },
+    "etichette adesive": {
+      "dove": "indifferenziato"
+    },
+    "farmaci scaduti": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: contenitore farmaci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: medicine bin / recycling centre. Check the services in your town."
+    },
+    "fazzolettini di carta usati": {
+      "dove": "organico"
+    },
+    "feci canine": {
+      "dove": "organico"
+    },
+    "feltrini": {
+      "dove": "indifferenziato"
+    },
+    "ferro": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "ferro da stiro": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "fiale in vetro e in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "fiale vuote in plastica": {
+      "dove": "plastica"
+    },
+    "fiale vuote in vetro": {
+      "dove": "vetro"
+    },
+    "fiammiferi": {
+      "dove": "organico"
+    },
+    "fiim in plastica d'imballaggio": {
+      "dove": "plastica"
+    },
+    "fil di ferro": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "fili elettrici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "filo per cucito": {
+      "dove": "indifferenziato"
+    },
+    "filtri per bevande": {
+      "dove": "organico"
+    },
+    "fiori finti": {
+      "dove": "indifferenziato"
+    },
+    "fiori recisi": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: organico / sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: food waste / garden waste / recycling centre. Check the services in your town."
+    },
+    "floppy disk": {
+      "dove": "indifferenziato"
+    },
+    "fogli in carta": {
+      "dove": "carta"
+    },
+    "foglie": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: organico / sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: food waste / garden waste / recycling centre. Check the services in your town."
+    },
+    "fondi di caffè": {
+      "dove": "organico"
+    },
+    "forni elettrici": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "friggitrici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "frigoriferi": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "frullatori": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "frutta": {
+      "dove": "organico"
+    },
+    "frutta secca": {
+      "dove": "organico"
+    },
+    "gabbiette in metallo": {
+      "dove": "vetro"
+    },
+    "garze": {
+      "dove": "indifferenziato"
+    },
+    "ghiaccio istantaneo": {
+      "dove": "indifferenziato"
+    },
+    "giocattoli": {
+      "dove": "indifferenziato"
+    },
+    "giocattoli elettrici/elettronici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "giornali": {
+      "dove": "carta"
+    },
+    "girelli": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection. Check the services in your town."
+    },
+    "gomma": {
+      "dove": "indifferenziato"
+    },
+    "gomma da masticare": {
+      "dove": "indifferenziato"
+    },
+    "gommapiuma": {
+      "dove": "indifferenziato"
+    },
+    "graffette": {
+      "dove": "vetro"
+    },
+    "granaglie": {
+      "dove": "organico"
+    },
+    "grattugia in materiale misto": {
+      "dove": "indifferenziato"
+    },
+    "grattugia in metallo": {
+      "dove": "vetro"
+    },
+    "grattugia in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "grucce in plastica": {
+      "dove": "plastica"
+    },
+    "grucce in legno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "grucce in metallo": {
+      "dove": "vetro"
+    },
+    "guanti in gomma o lattice": {
+      "dove": "indifferenziato"
+    },
+    "guanti in lattice": {
+      "dove": "indifferenziato"
+    },
+    "gusci conchiglie": {
+      "dove": "organico"
+    },
+    "gusci d'uovo": {
+      "dove": "organico"
+    },
+    "gusci frutta secca": {
+      "dove": "organico"
+    },
+    "imballaggi in carta o cartone": {
+      "dove": "carta"
+    },
+    "imballaggi in plastica o polistirolo": {
+      "dove": "plastica"
+    },
+    "incensi": {
+      "dove": "indifferenziato"
+    },
+    "inerti": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "infissi in alluminio": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "infissi in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "infissi in plastica": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "ingombranti": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "insetticidi": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "lamette da barba": {
+      "dove": "indifferenziato"
+    },
+    "lampadari": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "lampade a led": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "lampadine a basso consumo": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "lampadine auto": {
+      "dove": "indifferenziato"
+    },
+    "lampadine tradizionali": {
+      "dove": "indifferenziato"
+    },
+    "lastre": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "lastre fotografiche": {
+      "dove": "indifferenziato"
+    },
+    "lastre radiografiche": {
+      "dove": "indifferenziato"
+    },
+    "latta in banda stagnata": {
+      "dove": "vetro"
+    },
+    "lattine": {
+      "dove": "vetro"
+    },
+    "lattine per bevande": {
+      "dove": "vetro"
+    },
+    "lavandini": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "lavastoviglie": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "lavatrici": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "legno da potatura": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: garden waste / recycling centre. Check the services in your town."
+    },
+    "lenti a contatto": {
+      "dove": "indifferenziato"
+    },
+    "lettiere sintetiche": {
+      "dove": "indifferenziato"
+    },
+    "lettiere ecologiche": {
+      "dove": "organico"
+    },
+    "lettiere in argilla": {
+      "dove": "indifferenziato"
+    },
+    "lettore cd o dvd": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "libri": {
+      "dove": "carta"
+    },
+    "lische di pesce": {
+      "dove": "organico"
+    },
+    "magneti": {
+      "dove": "indifferenziato"
+    },
+    "mangime": {
+      "dove": "organico"
+    },
+    "mascherine": {
+      "dove": "indifferenziato"
+    },
+    "mastice": {
+      "dove": "indifferenziato"
+    },
+    "materassi": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "materiali in tetra pak": {
+      "dove": "carta"
+    },
+    "matite": {
+      "dove": "indifferenziato"
+    },
+    "mattoni": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "medicinali scaduti": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: centro di raccolta / contenitore farmaci. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: recycling centre / medicine bin. Check the services in your town."
+    },
+    "mensole": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "metallo": {
+      "dove": "vetro"
+    },
+    "mobili in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "molluschi": {
+      "dove": "organico"
+    },
+    "monitor": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "mozziconi": {
+      "dove": "indifferenziato"
+    },
+    "nastro abrasivo": {
+      "dove": "indifferenziato"
+    },
+    "nastro adesivo o da pacco": {
+      "dove": "indifferenziato"
+    },
+    "neon": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "noccioli della frutta": {
+      "dove": "organico"
+    },
+    "notebook": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "occhiali": {
+      "dove": "indifferenziato"
+    },
+    "oli alimetari": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "oli minerali": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "ombrelli": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "ombrelloni": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "ossi": {
+      "dove": "organico"
+    },
+    "ovatta": {
+      "dove": "indifferenziato"
+    },
+    "pacchetti sigarette": {
+      "dove": "carta"
+    },
+    "pallets": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "palloncini": {
+      "dove": "indifferenziato"
+    },
+    "pane": {
+      "dove": "organico"
+    },
+    "panni elettrostatici per la polvere": {
+      "dove": "indifferenziato"
+    },
+    "pannolini": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: indifferenziato / raccolta pannolini e pannoloni. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: residual waste / nappy collection. Check the services in your town."
+    },
+    "pannoloni": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: indifferenziato / raccolta pannolini e pannoloni. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: residual waste / nappy collection. Check the services in your town."
+    },
+    "passeggini per bambini": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "pasta": {
+      "dove": "organico"
+    },
+    "pedane in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "pedane in plastica": {
+      "dove": "indifferenziato"
+    },
+    "peli degli animali": {
+      "dove": "indifferenziato"
+    },
+    "pellicole in alluminio": {
+      "dove": "vetro"
+    },
+    "pellicole in plastica": {
+      "dove": "plastica"
+    },
+    "peluche": {
+      "dove": "indifferenziato"
+    },
+    "pennarelli": {
+      "dove": "indifferenziato"
+    },
+    "penne biro": {
+      "dove": "indifferenziato"
+    },
+    "pennelli": {
+      "dove": "indifferenziato"
+    },
+    "pentole": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "pesce": {
+      "dove": "organico"
+    },
+    "pettini": {
+      "dove": "indifferenziato"
+    },
+    "piastre in metallo": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "piastrelle": {
+      "dove": "indifferenziato"
+    },
+    "piastrine per zanzare": {
+      "dove": "indifferenziato"
+    },
+    "piatti in carta": {
+      "dove": "carta"
+    },
+    "piatti in ceramica": {
+      "dove": "indifferenziato"
+    },
+    "piatti in plastica": {
+      "dove": "plastica"
+    },
+    "pile": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: centro di raccolta / contenitore pile. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: recycling centre / battery bin. Check the services in your town."
+    },
+    "pirofile": {
+      "dove": "indifferenziato"
+    },
+    "piume": {
+      "dove": "organico"
+    },
+    "pizza": {
+      "dove": "organico"
+    },
+    "plastica": {
+      "dove": "plastica"
+    },
+    "plastica espansa": {
+      "dove": "plastica"
+    },
+    "pluriball": {
+      "dove": "plastica"
+    },
+    "pneumatici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "polistirolo": {
+      "dove": "plastica"
+    },
+    "poltrone": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "porcellana": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "porte in ferro": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "porte in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "porte in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "posate in acciaio": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "posate in plastica": {
+      "dove": "indifferenziato"
+    },
+    "potature": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: garden waste / recycling centre. Check the services in your town."
+    },
+    "preservativi": {
+      "dove": "indifferenziato"
+    },
+    "profilattici": {
+      "dove": "indifferenziato"
+    },
+    "quaderni": {
+      "dove": "carta"
+    },
+    "quadri": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "radiatori elettrici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "radio": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "rami e resti da potature": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: garden waste / recycling centre. Check the services in your town."
+    },
+    "rasoi": {
+      "dove": "indifferenziato"
+    },
+    "reggette": {
+      "dove": "plastica"
+    },
+    "reti in ferro": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "retine in plastica": {
+      "dove": "plastica"
+    },
+    "righelli": {
+      "dove": "indifferenziato"
+    },
+    "ringhiere in ferro": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "ringhiere in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "ringhiere in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "riso": {
+      "dove": "organico"
+    },
+    "riviste": {
+      "dove": "carta"
+    },
+    "rubinetteria": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "rullini fotografici": {
+      "dove": "indifferenziato"
+    },
+    "sacche in tela": {
+      "dove": "indifferenziato"
+    },
+    "sacche urine": {
+      "dove": "indifferenziato"
+    },
+    "sacchetti in carta": {
+      "dove": "carta"
+    },
+    "sacchetti in cellophane": {
+      "dove": "plastica"
+    },
+    "sacchetti in plastica argentata": {
+      "dove": "plastica"
+    },
+    "sacchetti per aspirapolvere": {
+      "dove": "indifferenziato"
+    },
+    "sacchi per materiale edile": {
+      "dove": "indifferenziato"
+    },
+    "salviette": {
+      "dove": "indifferenziato"
+    },
+    "salviette detergenti": {
+      "dove": "indifferenziato"
+    },
+    "salviette in carta": {
+      "dove": "carta"
+    },
+    "sanitari": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "saponette": {
+      "dove": "indifferenziato"
+    },
+    "scaffali in ferro": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "scaldasonno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "scarpe": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: indifferenziato / contenitore abiti. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: residual waste / clothing bank. Check the services in your town."
+    },
+    "scarponi": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: contenitore abiti. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: clothing bank. Check the services in your town."
+    },
+    "scarponi da sci": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "scatole in cartoncino": {
+      "dove": "carta"
+    },
+    "scatole in plastica": {
+      "dove": "plastica"
+    },
+    "sci": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "scontrini fiscali": {
+      "dove": "indifferenziato"
+    },
+    "scopa": {
+      "dove": "indifferenziato"
+    },
+    "scopino da wc": {
+      "dove": "indifferenziato"
+    },
+    "secchielli di plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "sedie e sdraio in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "sedie e sdraio in metallo": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "sedie e sdraio in plastica": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "segatura pulita": {
+      "dove": "organico"
+    },
+    "segatura sporca": {
+      "dove": "indifferenziato"
+    },
+    "seggiolone": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "semi": {
+      "dove": "organico"
+    },
+    "sfalci di erba": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: sfalci / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: garden waste / recycling centre. Check the services in your town."
+    },
+    "shopper in carta": {
+      "dove": "carta"
+    },
+    "shopper in plastica": {
+      "dove": "plastica"
+    },
+    "shopper in tela": {
+      "dove": "indifferenziato"
+    },
+    "sigarette": {
+      "dove": "indifferenziato"
+    },
+    "silicone": {
+      "dove": "indifferenziato"
+    },
+    "siringhe": {
+      "dove": "indifferenziato"
+    },
+    "smacchiatori": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "smalto per unghie": {
+      "dove": "indifferenziato"
+    },
+    "sottovasi in plastica": {
+      "dove": "plastica"
+    },
+    "spago alimentare": {
+      "dove": "organico"
+    },
+    "spago da pacchi": {
+      "dove": "indifferenziato"
+    },
+    "spazzole": {
+      "dove": "indifferenziato"
+    },
+    "spazzolini da denti": {
+      "dove": "indifferenziato"
+    },
+    "specchi": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "spugne": {
+      "dove": "indifferenziato"
+    },
+    "stampanti": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "stecchini in legno": {
+      "dove": "organico"
+    },
+    "stereo": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "stoffa": {
+      "dove": "indifferenziato"
+    },
+    "stracci": {
+      "dove": "indifferenziato"
+    },
+    "strumenti musicali": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "strutto": {
+      "dove": "organico"
+    },
+    "stufe elettriche": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "stuzzicadenti": {
+      "dove": "organico"
+    },
+    "tabulati": {
+      "dove": "carta"
+    },
+    "tagliere in legno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "tagliere in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "tamponi per timbri": {
+      "dove": "indifferenziato"
+    },
+    "tapparelle": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "tappi in alluminio o metallo": {
+      "dove": "vetro"
+    },
+    "tappi in plastica": {
+      "dove": "plastica"
+    },
+    "tappi in sughero": {
+      "dove": "indifferenziato"
+    },
+    "tastiere per computer": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "tavoli in legno": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "tavoli in metallo": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "tavoli in plastica": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "tazzine": {
+      "dove": "indifferenziato"
+    },
+    "telefoni": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "televisori": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "temperini": {
+      "dove": "indifferenziato"
+    },
+    "termometri digitali": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "terriccio": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: organico / sfalci. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: food waste / garden waste. Check the services in your town."
+    },
+    "tintura per scarpe": {
+      "dove": "indifferenziato"
+    },
+    "toner": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "torsoli": {
+      "dove": "organico"
+    },
+    "tostapane": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "tovaglia in tnt": {
+      "dove": "indifferenziato"
+    },
+    "tovaglioli di carta bagnati o unti": {
+      "dove": "organico"
+    },
+    "tovaglioli di carta puliti": {
+      "dove": "carta"
+    },
+    "trapani": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "traverse igieniche per animali": {
+      "dove": "indifferenziato"
+    },
+    "trielina": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "trucchi": {
+      "dove": "indifferenziato"
+    },
+    "truciolato": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "tubetto in plastica": {
+      "dove": "plastica"
+    },
+    "tubi in gomma": {
+      "dove": "indifferenziato"
+    },
+    "uncinetti": {
+      "dove": "indifferenziato"
+    },
+    "uova": {
+      "dove": "organico"
+    },
+    "valigie": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "vaschette in alluminio": {
+      "dove": "vetro"
+    },
+    "vaschette in plastica": {
+      "dove": "plastica"
+    },
+    "vasetti in plastica": {
+      "dove": "plastica"
+    },
+    "vasetti in plastica per piante": {
+      "dove": "plastica"
+    },
+    "vasetti in vetro": {
+      "dove": "vetro"
+    },
+    "vasi in terracotta": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "vassoi in polistirolo": {
+      "dove": "plastica"
+    },
+    "ventilatori elettrici": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "verdura": {
+      "dove": "organico"
+    },
+    "vestiti usati": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: indifferenziato / contenitore abiti. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: residual waste / clothing bank. Check the services in your town."
+    },
+    "vetro": {
+      "dove": "vetro"
+    },
+    "vetro opale": {
+      "dove": "vetro"
+    },
+    "vetro retinato": {
+      "dove": "indifferenziato"
+    },
+    "videocamere": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "videocassette": {
+      "dove": "indifferenziato"
+    },
+    "videoregistratori": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "vimini": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "volantini": {
+      "dove": "carta"
+    },
+    "water": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "zaini": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "zanzariere": {
+      "dove": "varia",
+      "nota": "Opzioni indicate dal gestore: ritiro ingombranti / centro di raccolta. Verificare il servizio del proprio comune.",
+      "nota_en": "Options listed by the operator: bulky waste collection / recycling centre. Check the services in your town."
+    },
+    "zerbini": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "zoccoli in legno": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "zoccoli in plastica": {
+      "dove": "centro",
+      "nota": "Verificare che il centro del proprio comune accetti questo materiale.",
+      "nota_en": "Check that your local recycling centre accepts this material."
+    },
+    "zucchero": {
+      "dove": "organico"
+    }
+  },
+  "verificato": {
+    "voci": "2026-11-23, guida Mantova Ambiente. Escluso Settimo Milanese."
+  }
+}

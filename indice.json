@@ -21926,6 +21926,306 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "asola",
+      "nome": "Asola",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-asola.json",
+      "lat": 45.22112,
+      "lon": 10.413065,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/asola/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bagnolo-san-vito",
+      "nome": "Bagnolo San Vito",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-bagnolo-san-vito.json",
+      "lat": 45.092253,
+      "lon": 10.880429,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bagnolo-san-vito/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casalmoro",
+      "nome": "Casalmoro",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-casalmoro.json",
+      "lat": 45.259577,
+      "lon": 10.404478,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casalmoro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casaloldo",
+      "nome": "Casaloldo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-casaloldo.json",
+      "lat": 45.254777,
+      "lon": 10.474379,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casaloldo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casalromano",
+      "nome": "Casalromano",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-casalromano.json",
+      "lat": 45.200675,
+      "lon": 10.369378,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casalromano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castelbelforte",
+      "nome": "Castelbelforte",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-castelbelforte.json",
+      "lat": 45.214712,
+      "lon": 10.892761,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelbelforte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castel-goffredo",
+      "nome": "Castel Goffredo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-castel-goffredo.json",
+      "lat": 45.295278,
+      "lon": 10.472982,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/castel-goffredo/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/castel-goffredo/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/castel-goffredo"
+    },
+    {
+      "id": "marmirolo",
+      "nome": "Marmirolo",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-marmirolo.json",
+      "lat": 45.220563,
+      "lon": 10.756393,
+      "zone": [
+        {
+          "id": "marmirolo",
+          "nome": "Marmirolo",
+          "file": "comuni/marmirolo/zona-marmirolo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Frazioni",
+          "file": "comuni/marmirolo/zona-frazioni.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/marmirolo"
+    },
+    {
+      "id": "porto-mantovano",
+      "nome": "Porto Mantovano",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-porto-mantovano.json",
+      "lat": 45.192526,
+      "lon": 10.755221,
+      "zone": [
+        {
+          "id": "zona-a1",
+          "nome": "Zona A1",
+          "file": "comuni/porto-mantovano/zona-zona-a1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-a2",
+          "nome": "Zona A2",
+          "file": "comuni/porto-mantovano/zona-zona-a2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-a3",
+          "nome": "Zona A3",
+          "file": "comuni/porto-mantovano/zona-zona-a3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b4",
+          "nome": "Zona B4",
+          "file": "comuni/porto-mantovano/zona-zona-b4.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b5",
+          "nome": "Zona B5",
+          "file": "comuni/porto-mantovano/zona-zona-b5.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b6",
+          "nome": "Zona B6",
+          "file": "comuni/porto-mantovano/zona-zona-b6.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/porto-mantovano/raccolta-e-trasporto-porto-mantovano/zone-raccolta-porto-mantovano"
+    },
+    {
+      "id": "roverbella",
+      "nome": "Roverbella",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-roverbella.json",
+      "lat": 45.26578,
+      "lon": 10.767527,
+      "zone": [
+        {
+          "id": "roverbella",
+          "nome": "Roverbella",
+          "file": "comuni/roverbella/zona-roverbella.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Frazioni",
+          "file": "comuni/roverbella/zona-frazioni.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/roverbella/raccolta-e-trasporto-roverbella/zone-di-raccolta-roverbella"
+    },
+    {
+      "id": "san-giacomo-delle-segnate",
+      "nome": "San Giacomo delle Segnate",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-san-giacomo-delle-segnate.json",
+      "lat": 44.972575,
+      "lon": 11.033097,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-giacomo-delle-segnate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-giorgio-bigarello",
+      "nome": "San Giorgio Bigarello",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-san-giorgio-bigarello.json",
+      "lat": 45.18053,
+      "lon": 10.871789,
+      "zone": [
+        {
+          "id": "zona-azzurra",
+          "nome": "Zona azzurra",
+          "file": "comuni/san-giorgio-bigarello/zona-zona-azzurra.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-arancio",
+          "nome": "Zona arancio",
+          "file": "comuni/san-giorgio-bigarello/zona-zona-arancio.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/san-giorgio-e-bigarello"
+    },
+    {
+      "id": "borgo-mantovano",
+      "nome": "Borgo Mantovano",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-borgo-mantovano.json",
+      "lat": 45.026484,
+      "lon": 11.121971,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/borgo-mantovano/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/borgo-mantovano/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://mantovaambiente.it/comuni/borgo-mantovano-1"
     }
   ],
   "consorzi": {
@@ -22146,6 +22446,12 @@
       "gestore": "ASET",
       "ecocentri": "ecocentri/aset-pergola.json",
       "regole": "regole/aset.json"
+    },
+    "mantova-ambiente": {
+      "nome": "Mantova Ambiente",
+      "gestore": "Mantova Ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente.json",
+      "regole": "regole/mantova-ambiente.json"
     }
   },
   "tipi_en": {

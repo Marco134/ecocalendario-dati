@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "comune": "Borgo Mantovano",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona B",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del giorno di raccolta.",
+  "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4862887/Borgo-Mantovano_MA-calendario2026_mono_02-WEB.pdf",
+  "note": [
+    "Vetro e lattine si conferiscono insieme.",
+    "Il ritiro degli sfalci a domicilio è attivabile acquistando il contenitore dedicato.",
+    "Per i giorni degli sfalci attivati consultare il calendario ufficiale collegato."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-24": [
+      "carta"
+    ],
+    "2026-11-25": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "organico",
+      "vetro"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "carta"
+    ],
+    "2026-12-02": [
+      "plastica"
+    ],
+    "2026-12-03": [
+      "organico"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-08": [
+      "carta"
+    ],
+    "2026-12-09": [
+      "plastica"
+    ],
+    "2026-12-10": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "carta"
+    ],
+    "2026-12-16": [
+      "plastica"
+    ],
+    "2026-12-17": [
+      "organico"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-22": [
+      "carta"
+    ],
+    "2026-12-23": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "carta"
+    ],
+    "2026-12-30": [
+      "plastica"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  }
+}

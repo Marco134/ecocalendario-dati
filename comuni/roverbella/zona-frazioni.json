@@ -1,0 +1,88 @@
+{
+  "schema": 1,
+  "comune": "Roverbella",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Frazioni",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del giorno di raccolta.",
+  "fonte": "https://www.comune.roverbella.mn.it/dam/jcr%3Acad63371-664e-4423-8b82-a66449c466bd/Roverbella_MA-calendario2026_mono_01-WEB.pdf",
+  "note": [
+    "Vetro e lattine si conferiscono insieme.",
+    "Il ritiro degli sfalci a domicilio è attivabile acquistando il contenitore dedicato.",
+    "Per i giorni degli sfalci attivati consultare il calendario ufficiale collegato."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "carta"
+    ],
+    "2026-11-27": [
+      "organico"
+    ],
+    "2026-11-28": [
+      "plastica"
+    ],
+    "2026-11-30": [
+      "organico"
+    ],
+    "2026-12-01": [
+      "vetro"
+    ],
+    "2026-12-04": [
+      "organico"
+    ],
+    "2026-12-05": [
+      "plastica"
+    ],
+    "2026-12-07": [
+      "organico"
+    ],
+    "2026-12-08": [
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "carta"
+    ],
+    "2026-12-11": [
+      "organico"
+    ],
+    "2026-12-12": [
+      "plastica"
+    ],
+    "2026-12-14": [
+      "organico"
+    ],
+    "2026-12-15": [
+      "vetro"
+    ],
+    "2026-12-18": [
+      "organico"
+    ],
+    "2026-12-19": [
+      "plastica"
+    ],
+    "2026-12-21": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "carta",
+      "organico"
+    ],
+    "2026-12-26": [
+      "plastica"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-29": [
+      "vetro"
+    ],
+    "2026-12-31": [
+      "organico"
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": 1,
+  "comune": "Casalromano",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del giorno di raccolta.",
+  "fonte": "https://comune.casalromano.mn.it/it-it/download/calendario-2026-458677-4-1693-bc93a4ec301aaffaca4f003826f892d8",
+  "note": [
+    "Vetro e lattine si conferiscono insieme.",
+    "Gli sfalci dei residenti si conferiscono nei contenitori dedicati descritti nel calendario."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "plastica"
+    ],
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-25": [
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "vetro"
+    ],
+    "2026-11-30": [
+      "plastica"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "carta"
+    ],
+    "2026-12-07": [
+      "plastica"
+    ],
+    "2026-12-08": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "vetro"
+    ],
+    "2026-12-14": [
+      "plastica"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-16": [
+      "carta"
+    ],
+    "2026-12-21": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-23": [
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "vetro"
+    ],
+    "2026-12-28": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "carta"
+    ]
+  }
+}

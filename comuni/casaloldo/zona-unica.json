@@ -1,0 +1,53 @@
+{
+  "schema": 1,
+  "comune": "Casaloldo",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del giorno di raccolta.",
+  "fonte": "https://static.mantovaambiente.it/4a/96/casaloldo_ma-calendario2026_mono_01-web.pdf",
+  "note": [
+    "Vetro e lattine si conferiscono insieme.",
+    "Gli sfalci si conferiscono nelle eco-box al centro sportivo, zona magazzini comunali, lun–sab 08:00–19:00."
+  ],
+  "raccolte": {
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-04": [
+      "vetro"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "indifferenziato"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-16": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-18": [
+      "vetro"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-28": [
+      "organico"
+    ],
+    "2026-12-30": [
+      "carta",
+      "plastica"
+    ]
+  }
+}

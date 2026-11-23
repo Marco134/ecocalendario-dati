@@ -1,0 +1,77 @@
+{
+  "schema": 1,
+  "comune": "San Giorgio Bigarello",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona azzurra",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del giorno di raccolta.",
+  "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/2026_ecocalendario.pdf",
+  "note": [
+    "Vetro e lattine si conferiscono insieme.",
+    "Il ritiro degli sfalci a domicilio è attivabile acquistando il contenitore dedicato.",
+    "Per i giorni degli sfalci attivati consultare il calendario ufficiale collegato."
+  ],
+  "raccolte": {
+    "2026-11-25": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "carta",
+      "vetro"
+    ],
+    "2026-11-27": [
+      "plastica"
+    ],
+    "2026-11-28": [
+      "organico"
+    ],
+    "2026-12-02": [
+      "organico"
+    ],
+    "2026-12-04": [
+      "indifferenziato",
+      "plastica"
+    ],
+    "2026-12-05": [
+      "organico"
+    ],
+    "2026-12-09": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-11": [
+      "plastica"
+    ],
+    "2026-12-12": [
+      "organico"
+    ],
+    "2026-12-16": [
+      "organico"
+    ],
+    "2026-12-18": [
+      "plastica"
+    ],
+    "2026-12-19": [
+      "organico"
+    ],
+    "2026-12-23": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-26": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-30": [
+      "organico"
+    ]
+  }
+}

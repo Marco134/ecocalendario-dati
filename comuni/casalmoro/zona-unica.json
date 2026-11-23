@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "comune": "Casalmoro",
+  "provincia": "MN",
+  "gestore": "Mantova Ambiente",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre la sera prima del giorno di raccolta.",
+  "fonte": "https://www.comune.casalmoro.mn.it/it-it/download/ecocalendario-2026-458098-4-1717-9d6a8e5a0c1849841aa143f191417992",
+  "note": [
+    "Vetro e lattine si conferiscono insieme.",
+    "Il ritiro degli sfalci a domicilio è attivabile acquistando il contenitore dedicato.",
+    "Per i giorni degli sfalci attivati consultare il calendario ufficiale collegato."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico"
+    ],
+    "2026-11-26": [
+      "plastica"
+    ],
+    "2026-11-27": [
+      "indifferenziato"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-08": [
+      "organico"
+    ],
+    "2026-12-10": [
+      "plastica"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-22": [
+      "organico"
+    ],
+    "2026-12-24": [
+      "plastica"
+    ],
+    "2026-12-25": [
+      "indifferenziato"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "carta",
+      "vetro"
+    ]
+  }
+}

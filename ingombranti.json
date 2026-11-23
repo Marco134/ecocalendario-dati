@@ -4182,6 +4182,60 @@
       ],
       "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/10/Allegato-5-Disciplinare-ingombranti-rev-02-del-16.06.2026.pdf | https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/raccolta-rifiuti-ingombranti/",
       "verificato": "2026-11-22"
+    },
+    {
+      "id": "mantova-ambiente",
+      "nome": "Mantova Ambiente",
+      "gestori": [],
+      "comuni": [
+        "asola",
+        "bagnolo-san-vito",
+        "borgo-mantovano",
+        "casalmoro",
+        "casaloldo",
+        "casalromano",
+        "castel-goffredo",
+        "castelbelforte",
+        "marmirolo",
+        "porto-mantovano",
+        "roverbella",
+        "san-giorgio-bigarello"
+      ],
+      "telefono": "800 473 165",
+      "orari": "Lun–ven 08:00–18:00 e sab 09:00–13:00",
+      "prenotazione": false,
+      "prenota_url": "https://mantovaambiente.it/dove-siamo",
+      "fonte": "https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Portare gli ingombranti al centro indicato dal proprio comune oppure prenotare la raccolta a domicilio gratuita.",
+        "Esporre al massimo cinque colli davanti all’abitazione la sera prima del ritiro."
+      ],
+      "regole_en": [
+        "Take bulky waste to the centre assigned to your town or book free home collection.",
+        "Leave up to five items outside your home on the evening before collection."
+      ]
+    },
+    {
+      "id": "mantova-ambiente-san-giacomo",
+      "nome": "Comune di San Giacomo delle Segnate",
+      "gestori": [],
+      "comuni": [
+        "san-giacomo-delle-segnate"
+      ],
+      "telefono": "0376 616101",
+      "tipo_numero": "telefono",
+      "prenotazione": false,
+      "fonte": "https://static.mantovaambiente.it/a3/37/sangiacomodellesegnate_ma-calendario2026_mono_00-web.pdf",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Conferire gli ingombranti al centro di Quistello. Il ritiro a domicilio è a pagamento su prenotazione.",
+        "Per la tariffa consultare la delibera comunale n. 77 del 31 luglio 2024 o chiedere al Comune."
+      ],
+      "regole_en": [
+        "Take bulky waste to the recycling centre in Quistello. Home collection is available for a fee by appointment.",
+        "See municipal resolution no. 77 of 31 July 2024 or ask the municipality for the charge."
+      ]
     }
   ]
 }
