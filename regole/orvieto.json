@@ -20,14 +20,35 @@
   }
  },
  "tipi": {
+  "organico": {
+   "nome": "Organico",
+   "nome_en": "Organic",
+   "colore": "#793719"
+  },
+  "carta": {
+   "nome": "Carta e cartone",
+   "nome_en": "Paper and cardboard",
+   "colore": "#254899"
+  },
   "plastica": {
    "nome": "Plastica e metalli",
-   "nome_en": "Plastic and metals"
+   "nome_en": "Plastic and metals",
+   "colore": "#F1DD28"
+  },
+  "vetro": {
+   "nome": "Vetro",
+   "nome_en": "Glass",
+   "colore": "#277E39"
+  },
+  "indifferenziato": {
+   "nome": "Indifferenziato",
+   "nome_en": "General waste",
+   "colore": "#4F4C4D"
   }
  },
  "verificato": {
   "voci": "2026-11-18, calendario COSP Orvieto Nord 2026",
-  "colori": "da verificare",
+  "colori": "2026-11-23, calendario COSP Orvieto Nord 2026 (PDF ufficiale)",
   "extra": "2026-11-19, Abecedario della differenziata COSP (ATI 4)"
  },
  "extra": [
