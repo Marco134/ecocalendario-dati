@@ -4479,6 +4479,34 @@
       "regole_en": [
         "Free home collection within Aprica’s limits. Book first, dismantle furniture and follow the booking instructions."
       ]
+    },
+    {
+      "id": "massimi",
+      "nome": "Massimi Eco Soluzioni",
+      "gestori": [
+        "Massimi Eco Soluzioni"
+      ],
+      "comuni": [
+        "bagnoregio"
+      ],
+      "prenota_url": null,
+      "account": null,
+      "account_en": null,
+      "telefono": "800600701",
+      "orari": "Chiama il numero verde per prenotare il ritiro",
+      "orari_en": "Call the toll-free number to book a pickup",
+      "data": "comunicata",
+      "stampa": "promemoria",
+      "cartello": null,
+      "esponi_entro": null,
+      "regole": [
+        "Prenota il ritiro al numero verde 800 600701"
+      ],
+      "regole_en": [
+        "Book the pickup on the toll-free number 800 600701"
+      ],
+      "fonte": "https://www.massimiecologia.it/bagnoregio",
+      "verificato": "2026-11-23"
     }
   ]
 }

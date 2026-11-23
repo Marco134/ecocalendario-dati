@@ -1034,6 +1034,29 @@
       ]
     },
     {
+      "id": "bagnoregio",
+      "nome": "Bagnoregio",
+      "provincia": "VT",
+      "gestore": "Massimi Eco Soluzioni",
+      "consorzio": "bagnoregio",
+      "lat": 42.6267,
+      "lon": 12.0906,
+      "zone": [
+        {
+          "id": "capoluogo-frazioni",
+          "nome": "Capoluogo, frazioni e nuclei urbani sparsi",
+          "file": "comuni/bagnoregio/zona-capoluogo-frazioni.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "campagne-case-sparse",
+          "nome": "Campagne, case sparse, nuclei minori e zona PIP Capraccia",
+          "file": "comuni/bagnoregio/zona-campagne-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bairo",
       "nome": "Bairo",
       "provincia": "TO",
@@ -23762,6 +23785,12 @@
       "gestore": "Aprica",
       "ecocentri": "ecocentri/aprica-seriate.json",
       "regole": "regole/aprica-seriate.json"
+    },
+    "bagnoregio": {
+      "nome": "Comune di Bagnoregio",
+      "gestore": "Massimi Eco Soluzioni",
+      "ecocentri": "ecocentri/bagnoregio.json",
+      "regole": "regole/bagnoregio.json"
     }
   },
   "tipi_en": {

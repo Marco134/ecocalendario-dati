@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "nome": "Massimi Eco Soluzioni · Bagnoregio",
+ "fonte": "Ecocalendario 2026 del Comune di Bagnoregio",
+ "voci": {},
+ "tipi": {
+  "organico": {
+   "nome": "Scarti alimentari e organici",
+   "nome_en": "Food and organic waste",
+   "colore": "#8E521B"
+  },
+  "plastica": {
+   "nome": "Imballaggi in plastica",
+   "nome_en": "Plastic packaging",
+   "colore": "#FBE114"
+  },
+  "carta": {
+   "nome": "Carta, cartone e cartoni per bevande",
+   "nome_en": "Paper, cardboard and drink cartons",
+   "colore": "#233E79"
+  },
+  "indifferenziato": {
+   "nome": "Indifferenziato non riciclabile",
+   "nome_en": "Non-recyclable waste",
+   "colore": "#5B7987"
+  },
+  "vetro": {
+   "nome": "Vetro e metalli",
+   "nome_en": "Glass and metals",
+   "colore": "#169D71"
+  }
+ },
+ "verificato": {
+  "voci": "nessuna regola specifica",
+  "colori": "2026-11-23, ecocalendario 2026 del Comune di Bagnoregio"
+ }
+}
