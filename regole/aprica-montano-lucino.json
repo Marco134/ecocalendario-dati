@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "nome": "Aprica · Montano Lucino",
+  "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/montano-lucino-calendario-rd.pdf | https://www.apricaspa.it/it/montano-lucino/servizi/centro-raccolta-rifiuti | https://www.apricaspa.it/it/montano-lucino/servizi/dove-lo-butto | https://comune.montanolucino.co.it/s3/4245/allegati/allegati/allegati-pagine-sito/raccolta-differenziata-volantino-nuovi-servizi.pdf",
+  "voci": {
+    "armadio": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "bicicletta": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "carta": {
+      "dove": "carta"
+    },
+    "cartone": {
+      "dove": "carta"
+    },
+    "computer": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "condizionatore": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "congelatore": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "divano": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "finestra": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "frigorifero": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "imballaggio in plastica": {
+      "dove": "plastica"
+    },
+    "imballaggio in vetro": {
+      "dove": "vetro",
+      "nota": "Con i metalli."
+    },
+    "lattine": {
+      "dove": "vetro",
+      "nota": "Con il vetro."
+    },
+    "lavastoviglie": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "lavatrice": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "materasso": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "moquette": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "pannolini": {
+      "dove": "varia",
+      "nota": "Contattare l’ufficio ecologia per il servizio dedicato. Il calendario indica il martedì."
+    },
+    "pannoloni": {
+      "dove": "varia",
+      "nota": "Contattare l’ufficio ecologia per il servizio dedicato. Il calendario indica il martedì."
+    },
+    "porta": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "rifiuto organico": {
+      "dove": "organico"
+    },
+    "scaldabagno": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "tavolo": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "televisore": {
+      "dove": "centro",
+      "nota": "Centro di via Sant’Andrea. Per quantità, ingombri e utenze consultare il gestore."
+    },
+    "traverse sanitarie": {
+      "dove": "varia",
+      "nota": "Contattare l’ufficio ecologia per il servizio dedicato. Il calendario indica il martedì."
+    }
+  },
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro e metalli",
+      "nome_en": "Glass and metal"
+    }
+  },
+  "verificato": {
+    "voci": "Calendario, materiali ammessi al centro e informazioni specifiche del gestore. Per altri materiali verificare il rifiutario locale."
+  }
+}

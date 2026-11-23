@@ -1,0 +1,82 @@
+{
+  "schema": 1,
+  "comune": "Montano Lucino",
+  "provincia": "CO",
+  "gestore": "Aprica",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre dalle 21:00 della sera precedente alle 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/montano-lucino-calendario-rd.pdf | https://www.apricaspa.it/it/montano-lucino/servizi/raccolta-differenziata",
+  "note": [
+    "Dal febbraio 2026 l’indifferenziato viene ritirato ogni due settimane. Il calendario indica organico e plastica il 25 dicembre. Per pannolini e pannoloni il Comune offre un servizio dedicato su richiesta."
+  ],
+  "raccolte": {
+    "2026-11-24": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-11-26": [
+      "carta",
+      "vetro"
+    ],
+    "2026-11-27": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-01": [
+      "organico"
+    ],
+    "2026-12-03": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-04": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-08": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-10": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-11": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-15": [
+      "organico"
+    ],
+    "2026-12-17": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-18": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-22": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-24": [
+      "carta",
+      "vetro"
+    ],
+    "2026-12-25": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-29": [
+      "organico"
+    ],
+    "2026-12-31": [
+      "carta",
+      "vetro"
+    ]
+  }
+}

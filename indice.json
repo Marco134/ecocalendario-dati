@@ -23439,6 +23439,42 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "montano-lucino",
+      "nome": "Montano Lucino",
+      "provincia": "CO",
+      "gestore": "Aprica",
+      "consorzio": "aprica-montano-lucino",
+      "ecocentri": "ecocentri/aprica-montano-lucino.json",
+      "lat": 45.790331,
+      "lon": 9.027521,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montano-lucino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "nembro",
+      "nome": "Nembro",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "consorzio": "aprica-nembro",
+      "ecocentri": "ecocentri/aprica-nembro.json",
+      "lat": 45.743974,
+      "lon": 9.759275,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nembro/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -23683,6 +23719,18 @@
       "gestore": "Aprica",
       "ecocentri": "ecocentri/aprica-torre-boldone.json",
       "regole": "regole/aprica-torre-boldone.json"
+    },
+    "aprica-montano-lucino": {
+      "nome": "Aprica · Montano Lucino",
+      "gestore": "Aprica",
+      "ecocentri": "ecocentri/aprica-montano-lucino.json",
+      "regole": "regole/aprica-montano-lucino.json"
+    },
+    "aprica-nembro": {
+      "nome": "Aprica · Nembro",
+      "gestore": "Aprica",
+      "ecocentri": "ecocentri/aprica-nembro.json",
+      "regole": "regole/aprica-nembro.json"
     }
   },
   "tipi_en": {

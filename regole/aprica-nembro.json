@@ -1,0 +1,68 @@
+{
+  "schema": 1,
+  "nome": "Aprica · Nembro",
+  "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/nembro-calendario-rd.pdf | https://www.apricaspa.it/it/nembro/servizi/centro-raccolta-rifiuti | https://www.apricaspa.it/it/nembro/servizi/dove-lo-butto",
+  "voci": {
+    "batteria per auto": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Una al mese."
+    },
+    "carta": {
+      "dove": "carta"
+    },
+    "cartone": {
+      "dove": "carta"
+    },
+    "imballaggio in plastica": {
+      "dove": "plastica"
+    },
+    "imballaggio in vetro": {
+      "dove": "vetro",
+      "nota": "Con i metalli."
+    },
+    "inerti": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Il gestore indica 400 kg all’anno e una tariffa per gli eccedenti."
+    },
+    "lattine": {
+      "dove": "vetro",
+      "nota": "Con il vetro."
+    },
+    "olio alimentare": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Oli e grassi: 10 kg al mese."
+    },
+    "pneumatico": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Per le famiglie il gestore indica una tariffa dal quinto pneumatico all’anno."
+    },
+    "rifiuto organico": {
+      "dove": "organico"
+    },
+    "sfalci": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Per le famiglie il gestore indica una tariffa oltre 200 kg annui."
+    },
+    "toner": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Due al mese."
+    },
+    "tubo al neon": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Tre al mese."
+    },
+    "vernice": {
+      "dove": "centro",
+      "nota": "Centro di via Marconi. Tre conferimenti al mese. Oltre 10 kg annui, il sito indica una tariffa per le utenze domestiche."
+    }
+  },
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro e metalli",
+      "nome_en": "Glass and metal"
+    }
+  },
+  "verificato": {
+    "voci": "Calendario, materiali ammessi al centro e informazioni specifiche del gestore. Per altri materiali verificare il rifiutario locale."
+  }
+}

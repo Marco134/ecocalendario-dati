@@ -4422,6 +4422,44 @@
         "Collection is free. Disposal is charged by weight through the waste tax.",
         "Dismantle furniture and set it out during the time window specified when booking."
       ]
+    },
+    {
+      "id": "aprica-montano-lucino",
+      "nome": "Aprica · Montano Lucino",
+      "gestori": [],
+      "comuni": [
+        "montano-lucino"
+      ],
+      "telefono": "800 437 678",
+      "prenota_url": "https://www.apricaspa.it/it/montano-lucino/servizi/prenotazione-ritiro-ingombranti",
+      "prenotazione": false,
+      "fonte": "https://www.apricaspa.it/it/montano-lucino/servizi/prenotazione-ritiro-ingombranti | https://comune.montanolucino.co.it/s3/4245/allegati/allegati/allegati-pagine-sito/raccolta-differenziata-volantino-nuovi-servizi.pdf",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Ritirano gratuitamente fino a cinque pezzi per intervento. Prenota al numero verde 800 437 678."
+      ],
+      "regole_en": [
+        "Free collection for up to five items per appointment. Call 800 437 678 to book."
+      ]
+    },
+    {
+      "id": "aprica-nembro",
+      "nome": "Aprica · Nembro",
+      "gestori": [],
+      "comuni": [
+        "nembro"
+      ],
+      "telefono": "800 437 678",
+      "prenota_url": "https://www.apricaspa.it/it/nembro/servizi/prenotazione-ritiro-ingombranti",
+      "prenotazione": false,
+      "fonte": "https://www.apricaspa.it/it/nembro/servizi/prenotazione-ritiro-ingombranti | https://content.apricaspa.it/sites/default/files/2025-12/nembro-calendario-rd.pdf",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Ritiro per le famiglie il secondo e quarto sabato del mese. Prenotare almeno 15 giorni prima. Tariffa fissa 43 euro IVA inclusa addebitata nella prima bolletta TARI successiva."
+      ],
+      "regole_en": [
+        "Collection for households on the second and fourth Saturday of the month. Book at least 15 days in advance. The fixed €43 fee including VAT is charged on the next waste tax bill."
+      ]
     }
   ]
 }
