@@ -710,6 +710,13 @@
    "nota_en": "Recycling centre or retailer collection points."
   },
   {
+   "nome": "fazzoletti di carta usati",
+   "dove": "organico",
+   "nota": "Fazzoletti e tovaglioli di carta usati vanno nell'organico; la confezione di plastica va nella plastica.",
+   "nome_en": "used paper tissues",
+   "nota_en": "Used paper tissues and napkins go in organic waste; the plastic wrapper goes in plastic."
+  },
+  {
    "nome": "tovaglioli di carta sporchi di cibo",
    "dove": "organico",
    "nota": "",
