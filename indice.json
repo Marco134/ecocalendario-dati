@@ -22728,6 +22728,55 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "mantova",
+      "nome": "Mantova",
+      "provincia": "MN",
+      "gestore": "Mantova Ambiente",
+      "consorzio": "mantova-ambiente",
+      "ecocentri": "ecocentri/mantova-ambiente-mantova.json",
+      "lat": 45.169362,
+      "lon": 10.670616,
+      "zone_url": "https://mantovaambiente.it/comuni/mantova/raccolta-e-trasporto-mantova/zone-di-raccolta-mantova",
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1 · Angeli, Belfiore e altri quartieri",
+          "file": "comuni/mantova/zona-zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2 · Boma, Cittadella e altri quartieri",
+          "file": "comuni/mantova/zona-zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3 · Migliaretto, Te Brunetti e Valletta Paiolo",
+          "file": "comuni/mantova/zona-zona-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-4",
+          "nome": "Zona 4 · Frassino, Valletta Valsecchi e Virgiliana",
+          "file": "comuni/mantova/zona-zona-4.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "isole-lunetta-ponte-rosso",
+          "nome": "Lunetta e Ponte Rosso · Isole stradali",
+          "file": "comuni/mantova/zona-isole-lunetta-ponte-rosso.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico · Citybin e ritiri per indirizzo",
+          "file": "comuni/mantova/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
