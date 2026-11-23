@@ -4399,6 +4399,29 @@
         "The local calendar lists free collection for people over 75 who are not self-sufficient or live alone.",
         "Ask Val Cavallina Servizi about eligibility and booking. The operator’s general form sets a two-item limit."
       ]
+    },
+    {
+      "id": "aprica-torre-boldone",
+      "nome": "Aprica · Torre Boldone",
+      "gestori": [],
+      "comuni": [
+        "torre-boldone"
+      ],
+      "telefono": "800 437 678",
+      "prenota_url": "https://www.apricaspa.it/it/torre-boldone/servizi/prenotazione-ritiro-ingombranti",
+      "prenotazione": false,
+      "fonte": "https://www.apricaspa.it/it/torre-boldone/servizi/prenotazione-ritiro-ingombranti | https://comune.torreboldone.bg.it/servizi/servizio-dettaglio/3273695",
+      "verificato": "2026-11-23",
+      "regole": [
+        "Ritiro su prenotazione il primo e il terzo lunedì del mese.",
+        "Il ritiro è gratuito. Il costo di smaltimento dipende dal peso e viene addebitato nella tassa rifiuti.",
+        "Smontare i mobili ed esporli nella fascia oraria indicata alla prenotazione."
+      ],
+      "regole_en": [
+        "Book collection for the first or third Monday of the month.",
+        "Collection is free. Disposal is charged by weight through the waste tax.",
+        "Dismantle furniture and set it out during the time window specified when booking."
+      ]
     }
   ]
 }

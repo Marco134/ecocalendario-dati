@@ -23421,6 +23421,24 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "torre-boldone",
+      "nome": "Torre Boldone",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "consorzio": "aprica-torre-boldone",
+      "ecocentri": "ecocentri/aprica-torre-boldone.json",
+      "lat": 45.716272,
+      "lon": 9.708189,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/torre-boldone/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -23659,6 +23677,12 @@
       "gestore": "Val Cavallina Servizi",
       "ecocentri": "ecocentri/val-cavallina-servizi.json",
       "regole": "regole/val-cavallina-servizi.json"
+    },
+    "aprica-torre-boldone": {
+      "nome": "Aprica · Torre Boldone",
+      "gestore": "Aprica",
+      "ecocentri": "ecocentri/aprica-torre-boldone.json",
+      "regole": "regole/aprica-torre-boldone.json"
     }
   },
   "tipi_en": {

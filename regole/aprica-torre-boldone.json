@@ -1,0 +1,224 @@
+{
+  "schema": 1,
+  "nome": "Aprica · Torre Boldone",
+  "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4878851/Calendario-raccolta-differenziata-2026.pdf | https://www.apricaspa.it/it/torre-boldone/servizi/centro-raccolta-rifiuti | https://www.apricaspa.it/it/torre-boldone/servizi/ecocar | https://www.apricaspa.it/it/torre-boldone/servizi/dove-lo-butto",
+  "voci": {
+    "ammoniaca": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "armadio": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "asciugacapelli": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "batterie": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "bombolette spray": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "calcinacci": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "candeggina": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "carta": {
+      "dove": "carta"
+    },
+    "cartone": {
+      "dove": "carta"
+    },
+    "cellulare": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "ceramica": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "computer": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "condizionatore": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "congelatore": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "cucina": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "disotturante": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "divano": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "finestra": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "frigorifero": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "frullatore": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "imballaggio in plastica": {
+      "dove": "plastica"
+    },
+    "imballaggio in vetro": {
+      "dove": "vetro"
+    },
+    "imballaggio metallico": {
+      "dove": "vetro"
+    },
+    "insetticida": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "lampada fluorescente": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "lattine": {
+      "dove": "vetro"
+    },
+    "lavastoviglie": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "lavatrice": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "lettore cd": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "lettore dvd": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "macerie": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "materasso": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "monitor": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "moquette": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "pile scariche": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "poltrona": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "porcellana": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "porta": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "rifiuto indifferenziato": {
+      "dove": "indifferenziato"
+    },
+    "rifiuto organico": {
+      "dove": "organico"
+    },
+    "sanitari": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "scaldabagno": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "sedia": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "soda caustica": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "solventi": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "stampante": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "surgelatore": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "tablet": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "tapparella": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "tavolo": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "televisore": {
+      "dove": "centro",
+      "nota": "Centro di viale Lombardia 69. Per limiti di accesso o di quantità verifica con il gestore."
+    },
+    "termometro": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "tubo al neon": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    },
+    "vernici": {
+      "dove": "varia",
+      "nota": "Porta all’Ecocar, il secondo mercoledì del mese 08:00–12:00 davanti all’area mercato."
+    }
+  },
+  "tipi": {
+    "vetro": {
+      "nome": "Vetro e metalli",
+      "nome_en": "Glass and metal"
+    }
+  },
+  "verificato": {
+    "voci": "Categorie del calendario comunale e materiali elencati da Aprica per il centro e l’Ecocar. Per altre voci consultare Dove lo butto di Aprica."
+  }
+}

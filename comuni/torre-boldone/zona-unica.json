@@ -1,0 +1,81 @@
+{
+  "schema": 1,
+  "comune": "Torre Boldone",
+  "provincia": "BG",
+  "gestore": "Aprica",
+  "zona": "Zona unica",
+  "valido_dal": "2026-11-23",
+  "valido_al": "2026-12-31",
+  "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+  "esposizione_entro": "06:00",
+  "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4878851/Calendario-raccolta-differenziata-2026.pdf",
+  "note": [
+    "Vetro e metalli si conferiscono insieme nel contenitore con coperchio verde.",
+    "Il calendario comunale indica il ritiro dell’indifferenziato anche il 25 dicembre 2026. Controlla eventuali avvisi del Comune."
+  ],
+  "raccolte": {
+    "2026-11-23": [
+      "organico",
+      "vetro"
+    ],
+    "2026-11-25": [
+      "carta",
+      "plastica"
+    ],
+    "2026-11-27": [
+      "indifferenziato"
+    ],
+    "2026-11-30": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-02": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-04": [
+      "indifferenziato"
+    ],
+    "2026-12-07": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-09": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-11": [
+      "indifferenziato"
+    ],
+    "2026-12-14": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-16": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-18": [
+      "indifferenziato"
+    ],
+    "2026-12-21": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-23": [
+      "carta",
+      "plastica"
+    ],
+    "2026-12-25": [
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "organico",
+      "vetro"
+    ],
+    "2026-12-30": [
+      "carta",
+      "plastica"
+    ]
+  }
+}
