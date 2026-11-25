@@ -1920,7 +1920,10 @@
    "nome": "Cernusco Lombardone",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via degli Alpini 6 e via Lecco 41. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "cernusco-sul-naviglio",
@@ -2375,7 +2378,10 @@
    "nome": "Costa Masnaga",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via Mazzini presso casetta acqua. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "crandola-valsassina",
@@ -2396,7 +2402,10 @@
    "nome": "Cremella",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via Carlo Sessa. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "cremeno",
@@ -2653,7 +2662,10 @@
    "nome": "Ello",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via Repubblica presso casetta acqua. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "erve",
@@ -3170,7 +3182,10 @@
    "nome": "Imbersago",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via Mattei presso casetta acqua. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "inarzo",
@@ -3299,7 +3314,10 @@
    "nome": "La Valletta Brianza",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via Statale 29. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "lanzada",
@@ -3434,7 +3452,10 @@
    "nome": "Lomagna",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributori: Via Kennedy 20 e via del Roccolo presso centro raccolta. FAQ gestore: QR comunale per UND; sacchi rossi 110 L dove attiva misurazione puntuale, esclusi utenti con cassonetto taggato. Calendario, festività e servizi locali da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "lombardore",
