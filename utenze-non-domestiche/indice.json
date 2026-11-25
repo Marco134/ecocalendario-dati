@@ -29,6 +29,12 @@
    "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
    "zone": [
     {
+     "id": "nord",
+     "nome": "Nord – area intensa e area vasta",
+     "file": "comuni/orvieto/zona-nord.json",
+     "valido_al": "2026-12-31"
+    },
+    {
      "id": "sud",
      "nome": "Sud – area intensa e area vasta",
      "file": "comuni/orvieto/zona-sud.json",

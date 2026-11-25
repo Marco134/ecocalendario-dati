@@ -1,0 +1,8125 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
+ "totale": 1159,
+ "comuni": [
+  {
+   "id": "abbadia-lariana",
+   "nome": "Abbadia Lariana",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "acquapendente",
+   "nome": "Acquapendente",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "acquasparta",
+   "nome": "Acquasparta",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "aglie",
+   "nome": "Agliè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "agordo",
+   "nome": "Agordo",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "agra",
+   "nome": "Agra",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "agrate-brianza",
+   "nome": "Agrate Brianza",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "agrate-conturbia",
+   "nome": "Agrate Conturbia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "aicurzio",
+   "nome": "Aicurzio",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "airasca",
+   "nome": "Airasca",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "airuno",
+   "nome": "Airuno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ala-di-stura",
+   "nome": "Ala di Stura",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "alba",
+   "nome": "Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "albiano-d-ivrea",
+   "nome": "Albiano d'Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "albizzate",
+   "nome": "Albizzate",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "albosaggia",
+   "nome": "Albosaggia",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "alleghe",
+   "nome": "Alleghe",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "allerona",
+   "nome": "Allerona",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "almese",
+   "nome": "Almese",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "alpette",
+   "nome": "Alpette",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "alpignano",
+   "nome": "Alpignano",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "altivole",
+   "nome": "Altivole",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "alviano",
+   "nome": "Alviano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "amelia",
+   "nome": "Amelia",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ameno",
+   "nome": "Ameno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "andalo-valtellino",
+   "nome": "Andalo Valtellino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "andezeno",
+   "nome": "Andezeno",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "andrate",
+   "nome": "Andrate",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "angolo-terme",
+   "nome": "Angolo Terme",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "angrogna",
+   "nome": "Angrogna",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "annone-di-brianza",
+   "nome": "Annone di Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "antrona-schieranco",
+   "nome": "Antrona Schieranco",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "anzola-d-ossola",
+   "nome": "Anzola d'Ossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "aprica",
+   "nome": "Aprica",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arcade",
+   "nome": "Arcade",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arcore",
+   "nome": "Arcore",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ardenno",
+   "nome": "Ardenno",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arignano",
+   "nome": "Arignano",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arizzano",
+   "nome": "Arizzano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arlena-di-castro",
+   "nome": "Arlena di Castro",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "armeno",
+   "nome": "Armeno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arola",
+   "nome": "Arola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arona",
+   "nome": "Arona",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "artogne",
+   "nome": "Artogne",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "asolo",
+   "nome": "Asolo",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "attigliano",
+   "nome": "Attigliano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "aurano",
+   "nome": "Aurano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "avigliana",
+   "nome": "Avigliana",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "avigliano-umbro",
+   "nome": "Avigliano Umbro",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "azeglio",
+   "nome": "Azeglio",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "azzate",
+   "nome": "Azzate",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "azzio",
+   "nome": "Azzio",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "baceno",
+   "nome": "Baceno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bagnoregio",
+   "nome": "Bagnoregio",
+   "provincia": "VT",
+   "gestore": "Massimi Eco Soluzioni",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bairo",
+   "nome": "Bairo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "balangero",
+   "nome": "Balangero",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "baldissero-canavese",
+   "nome": "Baldissero Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "baldissero-torinese",
+   "nome": "Baldissero Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "baldissero-d-alba",
+   "nome": "Baldissero d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ballabio",
+   "nome": "Ballabio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "balme",
+   "nome": "Balme",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "banchette",
+   "nome": "Banchette",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bannio-anzino",
+   "nome": "Bannio Anzino",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barbania",
+   "nome": "Barbania",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barbarano-romano",
+   "nome": "Barbarano Romano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barbaresco",
+   "nome": "Barbaresco",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bardonecchia",
+   "nome": "Bardonecchia",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barlassina",
+   "nome": "Barlassina",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barolo",
+   "nome": "Barolo",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barone-canavese",
+   "nome": "Barone Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barzago",
+   "nome": "Barzago",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barzano",
+   "nome": "Barzanò",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barzio",
+   "nome": "Barzio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "baschi",
+   "nome": "Baschi",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "basiano",
+   "nome": "Basiano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "baveno",
+   "nome": "Baveno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bee",
+   "nome": "Bee",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "beinasco",
+   "nome": "Beinasco",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "beinette",
+   "nome": "Beinette",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "belgirate",
+   "nome": "Belgirate",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bellano",
+   "nome": "Bellano",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bellinzago-lombardo",
+   "nome": "Bellinzago Lombardo",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bellusco",
+   "nome": "Bellusco",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bene-vagienna",
+   "nome": "Bene Vagienna",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "berbenno-di-valtellina",
+   "nome": "Berbenno di Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bernareggio",
+   "nome": "Bernareggio",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bernezzo",
+   "nome": "Bernezzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "berzo-demo",
+   "nome": "Berzo Demo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "berzo-inferiore",
+   "nome": "Berzo Inferiore",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "besnate",
+   "nome": "Besnate",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "beura-cardezza",
+   "nome": "Beura-Cardezza",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bianzone",
+   "nome": "Bianzone",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "biassono",
+   "nome": "Biassono",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bibiana",
+   "nome": "Bibiana",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bienno",
+   "nome": "Bienno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bobbio-pellice",
+   "nome": "Bobbio Pellice",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "boca",
+   "nome": "Boca",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bodio-lomnago",
+   "nome": "Bodio Lomnago",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bognanco",
+   "nome": "Bognanco",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bogogno",
+   "nome": "Bogogno",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bollengo",
+   "nome": "Bollengo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bolsena",
+   "nome": "Bolsena",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bolzano-novarese",
+   "nome": "Bolzano Novarese",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borca-di-cadore",
+   "nome": "Borca di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgaro-torinese",
+   "nome": "Borgaro Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgiallo",
+   "nome": "Borgiallo",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgo-san-dalmazzo",
+   "nome": "Borgo San Dalmazzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgo-san-giovanni",
+   "nome": "Borgo San Giovanni",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgo-ticino",
+   "nome": "Borgo Ticino",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgofranco-d-ivrea",
+   "nome": "Borgofranco d'Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgomanero",
+   "nome": "Borgomanero",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgomasino",
+   "nome": "Borgomasino",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgomezzavalle",
+   "nome": "Borgomezzavalle",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgone-susa",
+   "nome": "Borgone Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bormio",
+   "nome": "Bormio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borno",
+   "nome": "Borno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borso-del-grappa",
+   "nome": "Borso del Grappa",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bosconero",
+   "nome": "Bosconero",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bosisio-parini",
+   "nome": "Bosisio Parini",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "boves",
+   "nome": "Boves",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bra",
+   "nome": "Bra",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brandizzo",
+   "nome": "Brandizzo",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "braone",
+   "nome": "Braone",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "breda-di-piave",
+   "nome": "Breda di Piave",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "breno",
+   "nome": "Breno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brenta",
+   "nome": "Brenta",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brezzo-di-bedero",
+   "nome": "Brezzo di Bedero",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bricherasio",
+   "nome": "Bricherasio",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "briga-novarese",
+   "nome": "Briga Novarese",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brinzio",
+   "nome": "Brinzio",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brissago-valtravaglia",
+   "nome": "Brissago-Valtravaglia",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brivio",
+   "nome": "Brivio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brosso",
+   "nome": "Brosso",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brovello-carpugnino",
+   "nome": "Brovello-Carpugnino",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brozolo",
+   "nome": "Brozolo",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brugherio",
+   "nome": "Brugherio",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bruino",
+   "nome": "Bruino",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brusasco",
+   "nome": "Brusasco",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bruzolo",
+   "nome": "Bruzolo",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "buglio-in-monte",
+   "nome": "Buglio in Monte",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bulciago",
+   "nome": "Bulciago",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "burago-di-molgora",
+   "nome": "Burago di Molgora",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "buriasco",
+   "nome": "Buriasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "burolo",
+   "nome": "Burolo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "busano",
+   "nome": "Busano",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "busca",
+   "nome": "Busca",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "busnago",
+   "nome": "Busnago",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bussero",
+   "nome": "Bussero",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bussoleno",
+   "nome": "Bussoleno",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "buttigliera-alta",
+   "nome": "Buttigliera Alta",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caerano-di-san-marco",
+   "nome": "Caerano di San Marco",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cafasse",
+   "nome": "Cafasse",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caiolo",
+   "nome": "Caiolo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calasca-castiglione",
+   "nome": "Calasca-Castiglione",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calcinato",
+   "nome": "Calcinato",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calco",
+   "nome": "Calco",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calolziocorte",
+   "nome": "Calolziocorte",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caluso",
+   "nome": "Caluso",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calvagese-della-riviera",
+   "nome": "Calvagese della Riviera",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cambiago",
+   "nome": "Cambiago",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cambiano",
+   "nome": "Cambiano",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cambiasca",
+   "nome": "Cambiasca",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "camparada",
+   "nome": "Camparada",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "campiglione-fenile",
+   "nome": "Campiglione Fenile",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "canale",
+   "nome": "Canale",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "canale-d-agordo",
+   "nome": "Canale d'Agordo",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "candia-canavese",
+   "nome": "Candia Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "candiolo",
+   "nome": "Candiolo",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "canino",
+   "nome": "Canino",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "canischio",
+   "nome": "Canischio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cannero-riviera",
+   "nome": "Cannero Riviera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cannobio",
+   "nome": "Cannobio",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cantalupa",
+   "nome": "Cantalupa",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cantoira",
+   "nome": "Cantoira",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "capo-di-ponte",
+   "nome": "Capo di Ponte",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "capodimonte",
+   "nome": "Capodimonte",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caponago",
+   "nome": "Caponago",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caprezzo",
+   "nome": "Caprezzo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caprie",
+   "nome": "Caprie",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caprino-bergamasco",
+   "nome": "Caprino Bergamasco",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caraglio",
+   "nome": "Caraglio",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carate-brianza",
+   "nome": "Carate Brianza",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caravate",
+   "nome": "Caravate",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caravino",
+   "nome": "Caravino",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carbonera",
+   "nome": "Carbonera",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carema",
+   "nome": "Carema",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carenno",
+   "nome": "Carenno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carignano",
+   "nome": "Carignano",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carmagnola",
+   "nome": "Carmagnola",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carnate",
+   "nome": "Carnate",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carpiano",
+   "nome": "Carpiano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carpignano-sesia",
+   "nome": "Carpignano Sesia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "carugate",
+   "nome": "Carugate",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casalborgone",
+   "nome": "Casalborgone",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casale-corte-cerro",
+   "nome": "Casale Corte Cerro",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casale-litta",
+   "nome": "Casale Litta",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casale-sul-sile",
+   "nome": "Casale sul Sile",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casaletto-lodigiano",
+   "nome": "Casaletto Lodigiano",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casalmaiocco",
+   "nome": "Casalmaiocco",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casalzuigno",
+   "nome": "Casalzuigno",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casargo",
+   "nome": "Casargo",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casatenovo",
+   "nome": "Casatenovo",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cascinette-d-ivrea",
+   "nome": "Cascinette d'Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caselette",
+   "nome": "Caselette",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caselle-lurani",
+   "nome": "Caselle Lurani",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caselle-torinese",
+   "nome": "Caselle Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casier",
+   "nome": "Casier",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "caspoggio",
+   "nome": "Caspoggio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cassago-brianza",
+   "nome": "Cassago Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cassano-d-adda",
+   "nome": "Cassano d'Adda",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cassano-valcuvia",
+   "nome": "Cassano Valcuvia",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cassina-de-pecchi",
+   "nome": "Cassina de' Pecchi",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cassina-valsassina",
+   "nome": "Cassina Valsassina",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castagneto-po",
+   "nome": "Castagneto Po",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castagnito",
+   "nome": "Castagnito",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castagnole-piemonte",
+   "nome": "Castagnole Piemonte",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castel-giorgio",
+   "nome": "Castel Giorgio",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castel-viscardo",
+   "nome": "Castel Viscardo",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelcucco",
+   "nome": "Castelcucco",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelfranco-veneto",
+   "nome": "Castelfranco Veneto",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castellamonte",
+   "nome": "Castellamonte",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelletto-stura",
+   "nome": "Castelletto Stura",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelletto-sopra-ticino",
+   "nome": "Castelletto sopra Ticino",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castellinaldo-d-alba",
+   "nome": "Castellinaldo d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castello-cabiaglio",
+   "nome": "Castello Cabiaglio",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castello-di-brianza",
+   "nome": "Castello di Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castello-di-godego",
+   "nome": "Castello di Godego",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelnuovo-nigra",
+   "nome": "Castelnuovo Nigra",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelveccana",
+   "nome": "Castelveccana",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castiglione-falletto",
+   "nome": "Castiglione Falletto",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castiglione-olona",
+   "nome": "Castiglione Olona",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castiglione-tinella",
+   "nome": "Castiglione Tinella",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castiglione-torinese",
+   "nome": "Castiglione Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castiglione-in-teverina",
+   "nome": "Castiglione in Teverina",
+   "provincia": "VT",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castione-andevenno",
+   "nome": "Castione Andevenno",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castronno",
+   "nome": "Castronno",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavaglietto",
+   "nome": "Cavaglietto",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavaglio-d-agogna",
+   "nome": "Cavaglio d'Agogna",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavagnolo",
+   "nome": "Cavagnolo",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavallirio",
+   "nome": "Cavallirio",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavaria-con-premezzo",
+   "nome": "Cavaria con Premezzo",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavaso-del-tomba",
+   "nome": "Cavaso del Tomba",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavenago-di-brianza",
+   "nome": "Cavenago di Brianza",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavour",
+   "nome": "Cavour",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cazzago-brabbia",
+   "nome": "Cazzago Brabbia",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cedegolo",
+   "nome": "Cedegolo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "celleno",
+   "nome": "Celleno",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cellere",
+   "nome": "Cellere",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cencenighe-agordino",
+   "nome": "Cencenighe Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "centallo",
+   "nome": "Centallo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ceppo-morelli",
+   "nome": "Ceppo Morelli",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cercenasco",
+   "nome": "Cercenasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ceres",
+   "nome": "Ceres",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ceresole-alba",
+   "nome": "Ceresole Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ceresole-reale",
+   "nome": "Ceresole Reale",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cernusco-lombardone",
+   "nome": "Cernusco Lombardone",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cernusco-sul-naviglio",
+   "nome": "Cernusco sul Naviglio",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cerro-al-lambro",
+   "nome": "Cerro al Lambro",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cervasca",
+   "nome": "Cervasca",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cerveno",
+   "nome": "Cerveno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cervere",
+   "nome": "Cervere",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cervignano-d-adda",
+   "nome": "Cervignano d'Adda",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cesana-brianza",
+   "nome": "Cesana Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cesana-torinese",
+   "nome": "Cesana Torinese",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cesara",
+   "nome": "Cesara",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ceto",
+   "nome": "Ceto",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cevo",
+   "nome": "Cevo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cherasco",
+   "nome": "Cherasco",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chialamberto",
+   "nome": "Chialamberto",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chianocco",
+   "nome": "Chianocco",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiavenna",
+   "nome": "Chiavenna",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiaverano",
+   "nome": "Chiaverano",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chieri",
+   "nome": "Chieri",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiesa-in-valmalenco",
+   "nome": "Chiesa in Valmalenco",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiesanuova",
+   "nome": "Chiesanuova",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiomonte",
+   "nome": "Chiomonte",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiuro",
+   "nome": "Chiuro",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiusa-di-pesio",
+   "nome": "Chiusa di Pesio",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chiusa-di-san-michele",
+   "nome": "Chiusa di San Michele",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chivasso",
+   "nome": "Chivasso",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cibiana-di-cadore",
+   "nome": "Cibiana di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ciconio",
+   "nome": "Ciconio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cintano",
+   "nome": "Cintano",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cinzano",
+   "nome": "Cinzano",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cirie",
+   "nome": "Ciriè",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cittiglio",
+   "nome": "Cittiglio",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "civate",
+   "nome": "Civate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cividate-camuno",
+   "nome": "Cividate Camuno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "claviere",
+   "nome": "Claviere",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "coassolo-torinese",
+   "nome": "Coassolo Torinese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "coazze",
+   "nome": "Coazze",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cogliate",
+   "nome": "Cogliate",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colazza",
+   "nome": "Colazza",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colico",
+   "nome": "Colico",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colle-brianza",
+   "nome": "Colle Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colle-santa-lucia",
+   "nome": "Colle Santa Lucia",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "collegno",
+   "nome": "Collegno",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colleretto-castelnuovo",
+   "nome": "Colleretto Castelnuovo",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colleretto-giacosa",
+   "nome": "Colleretto Giacosa",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cologno-monzese",
+   "nome": "Cologno Monzese",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colorina",
+   "nome": "Colorina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colturano",
+   "nome": "Colturano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "comazzo",
+   "nome": "Comazzo",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "comignago",
+   "nome": "Comignago",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "concorezzo",
+   "nome": "Concorezzo",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "condove",
+   "nome": "Condove",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "corio",
+   "nome": "Corio",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cornate-d-adda",
+   "nome": "Cornate d'Adda",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "corneliano-d-alba",
+   "nome": "Corneliano d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cornuda",
+   "nome": "Cornuda",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "correzzana",
+   "nome": "Correzzana",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "corteno-golgi",
+   "nome": "Corteno Golgi",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cortenova",
+   "nome": "Cortenova",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cosio-valtellino",
+   "nome": "Cosio Valtellino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cossano-belbo",
+   "nome": "Cossano Belbo",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cossano-canavese",
+   "nome": "Cossano Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cossogno",
+   "nome": "Cossogno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "costa-masnaga",
+   "nome": "Costa Masnaga",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "crandola-valsassina",
+   "nome": "Crandola Valsassina",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "craveggia",
+   "nome": "Craveggia",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cremella",
+   "nome": "Cremella",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cremeno",
+   "nome": "Cremeno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cressa",
+   "nome": "Cressa",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "crevoladossola",
+   "nome": "Crevoladossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "crocetta-del-montello",
+   "nome": "Crocetta del Montello",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "crodo",
+   "nome": "Crodo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "crosio-della-valle",
+   "nome": "Crosio della Valle",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cuceglio",
+   "nome": "Cuceglio",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cumiana",
+   "nome": "Cumiana",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cuneo",
+   "nome": "Cuneo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cuorgne",
+   "nome": "Cuorgnè",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cureggio",
+   "nome": "Cureggio",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "curiglia-con-monteviasco",
+   "nome": "Curiglia con Monteviasco",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cuveglio",
+   "nome": "Cuveglio",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cuvio",
+   "nome": "Cuvio",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "darfo-boario-terme",
+   "nome": "Darfo Boario Terme",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "daverio",
+   "nome": "Daverio",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dazio",
+   "nome": "Dazio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "delebio",
+   "nome": "Delebio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dello",
+   "nome": "Dello",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "desenzano-del-garda",
+   "nome": "Desenzano del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "diano-d-alba",
+   "nome": "Diano d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "divignano",
+   "nome": "Divignano",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dolzago",
+   "nome": "Dolzago",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "domodossola",
+   "nome": "Domodossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dorio",
+   "nome": "Dorio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dormelletto",
+   "nome": "Dormelletto",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dresano",
+   "nome": "Dresano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dronero",
+   "nome": "Dronero",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "druento",
+   "nome": "Druento",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "druogno",
+   "nome": "Druogno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dubino",
+   "nome": "Dubino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dumenza",
+   "nome": "Dumenza",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "duno",
+   "nome": "Duno",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "edolo",
+   "nome": "Edolo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ello",
+   "nome": "Ello",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "erve",
+   "nome": "Erve",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "esine",
+   "nome": "Esine",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "esino-lario",
+   "nome": "Esino Lario",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "exilles",
+   "nome": "Exilles",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fabro",
+   "nome": "Fabro",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "faedo-valtellino",
+   "nome": "Faedo Valtellino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "falcade",
+   "nome": "Falcade",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fara-novarese",
+   "nome": "Fara Novarese",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "farnese",
+   "nome": "Farnese",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "favria",
+   "nome": "Favria",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "feletto",
+   "nome": "Feletto",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fenestrelle",
+   "nome": "Fenestrelle",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ferrera-di-varese",
+   "nome": "Ferrera di Varese",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fiano",
+   "nome": "Fiano",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ficulle",
+   "nome": "Ficulle",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fiorano-canavese",
+   "nome": "Fiorano Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "foglizzo",
+   "nome": "Foglizzo",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fontaneto-d-agogna",
+   "nome": "Fontaneto d'Agogna",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fonte",
+   "nome": "Fonte",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "forcola",
+   "nome": "Forcola",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "formazza",
+   "nome": "Formazza",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "forno-canavese",
+   "nome": "Forno Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "frassinetto",
+   "nome": "Frassinetto",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "front",
+   "nome": "Front",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "frossasco",
+   "nome": "Frossasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "galbiate",
+   "nome": "Galbiate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gallese",
+   "nome": "Gallese",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "galliate-lombardo",
+   "nome": "Galliate Lombardo",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "garbagnate-monastero",
+   "nome": "Garbagnate Monastero",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gardone-riviera",
+   "nome": "Gardone Riviera",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gargallo",
+   "nome": "Gargallo",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gargnano",
+   "nome": "Gargnano",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "garlate",
+   "nome": "Garlate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "garzigliana",
+   "nome": "Garzigliana",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gassino-torinese",
+   "nome": "Gassino Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gattico-veruno",
+   "nome": "Gattico-Veruno",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "germagnano",
+   "nome": "Germagnano",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "germagno",
+   "nome": "Germagno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "germignaga",
+   "nome": "Germignaga",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gessate",
+   "nome": "Gessate",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ghemme",
+   "nome": "Ghemme",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ghiffa",
+   "nome": "Ghiffa",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "giaglione",
+   "nome": "Giaglione",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gianico",
+   "nome": "Gianico",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "giaveno",
+   "nome": "Giaveno",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "giavera-del-montello",
+   "nome": "Giavera del Montello",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gignese",
+   "nome": "Gignese",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "giove",
+   "nome": "Giove",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "givoletto",
+   "nome": "Givoletto",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gorgonzola",
+   "nome": "Gorgonzola",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gosaldo",
+   "nome": "Gosaldo",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "govone",
+   "nome": "Govone",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gozzano",
+   "nome": "Gozzano",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gradoli",
+   "nome": "Gradoli",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grantola",
+   "nome": "Grantola",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gravellona-toce",
+   "nome": "Gravellona Toce",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gravere",
+   "nome": "Gravere",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grezzago",
+   "nome": "Grezzago",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grignasco",
+   "nome": "Grignasco",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grinzane-cavour",
+   "nome": "Grinzane Cavour",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "groscavallo",
+   "nome": "Groscavallo",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grosio",
+   "nome": "Grosio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grosotto",
+   "nome": "Grosotto",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grosso",
+   "nome": "Grosso",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grotte-di-castro",
+   "nome": "Grotte di Castro",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grugliasco",
+   "nome": "Grugliasco",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "guardea",
+   "nome": "Guardea",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "guarene",
+   "nome": "Guarene",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gurro",
+   "nome": "Gurro",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "imbersago",
+   "nome": "Imbersago",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "inarzo",
+   "nome": "Inarzo",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ingria",
+   "nome": "Ingria",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "intragna",
+   "nome": "Intragna",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "introbio",
+   "nome": "Introbio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "inverso-pinasca",
+   "nome": "Inverso Pinasca",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "invorio",
+   "nome": "Invorio",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "inzago",
+   "nome": "Inzago",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ischia-di-castro",
+   "nome": "Ischia di Castro",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "isolabella",
+   "nome": "Isolabella",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "issiglio",
+   "nome": "Issiglio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "istrana",
+   "nome": "Istrana",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ivrea",
+   "nome": "Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "jerago-con-orago",
+   "nome": "Jerago con Orago",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "la-cassa",
+   "nome": "La Cassa",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "la-loggia",
+   "nome": "La Loggia",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "la-morra",
+   "nome": "La Morra",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "la-valle-agordina",
+   "nome": "La Valle Agordina",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "la-valletta-brianza",
+   "nome": "La Valletta Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lanzada",
+   "nome": "Lanzada",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lanzo-torinese",
+   "nome": "Lanzo Torinese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lasnigo",
+   "nome": "Lasnigo",
+   "provincia": "CO",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "latera",
+   "nome": "Latera",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lauriano",
+   "nome": "Lauriano",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "laveno-mombello",
+   "nome": "Laveno-Mombello",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lecco",
+   "nome": "Lecco",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "leini",
+   "nome": "Leinì",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lemie",
+   "nome": "Lemie",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lesa",
+   "nome": "Lesa",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lesmo",
+   "nome": "Lesmo",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lessolo",
+   "nome": "Lessolo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "levone",
+   "nome": "Levone",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lierna",
+   "nome": "Lierna",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "liscate",
+   "nome": "Liscate",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "livinallongo-del-col-di-lana",
+   "nome": "Livinallongo del Col di Lana",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "locana",
+   "nome": "Locana",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lomagna",
+   "nome": "Lomagna",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lombardore",
+   "nome": "Lombardore",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lombriasco",
+   "nome": "Lombriasco",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lonato-del-garda",
+   "nome": "Lonato del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "loranze",
+   "nome": "Loranzè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "loreglia",
+   "nome": "Loreglia",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "loria",
+   "nome": "Loria",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "losine",
+   "nome": "Losine",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lozio",
+   "nome": "Lozio",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lubriano",
+   "nome": "Lubriano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lugnano-in-teverina",
+   "nome": "Lugnano in Teverina",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "luino",
+   "nome": "Luino",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "luserna-san-giovanni",
+   "nome": "Luserna San Giovanni",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lusernetta",
+   "nome": "Lusernetta",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lusiglie",
+   "nome": "Lusigliè",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "maccagno-con-pino-e-veddasca",
+   "nome": "Maccagno con Pino e Veddasca",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "macello",
+   "nome": "Macello",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "macherio",
+   "nome": "Macherio",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "macugnaga",
+   "nome": "Macugnaga",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "madonna-del-sasso",
+   "nome": "Madonna del Sasso",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "magasa",
+   "nome": "Magasa",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "maggiora",
+   "nome": "Maggiora",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "magliano-alfieri",
+   "nome": "Magliano Alfieri",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "maglione",
+   "nome": "Maglione",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "malegno",
+   "nome": "Malegno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "malesco",
+   "nome": "Malesco",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "malgrate",
+   "nome": "Malgrate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "malonno",
+   "nome": "Malonno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mandello-del-lario",
+   "nome": "Mandello del Lario",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "manerba-del-garda",
+   "nome": "Manerba del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "manerbio",
+   "nome": "Manerbio",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mango",
+   "nome": "Mango",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mantello",
+   "nome": "Mantello",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mapello",
+   "nome": "Mapello",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mappano",
+   "nome": "Mappano",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "marene",
+   "nome": "Marene",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "marentino",
+   "nome": "Marentino",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "margarita",
+   "nome": "Margarita",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "margno",
+   "nome": "Margno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "marta",
+   "nome": "Marta",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "masate",
+   "nome": "Masate",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "masciago-primo",
+   "nome": "Masciago Primo",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "maser",
+   "nome": "Maser",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "masera",
+   "nome": "Masera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "maserada-sul-piave",
+   "nome": "Maserada sul Piave",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "massalengo",
+   "nome": "Massalengo",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "massello",
+   "nome": "Massello",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "massino-visconti",
+   "nome": "Massino Visconti",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "massiola",
+   "nome": "Massiola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mathi",
+   "nome": "Mathi",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mattie",
+   "nome": "Mattie",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mazzo-di-valtellina",
+   "nome": "Mazzo di Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mazze",
+   "nome": "Mazzè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "meana-di-susa",
+   "nome": "Meana di Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mediglia",
+   "nome": "Mediglia",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "meina",
+   "nome": "Meina",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "melegnano",
+   "nome": "Melegnano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "melzo",
+   "nome": "Melzo",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "merate",
+   "nome": "Merate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mercenasco",
+   "nome": "Mercenasco",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mergozzo",
+   "nome": "Mergozzo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "merlino",
+   "nome": "Merlino",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mesenzana",
+   "nome": "Mesenzana",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mezzago",
+   "nome": "Mezzago",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mezzenile",
+   "nome": "Mezzenile",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "miasino",
+   "nome": "Miasino",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "miazzina",
+   "nome": "Miazzina",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "misinto",
+   "nome": "Misinto",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "missaglia",
+   "nome": "Missaglia",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "moggio",
+   "nome": "Moggio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "molteno",
+   "nome": "Molteno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mombello-di-torino",
+   "nome": "Mombello di Torino",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mompantero",
+   "nome": "Mompantero",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monastero-di-lanzo",
+   "nome": "Monastero di Lanzo",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monastier-di-treviso",
+   "nome": "Monastier di Treviso",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "moncalieri",
+   "nome": "Moncalieri",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "moncenisio",
+   "nome": "Moncenisio",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monchiero",
+   "nome": "Monchiero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "moncucco-torinese",
+   "nome": "Moncucco Torinese",
+   "provincia": "AT",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monforte-d-alba",
+   "nome": "Monforte d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monfumo",
+   "nome": "Monfumo",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "moniga-del-garda",
+   "nome": "Moniga del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montagna-in-valtellina",
+   "nome": "Montagna in Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montaldo-roero",
+   "nome": "Montaldo Roero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montaldo-torinese",
+   "nome": "Montaldo Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montalenghe",
+   "nome": "Montalenghe",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montalto-dora",
+   "nome": "Montalto Dora",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montanaro",
+   "nome": "Montanaro",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montanera",
+   "nome": "Montanera",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monte-marenzo",
+   "nome": "Monte Marenzo",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montebelluna",
+   "nome": "Montebelluna",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montecastrilli",
+   "nome": "Montecastrilli",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montecchio",
+   "nome": "Montecchio",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montecrestese",
+   "nome": "Montecrestese",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montegabbione",
+   "nome": "Montegabbione",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montegrino-valtravaglia",
+   "nome": "Montegrino Valtravaglia",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monteleone-d-orvieto",
+   "nome": "Monteleone d'Orvieto",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montelupo-albese",
+   "nome": "Montelupo Albese",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montescheno",
+   "nome": "Montescheno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monteu-roero",
+   "nome": "Monteu Roero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monteu-da-po",
+   "nome": "Monteu da Po",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montevecchia",
+   "nome": "Montevecchia",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monticello-brianza",
+   "nome": "Monticello Brianza",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monticello-d-alba",
+   "nome": "Monticello d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monta",
+   "nome": "Montà",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "morazzone",
+   "nome": "Morazzone",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "morbegno",
+   "nome": "Morbegno",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "morgano",
+   "nome": "Morgano",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "moriondo-torinese",
+   "nome": "Moriondo Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mornago",
+   "nome": "Mornago",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "morozzo",
+   "nome": "Morozzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mulazzano",
+   "nome": "Mulazzano",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "narzole",
+   "nome": "Narzole",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nebbiuno",
+   "nome": "Nebbiuno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "neive",
+   "nome": "Neive",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nervesa-della-battaglia",
+   "nome": "Nervesa della Battaglia",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "neviglie",
+   "nome": "Neviglie",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "niardo",
+   "nome": "Niardo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nibionno",
+   "nome": "Nibionno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nichelino",
+   "nome": "Nichelino",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "noasca",
+   "nome": "Noasca",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nole",
+   "nome": "Nole",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nomaglio",
+   "nome": "Nomaglio",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "none",
+   "nome": "None",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nonio",
+   "nome": "Nonio",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nova-milanese",
+   "nome": "Nova Milanese",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "novalesa",
+   "nome": "Novalesa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "novate-mezzola",
+   "nome": "Novate Mezzola",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "novello",
+   "nome": "Novello",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "offlaga",
+   "nome": "Offlaga",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oggebbio",
+   "nome": "Oggebbio",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oggiona-con-santo-stefano",
+   "nome": "Oggiona con Santo Stefano",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oggiono",
+   "nome": "Oggiono",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oglianico",
+   "nome": "Oglianico",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oleggio-castello",
+   "nome": "Oleggio Castello",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "olgiate-molgora",
+   "nome": "Olgiate Molgora",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "olginate",
+   "nome": "Olginate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oliveto-lario",
+   "nome": "Oliveto Lario",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "omegna",
+   "nome": "Omegna",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "onano",
+   "nome": "Onano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ono-san-pietro",
+   "nome": "Ono San Pietro",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "orbassano",
+   "nome": "Orbassano",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "orino",
+   "nome": "Orino",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "orio-canavese",
+   "nome": "Orio Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ornago",
+   "nome": "Ornago",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ornavasso",
+   "nome": "Ornavasso",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "orta-san-giulio",
+   "nome": "Orta San Giulio",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "orvieto",
+   "nome": "Orvieto",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
+   "zone_und": 2,
+   "valido_al": "2026-12-31",
+   "nota": "Accesso specifico ai CCR da approfondire; calendario Nord e Sud verificato."
+  },
+  {
+   "id": "osasco",
+   "nome": "Osasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "osasio",
+   "nome": "Osasio",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "osnago",
+   "nome": "Osnago",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ossimo",
+   "nome": "Ossimo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "oulx",
+   "nome": "Oulx",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ozegna",
+   "nome": "Ozegna",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "padenghe-sul-garda",
+   "nome": "Padenghe sul Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "paderno-d-adda",
+   "nome": "Paderno d'Adda",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "paese",
+   "nome": "Paese",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pagnona",
+   "nome": "Pagnona",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "paisco-loveno",
+   "nome": "Paisco Loveno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "palazzo-canavese",
+   "nome": "Palazzo Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pallanzeno",
+   "nome": "Pallanzeno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pancalieri",
+   "nome": "Pancalieri",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pantigliate",
+   "nome": "Pantigliate",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "parella",
+   "nome": "Parella",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "parlasco",
+   "nome": "Parlasco",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "parrano",
+   "nome": "Parrano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "paruzzaro",
+   "nome": "Paruzzaro",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pasturo",
+   "nome": "Pasturo",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "paullo",
+   "nome": "Paullo",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pavarolo",
+   "nome": "Pavarolo",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pavone-canavese",
+   "nome": "Pavone Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pecetto-torinese",
+   "nome": "Pecetto Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pederobba",
+   "nome": "Pederobba",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pella",
+   "nome": "Pella",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "penna-in-teverina",
+   "nome": "Penna in Teverina",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "perledo",
+   "nome": "Perledo",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "perosa-argentina",
+   "nome": "Perosa Argentina",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "perosa-canavese",
+   "nome": "Perosa Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "perrero",
+   "nome": "Perrero",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pertusio",
+   "nome": "Pertusio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pescate",
+   "nome": "Pescate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pessano-con-bornago",
+   "nome": "Pessano con Bornago",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pessinetto",
+   "nome": "Pessinetto",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pettenasco",
+   "nome": "Pettenasco",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "peveragno",
+   "nome": "Peveragno",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pian-camuno",
+   "nome": "Pian Camuno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piancogno",
+   "nome": "Piancogno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pianezza",
+   "nome": "Pianezza",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pianfei",
+   "nome": "Pianfei",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piansano",
+   "nome": "Piansano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piateda",
+   "nome": "Piateda",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piedimulera",
+   "nome": "Piedimulera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pieve-vergonte",
+   "nome": "Pieve Vergonte",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pieve-del-grappa",
+   "nome": "Pieve del Grappa",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pinasca",
+   "nome": "Pinasca",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pinerolo",
+   "nome": "Pinerolo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pino-torinese",
+   "nome": "Pino Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piobesi-torinese",
+   "nome": "Piobesi Torinese",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piobesi-d-alba",
+   "nome": "Piobesi d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piossasco",
+   "nome": "Piossasco",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pisano",
+   "nome": "Pisano",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piscina",
+   "nome": "Piscina",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piverone",
+   "nome": "Piverone",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pocapaglia",
+   "nome": "Pocapaglia",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "poggiridenti",
+   "nome": "Poggiridenti",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pogno",
+   "nome": "Pogno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "poirino",
+   "nome": "Poirino",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "polpenazze-del-garda",
+   "nome": "Polpenazze del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pomaretto",
+   "nome": "Pomaretto",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pombia",
+   "nome": "Pombia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pont-canavese",
+   "nome": "Pont Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ponte-in-valtellina",
+   "nome": "Ponte in Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pontevico",
+   "nome": "Pontevico",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ponzano-veneto",
+   "nome": "Ponzano Veneto",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "porano",
+   "nome": "Porano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "porte",
+   "nome": "Porte",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "porto-valtravaglia",
+   "nome": "Porto Valtravaglia",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "possagno",
+   "nome": "Possagno",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "povegliano",
+   "nome": "Povegliano",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pozzo-d-adda",
+   "nome": "Pozzo d'Adda",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pozzolengo",
+   "nome": "Pozzolengo",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pozzuolo-martesana",
+   "nome": "Pozzuolo Martesana",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pragelato",
+   "nome": "Pragelato",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "prali",
+   "nome": "Prali",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pralormo",
+   "nome": "Pralormo",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pramollo",
+   "nome": "Pramollo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "prarostino",
+   "nome": "Prarostino",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "prascorsano",
+   "nome": "Prascorsano",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "prata-camportaccio",
+   "nome": "Prata Camportaccio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pratiglione",
+   "nome": "Pratiglione",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "prato-sesia",
+   "nome": "Prato Sesia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "preganziol",
+   "nome": "Preganziol",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "premana",
+   "nome": "Premana",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "premeno",
+   "nome": "Premeno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "premia",
+   "nome": "Premia",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "premosello-chiovenda",
+   "nome": "Premosello-Chiovenda",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "presezzo",
+   "nome": "Presezzo",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "prevalle",
+   "nome": "Prevalle",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "primaluna",
+   "nome": "Primaluna",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "priocca",
+   "nome": "Priocca",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "proceno",
+   "nome": "Proceno",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "puegnago-del-garda",
+   "nome": "Puegnago del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pusiano",
+   "nome": "Pusiano",
+   "provincia": "CO",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quagliuzzo",
+   "nome": "Quagliuzzo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quarna-sopra",
+   "nome": "Quarna Sopra",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quarna-sotto",
+   "nome": "Quarna Sotto",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quassolo",
+   "nome": "Quassolo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quincinetto",
+   "nome": "Quincinetto",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quinto-di-treviso",
+   "nome": "Quinto di Treviso",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rancio-valcuvia",
+   "nome": "Rancio Valcuvia",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rasura",
+   "nome": "Rasura",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "re",
+   "nome": "Re",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "reano",
+   "nome": "Reano",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "resana",
+   "nome": "Resana",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ribordone",
+   "nome": "Ribordone",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "riese-pio-x",
+   "nome": "Riese Pio X",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "riva-presso-chieri",
+   "nome": "Riva presso Chieri",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivalba",
+   "nome": "Rivalba",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivalta-di-torino",
+   "nome": "Rivalta di Torino",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivamonte-agordino",
+   "nome": "Rivamonte Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivara",
+   "nome": "Rivara",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivarolo-canavese",
+   "nome": "Rivarolo Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivarossa",
+   "nome": "Rivarossa",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivoli",
+   "nome": "Rivoli",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "robassomero",
+   "nome": "Robassomero",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "robbiate",
+   "nome": "Robbiate",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rocca-canavese",
+   "nome": "Rocca Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rocca-pietore",
+   "nome": "Rocca Pietore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roccasparvera",
+   "nome": "Roccasparvera",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roccavione",
+   "nome": "Roccavione",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rodano",
+   "nome": "Rodano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roddi",
+   "nome": "Roddi",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roddino",
+   "nome": "Roddino",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rodello",
+   "nome": "Rodello",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rogeno",
+   "nome": "Rogeno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rogolo",
+   "nome": "Rogolo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roletto",
+   "nome": "Roletto",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "romagnano-sesia",
+   "nome": "Romagnano Sesia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roncade",
+   "nome": "Roncade",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roncello",
+   "nome": "Roncello",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ronco-briantino",
+   "nome": "Ronco Briantino",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ronco-canavese",
+   "nome": "Ronco Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rondissone",
+   "nome": "Rondissone",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rora",
+   "nome": "Rorà",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rosta",
+   "nome": "Rosta",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roure",
+   "nome": "Roure",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rubiana",
+   "nome": "Rubiana",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rueglio",
+   "nome": "Rueglio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salassa",
+   "nome": "Salassa",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salbertrand",
+   "nome": "Salbertrand",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salerano-canavese",
+   "nome": "Salerano Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salerano-sul-lambro",
+   "nome": "Salerano sul Lambro",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salmour",
+   "nome": "Salmour",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salza-di-pinerolo",
+   "nome": "Salza di Pinerolo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "salo",
+   "nome": "Salò",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "samolaco",
+   "nome": "Samolaco",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "samone",
+   "nome": "Samone",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-benigno-canavese",
+   "nome": "San Benigno Canavese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-bernardino-verbano",
+   "nome": "San Bernardino Verbano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-biagio-di-callalta",
+   "nome": "San Biagio di Callalta",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-carlo-canavese",
+   "nome": "San Carlo Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-colombano-belmonte",
+   "nome": "San Colombano Belmonte",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-didero",
+   "nome": "San Didero",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-felice-del-benaco",
+   "nome": "San Felice del Benaco",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-francesco-al-campo",
+   "nome": "San Francesco al Campo",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-gemini",
+   "nome": "San Gemini",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-germano-chisone",
+   "nome": "San Germano Chisone",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giacomo-filippo",
+   "nome": "San Giacomo Filippo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-gillio",
+   "nome": "San Gillio",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giorgio-canavese",
+   "nome": "San Giorgio Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giorio-di-susa",
+   "nome": "San Giorio di Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giusto-canavese",
+   "nome": "San Giusto Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-lorenzo-nuovo",
+   "nome": "San Lorenzo Nuovo",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-martino-canavese",
+   "nome": "San Martino Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-maurizio-canavese",
+   "nome": "San Maurizio Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-maurizio-d-opaglio",
+   "nome": "San Maurizio d'Opaglio",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-mauro-torinese",
+   "nome": "San Mauro Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-pietro-val-lemina",
+   "nome": "San Pietro Val Lemina",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-ponso",
+   "nome": "San Ponso",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-raffaele-cimena",
+   "nome": "San Raffaele Cimena",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-sebastiano-da-po",
+   "nome": "San Sebastiano da Po",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-secondo-di-pinerolo",
+   "nome": "San Secondo di Pinerolo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-tomaso-agordino",
+   "nome": "San Tomaso Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-vito-di-cadore",
+   "nome": "San Vito di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-zenone-al-lambro",
+   "nome": "San Zenone al Lambro",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-zenone-degli-ezzelini",
+   "nome": "San Zenone degli Ezzelini",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sanfre",
+   "nome": "Sanfrè",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sangano",
+   "nome": "Sangano",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sant-ambrogio-di-torino",
+   "nome": "Sant'Ambrogio di Torino",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sant-angelo-lodigiano",
+   "nome": "Sant'Angelo Lodigiano",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sant-antonino-di-susa",
+   "nome": "Sant'Antonino di Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santa-maria-hoe",
+   "nome": "Santa Maria Hoè",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santa-maria-maggiore",
+   "nome": "Santa Maria Maggiore",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santena",
+   "nome": "Santena",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santo-stefano-belbo",
+   "nome": "Santo Stefano Belbo",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santo-stefano-roero",
+   "nome": "Santo Stefano Roero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sauze-d-oulx",
+   "nome": "Sauze d'Oulx",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sauze-di-cesana",
+   "nome": "Sauze di Cesana",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "saviore-dell-adamello",
+   "nome": "Saviore dell'Adamello",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "scalenghe",
+   "nome": "Scalenghe",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "scarmagno",
+   "nome": "Scarmagno",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sciolze",
+   "nome": "Sciolze",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sellero",
+   "nome": "Sellero",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "selva-di-cadore",
+   "nome": "Selva di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "serralunga-d-alba",
+   "nome": "Serralunga d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sestriere",
+   "nome": "Sestriere",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "settala",
+   "nome": "Settala",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "settimo-rottaro",
+   "nome": "Settimo Rottaro",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "settimo-torinese",
+   "nome": "Settimo Torinese",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "settimo-vittone",
+   "nome": "Settimo Vittone",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "silea",
+   "nome": "Silea",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sinio",
+   "nome": "Sinio",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sirone",
+   "nome": "Sirone",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sirtori",
+   "nome": "Sirtori",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sizzano",
+   "nome": "Sizzano",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "soiano-del-lago",
+   "nome": "Soiano del Lago",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "solbiate-arno",
+   "nome": "Solbiate Arno",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sommariva-perno",
+   "nome": "Sommariva Perno",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sommariva-del-bosco",
+   "nome": "Sommariva del Bosco",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sondalo",
+   "nome": "Sondalo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sondrio",
+   "nome": "Sondrio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sonico",
+   "nome": "Sonico",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sordio",
+   "nome": "Sordio",
+   "provincia": "LO",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "soriso",
+   "nome": "Soriso",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sparone",
+   "nome": "Sparone",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "spresiano",
+   "nome": "Spresiano",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "spriana",
+   "nome": "Spriana",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "strambinello",
+   "nome": "Strambinello",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "strambino",
+   "nome": "Strambino",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "stresa",
+   "nome": "Stresa",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "stroncone",
+   "nome": "Stroncone",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sueglio",
+   "nome": "Sueglio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "suello",
+   "nome": "Suello",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sulbiate",
+   "nome": "Sulbiate",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sumirago",
+   "nome": "Sumirago",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "suno",
+   "nome": "Suno",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "susa",
+   "nome": "Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "susegana",
+   "nome": "Susegana",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "taceno",
+   "nome": "Taceno",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "taibon-agordino",
+   "nome": "Taibon Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "talamona",
+   "nome": "Talamona",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tarantasca",
+   "nome": "Tarantasca",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tavagnasco",
+   "nome": "Tavagnasco",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "teglio",
+   "nome": "Teglio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tignale",
+   "nome": "Tignale",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tirano",
+   "nome": "Tirano",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "toceno",
+   "nome": "Toceno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torrazza-piemonte",
+   "nome": "Torrazza Piemonte",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torre-canavese",
+   "nome": "Torre Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torre-pellice",
+   "nome": "Torre Pellice",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torre-de-busi",
+   "nome": "Torre de' Busi",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torre-di-santa-maria",
+   "nome": "Torre di Santa Maria",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torrevecchia-pia",
+   "nome": "Torrevecchia Pia",
+   "provincia": "PV",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "toscolano-maderno",
+   "nome": "Toscolano-Maderno",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trana",
+   "nome": "Trana",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "traona",
+   "nome": "Traona",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trarego-viggiona",
+   "nome": "Trarego Viggiona",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trasquera",
+   "nome": "Trasquera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "traversella",
+   "nome": "Traversella",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "traves",
+   "nome": "Traves",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "treiso",
+   "nome": "Treiso",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tremosine-sul-garda",
+   "nome": "Tremosine sul Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tresivio",
+   "nome": "Tresivio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trevignano",
+   "nome": "Trevignano",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "treviso",
+   "nome": "Treviso",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trezzano-rosa",
+   "nome": "Trezzano Rosa",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trezzo-sull-adda",
+   "nome": "Trezzo sull'Adda",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trezzo-tinella",
+   "nome": "Trezzo Tinella",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tribiano",
+   "nome": "Tribiano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "triuggio",
+   "nome": "Triuggio",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trofarello",
+   "nome": "Trofarello",
+   "provincia": "TO",
+   "gestore": "Co.Va.R. 14",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trontano",
+   "nome": "Trontano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tronzano-lago-maggiore",
+   "nome": "Tronzano Lago Maggiore",
+   "provincia": "VA",
+   "gestore": "Econord (Comunità Montana Valli del Verbano)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "truccazzano",
+   "nome": "Truccazzano",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "usmate-velate",
+   "nome": "Usmate Velate",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "usseaux",
+   "nome": "Usseaux",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "usseglio",
+   "nome": "Usseglio",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vaie",
+   "nome": "Vaie",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "val-masino",
+   "nome": "Val Masino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "val-della-torre",
+   "nome": "Val della Torre",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "val-di-chy",
+   "nome": "Val di Chy",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valchiusa",
+   "nome": "Valchiusa",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valdisotto",
+   "nome": "Valdisotto",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valentano",
+   "nome": "Valentano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valfurva",
+   "nome": "Valfurva",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valgioie",
+   "nome": "Valgioie",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valgreghentino",
+   "nome": "Valgreghentino",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vallada-agordina",
+   "nome": "Vallada Agordina",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valle-cannobina",
+   "nome": "Valle Cannobina",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valle-di-cadore",
+   "nome": "Valle di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vallerano",
+   "nome": "Vallerano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vallo-torinese",
+   "nome": "Vallo Torinese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valmadrera",
+   "nome": "Valmadrera",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valperga",
+   "nome": "Valperga",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valprato-soana",
+   "nome": "Valprato Soana",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valstrona",
+   "nome": "Valstrona",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valvarrone",
+   "nome": "Valvarrone",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valvestino",
+   "nome": "Valvestino",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vanzone-con-san-carlo",
+   "nome": "Vanzone con San Carlo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vaprio-d-adda",
+   "nome": "Vaprio d'Adda",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "varallo-pombia",
+   "nome": "Varallo Pombia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "varenna",
+   "nome": "Varenna",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "varisella",
+   "nome": "Varisella",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "varzo",
+   "nome": "Varzo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vasanello",
+   "nome": "Vasanello",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vauda-canavese",
+   "nome": "Vauda Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vedano-al-lambro",
+   "nome": "Vedano al Lambro",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vedano-olona",
+   "nome": "Vedano Olona",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vedelago",
+   "nome": "Vedelago",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "venaria-reale",
+   "nome": "Venaria Reale",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "venaus",
+   "nome": "Venaus",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "venegono-inferiore",
+   "nome": "Venegono Inferiore",
+   "provincia": "VA",
+   "gestore": "Coinger",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verbania",
+   "nome": "Verbania",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verceia",
+   "nome": "Verceia",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vercurago",
+   "nome": "Vercurago",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verderio",
+   "nome": "Verderio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verduno",
+   "nome": "Verduno",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verolanuova",
+   "nome": "Verolanuova",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verolengo",
+   "nome": "Verolengo",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "verrua-savoia",
+   "nome": "Verrua Savoia",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vestigne",
+   "nome": "Vestignè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vezza-d-alba",
+   "nome": "Vezza d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vialfre",
+   "nome": "Vialfrè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vidracco",
+   "nome": "Vidracco",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vigano",
+   "nome": "Viganò",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vignanello",
+   "nome": "Vignanello",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vignate",
+   "nome": "Vignate",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vignolo",
+   "nome": "Vignolo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vignone",
+   "nome": "Vignone",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vigone",
+   "nome": "Vigone",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villa-san-giovanni-in-tuscia",
+   "nome": "Villa San Giovanni in Tuscia",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villa-d-adda",
+   "nome": "Villa d'Adda",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villa-di-tirano",
+   "nome": "Villa di Tirano",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villadossola",
+   "nome": "Villadossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villafranca-piemonte",
+   "nome": "Villafranca Piemonte",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villanova-canavese",
+   "nome": "Villanova Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villar-dora",
+   "nome": "Villar Dora",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villar-focchiardo",
+   "nome": "Villar Focchiardo",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villar-pellice",
+   "nome": "Villar Pellice",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villar-perosa",
+   "nome": "Villar Perosa",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villar-san-costanzo",
+   "nome": "Villar San Costanzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villarbasse",
+   "nome": "Villarbasse",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villareggia",
+   "nome": "Villareggia",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villasanta",
+   "nome": "Villasanta",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villette",
+   "nome": "Villette",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villorba",
+   "nome": "Villorba",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vimercate",
+   "nome": "Vimercate",
+   "provincia": "MB",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vimodrone",
+   "nome": "Vimodrone",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vische",
+   "nome": "Vische",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vistrorio",
+   "nome": "Vistrorio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vizzolo-predabissi",
+   "nome": "Vizzolo Predabissi",
+   "provincia": "MI",
+   "gestore": "CEM Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "viu",
+   "nome": "Viù",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vodo-cadore",
+   "nome": "Vodo Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vogogna",
+   "nome": "Vogogna",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "volpago-del-montello",
+   "nome": "Volpago del Montello",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "volpiano",
+   "nome": "Volpiano",
+   "provincia": "TO",
+   "gestore": "SETA S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "voltago-agordino",
+   "nome": "Voltago Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "volvera",
+   "nome": "Volvera",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "zenson-di-piave",
+   "nome": "Zenson di Piave",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "zero-branco",
+   "nome": "Zero Branco",
+   "provincia": "TV",
+   "gestore": "Contarina S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "arba",
+   "nome": "Arba",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brugnera",
+   "nome": "Brugnera",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelnovo-del-friuli",
+   "nome": "Castelnovo del Friuli",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cavasso-nuovo",
+   "nome": "Cavasso Nuovo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cordovado",
+   "nome": "Cordovado",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pasiano-di-pordenone",
+   "nome": "Pasiano di Pordenone",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pinzano-al-tagliamento",
+   "nome": "Pinzano al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-martino-al-tagliamento",
+   "nome": "San Martino al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "travesio",
+   "nome": "Travesio",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vajont",
+   "nome": "Vajont",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casarsa-della-delizia",
+   "nome": "Casarsa della Delizia",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chions",
+   "nome": "Chions",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fiume-veneto",
+   "nome": "Fiume Veneto",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "morsano-al-tagliamento",
+   "nome": "Morsano al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "polcenigo",
+   "nome": "Polcenigo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "porcia",
+   "nome": "Porcia",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pravisdomini",
+   "nome": "Pravisdomini",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giorgio-della-richinvelda",
+   "nome": "San Giorgio della Richinvelda",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sesto-al-reghena",
+   "nome": "Sesto al Reghena",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "valvasone-arzene",
+   "nome": "Valvasone Arzene",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "zoppola",
+   "nome": "Zoppola",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "azzano-decimo",
+   "nome": "Azzano Decimo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "spilimbergo",
+   "nome": "Spilimbergo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fontanafredda",
+   "nome": "Fontanafredda",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sacile",
+   "nome": "Sacile",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-vito-al-tagliamento",
+   "nome": "San Vito al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bientina",
+   "nome": "Bientina",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "buti",
+   "nome": "Buti",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calci",
+   "nome": "Calci",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calcinaia",
+   "nome": "Calcinaia",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "capannoli",
+   "nome": "Capannoli",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casciana-terme-lari",
+   "nome": "Casciana Terme Lari",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cascina",
+   "nome": "Cascina",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelfranco-di-sotto",
+   "nome": "Castelfranco di Sotto",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "crespina-lorenzana",
+   "nome": "Crespina Lorenzana",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fauglia",
+   "nome": "Fauglia",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montopoli-in-val-d-arno",
+   "nome": "Montopoli in Val d'Arno",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "palaia",
+   "nome": "Palaia",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ponsacco",
+   "nome": "Ponsacco",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pontedera",
+   "nome": "Pontedera",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-miniato",
+   "nome": "San Miniato",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santa-croce-sull-arno",
+   "nome": "Santa Croce sull'Arno",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santa-maria-a-monte",
+   "nome": "Santa Maria a Monte",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vecchiano",
+   "nome": "Vecchiano",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vicopisano",
+   "nome": "Vicopisano",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giuliano-terme",
+   "nome": "San Giuliano Terme",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pisa",
+   "nome": "Pisa",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chianni",
+   "nome": "Chianni",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lajatico",
+   "nome": "Lajatico",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "terricciola",
+   "nome": "Terricciola",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ala",
+   "nome": "Ala",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "avio",
+   "nome": "Avio",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "besenello",
+   "nome": "Besenello",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "calliano",
+   "nome": "Calliano",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "isera",
+   "nome": "Isera",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nomi",
+   "nome": "Nomi",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pomarolo",
+   "nome": "Pomarolo",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villa-lagarina",
+   "nome": "Villa Lagarina",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "volano",
+   "nome": "Volano",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "brentonico",
+   "nome": "Brentonico",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "folgaria",
+   "nome": "Folgaria",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lavarone",
+   "nome": "Lavarone",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "luserna",
+   "nome": "Luserna",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mori",
+   "nome": "Mori",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nogaredo",
+   "nome": "Nogaredo",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ronzo-chienis",
+   "nome": "Ronzo-Chienis",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rovereto",
+   "nome": "Rovereto",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "terragnolo",
+   "nome": "Terragnolo",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trambileno",
+   "nome": "Trambileno",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trento",
+   "nome": "Trento",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vallarsa",
+   "nome": "Vallarsa",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "barumini",
+   "nome": "Barumini",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "collinas",
+   "nome": "Collinas",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "genuri",
+   "nome": "Genuri",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gesturi",
+   "nome": "Gesturi",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "las-plassas",
+   "nome": "Las Plassas",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lunamatrona",
+   "nome": "Lunamatrona",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pauli-arbarei",
+   "nome": "Pauli Arbarei",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "setzu",
+   "nome": "Setzu",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "siddi",
+   "nome": "Siddi",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tuili",
+   "nome": "Tuili",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "turri",
+   "nome": "Turri",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ussaramanna",
+   "nome": "Ussaramanna",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villanovaforru",
+   "nome": "Villanovaforru",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villanovafranca",
+   "nome": "Villanovafranca",
+   "provincia": "VS",
+   "gestore": "Cosir S.r.l.",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bertinoro",
+   "nome": "Bertinoro",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castrocaro-terme-e-terra-del-sole",
+   "nome": "Castrocaro Terme e Terra del Sole",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "civitella-di-romagna",
+   "nome": "Civitella di Romagna",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "dovadola",
+   "nome": "Dovadola",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "forlimpopoli",
+   "nome": "Forlimpopoli",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "forli",
+   "nome": "Forlì",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "galeata",
+   "nome": "Galeata",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "meldola",
+   "nome": "Meldola",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "modigliana",
+   "nome": "Modigliana",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "portico-e-san-benedetto",
+   "nome": "Portico e San Benedetto",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "predappio",
+   "nome": "Predappio",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rocca-san-casciano",
+   "nome": "Rocca San Casciano",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "tredozio",
+   "nome": "Tredozio",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cagnano-amiterno",
+   "nome": "Cagnano Amiterno",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "campotosto",
+   "nome": "Campotosto",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "capitignano",
+   "nome": "Capitignano",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fagnano-alto",
+   "nome": "Fagnano Alto",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "laquila",
+   "nome": "L'Aquila",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montereale",
+   "nome": "Montereale",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pizzoli",
+   "nome": "Pizzoli",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-pio-delle-camere",
+   "nome": "San Pio delle Camere",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "scoppito",
+   "nome": "Scoppito",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "villa-santangelo",
+   "nome": "Villa Sant'Angelo",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cartoceto",
+   "nome": "Cartoceto",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "isola-del-piano",
+   "nome": "Isola del Piano",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monte-porzio",
+   "nome": "Monte Porzio",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montefelcino",
+   "nome": "Montefelcino",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-costanzo",
+   "nome": "San Costanzo",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "santippolito",
+   "nome": "Sant'Ippolito",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "colli-al-metauro",
+   "nome": "Colli al Metauro",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fossombrone",
+   "nome": "Fossombrone",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mondavio",
+   "nome": "Mondavio",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pergola",
+   "nome": "Pergola",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fano",
+   "nome": "Fano",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "asola",
+   "nome": "Asola",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bagnolo-san-vito",
+   "nome": "Bagnolo San Vito",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casalmoro",
+   "nome": "Casalmoro",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casaloldo",
+   "nome": "Casaloldo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casalromano",
+   "nome": "Casalromano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castelbelforte",
+   "nome": "Castelbelforte",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castel-goffredo",
+   "nome": "Castel Goffredo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "marmirolo",
+   "nome": "Marmirolo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "porto-mantovano",
+   "nome": "Porto Mantovano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roverbella",
+   "nome": "Roverbella",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giacomo-delle-segnate",
+   "nome": "San Giacomo delle Segnate",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giorgio-bigarello",
+   "nome": "San Giorgio Bigarello",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgo-mantovano",
+   "nome": "Borgo Mantovano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "acquanegra-sul-chiese",
+   "nome": "Acquanegra sul Chiese",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bozzolo",
+   "nome": "Bozzolo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castel-dario",
+   "nome": "Castel d'Ario",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ceresara",
+   "nome": "Ceresara",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gazzuolo",
+   "nome": "Gazzuolo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gonzaga",
+   "nome": "Gonzaga",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "magnacavallo",
+   "nome": "Magnacavallo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "marcaria",
+   "nome": "Marcaria",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pegognaga",
+   "nome": "Pegognaga",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "poggio-rusco",
+   "nome": "Poggio Rusco",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ponti-sul-mincio",
+   "nome": "Ponti sul Mincio",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quingentole",
+   "nome": "Quingentole",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "quistello",
+   "nome": "Quistello",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "redondesco",
+   "nome": "Redondesco",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rivarolo-mantovano",
+   "nome": "Rivarolo Mantovano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rodigo",
+   "nome": "Rodigo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "roncoferraro",
+   "nome": "Roncoferraro",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sabbioneta",
+   "nome": "Sabbioneta",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giovanni-del-dosso",
+   "nome": "San Giovanni del Dosso",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-martino-dallargine",
+   "nome": "San Martino dall'Argine",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "schivenoglia",
+   "nome": "Schivenoglia",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sermide-e-felonica",
+   "nome": "Sermide e Felonica",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "solferino",
+   "nome": "Solferino",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "volta-mantovana",
+   "nome": "Volta Mantovana",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgocarbonara",
+   "nome": "Borgocarbonara",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "settimo-milanese",
+   "nome": "Settimo Milanese",
+   "provincia": "MI",
+   "gestore": "Mantova Ambiente / AMSA",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "mantova",
+   "nome": "Mantova",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "berzo-san-fermo",
+   "nome": "Berzo San Fermo",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bianzano",
+   "nome": "Bianzano",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "borgo-di-terzo",
+   "nome": "Borgo di Terzo",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "bossico",
+   "nome": "Bossico",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "casazza",
+   "nome": "Casazza",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "castro",
+   "nome": "Castro",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "cenate-sopra",
+   "nome": "Cenate Sopra",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "chignolo-disola",
+   "nome": "Chignolo d'Isola",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "costa-volpino",
+   "nome": "Costa Volpino",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "endine-gaiano",
+   "nome": "Endine Gaiano",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "entratico",
+   "nome": "Entratico",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "fonteno",
+   "nome": "Fonteno",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "gaverina-terme",
+   "nome": "Gaverina Terme",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "grone",
+   "nome": "Grone",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "lovere",
+   "nome": "Lovere",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "luzzana",
+   "nome": "Luzzana",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "monasterolo-del-castello",
+   "nome": "Monasterolo del Castello",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "peia",
+   "nome": "Peia",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "pianico",
+   "nome": "Pianico",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "piazza-brembana",
+   "nome": "Piazza Brembana",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "ranzanico",
+   "nome": "Ranzanico",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "riva-di-solto",
+   "nome": "Riva di Solto",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rogno",
+   "nome": "Rogno",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-giovanni-bianco",
+   "nome": "San Giovanni Bianco",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "scanzorosciate",
+   "nome": "Scanzorosciate",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "solto-collina",
+   "nome": "Solto Collina",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "spinone-al-lago",
+   "nome": "Spinone al Lago",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sovere",
+   "nome": "Sovere",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "strozza",
+   "nome": "Strozza",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "terno-disola",
+   "nome": "Terno d'Isola",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "vigano-san-martino",
+   "nome": "Vigano San Martino",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "rota-dimagna",
+   "nome": "Rota d'Imagna",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "san-pellegrino-terme",
+   "nome": "San Pellegrino Terme",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "sorisole",
+   "nome": "Sorisole",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "trescore-balneario",
+   "nome": "Trescore Balneario",
+   "provincia": "BG",
+   "gestore": "Val Cavallina Servizi",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "torre-boldone",
+   "nome": "Torre Boldone",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "montano-lucino",
+   "nome": "Montano Lucino",
+   "provincia": "CO",
+   "gestore": "Aprica",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "nembro",
+   "nome": "Nembro",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "da_verificare"
+  },
+  {
+   "id": "seriate",
+   "nome": "Seriate",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "da_verificare"
+  }
+ ]
+}
