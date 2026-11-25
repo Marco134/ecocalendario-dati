@@ -1153,7 +1153,10 @@
    "nome": "Calco",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/calco-variazione-orari-di-apertura-del-centro-di-raccolta/",
+   "verificato": "2026-11-25",
+   "nota": "Avviso 02/09/2024: durante lavori venerdì 15–18 anche ditte; orario temporaneo, non utilizzare come attuale senza conferma. Dato parziale; date, zone e altri servizi UND da verificare."
   },
   {
    "id": "calolziocorte",
@@ -2150,7 +2153,10 @@
    "nome": "Colico",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/nuovi-orari-centro-di-raccolta-di-colico/",
+   "verificato": "2026-11-25",
+   "nota": "Avviso gennaio 2024: CCR via Strada Granda, UND giovedì 13–17; verificare conferma 2026. Dato parziale; date, zone e altri servizi UND da verificare."
   },
   {
    "id": "colle-brianza",
@@ -3276,7 +3282,10 @@
    "nome": "Lecco",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/nuovo-centro-di-raccolta-di-lecco/",
+   "verificato": "2026-11-25",
+   "nota": "Nuovo CCR aperto dicembre 2024 con controllo iscrizione Albo dei mezzi UND; orari attuali da verificare. Dato parziale; date, zone e altri servizi UND da verificare."
   },
   {
    "id": "leini",
@@ -3325,7 +3334,10 @@
    "nome": "Lierna",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/lierna-chiusura-del-centro-di-raccolta-i-cittadini-potranno-recarsi-a-mandello/",
+   "verificato": "2026-11-25",
+   "nota": "Avviso 08/07/2026: chiusura temporanea CCR dal 13/07; avviso indica CCR Mandello via Carletta, fascia UND venerdì 14–17. Confermare riapertura e ammissibilità delle ditte di Lierna prima di pubblicare. Dato parziale; date, zone e altri servizi UND da verificare."
   },
   {
    "id": "liscate",
@@ -3563,7 +3575,10 @@
    "nome": "Mandello del Lario",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/lierna-chiusura-del-centro-di-raccolta-i-cittadini-potranno-recarsi-a-mandello/",
+   "verificato": "2026-11-25",
+   "nota": "Avviso 08/07/2026: CCR via Carletta, UND venerdì 14–17; confermare orario corrente. Dato parziale; date, zone e altri servizi UND da verificare."
   },
   {
    "id": "manerba-del-garda",
@@ -6750,7 +6765,10 @@
    "nome": "Villa d'Adda",
    "provincia": "BG",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Villa-dAdda-ecocalendario26_web.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Calendario 2026: accesso CCR UND con card magnetica richiesta agli uffici comunali e iscrizione Albo; ritiro gratuito grandi RAEE a domicilio riservato UD. Calendario condiviso non ancora accertato. Dato parziale; date, zone e altri servizi UND da verificare."
   },
   {
    "id": "villa-di-tirano",
