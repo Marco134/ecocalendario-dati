@@ -1,678 +1,708 @@
 {
-  "schema": 1,
-  "aggiornato": "2026-11-22",
-  "nota": "Canali per segnalare un mancato ritiro. Il telefono è quello del gestore in ingombranti.json (numero verde, obbligatorio per ARERA); qui il modulo online ufficiale e gli orari del servizio clienti, dove li abbiamo trovati sul sito del gestore. Le voci sono legate per id a ingombranti.json.",
-  "gestori": [
-    {
-      "id": "seta",
-      "modulo_url": "https://www.setaspa.com/richieste-segnalazioni-e-disservizi",
-      "fonte": "https://www.setaspa.com/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–17:00"
-    },
-    {
-      "id": "coinger",
-      "modulo_url": "https://coinger.it/invia-richiesta/",
-      "fonte": "https://www.coinger.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–gio 8:30–13:00 e 14:00–17:00 · ven 8:30–13:00 e 14:00–16:00 · sab 8:30–13:30"
-    },
-    {
-      "id": "contarina",
-      "modulo_url": "https://contarina.it/segnalazioni",
-      "fonte": "https://www.contarina.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 8:30–18:00 · sab 8:30–13:00"
-    },
-    {
-      "id": "conservco",
-      "modulo_url": "https://www.conservco.it/it/segnalazione-disservizio/",
-      "fonte": "https://www.conservco.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "valpe",
-      "modulo_url": "https://valpeambiente.it/segnalazioni/",
-      "fonte": "https://www.valpeambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 8:30–18:00 · sab 8:30–13:00"
-    },
-    {
-      "id": "gelsia-ambiente",
-      "modulo_url": "https://www.gelsiambiente.it/contatti/",
-      "fonte": "https://www.gelsiambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 8:30–18:00 · sab 8:30–17:00"
-    },
-    {
-      "id": "garda-uno-calcinato",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-dello",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-gardone-riviera",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-gargnano",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-manerba-del-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-manerbio",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-offlaga",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-padenghe-sul-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-pontevico",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-pozzolengo",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-prevalle",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-puegnago-del-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-san-felice-del-benaco",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-soiano-del-lago",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-toscolano-maderno",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-magasa",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-tignale",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-valvestino",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-calvagese-della-riviera",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-desenzano-del-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-lonato-del-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-polpenazze-del-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-salo",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-tremosine-sul-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-moniga-del-garda",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "garda-uno-verolanuova",
-      "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
-      "fonte": "https://www.gardauno.it/",
-      "verificato": "2026-11-22"
-    },
-    {
-      "id": "cidiu",
-      "fonte": "https://cidiu.it/cidiu/numero-verde/",
-      "verificato": "2026-11-22",
-      "orari": "lun–gio 8:30–16:30 · ven 8:30–15:00"
-    },
-    {
-      "id": "silea",
-      "fonte": "https://www.sileaspa.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 8:30–12:30 e 13:00–17:30 · sab 8:30–12:30"
-    },
-    {
-      "id": "cem-ambiente-agrate-brianza",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-aicurzio",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-arcore",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-basiano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-bellinzago-lombardo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-bellusco",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-bernareggio",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-borgo-san-giovanni",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-brugherio",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-burago-di-molgora",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-busnago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-bussero",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cambiago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-camparada",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-caponago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-carnate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-carpiano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-carugate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-casaletto-lodigiano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-casalmaiocco",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-caselle-lurani",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cassano-d-adda",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cassina-de-pecchi",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cavenago-di-brianza",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cernusco-sul-naviglio",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cerro-al-lambro",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cervignano-d-adda",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cologno-monzese",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-colturano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-comazzo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-concorezzo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-cornate-d-adda",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-correzzana",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-dresano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-gessate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-gorgonzola",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-grezzago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-inzago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-lesmo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-liscate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-macherio",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-masate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-massalengo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-mediglia",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-melegnano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-melzo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-merlino",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-mezzago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-mulazzano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-ornago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-pantigliate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-paullo",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-pessano-con-bornago",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-pozzo-d-adda",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-pozzuolo-martesana",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-rodano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-roncello",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-ronco-briantino",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-salerano-sul-lambro",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-san-zenone-al-lambro",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-sant-angelo-lodigiano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-settala",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-sordio",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-sulbiate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-torrevecchia-pia",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-trezzano-rosa",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-trezzo-sull-adda",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-tribiano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-truccazzano",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-usmate-velate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-vaprio-d-adda",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-vedano-al-lambro",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-vignate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-villasanta",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-vimercate",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-vimodrone",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    },
-    {
-      "id": "cem-ambiente-vizzolo-predabissi",
-      "fonte": "https://www.cemambiente.it/",
-      "verificato": "2026-11-22",
-      "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
-    }
-  ]
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "nota": "Canali per segnalare un mancato ritiro. Il telefono è quello del gestore in ingombranti.json (numero verde, obbligatorio per ARERA); qui il modulo online ufficiale e gli orari del servizio clienti, dove li abbiamo trovati sul sito del gestore. Le voci sono legate per id a ingombranti.json.",
+ "gestori": [
+  {
+   "id": "seta",
+   "modulo_url": "https://www.setaspa.com/richieste-segnalazioni-e-disservizi",
+   "fonte": "https://www.setaspa.com/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–17:00"
+  },
+  {
+   "id": "coinger",
+   "modulo_url": "https://coinger.it/invia-richiesta/",
+   "fonte": "https://www.coinger.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–gio 8:30–13:00 e 14:00–17:00 · ven 8:30–13:00 e 14:00–16:00 · sab 8:30–13:30"
+  },
+  {
+   "id": "contarina",
+   "modulo_url": "https://contarina.it/segnalazioni",
+   "fonte": "https://www.contarina.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 8:30–18:00 · sab 8:30–13:00"
+  },
+  {
+   "id": "conservco",
+   "modulo_url": "https://www.conservco.it/it/segnalazione-disservizio/",
+   "fonte": "https://www.conservco.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "valpe",
+   "modulo_url": "https://valpeambiente.it/segnalazioni/",
+   "fonte": "https://www.valpeambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 8:30–18:00 · sab 8:30–13:00"
+  },
+  {
+   "id": "gelsia-ambiente",
+   "modulo_url": "https://www.gelsiambiente.it/contatti/",
+   "fonte": "https://www.gelsiambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 8:30–18:00 · sab 8:30–17:00"
+  },
+  {
+   "id": "garda-uno-calcinato",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-dello",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-gardone-riviera",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-gargnano",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-manerba-del-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-manerbio",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-offlaga",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-padenghe-sul-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-pontevico",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-pozzolengo",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-prevalle",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-puegnago-del-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-san-felice-del-benaco",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-soiano-del-lago",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-toscolano-maderno",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-magasa",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-tignale",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-valvestino",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-calvagese-della-riviera",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-desenzano-del-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-lonato-del-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-polpenazze-del-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-salo",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-tremosine-sul-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-moniga-del-garda",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "garda-uno-verolanuova",
+   "modulo_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/segnalazioni-informazioni-reclami",
+   "fonte": "https://www.gardauno.it/",
+   "verificato": "2026-11-22"
+  },
+  {
+   "id": "cidiu",
+   "fonte": "https://cidiu.it/cidiu/numero-verde/",
+   "verificato": "2026-11-22",
+   "orari": "lun–gio 8:30–16:30 · ven 8:30–15:00"
+  },
+  {
+   "id": "silea",
+   "fonte": "https://www.sileaspa.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 8:30–12:30 e 13:00–17:30 · sab 8:30–12:30"
+  },
+  {
+   "id": "cem-ambiente-agrate-brianza",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-aicurzio",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-arcore",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-basiano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-bellinzago-lombardo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-bellusco",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-bernareggio",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-borgo-san-giovanni",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-brugherio",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-burago-di-molgora",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-busnago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-bussero",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cambiago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-camparada",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-caponago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-carnate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-carpiano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-carugate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-casaletto-lodigiano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-casalmaiocco",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-caselle-lurani",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cassano-d-adda",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cassina-de-pecchi",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cavenago-di-brianza",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cernusco-sul-naviglio",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cerro-al-lambro",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cervignano-d-adda",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cologno-monzese",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-colturano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-comazzo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-concorezzo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-cornate-d-adda",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-correzzana",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-dresano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-gessate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-gorgonzola",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-grezzago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-inzago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-lesmo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-liscate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-macherio",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-masate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-massalengo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-mediglia",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-melegnano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-melzo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-merlino",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-mezzago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-mulazzano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-ornago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-pantigliate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-paullo",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-pessano-con-bornago",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-pozzo-d-adda",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-pozzuolo-martesana",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-rodano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-roncello",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-ronco-briantino",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-salerano-sul-lambro",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-san-zenone-al-lambro",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-sant-angelo-lodigiano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-settala",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-sordio",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-sulbiate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-torrevecchia-pia",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-trezzano-rosa",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-trezzo-sull-adda",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-tribiano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-truccazzano",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-usmate-velate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-vaprio-d-adda",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-vedano-al-lambro",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-vignate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-villasanta",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-vimercate",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-vimodrone",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "cem-ambiente-vizzolo-predabissi",
+   "fonte": "https://www.cemambiente.it/",
+   "verificato": "2026-11-22",
+   "orari": "lun–ven 9:00–12:30 e 14:30–17:00 · sab 9:00–12:00"
+  },
+  {
+   "id": "aprica-torre-boldone",
+   "modulo_url": "https://www.apricaspa.it/it/torre-boldone/servizi/segnalazioni",
+   "fonte": "https://www.apricaspa.it/it/torre-boldone/servizi/segnalazioni",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "aprica-montano-lucino",
+   "modulo_url": "https://www.apricaspa.it/it/montano-lucino/servizi/segnalazioni",
+   "fonte": "https://www.apricaspa.it/it/montano-lucino/servizi/segnalazioni",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "aprica-nembro",
+   "modulo_url": "https://www.apricaspa.it/it/nembro/servizi/segnalazioni",
+   "fonte": "https://www.apricaspa.it/it/nembro/servizi/segnalazioni",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "aprica-seriate",
+   "modulo_url": "https://www.apricaspa.it/it/seriate/servizi/segnalazioni",
+   "fonte": "https://www.apricaspa.it/it/seriate/servizi/segnalazioni",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "amsa-settimo-milanese",
+   "modulo_url": "https://www.amsa.it/it/settimo-milanese/servizi/segnalazioni",
+   "fonte": "https://www.amsa.it/it/settimo-milanese/servizi/segnalazioni",
+   "verificato": "2026-11-25"
+  }
+ ]
 }
