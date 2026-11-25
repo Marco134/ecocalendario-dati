@@ -49,3 +49,7 @@ Le Carte locali confermano il calendario ordinario per 31 comuni e 33 zone fino 
 ## CEM Ambiente
 
 Per 73 comuni sono disponibili i turni ordinari delle attività fino al 31 gennaio 2027. Per altri quattro è disponibile una scheda di verifica. Il servizio Altre Plastiche si attiva a richiesta. Per accessi e orari riservati alle attività consultare le indicazioni del centro. [Servizi per le aziende](https://www.cemambiente.it/per-le-aziende/) · [Requisiti delle piattaforme](https://www.cemambiente.it/conferimento-rifiuti-assimilati/)
+
+## Garda Uno
+
+Calendario base per Calcinato, Desenzano del Garda e Salò. A Manerbio sono pubblicati i due turni dell’organico dedicati alle grandi utenze. I 22 comuni con scheda riportano servizi e conferme locali. Le **voci ABC** riservate alle famiglie rimandano al canale per le attività. [ABC Garda Uno](https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/abc-dei-rifiuti) · [Accesso ai centri per le attività](https://www.gardauno.it/media/12723/depliant-cdr-2020-aziende.pdf)

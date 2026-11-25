@@ -577,6 +577,37 @@
    ]
   },
   {
+   "id": "calcinato",
+   "nome": "Calcinato",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.457182,
+   "lon": 10.413574,
+   "zone_url": "https://www.gardauno.it/it/comuni/calcinato",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A – Calcinato",
+     "file": "comuni/calcinato/zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B – Calcinatello e Ponte San Marco",
+     "file": "comuni/calcinato/zona-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C – Cascine sparse",
+     "file": "comuni/calcinato/zona-c.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-calcinato.json"
+  },
+  {
    "id": "calliano",
    "nome": "Calliano",
    "provincia": "TN",
@@ -599,6 +630,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "calvagese-della-riviera",
+   "nome": "Calvagese della Riviera",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.54004,
+   "lon": 10.445833,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/calvagese-della-riviera/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-calvagese-della-riviera.json"
   },
   {
    "id": "cambiago",
@@ -1323,6 +1372,55 @@
    ]
   },
   {
+   "id": "dello",
+   "nome": "Dello",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.41811,
+   "lon": 10.075203,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/dello/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-dello.json"
+  },
+  {
+   "id": "desenzano-del-garda",
+   "nome": "Desenzano del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.469485,
+   "lon": 10.538947,
+   "zone_url": "https://www.gardauno.it/it/comuni/desenzano",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A",
+     "file": "comuni/desenzano-del-garda/zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B",
+     "file": "comuni/desenzano-del-garda/zona-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C – Centro storico",
+     "file": "comuni/desenzano-del-garda/zona-c.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-desenzano-del-garda.json"
+  },
+  {
    "id": "dovadola",
    "nome": "Dovadola",
    "provincia": "FC",
@@ -1687,6 +1785,42 @@
    ]
   },
   {
+   "id": "gardone-riviera",
+   "nome": "Gardone Riviera",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.618785,
+   "lon": 10.559101,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/gardone-riviera/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-gardone-riviera.json"
+  },
+  {
+   "id": "gargnano",
+   "nome": "Gargnano",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.688138,
+   "lon": 10.663501,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/gargnano/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-gargnano.json"
+  },
+  {
    "id": "gaverina-terme",
    "nome": "Gaverina Terme",
    "provincia": "BG",
@@ -1997,6 +2131,25 @@
    ]
   },
   {
+   "id": "lonato-del-garda",
+   "nome": "Lonato del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.461039,
+   "lon": 10.484535,
+   "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/lonato-del-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-lonato-del-garda.json"
+  },
+  {
    "id": "lovere",
    "nome": "Lovere",
    "provincia": "BG",
@@ -2083,6 +2236,67 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "magasa",
+   "nome": "Magasa",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.781392,
+   "lon": 10.615973,
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/magasa/zona-stradale.json",
+     "valido_al": "2099-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-magasa.json"
+  },
+  {
+   "id": "manerba-del-garda",
+   "nome": "Manerba del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.556043,
+   "lon": 10.562593,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/manerba-del-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-manerba-del-garda.json"
+  },
+  {
+   "id": "manerbio",
+   "nome": "Manerbio",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.355777,
+   "lon": 10.13517,
+   "zone_url": "https://www.gardauno.it/it/comuni/manerbio",
+   "zone": [
+    {
+     "id": "umido-grandi-utenze-zona-a",
+     "nome": "Zona A · Umido grandi utenze",
+     "file": "comuni/manerbio/zona-umido-grandi-utenze-zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "umido-grandi-utenze-zona-b",
+     "nome": "Zona B · Umido grandi utenze",
+     "file": "comuni/manerbio/zona-umido-grandi-utenze-zona-b.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-manerbio.json"
   },
   {
    "id": "martinengo",
@@ -2364,6 +2578,24 @@
    ]
   },
   {
+   "id": "moniga-del-garda",
+   "nome": "Moniga del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.528523,
+   "lon": 10.537573,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/moniga-del-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-moniga-del-garda.json"
+  },
+  {
    "id": "montecastrilli",
    "nome": "Montecastrilli",
    "provincia": "TR",
@@ -2552,6 +2784,25 @@
    ]
   },
   {
+   "id": "offlaga",
+   "nome": "Offlaga",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.386133,
+   "lon": 10.117457,
+   "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/offlaga/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-offlaga.json"
+  },
+  {
    "id": "ornago",
    "nome": "Ornago",
    "provincia": "MB",
@@ -2592,6 +2843,24 @@
     }
    ],
    "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+  },
+  {
+   "id": "padenghe-sul-garda",
+   "nome": "Padenghe sul Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.509584,
+   "lon": 10.506376,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/padenghe-sul-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-padenghe-sul-garda.json"
   },
   {
    "id": "pantigliate",
@@ -2862,6 +3131,24 @@
    ]
   },
   {
+   "id": "polpenazze-del-garda",
+   "nome": "Polpenazze del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.551185,
+   "lon": 10.504875,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/polpenazze-del-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-polpenazze-del-garda.json"
+  },
+  {
    "id": "pomarolo",
    "nome": "Pomarolo",
    "provincia": "TN",
@@ -2878,6 +3165,25 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "pontevico",
+   "nome": "Pontevico",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.274374,
+   "lon": 10.092471,
+   "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/pontevico/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-pontevico.json"
   },
   {
    "id": "porano",
@@ -2945,6 +3251,24 @@
    ]
   },
   {
+   "id": "pozzolengo",
+   "nome": "Pozzolengo",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.40597,
+   "lon": 10.631373,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/pozzolengo/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-pozzolengo.json"
+  },
+  {
    "id": "pozzuolo-martesana",
    "nome": "Pozzuolo Martesana",
    "provincia": "MI",
@@ -2991,6 +3315,42 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "prevalle",
+   "nome": "Prevalle",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.551482,
+   "lon": 10.421857,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/prevalle/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-prevalle.json"
+  },
+  {
+   "id": "puegnago-del-garda",
+   "nome": "Puegnago del Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.565692,
+   "lon": 10.51147,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/puegnago-del-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-puegnago-del-garda.json"
   },
   {
    "id": "ranzanico",
@@ -3213,6 +3573,55 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "salo",
+   "nome": "Salò",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.605678,
+   "lon": 10.520069,
+   "zone_url": "https://www.gardauno.it/it/comuni/salò",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A – Centro",
+     "file": "comuni/salo/zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B",
+     "file": "comuni/salo/zona-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C",
+     "file": "comuni/salo/zona-c.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-salo.json"
+  },
+  {
+   "id": "san-felice-del-benaco",
+   "nome": "San Felice del Benaco",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.589546,
+   "lon": 10.551733,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/san-felice-del-benaco/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-san-felice-del-benaco.json"
   },
   {
    "id": "san-gemini",
@@ -3460,6 +3869,24 @@
    ]
   },
   {
+   "id": "soiano-del-lago",
+   "nome": "Soiano del Lago",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.527784,
+   "lon": 10.512675,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/soiano-del-lago/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-soiano-del-lago.json"
+  },
+  {
    "id": "solto-collina",
    "nome": "Solto Collina",
    "provincia": "BG",
@@ -3639,6 +4066,24 @@
    ]
   },
   {
+   "id": "tignale",
+   "nome": "Tignale",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.739781,
+   "lon": 10.721765,
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/tignale/zona-stradale.json",
+     "valido_al": "2099-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-tignale.json"
+  },
+  {
    "id": "torrevecchia-pia",
    "nome": "Torrevecchia Pia",
    "provincia": "PV",
@@ -3655,6 +4100,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "toscolano-maderno",
+   "nome": "Toscolano-Maderno",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.63453,
+   "lon": 10.609521,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/toscolano-maderno/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-toscolano-maderno.json"
   },
   {
    "id": "trambileno",
@@ -3703,6 +4166,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "tremosine-sul-garda",
+   "nome": "Tremosine sul Garda",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.771079,
+   "lon": 10.760773,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/tremosine-sul-garda/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-tremosine-sul-garda.json"
   },
   {
    "id": "trento",
@@ -3985,6 +4466,24 @@
    ]
   },
   {
+   "id": "valvestino",
+   "nome": "Valvestino",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.762092,
+   "lon": 10.594646,
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/valvestino/zona-stradale.json",
+     "valido_al": "2099-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-valvestino.json"
+  },
+  {
    "id": "vaprio-d-adda",
    "nome": "Vaprio d'Adda",
    "provincia": "MI",
@@ -4019,6 +4518,25 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "verolanuova",
+   "nome": "Verolanuova",
+   "provincia": "BS",
+   "gestore": "Garda Uno",
+   "consorzio": "garda-uno-und",
+   "lat": 45.328581,
+   "lon": 10.076086,
+   "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026",
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/verolanuova/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/garda-und-verolanuova.json"
   },
   {
    "id": "vignate",
@@ -4470,6 +4988,12 @@
    "gestore": "CEM Ambiente",
    "ecocentri": "ecocentri/cem-ambiente-und.json",
    "regole": "regole/cem-ambiente-und.json"
+  },
+  "garda-uno-und": {
+   "nome": "Garda Uno · UND",
+   "gestore": "Garda Uno",
+   "ecocentri": "ecocentri/garda-uno-und.json",
+   "regole": "regole/garda-uno-und.json"
   }
  }
 }

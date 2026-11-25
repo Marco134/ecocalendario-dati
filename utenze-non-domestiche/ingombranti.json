@@ -892,6 +892,52 @@
    "regole_en": [
     "Check whether your business is eligible for bulky waste collection and which recycling centre conditions apply."
    ]
+  },
+  {
+   "id": "garda-uno-und",
+   "nome": "Garda Uno · UND",
+   "gestori": [],
+   "comuni": [
+    "calcinato",
+    "calvagese-della-riviera",
+    "dello",
+    "desenzano-del-garda",
+    "gardone-riviera",
+    "gargnano",
+    "lonato-del-garda",
+    "magasa",
+    "manerba-del-garda",
+    "manerbio",
+    "moniga-del-garda",
+    "offlaga",
+    "padenghe-sul-garda",
+    "polpenazze-del-garda",
+    "pontevico",
+    "pozzolengo",
+    "prevalle",
+    "puegnago-del-garda",
+    "salo",
+    "san-felice-del-benaco",
+    "soiano-del-lago",
+    "tignale",
+    "toscolano-maderno",
+    "tremosine-sul-garda",
+    "valvestino",
+    "verolanuova"
+   ],
+   "telefono": "800 033 955",
+   "orari": "Lun–ven 08:00–20:00, sab 08:00–13:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/come-funziona-nel-tuo-comune | https://www.gardauno.it/media/12723/depliant-cdr-2020-aziende.pdf",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Chiedere a Garda Uno se il ritiro a domicilio è disponibile per la categoria dell’attività e quali rifiuti, limiti e costi si applicano.",
+    "Per il centro di raccolta valgono le condizioni locali e le autorizzazioni previste per le attività."
+   ],
+   "regole_en": [
+    "Check whether bulky waste pickup is available for your business category and which items, limits and fees apply. Recycling centre access depends on local rules."
+   ]
   }
  ]
 }

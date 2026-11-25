@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "comune": "Manerbio",
+ "provincia": "BS",
+ "gestore": "Garda Uno",
+ "zona": "Zona B · Umido grandi utenze",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.gardauno.it/it/comuni/manerbio | https://www.gardauno.it/media/20121/manerbio2026-web.pdf | https://www.gardauno.it/media/12723/depliant-cdr-2020-aziende.pdf",
+ "esposizione": "Esporre dalle 18:00 alle 20:00 del giorno di raccolta. Il 24 e 31 dicembre il calendario indica esposizione anticipata alle 12:00.",
+ "raccolte": {
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Solo il turno contrassegnato con il simbolo delle grandi utenze: ristoranti, alberghi, bar, mense e negozi alimentari.",
+  "Per il programma delle altre frazioni e la zona C chiedere a Garda Uno."
+ ]
+}

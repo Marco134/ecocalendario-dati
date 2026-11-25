@@ -1,0 +1,1557 @@
+{
+ "schema": 1,
+ "nome": "Garda Uno · regole per le attività",
+ "fonte": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/abc-dei-rifiuti | https://www.gardauno.it/media/12723/depliant-cdr-2020-aziende.pdf",
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro e lattine",
+   "nome_en": "Glass and metal packaging"
+  }
+ },
+ "voci": {
+  "abbigliamento (pulito)": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "accendini": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "accumulatori": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "acetone per unghie": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "acquaragia": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "adesivi": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "agenda (senza copertina plastificata)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "aghi (con cappuccio protezione)": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "albero di natale (sintetico)": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "albero di natale (vivo)": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "alimentatori elettrici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "alimenti avariati (senza confezione)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "alimenti per animali (crocchette e sim.)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "alluminio (barattoli, lattine, vaschette,etc)": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "altoparlanti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "antenne": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "antiparassitari": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "apparecchi elettrici ed elettronici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "appendiabiti in legno": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "appendiabiti in metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "appendiabiti in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "armadio": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "arredo da giardino": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "asciugacapelli": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "aspirapolvere": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "asse da stiro": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "assorbenti igienici": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "astuccio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "attaccapanni": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "bacinelle": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "barattoli di vetro o di metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "basamento per ombrelloni": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "bastoncini del gelato": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "batterie auto": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "bicchieri di plastica riutilizzabili": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "bicchieri di plastica usa e getta (puliti)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "bicchieri di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "biciclette": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "bigiotteria": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "blister per pastiglie": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "bombole del gas": {
+   "dove": "varia",
+   "nota": "L’ABC esclude il materiale dalla raccolta indicata. Chiedere al gestore il canale autorizzato."
+  },
+  "bombolette metalliche spray vuote": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "bombolette spray con simbolo t o f": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "borse": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "borse danneggiate": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "bottoni": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "bucce (di alimenti)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "bulloni": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "buste biodegradabili": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "buste di plastica e alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "buste di sola plastica": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "caffè": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "caffettiera alluminio": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "calcinacci": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "calcolatrici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "caldaia": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "calze (spugna-lana-cotone )": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "calze di nylon ( collant )": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "canne per irrigazione": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cannuccia": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "capsula caffè in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "carcasse di animali": {
+   "dove": "varia",
+   "nota": "L’ABC rinvia all’ASL. Chiedere il canale autorizzato per il materiale dell’attività."
+  },
+  "caricabatterie": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "carta (anche bagnata di acqua)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "carta assorbente da cucina unta": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "carta da forno": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "carta oleata, alluminata, plastificata": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "carta stagnola": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "carta vetrata, carta abrasiva": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cartellette per documenti in cartoncino": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cartone ondulato": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cartone per bevande (tetrapak lavato e schiacc.)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cartone per bevande (tetrapak sciacquato e schiacc.)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cartone pizza pulito": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cartone pizza sporco (a pezzetti)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "cartucce e bossoli esplosi": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cartucce stampanti e toner": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "casco": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cassette audio e video": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cassette frutta in legno": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cassette frutta in plastica": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cateteri": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cavi elettrici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cd dvd": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cellophane": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "cellulare": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cenere di legno (spenta, piccole quantità)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "ceramica piatti e tazze": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "ceramiche varie": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cerchioni per pneumatici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "cerotti usati": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cesto in vimini": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "chewing gum": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "chiavi metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "cialda caffè in plastica o alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cialda caffè in tnt (simile bustine the)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "cicche di sigarette": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cinture": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "colle": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "colori (pennarelli-pastelli)": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "computer": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "condizionatori d'aria": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "conf. in plastica per merendine, pasta, riso": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "conf. in plastica sagomate per uova e dolciumi": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "coperchi pentole in metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "coperte": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "coppetta gelato (in cartoncino sciacquata)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "cosmetici": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cotone idrofilo usato": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cotton fioc": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cuoio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "cuscino": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "custodie cd, dvd,vhs": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "damigiane": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "deiezioni piccoli animali domestici": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "dentifricio tubetto": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "depliant": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "detersivo (contenitore in cartone)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "detersivo (contenitore in plastica)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "diario": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "diluente": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "dischi in vinile e dischetti pc": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "diserbanti": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "disinfettanti": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "divano": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "dvd": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "elastici": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "elettrodomestici di grandi dimensioni": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "elettrodomestici di piccole dimensioni": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "erba": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "erba sintetica": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "escrementi animali (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "eternit": {
+   "dove": "varia",
+   "nota": "L’ABC rinvia a ditte specializzate. Usare un operatore autorizzato."
+  },
+  "evidenziatori e pennarelli": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "farine": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "farmaci scaduti e inutilizzati": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "fazzoletti cotone": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "fazzoletti di carta usati": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "ferro da stiro": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "ferro vecchio": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "fiale per iniezioni (vuote in vetro)": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "fiale per medicinali (vuote in plastica)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "filtri auto": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "filtri di the, tisane e camomilla": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "filtro sigaretta": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "finestre": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "fiocchi e nastri regalo": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "fiori finti": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "fiori secchi e recisi": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "fitofarmaci": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "flaconi in plastica (puliti)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "flaconi in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "flaconi per detersivi e detergenti": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "floppy disk": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "fogli di carta o cartoncino": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "fogliame": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "forbici": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "forchette metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "forchette plastica": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "forni a gas": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "forni elettrici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "fotografie e pellicole fotografiche": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "frigoriferi": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "frutta deteriorata": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "fuliggine": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "fumogeni scaduti": {
+   "dove": "varia",
+   "nota": "L’ABC indirizza ai rivenditori. Verificare il canale applicabile al materiale dell’attività."
+  },
+  "gesso": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "giocattoli in plastica elettrici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "giocattoli in plastica non elettrici": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "giornali": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "gomma": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "grassi alimentari liquidi": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "grucce appendiabiti in legno": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "grucce appendiabiti in metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "grucce appendiabiti in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "guanti in gomma o lattice": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "guanti lana (puliti)": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "gusci crostacei o molluschi (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "gusci d'uovo": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "gusci frutta secca (noci mandorle nocciole)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "hi-fi": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "imballaggi in carta o cartone": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "imballaggi in metallo vuoti": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "imballaggi in plastica (puliti)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "imballaggi in plastica e alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "imballaggi in polistirolo (puliti)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "imballaggi in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "inchiostro": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "indumenti (puliti)": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "inerti": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "ingombranti (mobili, divani, poltrone, materassi)": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "insetticidi": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "lacca (flacone metallico vuoto)": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "lamette da barba": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "lampadari": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "lampade alogene": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "lampade fluorescenti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "lampadina ad incandescenza": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "lana gomitoli": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "lastre di vetro": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "latta in acciaio o banda stagnata": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "lattina alluminio": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "lavastoviglie": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "lavatrice": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "legno": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "legno verniciato": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "lettiere naturali per piccoli animali": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "lettiere sintetiche per piccoli animali": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "lucido da scarpe": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "maglieria (pulita)": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "materasso": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "matite": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "mattoni, mattonelle (piccole quantità)": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "medicinali scaduti": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "mobili in legno": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "mobili in plastica": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "mocio con manico": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "mollette bucato": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "monitor": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "mouse": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "mozziconi sigaretta": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "musicassette": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "nastri regalo": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "nastro isolante": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "neon": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "noccioli della frutta": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "nylon": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "occhiali": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "olii minerali o lubrificanti": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "olio da frittura": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "ombrello": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "onduline catramate": {
+   "dove": "varia",
+   "nota": "L’ABC esclude il materiale dalla raccolta indicata. Chiedere al gestore il canale autorizzato."
+  },
+  "opuscoli": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "orologi con pila": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "orologi meccanici": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "ossa": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "padelle metallo": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pallets": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pane vecchio": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "pannolini e pannoloni": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "pasta": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "pc": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "peli e piume (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "pellicola per alimenti": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "pennarelli pastelli": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "penne (biro)": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "pennelli": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "pennello da barba": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "pentole in terracotta": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pentole metallo": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pesce (resti di)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "pesticidi": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "piante": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "piastrelle": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "piatti di plastica usa e getta (puliti)": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "piatti di plastica usa e getta (sporchi)": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "piatti e tazze ceramica": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pile e batterie": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pirofila in terracotta": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "pirofila in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "piumini": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "pneumatici (consegnare ai gommisti)": {
+   "dove": "varia",
+   "nota": "L’ABC indirizza ai rivenditori. Verificare il canale applicabile al materiale dell’attività."
+  },
+  "polistirolo da imballo": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "polistirolo da isolamento": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "poltrona": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "polveri dell'aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "porcellana": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "porte": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "posate metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "posate plastica usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "prodotti cosmetici": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "quadri": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "radio": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "radiografie": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "rami, ramaglie": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "rasoi elettrici": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "residui di potatura": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "reti per letti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "retine per frutta a verdura": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "rivestimenti imbottiti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "riviste": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "riviste plastificate": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "rubinetteria": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "sabbia per gatti": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "sacchetti di carta e alluminio (tipo biscotti)": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "sacchetti di plastica": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "sacchetti di plastica e alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "sacchetti per aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "salvagente anulare": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "salviette umidificate": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "sanitari": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "scarpe": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "scarponi da sci": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "scarti di edilizia": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "scatola per pizza": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "scatolette metalliche (tonno, fagioli, etc)": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "schiuma da barba (bomboletta metallica)": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "sci": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "scontrino carta chimica": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "scontrino carta normale": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "scopa": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "scotch": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "secchio": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "sedia": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "segatura pulita (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "segatura sporca": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "sfalci": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "silicone": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "siringhe con cappuccio e protezione": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "smalti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "solventi": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "spazzole per capelli": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "spazzolino da denti": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "specchio": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "spugna e spugna per fioristi": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "stampante": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "stecchini del gelato e stuzzicadenti": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "stendibiancheria metallo": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "stendibiancheria plastica": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "stilografica": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "stivali in gomma": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "stoffa pulita": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "straccio sporco": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "stucchi": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "sughero": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tamponi per timbri": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "tapparelle": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tappeti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tappezzerie": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "tappi di sughero": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "tappi in metallo": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "tastiera del computer": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tazze e piatti ceramica": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tegole": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "telecomando": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "telefoni": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "televisori": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tende": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "termometro a mercurio": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "terriccio": {
+   "dove": "varia",
+   "nota": "Il gestore indica vegetale o centro. Verificare il servizio locale per le attività e la provenienza del rifiuto."
+  },
+  "tetrapak (sciacquato e schiacciato)": {
+   "dove": "carta",
+   "nota": "Usare la raccolta della carta e del cartone assegnata all’utenza."
+  },
+  "toner": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "topicidi": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "torce elettriche": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "tovaglioli in carta bagnati o sporchi di cibo": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "tovaglioli in carta sporchi di detergenti": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "tovagliolo in tessuto non tessuto": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "trielina": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "tubetto del dentifricio": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "tubo patatine": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "tubo per irrigazione": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "uova": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "utensili in metallo (cacciaviti, pinze, etc)": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "valigia": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "vasca da bagno": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "vaschette alluminio": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "vaschette in polistirolo": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio di vetro e imballaggi metallici del comune."
+  },
+  "vasetto plastica piante da trapiantare": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "vasetto yogurt": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "vasi di terracotta": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "vaso da fiori in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "vaso in plastica": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "vassoio in polistirolo": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica secondo le istruzioni della zona."
+  },
+  "verdura": {
+   "dove": "organico",
+   "nota": "Usare il contenitore indicato dal gestore per l’organico delle attività."
+  },
+  "vernici": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "vestiti (puliti)": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "vetri da finestra rotti": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "vetrocemento": {
+   "dove": "varia",
+   "nota": "L’ABC riserva questo ritiro alle utenze domestiche. Per il rifiuto dell’attività rivolgersi al canale autorizzato."
+  },
+  "vetroresina": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "videocassette": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "videoregistratori": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "vimini": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  },
+  "zaino deteriorato": {
+   "dove": "indifferenziato",
+   "nota": "Usare la dotazione per il secco del servizio comunale."
+  },
+  "zaino in buono stato": {
+   "dove": "indumenti",
+   "nota": "Usare il contenitore per abbigliamento dove previsto. Verificare i tessili prodotti dall’attività."
+  },
+  "zerbino": {
+   "dove": "varia",
+   "nota": "L’ABC indica il centro di raccolta. Confermare che il materiale urbano dell’attività sia ammesso con la documentazione richiesta."
+  }
+ }
+}
