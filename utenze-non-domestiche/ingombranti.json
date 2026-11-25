@@ -440,6 +440,39 @@
    ],
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosir-marmilla",
+   "nome": "Cosir S.r.l.",
+   "gestori": [],
+   "comuni": [
+    "barumini",
+    "collinas",
+    "genuri",
+    "gesturi",
+    "las-plassas",
+    "lunamatrona",
+    "pauli-arbarei",
+    "setzu",
+    "siddi",
+    "tuili",
+    "turri",
+    "ussaramanna",
+    "villanovaforru",
+    "villanovafranca"
+   ],
+   "telefono": "800 069 960",
+   "orari": "lun–sab 09:00–14:00 · da fisso o mobile 070 684415",
+   "prenotazione": false,
+   "prenota_url": "https://ingombranti.cosir.org/",
+   "fonte": "https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/25",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Telefonare o prenotare sul portale secondo il PDF delle utenze economiche. Per gli ingombranti il PDF indica fino a cinque pezzi per volta. Per il verde, massimo cinque colli per prenotazione. Verificare con COSIR eventuali costi e materiali ammessi."
+   ],
+   "regole_en": [
+    "Call or use COSIR’s booking portal. The business calendar allows up to five bulky items or five bundles of garden waste per booking. Ask COSIR about any charges and eligible items."
+   ]
   }
  ]
 }

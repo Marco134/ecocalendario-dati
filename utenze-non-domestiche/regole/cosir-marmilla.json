@@ -1,0 +1,200 @@
+{
+ "schema": 1,
+ "nome": "Cosir · Marmilla UND",
+ "fonte": "https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/25",
+ "voci": {
+  "bottiglia di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "flacone di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "vaschetta di polistirolo": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "retina per frutta": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "sacchetto di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "vaschetta di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "vasetto di yogurt": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti nel sacco semitrasparente."
+  },
+  "giornale": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "rivista": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "volantino": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "scatola di cartone": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "carta da fotocopie": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "libro": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "quaderno": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "cartone per pizza": {
+   "dove": "carta",
+   "nota": "Conferire senza sacchetti di plastica."
+  },
+  "bottiglia di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "barattolo di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "bicchiere di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "lattina di alluminio": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "vaschetta di alluminio": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "foglio di alluminio": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "tappo di alluminio": {
+   "dove": "vetro",
+   "nota": "Vetro e alluminio insieme. Conferire senza sacchetti."
+  },
+  "bucce di frutta": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "scarti di verdura": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "fondo di caffè": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "filtro del tè": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "guscio d’uovo": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "lische di pesce": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "piccolo osso": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "tovagliolo sporco di cibo": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "avanzi di cibo": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile e compostabile."
+  },
+  "carta carbone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le condizioni del gestore per le utenze economiche."
+  },
+  "carta plastificata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le condizioni del gestore per le utenze economiche."
+  },
+  "mozzicone di sigaretta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le condizioni del gestore per le utenze economiche."
+  },
+  "specchio rotto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le condizioni del gestore per le utenze economiche."
+  },
+  "tazza in ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le condizioni del gestore per le utenze economiche."
+  },
+  "gomma da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le condizioni del gestore per le utenze economiche."
+  },
+  "materasso": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "divano": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "frigorifero": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "lavatrice": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "televisore": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "residuo di vernice": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "toner": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  },
+  "pneumatico": {
+   "dove": "varia",
+   "nota": "Consulta le condizioni di ammissibilità e prenotazione di COSIR per la tua attività."
+  }
+ },
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro e alluminio",
+   "nome_en": "Glass and aluminium"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-25"
+ }
+}

@@ -162,6 +162,13 @@
    "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosir-marmilla",
+   "modulo_url": "https://www.cosir.org/raccolta-differenziata/servizi/segnalazioni/",
+   "orari": "lun–sab 09:00–14:00",
+   "fonte": "https://www.cosir.org/raccolta-differenziata/comune/marmilla/ | https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/25",
+   "verificato": "2026-11-25"
   }
  ]
 }

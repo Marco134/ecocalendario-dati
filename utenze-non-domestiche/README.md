@@ -9,3 +9,7 @@ Il registro `censimento.json` segue la verifica delle utenze non domestiche per 
 Dal 25 novembre al 31 dicembre 2026 sono disponibili le date di 23 comuni e 24 zone. Orvieto Nord e Sud hanno calendari distinti e ciascuno vale per le aree intensa e vasta. A Castiglione in Teverina rimane da verificare la validità dello schema settimanale e il servizio nei festivi. A Guardea resta da recuperare l’allegato UND indicato da ASM. [Fonti comunali](fonti.html) · [Calendari e documenti COSP](https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/)
 
 Dalla radice del repository, eseguire `python3 utenze-non-domestiche/strumenti/valida.py` per la validazione. Le condizioni di accesso ai centri e di ritiro degli ingombranti vanno verificate per l’attività e la tipologia di rifiuto. Per usare il catalogo nell’app fa fede l’integrazione prevista nell’issue #23. [Issue #23](https://github.com/Marco134/ecocalendario/issues/23)
+
+## Marmilla
+
+Il calendario delle utenze economiche COSIR è comune a 14 comuni e arriva al 31 ottobre 2027. Vetro e alluminio si conferiscono insieme. L’Unione pubblica la scheda di conferimento per le attività. Per costi e ammissibilità del ritiro ingombranti fa fede COSIR. [Calendario UND](https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/25) · [Scheda di conferimento](https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/26)
