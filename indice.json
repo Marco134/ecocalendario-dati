@@ -10107,6 +10107,23 @@
       ]
     },
     {
+      "id": "martinengo",
+      "nome": "Martinengo",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.570368,
+      "lon": 9.767376,
+      "consorzio": "servizi-comunali-martinengo",
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/martinengo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "masate",
       "nome": "Masate",
       "provincia": "MI",
@@ -12533,6 +12550,23 @@
           "nome": "Zona unica",
           "file": "comuni/pantigliate/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "paratico",
+      "nome": "Paratico",
+      "provincia": "BS",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.659876,
+      "lon": 9.95507,
+      "consorzio": "servizi-comunali-paratico",
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/paratico/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -15940,6 +15974,23 @@
         "fonte": "https://www.setaspa.com/tarip",
         "nome": "TARIP"
       }
+    },
+    {
+      "id": "sedrina",
+      "nome": "Sedrina",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.781783,
+      "lon": 9.624051,
+      "consorzio": "servizi-comunali-sedrina",
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sedrina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "sellero",
@@ -19360,6 +19411,23 @@
         }
       ],
       "zone_url": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Valvasone%20Arzene%202027.pdf?t=1795255236"
+    },
+    {
+      "id": "zogno",
+      "nome": "Zogno",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.793706,
+      "lon": 9.666203,
+      "consorzio": "servizi-comunali-zogno",
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/zogno/zona-unica.json",
+          "valido_al": "2027-12-31"
+        }
+      ]
     },
     {
       "id": "zoppola",
@@ -23793,6 +23861,30 @@
       "gestore": "Massimi Eco Soluzioni",
       "ecocentri": "ecocentri/bagnoregio.json",
       "regole": "regole/bagnoregio.json"
+    },
+    "servizi-comunali-martinengo": {
+      "nome": "Servizi Comunali · Martinengo",
+      "gestore": "Servizi Comunali S.p.A.",
+      "ecocentri": "ecocentri/martinengo.json",
+      "regole": "regole/martinengo.json"
+    },
+    "servizi-comunali-paratico": {
+      "nome": "Servizi Comunali · Paratico",
+      "gestore": "Servizi Comunali S.p.A.",
+      "ecocentri": "ecocentri/paratico.json",
+      "regole": "regole/paratico.json"
+    },
+    "servizi-comunali-sedrina": {
+      "nome": "Servizi Comunali · Sedrina",
+      "gestore": "Servizi Comunali S.p.A.",
+      "ecocentri": "ecocentri/sedrina.json",
+      "regole": "regole/sedrina.json"
+    },
+    "servizi-comunali-zogno": {
+      "nome": "Servizi Comunali · Zogno",
+      "gestore": "Servizi Comunali S.p.A.",
+      "ecocentri": "ecocentri/zogno.json",
+      "regole": "regole/zogno.json"
     }
   },
   "tipi_en": {

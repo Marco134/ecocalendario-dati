@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "nome": "Sedrina",
+  "fonte": "https://www.comune.sedrina.bg.it/vivere-il-comune/luoghi/dettaglio-luogo/Piattaforma-Ecologica/ | https://www.comune.sedrina.bg.it/export/sites/default/.galleries/documenti/ufficio-tributi/tari/Calendario-2026-Raccolta-Differenziata.pdf",
+  "voci": {
+    "lattine": {
+      "dove": "vetro",
+      "nota": "Conferire con il vetro nel turno indicato dal calendario."
+    },
+    "ingombranti": {
+      "dove": "centro",
+      "nota": "Possibile anche il ritiro a domicilio su prenotazione."
+    },
+    "sfalci e ramaglie": {
+      "dove": "centro",
+      "nota": "Il calendario li elenca tra i materiali ammessi al centro."
+    },
+    "rifiuti elettronici": {
+      "dove": "centro",
+      "nota": "Conferire secondo le condizioni del centro di via Roma."
+    },
+    "olio vegetale esausto": {
+      "dove": "centro",
+      "nota": "Usare l’apposita raccolta presso il centro."
+    }
+  }
+}

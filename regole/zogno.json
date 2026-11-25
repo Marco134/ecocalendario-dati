@@ -1,0 +1,43 @@
+{
+  "schema": 1,
+  "nome": "Zogno",
+  "fonte": "https://www.comune.zogno.bg.it/aree/sport-e-ambiente/ufficio-ecologia/raccolta-differenziata/ | https://www.comune.zogno.bg.it/citta/luoghi-di-interesse/Piattaforma-ecologica/",
+  "voci": {
+    "umido": {
+      "dove": "organico",
+      "nota": "Usare il secchiello marrone."
+    },
+    "rifiuti indifferenziati": {
+      "dove": "indifferenziato",
+      "nota": "Usare il contenitore grigio con coperchio grigio."
+    },
+    "carta e cartone": {
+      "dove": "carta",
+      "nota": "Usare il contenitore grigio con coperchio blu. Piegare le scatole."
+    },
+    "lattine": {
+      "dove": "vetro",
+      "nota": "Conferire con il vetro nel contenitore grigio con coperchio verde."
+    },
+    "imballaggi di plastica": {
+      "dove": "plastica",
+      "nota": "Usare il sacco giallo."
+    },
+    "ingombranti": {
+      "dove": "centro",
+      "nota": "Separare i materiali dove possibile."
+    },
+    "lastre di vetro": {
+      "dove": "centro",
+      "nota": "Il Comune ammette anche il vetro in lastre presso il centro."
+    },
+    "olio vegetale esausto": {
+      "dove": "centro",
+      "nota": "Conferire senza residui alimentari."
+    },
+    "lampade al neon": {
+      "dove": "centro",
+      "nota": "Conferire integre, evitando di romperle."
+    }
+  }
+}

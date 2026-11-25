@@ -4507,6 +4507,83 @@
       ],
       "fonte": "https://www.massimiecologia.it/bagnoregio",
       "verificato": "2026-11-23"
+    },
+    {
+      "id": "servizi-comunali-martinengo",
+      "nome": "Servizi Comunali · Martinengo",
+      "gestori": [],
+      "comuni": [
+        "martinengo"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": true,
+      "fonte": "https://www.comune.martinengo.bg.it/s3/3897/allegati/documenti-pubblici/2026_raccolte_2semestre.pdf",
+      "verificato": "2026-11-25",
+      "regole": [
+        "Prenotare il ritiro degli ingombranti al numero verde. Chiedere limiti e modalità di esposizione durante la prenotazione."
+      ],
+      "regole_en": [
+        "Call the toll-free number to book bulky waste collection and check limits and set-out instructions."
+      ]
+    },
+    {
+      "id": "servizi-comunali-paratico",
+      "nome": "Servizi Comunali · Paratico",
+      "gestori": [],
+      "comuni": [
+        "paratico"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-paratico/",
+      "verificato": "2026-11-25",
+      "regole": [
+        "Contattare il gestore per verificare il conferimento degli ingombranti al centro di via Anna Frank e l’eventuale ritiro dedicato."
+      ],
+      "regole_en": [
+        "Ask the operator about bulky waste acceptance at the centre on Via Anna Frank and any dedicated pickup service."
+      ]
+    },
+    {
+      "id": "servizi-comunali-sedrina",
+      "nome": "Servizi Comunali · Sedrina",
+      "gestori": [],
+      "comuni": [
+        "sedrina"
+      ],
+      "telefono": "034557016",
+      "tipo_numero": "telefono",
+      "prenota_url": null,
+      "prenotazione": true,
+      "fonte": "https://www.comune.sedrina.bg.it/export/sites/default/.galleries/documenti/ufficio-tributi/tari/Calendario-2026-Raccolta-Differenziata.pdf",
+      "verificato": "2026-11-25",
+      "regole": [
+        "Per il ritiro a domicilio prenotare al numero 0345 57016. Gli ingombranti sono anche elencati tra i materiali ammessi al centro di via Roma."
+      ],
+      "regole_en": [
+        "Call 0345 57016 to book bulky waste pickup. The Via Roma centre also accepts bulky waste under its access rules."
+      ]
+    },
+    {
+      "id": "servizi-comunali-zogno",
+      "nome": "Servizi Comunali · Zogno",
+      "gestori": [],
+      "comuni": [
+        "zogno"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://www.comune.zogno.bg.it/citta/luoghi-di-interesse/Piattaforma-ecologica/",
+      "verificato": "2026-11-25",
+      "regole": [
+        "Il Comune indica il conferimento degli ingombranti alla piattaforma sulla strada per Poscante. Separare i materiali dove possibile. Il numero del gestore serve per chiedere chiarimenti."
+      ],
+      "regole_en": [
+        "Take bulky items to the recycling centre on the road to Poscante. Separate materials where possible and contact the operator if needed."
+      ]
     }
   ]
 }

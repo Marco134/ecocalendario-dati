@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "comune": "Sedrina",
+ "provincia": "BG",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.comune.sedrina.bg.it/export/sites/default/.galleries/documenti/ufficio-tributi/tari/Calendario-2026-Raccolta-Differenziata.pdf",
+ "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ],
+ "note": [
+  "Il PDF evidenzia il 23 e 30 dicembre 2026 come variazioni festive. Le date dopo il 31 dicembre restano da confermare."
+ ]
+}

@@ -703,6 +703,34 @@
    "modulo_url": "https://www.amsa.it/it/settimo-milanese/servizi/segnalazioni",
    "fonte": "https://www.amsa.it/it/settimo-milanese/servizi/segnalazioni",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-martinengo",
+   "telefono": "800452616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-martinengo/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-paratico",
+   "telefono": "800452616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-paratico/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-sedrina",
+   "telefono": "800452616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-sedrina/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-zogno",
+   "telefono": "800452616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-zogno/",
+   "verificato": "2026-11-25"
   }
  ]
 }

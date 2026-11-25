@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "nome": "Martinengo",
+  "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-MbEbmRNhGKAhUCyRnqGV.pdf",
+  "voci": {
+    "carta e cartone": {
+      "dove": "carta",
+      "nota": "Conferire nella raccolta carta e cartone."
+    },
+    "vetro e metalli": {
+      "dove": "vetro",
+      "nota": "Vetro e imballaggi metallici sono raccolti insieme."
+    },
+    "imballaggi in plastica": {
+      "dove": "plastica",
+      "nota": "La raccolta riguarda gli imballaggi. Le altre plastiche seguono il servizio dedicato indicato nella guida."
+    },
+    "oggetti di plastica non da imballaggio": {
+      "dove": "varia",
+      "nota": "La guida indica un contenitore per le altre plastiche. Verificare l’ubicazione con il gestore."
+    },
+    "pannolini e assorbenti": {
+      "dove": "varia",
+      "nota": "Il calendario indica un servizio dedicato. Verificare modalità di adesione con il gestore."
+    }
+  }
+}

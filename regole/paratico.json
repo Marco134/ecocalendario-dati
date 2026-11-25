@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "nome": "Paratico",
+  "fonte": "https://www.rumentologo.it/ | https://mycity.s3.sbg.io.cloud.ovh.net/4881792/Calendario-raccolta-2026.pdf",
+  "voci": {
+    "carta e cartone": {
+      "dove": "carta",
+      "nota": "Il calendario indica la raccolta della carta."
+    },
+    "lattine": {
+      "dove": "vetro",
+      "nota": "Il calendario raccoglie le lattine con il vetro."
+    },
+    "imballaggi di plastica": {
+      "dove": "plastica",
+      "nota": "Controllare i singoli materiali nella guida del gestore."
+    }
+  }
+}
