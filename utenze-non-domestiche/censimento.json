@@ -461,7 +461,10 @@
    "nome": "Ballabio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "balme",
@@ -538,7 +541,10 @@
    "nome": "Barzago",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2024/12/Barzago-ecocalendario25_web.pdf",
+   "verificato": "2026-11-25",
+   "nota": "PDF 2025 storico: accesso UND con QR e iscrizione Albo; non prova calendario o condizioni 2026. Verificare edizione corrente."
   },
   {
    "id": "barzano",
@@ -552,7 +558,10 @@
    "nome": "Barzio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "baschi",
@@ -616,7 +625,10 @@
    "nome": "Bellano",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "bellinzago-lombardo",
@@ -1376,7 +1388,10 @@
    "nome": "Carenno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "carignano",
@@ -1474,7 +1489,10 @@
    "nome": "Casargo",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "casatenovo",
@@ -2163,7 +2181,10 @@
    "nome": "Colle Brianza",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "colle-santa-lucia",
@@ -2289,7 +2310,10 @@
    "nome": "Cortenova",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "cosio-valtellino",
@@ -2352,7 +2376,10 @@
    "nome": "Cremeno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "cressa",
@@ -2617,7 +2644,10 @@
    "nome": "Esino Lario",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "exilles",
@@ -3132,7 +3162,10 @@
    "nome": "Introbio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "inverso-pinasca",
@@ -3651,7 +3684,10 @@
    "nome": "Margno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "marta",
@@ -3868,7 +3904,10 @@
    "nome": "Moggio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "molteno",
@@ -4518,7 +4557,10 @@
    "nome": "Pagnona",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "paisco-loveno",
@@ -4593,7 +4635,10 @@
    "nome": "Pasturo",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "paullo",
@@ -4654,7 +4699,10 @@
    "nome": "Perledo",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "perosa-argentina",
@@ -5064,7 +5112,10 @@
    "nome": "Premana",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "premeno",
@@ -5106,7 +5157,10 @@
    "nome": "Primaluna",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "priocca",
@@ -6053,7 +6107,10 @@
    "nome": "Sueglio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "suello",
@@ -6102,7 +6159,10 @@
    "nome": "Taceno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "taibon-agordino",
@@ -6189,7 +6249,10 @@
    "nome": "Torre de' Busi",
    "provincia": "BG",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/ecocasette/",
+   "verificato": "2026-11-25",
+   "nota": "Ecocasette localizzate dal gestore; accesso UND non confermato. Fonte generale centri e modulistica individuata, calendario e servizi specifici da verificare."
   },
   {
    "id": "torre-di-santa-maria",
