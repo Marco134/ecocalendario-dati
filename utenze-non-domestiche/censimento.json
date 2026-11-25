@@ -7817,70 +7817,100 @@
    "nome": "Cagnano Amiterno",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-cagnano-amiterno",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "campotosto",
    "nome": "Campotosto",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-campotosto",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "capitignano",
    "nome": "Capitignano",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-capitignano",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "fagnano-alto",
    "nome": "Fagnano Alto",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-fagnano-alto",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "laquila",
    "nome": "L'Aquila",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-laquila",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "montereale",
    "nome": "Montereale",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-montereale",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "pizzoli",
    "nome": "Pizzoli",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-pizzoli",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "san-pio-delle-camere",
    "nome": "San Pio delle Camere",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-san-pio-delle-camere",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "scoppito",
    "nome": "Scoppito",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-scoppito",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "villa-santangelo",
    "nome": "Villa Sant'Angelo",
    "provincia": "AQ",
    "gestore": "ASM L’Aquila",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.asmaq.it/comune-di-villa-santangelo",
+   "verificato": "2026-11-25",
+   "nota": "Scheda UND pubblicata. Date, zone e frequenze delle attività da confermare. Accesso ai centri su convenzione."
   },
   {
    "id": "cartoceto",

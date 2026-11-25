@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "nome": "ASM L’Aquila · UND",
+ "fonte": "https://www.asmaq.it/raccolta-differenziata | https://cms.asmaq.it/uploads/dove_lo_butto_0b19f87ee9.pdf | https://cms.asmaq.it/uploads/regolamento_comunale_centri_di_raccolta_doc_revisione_9_6a01ddd616.pdf",
+ "voci": {
+  "imballaggi in cartone": {
+   "dove": "carta",
+   "nota": "Conferire con carta, cartone e Tetra Pak. Verificare il punto e il turno assegnati da ASM.",
+   "nota_en": "Use the paper, cardboard and drinks carton collection assigned by ASM."
+  },
+  "scatole di cartone": {
+   "dove": "carta",
+   "nota": "Conferire con carta, cartone e Tetra Pak. Verificare il punto e il turno assegnati da ASM.",
+   "nota_en": "Use the paper, cardboard and drinks carton collection assigned by ASM."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Conferire con carta, cartone e Tetra Pak. Verificare il punto e il turno assegnati da ASM.",
+   "nota_en": "Use the paper, cardboard and drinks carton collection assigned by ASM."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Conferire con carta, cartone e Tetra Pak. Verificare il punto e il turno assegnati da ASM.",
+   "nota_en": "Use the paper, cardboard and drinks carton collection assigned by ASM."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti con plastica, metalli e alluminio nei contenitori assegnati.",
+   "nota_en": "Put empty packaging in the plastic and metals collection."
+  },
+  "flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti con plastica, metalli e alluminio nei contenitori assegnati.",
+   "nota_en": "Put empty packaging in the plastic and metals collection."
+  },
+  "lattine": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti con plastica, metalli e alluminio nei contenitori assegnati.",
+   "nota_en": "Put empty packaging in the plastic and metals collection."
+  },
+  "imballaggi di alluminio": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti con plastica, metalli e alluminio nei contenitori assegnati.",
+   "nota_en": "Put empty packaging in the plastic and metals collection."
+  },
+  "barattoli di metallo": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti con plastica, metalli e alluminio nei contenitori assegnati.",
+   "nota_en": "Put empty packaging in the plastic and metals collection."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire il solo vetro da imballaggio nel contenitore o servizio indicato da ASM.",
+   "nota_en": "Use the designated service for glass packaging."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire il solo vetro da imballaggio nel contenitore o servizio indicato da ASM.",
+   "nota_en": "Use the designated service for glass packaging."
+  },
+  "barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire il solo vetro da imballaggio nel contenitore o servizio indicato da ASM.",
+   "nota_en": "Use the designated service for glass packaging."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Conferire nel contenitore assegnato per organico e bioplastiche, se il servizio è attivo per la tua attività.",
+   "nota_en": "Use the assigned food waste container if your business has this service."
+  },
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Conferire nel contenitore assegnato per organico e bioplastiche, se il servizio è attivo per la tua attività.",
+   "nota_en": "Use the assigned food waste container if your business has this service."
+  },
+  "alimenti avariati": {
+   "dove": "organico",
+   "nota": "Conferire nel contenitore assegnato per organico e bioplastiche, se il servizio è attivo per la tua attività.",
+   "nota_en": "Use the assigned food waste container if your business has this service."
+  },
+  "sacchetti compostabili per l’umido": {
+   "dove": "organico",
+   "nota": "Conferire nel contenitore assegnato per organico e bioplastiche, se il servizio è attivo per la tua attività.",
+   "nota_en": "Use the assigned food waste container if your business has this service."
+  },
+  "mobili ingombranti": {
+   "dove": "varia",
+   "nota": "Contattare ASM per concordare il conferimento previsto dalla convenzione e le condizioni della sede.",
+   "nota_en": "Ask ASM which rules apply to this waste under your agreement."
+  },
+  "cartucce toner esauste": {
+   "dove": "varia",
+   "nota": "Contattare ASM per concordare il conferimento previsto dalla convenzione e le condizioni della sede.",
+   "nota_en": "Ask ASM which rules apply to this waste under your agreement."
+  },
+  "olio alimentare esausto": {
+   "dove": "varia",
+   "nota": "Contattare ASM per concordare il conferimento previsto dalla convenzione e le condizioni della sede.",
+   "nota_en": "Ask ASM which rules apply to this waste under your agreement."
+  },
+  "sfalci e potature": {
+   "dove": "varia",
+   "nota": "Contattare ASM per concordare il conferimento previsto dalla convenzione e le condizioni della sede.",
+   "nota_en": "Ask ASM which rules apply to this waste under your agreement."
+  },
+  "raee aziendali": {
+   "dove": "varia",
+   "nota": "Contattare ASM per concordare il conferimento previsto dalla convenzione e le condizioni della sede.",
+   "nota_en": "Ask ASM which rules apply to this waste under your agreement."
+  }
+ },
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica, metalli e alluminio",
+   "nome_en": "Plastic and metals",
+   "colore": "#F2C624"
+  },
+  "vetro": {
+   "nome": "Vetro da imballaggio",
+   "nome_en": "Glass packaging",
+   "colore": "#246EB9"
+  },
+  "organico": {
+   "nome": "Organico e bioplastiche",
+   "nome_en": "Food waste and bioplastics",
+   "colore": "#8C593B"
+  },
+  "indifferenziato": {
+   "nome": "Secco residuo",
+   "nome_en": "General waste",
+   "colore": "#268856"
+  }
+ }
+}

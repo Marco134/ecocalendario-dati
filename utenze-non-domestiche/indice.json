@@ -275,6 +275,24 @@
    ]
   },
   {
+   "id": "cagnano-amiterno",
+   "nome": "Cagnano Amiterno",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.455168,
+   "lon": 13.232189,
+   "consorzio": "asm-und-pizzoli",
+   "zone_url": "https://www.asmaq.it/comune-cagnano-amiterno",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/cagnano-amiterno/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "calliano",
    "nome": "Calliano",
    "provincia": "TN",
@@ -294,6 +312,42 @@
      "id": "cartone-attivita",
      "nome": "Calliano · cartone per le attività",
      "file": "comuni/calliano/zona-cartone-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "campotosto",
+   "nome": "Campotosto",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.558839,
+   "lon": 13.367987,
+   "consorzio": "asm-und-montereale",
+   "zone_url": "https://www.asmaq.it/comune-campotosto",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/campotosto/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "capitignano",
+   "nome": "Capitignano",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.520203,
+   "lon": 13.300948,
+   "consorzio": "asm-und-montereale",
+   "zone_url": "https://www.asmaq.it/comune-capitignano",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/capitignano/zona-servizi-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -464,6 +518,24 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/fabro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "fagnano-alto",
+   "nome": "Fagnano Alto",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.25418,
+   "lon": 13.597459,
+   "consorzio": "asm-und-est",
+   "zone_url": "https://www.asmaq.it/comune-fagnano-alto",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/fagnano-alto/zona-servizi-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -723,6 +795,24 @@
    ]
   },
   {
+   "id": "laquila",
+   "nome": "L'Aquila",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.136885,
+   "lon": 13.610341,
+   "consorzio": "asm-und-est",
+   "zone_url": "https://www.asmaq.it/comune-laquila",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/laquila/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "las-plassas",
    "nome": "Las Plassas",
    "provincia": "VS",
@@ -956,6 +1046,24 @@
    ]
   },
   {
+   "id": "montereale",
+   "nome": "Montereale",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.525096,
+   "lon": 13.244072,
+   "consorzio": "asm-und-montereale",
+   "zone_url": "https://www.asmaq.it/comune-montereale",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/montereale/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "mori",
    "nome": "Mori",
    "provincia": "TN",
@@ -1140,6 +1248,24 @@
      "id": "cassonetti-e-servizi-personalizzati",
      "nome": "Centro storico · cassonetti con tessera e servizi personalizzati",
      "file": "comuni/pisa/zona-cassonetti-e-servizi-personalizzati.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pizzoli",
+   "nome": "Pizzoli",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.436075,
+   "lon": 13.301272,
+   "consorzio": "asm-und-pizzoli",
+   "zone_url": "https://www.asmaq.it/comune-pizzoli",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/pizzoli/zona-servizi-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1330,6 +1456,42 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/san-gemini/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-pio-delle-camere",
+   "nome": "San Pio delle Camere",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.286172,
+   "lon": 13.657972,
+   "consorzio": "asm-und-est",
+   "zone_url": "https://www.asmaq.it/comune-san-pio-delle-camere",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/san-pio-delle-camere/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "scoppito",
+   "nome": "Scoppito",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.372612,
+   "lon": 13.255359,
+   "consorzio": "asm-und-pizzoli",
+   "zone_url": "https://www.asmaq.it/comune-scoppito",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/scoppito/zona-servizi-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1635,6 +1797,24 @@
    ]
   },
   {
+   "id": "villa-santangelo",
+   "nome": "Villa Sant'Angelo",
+   "provincia": "AQ",
+   "gestore": "ASM L’Aquila",
+   "lat": 42.269937,
+   "lon": 13.537486,
+   "consorzio": "asm-und-est",
+   "zone_url": "https://www.asmaq.it/comune-di-villa-santangelo",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/villa-santangelo/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "villanovaforru",
    "nome": "Villanovaforru",
    "provincia": "VS",
@@ -1861,6 +2041,24 @@
    "gestore": "Alea Ambiente",
    "ecocentri": "ecocentri/alea-ambiente.json",
    "regole": "regole/alea-ambiente.json"
+  },
+  "asm-und-est": {
+   "nome": "ASM L’Aquila · L’Aquila Est · Bazzano UND",
+   "gestore": "ASM L’Aquila",
+   "ecocentri": "ecocentri/asm-und-est.json",
+   "regole": "regole/asm-aquila.json"
+  },
+  "asm-und-pizzoli": {
+   "nome": "ASM L’Aquila · Pizzoli UND",
+   "gestore": "ASM L’Aquila",
+   "ecocentri": "ecocentri/asm-und-pizzoli.json",
+   "regole": "regole/asm-aquila.json"
+  },
+  "asm-und-montereale": {
+   "nome": "ASM L’Aquila · Montereale UND",
+   "gestore": "ASM L’Aquila",
+   "ecocentri": "ecocentri/asm-und-montereale.json",
+   "regole": "regole/asm-aquila.json"
   }
  }
 }

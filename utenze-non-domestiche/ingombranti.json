@@ -606,6 +606,36 @@
     "Business bulky waste may be accepted at authorised centres subject to the limits. Ask Alea about quotations for additional collection and container services."
    ],
    "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/ | https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/ | https://www.alea-ambiente.it/wp-content/uploads/2026/11/Tabella-C-24_11_2026.pdf"
+  },
+  {
+   "id": "asm-und",
+   "nome": "ASM L’Aquila · UND",
+   "comuni": [
+    "cagnano-amiterno",
+    "campotosto",
+    "capitignano",
+    "fagnano-alto",
+    "laquila",
+    "montereale",
+    "pizzoli",
+    "san-pio-delle-camere",
+    "scoppito",
+    "villa-santangelo"
+   ],
+   "gestori": [],
+   "telefono": "0862 4459299",
+   "orari": "Lun–ven 08:30–13:30 e 14:30–17:30",
+   "prenotazione": false,
+   "prenota_url": "https://www.asmaq.it/contatti",
+   "fonte": "https://www.asmaq.it/asm-laquila-centro-di-raccolta | https://cms.asmaq.it/uploads/regolamento_comunale_centri_di_raccolta_doc_revisione_9_6a01ddd616.pdf",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Per gli ingombranti delle attività, chiedere ad ASM se la convenzione li ammette. L’Allegato C indica limite ordinario zero per le UND.",
+    "Il modulo di ritiro a domicilio pubblicato da ASM riguarda residenti over 75 o con invalidità. Chiedere al gestore le modalità applicabili all’attività."
+   ],
+   "regole_en": [
+    "Ask ASM whether your agreement accepts bulky business waste. Its standard business limit is zero. The published home collection programme is for older or disabled residents."
+   ]
   }
  ]
 }

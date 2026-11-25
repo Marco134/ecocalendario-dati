@@ -29,3 +29,7 @@ La carta delle ditte di Gardolo zona industriale e quella di Meano hanno calenda
 ## Alea Ambiente
 
 I calendari dei 13 comuni e 56 zone valgono per le attività con dotazione standard da 25 a 120 litri. Per attrezzature a pesatura e raccolte extra usare il servizio concordato con Alea. Per gli ecocentri controllare la fascia riservata alle attività e i limiti di conferimento. [Condizioni UND](https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/) · [Ecocentri](https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/)
+
+## ASM L’Aquila
+
+Per dieci comuni sono pubblicate le schede dei servizi per le attività, con riferimenti ai centri, alle convenzioni e alle regole. Per giorni, recuperi e orari dei giri delle attività occorre verificare indirizzo e categoria con ASM. [Comuni soci e servizi](https://www.asmaq.it/comuni-soci)

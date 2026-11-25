@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Capitignano",
+ "provincia": "AQ",
+ "gestore": "ASM L’Aquila",
+ "zona": "Servizi per le attività · turni da confermare",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asmaq.it/comune-capitignano | https://www.asmaq.it/asm-laquila-centro-di-raccolta",
+ "raccolte": {},
+ "info": "Verifica con ASM il servizio previsto per l’indirizzo e la categoria, compresi giorni e orari festivi. Per contenitori commerciali usa il modulo «Consegna contenitori». L’accesso al centro di riferimento richiede convenzione. Centro di riferimento indicato dal gestore: Montereale.",
+ "info_en": "Check business collection times and public-holiday changes with ASM for your address. Centre access requires a service agreement.",
+ "note": [
+  "Per informazioni e servizi chiama 0862 4459299 o usa il modulo di segnalazione ASM."
+ ]
+}

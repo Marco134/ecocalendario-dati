@@ -206,6 +206,30 @@
    "orari": "Lun–ven 08:30–18:00, sab 08:30–13:00. Festivi esclusi.",
    "fonte": "https://www.alea-ambiente.it/contatti/ | https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "asm-und-est",
+   "telefono": "0862 4459299",
+   "orari": "Lun–ven 08:30–13:30 e 14:30–17:30",
+   "fonte": "https://www.asmaq.it/contatti | https://www.asmaq.it/segnalazioni",
+   "modulo_url": "https://www.asmaq.it/segnalazioni",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "asm-und-pizzoli",
+   "telefono": "0862 4459299",
+   "orari": "Lun–ven 08:30–13:30 e 14:30–17:30",
+   "fonte": "https://www.asmaq.it/contatti | https://www.asmaq.it/segnalazioni",
+   "modulo_url": "https://www.asmaq.it/segnalazioni",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "asm-und-montereale",
+   "telefono": "0862 4459299",
+   "orari": "Lun–ven 08:30–13:30 e 14:30–17:30",
+   "fonte": "https://www.asmaq.it/contatti | https://www.asmaq.it/segnalazioni",
+   "modulo_url": "https://www.asmaq.it/segnalazioni",
+   "verificato": "2026-11-25"
   }
  ]
 }
