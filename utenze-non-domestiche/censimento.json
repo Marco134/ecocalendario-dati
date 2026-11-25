@@ -23,7 +23,10 @@
    "nome": "Acquasparta",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-acquasparta/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "aglie",
@@ -128,7 +131,10 @@
    "nome": "Allerona",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-allerona/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "almese",
@@ -163,14 +169,23 @@
    "nome": "Alviano",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "amelia",
    "nome": "Amelia",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_trascritto_da_validare",
+   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/AmeliaUND2026_ST.pdf",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "bozza": "utenze-non-domestiche/da-validare/cosp/amelia/zona-unica.json",
+   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
   },
   {
    "id": "ameno",
@@ -324,7 +339,10 @@
    "nome": "Attigliano",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-attigliano/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "aurano",
@@ -345,7 +363,13 @@
    "nome": "Avigliano Umbro",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_trascritto_da_validare",
+   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/AviglianoUmbroUND2026.pdf",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "bozza": "utenze-non-domestiche/da-validare/cosp/avigliano-umbro/zona-unica.json",
+   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
   },
   {
    "id": "azeglio",
@@ -520,7 +544,10 @@
    "nome": "Baschi",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "basiano",
@@ -1521,7 +1548,13 @@
    "nome": "Castel Giorgio",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_trascritto_da_validare",
+   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/CastelGiorgioUND2026_ST.pdf",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "bozza": "utenze-non-domestiche/da-validare/cosp/castel-giorgio/zona-unica.json",
+   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
   },
   {
    "id": "castel-viscardo",
@@ -3873,14 +3906,20 @@
    "nome": "Montecastrilli",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecastrilli/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "montecchio",
    "nome": "Montecchio",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecchio/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "montecrestese",
@@ -3908,7 +3947,10 @@
    "nome": "Monteleone d'Orvieto",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-monteleone-d-orvieto/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "montelupo-albese",
@@ -4269,7 +4311,8 @@
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
    "zone_und": 2,
    "valido_al": "2026-12-31",
-   "nota": "Accesso specifico ai CCR da approfondire; calendario Nord e Sud verificato."
+   "nota": "Riconfrontate tutte le date dal 25/11 al 31/12 per Nord e Sud con pagina 2 dei PDF ufficiali; nessuna differenza (64 giornate-zona). Restano verifica servizi UND e validatore integrale.",
+   "verificato": "2026-11-25"
   },
   {
    "id": "osasco",
@@ -5375,7 +5418,13 @@
    "nome": "San Gemini",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_trascritto_da_validare",
+   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/SangeminiUND2026_ST.pdf",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "bozza": "utenze-non-domestiche/da-validare/cosp/san-gemini/zona-unica.json",
+   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
   },
   {
    "id": "san-germano-chisone",
@@ -5830,7 +5879,10 @@
    "nome": "Stroncone",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
+   "verificato": "2026-11-25",
+   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
   },
   {
    "id": "sueglio",
