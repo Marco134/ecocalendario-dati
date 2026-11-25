@@ -23,5 +23,13 @@
   "Il turno del 25 dicembre è spostato a mercoledì 23 dicembre."
  ],
  "esposizione": "Esporre entro le 13:00 presso il proprio numero civico.",
- "esposizione_entro": "13:00"
+ "esposizione_entro": "13:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-23",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  }
+ ]
 }

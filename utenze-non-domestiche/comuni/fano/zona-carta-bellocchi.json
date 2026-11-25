@@ -20,5 +20,13 @@
   "La raccolta dell’8 dicembre è recuperata mercoledì 9 dicembre."
  ],
  "esposizione": "Esporre entro le 06:00 presso il proprio numero civico.",
- "esposizione_entro": "06:00"
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-09",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-08"
+  }
+ ]
 }
