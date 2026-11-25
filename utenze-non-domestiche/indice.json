@@ -36,6 +36,24 @@
    ]
   },
   {
+   "id": "ala",
+   "nome": "Ala",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.757901,
+   "lon": 11.001818,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/ala/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/ala/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "allerona",
    "nome": "Allerona",
    "provincia": "TR",
@@ -121,6 +139,24 @@
    ]
   },
   {
+   "id": "avio",
+   "nome": "Avio",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.733793,
+   "lon": 10.937181,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/avio/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/avio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "barumini",
    "nome": "Barumini",
    "provincia": "VS",
@@ -150,6 +186,78 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/baschi/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "besenello",
+   "nome": "Besenello",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.941922,
+   "lon": 11.109544,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/besenello/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "besenello",
+     "nome": "Besenello",
+     "file": "comuni/besenello/zona-besenello.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-attivita",
+     "nome": "Besenello · cartone per le attività",
+     "file": "comuni/besenello/zona-cartone-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "dietrobeseno",
+     "nome": "Dietrobeseno",
+     "file": "comuni/besenello/zona-dietrobeseno.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "brentonico",
+   "nome": "Brentonico",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.818774,
+   "lon": 10.956013,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/brentonico/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Brentonico e frazioni",
+     "file": "comuni/brentonico/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "calliano",
+   "nome": "Calliano",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.933851,
+   "lon": 11.093758,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/calliano/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/calliano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-attivita",
+     "nome": "Calliano · cartone per le attività",
+     "file": "comuni/calliano/zona-cartone-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -240,6 +348,24 @@
    ]
   },
   {
+   "id": "folgaria",
+   "nome": "Folgaria",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.914973,
+   "lon": 11.173015,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/folgaria/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/folgaria/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "genuri",
    "nome": "Genuri",
    "provincia": "VS",
@@ -291,6 +417,24 @@
    ]
   },
   {
+   "id": "isera",
+   "nome": "Isera",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.88527,
+   "lon": 11.009311,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/isera/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/isera/zona-unica.json",
+     "valido_al": "2027-01-02"
+    }
+   ]
+  },
+  {
    "id": "las-plassas",
    "nome": "Las Plassas",
    "provincia": "VS",
@@ -304,6 +448,24 @@
      "nome": "Utenze economiche",
      "file": "comuni/las-plassas/zona-unica.json",
      "valido_al": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "lavarone",
+   "nome": "Lavarone",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.941289,
+   "lon": 11.288638,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/lavarone/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/lavarone/zona-unica.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -338,6 +500,24 @@
      "nome": "Utenze economiche",
      "file": "comuni/lunamatrona/zona-unica.json",
      "valido_al": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "luserna",
+   "nome": "Luserna",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.921665,
+   "lon": 11.32429,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/luserna/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/luserna/zona-unica.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -405,6 +585,72 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/monteleone-d-orvieto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "mori",
+   "nome": "Mori",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.852444,
+   "lon": 10.978275,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/mori/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "mori",
+     "nome": "Mori e località del calendario omonimo",
+     "file": "comuni/mori/zona-mori.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "besagno",
+     "nome": "Besagno",
+     "file": "comuni/mori/zona-besagno.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "loppio-val-di-gresta",
+     "nome": "Loppio e Val di Gresta",
+     "file": "comuni/mori/zona-loppio-val-di-gresta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "nogaredo",
+   "nome": "Nogaredo",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.912089,
+   "lon": 11.023046,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/nogaredo/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/nogaredo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "nomi",
+   "nome": "Nomi",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.928599,
+   "lon": 11.071881,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/nomi/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/nomi/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -533,6 +779,24 @@
    ]
   },
   {
+   "id": "pomarolo",
+   "nome": "Pomarolo",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.928099,
+   "lon": 11.04308,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/pomarolo/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/pomarolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "porano",
    "nome": "Porano",
    "provincia": "TR",
@@ -545,6 +809,24 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/porano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "ronzo-chienis",
+   "nome": "Ronzo-Chienis",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.889597,
+   "lon": 10.950079,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/ronzo-chienis/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/ronzo-chienis/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -618,6 +900,42 @@
    ]
   },
   {
+   "id": "terragnolo",
+   "nome": "Terragnolo",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.865249,
+   "lon": 11.177422,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/terragnolo/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/terragnolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "trambileno",
+   "nome": "Trambileno",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.834845,
+   "lon": 11.139211,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/trambileno/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/trambileno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "tuili",
    "nome": "Tuili",
    "provincia": "VS",
@@ -669,6 +987,42 @@
    ]
   },
   {
+   "id": "vallarsa",
+   "nome": "Vallarsa",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.803355,
+   "lon": 11.10511,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/vallarsa/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/vallarsa/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "villa-lagarina",
+   "nome": "Villa Lagarina",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.91499,
+   "lon": 11.033002,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/villa-lagarina/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/villa-lagarina/zona-unica.json",
+     "valido_al": "2027-01-02"
+    }
+   ]
+  },
+  {
    "id": "villanovaforru",
    "nome": "Villanovaforru",
    "provincia": "VS",
@@ -699,6 +1053,24 @@
      "nome": "Utenze economiche",
      "file": "comuni/villanovafranca/zona-unica.json",
      "valido_al": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "volano",
+   "nome": "Volano",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.917179,
+   "lon": 11.060803,
+   "consorzio": "dolomiti-und-vallagarina",
+   "zone_url": "https://dolomitiambiente.it/it/volano/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutto il comune",
+     "file": "comuni/volano/zona-unica.json",
+     "valido_al": "2026-12-31"
     }
    ]
   }
@@ -853,6 +1225,12 @@
    "gestore": "Geofor S.p.A.",
    "ecocentri": "ecocentri/pisa.json",
    "regole": "regole/pisa.json"
+  },
+  "dolomiti-und-vallagarina": {
+   "nome": "Dolomiti Ambiente · Vallagarina e Altipiani Cimbri UND",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "ecocentri": "ecocentri/dolomiti-vallagarina.json",
+   "regole": "regole/dolomiti-vallagarina.json"
   }
  }
 }

@@ -17,3 +17,7 @@ Il calendario delle utenze economiche COSIR è comune a 14 comuni e arriva al 31
 ## Geofor · Pisa
 
 Il calendario 2026 copre le attività del centro storico. Per la carta, il multimateriale e il residuo a domicilio occorre verificare la via, la categoria e il servizio abilitato. I programmi possono coesistere per una stessa attività. Per vetro e organico delle attività di somministrazione aderenti vale il calendario consegnato da Geofor. [Calendario e stradario](https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/) · [Ordinanza e allegati](https://www.comune.pisa.it/Servizi/Raccolta-Differenziata)
+
+## Dolomiti Ambiente · Vallagarina e Altipiani Cimbri
+
+Il catalogo copre 19 comuni. Per il cartone delle attività di Besenello e Calliano è indicato il turno aggiuntivo. I turni di Isera e Villa Lagarina includono il recupero del 2 gennaio 2027. Per ecocentri e ingombranti si applicano le condizioni per le attività convenzionate. [Centri di raccolta e condizioni](https://dolomitiambiente.it/it/ala/non-domestica/raccolta-differenziata/centri-raccolta)

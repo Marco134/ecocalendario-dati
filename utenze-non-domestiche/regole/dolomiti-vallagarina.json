@@ -1,0 +1,148 @@
+{
+ "schema": 1,
+ "nome": "Dolomiti Ambiente · Vallagarina e Altipiani Cimbri UND",
+ "fonte": "https://dolomitiambiente.it/it/besenello/non-domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-A02-01-Rifiuti-ammessi---Produttori-di-rifiuti-urbani-non-domestici.pdf",
+ "voci": {
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Sacchetto di carta nel contenitore con coperchio marrone.",
+   "nota_en": "Use a paper bag in the brown-lid bin."
+  },
+  "alimenti avariati": {
+   "dove": "organico",
+   "nota": "Sacchetto di carta nel contenitore con coperchio marrone.",
+   "nota_en": "Use a paper bag in the brown-lid bin."
+  },
+  "salviette di carta da cucina": {
+   "dove": "organico",
+   "nota": "Sacchetto di carta nel contenitore con coperchio marrone.",
+   "nota_en": "Use a paper bag in the brown-lid bin."
+  },
+  "tovaglioli di carta da cucina": {
+   "dove": "organico",
+   "nota": "Sacchetto di carta nel contenitore con coperchio marrone.",
+   "nota_en": "Use a paper bag in the brown-lid bin."
+  },
+  "giornali": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e conferire sfuso nel bidone blu. Per il cartone controllare l’eventuale turno aggiuntivo locale.",
+   "nota_en": "Flatten and place loose in the blue-lid bin. Check any local cardboard collection."
+  },
+  "fogli di carta": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e conferire sfuso nel bidone blu. Per il cartone controllare l’eventuale turno aggiuntivo locale.",
+   "nota_en": "Flatten and place loose in the blue-lid bin. Check any local cardboard collection."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e conferire sfuso nel bidone blu. Per il cartone controllare l’eventuale turno aggiuntivo locale.",
+   "nota_en": "Flatten and place loose in the blue-lid bin. Check any local cardboard collection."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e conferire sfuso nel bidone blu. Per il cartone controllare l’eventuale turno aggiuntivo locale.",
+   "nota_en": "Flatten and place loose in the blue-lid bin. Check any local cardboard collection."
+  },
+  "sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e conferire sfuso nel bidone blu. Per il cartone controllare l’eventuale turno aggiuntivo locale.",
+   "nota_en": "Flatten and place loose in the blue-lid bin. Check any local cardboard collection."
+  },
+  "cartoni da imballaggio": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e conferire sfuso nel bidone blu. Per il cartone controllare l’eventuale turno aggiuntivo locale.",
+   "nota_en": "Flatten and place loose in the blue-lid bin. Check any local cardboard collection."
+  },
+  "lattine": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "cartoni per bevande": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "tetrapak": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "tappi di metallo": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "coperchi di metallo": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "scatolette di banda stagnata": {
+   "dove": "plastica",
+   "nota": "Vuoti e schiacciati nel sacco giallo semitrasparente.",
+   "nota_en": "Empty and flatten them in the translucent yellow bag."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Imballaggi vuoti nella campana del vetro.",
+   "nota_en": "Put empty glass packaging in the glass bank."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Imballaggi vuoti nella campana del vetro.",
+   "nota_en": "Put empty glass packaging in the glass bank."
+  },
+  "giocattoli di plastica non elettrici": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "pennarelli": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "posate monouso di plastica": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "toner di stampa non pericoloso": {
+   "dove": "centro",
+   "nota": "Verificare il codice EER, la convenzione e l’ammissione del rifiuto presso il centro.",
+   "nota_en": "Verify waste code and access conditions with the centre."
+  },
+  "mobili ingombranti": {
+   "dove": "centro",
+   "nota": "Verificare il codice EER, la convenzione e l’ammissione del rifiuto presso il centro.",
+   "nota_en": "Verify waste code and access conditions with the centre."
+  },
+  "imballaggi in legno": {
+   "dove": "centro",
+   "nota": "Verificare il codice EER, la convenzione e l’ammissione del rifiuto presso il centro.",
+   "nota_en": "Verify waste code and access conditions with the centre."
+  },
+  "tessili usati": {
+   "dove": "centro",
+   "nota": "Verificare il codice EER, la convenzione e l’ammissione del rifiuto presso il centro.",
+   "nota_en": "Verify waste code and access conditions with the centre."
+  }
+ },
+ "tipi": {
+  "plastica": {
+   "nome": "Imballaggi leggeri",
+   "nome_en": "Lightweight packaging"
+  }
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "comune": "Trambileno",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "zona": "Tutto il comune",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre organico entro le 13:00 il mercoledì e le 06:00 il sabato, carta entro le 06:00, imballaggi leggeri entro le 06:00, residuo entro le 13:00.",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_trambileno.pdf | https://dolomitiambiente.it/it/trambileno/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Il vetro da imballaggio si conferisce nella campana stradale.",
+  "Per i centri verificare con Dolomiti Ambiente la sede, la convenzione e i documenti per le attività."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

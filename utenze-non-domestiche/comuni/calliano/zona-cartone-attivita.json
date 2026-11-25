@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "comune": "Calliano",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "zona": "Calliano · cartone per le attività",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i cartoni piegati entro le 13:00.",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_calliano.pdf | https://dolomitiambiente.it/it/calliano/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Ritiro del solo cartone riservato alle attività."
+ ],
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  }
+ ],
+ "esposizione_entro": "13:00"
+}

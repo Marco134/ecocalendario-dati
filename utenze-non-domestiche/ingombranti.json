@@ -492,6 +492,44 @@
    ],
    "fonte": "https://www.comune.pisa.it/Servizi/Stazioni-ecologiche-fisse-CDR | https://www.geofor.it/pisa/prenota-ritiri-pisa/",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "dolomiti-und-vallagarina",
+   "nome": "Dolomiti Ambiente · Vallagarina e Altipiani Cimbri UND",
+   "comuni": [
+    "ala",
+    "avio",
+    "besenello",
+    "brentonico",
+    "calliano",
+    "folgaria",
+    "isera",
+    "lavarone",
+    "luserna",
+    "mori",
+    "nogaredo",
+    "nomi",
+    "pomarolo",
+    "ronzo-chienis",
+    "terragnolo",
+    "trambileno",
+    "vallarsa",
+    "villa-lagarina",
+    "volano"
+   ],
+   "gestori": [],
+   "telefono": "800847028",
+   "orari": "lun–gio 08:00–16:45, ven 08:00–12:25",
+   "prenotazione": false,
+   "regole": [
+    "I centri abilitati accettano gli ingombranti urbani ammessi delle attività convenzionate, codice EER 20 03 07. Verificare sede, quantità e documentazione prima del trasporto.",
+    "Per il ritiro a domicilio di ingombranti dell’attività, chiedere a Dolomiti Ambiente disponibilità e costi."
+   ],
+   "regole_en": [
+    "Check eligible bulky business waste, accepted sites and conditions with Dolomiti Ambiente."
+   ],
+   "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-A02-01-Rifiuti-ammessi---Produttori-di-rifiuti-urbani-non-domestici.pdf | https://www.dolomitiambiente.it/vfm/Documenti/Vallagarina/CARTA_DEI_SERVIZI_DA-VALLAGARINA.pdf",
+   "verificato": "2026-11-25"
   }
  ]
 }

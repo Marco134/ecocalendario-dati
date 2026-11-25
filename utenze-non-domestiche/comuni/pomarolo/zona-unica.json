@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "comune": "Pomarolo",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "zona": "Tutto il comune",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre: organico entro le 13:00, carta entro le 13:00, imballaggi leggeri entro le 06:00, residuo entro le 13:00.",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_pomarolo.pdf | https://dolomitiambiente.it/it/pomarolo/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Il vetro da imballaggio si conferisce nella campana stradale.",
+  "Per i centri verificare con Dolomiti Ambiente la sede, la convenzione e i documenti per le attività."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

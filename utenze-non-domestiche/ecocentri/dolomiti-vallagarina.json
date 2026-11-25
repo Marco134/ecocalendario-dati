@@ -1,0 +1,162 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "fonte": "https://dolomitiambiente.it/it/ala/non-domestica/raccolta-differenziata/centri-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-02-REGOLAMENTO-CdR-accesso-utenze-domestiche-e-non-domestiche.pdf | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-A02-01-Rifiuti-ammessi---Produttori-di-rifiuti-urbani-non-domestici.pdf",
+ "numero_verde": "800 847 028",
+ "orari_numero_verde": "lun–gio 08:00–16:45, ven 08:00–12:25",
+ "accesso": "Le attività in regola con la tariffa possono conferire rifiuti urbani ammessi. Verificare con Dolomiti Ambiente la sede assegnata, QR code, convenzione, iscrizione all’Albo e documenti richiesti.",
+ "avviso": "Limite giornaliero di 1 m³ per codice EER. Sono riportati i centri con coordinate verificate. Inerti e olio alimentare sono esclusi dall’elenco dei rifiuti ammessi per le attività.",
+ "centri": [
+  {
+   "id": "dolomiti-ala",
+   "comune": "Ala",
+   "indirizzo": "Via dell’Artigianato",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ]
+   },
+   "lat": 45.76609,
+   "lon": 11.00415
+  },
+  {
+   "id": "dolomiti-avio",
+   "comune": "Avio",
+   "indirizzo": "Viale Alcide Degasperi, località Lavé",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "lat": 45.739069,
+   "lon": 10.950698
+  },
+  {
+   "id": "dolomiti-villa-lagarina",
+   "comune": "Villa Lagarina",
+   "indirizzo": "Via Antonio Pesenti 43",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "lat": 45.9192,
+   "lon": 11.03548
+  },
+  {
+   "id": "dolomiti-mori",
+   "comune": "Mori",
+   "indirizzo": "SP90, località Bazoera",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "lat": 45.844866,
+   "lon": 10.992556
+  }
+ ]
+}

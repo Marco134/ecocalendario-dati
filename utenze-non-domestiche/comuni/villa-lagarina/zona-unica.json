@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "comune": "Villa Lagarina",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "zona": "Tutto il comune",
+ "valido_al": "2027-01-02",
+ "esposizione": "Esporre: organico entro le 13:00, carta entro le 06:00, imballaggi leggeri entro le 06:00, residuo entro le 06:00.",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/Vallagarina-2026/Rebr/260416_cal_vallagarina_26_villalagarina.pdf | https://dolomitiambiente.it/it/villa-lagarina/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Il vetro da imballaggio si conferisce nella campana stradale.",
+  "Per i centri verificare con Dolomiti Ambiente la sede, la convenzione e i documenti per le attività."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "plastica"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-01"
+  }
+ ]
+}
