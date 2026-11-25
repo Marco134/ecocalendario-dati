@@ -9,7 +9,10 @@
    "nome": "Abbadia Lariana",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/misurazione-puntuale/per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "Abilitazioni UND al distributore in Piazza 11 Settembre tramite uffici comunali. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "acquapendente",
@@ -82,7 +85,10 @@
    "nome": "Airuno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/misurazione-puntuale/per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "Abilitazioni UND al distributore in via Pizzagalli Magno 4 tramite uffici comunali. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "ala-di-stura",
@@ -234,7 +240,10 @@
    "nome": "Annone di Brianza",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/annone-b-za-nuovo-distributore-automatico-di-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributore sacchi piazzale Donatori di Sangue; UND richiedono QR al Comune. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "antrona-schieranco",
@@ -2044,7 +2053,10 @@
    "nome": "Civate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/valmadrera-civate-e-malgrate-dal-2026-orario-potenziato-al-centro-di-raccolta-per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "CCR intercomunale: dal 1/1/2026 ditte martedì e giovedì 14–17. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "cividate-camuno",
@@ -3451,7 +3463,10 @@
    "nome": "Malgrate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/valmadrera-civate-e-malgrate-dal-2026-orario-potenziato-al-centro-di-raccolta-per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "CCR intercomunale: dal 1/1/2026 ditte martedì e giovedì 14–17. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "malonno",
@@ -3759,7 +3774,10 @@
    "nome": "Molteno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/molteno-nuovo-distributore-automatico-di-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributore sacchi in via San Rocco, anche per UND. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "mombello-di-torino",
@@ -6316,7 +6334,10 @@
    "nome": "Valmadrera",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/valmadrera-civate-e-malgrate-dal-2026-orario-potenziato-al-centro-di-raccolta-per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "CCR intercomunale: dal 1/1/2026 ditte martedì e giovedì 14–17. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "valperga",
@@ -6379,7 +6400,10 @@
    "nome": "Varenna",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/news/varenna-nuovo-distributore-automatico-di-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Distributore sacchi presso CCR Strada ai boschi, Pino, anche per UND. Calendario UND e restanti servizi da verificare; dato parziale non pubblicabile."
   },
   {
    "id": "varisella",
