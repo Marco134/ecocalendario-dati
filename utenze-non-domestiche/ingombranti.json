@@ -5,9 +5,7 @@
   {
    "id": "cosp-orvietano",
    "nome": "COSP Tecno Service",
-   "gestori": [
-    "COSP Tecno Service"
-   ],
+   "gestori": [],
    "comuni": [
     "orvieto"
    ],
@@ -15,12 +13,432 @@
    "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
    "prenotazione": false,
    "regole": [
-    "Il ritiro gratuito a domicilio è riservato alle utenze domestiche. Per le attività chiedere al gestore le modalità e l'ammissibilità del conferimento."
+    "La raccolta gratuita a domicilio pubblicata da ASM è riservata alle famiglie. Per le attività valgono le condizioni comunicate dal gestore.",
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
    ],
    "regole_en": [
-    "Free home collection is reserved for households. Businesses should check eligible materials and collection options with the operator."
+    "ASM publishes a free home collection service for households. Businesses should ask COSP about their terms.",
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
    ],
-   "fonte": "https://www.cosptecnoservice.it/rifiuti-ingombranti-e-raee/",
+   "fonte": "https://www.differenziataterni.it/orvieto/ | https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-acquasparta",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "acquasparta"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-acquasparta/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-allerona",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "allerona"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-allerona/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-alviano",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "alviano"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-amelia",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "amelia"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-amelia/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-attigliano",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "attigliano"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-attigliano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-avigliano-umbro",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "avigliano-umbro"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-avigliano-umbro/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-baschi",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "baschi"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-castel-giorgio",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "castel-giorgio"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-giorgio/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-castel-viscardo",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "castel-viscardo"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-viscardo/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-fabro",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "fabro"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-fabro/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-ficulle",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "ficulle"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-ficulle/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-giove",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "giove"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-giove/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-lugnano-in-teverina",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "lugnano-in-teverina"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-lugnano-in-teverina/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-montecastrilli",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "montecastrilli"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecastrilli/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-montecchio",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "montecchio"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecchio/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-montegabbione",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "montegabbione"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montegabbione/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-monteleone-d-orvieto",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "monteleone-d-orvieto"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-monteleone-d-orvieto/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-parrano",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "parrano"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-parrano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-penna-in-teverina",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "penna-in-teverina"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-penna-in-teverina/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-porano",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "porano"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-porano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-san-gemini",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "san-gemini"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-san-gemini/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-stroncone",
+   "nome": "COSP Tecno Service",
+   "gestori": [],
+   "comuni": [
+    "stroncone"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Per il ritiro o la consegna di ingombranti dell’attività verifica con COSP l’ammissibilità, il costo e le modalità."
+   ],
+   "regole_en": [
+    "Ask COSP about eligibility, fees and collection or drop-off options for bulky business waste."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
    "verificato": "2026-11-25"
   }
  ]

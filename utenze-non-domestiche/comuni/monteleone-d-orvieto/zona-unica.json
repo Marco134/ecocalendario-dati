@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "comune": "Monteleone d'Orvieto",
+ "provincia": "TR",
+ "gestore": "COSP Tecno Service",
+ "zona": "Area intensa e area vasta",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 21:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/MonteleoneUND2026.pdf",
+ "note": [
+  "Calendario UND per entrambe le aree, intensa e vasta. Plastica e imballaggi metallici insieme.",
+  "Esponi i materiali nei contenitori assegnati. Segui gli avvisi del Comune e di COSP per le variazioni."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "vetro",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "vetro",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "vetro",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "vetro",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-25": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "vetro",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ }
+}

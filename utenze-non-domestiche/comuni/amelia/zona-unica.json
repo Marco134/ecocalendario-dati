@@ -6,13 +6,12 @@
  "zona": "Area intensa e area vasta",
  "valido_dal": "2026-11-25",
  "valido_al": "2026-12-31",
- "esposizione": "Dalle 21:00 della sera precedente alle 06:00 del giorno di raccolta, presso il proprio numero civico.",
+ "esposizione": "Esporre dalle 21:00 della sera precedente alle 06:00 del giorno di raccolta.",
  "esposizione_entro": "06:00",
  "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/AmeliaUND2026_ST.pdf",
  "note": [
-  "Utenze non domestiche. Plastica e metalli raccolti insieme. Trascrizione a vista delle date 25/11–31/12/2026; festività comprese.",
-  "Numero verde 800 055 505 da fisso; 0744 409244 da cellulare, lun–ven 09:00–13:00 e 14:00–17:00.",
-  "Bozza: accesso UND ai servizi e validatore Python da completare prima della pubblicazione."
+  "Calendario UND per entrambe le aree, intensa e vasta. Plastica e imballaggi metallici insieme.",
+  "Esponi i materiali nei contenitori assegnati. Segui gli avvisi del Comune e di COSP per le variazioni."
  ],
  "raccolte": {
   "2026-11-25": [

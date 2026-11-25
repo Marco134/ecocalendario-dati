@@ -19,6 +19,295 @@
  },
  "comuni": [
   {
+   "id": "acquasparta",
+   "nome": "Acquasparta",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-acquasparta",
+   "lat": 42.6906,
+   "lon": 12.5463,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/acquasparta/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "allerona",
+   "nome": "Allerona",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-allerona",
+   "lat": 42.8117,
+   "lon": 11.9739,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/allerona/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "alviano",
+   "nome": "Alviano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-alviano",
+   "lat": 42.5877,
+   "lon": 12.2956,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/alviano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "amelia",
+   "nome": "Amelia",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-amelia",
+   "lat": 42.5589,
+   "lon": 12.4119,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/amelia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "attigliano",
+   "nome": "Attigliano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-attigliano",
+   "lat": 42.5149,
+   "lon": 12.2894,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/attigliano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "avigliano-umbro",
+   "nome": "Avigliano Umbro",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-avigliano-umbro",
+   "lat": 42.6551,
+   "lon": 12.4281,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/avigliano-umbro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "baschi",
+   "nome": "Baschi",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-baschi",
+   "lat": 42.6701,
+   "lon": 12.2163,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/baschi/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "castel-giorgio",
+   "nome": "Castel Giorgio",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-castel-giorgio",
+   "lat": 42.7078,
+   "lon": 11.9796,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/castel-giorgio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "castel-viscardo",
+   "nome": "Castel Viscardo",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-castel-viscardo",
+   "lat": 42.7557,
+   "lon": 12.0015,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/castel-viscardo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "fabro",
+   "nome": "Fabro",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-fabro",
+   "lat": 42.8634,
+   "lon": 12.0129,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/fabro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "ficulle",
+   "nome": "Ficulle",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-ficulle",
+   "lat": 42.8363,
+   "lon": 12.0663,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/ficulle/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "giove",
+   "nome": "Giove",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-giove",
+   "lat": 42.5093,
+   "lon": 12.3251,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/giove/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lugnano-in-teverina",
+   "nome": "Lugnano in Teverina",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-lugnano-in-teverina",
+   "lat": 42.5743,
+   "lon": 12.3303,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/lugnano-in-teverina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "montecastrilli",
+   "nome": "Montecastrilli",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-montecastrilli",
+   "lat": 42.6498,
+   "lon": 12.4878,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/montecastrilli/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "montecchio",
+   "nome": "Montecchio",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-montecchio",
+   "lat": 42.6624,
+   "lon": 12.288,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/montecchio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "montegabbione",
+   "nome": "Montegabbione",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-montegabbione",
+   "lat": 42.9212,
+   "lon": 12.0925,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/montegabbione/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "monteleone-d-orvieto",
+   "nome": "Monteleone d'Orvieto",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-monteleone-d-orvieto",
+   "lat": 42.9165,
+   "lon": 12.0516,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/monteleone-d-orvieto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "orvieto",
    "nome": "Orvieto",
    "provincia": "TR",
@@ -26,7 +315,6 @@
    "consorzio": "orvieto",
    "lat": 42.7182,
    "lon": 12.1083,
-   "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
    "zone": [
     {
      "id": "nord",
@@ -40,15 +328,233 @@
      "file": "comuni/orvieto/zona-sud.json",
      "valido_al": "2026-12-31"
     }
+   ],
+   "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+  },
+  {
+   "id": "parrano",
+   "nome": "Parrano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-parrano",
+   "lat": 42.8635,
+   "lon": 12.1057,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/parrano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "penna-in-teverina",
+   "nome": "Penna in Teverina",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-penna-in-teverina",
+   "lat": 42.493,
+   "lon": 12.3554,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/penna-in-teverina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "porano",
+   "nome": "Porano",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-porano",
+   "lat": 42.687,
+   "lon": 12.102,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/porano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-gemini",
+   "nome": "San Gemini",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-san-gemini",
+   "lat": 42.6134,
+   "lon": 12.5462,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/san-gemini/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "stroncone",
+   "nome": "Stroncone",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "cosp-und-stroncone",
+   "lat": 42.4983,
+   "lon": 12.6627,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Area intensa e area vasta",
+     "file": "comuni/stroncone/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
    ]
   }
  ],
  "consorzi": {
   "orvieto": {
-   "nome": "Comune di Orvieto",
+   "nome": "Orvieto · UND",
    "gestore": "COSP Tecno Service",
    "ecocentri": "ecocentri/orvieto.json",
-   "regole": "regole/orvieto.json"
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-acquasparta": {
+   "nome": "Acquasparta · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/acquasparta.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-allerona": {
+   "nome": "Allerona · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/allerona.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-alviano": {
+   "nome": "Alviano · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/alviano.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-amelia": {
+   "nome": "Amelia · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/amelia.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-attigliano": {
+   "nome": "Attigliano · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/attigliano.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-avigliano-umbro": {
+   "nome": "Avigliano Umbro · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/avigliano-umbro.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-baschi": {
+   "nome": "Baschi · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/baschi.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-castel-giorgio": {
+   "nome": "Castel Giorgio · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/castel-giorgio.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-castel-viscardo": {
+   "nome": "Castel Viscardo · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/castel-viscardo.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-fabro": {
+   "nome": "Fabro · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/fabro.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-ficulle": {
+   "nome": "Ficulle · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/ficulle.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-giove": {
+   "nome": "Giove · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/giove.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-lugnano-in-teverina": {
+   "nome": "Lugnano in Teverina · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/lugnano-in-teverina.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-montecastrilli": {
+   "nome": "Montecastrilli · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/montecastrilli.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-montecchio": {
+   "nome": "Montecchio · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/montecchio.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-montegabbione": {
+   "nome": "Montegabbione · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/montegabbione.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-monteleone-d-orvieto": {
+   "nome": "Monteleone d'Orvieto · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/monteleone-d-orvieto.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-parrano": {
+   "nome": "Parrano · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/parrano.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-penna-in-teverina": {
+   "nome": "Penna in Teverina · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/penna-in-teverina.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-porano": {
+   "nome": "Porano · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/porano.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-san-gemini": {
+   "nome": "San Gemini · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/san-gemini.json",
+   "regole": "regole/cosp-und.json"
+  },
+  "cosp-und-stroncone": {
+   "nome": "Stroncone · UND",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/stroncone.json",
+   "regole": "regole/cosp-und.json"
   }
  }
 }

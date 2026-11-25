@@ -1,0 +1,186 @@
+{
+ "schema": 1,
+ "nome": "COSP Tecno Service · Utenze non domestiche",
+ "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/03/VADEMECUM-RACCOLTA-DIFFERENZIATA-ATTIVITA-COMMERCIALI-ARTIGIANALI-INDUSTRIALI-COSP.pdf",
+ "voci": {
+  "imballaggio in plastica": {
+   "dove": "plastica",
+   "nota": "Vuotare prima del conferimento. Il vademecum ammette fino al 5% di residuo."
+  },
+  "film da imballaggio": {
+   "dove": "plastica",
+   "nota": "Il vademecum indica formato superiore ad A2 (42 × 59,4 cm)."
+  },
+  "imballaggio in polistirolo": {
+   "dove": "plastica",
+   "nota": "Conferire solo gli imballaggi ammessi. Per altri manufatti verifica con COSP."
+  },
+  "bottiglia di plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare."
+  },
+  "flacone di plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare. Per contenitori di sostanze pericolose chiedi a COSP."
+  },
+  "lattina di alluminio": {
+   "dove": "plastica",
+   "nota": "Conferire insieme agli imballaggi in plastica e metallo."
+  },
+  "lattina in metallo": {
+   "dove": "plastica",
+   "nota": "Conferire insieme agli imballaggi in plastica e metallo."
+  },
+  "reggetta big bag": {
+   "dove": "plastica",
+   "nota": "Seguire i limiti di conferimento indicati da COSP."
+  },
+  "sacchetto di carta": {
+   "dove": "carta",
+   "nota": "Conferire pulito."
+  },
+  "scatola di cartoncino": {
+   "dove": "carta",
+   "nota": "Conferire pulita."
+  },
+  "giornale": {
+   "dove": "carta",
+   "nota": "Conferire pulito."
+  },
+  "rivista": {
+   "dove": "carta",
+   "nota": "Conferire pulita."
+  },
+  "libro": {
+   "dove": "carta",
+   "nota": "Conferire pulito."
+  },
+  "quaderno": {
+   "dove": "carta",
+   "nota": "Conferire pulito."
+  },
+  "imballaggio di cartone": {
+   "dove": "carta",
+   "nota": "Piegare e schiacciare. Rimuovere i residui e le parti estranee."
+  },
+  "cartone per bevande": {
+   "dove": "carta",
+   "nota": "Svuotare e togliere le parti in plastica."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Svuotare e togliere le parti in plastica."
+  },
+  "imballaggio in vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare."
+  },
+  "barattolo di vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare e togliere il tappo."
+  },
+  "avanzi di cibo": {
+   "dove": "organico",
+   "nota": "Separare dagli imballaggi."
+  },
+  "piccolo osso": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "scarti di frutta": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "scarti di verdura": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "tovagliolo di carta sporco di cibo": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "fondo di caffè": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "filtro del tè": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "fiore reciso": {
+   "dove": "organico",
+   "nota": "Conferire nell’organico."
+  },
+  "alimento scaduto": {
+   "dove": "organico",
+   "nota": "Separare dagli imballaggi."
+  },
+  "cassetta in legno": {
+   "dove": "centro",
+   "nota": "Per il legno il vademecum indica fino a 30 kg per conferimento, quattro volte l’anno. Verificare l’accesso con COSP."
+  },
+  "bancale di legno rotto": {
+   "dove": "centro",
+   "nota": "Verificare con COSP l’accesso al centro e i limiti del legno. I bancali integri si restituiscono o si riutilizzano."
+  },
+  "lastra di vetro": {
+   "dove": "centro",
+   "nota": "Verificare con COSP il centro o l’impianto previsto per l’utenza."
+  },
+  "vetro retinato": {
+   "dove": "centro",
+   "nota": "Verificare con COSP il centro o l’impianto previsto per l’utenza."
+  },
+  "abiti usati": {
+   "dove": "indumenti",
+   "nota": "Conferire solo capi idonei, secondo le disposizioni locali. Per scarti della lavorazione tessile chiedi al gestore."
+  },
+  "rifiuto speciale dell’attività": {
+   "dove": "varia",
+   "nota": "Chiedi al gestore il canale autorizzato per il rifiuto prodotto."
+  },
+  "imballaggio con sostanze pericolose": {
+   "dove": "varia",
+   "nota": "Chiedi al gestore il canale autorizzato."
+  },
+  "scarto di lavorazione tessile": {
+   "dove": "varia",
+   "nota": "Chiedi al gestore il canale autorizzato."
+  },
+  "bancale di legno integro": {
+   "dove": "varia",
+   "nota": "Restituire o riutilizzare."
+  }
+ },
+ "tipi": {
+  "organico": {
+   "nome": "Organico",
+   "nome_en": "Organic",
+   "colore": "#793719"
+  },
+  "carta": {
+   "nome": "Carta e cartone",
+   "nome_en": "Paper and cardboard",
+   "colore": "#254899"
+  },
+  "plastica": {
+   "nome": "Plastica e metalli",
+   "nome_en": "Plastic and metals",
+   "colore": "#F1DD28"
+  },
+  "vetro": {
+   "nome": "Vetro",
+   "nome_en": "Glass",
+   "colore": "#277E39"
+  },
+  "indifferenziato": {
+   "nome": "Indifferenziato",
+   "nome_en": "General waste",
+   "colore": "#4F4C4D"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-25",
+  "colori": "2026-11-25"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "avviso": "Consulta le regole per le attività del tuo comune. Per i materiali e servizi non documentati chiedi al gestore.",
+ "destinazioni": {
+  "organico": "Organico",
+  "carta": "Carta",
+  "vetro": "Vetro",
+  "plastica": "Plastica",
+  "indifferenziato": "Indifferenziato",
+  "sfalci": "Sfalci",
+  "centro": "Centro di raccolta",
+  "farmacia": "Farmacia",
+  "pile": "Contenitori per pile",
+  "indumenti": "Contenitori per indumenti",
+  "varia": "Dipende dal comune"
+ },
+ "voci": [],
+ "foto": {},
+ "destinazioni_en": {
+  "organico": "Organic",
+  "carta": "Paper",
+  "vetro": "Glass",
+  "plastica": "Plastic",
+  "indifferenziato": "General waste",
+  "sfalci": "Garden waste",
+  "centro": "Recycling centre",
+  "farmacia": "Pharmacy",
+  "pile": "Battery containers",
+  "indumenti": "Clothing containers",
+  "varia": "Depends on the town"
+ },
+ "avviso_en": "Use the local business waste rules. Ask your operator about any materials or services not listed."
+}

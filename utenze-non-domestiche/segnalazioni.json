@@ -4,8 +4,163 @@
  "gestori": [
   {
    "id": "cosp-orvietano",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/#wpcf7-f261582-p260788-o1",
    "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
-   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/OrvietoSudUND2026_ST.pdf",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-acquasparta",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-acquasparta/#wpcf7-f262602-p260611-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-acquasparta/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-allerona",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-allerona/#wpcf7-f261582-p260632-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-allerona/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-alviano",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/#wpcf7-f261449-p260638-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-amelia",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-amelia/#wpcf7-f262602-p174-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-amelia/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-attigliano",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-attigliano/#wpcf7-f262602-p260649-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-attigliano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-avigliano-umbro",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-avigliano-umbro/#wpcf7-f262602-p260671-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-avigliano-umbro/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-baschi",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/#wpcf7-f261582-p260675-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-castel-giorgio",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-giorgio/#wpcf7-f261582-p260680-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-giorgio/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-castel-viscardo",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-viscardo/#wpcf7-f261582-p260688-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-viscardo/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-fabro",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-fabro/#wpcf7-f261582-p260709-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-fabro/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-ficulle",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-ficulle/#wpcf7-f261582-p260719-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-ficulle/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-giove",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-giove/#wpcf7-f261449-p260723-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-giove/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-lugnano-in-teverina",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-lugnano-in-teverina/#wpcf7-f262602-p260733-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-lugnano-in-teverina/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-montecastrilli",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montecastrilli/#wpcf7-f262602-p260760-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecastrilli/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-montecchio",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montecchio/#wpcf7-f261582-p260770-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecchio/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-montegabbione",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-montegabbione/#wpcf7-f261582-p260776-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montegabbione/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-monteleone-d-orvieto",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-monteleone-d-orvieto/#wpcf7-f261582-p260782-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-monteleone-d-orvieto/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-parrano",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-parrano/#wpcf7-f261582-p260817-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-parrano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-penna-in-teverina",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-penna-in-teverina/#wpcf7-f262602-p260828-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-penna-in-teverina/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-porano",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-porano/#wpcf7-f261582-p260834-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-porano/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-san-gemini",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-san-gemini/#wpcf7-f262602-p260840-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-san-gemini/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "cosp-und-stroncone",
+   "modulo_url": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/#wpcf7-f262602-p260852-o1",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
    "verificato": "2026-11-25"
   }
  ]

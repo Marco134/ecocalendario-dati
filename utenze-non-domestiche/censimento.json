@@ -26,10 +26,12 @@
    "nome": "Acquasparta",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-acquasparta/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "aglie",
@@ -137,10 +139,12 @@
    "nome": "Allerona",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-allerona/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "almese",
@@ -175,23 +179,24 @@
    "nome": "Alviano",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "amelia",
    "nome": "Amelia",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "calendario_trascritto_da_validare",
-   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/AmeliaUND2026_ST.pdf",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-amelia/",
    "verificato": "2026-11-25",
    "valido_al": "2026-12-31",
    "zone_und": 1,
-   "bozza": "utenze-non-domestiche/da-validare/cosp/amelia/zona-unica.json",
-   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "ameno",
@@ -348,10 +353,12 @@
    "nome": "Attigliano",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-attigliano/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "aurano",
@@ -372,13 +379,12 @@
    "nome": "Avigliano Umbro",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "calendario_trascritto_da_validare",
-   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/AviglianoUmbroUND2026.pdf",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-avigliano-umbro/",
    "verificato": "2026-11-25",
    "valido_al": "2026-12-31",
    "zone_und": 1,
-   "bozza": "utenze-non-domestiche/da-validare/cosp/avigliano-umbro/zona-unica.json",
-   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "azeglio",
@@ -553,10 +559,12 @@
    "nome": "Baschi",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-baschi/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "basiano",
@@ -1557,20 +1565,24 @@
    "nome": "Castel Giorgio",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "calendario_trascritto_da_validare",
-   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/CastelGiorgioUND2026_ST.pdf",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-giorgio/",
    "verificato": "2026-11-25",
    "valido_al": "2026-12-31",
    "zone_und": 1,
-   "bozza": "utenze-non-domestiche/da-validare/cosp/castel-giorgio/zona-unica.json",
-   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "castel-viscardo",
    "nome": "Castel Viscardo",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-castel-viscardo/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "castelcucco",
@@ -1682,7 +1694,10 @@
    "nome": "Castiglione in Teverina",
    "provincia": "VT",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_settimanale_da_verificare",
+   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/03/CALENDARIO-NUOVO-DI-RACCOLTA-CASTIGLIONE-IN-TEVERINA-UD-E-UND-APPROVATO.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Il PDF COSP contiene due tabelle, UD e UND. La tabella UND è settimanale, priva di anno e recuperi festivi. Verificare vigenza e festività prima dell’importazione. Il vetro è abbinato all’alluminio in questa tabella."
   },
   {
    "id": "castione-andevenno",
@@ -2574,7 +2589,12 @@
    "nome": "Fabro",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-fabro/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "faedo-valtellino",
@@ -2644,7 +2664,12 @@
    "nome": "Ficulle",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-ficulle/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "fiorano-canavese",
@@ -2875,7 +2900,12 @@
    "nome": "Giove",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-giove/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "givoletto",
@@ -3008,7 +3038,10 @@
    "nome": "Guardea",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.differenziataterni.it/download/calendario-raccolta-area-vasta-domestica-guardea/",
+   "verificato": "2026-11-25",
+   "nota": "ASM elenca un allegato UND datato 07/01/2026. Il PDF non è stato recuperato. Il sito COSP pubblica due allegati 2026 esplicitamente domestici."
   },
   {
    "id": "guarene",
@@ -3351,7 +3384,12 @@
    "nome": "Lugnano in Teverina",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-lugnano-in-teverina/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "luino",
@@ -3924,20 +3962,24 @@
    "nome": "Montecastrilli",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecastrilli/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "montecchio",
    "nome": "Montecchio",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montecchio/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "montecrestese",
@@ -3951,7 +3993,12 @@
    "nome": "Montegabbione",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-montegabbione/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "montegrino-valtravaglia",
@@ -3965,10 +4012,12 @@
    "nome": "Monteleone d'Orvieto",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-monteleone-d-orvieto/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "montelupo-albese",
@@ -4329,7 +4378,7 @@
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
    "zone_und": 2,
    "valido_al": "2026-12-31",
-   "nota": "Riconfrontate tutte le date dal 25/11 al 31/12 per Nord e Sud con pagina 2 dei PDF ufficiali; nessuna differenza (64 giornate-zona). Restano verifica servizi UND e validatore integrale.",
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
    "verificato": "2026-11-25"
   },
   {
@@ -4456,7 +4505,12 @@
    "nome": "Parrano",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-parrano/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "paruzzaro",
@@ -4519,7 +4573,12 @@
    "nome": "Penna in Teverina",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-penna-in-teverina/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "perledo",
@@ -4799,7 +4858,12 @@
    "nome": "Porano",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-porano/",
+   "verificato": "2026-11-25",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "porte",
@@ -5436,13 +5500,12 @@
    "nome": "San Gemini",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "calendario_trascritto_da_validare",
-   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/SangeminiUND2026_ST.pdf",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-san-gemini/",
    "verificato": "2026-11-25",
    "valido_al": "2026-12-31",
    "zone_und": 1,
-   "bozza": "utenze-non-domestiche/da-validare/cosp/san-gemini/zona-unica.json",
-   "nota": "PDF ufficiale 2026, pagina 2: trascritte 32 date dal 25/11 al 31/12, festività incluse. Restano servizi UND e validazione integrale."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP."
   },
   {
    "id": "san-germano-chisone",
@@ -5897,10 +5960,12 @@
    "nome": "Stroncone",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.cosptecnoservice.it/raccolta-differenziata-stroncone/",
    "verificato": "2026-11-25",
-   "nota": "Pagina ufficiale con sezione UND individuata; PDF 2026 da reperire e verificare. Non equivale a calendario validato."
+   "nota": "Calendario COSP 2026 con verifica del giorno della settimana per 365 righe per zona. Orari generali dei CCR documentati. Per le condizioni UND di accesso e gli ingombranti chiedere a COSP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "sueglio",

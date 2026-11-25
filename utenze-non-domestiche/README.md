@@ -1,5 +1,11 @@
 # Utenze non domestiche (UND)
 
-Archivio separato dal catalogo domestico. Stessa struttura e schema JSON; i percorsi dell'indice sono relativi a questa cartella. Non modificare l'indice domestico. Non attribuire automaticamente alle attività servizi riservati alle famiglie. Sono censite le zone Orvieto Nord e Sud (entrambe area intensa e vasta). Il file `censimento.json` elenca tutti i comuni domestici da verificare per le UND, senza esporre all'app quelli non ancora verificati. I rifiuti speciali non sono automaticamente ammessi alla raccolta urbana. Per l'integrazione nell'app occorre selezionare il catalogo UND; nessuna modifica all'app in questo commit.
+Catalogo delle attività con la stessa struttura dei dati domestici. I percorsi in `indice.json` partono da questa cartella. I calendari in `comuni/` sono collegati a ecocentri, ingombranti, segnalazioni e, dove documentate, regole locali in `regole/`. Il file `rifiuti.json` contiene le destinazioni disponibili e lascia vuote le regole generali. Gli orari e le sedi si consultano nelle schede dei singoli comuni.
 
-Validazione: `python3 utenze-non-domestiche/strumenti/valida.py` dalla radice del repository. Rinnovare ogni calendario alla scadenza; mantenere i riferimenti ufficiali e registrare eventuali limitazioni specifiche per le attività.
+Il registro `censimento.json` segue la verifica delle utenze non domestiche per ogni comune presente nell’indice domestico. Il catalogo UND pubblica soltanto le zone con date o modalità di raccolta confermate. Quando le condizioni per le attività richiedono una verifica, la scheda riporta la fonte e i recapiti del gestore.
+
+## Primo lotto COSP
+
+Dal 25 novembre al 31 dicembre 2026 sono disponibili le date di 23 comuni e 24 zone. Orvieto Nord e Sud hanno calendari distinti e ciascuno vale per le aree intensa e vasta. A Castiglione in Teverina rimane da verificare la validità dello schema settimanale e il servizio nei festivi. A Guardea resta da recuperare l’allegato UND indicato da ASM. [Fonti comunali](fonti.html) · [Calendari e documenti COSP](https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/)
+
+Dalla radice del repository, eseguire `python3 utenze-non-domestiche/strumenti/valida.py` per la validazione. Le condizioni di accesso ai centri e di ritiro degli ingombranti vanno verificate per l’attività e la tipologia di rifiuto. Per usare il catalogo nell’app fa fede l’integrazione prevista nell’issue #23. [Issue #23](https://github.com/Marco134/ecocalendario/issues/23)
