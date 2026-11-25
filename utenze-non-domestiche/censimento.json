@@ -2848,7 +2848,10 @@
    "nome": "Galbiate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/misurazione-puntuale/per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "gallese",
@@ -2897,7 +2900,10 @@
    "nome": "Garlate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/misurazione-puntuale/per-i-cittadini/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "garzigliana",
@@ -3857,7 +3863,10 @@
    "nome": "Merate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "mercenasco",
@@ -3927,7 +3936,10 @@
    "nome": "Missaglia",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "moggio",
@@ -4187,14 +4199,20 @@
    "nome": "Montevecchia",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "monticello-brianza",
    "nome": "Monticello Brianza",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "monticello-d-alba",
@@ -4309,7 +4327,10 @@
    "nome": "Nibionno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "nichelino",
@@ -4431,14 +4452,20 @@
    "nome": "Olgiate Molgora",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "olginate",
    "nome": "Olginate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "oliveto-lario",
@@ -4541,7 +4568,10 @@
    "nome": "Osnago",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "ossimo",
@@ -4576,7 +4606,10 @@
    "nome": "Paderno d'Adda",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "paese",
@@ -4770,7 +4803,10 @@
    "nome": "Pescate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "pessano-con-bornago",
@@ -5385,7 +5421,10 @@
    "nome": "Robbiate",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "rocca-canavese",
@@ -5858,7 +5897,10 @@
    "nome": "Santa Maria Hoè",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "santa-maria-maggiore",
@@ -6005,14 +6047,20 @@
    "nome": "Sirone",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "sirtori",
    "nome": "Sirtori",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "sizzano",
@@ -6153,7 +6201,10 @@
    "nome": "Suello",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "sulbiate",
@@ -6540,7 +6591,10 @@
    "nome": "Valgreghentino",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "vallada-agordina",
@@ -6613,7 +6667,10 @@
    "nome": "Valvarrone",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "valvestino",
@@ -6742,14 +6799,20 @@
    "nome": "Vercurago",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "verderio",
    "nome": "Verderio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "verduno",
@@ -6812,7 +6875,10 @@
    "nome": "Viganò",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "verificato": "2026-11-25",
+   "nota": "Fonte ufficiale Silea: distributori sacchi presenti; abilitazione UND tramite uffici comunali e QR, esclusi utenti con cassonetto taggato ove previsto. Calendario, zone, festività, accesso specifico CCR e ingombranti ancora da verificare. Non validato."
   },
   {
    "id": "vignanello",
