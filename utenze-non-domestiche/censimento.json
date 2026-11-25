@@ -38,7 +38,10 @@
    "nome": "Agliè",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-aglie/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "agordo",
@@ -117,7 +120,10 @@
    "nome": "Albiano d'Ivrea",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-albiano/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "albizzate",
@@ -230,7 +236,10 @@
    "nome": "Andrate",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-andrate/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "angolo-terme",
@@ -400,7 +409,10 @@
    "nome": "Azeglio",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-azeglio/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "azzate",
@@ -435,7 +447,10 @@
    "nome": "Bairo",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-bairo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "balangero",
@@ -449,7 +464,10 @@
    "nome": "Baldissero Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-baldissero-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "baldissero-torinese",
@@ -487,7 +505,10 @@
    "nome": "Banchette",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-banchette/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "bannio-anzino",
@@ -546,7 +567,10 @@
    "nome": "Barone Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-barone-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "barzago",
@@ -801,7 +825,10 @@
    "nome": "Bollengo",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-bollengo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "bolsena",
@@ -870,7 +897,10 @@
    "nome": "Borgofranco d'Ivrea",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-borgofranco-capoluogo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura. Il vetro differisce per frazione. Verificare il proprio indirizzo nella tabella del gestore."
   },
   {
    "id": "borgomanero",
@@ -884,7 +914,10 @@
    "nome": "Borgomasino",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-borgomasino/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "borgomezzavalle",
@@ -1126,7 +1159,10 @@
    "nome": "Burolo",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-burolo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "busano",
@@ -1242,7 +1278,10 @@
    "nome": "Caluso",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-caluso-capoluogo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "calvagese-della-riviera",
@@ -1314,7 +1353,10 @@
    "nome": "Candia Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-candia-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "candiolo",
@@ -1442,7 +1484,10 @@
    "nome": "Caravino",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-caravino/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "carbonera",
@@ -1456,7 +1501,10 @@
    "nome": "Carema",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-carema/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "carenno",
@@ -1599,7 +1647,10 @@
    "nome": "Cascinette d'Ivrea",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-cascinette-divrea/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "caselette",
@@ -2137,7 +2188,10 @@
    "nome": "Chiaverano",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-chiaverano/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "chieri",
@@ -2341,7 +2395,10 @@
    "nome": "Colleretto Giacosa",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-colleretto-giacosa/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "cologno-monzese",
@@ -2481,7 +2538,10 @@
    "nome": "Cossano Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-cossano/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "cossogno",
@@ -2574,7 +2634,10 @@
    "nome": "Cuceglio",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-cuceglio/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "cumiana",
@@ -2916,7 +2979,10 @@
    "nome": "Fiorano Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-fiorano-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "foglizzo",
@@ -3416,7 +3482,10 @@
    "nome": "Ivrea",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Zone con organico, residuo e carta. I turni per via o civico di cartone, plastica e vetro sono nell’archivio e nelle tabelle SCS. Verificare l’indirizzo prima di scegliere il servizio. Per la Z.2 chiedere il PDF corretto al gestore. Il link associato da SCS apre il PDF della Z.1."
   },
   {
    "id": "jerago-con-orago",
@@ -3554,7 +3623,10 @@
    "nome": "Lessolo",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-lessolo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "levone",
@@ -3636,7 +3708,10 @@
    "nome": "Loranzè",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-loranze/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "loreglia",
@@ -3786,7 +3861,10 @@
    "nome": "Maglione",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-maglione/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "malegno",
@@ -4023,7 +4101,10 @@
    "nome": "Mazzè",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-mazze/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "meana-di-susa",
@@ -4084,7 +4165,10 @@
    "nome": "Mercenasco",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-mercenasco/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura. Il vetro differisce per frazione. Verificare il proprio indirizzo nella tabella del gestore."
   },
   {
    "id": "mergozzo",
@@ -4287,14 +4371,20 @@
    "nome": "Montalenghe",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-montalenghe/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "montalto-dora",
    "nome": "Montalto Dora",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-montalto-dora/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "montanaro",
@@ -4587,7 +4677,10 @@
    "nome": "Nomaglio",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-nomaglio/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "none",
@@ -4749,7 +4842,10 @@
    "nome": "Orio Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-orio-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "ornago",
@@ -4881,7 +4977,10 @@
    "nome": "Palazzo Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-palazzo-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "pallanzeno",
@@ -4922,7 +5021,10 @@
    "nome": "Parella",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-parella/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "parlasco",
@@ -4982,7 +5084,10 @@
    "nome": "Pavone Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-pavone-c-se-capoluogo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "pecetto-torinese",
@@ -5039,7 +5144,10 @@
    "nome": "Perosa Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-perosa-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "perrero",
@@ -5226,7 +5334,10 @@
    "nome": "Piverone",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-piverone/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "pocapaglia",
@@ -5548,7 +5659,10 @@
    "nome": "Quagliuzzo",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-quagliuzzo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "quarna-sopra",
@@ -5569,14 +5683,20 @@
    "nome": "Quassolo",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-quassolo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "quincinetto",
    "nome": "Quincinetto",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-quincinetto/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "quinto-di-treviso",
@@ -5898,7 +6018,10 @@
    "nome": "Salerano Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-salerano/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "salerano-sul-lambro",
@@ -5946,7 +6069,10 @@
    "nome": "Samone",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-samone/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "san-benigno-canavese",
@@ -6045,7 +6171,10 @@
    "nome": "San Giorgio Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giorgio-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "san-giorio-di-susa",
@@ -6059,7 +6188,10 @@
    "nome": "San Giusto Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giusto/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "san-lorenzo-nuovo",
@@ -6073,7 +6205,10 @@
    "nome": "San Martino Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-san-martino-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "san-maurizio-canavese",
@@ -6271,7 +6406,10 @@
    "nome": "Scarmagno",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-scarmagno/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "sciolze",
@@ -6333,7 +6471,10 @@
    "nome": "Settimo Rottaro",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-settimo-rottaro/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "settimo-torinese",
@@ -6347,7 +6488,10 @@
    "nome": "Settimo Vittone",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-settimo-vittone/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "silea",
@@ -6485,14 +6629,20 @@
    "nome": "Strambinello",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-strambinello/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "strambino",
    "nome": "Strambino",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-strambino-capoluogo/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Zone con organico, residuo e carta. I turni per via o civico di cartone, plastica e vetro sono nell’archivio e nelle tabelle SCS. Verificare l’indirizzo prima di scegliere il servizio."
   },
   {
    "id": "stresa",
@@ -6610,7 +6760,10 @@
    "nome": "Tavagnasco",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-tavagnasco/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "teglio",
@@ -6655,7 +6808,10 @@
    "nome": "Torre Canavese",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-torre-c-se/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "torre-pellice",
@@ -7219,7 +7375,10 @@
    "nome": "Vestignè",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-vestigne/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "vezza-d-alba",
@@ -7233,7 +7392,10 @@
    "nome": "Vialfrè",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-vialfre/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "vidracco",
@@ -7388,7 +7550,10 @@
    "nome": "Villareggia",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-villareggia/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "villasanta",
@@ -7439,7 +7604,10 @@
    "nome": "Vische",
    "provincia": "TO",
    "gestore": "SCS – Società Canavesana Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-vische/ | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+   "verificato": "2026-11-25",
+   "nota": "Giorni di carta, plastica e cartone pubblicati per i servizi e gli indirizzi verificati. Consultare la tabella ufficiale del vetro per giorno, orario e copertura."
   },
   {
    "id": "vistrorio",

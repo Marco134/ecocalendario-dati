@@ -36,6 +36,30 @@
    ]
   },
   {
+   "id": "aglie",
+   "nome": "Agliè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3634,
+   "lon": 7.7686,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/aglie/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/aglie/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-aglie/"
+  },
+  {
    "id": "agrate-brianza",
    "nome": "Agrate Brianza",
    "provincia": "MB",
@@ -90,6 +114,30 @@
    ]
   },
   {
+   "id": "albiano-d-ivrea",
+   "nome": "Albiano d'Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4339,
+   "lon": 7.9491,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/albiano-d-ivrea/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/albiano-d-ivrea/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-albiano/"
+  },
+  {
    "id": "allerona",
    "nome": "Allerona",
    "provincia": "TR",
@@ -139,6 +187,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "andrate",
+   "nome": "Andrate",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5284,
+   "lon": 7.8738,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/andrate/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/andrate/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-andrate/"
   },
   {
    "id": "arcore",
@@ -218,6 +290,102 @@
    ]
   },
   {
+   "id": "azeglio",
+   "nome": "Azeglio",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4249,
+   "lon": 7.9948,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/azeglio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/azeglio/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-azeglio/"
+  },
+  {
+   "id": "bairo",
+   "nome": "Bairo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3862,
+   "lon": 7.7569,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/bairo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/bairo/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-bairo/"
+  },
+  {
+   "id": "baldissero-canavese",
+   "nome": "Baldissero Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4084,
+   "lon": 7.7444,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/baldissero-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/baldissero-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-baldissero-c-se/"
+  },
+  {
+   "id": "banchette",
+   "nome": "Banchette",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4609,
+   "lon": 7.8566,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/banchette/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/banchette/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-banchette/"
+  },
+  {
    "id": "barlassina",
    "nome": "Barlassina",
    "provincia": "MB",
@@ -235,6 +403,30 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-barlassina.json",
    "regole": "regole/gelsia-und-barlassina.json"
+  },
+  {
+   "id": "barone-canavese",
+   "nome": "Barone Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3277,
+   "lon": 7.8706,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/barone-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/barone-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-barone-c-se/"
   },
   {
    "id": "barumini",
@@ -477,6 +669,30 @@
    "regole": "regole/gelsia-und-biassono.json"
   },
   {
+   "id": "bollengo",
+   "nome": "Bollengo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4734,
+   "lon": 7.9453,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/bollengo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/bollengo/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-bollengo/"
+  },
+  {
    "id": "borgo-san-giovanni",
    "nome": "Borgo San Giovanni",
    "provincia": "LO",
@@ -493,6 +709,54 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "borgofranco-d-ivrea",
+   "nome": "Borgofranco d'Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.513,
+   "lon": 7.8585,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/borgofranco-d-ivrea/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/borgofranco-d-ivrea/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-borgofranco-capoluogo/"
+  },
+  {
+   "id": "borgomasino",
+   "nome": "Borgomasino",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3616,
+   "lon": 7.9888,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/borgomasino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/borgomasino/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-borgomasino/"
   },
   {
    "id": "bossico",
@@ -572,6 +836,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "burolo",
+   "nome": "Burolo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4841,
+   "lon": 7.9321,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/burolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/burolo/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-burolo/"
   },
   {
    "id": "busnago",
@@ -683,6 +971,36 @@
    ]
   },
   {
+   "id": "caluso",
+   "nome": "Caluso",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3079,
+   "lon": 7.8915,
+   "zone": [
+    {
+     "id": "capoluogo",
+     "nome": "Capoluogo",
+     "file": "comuni/caluso/zona-capoluogo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Frazioni",
+     "file": "comuni/caluso/zona-frazioni.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/caluso/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-caluso-capoluogo/"
+  },
+  {
    "id": "calvagese-della-riviera",
    "nome": "Calvagese della Riviera",
    "provincia": "BS",
@@ -755,6 +1073,30 @@
    ]
   },
   {
+   "id": "candia-canavese",
+   "nome": "Candia Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3282,
+   "lon": 7.8866,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/candia-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/candia-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-candia-c-se/"
+  },
+  {
    "id": "capitignano",
    "nome": "Capitignano",
    "provincia": "AQ",
@@ -821,6 +1163,54 @@
    "zone_url": "https://comune.caratebrianza.mb.it/it/garbage-calendars",
    "ecocentri": "ecocentri/gelsia-und-carate-brianza.json",
    "regole": "regole/gelsia-und-carate-brianza.json"
+  },
+  {
+   "id": "caravino",
+   "nome": "Caravino",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3986,
+   "lon": 7.9602,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/caravino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/caravino/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-caravino/"
+  },
+  {
+   "id": "carema",
+   "nome": "Carema",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5844,
+   "lon": 7.8123,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/carema/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/carema/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-carema/"
   },
   {
    "id": "carnate",
@@ -953,6 +1343,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "cascinette-d-ivrea",
+   "nome": "Cascinette d'Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4785,
+   "lon": 7.9047,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/cascinette-d-ivrea/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/cascinette-d-ivrea/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cascinette-divrea/"
   },
   {
    "id": "caselle-lurani",
@@ -1220,6 +1634,30 @@
    ]
   },
   {
+   "id": "chiaverano",
+   "nome": "Chiaverano",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4994,
+   "lon": 7.9031,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/chiaverano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/chiaverano/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-chiaverano/"
+  },
+  {
    "id": "chignolo-disola",
    "nome": "Chignolo d'Isola",
    "provincia": "BG",
@@ -1291,6 +1729,30 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-cogliate.json",
    "regole": "regole/gelsia-und-cogliate.json"
+  },
+  {
+   "id": "colleretto-giacosa",
+   "nome": "Colleretto Giacosa",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4329,
+   "lon": 7.8,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/colleretto-giacosa/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/colleretto-giacosa/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-colleretto-giacosa/"
   },
   {
    "id": "colli-al-metauro",
@@ -1456,6 +1918,30 @@
    ]
   },
   {
+   "id": "cossano-canavese",
+   "nome": "Cossano Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3883,
+   "lon": 7.9934,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/cossano-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/cossano-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cossano/"
+  },
+  {
    "id": "costa-volpino",
    "nome": "Costa Volpino",
    "provincia": "BG",
@@ -1472,6 +1958,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "cuceglio",
+   "nome": "Cuceglio",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3589,
+   "lon": 7.8148,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/cuceglio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/cuceglio/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cuceglio/"
   },
   {
    "id": "dello",
@@ -1699,6 +2209,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "fiorano-canavese",
+   "nome": "Fiorano Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4676,
+   "lon": 7.829,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/fiorano-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/fiorano-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-fiorano-c-se/"
   },
   {
    "id": "folgaria",
@@ -2144,6 +2678,192 @@
    ]
   },
   {
+   "id": "ivrea",
+   "nome": "Ivrea",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4662,
+   "lon": 7.876,
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A",
+     "file": "comuni/ivrea/zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B",
+     "file": "comuni/ivrea/zona-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C",
+     "file": "comuni/ivrea/zona-c.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "d",
+     "nome": "Zona D",
+     "file": "comuni/ivrea/zona-d.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "e",
+     "nome": "Zona E",
+     "file": "comuni/ivrea/zona-e.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "f",
+     "nome": "Zona F",
+     "file": "comuni/ivrea/zona-f.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "g",
+     "nome": "Zona G",
+     "file": "comuni/ivrea/zona-g.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "h",
+     "nome": "Zona H",
+     "file": "comuni/ivrea/zona-h.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "i",
+     "nome": "Zona I",
+     "file": "comuni/ivrea/zona-i.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "j",
+     "nome": "Zona J",
+     "file": "comuni/ivrea/zona-j.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "j-1",
+     "nome": "Zona J.1",
+     "file": "comuni/ivrea/zona-j-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "k",
+     "nome": "Zona K",
+     "file": "comuni/ivrea/zona-k.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "l",
+     "nome": "Zona L",
+     "file": "comuni/ivrea/zona-l.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "m",
+     "nome": "Zona M",
+     "file": "comuni/ivrea/zona-m.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "m-1",
+     "nome": "Zona M.1",
+     "file": "comuni/ivrea/zona-m-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "n",
+     "nome": "Zona N",
+     "file": "comuni/ivrea/zona-n.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "n-1",
+     "nome": "Zona N.1",
+     "file": "comuni/ivrea/zona-n-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "o",
+     "nome": "Zona O",
+     "file": "comuni/ivrea/zona-o.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "q",
+     "nome": "Zona Q",
+     "file": "comuni/ivrea/zona-q.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "r",
+     "nome": "Zona R",
+     "file": "comuni/ivrea/zona-r.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "s",
+     "nome": "Zona S",
+     "file": "comuni/ivrea/zona-s.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "t",
+     "nome": "Zona T",
+     "file": "comuni/ivrea/zona-t.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "u",
+     "nome": "Zona U",
+     "file": "comuni/ivrea/zona-u.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "z",
+     "nome": "Zona Z",
+     "file": "comuni/ivrea/zona-z.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "z-1",
+     "nome": "Zona Z.1",
+     "file": "comuni/ivrea/zona-z-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "z-2",
+     "nome": "Zona Z.2",
+     "file": "comuni/ivrea/zona-z-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "z-3",
+     "nome": "Zona Z.3",
+     "file": "comuni/ivrea/zona-z-3.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "s-1",
+     "nome": "Zona S.1",
+     "file": "comuni/ivrea/zona-s-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "v",
+     "nome": "Zona V",
+     "file": "comuni/ivrea/zona-v.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/"
+  },
+  {
    "id": "laquila",
    "nome": "L'Aquila",
    "provincia": "AQ",
@@ -2215,6 +2935,30 @@
    ]
   },
   {
+   "id": "lessolo",
+   "nome": "Lessolo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4762,
+   "lon": 7.8142,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/lessolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/lessolo/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-lessolo/"
+  },
+  {
    "id": "liscate",
    "nome": "Liscate",
    "provincia": "MI",
@@ -2250,6 +2994,30 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-lonato-del-garda.json"
+  },
+  {
+   "id": "loranze",
+   "nome": "Loranzè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4422,
+   "lon": 7.8109,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/loranze/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/loranze/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-loranze/"
   },
   {
    "id": "lovere",
@@ -2358,6 +3126,30 @@
    "ecocentri": "ecocentri/garda-und-magasa.json"
   },
   {
+   "id": "maglione",
+   "nome": "Maglione",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3477,
+   "lon": 8.0117,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/maglione/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/maglione/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-maglione/"
+  },
+  {
    "id": "manerba-del-garda",
    "nome": "Manerba del Garda",
    "provincia": "BS",
@@ -2453,6 +3245,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "mazze",
+   "nome": "Mazzè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.2985,
+   "lon": 7.937,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/mazze/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/mazze/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-mazze/"
   },
   {
    "id": "mediglia",
@@ -2570,6 +3386,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "mercenasco",
+   "nome": "Mercenasco",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.357,
+   "lon": 7.8826,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/mercenasco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/mercenasco/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-mercenasco/"
   },
   {
    "id": "merlino",
@@ -2715,6 +3555,54 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-moniga-del-garda.json"
+  },
+  {
+   "id": "montalenghe",
+   "nome": "Montalenghe",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3377,
+   "lon": 7.8399,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/montalenghe/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/montalenghe/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-montalenghe/"
+  },
+  {
+   "id": "montalto-dora",
+   "nome": "Montalto Dora",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4936,
+   "lon": 7.8638,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/montalto-dora/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/montalto-dora/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-montalto-dora/"
   },
   {
    "id": "montecastrilli",
@@ -2887,6 +3775,30 @@
    ]
   },
   {
+   "id": "nomaglio",
+   "nome": "Nomaglio",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5352,
+   "lon": 7.8597,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/nomaglio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/nomaglio/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-nomaglio/"
+  },
+  {
    "id": "nomi",
    "nome": "Nomi",
    "provincia": "TN",
@@ -2941,6 +3853,30 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-offlaga.json"
+  },
+  {
+   "id": "orio-canavese",
+   "nome": "Orio Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3285,
+   "lon": 7.8603,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/orio-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/orio-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-orio-c-se/"
   },
   {
    "id": "ornago",
@@ -3003,6 +3939,30 @@
    "ecocentri": "ecocentri/garda-und-padenghe-sul-garda.json"
   },
   {
+   "id": "palazzo-canavese",
+   "nome": "Palazzo Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4575,
+   "lon": 7.978,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/palazzo-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/palazzo-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-palazzo-c-se/"
+  },
+  {
    "id": "pantigliate",
    "nome": "Pantigliate",
    "provincia": "MI",
@@ -3037,6 +3997,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "parella",
+   "nome": "Parella",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.43,
+   "lon": 7.791,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/parella/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/parella/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-parella/"
   },
   {
    "id": "parrano",
@@ -3098,6 +4082,30 @@
    ]
   },
   {
+   "id": "pavone-canavese",
+   "nome": "Pavone Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4353,
+   "lon": 7.854,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/pavone-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/pavone-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-pavone-c-se-capoluogo/"
+  },
+  {
    "id": "peia",
    "nome": "Peia",
    "provincia": "BG",
@@ -3149,6 +4157,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "perosa-canavese",
+   "nome": "Perosa Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3972,
+   "lon": 7.8293,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/perosa-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/perosa-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-perosa-c-se/"
   },
   {
    "id": "pessano-con-bornago",
@@ -3251,6 +4283,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "piverone",
+   "nome": "Piverone",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4475,
+   "lon": 8.0071,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/piverone/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/piverone/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-piverone/"
   },
   {
    "id": "pizzoli",
@@ -3493,6 +4549,78 @@
    "ecocentri": "ecocentri/garda-und-puegnago-del-garda.json"
   },
   {
+   "id": "quagliuzzo",
+   "nome": "Quagliuzzo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4265,
+   "lon": 7.7818,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/quagliuzzo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/quagliuzzo/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-quagliuzzo/"
+  },
+  {
+   "id": "quassolo",
+   "nome": "Quassolo",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5249,
+   "lon": 7.8325,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/quassolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/quassolo/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-quassolo/"
+  },
+  {
+   "id": "quincinetto",
+   "nome": "Quincinetto",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5608,
+   "lon": 7.8058,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/quincinetto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/quincinetto/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-quincinetto/"
+  },
+  {
    "id": "ranzanico",
    "nome": "Ranzanico",
    "provincia": "BG",
@@ -3697,6 +4825,30 @@
    ]
   },
   {
+   "id": "salerano-canavese",
+   "nome": "Salerano Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4564,
+   "lon": 7.8499,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/salerano-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/salerano-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-salerano/"
+  },
+  {
    "id": "salerano-sul-lambro",
    "nome": "Salerano sul Lambro",
    "provincia": "LO",
@@ -3746,6 +4898,30 @@
    "ecocentri": "ecocentri/garda-und-salo.json"
   },
   {
+   "id": "samone",
+   "nome": "Samone",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4493,
+   "lon": 7.8456,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/samone/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/samone/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-samone/"
+  },
+  {
    "id": "san-felice-del-benaco",
    "nome": "San Felice del Benaco",
    "provincia": "BS",
@@ -3781,6 +4957,30 @@
    ]
   },
   {
+   "id": "san-giorgio-canavese",
+   "nome": "San Giorgio Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3354,
+   "lon": 7.7943,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/san-giorgio-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/san-giorgio-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giorgio-c-se/"
+  },
+  {
    "id": "san-giovanni-bianco",
    "nome": "San Giovanni Bianco",
    "provincia": "BG",
@@ -3797,6 +4997,54 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "san-giusto-canavese",
+   "nome": "San Giusto Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3122,
+   "lon": 7.8083,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/san-giusto-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/san-giusto-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giusto/"
+  },
+  {
+   "id": "san-martino-canavese",
+   "nome": "San Martino Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3946,
+   "lon": 7.8184,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/san-martino-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/san-martino-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-martino-c-se/"
   },
   {
    "id": "san-pellegrino-terme",
@@ -3921,6 +5169,30 @@
    ]
   },
   {
+   "id": "scarmagno",
+   "nome": "Scarmagno",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3858,
+   "lon": 7.8407,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/scarmagno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/scarmagno/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-scarmagno/"
+  },
+  {
    "id": "scoppito",
    "nome": "Scoppito",
    "provincia": "AQ",
@@ -3973,6 +5245,54 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "settimo-rottaro",
+   "nome": "Settimo Rottaro",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4049,
+   "lon": 7.9922,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/settimo-rottaro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/settimo-rottaro/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-settimo-rottaro/"
+  },
+  {
+   "id": "settimo-vittone",
+   "nome": "Settimo Vittone",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5481,
+   "lon": 7.8317,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/settimo-vittone/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/settimo-vittone/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-settimo-vittone/"
   },
   {
    "id": "setzu",
@@ -4117,6 +5437,54 @@
    ]
   },
   {
+   "id": "strambinello",
+   "nome": "Strambinello",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.4232,
+   "lon": 7.7687,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/strambinello/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/strambinello/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-strambinello/"
+  },
+  {
+   "id": "strambino",
+   "nome": "Strambino",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3846,
+   "lon": 7.8806,
+   "zone": [
+    {
+     "id": "capoluogo",
+     "nome": "Capoluogo",
+     "file": "comuni/strambino/zona-capoluogo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Frazioni",
+     "file": "comuni/strambino/zona-frazioni.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-strambino-capoluogo/"
+  },
+  {
    "id": "stroncone",
    "nome": "Stroncone",
    "provincia": "TR",
@@ -4168,6 +5536,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "tavagnasco",
+   "nome": "Tavagnasco",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.5432,
+   "lon": 7.8226,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/tavagnasco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/tavagnasco/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-tavagnasco/"
   },
   {
    "id": "terno-disola",
@@ -4222,6 +5614,30 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-tignale.json"
+  },
+  {
+   "id": "torre-canavese",
+   "nome": "Torre Canavese",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3918,
+   "lon": 7.7605,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/torre-canavese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/torre-canavese/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-torre-c-se/"
   },
   {
    "id": "torrevecchia-pia",
@@ -4698,6 +6114,54 @@
    "ecocentri": "ecocentri/garda-und-verolanuova.json"
   },
   {
+   "id": "vestigne",
+   "nome": "Vestignè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3867,
+   "lon": 7.9539,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/vestigne/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/vestigne/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vestigne/"
+  },
+  {
+   "id": "vialfre",
+   "nome": "Vialfrè",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3808,
+   "lon": 7.8182,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/vialfre/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/vialfre/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vialfre/"
+  },
+  {
    "id": "vignate",
    "nome": "Vignate",
    "provincia": "MI",
@@ -4786,6 +6250,30 @@
    ]
   },
   {
+   "id": "villareggia",
+   "nome": "Villareggia",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.311,
+   "lon": 7.9785,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/villareggia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/villareggia/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-villareggia/"
+  },
+  {
    "id": "villasanta",
    "nome": "Villasanta",
    "provincia": "MB",
@@ -4851,6 +6339,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "vische",
+   "nome": "Vische",
+   "provincia": "TO",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "consorzio": "scs-und",
+   "lat": 45.3316,
+   "lon": 7.9514,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/vische/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-und",
+     "nome": "Cartone · attività",
+     "file": "comuni/vische/zona-cartone-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vische/"
   },
   {
    "id": "vizzolo-predabissi",
@@ -5157,6 +6669,12 @@
   "gelsia-und": {
    "nome": "Gelsia Ambiente · UND",
    "gestore": "Gelsia Ambiente"
+  },
+  "scs-und": {
+   "nome": "SCS · UND",
+   "gestore": "SCS – Società Canavesana Servizi",
+   "ecocentri": "ecocentri/scs-und.json",
+   "regole": "regole/scs-und.json"
   }
  }
 }

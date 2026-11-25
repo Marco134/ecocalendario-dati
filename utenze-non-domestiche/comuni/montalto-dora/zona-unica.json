@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "comune": "Montalto Dora",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-montalto-dora/ | https://scsivrea.it/wp-content/uploads/2025/12/Calendario-2026_UD_MONTALTO.pdf | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Organico e residuo seguono i turni delle utenze domestiche per la stessa zona. Il ritiro dei rifiuti dell’attività vale per i servizi attivati.",
+  "Imballaggi in plastica e metallo il lunedì entro le 06:00 per le attività servite. Nei recuperi esporre entro le 06:00.",
+  "Per il giro cartone UND del martedì entro le 06:00 selezionare il programma dedicato. Seguire le dotazioni attivate dal gestore.",
+  "Per il giro del vetro consultare la tabella UND del gestore. La scadenza applicabile e la frequenza del singolo servizio richiedono conferma.",
+  "Carta con cadenza settimanale sui giorni del PDF. Per i recuperi vale il calendario del gestore."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-07",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "annullato",
+   "raccolta": "indifferenziato"
+  }
+ ],
+ "esposizione": "Organico e residuo con gli orari della zona nel PDF. Carta sugli stessi giorni settimanali della zona. Per cartone, plastica e vetro verificare il servizio per l’indirizzo."
+}

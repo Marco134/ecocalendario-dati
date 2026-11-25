@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "nome": "SCS · materiali per le attività",
+ "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://www.scsivrea.it/wp-content/uploads/2021/05/Guida-al-conferimento-plastica-UND-2.pdf | https://scsivrea.it/wp-content/uploads/2025/06/Tabella-quantitativi-rifiuti-CDR_utenza-NON-domestica_13-08-24.pdf",
+ "tipi": {
+  "plastica": {
+   "nome": "Imballaggi in plastica e metallo",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "carta e fogli": {
+   "dove": "carta",
+   "nota": "Per carta pulita e asciutta seguire la raccolta settimanale per le attività."
+  },
+  "giornali, riviste, libri e quaderni": {
+   "dove": "carta",
+   "nota": "Rimuovere innanzitutto la plastica e gli altri componenti separabili."
+  },
+  "cartone e imballaggi di cartone puliti": {
+   "dove": "carta",
+   "nota": "Piegare il cartone e controllare il turno specifico per l’attività e la via."
+  },
+  "cartoni per bevande in tetrapak": {
+   "dove": "carta",
+   "nota": "Svuotare e seguire le indicazioni locali della carta."
+  },
+  "carta oleata e carta da forno": {
+   "dove": "indifferenziato",
+   "nota": "Usare il residuo previsto per l’attività."
+  },
+  "scontrini in carta termica": {
+   "dove": "indifferenziato",
+   "nota": "Usare il residuo previsto per l’attività."
+  },
+  "bottiglie e flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare e ridurre il volume. Usare il servizio per imballaggi dell’attività."
+  },
+  "cassette e cassoni industriali e agricoli in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire solo gli imballaggi ammessi e svuotati, secondo la guida UND."
+  },
+  "pluriball e film per pallettizzazione": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi svuotati e separati. Seguire la dotazione indicata per l’attività."
+  },
+  "pallet e bancali in plastica": {
+   "dove": "plastica",
+   "nota": "L’ammissione riguarda gli imballaggi. Per dimensioni o quantità verificare il circuito assegnato."
+  },
+  "fascette e reggette da imballaggio in plastica": {
+   "dove": "plastica",
+   "nota": "Per il ritiro degli imballaggi seguire la guida UND. Il centro applica limiti e condizioni distinti."
+  },
+  "sacchi tessuti per usi industriali e big bags": {
+   "dove": "plastica",
+   "nota": "Solo imballaggi svuotati e ammessi dal gestore."
+  },
+  "barattoli, latte e lattine": {
+   "dove": "plastica",
+   "nota": "Vuotare, tenere separati dagli altri materiali. Ritiri con plastica e metallo dove il servizio è attivo."
+  },
+  "imballaggi con residui pericolosi": {
+   "dove": "varia",
+   "nota": "Rivolgersi al canale autorizzato per il rifiuto dell’attività."
+  },
+  "rifiuti ospedalieri": {
+   "dove": "varia",
+   "nota": "Esclusi dalla raccolta imballaggi indicata. Rivolgersi al proprio circuito autorizzato."
+  },
+  "imballaggi in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire la dotazione e il passaggio assegnati all’attività."
+  },
+  "bottiglie, barattoli e flaconi in vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare i contenitori. Conferire senza componenti estranei."
+  },
+  "ceramica, porcellana e pyrex": {
+   "dove": "varia",
+   "nota": "Esclusi dal contenitore del vetro. Chiedere il canale previsto per quantità e provenienza."
+  },
+  "avanzi di cibo e scarti di frutta e verdura": {
+   "dove": "organico",
+   "nota": "Seguire il calendario e il contenitore assegnati."
+  },
+  "fondi di caffè e filtri del tè": {
+   "dove": "organico",
+   "nota": "Le cialde devono essere compostabili per seguire l’organico."
+  },
+  "bioplastiche compostabili": {
+   "dove": "organico",
+   "nota": "Controllare l’etichetta e la compostabilità del prodotto."
+  },
+  "vecchi materassi e divani": {
+   "dove": "varia",
+   "nota": "Per l’attività richiedere un preventivo oppure verificare l’ammissione al CDR Ivrea. Il prospetto indica fino a 500 kg al giorno per la voce ingombranti con il profilo idoneo."
+  },
+  "grandi raee": {
+   "dove": "varia",
+   "nota": "Per installatori, rivenditori e distributori verificare categoria 3-bis, appuntamento e centro abilitato."
+  },
+  "lastre di vetro, specchi e cristalli": {
+   "dove": "varia",
+   "nota": "Verificare con SCS il canale autorizzato per il materiale e il profilo dell’attività."
+  }
+ }
+}

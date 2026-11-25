@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "comune": "Chiaverano",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "Cartone · attività",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Solo il giro del cartone delle attività indicate da SCS. Giorno ordinario venerdì, entro le 06:00. Esporre entro le 06:00 nei giorni di recupero."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  }
+ ],
+ "esposizione": "Solo il giro del cartone delle attività indicate da SCS. Giorno ordinario venerdì, entro le 06:00. Esporre entro le 06:00 nei giorni di recupero."
+}

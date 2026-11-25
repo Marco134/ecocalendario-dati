@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "comune": "Ivrea",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "Zona S.1",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/ | https://scsivrea.it/calendario-2-0/calendario-comune-di-ivrea/ | https://scsivrea.it/wp-content/uploads/2025/12/Calendario-2026_UD_IVREA-ZONA-S.1.pdf | https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-plastica-e-metallo-utenze-non-domestiche/ | https://scsivrea.it/raccolta-imballaggi-in-vetro-utenze-non-domestiche/",
+ "raccolte": {
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Organico e residuo seguono i turni delle utenze domestiche per la stessa zona. Il ritiro dei rifiuti dell’attività vale per i servizi attivati.",
+  "Zone con organico, residuo e carta. I turni per via o civico di cartone, plastica e vetro sono nell’archivio e nelle tabelle SCS. Verificare l’indirizzo prima di scegliere il servizio.",
+  "Per il giro del vetro consultare la tabella UND del gestore. La scadenza applicabile e la frequenza del singolo servizio richiedono conferma.",
+  "Carta con cadenza settimanale sui giorni del PDF. Per i recuperi vale il calendario del gestore."
+ ],
+ "eccezioni": [],
+ "esposizione": "Organico e residuo con gli orari della zona nel PDF. Carta sugli stessi giorni settimanali della zona. Per cartone, plastica e vetro verificare il servizio per l’indirizzo."
+}

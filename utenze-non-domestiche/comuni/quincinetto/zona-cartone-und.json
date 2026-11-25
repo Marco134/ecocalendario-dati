@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "comune": "Quincinetto",
+ "provincia": "TO",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "zona": "Cartone · attività",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://scsivrea.it/raccolta-carta-e-cartone-non-domestiche/",
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Solo il giro del cartone delle attività indicate da SCS. Giorno ordinario giovedì, entro le 06:00. Esporre entro le 06:00 nei giorni di recupero."
+ ],
+ "eccezioni": [],
+ "esposizione": "Solo il giro del cartone delle attività indicate da SCS. Giorno ordinario giovedì, entro le 06:00. Esporre entro le 06:00 nei giorni di recupero."
+}

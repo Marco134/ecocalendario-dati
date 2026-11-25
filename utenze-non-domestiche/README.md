@@ -57,3 +57,7 @@ Calendario base per Calcinato, Desenzano del Garda e Salò. A Manerbio sono pubb
 ## Gelsia Ambiente
 
 Carate Brianza ha cinque frazioni ordinarie e tre zone confermate dal Comune per le attività. A Biassono sono disponibili carta e cartone, imballaggi in plastica e metallo e secco RFID per tre zone. Barlassina, Cogliate, Misinto, Nova Milanese e Triuggio hanno schede di servizio con turni e recuperi da confermare. Gli orari dei centri distinguono le attività e riportano le condizioni stagionali e mensili nelle note.
+
+## Società Canavesana Servizi
+
+Nei 56 comuni verificati organico e residuo seguono il calendario pubblico della zona. La carta è settimanale per le attività. Il programma separato del cartone è indicato dove la tabella offre un turno comunale univoco. Per i turni per via di Ivrea e Strambino, il vetro e le zone con frazioni consultare le tabelle SCS. La Z.2 di Ivrea richiede il PDF corretto. [Calendari UND](https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/)

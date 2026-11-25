@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "SCS – Società Canavesana Servizi",
+ "numero_verde": "800 159 040",
+ "orari_numero_verde": "Lun–ven 09:00–12:00 e 13:30–16:00",
+ "accesso": "Per rifiuti della propria attività il centro competente è Ivrea, via Cuneo 17. Esibire l’iscrizione all’Albo Gestori per i codici ammessi e la documentazione richiesta per la propria categoria. Per servizi per terzi occorrono categoria 4 e formulario. Distributori, installatori e altri operatori RAEE ammessi verificano iscrizione in categoria 3-bis e accordo con SCS.",
+ "fonte": "https://scsivrea.it/accesso-e-utilizzo-dei-centri-di-racolta-aziende/ | https://scsivrea.it/centri-di-raccolta/ | https://scsivrea.it/?page_id=509 | https://scsivrea.it/wp-content/uploads/2025/06/Modlita-di-accesso-al-CDR-rev-4-12-2024.pdf | https://scsivrea.it/wp-content/uploads/2025/06/Tabella-quantitativi-rifiuti-CDR_utenza-NON-domestica_13-08-24.pdf",
+ "centri": [
+  {
+   "id": "scs-und-ivrea",
+   "tipo": "raccolta",
+   "comune": "Ivrea",
+   "indirizzo": "Via Cuneo 17, frazione San Bernardo, Ivrea",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "11:45"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "11:45"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "11:45"
+     ]
+    ]
+   },
+   "lat": 45.4328343,
+   "lon": 7.88809149999997,
+   "chiuso": false,
+   "avviso": "Confermare il codice di rifiuto e i limiti prima del conferimento. Per i RAEE ammessi in altri centri serve il profilo autorizzato e un accordo con SCS."
+  }
+ ]
+}
