@@ -1,0 +1,107 @@
+{
+ "schema": 1,
+ "comune": "Bertinoro",
+ "provincia": "FC",
+ "gestore": "Alea Ambiente",
+ "zona": "Centro",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i contenitori la sera precedente, secondo gli orari della zona.",
+ "valido_dal": "2026-11-25",
+ "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2025/12/BERTINORO-CENTRO.pdf | https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
+ "note": [
+  "Calendario valido per attività con dotazione standard, da 25 a 120 litri. La zona di raccolta è riportata sulla fattura Alea.",
+  "Vetro porta a porta.",
+  "I contenitori grandi, gli svuotamenti a pesatura e i servizi aggiuntivi seguono la prenotazione o il programma concordato con Alea.",
+  "Verificare l’avviso locale per il recupero dell’8 dicembre. Fa fede il PDF della zona per le date riportate."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ }
+}

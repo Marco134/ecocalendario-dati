@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Civitella di Romagna",
+ "provincia": "FC",
+ "gestore": "Alea Ambiente",
+ "zona": "Cintura urbana 1",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i contenitori la sera precedente, secondo gli orari della zona.",
+ "valido_dal": "2026-11-25",
+ "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2025/12/CIVITELLA-CINTURA-1.pdf | https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
+ "note": [
+  "Calendario valido per attività con dotazione standard, da 25 a 120 litri. La zona di raccolta è riportata sulla fattura Alea.",
+  "Vetro porta a porta.",
+  "I contenitori grandi, gli svuotamenti a pesatura e i servizi aggiuntivi seguono la prenotazione o il programma concordato con Alea."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-01": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ }
+}

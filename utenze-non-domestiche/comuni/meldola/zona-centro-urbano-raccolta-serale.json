@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "comune": "Meldola",
+ "provincia": "FC",
+ "gestore": "Alea Ambiente",
+ "zona": "Centro urbano · raccolta serale",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre il giorno stesso entro le 21:00.",
+ "esposizione_entro": "21:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-11",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-24"
+  }
+ ],
+ "valido_dal": "2026-11-25",
+ "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2026/08/MELDOLA-CENTRO-SERALE.pdf | https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
+ "note": [
+  "Calendario valido per attività con dotazione standard, da 25 a 120 litri. La zona di raccolta è riportata sulla fattura Alea.",
+  "Vetro porta a porta.",
+  "I contenitori grandi, gli svuotamenti a pesatura e i servizi aggiuntivi seguono la prenotazione o il programma concordato con Alea.",
+  "Per il centro urbano si applica il calendario serale in vigore dal 31 agosto. Il 25 dicembre il PDF indica secco, organico e plastica/lattine. Verificare l’edizione 2027 per il nuovo anno."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-25": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico"
+  ]
+ }
+}

@@ -572,6 +572,40 @@
    ],
    "fonte": "https://dolomitiambiente.it/it/rovereto/non-domestica/servizi/servizi-a-pagamento | https://dolomitiambiente.it/it/modulo-ritiro-rifiuti-speciali | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-A02-01-Rifiuti-ammessi---Produttori-di-rifiuti-urbani-non-domestici.pdf",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "alea-ambiente-und",
+   "nome": "Alea Ambiente · UND",
+   "gestori": [],
+   "comuni": [
+    "bertinoro",
+    "castrocaro-terme-e-terra-del-sole",
+    "civitella-di-romagna",
+    "dovadola",
+    "forli",
+    "forlimpopoli",
+    "galeata",
+    "meldola",
+    "modigliana",
+    "portico-e-san-benedetto",
+    "predappio",
+    "rocca-san-casciano",
+    "tredozio"
+   ],
+   "telefono": "800689898",
+   "orari": "Lun–ven 08:30–18:00, sab 08:30–13:00. Festivi esclusi.",
+   "prenota_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
+   "prenotazione": false,
+   "verificato": "2026-11-25",
+   "regole": [
+    "Gli ingombranti urbani ammessi sono conferibili negli ecocentri abilitati per le attività. La Tabella C indica 1 m³ al giorno e 3 m³ al mese per gli ingombranti.",
+    "Per container, servizi a pesatura o ritiri aggiuntivi, prenotare o concordare disponibilità e prezzo con Alea. Le attività con servizi misti o a pesatura possono scrivere a imprese@alea-ambiente.it.",
+    "Le regole RAEE riguardano apparecchiature equivalenti a quelle domestiche per natura e quantità. Verificare i criteri con la sede prima del conferimento."
+   ],
+   "regole_en": [
+    "Business bulky waste may be accepted at authorised centres subject to the limits. Ask Alea about quotations for additional collection and container services."
+   ],
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/ | https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/ | https://www.alea-ambiente.it/wp-content/uploads/2026/11/Tabella-C-24_11_2026.pdf"
   }
  ]
 }

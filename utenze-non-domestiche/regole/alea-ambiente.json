@@ -1,0 +1,142 @@
+{
+ "schema": 1,
+ "nome": "Alea Ambiente · UND",
+ "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/ | https://www.alea-ambiente.it/wp-content/uploads/2021/12/dizionario-rifiuti-Alea-2022-def.pdf | https://www.alea-ambiente.it/wp-content/uploads/2026/11/lista-materiale-conferibile-agg-19_11_2026-1.pdf",
+ "voci": {
+  "imballaggi in cartone": {
+   "dove": "carta",
+   "nota": "Conferisci con carta e cartone della zona. Riduci il volume e rimuovi residui e altre confezioni.",
+   "nota_en": "Flatten and place in the local paper and cardboard collection."
+  },
+  "scatoloni di cartone": {
+   "dove": "carta",
+   "nota": "Conferisci con carta e cartone della zona. Riduci il volume e rimuovi residui e altre confezioni.",
+   "nota_en": "Flatten and place in the local paper and cardboard collection."
+  },
+  "giornali": {
+   "dove": "carta",
+   "nota": "Conferisci con carta e cartone della zona. Riduci il volume e rimuovi residui e altre confezioni.",
+   "nota_en": "Flatten and place in the local paper and cardboard collection."
+  },
+  "cartoni di latte e succhi": {
+   "dove": "carta",
+   "nota": "Conferisci con carta e cartone della zona. Riduci il volume e rimuovi residui e altre confezioni.",
+   "nota_en": "Flatten and place in the local paper and cardboard collection."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Conferisci con carta e cartone della zona. Riduci il volume e rimuovi residui e altre confezioni.",
+   "nota_en": "Flatten and place in the local paper and cardboard collection."
+  },
+  "cartone della pizza pulito": {
+   "dove": "carta",
+   "nota": "Conferisci con carta e cartone della zona. Riduci il volume e rimuovi residui e altre confezioni.",
+   "nota_en": "Flatten and place in the local paper and cardboard collection."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Conferisci gli imballaggi nel contenitore per plastica e lattine. Svuotali prima di esporli.",
+   "nota_en": "Empty and put packaging in the plastic and cans collection."
+  },
+  "flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Conferisci gli imballaggi nel contenitore per plastica e lattine. Svuotali prima di esporli.",
+   "nota_en": "Empty and put packaging in the plastic and cans collection."
+  },
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "Conferisci gli imballaggi nel contenitore per plastica e lattine. Svuotali prima di esporli.",
+   "nota_en": "Empty and put packaging in the plastic and cans collection."
+  },
+  "vaschette di alluminio": {
+   "dove": "plastica",
+   "nota": "Conferisci gli imballaggi nel contenitore per plastica e lattine. Svuotali prima di esporli.",
+   "nota_en": "Empty and put packaging in the plastic and cans collection."
+  },
+  "film da imballaggio": {
+   "dove": "plastica",
+   "nota": "Conferisci gli imballaggi nel contenitore per plastica e lattine. Svuotali prima di esporli.",
+   "nota_en": "Empty and put packaging in the plastic and cans collection."
+  },
+  "carta stagnola": {
+   "dove": "plastica",
+   "nota": "Conferisci gli imballaggi nel contenitore per plastica e lattine. Svuotali prima di esporli.",
+   "nota_en": "Empty and put packaging in the plastic and cans collection."
+  },
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Conferisci gli avanzi nel contenitore dell’umido.",
+   "nota_en": "Use the food waste container."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Conferisci gli avanzi nel contenitore dell’umido.",
+   "nota_en": "Use the food waste container."
+  },
+  "cialde compostabili": {
+   "dove": "organico",
+   "nota": "Conferisci gli avanzi nel contenitore dell’umido.",
+   "nota_en": "Use the food waste container."
+  },
+  "giocattoli rotti senza pile": {
+   "dove": "indifferenziato",
+   "nota": "Conferisci nel secco. Per gli oggetti ingombranti verifica prima l’accettazione al centro.",
+   "nota_en": "Use general waste. Check centre acceptance for bulky items."
+  },
+  "frammenti di specchio": {
+   "dove": "indifferenziato",
+   "nota": "Conferisci nel secco. Per gli oggetti ingombranti verifica prima l’accettazione al centro.",
+   "nota_en": "Use general waste. Check centre acceptance for bulky items."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Usa la raccolta del vetro della tua zona. A Bertinoro, Civitella, Forlimpopoli, Galeata e Meldola verificare i turni porta a porta.",
+   "nota_en": "Use the glass collection available in your zone."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Usa la raccolta del vetro della tua zona. A Bertinoro, Civitella, Forlimpopoli, Galeata e Meldola verificare i turni porta a porta.",
+   "nota_en": "Use the glass collection available in your zone."
+  },
+  "imballaggi in vetro": {
+   "dove": "vetro",
+   "nota": "Usa la raccolta del vetro della tua zona. A Bertinoro, Civitella, Forlimpopoli, Galeata e Meldola verificare i turni porta a porta.",
+   "nota_en": "Use the glass collection available in your zone."
+  },
+  "cartucce toner esauste": {
+   "dove": "centro",
+   "nota": "Chiedi ad Alea quali sedi accettano il materiale per le attività e verifica i limiti. Per il toner è disponibile anche un servizio aggiuntivo.",
+   "nota_en": "Check centre acceptance and limits. Toner may also have a dedicated service."
+  },
+  "mobili ingombranti": {
+   "dove": "centro",
+   "nota": "Chiedi ad Alea quali sedi accettano il materiale per le attività e verifica i limiti. Per il toner è disponibile anche un servizio aggiuntivo.",
+   "nota_en": "Check centre acceptance and limits. Toner may also have a dedicated service."
+  },
+  "imballaggi in legno": {
+   "dove": "centro",
+   "nota": "Chiedi ad Alea quali sedi accettano il materiale per le attività e verifica i limiti. Per il toner è disponibile anche un servizio aggiuntivo.",
+   "nota_en": "Check centre acceptance and limits. Toner may also have a dedicated service."
+  },
+  "plastica rigida non da imballaggio": {
+   "dove": "centro",
+   "nota": "Chiedi ad Alea quali sedi accettano il materiale per le attività e verifica i limiti. Per il toner è disponibile anche un servizio aggiuntivo.",
+   "nota_en": "Check centre acceptance and limits. Toner may also have a dedicated service."
+  },
+  "raee dual use": {
+   "dove": "centro",
+   "nota": "Chiedi ad Alea quali sedi accettano il materiale per le attività e verifica i limiti. Per il toner è disponibile anche un servizio aggiuntivo.",
+   "nota_en": "Check centre acceptance and limits. Toner may also have a dedicated service."
+  }
+ },
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e lattine",
+   "nome_en": "Plastic and cans"
+  },
+  "indifferenziato": {
+   "nome": "Secco non riciclabile",
+   "nome_en": "General waste"
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "comune": "Forlì",
+ "provincia": "FC",
+ "gestore": "Alea Ambiente",
+ "zona": "Cintura urbana D",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i contenitori la sera precedente, secondo gli orari della zona.",
+ "eccezioni": [
+  {
+   "data": "2026-12-05",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-08"
+  },
+  {
+   "data": "2026-12-05",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-08"
+  }
+ ],
+ "valido_dal": "2026-11-25",
+ "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2025/12/FORLI-ZONA-D.pdf | https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
+ "note": [
+  "Calendario valido per attività con dotazione standard, da 25 a 120 litri. La zona di raccolta è riportata sulla fattura Alea.",
+  "Vetro da imballaggio in campana stradale.",
+  "I contenitori grandi, gli svuotamenti a pesatura e i servizi aggiuntivi seguono la prenotazione o il programma concordato con Alea."
+ ],
+ "raccolte": {
+  "2026-11-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ]
+ }
+}

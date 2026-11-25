@@ -1,0 +1,344 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Alea Ambiente",
+ "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/ | https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/ | https://www.alea-ambiente.it/wp-content/uploads/2026/11/Tabella-C-24_11_2026.pdf | https://www.alea-ambiente.it/il-circolo-dove-le-cose-rinascono-inaugurazione-nuova-area/",
+ "numero_verde": "800 689 898",
+ "orari_numero_verde": "Lun–ven 08:30–18:00, sab 08:30–13:00. Festivi esclusi.",
+ "accesso": "Le attività con posizione Alea attiva presentano l’ultima bolletta o la copia dell’apertura della posizione. Verificare per ogni materiale l’ammissione nella sede e i limiti. Gli scarti di lavorazione seguono i canali autorizzati per rifiuti speciali.",
+ "avviso": "Gli orari in mappa sono quelli invernali per le attività. Via Golfarelli 125, Forlì, apre dal 29/11/2026. Per le attività apre lun, mar, gio, ven e sab, 08:30–12:30 e 13:30–17:30 in inverno. Verificare date, materiali e le sedi senza coordinate nella pagina Alea.",
+ "centri": [
+  {
+   "id": "alea-bertinoro-via-cellaimo",
+   "comune": "Bertinoro",
+   "indirizzo": "Via Cellaimo",
+   "lat": 44.15254770794643,
+   "lon": 12.135011605813522,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-bertinoro-via-caduti-di-via-fani",
+   "comune": "Bertinoro",
+   "indirizzo": "Via Caduti di Via Fani",
+   "lat": 44.17415354387886,
+   "lon": 12.164796509450028,
+   "tipo": "raccolta",
+   "orari": {
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "1": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-castrocaro-terme-e-terra-del-sole-via-biondina-88",
+   "comune": "Castrocaro Terme e Terra del Sole",
+   "indirizzo": "Via Biondina 88",
+   "lat": 44.182375689033584,
+   "lon": 11.950662478831585,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-forli-via-isonzo-28",
+   "comune": "Forlì",
+   "indirizzo": "Via Isonzo 28",
+   "lat": 44.229976176215146,
+   "lon": 12.031689870899456,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "13:30"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-forli-via-giuseppe-mazzatinti-81",
+   "comune": "Forlì",
+   "indirizzo": "Via Giuseppe Mazzatinti 81",
+   "lat": 44.19511472634756,
+   "lon": 12.042575311082457,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-galeata-strada-pianetto-baroccia-42-b",
+   "comune": "Galeata",
+   "indirizzo": "Strada Pianetto / Baroccia 42/B",
+   "lat": 43.96785718658107,
+   "lon": 11.908477925377117,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-predappio-via-solidarnosch",
+   "comune": "Predappio",
+   "indirizzo": "Via Solidarnosch",
+   "lat": 44.1125484256746,
+   "lon": 11.98396559602396,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-rocca-san-casciano-localita-galera",
+   "comune": "Rocca San Casciano",
+   "indirizzo": "Località Galera",
+   "lat": 44.054916318628486,
+   "lon": 11.839386465332256,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  },
+  {
+   "id": "alea-tredozio-via-dei-martiri",
+   "comune": "Tredozio",
+   "indirizzo": "Via dei Martiri",
+   "lat": 44.08264656524361,
+   "lon": 11.745497484908274,
+   "tipo": "raccolta",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "fonte": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocentri/orari/",
+   "avviso": "Orario invernale. Dal 1° aprile consultare gli orari estivi Alea per le attività."
+  }
+ ]
+}

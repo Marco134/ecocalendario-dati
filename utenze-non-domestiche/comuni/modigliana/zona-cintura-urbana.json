@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "comune": "Modigliana",
+ "provincia": "FC",
+ "gestore": "Alea Ambiente",
+ "zona": "Cintura urbana",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i contenitori la sera precedente, secondo gli orari della zona.",
+ "eccezioni": [
+  {
+   "data": "2026-12-05",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-08"
+  }
+ ],
+ "valido_dal": "2026-11-25",
+ "fonte": "https://www.alea-ambiente.it/wp-content/uploads/2025/12/MODIGLIANA-CINTURA.pdf | https://www.alea-ambiente.it/raccolta-porta-a-porta/utenze-non-domestiche/",
+ "note": [
+  "Calendario valido per attività con dotazione standard, da 25 a 120 litri. La zona di raccolta è riportata sulla fattura Alea.",
+  "Vetro da imballaggio in campana stradale.",
+  "I contenitori grandi, gli svuotamenti a pesatura e i servizi aggiuntivi seguono la prenotazione o il programma concordato con Alea."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}
