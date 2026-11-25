@@ -1032,6 +1032,24 @@
    ]
   },
   {
+   "id": "martinengo",
+   "nome": "Martinengo",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "lat": 45.570368,
+   "lon": 9.767376,
+   "consorzio": "servizi-comunali-und-martinengo",
+   "zone_url": "https://www.servizicomunali.it/area-cittadini/comune-di-martinengo/",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · servizio pubblico",
+     "file": "comuni/martinengo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "meldola",
    "nome": "Meldola",
    "provincia": "FC",
@@ -1320,6 +1338,24 @@
     }
    ],
    "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+  },
+  {
+   "id": "paratico",
+   "nome": "Paratico",
+   "provincia": "BS",
+   "gestore": "Servizi Comunali S.p.A.",
+   "lat": 45.659876,
+   "lon": 9.95507,
+   "consorzio": "servizi-comunali-und-paratico",
+   "zone_url": "https://www.servizicomunali.it/area-cittadini/comune-di-paratico/",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · servizio pubblico",
+     "file": "comuni/paratico/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "parrano",
@@ -1701,6 +1737,24 @@
    ]
   },
   {
+   "id": "sedrina",
+   "nome": "Sedrina",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "lat": 45.781783,
+   "lon": 9.624051,
+   "consorzio": "servizi-comunali-und-sedrina",
+   "zone_url": "https://www.servizicomunali.it/area-cittadini/comune-di-sedrina/",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · servizio pubblico",
+     "file": "comuni/sedrina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "setzu",
    "nome": "Setzu",
    "provincia": "VS",
@@ -2069,6 +2123,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "zogno",
+   "nome": "Zogno",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "lat": 45.793706,
+   "lon": 9.666203,
+   "consorzio": "servizi-comunali-und-zogno",
+   "zone_url": "https://www.servizicomunali.it/area-cittadini/comune-zogno/",
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Servizi per le attività · zona da confermare",
+     "file": "comuni/zogno/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -2275,6 +2347,30 @@
    "gestore": "ASET",
    "ecocentri": "ecocentri/aset-und-pergola.json",
    "regole": "regole/aset.json"
+  },
+  "servizi-comunali-und-martinengo": {
+   "nome": "Servizi Comunali · Martinengo UND",
+   "gestore": "Servizi Comunali S.p.A.",
+   "ecocentri": "ecocentri/servizi-comunali-und-martinengo.json",
+   "regole": "regole/servizi-comunali-und-martinengo.json"
+  },
+  "servizi-comunali-und-paratico": {
+   "nome": "Servizi Comunali · Paratico UND",
+   "gestore": "Servizi Comunali S.p.A.",
+   "ecocentri": "ecocentri/servizi-comunali-und-paratico.json",
+   "regole": "regole/servizi-comunali-und-paratico.json"
+  },
+  "servizi-comunali-und-sedrina": {
+   "nome": "Servizi Comunali · Sedrina UND",
+   "gestore": "Servizi Comunali S.p.A.",
+   "ecocentri": "ecocentri/servizi-comunali-und-sedrina.json",
+   "regole": "regole/servizi-comunali-und-sedrina.json"
+  },
+  "servizi-comunali-und-zogno": {
+   "nome": "Servizi Comunali · Zogno UND",
+   "gestore": "Servizi Comunali S.p.A.",
+   "ecocentri": "ecocentri/servizi-comunali-und-zogno.json",
+   "regole": "regole/servizi-comunali-und-zogno.json"
   }
  }
 }

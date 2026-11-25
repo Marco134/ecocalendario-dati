@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "nome": "Martinengo · regole UND",
+ "fonte": "https://www.comune.martinengo.bg.it/s3/3897/allegati/documenti-pubblici/carta_qualita_aggiornata.pdf | https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/3897/allegati/documenti-pubblici/accesso-al-centro-di-raccolta.pdf",
+ "tipi": {},
+ "voci": {
+  "cartone pulito": {
+   "dove": "carta",
+   "nota": "Appiattire e legare oppure mettere in contenitori di carta. Evitare i sacchi in plastica."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Conferire con la carta. Rimuovere gli involucri in plastica."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire nel recipiente previsto per vetro e metalli, senza sacchi, cassette o cartoni."
+  },
+  "lattine": {
+   "dove": "vetro",
+   "nota": "Conferire con il vetro nel recipiente assegnato."
+  },
+  "barattoli metallici per alimenti": {
+   "dove": "vetro",
+   "nota": "Conferire insieme al vetro e agli altri imballaggi metallici ammessi."
+  },
+  "bottiglie in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi in sacchi trasparenti o nella dotazione indicata per l’utenza."
+  },
+  "vaschette in plastica per alimenti": {
+   "dove": "plastica",
+   "nota": "Conferire nel turno imballaggi. I contenitori di prodotti pericolosi seguono modalità distinte."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Usare sacchetti compostabili nella dotazione assegnata all’attività."
+  },
+  "scarti alimentari della ristorazione": {
+   "dove": "organico",
+   "nota": "Per i grandi produttori è previsto un contenitore da 120 l a svuotamento meccanico."
+  },
+  "secco residuo": {
+   "dove": "indifferenziato",
+   "nota": "Usare il contenitore identificato con RFID. Il volume UND dipende dalla tipologia di attività."
+  },
+  "pannolini e assorbenti": {
+   "dove": "varia",
+   "nota": "La Carta indica il sacchetto trasparente. Verificare con il gestore il canale dedicato per l’attività."
+  }
+ }
+}

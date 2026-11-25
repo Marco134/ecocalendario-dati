@@ -244,6 +244,34 @@
    "orari": "Lun–ven 08:00–20:00, sab 08:00–13:00",
    "fonte": "https://www.asetservizi.it/numeri-utili/",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-und-martinengo",
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-martinengo/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-und-paratico",
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-paratico/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-und-sedrina",
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-di-sedrina/",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "servizi-comunali-und-zogno",
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "fonte": "https://www.servizicomunali.it/area-cittadini/comune-zogno/",
+   "verificato": "2026-11-25"
   }
  ]
 }

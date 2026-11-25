@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-25",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1159,
+ "totale": 1163,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -3754,6 +3754,16 @@
    "stato": "da_verificare"
   },
   {
+   "id": "martinengo",
+   "nome": "Martinengo",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.comune.martinengo.bg.it/s3/3897/allegati/documenti-pubblici/carta_qualita_aggiornata.pdf | https://www.comune.martinengo.bg.it/s3/3897/allegati/documenti-pubblici/2026_raccolte_2semestre.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Calendario base delle attività pubblicato fino al 31 dicembre 2026. Da verificare il rinnovo 2027 e gli eventuali servizi dedicati per categoria."
+  },
+  {
    "id": "masate",
    "nome": "Masate",
    "provincia": "MI",
@@ -4686,6 +4696,16 @@
    "provincia": "MI",
    "gestore": "CEM Ambiente",
    "stato": "da_verificare"
+  },
+  {
+   "id": "paratico",
+   "nome": "Paratico",
+   "provincia": "BS",
+   "gestore": "Servizi Comunali S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-vqz2HiWon8YGCm0xhi7P.pdf | https://mycity.s3.sbg.io.cloud.ovh.net/4881792/Calendario-raccolta-2026.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Calendario base delle attività pubblicato fino al 31 dicembre 2026. Da verificare il rinnovo 2027 e gli eventuali servizi dedicati per categoria."
   },
   {
    "id": "parella",
@@ -6000,6 +6020,16 @@
    "stato": "da_verificare"
   },
   {
+   "id": "sedrina",
+   "nome": "Sedrina",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-lD53xsWc4tpZQHTA6-XI.pdf | https://www.comune.sedrina.bg.it/export/sites/default/.galleries/documenti/ufficio-tributi/tari/Calendario-2026-Raccolta-Differenziata.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Calendario base delle attività pubblicato fino al 31 dicembre 2026. Da verificare il rinnovo 2027 e gli eventuali servizi dedicati per categoria."
+  },
+  {
    "id": "sellero",
    "nome": "Sellero",
    "provincia": "BS",
@@ -7300,6 +7330,16 @@
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
    "stato": "da_verificare"
+  },
+  {
+   "id": "zogno",
+   "nome": "Zogno",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-R64SSr8AS9buPWTg0Qzd.pdf | https://www.comune.zogno.bg.it/export/sites/default/.galleries/documenti/Settore-Affari-Generali/calendario_ZOGNO_2026.pdf | https://www.comune.zogno.bg.it/export/sites/default/.galleries/documenti/Settore-Affari-Generali/2027-ZOGNO-ANNUALE.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Pubblicata la scheda servizi. Da confermare l’applicabilità del calendario 2026/2027 alle tre zone e ai singoli indirizzi UND."
   },
   {
    "id": "zoppola",

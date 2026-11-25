@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "nome": "Zogno · regole UND",
+ "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-R64SSr8AS9buPWTg0Qzd.pdf | https://www.comune.zogno.bg.it/citta/luoghi-di-interesse/Piattaforma-ecologica/",
+ "tipi": {},
+ "voci": {
+  "cartone pulito": {
+   "dove": "carta",
+   "nota": "Appiattire e legare oppure mettere in contenitori di carta. Evitare i sacchi in plastica."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Conferire con la carta. Rimuovere gli involucri in plastica."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire nel recipiente previsto per vetro e metalli, senza sacchi, cassette o cartoni."
+  },
+  "lattine": {
+   "dove": "vetro",
+   "nota": "Conferire con il vetro nel recipiente assegnato."
+  },
+  "barattoli metallici per alimenti": {
+   "dove": "vetro",
+   "nota": "Conferire insieme al vetro e agli altri imballaggi metallici ammessi."
+  },
+  "bottiglie in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi in sacchi trasparenti o nella dotazione indicata per l’utenza."
+  },
+  "vaschette in plastica per alimenti": {
+   "dove": "plastica",
+   "nota": "Conferire nel turno imballaggi. I contenitori di prodotti pericolosi seguono modalità distinte."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Usare sacchetti compostabili nella dotazione assegnata all’attività."
+  },
+  "olio vegetale esausto": {
+   "dove": "centro",
+   "nota": "La scheda della piattaforma lo ammette scolato e senza residui di cibo."
+  },
+  "lastre di vetro": {
+   "dove": "centro",
+   "nota": "La scheda della piattaforma ammette anche il vetro in lastre."
+  },
+  "lampade al neon": {
+   "dove": "centro",
+   "nota": "Portare i tubi integri alla piattaforma secondo le condizioni del centro."
+  },
+  "ingombranti": {
+   "dove": "centro",
+   "nota": "La piattaforma li elenca tra i materiali conferibili. Separare i materiali dove possibile."
+  }
+ }
+}

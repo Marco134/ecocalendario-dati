@@ -665,6 +665,86 @@
    "regole_en": [
     "Ask ASET what business bulky waste is eligible, whether a fee is due and what limits apply. Businesses must arrange authorised treatment for their special waste."
    ]
+  },
+  {
+   "id": "servizi-comunali-und-martinengo",
+   "nome": "Servizi Comunali · Martinengo UND",
+   "gestori": [],
+   "comuni": [
+    "martinengo"
+   ],
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.comune.martinengo.bg.it/s3/3897/allegati/documenti-pubblici/carta_qualita_aggiornata.pdf",
+   "verificato": "2026-11-25",
+   "regole": [
+    "La Carta descrive il ritiro per i cittadini. Per una utenza non domestica chiedere al gestore se il servizio è utilizzabile, quali limiti e tariffe si applicano e se il centro accetta il materiale."
+   ],
+   "regole_en": [
+    "Check business bulky waste eligibility, allowed quantities and any fees with the operator."
+   ]
+  },
+  {
+   "id": "servizi-comunali-und-paratico",
+   "nome": "Servizi Comunali · Paratico UND",
+   "gestori": [],
+   "comuni": [
+    "paratico"
+   ],
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-vqz2HiWon8YGCm0xhi7P.pdf",
+   "verificato": "2026-11-25",
+   "regole": [
+    "La Carta descrive il ritiro per i cittadini. Per una utenza non domestica chiedere al gestore se il servizio è utilizzabile, quali limiti e tariffe si applicano e se il centro accetta il materiale."
+   ],
+   "regole_en": [
+    "Check business bulky waste eligibility, allowed quantities and any fees with the operator."
+   ]
+  },
+  {
+   "id": "servizi-comunali-und-sedrina",
+   "nome": "Servizi Comunali · Sedrina UND",
+   "gestori": [],
+   "comuni": [
+    "sedrina"
+   ],
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.comune.sedrina.bg.it/export/sites/default/.galleries/documenti/ufficio-tributi/tari/Calendario-2026-Raccolta-Differenziata.pdf | https://www.comune.sedrina.bg.it/export/sites/default/.galleries/documenti/atti/FUNZIONAMENTO_CENTRO_RACCOLTA_DIFFERENZIATA_163_240.pdf",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Il calendario comunale prevede un ritiro a domicilio per i cittadini. Per i rifiuti dell’attività confermare con il Comune se si può accedere al centro con la scheda UND o richiedere un ritiro."
+   ],
+   "regole_en": [
+    "Check business bulky waste eligibility, allowed quantities and any fees with the operator."
+   ]
+  },
+  {
+   "id": "servizi-comunali-und-zogno",
+   "nome": "Servizi Comunali · Zogno UND",
+   "gestori": [],
+   "comuni": [
+    "zogno"
+   ],
+   "telefono": "800 452 616",
+   "orari": "Lun–ven 09:00–17:00, sab 09:00–12:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.comune.zogno.bg.it/citta/luoghi-di-interesse/Piattaforma-ecologica/",
+   "verificato": "2026-11-25",
+   "regole": [
+    "La scheda comunale elenca gli ingombranti ammessi alla piattaforma sulla strada per Poscante. Per l’attività usare la tessera e verificare i limiti. Separare i componenti se possibile."
+   ],
+   "regole_en": [
+    "Check business bulky waste eligibility, allowed quantities and any fees with the operator."
+   ]
   }
  ]
 }

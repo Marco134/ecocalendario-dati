@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "comune": "Paratico",
+ "provincia": "BS",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Zona unica · servizio pubblico",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.servizicomunali.it/images/news_pdf/servizi_comunali-vqz2HiWon8YGCm0xhi7P.pdf | https://mycity.s3.sbg.io.cloud.ovh.net/4881792/Calendario-raccolta-2026.pdf",
+ "esposizione": "Esporre entro le 06:00 del giorno di raccolta.",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "note": [
+  "Il PDF indica anche il turno vegetale. Verificare con il gestore dotazione, adesione e condizioni di accesso.",
+  "Il calendario base vale per le attività servite dal gestore pubblico. Per quantità rilevanti, attrezzature e servizi dedicati contattare il gestore."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  }
+ ]
+}

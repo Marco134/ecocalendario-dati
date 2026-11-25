@@ -37,3 +37,7 @@ Per dieci comuni sono pubblicate le schede dei servizi per le attività, con rif
 ## ASET · Marche
 
 Calendari fino al 31 dicembre 2026. La carta a Fano, Mondavio, Montefelcino e Sant’Ippolito riguarda le attività con servizio attivato. I calendari carta di Cartoceto e Isola del Piano e il calendario base di Colli al Metauro valgono anche per le attività. A Pergola è disponibile il programma del centro storico e Bronzi con il turno UND dell’organico. Per accedere ai centri verificare convenzione, documentazione e rifiuti ammessi. [Calendari ASET](https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/) · [Centri](https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/centro-raccolta-differenziata/)
+
+## Servizi Comunali · Lombardia
+
+Le Carte del servizio confermano il porta a porta ordinario per le attività. Calendari 2026 per Martinengo, Paratico e Sedrina. A Zogno la scheda rimanda al gestore per l’applicabilità del calendario al singolo indirizzo. Gli ingombranti e le dotazioni extra seguono le condizioni comunali. [Schede del gestore](https://www.servizicomunali.it/comuni-serviti/)
