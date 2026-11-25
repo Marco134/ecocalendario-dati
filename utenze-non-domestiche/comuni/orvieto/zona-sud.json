@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "comune": "Orvieto",
+ "provincia": "TR",
+ "gestore": "COSP Tecno Service",
+ "zona": "Sud – area intensa e area vasta",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dalle 21:00 della sera precedente alle 06:00 del giorno di raccolta, presso il proprio numero civico.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/OrvietoSudUND2026_ST.pdf",
+ "note": [
+  "Utenze non domestiche: stesso calendario per area intensa e area vasta di Orvieto Sud.",
+  "Calendario ufficiale annuale 2026; archiviate le date dal 25/11/2026.",
+  "Plastica comprende gli imballaggi in metallo. Usare esclusivamente i contenitori assegnati e ritirarli dopo lo svuotamento.",
+  "Contatti COSP: 800 055 505 da fisso; 0744 409244 da cellulare, lun–ven 09:00–13:00 e 14:00–17:00."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "plastica"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-25": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "carta",
+   "organico"
+  ]
+ }
+}

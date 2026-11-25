@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "tipi": {
+  "organico": "Organico",
+  "carta": "Carta",
+  "vetro": "Vetro",
+  "plastica": "Plastica",
+  "indifferenziato": "Indifferenziato",
+  "sfalci": "Sfalci"
+ },
+ "tipi_en": {
+  "organico": "Organic",
+  "carta": "Paper",
+  "vetro": "Glass",
+  "plastica": "Plastic",
+  "indifferenziato": "General waste",
+  "sfalci": "Garden waste"
+ },
+ "comuni": [
+  {
+   "id": "orvieto",
+   "nome": "Orvieto",
+   "provincia": "TR",
+   "gestore": "COSP Tecno Service",
+   "consorzio": "orvieto",
+   "lat": 42.7182,
+   "lon": 12.1083,
+   "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/",
+   "zone": [
+    {
+     "id": "sud",
+     "nome": "Sud – area intensa e area vasta",
+     "file": "comuni/orvieto/zona-sud.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  }
+ ],
+ "consorzi": {
+  "orvieto": {
+   "nome": "Comune di Orvieto",
+   "gestore": "COSP Tecno Service",
+   "ecocentri": "ecocentri/orvieto.json",
+   "regole": "regole/orvieto.json"
+  }
+ }
+}

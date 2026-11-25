@@ -1,0 +1,12 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestori": [
+  {
+   "id": "cosp-orvietano",
+   "orari": "lun–ven 09:00–13:00 e 14:00–17:00",
+   "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/12/OrvietoSudUND2026_ST.pdf",
+   "verificato": "2026-11-25"
+  }
+ ]
+}

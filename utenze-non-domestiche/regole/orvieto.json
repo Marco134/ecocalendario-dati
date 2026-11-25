@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "nome": "COSP Tecno Service · Orvieto UND",
+ "fonte": "https://www.cosptecnoservice.it/wp-content/uploads/2025/03/VADEMECUM-RACCOLTA-DIFFERENZIATA-ATTIVITA-COMMERCIALI-ARTIGIANALI-INDUSTRIALI-COSP.pdf",
+ "voci": {
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica e metallo.",
+   "nota_en": "Collect with plastic and metal packaging."
+  },
+  "imballaggi di cartone": {
+   "dove": "carta",
+   "nota": "Piegare e schiacciare.",
+   "nota_en": "Fold and flatten."
+  },
+  "avanzi di cibo": {
+   "dove": "organico",
+   "nota": "Separare dagli imballaggi.",
+   "nota_en": "Separate from packaging."
+  },
+  "barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Vuoti, senza tappi.",
+   "nota_en": "Empty, without lids."
+  }
+ },
+ "tipi": {
+  "organico": {
+   "nome": "Organico",
+   "nome_en": "Organic",
+   "colore": "#793719"
+  },
+  "carta": {
+   "nome": "Carta e cartone",
+   "nome_en": "Paper and cardboard",
+   "colore": "#254899"
+  },
+  "plastica": {
+   "nome": "Plastica e metalli",
+   "nome_en": "Plastic and metals",
+   "colore": "#F1DD28"
+  },
+  "vetro": {
+   "nome": "Vetro",
+   "nome_en": "Glass",
+   "colore": "#277E39"
+  },
+  "indifferenziato": {
+   "nome": "Indifferenziato",
+   "nome_en": "General waste",
+   "colore": "#4F4C4D"
+  }
+ },
+ "verificato": {
+  "voci": "2026-11-25",
+  "colori": "2026-11-25"
+ }
+}

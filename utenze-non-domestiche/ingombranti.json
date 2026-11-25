@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestori": [
+  {
+   "id": "cosp-orvietano",
+   "nome": "COSP Tecno Service",
+   "gestori": [
+    "COSP Tecno Service"
+   ],
+   "comuni": [
+    "orvieto"
+   ],
+   "telefono": "800055505",
+   "orari": "Da fisso 800 055 505, da cellulare 0744 409244 · lun–ven 09:00–13:00 e 14:00–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Il ritiro gratuito a domicilio è riservato alle utenze domestiche. Per le attività chiedere al gestore le modalità e l'ammissibilità del conferimento."
+   ],
+   "regole_en": [
+    "Free home collection is reserved for households. Businesses should check eligible materials and collection options with the operator."
+   ],
+   "fonte": "https://www.cosptecnoservice.it/rifiuti-ingombranti-e-raee/",
+   "verificato": "2026-11-25"
+  }
+ ]
+}
