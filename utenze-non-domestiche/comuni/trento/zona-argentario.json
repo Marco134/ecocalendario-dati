@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "comune": "Trento",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre organico entro le 13:00, carta entro le 13:00, imballaggi leggeri entro le 06:00, residuo entro le 06:00, vetro entro le 13:00.",
+ "zona": "Argentario",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf | https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Per il sacco azzurro degli imballaggi, esporre dalle 18:00 della sera precedente alle 06:00 del giorno di raccolta."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  }
+ ]
+}

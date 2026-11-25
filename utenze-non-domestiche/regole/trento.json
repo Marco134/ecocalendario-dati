@@ -1,0 +1,168 @@
+{
+ "schema": 1,
+ "nome": "Trento · Dolomiti Ambiente UND",
+ "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/guida-alla-raccolta | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/ELENCO-RIFIUTI-AMMESSI-UTENZE-NON-DOMESTICHE-CENTRO-RACCOLTA-ARGENTARIO-BONDONE-GARDOLO-MATTARELLO.pdf",
+ "voci": {
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Conferire in un sacchetto di carta nel contenitore assegnato.",
+   "nota_en": "Use a paper bag in your food waste bin."
+  },
+  "alimenti avariati": {
+   "dove": "organico",
+   "nota": "Conferire in un sacchetto di carta nel contenitore assegnato.",
+   "nota_en": "Use a paper bag in your food waste bin."
+  },
+  "tovaglioli di carta da cucina": {
+   "dove": "organico",
+   "nota": "Conferire in un sacchetto di carta nel contenitore assegnato.",
+   "nota_en": "Use a paper bag in your food waste bin."
+  },
+  "salviette di carta da cucina": {
+   "dove": "organico",
+   "nota": "Conferire in un sacchetto di carta nel contenitore assegnato.",
+   "nota_en": "Use a paper bag in your food waste bin."
+  },
+  "giornali": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Seguire il calendario locale della carta e gli eventuali turni separati del cartone.",
+   "nota_en": "Flatten and follow the local paper schedule and any separate cardboard collection."
+  },
+  "fogli di carta": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Seguire il calendario locale della carta e gli eventuali turni separati del cartone.",
+   "nota_en": "Flatten and follow the local paper schedule and any separate cardboard collection."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Seguire il calendario locale della carta e gli eventuali turni separati del cartone.",
+   "nota_en": "Flatten and follow the local paper schedule and any separate cardboard collection."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Seguire il calendario locale della carta e gli eventuali turni separati del cartone.",
+   "nota_en": "Flatten and follow the local paper schedule and any separate cardboard collection."
+  },
+  "sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Seguire il calendario locale della carta e gli eventuali turni separati del cartone.",
+   "nota_en": "Flatten and follow the local paper schedule and any separate cardboard collection."
+  },
+  "cartoni da imballaggio": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Seguire il calendario locale della carta e gli eventuali turni separati del cartone.",
+   "nota_en": "Flatten and follow the local paper schedule and any separate cardboard collection."
+  },
+  "lattine": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "cartoni per bevande in poliaccoppiato": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "tetrapak": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "tappi di metallo": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "coperchi di metallo": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "scatolette in banda stagnata": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti e schiacciati nel sacco azzurro semitrasparente.",
+   "nota_en": "Empty and flatten the packaging in the translucent blue bag."
+  },
+  "giocattoli non elettrici in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "pennarelli": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "posate monouso in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "sacchetti per aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "spazzolini": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "cd e dvd": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel residuo.",
+   "nota_en": "Put in residual waste."
+  },
+  "toner di stampa non pericoloso": {
+   "dove": "centro",
+   "nota": "Per il conferimento verificare la sede, il codice EER e l’ammissione dell’attività.",
+   "nota_en": "Check the waste code, suitable site and business access terms."
+  },
+  "mobili ingombranti": {
+   "dove": "centro",
+   "nota": "Per il conferimento verificare la sede, il codice EER e l’ammissione dell’attività.",
+   "nota_en": "Check the waste code, suitable site and business access terms."
+  },
+  "imballaggi in legno": {
+   "dove": "centro",
+   "nota": "Per il conferimento verificare la sede, il codice EER e l’ammissione dell’attività.",
+   "nota_en": "Check the waste code, suitable site and business access terms."
+  },
+  "tessili usati": {
+   "dove": "centro",
+   "nota": "Per il conferimento verificare la sede, il codice EER e l’ammissione dell’attività.",
+   "nota_en": "Check the waste code, suitable site and business access terms."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro da imballaggio vuoto, senza tappi, secondo il calendario o il contenitore della zona.",
+   "nota_en": "Use the local glass collection and remove lids."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro da imballaggio vuoto, senza tappi, secondo il calendario o il contenitore della zona.",
+   "nota_en": "Use the local glass collection and remove lids."
+  },
+  "barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro da imballaggio vuoto, senza tappi, secondo il calendario o il contenitore della zona.",
+   "nota_en": "Use the local glass collection and remove lids."
+  }
+ },
+ "tipi": {
+  "plastica": {
+   "nome": "Imballaggi leggeri",
+   "nome_en": "Lightweight packaging"
+  }
+ }
+}

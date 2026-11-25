@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "comune": "Trento",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre organico entro le 13:00, carta entro le 13:00, imballaggi leggeri entro le 06:00, residuo entro le 13:00, vetro entro le 13:00.",
+ "zona": "San Giuseppe e San Chiara",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_san_gius_chiar.pdf | https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Per il sacco azzurro degli imballaggi, esporre dalle 18:00 della sera precedente alle 06:00 del giorno di raccolta."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-08",
+   "tipo": "annullato",
+   "raccolta": "indifferenziato"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "carta"
+  }
+ ]
+}

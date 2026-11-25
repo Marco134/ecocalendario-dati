@@ -1,0 +1,285 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/REGOLAMENTO-CENTRO-RACCOLTA-ARGENTARIO-BONDONE-GARDOLO-MATTARELLO.pdf | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/ELENCO-RIFIUTI-AMMESSI-UTENZE-NON-DOMESTICHE-CENTRO-RACCOLTA-ARGENTARIO-BONDONE-GARDOLO-MATTARELLO.pdf | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/REGOLAMENTO-CENTRO-INTEGRATO.pdf | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/ELENCO-RIFIUTI-SPECIALI-E-TARIFFE-AMMESSI-CENTRO-INTEGRATO.pdf",
+ "numero_verde": "800 847 028",
+ "accesso": "Per i rifiuti urbani ammessi delle attività convenzionate, usare Argentario, Bondone, Gardolo o Mattarello secondo le condizioni del gestore. Il Centro Integrato accetta anche rifiuti speciali ammessi alle condizioni del relativo regolamento.",
+ "avviso": "Il residuo ai CR o al CI è riservato alle utenze domestiche. Per i rifiuti speciali consulta codice EER, formulario richiesto e tariffa. Povo e Meano seguono le condizioni delle utenze domestiche.",
+ "centri": [
+  {
+   "id": "dolomiti-trento-integrato",
+   "comune": "Trento",
+   "indirizzo": "Centro Integrato, Tangenziale Ovest 11",
+   "lat": 46.057466,
+   "lon": 11.110161,
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "16:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "tipo": "raccolta",
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data",
+   "avviso": "Centro Integrato: verificare convenzione, formulario, codice EER e tariffa applicabile."
+  },
+  {
+   "id": "dolomiti-trento-argentario",
+   "comune": "Trento",
+   "indirizzo": "Argentario, Via Pradiscola 22, Martignano",
+   "lat": 46.085838,
+   "lon": 11.133917,
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ]
+   },
+   "tipo": "raccolta",
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data",
+   "avviso": "Centro Raccolta: per le attività ammesse servono convenzione e requisiti del gestore."
+  },
+  {
+   "id": "dolomiti-trento-bondone",
+   "comune": "Trento",
+   "indirizzo": "Bondone–Sopramonte, Strada di Campedél 10",
+   "lat": 46.080859,
+   "lon": 11.054861,
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ]
+   },
+   "tipo": "raccolta",
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data",
+   "avviso": "Centro Raccolta: per le attività ammesse servono convenzione e requisiti del gestore."
+  },
+  {
+   "id": "dolomiti-trento-gardolo",
+   "comune": "Trento",
+   "indirizzo": "Gardolo, Via Martino Aichner 15",
+   "lat": 46.104047,
+   "lon": 11.101834,
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ]
+   },
+   "tipo": "raccolta",
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data",
+   "avviso": "Centro Raccolta: per le attività ammesse servono convenzione e requisiti del gestore."
+  },
+  {
+   "id": "dolomiti-trento-mattarello",
+   "comune": "Trento",
+   "indirizzo": "Mattarello, Via della Gotarda",
+   "lat": 46.009126,
+   "lon": 11.123942,
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "18:15"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "18:15"
+     ]
+    ]
+   },
+   "tipo": "raccolta",
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/centri-raccolta-e-centro-integrato | https://dati.trentino.it/dataset/gestione-rifiuti-crm-ci-open-data",
+   "avviso": "Centro Raccolta: per le attività ammesse servono convenzione e requisiti del gestore."
+  }
+ ]
+}

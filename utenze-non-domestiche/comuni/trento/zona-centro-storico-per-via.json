@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "comune": "Trento",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "zona": "Centro storico · orari per via",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "info": "Gli orari cambiano per via, tratto e frazione. Cerca il tuo indirizzo nella tabella del gestore. I festivi nel centro storico richiedono un avviso specifico.",
+ "info_en": "Times depend on the street, section and material. Check the operator’s table and public holiday notices.",
+ "raccolte": {}
+}

@@ -832,6 +832,30 @@
    ]
   },
   {
+   "id": "rovereto",
+   "nome": "Rovereto",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 45.886548,
+   "lon": 11.045237,
+   "consorzio": "dolomiti-und-rovereto",
+   "zone_url": "https://dolomitiambiente.it/it/rovereto/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A · Lizzana, Mori Ferrovia, Rovereto Sud, Marco, Borgo Sacco e San Giorgio",
+     "file": "comuni/rovereto/zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B · Rovereto Centro, Rovereto Nord e Noriglio",
+     "file": "comuni/rovereto/zona-b.json",
+     "valido_al": "2027-01-02"
+    }
+   ]
+  },
+  {
    "id": "san-gemini",
    "nome": "San Gemini",
    "provincia": "TR",
@@ -931,6 +955,102 @@
      "id": "unica",
      "nome": "Tutto il comune",
      "file": "comuni/trambileno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "trento",
+   "nome": "Trento",
+   "provincia": "TN",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "lat": 46.066423,
+   "lon": 11.12576,
+   "consorzio": "dolomiti-und-trento",
+   "zone_url": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+   "zone": [
+    {
+     "id": "argentario",
+     "nome": "Argentario",
+     "file": "comuni/trento/zona-argentario.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "bondone-sardagna",
+     "nome": "Bondone e Sardagna",
+     "file": "comuni/trento/zona-bondone-sardagna.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cristo-re-san-martino",
+     "nome": "Cristo Re e San Martino",
+     "file": "comuni/trento/zona-cristo-re-san-martino.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piedicastello-solteri-vela-campotrentino",
+     "nome": "Piedicastello, Solteri, Vela, Campotrentino e Centochiavi",
+     "file": "comuni/trento/zona-piedicastello-solteri-vela-campotrentino.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "meano",
+     "nome": "Meano",
+     "file": "comuni/trento/zona-meano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "gardolo-industriale-ditte",
+     "nome": "Gardolo zona industriale · ditte",
+     "file": "comuni/trento/zona-gardolo-industriale-ditte.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "gardolo",
+     "nome": "Gardolo",
+     "file": "comuni/trento/zona-gardolo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "mattarello",
+     "nome": "Mattarello",
+     "file": "comuni/trento/zona-mattarello.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "oltrefersina",
+     "nome": "Oltrefersina",
+     "file": "comuni/trento/zona-oltrefersina.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "povo-villazzano",
+     "nome": "Povo e Villazzano",
+     "file": "comuni/trento/zona-povo-villazzano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "ravina-romagnano",
+     "nome": "Ravina e Romagnano",
+     "file": "comuni/trento/zona-ravina-romagnano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "san-giuseppe-san-chiara",
+     "nome": "San Giuseppe e San Chiara",
+     "file": "comuni/trento/zona-san-giuseppe-san-chiara.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "kofler-casteller",
+     "nome": "Via Kofler e Casteller",
+     "file": "comuni/trento/zona-kofler-casteller.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-storico-per-via",
+     "nome": "Centro storico · orari per via",
+     "file": "comuni/trento/zona-centro-storico-per-via.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1231,6 +1351,18 @@
    "gestore": "Dolomiti Ambiente S.r.l.",
    "ecocentri": "ecocentri/dolomiti-vallagarina.json",
    "regole": "regole/dolomiti-vallagarina.json"
+  },
+  "dolomiti-und-rovereto": {
+   "nome": "Rovereto · Dolomiti Ambiente UND",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "ecocentri": "ecocentri/rovereto.json",
+   "regole": "regole/rovereto.json"
+  },
+  "dolomiti-und-trento": {
+   "nome": "Trento · Dolomiti Ambiente UND",
+   "gestore": "Dolomiti Ambiente S.r.l.",
+   "ecocentri": "ecocentri/trento.json",
+   "regole": "regole/trento.json"
   }
  }
 }

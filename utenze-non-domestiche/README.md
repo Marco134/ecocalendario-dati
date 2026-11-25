@@ -21,3 +21,7 @@ Il calendario 2026 copre le attività del centro storico. Per la carta, il multi
 ## Dolomiti Ambiente · Vallagarina e Altipiani Cimbri
 
 Il catalogo copre 19 comuni. Per il cartone delle attività di Besenello e Calliano è indicato il turno aggiuntivo. I turni di Isera e Villa Lagarina includono il recupero del 2 gennaio 2027. Per ecocentri e ingombranti si applicano le condizioni per le attività convenzionate. [Centri di raccolta e condizioni](https://dolomitiambiente.it/it/ala/non-domestica/raccolta-differenziata/centri-raccolta)
+
+### Trento e Rovereto
+
+La carta delle ditte di Gardolo zona industriale e quella di Meano hanno calendari distinti. A Trento centro storico gli orari dipendono dalla via, con i festivi da controllare negli avvisi del gestore. Rovereto zona B comprende il recupero del residuo del 2 gennaio 2027. [Trento](https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/calendario-di-raccolta) · [Rovereto](https://dolomitiambiente.it/it/rovereto/non-domestica/raccolta-differenziata/calendario-di-raccolta)

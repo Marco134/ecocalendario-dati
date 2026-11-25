@@ -184,6 +184,20 @@
    "orari": "lun–gio 08:00–16:45, ven 08:00–12:25",
    "fonte": "https://dolomitiambiente.it/it/mori/non-domestica/faq | https://www.dolomitiambiente.it/vfm/Documenti/Vallagarina/CARTA_DEI_SERVIZI_DA-VALLAGARINA.pdf",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "dolomiti-und-trento",
+   "telefono": "800847028",
+   "modulo_url": "https://dolomitiambiente.it/it/contatti",
+   "fonte": "https://dolomitiambiente.it/it/contatti",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "dolomiti-und-rovereto",
+   "telefono": "800847028",
+   "modulo_url": "https://dolomitiambiente.it/it/contatti",
+   "fonte": "https://dolomitiambiente.it/it/contatti",
+   "verificato": "2026-11-25"
   }
  ]
 }

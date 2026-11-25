@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "comune": "Rovereto",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre organico entro le 06:00, carta entro le 06:00, imballaggi leggeri entro le 06:00, residuo entro le 06:00.",
+ "zona": "Zona A · Lizzana, Mori Ferrovia, Rovereto Sud, Marco, Borgo Sacco e San Giorgio",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/RV/Rebranding%202026/260610_CAL_ROVERETO_26_ZONAA.pdf | https://dolomitiambiente.it/it/rovereto/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Il vetro da imballaggio va nelle campane stradali. Esporre il sacco azzurro degli imballaggi dalle 18:00 del martedì alle 06:00 del mercoledì.",
+  "Accesso al centro di raccolta in località Mira di Marco con QR code personale."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-30": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-07": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-21": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico"
+  ]
+ }
+}

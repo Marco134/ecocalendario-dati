@@ -7469,10 +7469,10 @@
    "nome": "Rovereto",
    "provincia": "TN",
    "gestore": "Dolomiti Ambiente S.r.l.",
-   "stato": "fonte_individuata",
-   "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/RV/Rebranding%202026/260610_CAL_ROVERETO_26_ZONAA.pdf",
+   "stato": "calendario_verificato",
+   "fonte": "https://dolomitiambiente.it/it/rovereto/non-domestica/raccolta-differenziata/calendario-di-raccolta",
    "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 2 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "nota": "Calendari di zona verificati, inclusi i recuperi. Accesso ai centri e servizi su richiesta documentati."
   },
   {
    "id": "terragnolo",
@@ -7499,10 +7499,10 @@
    "nome": "Trento",
    "provincia": "TN",
    "gestore": "Dolomiti Ambiente S.r.l.",
-   "stato": "fonte_individuata",
-   "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/TN-2026/Reb/260319_cal_trento_argentario.pdf",
+   "stato": "calendario_verificato",
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/raccolta-differenziata/calendario-di-raccolta",
    "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 12 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "nota": "Calendari di zona verificati, inclusi i recuperi. Centro storico con tabella per indirizzo. Festivi del centro storico da confermare."
   },
   {
    "id": "vallarsa",

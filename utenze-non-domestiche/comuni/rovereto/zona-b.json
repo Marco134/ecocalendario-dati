@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "comune": "Rovereto",
+ "provincia": "TN",
+ "gestore": "Dolomiti Ambiente S.r.l.",
+ "valido_al": "2027-01-02",
+ "esposizione": "Esporre organico entro le 06:00, carta entro le 06:00, imballaggi leggeri entro le 06:00, residuo entro le 06:00.",
+ "zona": "Zona B · Rovereto Centro, Rovereto Nord e Noriglio",
+ "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/calendari/RV/Rebranding%202026/260610_CAL_ROVERETO_26_ZONAB.pdf | https://dolomitiambiente.it/it/rovereto/non-domestica/raccolta-differenziata/calendario-di-raccolta",
+ "valido_dal": "2026-11-25",
+ "note": [
+  "Il vetro da imballaggio va nelle campane stradali. Esporre il sacco azzurro degli imballaggi dalle 18:00 del martedì alle 06:00 del mercoledì.",
+  "Accesso al centro di raccolta in località Mira di Marco con QR code personale.",
+  "L’organico del 25 dicembre e del 1° gennaio è sospeso. Il residuo recupera il giorno seguente. Il 2 gennaio è l’unica data 2027 tratta da questa edizione."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2027-01-02": [
+   "indifferenziato"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "da": "2026-12-25",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato"
+  },
+  {
+   "data": "2027-01-02",
+   "da": "2027-01-01",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato"
+  },
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ]
+}

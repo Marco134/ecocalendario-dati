@@ -530,6 +530,48 @@
    ],
    "fonte": "https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-A02-01-Rifiuti-ammessi---Produttori-di-rifiuti-urbani-non-domestici.pdf | https://www.dolomitiambiente.it/vfm/Documenti/Vallagarina/CARTA_DEI_SERVIZI_DA-VALLAGARINA.pdf",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "dolomiti-und-trento",
+   "nome": "Dolomiti Ambiente · Trento UND",
+   "gestori": [],
+   "comuni": [
+    "trento"
+   ],
+   "telefono": "800847028",
+   "prenota_url": "https://dolomitiambiente.it/it/trento/non-domestica/servizi/servizi-a-pagamento",
+   "prenotazione": false,
+   "regole": [
+    "Il ritiro a domicilio di ingombranti è a pagamento. Il gestore indica prenotazione al numero verde con il codice cliente, fino a 5 pezzi. Chiedere il costo e verificare l’ammissibilità del singolo rifiuto.",
+    "Per rifiuti speciali e ritiri specifici di rifiuti aziendali il gestore mette a disposizione un modulo di richiesta di offerta.",
+    "Gli ingombranti urbani ammessi possono essere conferiti nei centri abilitati, con i requisiti per le attività."
+   ],
+   "regole_en": [
+    "Book paid bulky waste collection by phone with your customer code. Check accepted items and charges. For special business waste, use the operator’s quotation form."
+   ],
+   "fonte": "https://dolomitiambiente.it/it/trento/non-domestica/servizi/servizi-a-pagamento | https://dolomitiambiente.it/it/modulo-ritiro-rifiuti-speciali | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/ELENCO-RIFIUTI-AMMESSI-UTENZE-NON-DOMESTICHE-CENTRO-RACCOLTA-ARGENTARIO-BONDONE-GARDOLO-MATTARELLO.pdf",
+   "verificato": "2026-11-25"
+  },
+  {
+   "id": "dolomiti-und-rovereto",
+   "nome": "Dolomiti Ambiente · Rovereto UND",
+   "gestori": [],
+   "comuni": [
+    "rovereto"
+   ],
+   "telefono": "800847028",
+   "prenota_url": "https://dolomitiambiente.it/it/rovereto/non-domestica/servizi/servizi-a-pagamento",
+   "prenotazione": false,
+   "regole": [
+    "Il ritiro a domicilio di ingombranti è a pagamento. Il gestore indica prenotazione al numero verde con il codice cliente, fino a 5 pezzi. Chiedere il costo e verificare l’ammissibilità del singolo rifiuto.",
+    "Per rifiuti speciali e ritiri specifici di rifiuti aziendali il gestore mette a disposizione un modulo di richiesta di offerta.",
+    "Gli ingombranti urbani ammessi possono essere conferiti nei centri abilitati, con i requisiti per le attività."
+   ],
+   "regole_en": [
+    "Book paid bulky waste collection by phone with your customer code. Check accepted items and charges. For special business waste, use the operator’s quotation form."
+   ],
+   "fonte": "https://dolomitiambiente.it/it/rovereto/non-domestica/servizi/servizi-a-pagamento | https://dolomitiambiente.it/it/modulo-ritiro-rifiuti-speciali | https://dolomitiambiente.it/it/vfm/Documenti/regolamenti_CR/RGL-DA-08-A02-01-Rifiuti-ammessi---Produttori-di-rifiuti-urbani-non-domestici.pdf",
+   "verificato": "2026-11-25"
   }
  ]
 }
