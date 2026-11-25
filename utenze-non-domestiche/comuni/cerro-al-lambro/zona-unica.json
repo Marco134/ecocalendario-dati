@@ -1,0 +1,135 @@
+{
+ "schema": 1,
+ "comune": "Cerro al Lambro",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=CerroAlLambro&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Cerro+Al+Lambro | https://www.cemambiente.it/wp-content/uploads/2024/04/Cerro-al-lambro_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-05": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-06": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-12": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-13": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-19": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-26": [
+   "carta",
+   "plastica"
+  ],
+  "2027-01-27": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

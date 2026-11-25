@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "comune": "Pessano con Bornago",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 21:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=PessanoConBornago&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Pessano+Con+Bornago | https://www.cemambiente.it/wp-content/uploads/2024/04/Pessano_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-04": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-07": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-11": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-14": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-21": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-25": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-28": [
+   "carta",
+   "organico",
+   "plastica"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

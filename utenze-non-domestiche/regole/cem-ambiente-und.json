@@ -1,0 +1,96 @@
+{
+ "schema": 1,
+ "nome": "CEM Ambiente · regole per le attività",
+ "fonte": "https://www.cemambiente.it/per-le-aziende/ | https://www.cemambiente.it/per-le-aziende/ecuosacco-blu/ | https://www.cemambiente.it/per-le-aziende/altre-plastiche/ | https://www.cemambiente.it/dove-lo-butto/",
+ "tipi": {},
+ "voci": {
+  "cartone pulito": {
+   "dove": "carta",
+   "nota": "Piegare e conferire nella raccolta carta e cartone; per grandi quantità verificare il servizio assegnato."
+  },
+  "scatole di cartone": {
+   "dove": "carta",
+   "nota": "Appiattire, separare la plastica e conferire nella carta."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Togliere gli involucri di plastica e conferire con la carta."
+  },
+  "lattine": {
+   "dove": "plastica",
+   "nota": "Sono imballaggi metallici: usare il Multipak previsto dal calendario locale."
+  },
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "Svuotare e conferire con il Multipak."
+  },
+  "barattoli metallici per alimenti": {
+   "dove": "plastica",
+   "nota": "Svuotare e conferire con il Multipak."
+  },
+  "bottiglie in plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare gli imballaggi e conferirli con il Multipak."
+  },
+  "vaschette in plastica per alimenti": {
+   "dove": "plastica",
+   "nota": "Conferire con il Multipak dopo aver rimosso residui."
+  },
+  "tetrapak": {
+   "dove": "plastica",
+   "nota": "I cartoni per bevande e alimenti conferibili seguono il Multipak, come indicato nelle Carte CEM."
+  },
+  "cartoni per bevande": {
+   "dove": "plastica",
+   "nota": "Conferire con il Multipak secondo la guida comunale."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire gli imballaggi di vetro nel contenitore previsto dal Comune."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare e conferire con il vetro."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Usare il contenitore e i sacchi compostabili indicati dal Comune."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Conferire con l’organico. Per le capsule verificare il materiale."
+  },
+  "rifiuto secco residuo": {
+   "dove": "indifferenziato",
+   "nota": "Nei comuni Ecuosacco usare il sacco blu o la dotazione Ecuobox assegnata all’utenza non domestica."
+  },
+  "film di imballaggio oltre A2": {
+   "dove": "varia",
+   "nota": "Verificare il servizio Altre Plastiche per le aziende nei comuni Ecuosacco; è necessaria l’attivazione."
+  },
+  "reggette da imballaggio": {
+   "dove": "varia",
+   "nota": "Verificare se ammesse al servizio Altre Plastiche attivato per l’azienda."
+  },
+  "big bag": {
+   "dove": "varia",
+   "nota": "Il servizio Altre Plastiche li elenca tra i materiali trattabili. Concordare il ritiro con CEM."
+  },
+  "polistirolo da imballaggio di grandi dimensioni": {
+   "dove": "varia",
+   "nota": "Per imballaggi espansi oltre il formato A2 verificare il servizio Altre Plastiche. Le vaschette alimentari seguono il Multipak."
+  },
+  "imballaggi rigidi oltre 20 litri": {
+   "dove": "varia",
+   "nota": "Verificare il servizio Altre Plastiche su attivazione, secondo il materiale prodotto."
+  },
+  "ingombranti": {
+   "dove": "varia",
+   "nota": "Verificare ritiro o conferimento ammesso, documenti e condizioni per l’azienda."
+  },
+  "rifiuti elettronici": {
+   "dove": "varia",
+   "nota": "Confermare requisiti RAEE e autorizzazioni prima del conferimento da parte dell’azienda."
+  }
+ }
+}

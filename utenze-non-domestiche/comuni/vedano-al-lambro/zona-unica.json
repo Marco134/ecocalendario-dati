@@ -1,0 +1,165 @@
+{
+ "schema": 1,
+ "comune": "Vedano al Lambro",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 19:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=VedanoAlLambro&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Vedano+Al+Lambro | https://www.cemambiente.it/wp-content/uploads/2024/04/Vedano-al-Lambro_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "carta"
+  ],
+  "2027-01-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-07": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-14": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-21": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-28": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "carta",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00",
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}

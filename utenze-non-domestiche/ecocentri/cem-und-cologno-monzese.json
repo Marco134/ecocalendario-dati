@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "CEM Ambiente",
+ "numero_verde": "800 342 266",
+ "orari_numero_verde": "Lun–ven 09:00–12:30 e 14:30–17:00",
+ "accesso": "Verificare con il Comune l’abilitazione della CEM Card o il permesso locale e le fasce riservate. Il gestore indica la documentazione per il trasporto in proprio e il conferimento, compresi Albo categoria 2-bis, formulario e convenzione quando richiesti.",
+ "avviso": "Piattaforme indicate dal portale comunale: Cologno Monzese – Via Portogallo. Accesso UND con permesso dell’Ufficio Igiene Ambientale. Sabato e domenica riservati alle utenze domestiche.",
+ "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cologno+Monzese | https://www.cemambiente.it/conferimento-rifiuti-assimilati/ | https://cemfacile.cemambiente.it/public/download?file=ColognoMonzese&folder=calendari",
+ "centri": [
+  {
+   "id": "cem-ambiente-64aad886fcca5a14798c514c",
+   "tipo": "raccolta",
+   "comune": "Cologno Monzese",
+   "indirizzo": "Via Portogallo",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Accesso UND con permesso dell’Ufficio Igiene Ambientale. Sabato e domenica riservati alle utenze domestiche.",
+   "lat": 45.531567,
+   "lon": 9.266974
+  }
+ ]
+}

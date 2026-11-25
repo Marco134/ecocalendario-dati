@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "comune": "Vimercate",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona Verde",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 19:00 per le utenze non domestiche e dalle ore 18:00 per le utenze domestiche, sino alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Vimercate_Zona+VERDE&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Vimercate | https://www.cemambiente.it/wp-content/uploads/2024/04/Vimercate_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-06": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-13": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-16": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-20": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-27": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

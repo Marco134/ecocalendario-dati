@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "CEM Ambiente",
+ "numero_verde": "800 342 266",
+ "orari_numero_verde": "Lun–ven 09:00–12:30 e 14:30–17:00",
+ "accesso": "Verificare con il Comune l’abilitazione della CEM Card o il permesso locale e le fasce riservate. Il gestore indica la documentazione per il trasporto in proprio e il conferimento, compresi Albo categoria 2-bis, formulario e convenzione quando richiesti.",
+ "avviso": "Piattaforme indicate dal portale comunale: Concorezzo – Via Monterosa. Lunedì chiuso. Sabato e domenica esclusi per gli operatori economici.",
+ "fonte": "https://www.cemambiente.it/cemfacile/?citta=Concorezzo | https://www.cemambiente.it/conferimento-rifiuti-assimilati/ | https://cemfacile.cemambiente.it/public/download?file=Concorezzo&folder=calendari",
+ "centri": [
+  {
+   "id": "cem-ambiente-64be87f3fcca5a14798c67e7",
+   "tipo": "raccolta",
+   "comune": "Concorezzo",
+   "indirizzo": "Via Monterosa",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Lunedì chiuso. Sabato e domenica esclusi per gli operatori economici.",
+   "lat": 45.597611,
+   "lon": 9.318197
+  }
+ ]
+}

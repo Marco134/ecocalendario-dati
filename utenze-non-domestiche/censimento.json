@@ -59,7 +59,10 @@
    "nome": "Agrate Brianza",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Agrate+Brianza | https://www.cemambiente.it/wp-content/uploads/2024/04/Agrate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "agrate-conturbia",
@@ -73,7 +76,10 @@
    "nome": "Aicurzio",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Aicurzio | https://www.cemambiente.it/wp-content/uploads/2024/04/Aicurzio_carta-dei-servizi_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "airasca",
@@ -283,7 +289,10 @@
    "nome": "Arcore",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Arcore | https://www.cemambiente.it/wp-content/uploads/2024/04/Arcore_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "ardenno",
@@ -583,7 +592,10 @@
    "nome": "Basiano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Basiano | https://www.cemambiente.it/wp-content/uploads/2024/04/Basiano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "baveno",
@@ -638,14 +650,20 @@
    "nome": "Bellinzago Lombardo",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bellinzago+Lombardo | https://www.cemambiente.it/wp-content/uploads/2024/05/Bellinzago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "bellusco",
    "nome": "Bellusco",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bellusco | https://www.cemambiente.it/wp-content/uploads/2024/04/Bellusco_carta-dei-servizi_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "bene-vagienna",
@@ -666,7 +684,10 @@
    "nome": "Bernareggio",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bernareggio | https://www.cemambiente.it/wp-content/uploads/2024/04/Bernareggio_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "bernezzo",
@@ -826,7 +847,10 @@
    "nome": "Borgo San Giovanni",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Borgo+San+Giovanni | https://www.cemambiente.it/wp-content/uploads/2024/04/Borgo-San-Giovanni_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "borgo-ticino",
@@ -1031,7 +1055,10 @@
    "nome": "Brugherio",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Brugherio | https://www.cemambiente.it/wp-content/uploads/2024/04/Brugherio_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "bruino",
@@ -1076,7 +1103,10 @@
    "nome": "Burago di Molgora",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Burago+Di+Molgora | https://www.cemambiente.it/wp-content/uploads/2024/04/Burago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "buriasco",
@@ -1114,14 +1144,20 @@
    "nome": "Busnago",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Busnago | https://www.cemambiente.it/wp-content/uploads/2024/04/Busnago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "bussero",
    "nome": "Bussero",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Bussero | https://www.cemambiente.it/wp-content/uploads/2024/04/Bussero_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "bussoleno",
@@ -1211,7 +1247,10 @@
    "nome": "Cambiago",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cambiago | https://www.cemambiente.it/wp-content/uploads/2024/04/Cambiago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cambiano",
@@ -1232,7 +1271,10 @@
    "nome": "Camparada",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Camparada | https://www.cemambiente.it/wp-content/uploads/2024/04/Camparada_carta-dei-servizi_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "campiglione-fenile",
@@ -1330,7 +1372,10 @@
    "nome": "Caponago",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Caponago | https://www.cemambiente.it/wp-content/uploads/2024/04/Caponago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "caprezzo",
@@ -1427,14 +1472,20 @@
    "nome": "Carnate",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Carnate | https://www.cemambiente.it/wp-content/uploads/2024/04/Carnate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "carpiano",
    "nome": "Carpiano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Carpiano | https://www.cemambiente.it/wp-content/uploads/2024/04/Carpiano_carta-dei-servizi_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "carpignano-sesia",
@@ -1448,7 +1499,10 @@
    "nome": "Carugate",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Carugate | https://www.cemambiente.it/wp-content/uploads/2024/04/Carugate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "casalborgone",
@@ -1483,14 +1537,20 @@
    "nome": "Casaletto Lodigiano",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Casaletto+Lodigiano | https://www.cemambiente.it/wp-content/uploads/2024/04/Casaletto_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "La Carta locale pubblicata è un segnaposto in fase di approvazione. Il gestore dispone di un calendario comunale; confermare le date UND per indirizzo e attività. È confermato l’accesso delle aziende alla piattaforma il lunedì 13:00–15:00."
   },
   {
    "id": "casalmaiocco",
    "nome": "Casalmaiocco",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Casalmaiocco | https://www.cemambiente.it/wp-content/uploads/2024/04/CASALMAIOCCO_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "casalzuigno",
@@ -1538,7 +1598,10 @@
    "nome": "Caselle Lurani",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Caselle+Lurani | https://www.cemambiente.it/wp-content/uploads/2024/04/Caselle-Lurani_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "La Carta locale pubblicata è un segnaposto in fase di approvazione. Il gestore dispone di un calendario comunale; confermare le date UND per indirizzo e attività."
   },
   {
    "id": "caselle-torinese",
@@ -1576,7 +1639,10 @@
    "nome": "Cassano d'Adda",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cassano+D%27Adda | https://www.cemambiente.it/wp-content/uploads/2024/04/CASSANO-D-ADDA_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cassano-valcuvia",
@@ -1590,7 +1656,10 @@
    "nome": "Cassina de' Pecchi",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cassina+De%27+Pecchi | https://www.cemambiente.it/wp-content/uploads/2024/04/Cassina-De-Pecchi_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cassina-valsassina",
@@ -1826,7 +1895,10 @@
    "nome": "Cavenago di Brianza",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cavenago+Di+Brianza | https://www.cemambiente.it/wp-content/uploads/2024/04/Cavenago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cavour",
@@ -1930,14 +2002,20 @@
    "nome": "Cernusco sul Naviglio",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cernusco+Sul+Naviglio | https://www.cemambiente.it/wp-content/uploads/2024/04/Cernusco-SN_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cerro-al-lambro",
    "nome": "Cerro al Lambro",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cerro+Al+Lambro | https://www.cemambiente.it/wp-content/uploads/2024/04/Cerro-al-lambro_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cervasca",
@@ -1968,7 +2046,10 @@
    "nome": "Cervignano d'Adda",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cervignano+D%27Adda | https://www.cemambiente.it/wp-content/uploads/2024/04/Cervignano-d-Adda_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "cesana-brianza",
@@ -2249,7 +2330,10 @@
    "nome": "Cologno Monzese",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cologno+Monzese | https://www.cemambiente.it/wp-content/uploads/2024/04/Cologno_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027. Usare la guida locale e il permesso dell’Ufficio Igiene Ambientale."
   },
   {
    "id": "colorina",
@@ -2263,14 +2347,20 @@
    "nome": "Colturano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Colturano | https://www.cemambiente.it/wp-content/uploads/2024/04/Colturano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "comazzo",
    "nome": "Comazzo",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Comazzo | https://www.cemambiente.it/wp-content/uploads/2024/04/Comazzo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "comignago",
@@ -2284,7 +2374,10 @@
    "nome": "Concorezzo",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Concorezzo | https://www.cemambiente.it/wp-content/uploads/2024/04/Concorezzo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "condove",
@@ -2305,7 +2398,10 @@
    "nome": "Cornate d'Adda",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Cornate+D%27Adda | https://www.cemambiente.it/wp-content/uploads/2024/04/Cornate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "corneliano-d-alba",
@@ -2326,7 +2422,10 @@
    "nome": "Correzzana",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Correzzana | https://www.cemambiente.it/wp-content/uploads/2024/04/Correzzana_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "La Carta locale pubblicata è un segnaposto in fase di approvazione. Il gestore dispone di un calendario comunale; confermare le date UND per indirizzo e attività."
   },
   {
    "id": "corteno-golgi",
@@ -2603,7 +2702,10 @@
    "nome": "Dresano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Dresano | https://www.cemambiente.it/wp-content/uploads/2024/04/Dresano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "dronero",
@@ -2964,7 +3066,10 @@
    "nome": "Gessate",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Gessate | https://www.cemambiente.it/wp-content/uploads/2024/04/Gessate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "ghemme",
@@ -3039,7 +3144,10 @@
    "nome": "Gorgonzola",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Gorgonzola | https://www.cemambiente.it/wp-content/uploads/2024/04/Gorgonzola_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "gosaldo",
@@ -3095,7 +3203,10 @@
    "nome": "Grezzago",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Grezzago | https://www.cemambiente.it/wp-content/uploads/2024/04/Grezzago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "grignasco",
@@ -3237,7 +3348,10 @@
    "nome": "Inzago",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Inzago | https://www.cemambiente.it/wp-content/uploads/2024/04/Inzago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "ischia-di-castro",
@@ -3400,7 +3514,10 @@
    "nome": "Lesmo",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Lesmo | https://www.cemambiente.it/wp-content/uploads/2024/04/Lesmo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "lessolo",
@@ -3431,7 +3548,10 @@
    "nome": "Liscate",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Liscate | https://www.cemambiente.it/wp-content/uploads/2024/04/Liscate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "livinallongo-del-col-di-lana",
@@ -3585,7 +3705,10 @@
    "nome": "Macherio",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Macherio | https://www.cemambiente.it/wp-content/uploads/2024/04/Macherio_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027. Il recupero dell’Ecuosacco del 1° gennaio resta da confermare perché il PDF riporta giorno e data discordanti."
   },
   {
    "id": "macugnaga",
@@ -3768,7 +3891,10 @@
    "nome": "Masate",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Masate | https://www.cemambiente.it/wp-content/uploads/2024/04/Masate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "masciago-primo",
@@ -3803,7 +3929,10 @@
    "nome": "Massalengo",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Massalengo | https://www.cemambiente.it/wp-content/uploads/2024/04/Massalengo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "massello",
@@ -3866,7 +3995,10 @@
    "nome": "Mediglia",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Mediglia | https://www.cemambiente.it/wp-content/uploads/2024/04/Mediglia_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "meina",
@@ -3880,14 +4012,20 @@
    "nome": "Melegnano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Melegnano | https://www.cemambiente.it/wp-content/uploads/2024/04/Melegnano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "La Carta locale pubblicata è un segnaposto in fase di approvazione. Il gestore dispone di un calendario comunale; confermare le date UND per indirizzo e attività."
   },
   {
    "id": "melzo",
    "nome": "Melzo",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Melzo | https://www.cemambiente.it/wp-content/uploads/2024/04/Melzo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "merate",
@@ -3918,7 +4056,10 @@
    "nome": "Merlino",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Merlino | https://www.cemambiente.it/wp-content/uploads/2024/04/Merlino_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "mesenzana",
@@ -3932,7 +4073,10 @@
    "nome": "Mezzago",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Mezzago | https://www.cemambiente.it/wp-content/uploads/2024/04/Mezzago_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "mezzenile",
@@ -4312,7 +4456,10 @@
    "nome": "Mulazzano",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Mulazzano | https://www.cemambiente.it/wp-content/uploads/2024/04/Mulazzano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "narzole",
@@ -4555,7 +4702,10 @@
    "nome": "Ornago",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Ornago | https://www.cemambiente.it/wp-content/uploads/2024/04/Ornago_carta-dei-servizi_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "ornavasso",
@@ -4695,7 +4845,10 @@
    "nome": "Pantigliate",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pantigliate | https://www.cemambiente.it/wp-content/uploads/2024/04/Pantigliate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "paratico",
@@ -4755,7 +4908,10 @@
    "nome": "Paullo",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Paullo | https://www.cemambiente.it/wp-content/uploads/2024/04/Paullo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "pavarolo",
@@ -4857,7 +5013,10 @@
    "nome": "Pessano con Bornago",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pessano+Con+Bornago | https://www.cemambiente.it/wp-content/uploads/2024/04/Pessano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "pessinetto",
@@ -5134,7 +5293,10 @@
    "nome": "Pozzo d'Adda",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pozzo+D%27Adda | https://www.cemambiente.it/wp-content/uploads/2024/04/Pozzo-dadda_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "pozzolengo",
@@ -5148,7 +5310,10 @@
    "nome": "Pozzuolo Martesana",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Pozzuolo+Martesana | https://www.cemambiente.it/wp-content/uploads/2024/04/Pozzuolo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "pragelato",
@@ -5509,7 +5674,10 @@
    "nome": "Rodano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Rodano | https://www.cemambiente.it/wp-content/uploads/2024/04/Rodano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "roddi",
@@ -5575,14 +5743,20 @@
    "nome": "Roncello",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Roncello | https://www.cemambiente.it/wp-content/uploads/2024/04/Roncello_carta-dei-servizi-1.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "ronco-briantino",
    "nome": "Ronco Briantino",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Ronco+Briantino | https://www.cemambiente.it/wp-content/uploads/2024/04/Ronco-Briantino_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "ronco-canavese",
@@ -5659,7 +5833,10 @@
    "nome": "Salerano sul Lambro",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Salerano+sul+Lambro | https://www.cemambiente.it/wp-content/uploads/2024/12/Salerano-sul-Lambro_Carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "salmour",
@@ -5895,7 +6072,10 @@
    "nome": "San Zenone al Lambro",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=San+Zenone+Al+Lambro | https://www.cemambiente.it/wp-content/uploads/2024/04/San-Zenone_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "san-zenone-degli-ezzelini",
@@ -5930,7 +6110,10 @@
    "nome": "Sant'Angelo Lodigiano",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Sant%27Angelo+Lodigiano | https://www.cemambiente.it/wp-content/uploads/2024/04/Sant-Angelo-Lodigiano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "sant-antonino-di-susa",
@@ -6062,7 +6245,10 @@
    "nome": "Settala",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Settala | https://www.cemambiente.it/wp-content/uploads/2024/04/Settala_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "settimo-rottaro",
@@ -6180,7 +6366,10 @@
    "nome": "Sordio",
    "provincia": "LO",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Sordio | https://www.cemambiente.it/wp-content/uploads/2024/04/SORDIO_CARTA_DEI_SERVIZI_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "soriso",
@@ -6268,7 +6457,10 @@
    "nome": "Sulbiate",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Sulbiate | https://www.cemambiente.it/wp-content/uploads/2024/04/Sulbiate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "sumirago",
@@ -6410,7 +6602,10 @@
    "nome": "Torrevecchia Pia",
    "provincia": "PV",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Torrevecchia+Pia | https://www.cemambiente.it/wp-content/uploads/2024/04/Torrevecchia-Pia_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "toscolano-maderno",
@@ -6501,14 +6696,20 @@
    "nome": "Trezzano Rosa",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Trezzano+Rosa | https://www.cemambiente.it/wp-content/uploads/2024/04/Trezzano-Rosa_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "trezzo-sull-adda",
    "nome": "Trezzo sull'Adda",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Trezzo+Sull%27Adda | https://www.cemambiente.it/wp-content/uploads/2024/04/Trezzo-sullAdda_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "trezzo-tinella",
@@ -6522,7 +6723,10 @@
    "nome": "Tribiano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Tribiano | https://www.cemambiente.it/wp-content/uploads/2024/04/Tribiano_carta-dei-servizi_.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "triuggio",
@@ -6557,14 +6761,20 @@
    "nome": "Truccazzano",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Truccazzano | https://www.cemambiente.it/wp-content/uploads/2024/04/Truccazzano_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "usmate-velate",
    "nome": "Usmate Velate",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Usmate+Velate | https://www.cemambiente.it/wp-content/uploads/2024/04/Usmate-Velate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "usseaux",
@@ -6748,7 +6958,10 @@
    "nome": "Vaprio d'Adda",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vaprio+D%27Adda | https://www.cemambiente.it/wp-content/uploads/2024/04/Vaprio_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "varallo-pombia",
@@ -6800,7 +7013,10 @@
    "nome": "Vedano al Lambro",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vedano+Al+Lambro | https://www.cemambiente.it/wp-content/uploads/2024/04/Vedano-al-Lambro_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "vedano-olona",
@@ -6949,7 +7165,10 @@
    "nome": "Vignate",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vignate | https://www.cemambiente.it/wp-content/uploads/2024/04/Vignate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "vignolo",
@@ -7077,7 +7296,10 @@
    "nome": "Villasanta",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Villasanta | https://www.cemambiente.it/wp-content/uploads/2024/04/Villasanta_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "villette",
@@ -7098,14 +7320,20 @@
    "nome": "Vimercate",
    "provincia": "MB",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vimercate | https://www.cemambiente.it/wp-content/uploads/2024/04/Vimercate_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "vimodrone",
    "nome": "Vimodrone",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vimodrone | https://www.cemambiente.it/wp-content/uploads/2024/04/Vimodrone_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "vische",
@@ -7126,7 +7354,10 @@
    "nome": "Vizzolo Predabissi",
    "provincia": "MI",
    "gestore": "CEM Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.cemambiente.it/cemfacile/?citta=Vizzolo+Predabissi | https://www.cemambiente.it/wp-content/uploads/2024/04/Vizzolo_carta-dei-servizi.pdf | https://www.cemambiente.it/per-le-aziende/",
+   "verificato": "2026-11-25",
+   "nota": "Calendario ordinario confermato. Verificare le raccolte aziendali extra, le fasce dedicate dei centri e il rinnovo a febbraio 2027."
   },
   {
    "id": "viu",

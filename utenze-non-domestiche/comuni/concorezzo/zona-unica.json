@@ -1,0 +1,154 @@
+{
+ "schema": 1,
+ "comune": "Concorezzo",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Consulta l’orario di esposizione nel PDF del Comune.",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Concorezzo&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Concorezzo | https://www.cemambiente.it/wp-content/uploads/2024/04/Concorezzo_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-02": [
+   "plastica"
+  ],
+  "2027-01-04": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-06": [
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-09": [
+   "plastica"
+  ],
+  "2027-01-11": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-13": [
+   "indifferenziato"
+  ],
+  "2027-01-14": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-16": [
+   "plastica"
+  ],
+  "2027-01-18": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-20": [
+   "indifferenziato"
+  ],
+  "2027-01-21": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-23": [
+   "plastica"
+  ],
+  "2027-01-25": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-27": [
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-30": [
+   "plastica"
+  ]
+ }
+}

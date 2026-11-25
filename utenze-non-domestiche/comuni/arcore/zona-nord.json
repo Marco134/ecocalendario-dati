@@ -1,0 +1,155 @@
+{
+ "schema": 1,
+ "comune": "Arcore",
+ "provincia": "MB",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona Nord",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esporre i rifiuti dalle ore 21:00 del giorno precedente alle ore 06:00 del giorno di raccolta",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=Arcore_Zona+NORD&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Arcore | https://www.cemambiente.it/wp-content/uploads/2024/04/Arcore_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "vetro"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "vetro"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ],
+  "2027-01-02": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-05": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-06": [
+   "vetro"
+  ],
+  "2027-01-07": [
+   "indifferenziato"
+  ],
+  "2027-01-09": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-13": [
+   "vetro"
+  ],
+  "2027-01-14": [
+   "indifferenziato"
+  ],
+  "2027-01-16": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "vetro"
+  ],
+  "2027-01-21": [
+   "indifferenziato"
+  ],
+  "2027-01-23": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-27": [
+   "vetro"
+  ],
+  "2027-01-28": [
+   "indifferenziato"
+  ],
+  "2027-01-30": [
+   "carta",
+   "organico"
+  ]
+ },
+ "esposizione_entro": "06:00"
+}

@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "comune": "Cologno Monzese",
+ "provincia": "MI",
+ "gestore": "CEM Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2027-01-31",
+ "esposizione": "Consulta l’orario di esposizione nel PDF del Comune.",
+ "fonte": "https://cemfacile.cemambiente.it/public/download?file=ColognoMonzese&folder=calendari | https://www.cemambiente.it/cemfacile/?citta=Cologno+Monzese | https://www.cemambiente.it/wp-content/uploads/2024/04/Cologno_carta-dei-servizi.pdf",
+ "note": [
+  "Consulta il PDF per i servizi stagionali, il verde e i sacchi riservati.",
+  "Date del servizio ordinario per le attività servite da CEM. Per i grandi quantitativi e le raccolte dedicate verificare il servizio attivo per l’indirizzo.",
+  "Se il servizio è attivo per il comune e l’azienda, le date di Altre Plastiche si concordano con CEM."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-04": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-07": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-11": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-14": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-18": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-21": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-25": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-28": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ }
+}

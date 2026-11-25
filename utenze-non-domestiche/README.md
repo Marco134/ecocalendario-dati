@@ -45,3 +45,7 @@ Le Carte del servizio confermano il porta a porta ordinario per le attività. Ca
 ## Val Cavallina Servizi
 
 Le Carte locali confermano il calendario ordinario per 31 comuni e 33 zone fino al 31 dicembre 2026. Le attività devono verificare tessera, documenti e rifiuti ammessi prima di accedere al centro; per i ritiri extra chiedere al gestore. [Centri di raccolta](https://www.vcsonline.it/regolamento-accesso-ai-centri-di-raccolta/)
+
+## CEM Ambiente
+
+Per 73 comuni sono disponibili i turni ordinari delle attività fino al 31 gennaio 2027. Per altri quattro è disponibile una scheda di verifica. Il servizio Altre Plastiche si attiva a richiesta. Per accessi e orari riservati alle attività consultare le indicazioni del centro. [Servizi per le aziende](https://www.cemambiente.it/per-le-aziende/) · [Requisiti delle piattaforme](https://www.cemambiente.it/conferimento-rifiuti-assimilati/)
