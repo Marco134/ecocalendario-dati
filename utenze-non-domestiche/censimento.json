@@ -4116,7 +4116,10 @@
    "nome": "Monte Marenzo",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/raccolte-differenziate/distributori-sacchi/",
+   "nota": "Fonte ufficiale: distributore Calolziocorte via Bergamo 10 in convenzione con Monte Marenzo; regole generali QR UND, sacchi 110 L ove attiva misurazione puntuale, esclusi cassonetti taggati. Calendari delle due zone e servizi locali UND da verificare.",
+   "verificato": "2026-11-25"
   },
   {
    "id": "montebelluna",
@@ -5514,7 +5517,10 @@
    "nome": "Rogeno",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2024/12/Rogeno-ecocalendario25_web.pdf",
+   "nota": "Fonte storica 2025: centro via Calvenzana Inferiore, accesso UND con QR e iscrizione Albo Gestori Ambientali per categorie previste; ritiro RAEE gratuito riservato UD. Orari, condizioni e calendario 2026 da riconfermare; nessuna data 2025 riutilizzata.",
+   "verificato": "2026-11-25"
   },
   {
    "id": "rogolo",
