@@ -1,0 +1,198 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Geofor S.p.A.",
+ "fonte": "https://www.comune.pisa.it/Servizi/Stazioni-ecologiche-fisse-CDR | https://www.geofor.it/pisa/centro-di-raccolta-pisa/",
+ "numero_verde": "800 959095",
+ "orari_numero_verde": "lun–ven 08:30–17:00",
+ "accesso": "Il Comune indica accesso con tessera per attività comunali che producono rifiuti urbani ammessi. Verificare con Geofor materiale, sede, quantità e documenti. Inerti, vernici, spray e oli esausti sono riservati alle utenze domestiche nella pagina Geofor.",
+ "avviso": "Il Comune elenca anche Ragghianti (Ospedaletto), riservato alle aziende per i RAEE. Orari e criteri del centro RAEE da confermare con il gestore. Gli orari dei quattro centri riportati possono variare nei festivi.",
+ "centri": [
+  {
+   "id": "geofor-cascina-via-fiorentina",
+   "comune": "Pisa",
+   "indirizzo": "Via Fiorentina",
+   "lat": 43.695736,
+   "lon": 10.434278,
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "2": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "fonte": "https://www.geofor.it/cascina/centro-di-raccolta-cascina/"
+  },
+  {
+   "id": "geofor-pisa-via-pindemonte",
+   "comune": "Pisa",
+   "indirizzo": "Via Pindemonte, Pratale",
+   "lat": 43.723647,
+   "lon": 10.417,
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "2": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "fonte": "https://www.geofor.it/pisa/centro-di-raccolta-pisa/"
+  },
+  {
+   "id": "geofor-pisa-via-san-jacopo",
+   "comune": "Pisa",
+   "indirizzo": "Via San Jacopo, Porta a Lucca",
+   "lat": 43.736753,
+   "lon": 10.389126,
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "2": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "19:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "fonte": "https://www.geofor.it/pisa/centro-di-raccolta-pisa/"
+  },
+  {
+   "id": "geofor-pisa-tirrenia",
+   "comune": "Pisa",
+   "indirizzo": "Via delle Giunchiglie, Tirrenia",
+   "lat": 43.637756,
+   "lon": 10.302914,
+   "orari": {
+    "1": [
+     [
+      "12:30",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "12:30",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "12:30",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "12:30",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "fonte": "https://www.geofor.it/pisa/centro-di-raccolta-pisa/"
+  }
+ ]
+}

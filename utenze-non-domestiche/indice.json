@@ -485,6 +485,54 @@
    ]
   },
   {
+   "id": "pisa",
+   "nome": "Pisa",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.71594,
+   "lon": 10.401862,
+   "consorzio": "geofor-und-pisa",
+   "zone_url": "https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/",
+   "zone": [
+    {
+     "id": "carta-diurna",
+     "nome": "Centro storico · carta diurna nelle vie abilitate",
+     "file": "comuni/pisa/zona-carta-diurna.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-mezzogiorno",
+     "nome": "Centro storico · carta serale Mezzogiorno",
+     "file": "comuni/pisa/zona-carta-mezzogiorno.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-tramontana",
+     "nome": "Centro storico · carta serale Tramontana",
+     "file": "comuni/pisa/zona-carta-tramontana.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "multimateriale-serale",
+     "nome": "Centro storico · multimateriale serale nelle vie abilitate",
+     "file": "comuni/pisa/zona-multimateriale-serale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "residuo-serale",
+     "nome": "Centro storico · residuo serale nelle vie abilitate",
+     "file": "comuni/pisa/zona-residuo-serale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cassonetti-e-servizi-personalizzati",
+     "nome": "Centro storico · cassonetti con tessera e servizi personalizzati",
+     "file": "comuni/pisa/zona-cassonetti-e-servizi-personalizzati.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "porano",
    "nome": "Porano",
    "provincia": "TR",
@@ -799,6 +847,12 @@
    "gestore": "Cosir S.r.l.",
    "ecocentri": "ecocentri/cosir-marmilla.json",
    "regole": "regole/cosir-marmilla.json"
+  },
+  "geofor-und-pisa": {
+   "nome": "Pisa · Geofor UND",
+   "gestore": "Geofor S.p.A.",
+   "ecocentri": "ecocentri/pisa.json",
+   "regole": "regole/pisa.json"
   }
  }
 }

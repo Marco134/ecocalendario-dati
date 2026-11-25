@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "comune": "Pisa",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Centro storico · carta serale Tramontana",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre tra le 19:00 e le 20:00 nel giorno indicato.",
+ "esposizione_entro": "20:00",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PISA-UTENZE-COMMERCIALI-CENTRO-STORICO-CALENDARIO-PAP-2026.pdf",
+ "note": [
+  "Per le attività aventi diritto, nelle vie con carta serale di San Francesco e Santa Maria. Consultare lo stradario Geofor.",
+  "Per uffici, agenzie e studi professionali si usano i cassonetti elettronici della carta secondo l’ordinanza. Il prelievo della carta esposta il 31 dicembre avviene alle 05:00 del 1° gennaio."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ }
+}

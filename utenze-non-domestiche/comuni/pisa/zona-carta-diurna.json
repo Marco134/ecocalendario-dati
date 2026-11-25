@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "comune": "Pisa",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Centro storico · carta diurna nelle vie abilitate",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre tra le 11:00 e le 12:00 nel giorno indicato.",
+ "esposizione_entro": "12:00",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PISA-UTENZE-COMMERCIALI-CENTRO-STORICO-CALENDARIO-PAP-2026.pdf",
+ "note": [
+  "Solo le 40 vie o tratti della tabella del calendario Geofor. Controllare l’indirizzo prima di esporre.",
+  "Per uffici, agenzie e studi professionali si usano i cassonetti elettronici della carta secondo l’ordinanza. Carta sospesa il 25 dicembre."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ }
+}

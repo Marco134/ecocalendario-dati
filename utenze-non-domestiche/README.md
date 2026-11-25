@@ -13,3 +13,7 @@ Dalla radice del repository, eseguire `python3 utenze-non-domestiche/strumenti/v
 ## Marmilla
 
 Il calendario delle utenze economiche COSIR è comune a 14 comuni e arriva al 31 ottobre 2027. Vetro e alluminio si conferiscono insieme. L’Unione pubblica la scheda di conferimento per le attività. Per costi e ammissibilità del ritiro ingombranti fa fede COSIR. [Calendario UND](https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/25) · [Scheda di conferimento](https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/26)
+
+## Geofor · Pisa
+
+Il calendario 2026 copre le attività del centro storico. Per la carta, il multimateriale e il residuo a domicilio occorre verificare la via, la categoria e il servizio abilitato. I programmi possono coesistere per una stessa attività. Per vetro e organico delle attività di somministrazione aderenti vale il calendario consegnato da Geofor. [Calendario e stradario](https://www.geofor.it/Pisa/calendario-raccolta-porta-a-porta-Pisa/) · [Ordinanza e allegati](https://www.comune.pisa.it/Servizi/Raccolta-Differenziata)

@@ -1,0 +1,15 @@
+{
+ "schema": 1,
+ "comune": "Pisa",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Centro storico · cassonetti con tessera e servizi personalizzati",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.comune.pisa.it/Servizi/Raccolta-Differenziata",
+ "raccolte": {},
+ "info": "Usare i cassonetti elettronici con tessera Geofor per i servizi associati all’utenza. Carta di uffici, agenzie e studi professionali e delle vie non abilitate nei cassonetti bianchi. Vetro e organico a domicilio per attività di somministrazione aderenti, secondo il calendario individuale consegnato da Geofor, esposizione 12:00–13:00. Per i servizi assegnati e le dotazioni chiamare 800 959095.",
+ "note": [
+  "Per il servizio personalizzato della carta, la fascia 15:00–16:00 è riservata a chi ha ottenuto il nulla osta previsto dall’ordinanza."
+ ]
+}

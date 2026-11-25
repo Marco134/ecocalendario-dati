@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "nome": "Pisa · Centro storico UND",
+ "fonte": "https://www.comune.pisa.it/content/download/20803/498624/file/ALLEGATO%20A%20Ordinanza%20rifiuti%20urbani%20Centro%20Storico.pdf",
+ "voci": {
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti, schiacciati, nella raccolta multimateriale leggera. Per il porta a porta verificare l’abilitazione della via.",
+   "nota_en": "Empty and flatten the packaging for the mixed packaging collection. Check whether the address is eligible for door-to-door service."
+  },
+  "flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti, schiacciati, nella raccolta multimateriale leggera. Per il porta a porta verificare l’abilitazione della via.",
+   "nota_en": "Empty and flatten the packaging for the mixed packaging collection. Check whether the address is eligible for door-to-door service."
+  },
+  "imballaggi in plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti, schiacciati, nella raccolta multimateriale leggera. Per il porta a porta verificare l’abilitazione della via.",
+   "nota_en": "Empty and flatten the packaging for the mixed packaging collection. Check whether the address is eligible for door-to-door service."
+  },
+  "imballaggi metallici": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti, schiacciati, nella raccolta multimateriale leggera. Per il porta a porta verificare l’abilitazione della via.",
+   "nota_en": "Empty and flatten the packaging for the mixed packaging collection. Check whether the address is eligible for door-to-door service."
+  },
+  "barattoli di metallo": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti, schiacciati, nella raccolta multimateriale leggera. Per il porta a porta verificare l’abilitazione della via.",
+   "nota_en": "Empty and flatten the packaging for the mixed packaging collection. Check whether the address is eligible for door-to-door service."
+  },
+  "imballaggi in tetrapak": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti, schiacciati, nella raccolta multimateriale leggera. Per il porta a porta verificare l’abilitazione della via.",
+   "nota_en": "Empty and flatten the packaging for the mixed packaging collection. Check whether the address is eligible for door-to-door service."
+  },
+  "imballaggi di cartone": {
+   "dove": "carta",
+   "nota": "Appiattire gli imballaggi e rimuovere plastiche, polistirolo e legacci. Verificare se per la via e categoria è previsto il ritiro domiciliare.",
+   "nota_en": "Flatten the packaging and remove plastic, foam and ties. Check door-to-door eligibility for the street and business category."
+  },
+  "scatole di cartone": {
+   "dove": "carta",
+   "nota": "Appiattire gli imballaggi e rimuovere plastiche, polistirolo e legacci. Verificare se per la via e categoria è previsto il ritiro domiciliare.",
+   "nota_en": "Flatten the packaging and remove plastic, foam and ties. Check door-to-door eligibility for the street and business category."
+  },
+  "sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Appiattire gli imballaggi e rimuovere plastiche, polistirolo e legacci. Verificare se per la via e categoria è previsto il ritiro domiciliare.",
+   "nota_en": "Flatten the packaging and remove plastic, foam and ties. Check door-to-door eligibility for the street and business category."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Imballaggi in vetro vuoti. Cassonetto dedicato o calendario individuale Geofor per le attività di somministrazione aderenti.",
+   "nota_en": "Empty glass packaging. Use the designated container or the personal Geofor schedule for enrolled food and beverage businesses."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Imballaggi in vetro vuoti. Cassonetto dedicato o calendario individuale Geofor per le attività di somministrazione aderenti.",
+   "nota_en": "Empty glass packaging. Use the designated container or the personal Geofor schedule for enrolled food and beverage businesses."
+  },
+  "barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Imballaggi in vetro vuoti. Cassonetto dedicato o calendario individuale Geofor per le attività di somministrazione aderenti.",
+   "nota_en": "Empty glass packaging. Use the designated container or the personal Geofor schedule for enrolled food and beverage businesses."
+  },
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile trasparente per gli avanzi di cucina e mensa. Ritiro a domicilio secondo il servizio assegnato.",
+   "nota_en": "Use a transparent biodegradable bag for kitchen and canteen waste. Follow the assigned service for any doorstep collection."
+  },
+  "avanzi di mensa": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto biodegradabile trasparente per gli avanzi di cucina e mensa. Ritiro a domicilio secondo il servizio assegnato.",
+   "nota_en": "Use a transparent biodegradable bag for kitchen and canteen waste. Follow the assigned service for any doorstep collection."
+  }
+ },
+ "tipi": {
+  "plastica": {
+   "nome": "Multimateriale leggero",
+   "nome_en": "Mixed packaging"
+  },
+  "carta": {
+   "nome": "Carta e cartone",
+   "nome_en": "Paper and cardboard"
+  }
+ }
+}

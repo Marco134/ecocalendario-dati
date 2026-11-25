@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "comune": "Pisa",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Centro storico · residuo serale nelle vie abilitate",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre tra le 19:00 e le 20:00 nel giorno indicato.",
+ "esposizione_entro": "20:00",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PISA-UTENZE-COMMERCIALI-CENTRO-STORICO-CALENDARIO-PAP-2026.pdf",
+ "note": [
+  "Solo dove lo stradario indica il residuo domiciliare e per il volume incompatibile con il cassonetto stradale. Usare il sacco indicato da Geofor.",
+  "Il prelievo del residuo esposto il 31 dicembre avviene alle 05:00 del 1° gennaio."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "indifferenziato"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-11-29": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-06": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-13": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-20": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-25": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-27": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ }
+}

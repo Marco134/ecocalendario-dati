@@ -169,6 +169,14 @@
    "orari": "lun–sab 09:00–14:00",
    "fonte": "https://www.cosir.org/raccolta-differenziata/comune/marmilla/ | https://egov.halleysardegna.com/setzu/zf/index.php/trasparenza-rifiuti/index/download-allegato/allegato/25",
    "verificato": "2026-11-25"
+  },
+  {
+   "id": "geofor-und-pisa",
+   "telefono": "800959095",
+   "modulo_url": "https://sportello.geofor.it/Login.aspx?ReturnUrl=%2f",
+   "orari": "lun–ven 08:30–17:00",
+   "fonte": "https://www.geofor.it/pisa/",
+   "verificato": "2026-11-25"
   }
  ]
 }

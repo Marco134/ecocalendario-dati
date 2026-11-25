@@ -1,0 +1,129 @@
+{
+ "schema": 1,
+ "comune": "Pisa",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Centro storico · multimateriale serale nelle vie abilitate",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre tra le 19:00 e le 20:00 nel giorno indicato.",
+ "esposizione_entro": "20:00",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PISA-UTENZE-COMMERCIALI-CENTRO-STORICO-CALENDARIO-PAP-2026.pdf",
+ "note": [
+  "Solo dove lo stradario indica il multimateriale domiciliare e per il volume incompatibile con il cassonetto stradale. Esporre con il sacco trasparente indicato da Geofor.",
+  "Il prelievo del multimateriale esposto il 31 dicembre avviene alle 05:00 del 1° gennaio."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "plastica"
+  ],
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-29": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-06": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "plastica"
+  ],
+  "2026-12-08": [
+   "plastica"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-13": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-20": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-25": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-27": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}

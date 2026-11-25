@@ -473,6 +473,25 @@
    "regole_en": [
     "Call or use COSIR’s booking portal. The business calendar allows up to five bulky items or five bundles of garden waste per booking. Ask COSIR about any charges and eligible items."
    ]
+  },
+  {
+   "id": "geofor-und-pisa",
+   "nome": "Geofor – Pisa UND",
+   "comuni": [
+    "pisa"
+   ],
+   "gestori": [],
+   "telefono": "800959095",
+   "orari": "lun–ven 08:30–17:00",
+   "prenotazione": false,
+   "regole": [
+    "Il Comune indica il conferimento degli ingombranti ammessi ai centri fissi con tessera. Prima di trasportarli, chiedere a Geofor quali rifiuti dell’attività sono ammessi. Il ritiro domiciliare per la specifica attività e i relativi costi vanno confermati."
+   ],
+   "regole_en": [
+    "The City lists authorised bulky waste drop-off at staffed centres with a card. Ask Geofor about accepted business waste, home collection and any charges."
+   ],
+   "fonte": "https://www.comune.pisa.it/Servizi/Stazioni-ecologiche-fisse-CDR | https://www.geofor.it/pisa/prenota-ritiri-pisa/",
+   "verificato": "2026-11-25"
   }
  ]
 }

@@ -7278,10 +7278,10 @@
    "nome": "Pisa",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "fonte_individuata",
+   "stato": "inserito",
    "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PISA-UTENZE-COMMERCIALI-CENTRO-STORICO-CALENDARIO-PAP-2026.pdf",
    "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "nota": "Copertura parziale, centro storico: cinque programmi a date e una scheda per cassonetti e servizi individuali. Restano da verificare altre aree, categorie e civici. I programmi possono coesistere per la stessa attività."
   },
   {
    "id": "chianni",
