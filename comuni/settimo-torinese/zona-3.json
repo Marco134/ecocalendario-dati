@@ -10,7 +10,7 @@
  "esposizione_entro": "06:00",
  "fonte": "Ecocalendario SETA (ECOCALENDARIO-2026_Settimo-Torinese_zona-3.pdf)",
  "note": [
-  "Sfalci: servizio a pagamento, solo per chi lo ha attivato con SETA."
+  "Sfalci: servizio a pagamento da attivare con il Numero Verde SETA 800.401692. Nell’app compaiono solo con «Ho l’abbonamento agli sfalci» attivo."
  ],
  "raccolte": {
   "2026-03-04": [
@@ -779,5 +779,8 @@
    "tipo": "annullato",
    "raccolta": "organico"
   }
+ ],
+ "a_pagamento": [
+  "sfalci"
  ]
 }

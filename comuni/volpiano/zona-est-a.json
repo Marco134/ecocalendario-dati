@@ -10,8 +10,8 @@
  "esposizione_entro": "06:00",
  "fonte": "Ecocalendario SETA (ECOCALENDARIO-2026_Volpiano_zona-EST.pdf)",
  "note": [
-  "Sfalci: servizio a pagamento, solo per chi lo ha attivato con SETA.",
-  "Le sottozone A/B valgono solo per l'indifferenziato: cerca la tua via su www.setaspa.com, sezione Comuni."
+  "Le sottozone A/B valgono solo per l'indifferenziato: cerca la tua via su www.setaspa.com, sezione Comuni.",
+  "Sfalci: servizio a pagamento da attivare con il Numero Verde SETA 800.401692. Nell’app compaiono solo con «Ho l’abbonamento agli sfalci» attivo."
  ],
  "raccolte": {
   "2026-03-03": [
@@ -651,5 +651,8 @@
    "tipo": "annullato",
    "raccolta": "organico"
   }
+ ],
+ "a_pagamento": [
+  "sfalci"
  ]
 }

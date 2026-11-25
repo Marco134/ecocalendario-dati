@@ -67,7 +67,11 @@ def zona(p, c):
         ultima = max(dt.date.fromisoformat(k) for k in r)
         if (al - ultima).days > 21:
             avv(f'{p}: ultima raccolta {ultima} molto prima di valido_al {al}')
-    if r and 'sfalci' in {t for v in r.values() for t in v} and 'abbonament' in json.dumps(d, ensure_ascii=False).lower():
+    pagamento = d.get('a_pagamento', [])
+    if not isinstance(pagamento, list) or any(t not in TIPI for t in pagamento):
+        err(f'{p}: a_pagamento deve essere un elenco di tipi di raccolta')
+    # sfalci a pagamento ammessi solo se marcati: nell'app compaiono solo a chi attiva l'abbonamento
+    if r and 'sfalci' in {t for v in r.values() for t in v} and 'sfalci' not in pagamento and 'abbonament' in json.dumps(d, ensure_ascii=False).lower():
         avv(f'{p}: sfalci presenti ma il testo parla di abbonamento')
 
 
