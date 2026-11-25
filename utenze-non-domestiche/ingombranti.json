@@ -745,6 +745,56 @@
    "regole_en": [
     "Check business bulky waste eligibility, allowed quantities and any fees with the operator."
    ]
+  },
+  {
+   "id": "val-cavallina-servizi-und",
+   "nome": "Val Cavallina Servizi · UND",
+   "gestori": [],
+   "comuni": [
+    "berzo-san-fermo",
+    "bianzano",
+    "bossico",
+    "casazza",
+    "castro",
+    "cenate-sopra",
+    "chignolo-disola",
+    "costa-volpino",
+    "endine-gaiano",
+    "fonteno",
+    "gaverina-terme",
+    "grone",
+    "lovere",
+    "monasterolo-del-castello",
+    "peia",
+    "pianico",
+    "piazza-brembana",
+    "ranzanico",
+    "riva-di-solto",
+    "rogno",
+    "rota-dimagna",
+    "san-giovanni-bianco",
+    "san-pellegrino-terme",
+    "scanzorosciate",
+    "solto-collina",
+    "sorisole",
+    "sovere",
+    "spinone-al-lago",
+    "strozza",
+    "terno-disola",
+    "trescore-balneario"
+   ],
+   "telefono": "800 401 106",
+   "prenotazione": false,
+   "prenota_url": "https://www.vcsonline.it/ritiro-ingombranti/",
+   "fonte": "https://www.vcsonline.it/ritiro-ingombranti/ | https://www.vcsonline.it/regolamento-accesso-ai-centri-di-raccolta/",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Verificare con il gestore se il servizio di ritiro è disponibile per l’attività. Il modulo generale indica un massimo di due colli.",
+    "Per il conferimento al centro valgono i requisiti locali di accesso, provenienza e tipologia del rifiuto urbano."
+   ],
+   "regole_en": [
+    "Ask whether bulky waste pickup is available for your business. The general service form lists a limit of two items. Check recycling centre access and accepted waste before visiting."
+   ]
   }
  ]
 }

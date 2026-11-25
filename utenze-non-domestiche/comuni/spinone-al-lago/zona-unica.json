@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "comune": "Spinone al Lago",
+ "provincia": "BG",
+ "gestore": "Val Cavallina Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/calendario-raccolta-2026_SPINONE.pdf |  https://csc.dati.ckube.it/repository/get.aspx?file=Hjp855dJLLBBywpsYI8U9RevN3l5xO%2fkZjfFn9ZrgVLzQ4f9i5q%2bmLcT5ewbfLRKsYbMV8fyy0F4eF15Rg55qQ%3d%3d",
+ "note": [
+  "Vetro e lattine insieme secondo il calendario del gestore.",
+  "Valido per le utenze non domestiche servite dal gestore pubblico. Per grandi quantità, attrezzature, servizi extra o rifiuti speciali verificare le condizioni con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "vetro"
+  ],
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "vetro"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ }
+}

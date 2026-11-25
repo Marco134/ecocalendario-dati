@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "nome": "Val Cavallina Servizi · materiali UND",
+ "fonte": "https://www.vcsonline.it/faq/ | https://www.vcsonline.it/rifiuto/vetro-e-lattine/ | https://www.vcsonline.it/rifiuto/carta-e-cartone/ | https://www.vcsonline.it/regolamento-accesso-ai-centri-di-raccolta/",
+ "tipi": {},
+ "voci": {
+  "cartone pulito": {
+   "dove": "carta",
+   "nota": "Piegare oppure legare il cartone. Esporre nel contenitore previsto dal calendario del comune."
+  },
+  "scatole di cartone": {
+   "dove": "carta",
+   "nota": "Piegare e ridurre il volume. Verificare la dotazione per grandi quantità."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Togliere eventuali involucri di plastica e usare la raccolta carta."
+  },
+  "lattine": {
+   "dove": "vetro",
+   "nota": "Conferire con il vetro secondo il calendario del comune."
+  },
+  "barattoli di latta": {
+   "dove": "vetro",
+   "nota": "Conferire vuoti e puliti nella raccolta vetro e lattine."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Usare il contenitore rigido per vetro e lattine indicato dal Comune."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare prima del conferimento con il vetro e le lattine."
+  },
+  "imballaggi di plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare dai residui. Usare la dotazione indicata per il proprio comune."
+  },
+  "bottiglie in plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare e ridurre il volume degli imballaggi."
+  },
+  "vaschette in plastica per alimenti": {
+   "dove": "plastica",
+   "nota": "Svuotare dai residui e conferire con gli imballaggi."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Conferire con il servizio organico assegnato all’attività."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare la dotazione prevista per l’organico."
+  },
+  "gusci d’uovo": {
+   "dove": "organico",
+   "nota": "Conferire insieme agli altri scarti alimentari."
+  },
+  "secco residuo": {
+   "dove": "indifferenziato",
+   "nota": "Usare il sacco o contenitore assegnato dal Comune all’attività."
+  },
+  "ingombranti": {
+   "dove": "varia",
+   "nota": "Chiedere al gestore se il centro o il servizio a domicilio accettano il rifiuto dell’attività."
+  },
+  "sfalci e potature": {
+   "dove": "varia",
+   "nota": "Chiedere al centro le condizioni per il verde. I rifiuti delle lavorazioni professionali seguono la gestione prevista per il produttore."
+  },
+  "rifiuti elettronici": {
+   "dove": "varia",
+   "nota": "Verificare la categoria RAEE e i requisiti del centro prima di conferire."
+  }
+ }
+}

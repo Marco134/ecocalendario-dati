@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "comune": "Trescore Balneario",
+ "provincia": "BG",
+ "gestore": "Val Cavallina Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 06:00. Per l’orario serale il PDF riporta 19:00 e 20:00 e il gestore indica 20:00–20:30. Verificare con il gestore.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/cal2026_TRESCOREVERTICALE_versLINGUE-1.pdf | https://www.vcsonline.it/comuni/trescore-balneario/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzOucpiIUHStNTBvxw57hnHUkEcs3vf6LeDxtNJmT80OvgnHY884d7ziQA23Gtxg0xREMqk9zf7ub0KO93p71Ib8mQ4nndDpJ%2f78Zk9T%2bsQB%2fmzSyri8qD6",
+ "note": [
+  "Vetro e lattine insieme secondo il calendario del gestore.",
+  "Per l’esposizione il PDF riporta due orari serali diversi. Scadenza confermata alle 06:00. Verificare l’orario estivo del centro.",
+  "Valido per le utenze non domestiche servite dal gestore pubblico. Per grandi quantità, attrezzature, servizi extra o rifiuti speciali verificare le condizioni con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "vetro",
+   "plastica"
+  ]
+ }
+}

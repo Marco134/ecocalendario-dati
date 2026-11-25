@@ -41,3 +41,7 @@ Calendari fino al 31 dicembre 2026. La carta a Fano, Mondavio, Montefelcino e Sa
 ## Servizi Comunali · Lombardia
 
 Le Carte del servizio confermano il porta a porta ordinario per le attività. Calendari 2026 per Martinengo, Paratico e Sedrina. A Zogno la scheda rimanda al gestore per l’applicabilità del calendario al singolo indirizzo. Gli ingombranti e le dotazioni extra seguono le condizioni comunali. [Schede del gestore](https://www.servizicomunali.it/comuni-serviti/)
+
+## Val Cavallina Servizi
+
+Le Carte locali confermano il calendario ordinario per 31 comuni e 33 zone fino al 31 dicembre 2026. Le attività devono verificare tessera, documenti e rifiuti ammessi prima di accedere al centro; per i ritiri extra chiedere al gestore. [Centri di raccolta](https://www.vcsonline.it/regolamento-accesso-ai-centri-di-raccolta/)

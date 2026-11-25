@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "comune": "Castro",
+ "provincia": "BG",
+ "gestore": "Val Cavallina Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.vcsonline.it/wp-content/uploads/2026/01/calendario-raccolta-2026_CASTRO.pdf |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpw%2bSdTGoCoixV29KXAyg%2bJ%2bQM2F7nwj8KhMV%2bi%2femohRm2pZ%2f96sOnXnuqYgCUt6vnwrasbQkYCcHh4XXlGDnmp",
+ "note": [
+  "Vetro e lattine insieme secondo il calendario del gestore.",
+  "Valido per le utenze non domestiche servite dal gestore pubblico. Per grandi quantità, attrezzature, servizi extra o rifiuti speciali verificare le condizioni con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ]
+ }
+}

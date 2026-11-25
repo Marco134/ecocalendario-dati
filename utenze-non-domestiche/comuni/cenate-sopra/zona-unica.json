@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "comune": "Cenate Sopra",
+ "provincia": "BG",
+ "gestore": "Val Cavallina Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/calendario-raccolta-2026_CENATE-SOPRA_REV.1.pdf |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpwBtRef8wzFlwHlZpB4aeDxSQlKeMRnU7PlqPnLEpOXr5MLJN5C9wMGTpNewx4UYmfJzQAjC969Zg%3d%3d",
+ "note": [
+  "Vetro e lattine insieme secondo il calendario del gestore.",
+  "Valido per le utenze non domestiche servite dal gestore pubblico. Per grandi quantità, attrezzature, servizi extra o rifiuti speciali verificare le condizioni con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "vetro"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "vetro"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ }
+}

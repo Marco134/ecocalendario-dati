@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "comune": "Pianico",
+ "provincia": "BG",
+ "gestore": "Val Cavallina Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/calendario-raccolta-2026_PIANICO_REV4.pdf |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsHXG64g4EzMy0AVQSvhtdnicjCHl%2fznKM3hPoVg6UYMC7aNZf%2bXrAcUy32IvY8b3aAGQDvY5BBnVhOwBtU5zn%2bGCsR75JImGljClWrd8B7BlaObcwW%2fTXMq",
+ "note": [
+  "Vetro e lattine insieme secondo il calendario del gestore.",
+  "Valido per le utenze non domestiche servite dal gestore pubblico. Per grandi quantità, attrezzature, servizi extra o rifiuti speciali verificare le condizioni con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "vetro"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "vetro"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico"
+  ]
+ }
+}

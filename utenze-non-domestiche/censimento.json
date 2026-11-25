@@ -8557,245 +8557,350 @@
    "nome": "Berzo San Fermo",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/berzo-san-fermo/ |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsFgA5h%2f2NtUGjQE3fb9PQ2vRRGa5h%2bH8ejYZeEorC8Al3urvO6cPojoIM8TNcSfXlO3lhF5vhsF%2bQ%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "bianzano",
    "nome": "Bianzano",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/bianzano/ |  https://csc.dati.ckube.it/repository/get.aspx?file=ciqP6qOi8phdZmbCStpFOJLXnubJLaT1jy44kYJKGM6mV6DJnD4QhGmbAYnLjKLD3NZen1WJ52c%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "borgo-di-terzo",
    "nome": "Borgo di Terzo",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.vcsonline.it/comuni/borgo-di-terzo/",
+   "verificato": "2026-11-25",
+   "nota": "La scheda pubblica il calendario comunale e il centro di Vigano. Da reperire una fonte che confermi i turni UND. Il portale TARI ha restituito 403."
   },
   {
    "id": "bossico",
    "nome": "Bossico",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/bossico/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpw%2bz3zEXyl6FUJiv9h4drLzYl1Vq%2bElsv79DAOsZAanjBx7s7C0SBA1yc0AIwvevWY%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "casazza",
    "nome": "Casazza",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/casazza/ |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsHXG64g4EzMy0AVQSvhtdni97iZa8jKm36SHe80LDgOkXwMMgYRmdK0kLIiqZo2ort4eF15Rg55qQ%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "castro",
    "nome": "Castro",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/castro/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpw%2bSdTGoCoixV29KXAyg%2bJ%2bQM2F7nwj8KhMV%2bi%2femohRm2pZ%2f96sOnXnuqYgCUt6vnwrasbQkYCcHh4XXlGDnmp",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "cenate-sopra",
    "nome": "Cenate Sopra",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/cenate-sopra/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpwBtRef8wzFlwHlZpB4aeDxSQlKeMRnU7PlqPnLEpOXr5MLJN5C9wMGTpNewx4UYmfJzQAjC969Zg%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "chignolo-disola",
    "nome": "Chignolo d'Isola",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/chignolo-disola/ |  https://csc.dati.ckube.it/repository/get.aspx?file=phwcn%2fH%2fd19okFjLbALJDhEoGKf5pd64RJRe4418t%2b3XPyyGMIQHhP9log5IoByzyc0AIwvevWY%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "costa-volpino",
    "nome": "Costa Volpino",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/costa-volpino/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpygAWbWoY0rj5hUqztfKsk3kEjFEWnhutFeA6gCVOTkBrHtI6mwIZLA2z2ctZTNWROnuZ3woHGFlQ%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "endine-gaiano",
    "nome": "Endine Gaiano",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/endine-gaiano/ |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsHVf6PwnDuE2OTbY23Ti80Yu3ypaE4HhFr90FG8VBGVwCrlKsNe3FoSRvQWbDRxvd9dbCcHacEH%2bw3tkGRWqoIvcTwIj7VOe8QJ%2fAaZpdl66s8409%2fnUx8G",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "entratico",
    "nome": "Entratico",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.vcsonline.it/comuni/entratico/",
+   "verificato": "2026-11-25",
+   "nota": "Il collegamento alla Carta nella trasparenza del gestore apre un documento intestato a Endine Gaiano. Da recuperare la Carta di Entratico o un programma UND esplicito."
   },
   {
    "id": "fonteno",
    "nome": "Fonteno",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/fonteno/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpy%2b7GCcnCY5YvGc%2fMACrFsct5YReb4bBfk%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "gaverina-terme",
    "nome": "Gaverina Terme",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/gaverina-terme/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpy%2b7GCcnCY5YgUSVeBONY2NFhELmwVPGJdTdTPCd5x0b%2fH2Y%2fPK2kalZAJdN8Mg9KXUKBGsQ4gMt46ruLVKJpxLt5YReb4bBfk%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "grone",
    "nome": "Grone",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/grone/ |  https://csc.dati.ckube.it/repository/get.aspx?file=Hjp855dJLLDfks3ZE5ynhcaqzeij5J6y7U0u2hpliDkBmAxSNBOSgoV1K0sKB0Nmyc0AIwvevWY%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "lovere",
    "nome": "Lovere",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/lovere/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzbZ4N8oqEPvDQoAvz4gPa1Ndt7uMrMXySn4lChzSITLYrd7q0q6MQEiFW56CskQgm7HDQf7J8uAXG6a%2bs3%2fyd1",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "luzzana",
    "nome": "Luzzana",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.vcsonline.it/comuni/luzzana/",
+   "verificato": "2026-11-25",
+   "nota": "Il collegamento alla Carta nella trasparenza del gestore apre un documento intestato a Trescore Balneario. Da recuperare la Carta di Luzzana o un programma UND esplicito."
   },
   {
    "id": "monasterolo-del-castello",
    "nome": "Monasterolo del Castello",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/monasterolo-del-castello/ |  https://csc.dati.ckube.it/repository/get.aspx?file=Hjp855dJLLBBywpsYI8U9RevN3l5xO%2fkZjfFn9ZrgVLT92bsVWYopYvF6TjJZgTab6%2fLtQvdMXPYMffSG%2bkl73h4XXlGDnmp",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "peia",
    "nome": "Peia",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/peia/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpx3yZH9ycZNf0xX6L96aiFGiteqVpcITXRRyHEkFicRQd8xqeMhI0XLLq4rLNou%2frUTQ6mZKJY8S3h4XXlGDnmp",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "pianico",
    "nome": "Pianico",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/pianico/ |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsHXG64g4EzMy0AVQSvhtdnicjCHl%2fznKM3hPoVg6UYMC7aNZf%2bXrAcUy32IvY8b3aAGQDvY5BBnVhOwBtU5zn%2bGCsR75JImGljClWrd8B7BlaObcwW%2fTXMq",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "piazza-brembana",
    "nome": "Piazza Brembana",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/piazza-brembana/ | https://www.comune.piazzabrembana.bg.it/export/sites/default/.galleries/documenti/eventi-news/CARTA-DEI-SERVIZI.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "ranzanico",
    "nome": "Ranzanico",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/ranzanico/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpwX2C5cREZVqIiBOnUxfll%2biCR8GExBrEnkKgxqHLj9kUNCngy4HMEaQmK%2f2Hh2svPSPSIHiTJaPB4GTUhgHuPcxJeb3slHW9rJzQAjC969Zg%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "riva-di-solto",
    "nome": "Riva di Solto",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/riva-di-solto/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzbZ4N8oqEPvExX6L96aiFGswDBo9aPHoq%2blhnsAy%2b0NzxtCZMfz1Bo",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "rogno",
    "nome": "Rogno",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/rogno/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzx%2b24HbC227PGc%2fMACrFscre89z1feVx7iBXmqyoXeSMnNACML3r1m",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "san-giovanni-bianco",
    "nome": "San Giovanni Bianco",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/san-giovanni-bianco/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzGY5X4LsF4SJ1MRA%2bbRKp0URDKpPc3%2b7m9PAY264VIz0X52AWoGBncTKKEIoGR0KE%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "scanzorosciate",
    "nome": "Scanzorosciate",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/scanzorosciate/ |  https://csc.dati.ckube.it/repository/get.aspx?file=xUGsncmkT%2f9ZuLqU05K%2bhVHFf0IJpcbf8C0p%2fe45wC33ecprZm1Hw57B71OdVTHMOz9r0L6IaRuQsiKpmjaiu3h4XXlGDnmp",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "solto-collina",
    "nome": "Solto Collina",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/solto-collina/ |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsFkldUcSalRSfGc%2fMACrFscKPt0G5L0Jd%2b1O2ATp8DGKcnNACML3r1m",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "spinone-al-lago",
    "nome": "Spinone al Lago",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/spinone-al-lago/ |  https://csc.dati.ckube.it/repository/get.aspx?file=Hjp855dJLLBBywpsYI8U9RevN3l5xO%2fkZjfFn9ZrgVLzQ4f9i5q%2bmLcT5ewbfLRKsYbMV8fyy0F4eF15Rg55qQ%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "sovere",
    "nome": "Sovere",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/sovere/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpy1cn5kB3iqg1cFaBJ3580GAziOD6g1DzafwpfIQyJsjE6cAgK45xhE8K2rG0JGAnB4eF15Rg55qQ%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "strozza",
    "nome": "Strozza",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/strozza/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzbZ4N8oqEPvExX6L96aiFGiS2CH6MSUF3qbiQP%2bWDeqw%3d%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "terno-disola",
    "nome": "Terno d'Isola",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/terno-disola/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpxhftLjAfER3HqLx6ypJjjI3dMlsfQIZg75mh0Cbxcn1Y%2bHBZdKxm%2freHhdeUYOeak%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "vigano-san-martino",
    "nome": "Vigano San Martino",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.vcsonline.it/comuni/vigano-san-martino/",
+   "verificato": "2026-11-25",
+   "nota": "Il gestore pubblica il calendario comunale. Da reperire una fonte che ne confermi l’applicabilità alle UND. Il portale TARI ha restituito 403."
   },
   {
    "id": "rota-dimagna",
    "nome": "Rota d'Imagna",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/rota-dimagna/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzx%2b24HbC227FcFaBJ3580Gg0i7QaQIVkFteBizHmv1JhyMU2wyvjTJ",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "san-pellegrino-terme",
    "nome": "San Pellegrino Terme",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/san-pellegrino-terme/ |  https://csc.dati.ckube.it/repository/get.aspx?file=m931Gju7BsHVf6PwnDuE2BEoGKf5pd64RYwmxzy%2fBDiOWHGs9Famm8WVyNSp3FixkM4%2btl0F5lQ%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "sorisole",
    "nome": "Sorisole",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/sorisole/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpwMfNwBf2geexWW9SYzePjZdOGBu9uk4PWFij9wO0yX2ywt8Uf7r4wtyN1lVwWs8so%3d",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "trescore-balneario",
    "nome": "Trescore Balneario",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.vcsonline.it/comuni/trescore-balneario/ |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzOucpiIUHStNTBvxw57hnHUkEcs3vf6LeDxtNJmT80OvgnHY884d7ziQA23Gtxg0xREMqk9zf7ub0KO93p71Ib8mQ4nndDpJ%2f78Zk9T%2bsQB%2fmzSyri8qD6",
+   "verificato": "2026-11-25",
+   "nota": "Date del porta a porta ordinario per le attività fino al 31 dicembre 2026. Rinnovo 2027, servizi extra e condizioni locali dei centri da verificare."
   },
   {
    "id": "torre-boldone",

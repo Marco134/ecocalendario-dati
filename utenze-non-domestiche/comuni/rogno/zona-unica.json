@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "comune": "Rogno",
+ "provincia": "BG",
+ "gestore": "Val Cavallina Servizi",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 20:00 della sera precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.vcsonline.it/wp-content/uploads/2025/12/calendario-raccolta-2026_ROGNO_REV.1.pdf |  https://csc.dati.ckube.it/repository/get.aspx?file=bslii%2botdpzx%2b24HbC227PGc%2fMACrFscre89z1feVx7iBXmqyoXeSMnNACML3r1m",
+ "note": [
+  "Vetro e lattine insieme secondo il calendario del gestore.",
+  "Valido per le utenze non domestiche servite dal gestore pubblico. Per grandi quantità, attrezzature, servizi extra o rifiuti speciali verificare le condizioni con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "vetro",
+   "organico"
+  ],
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "plastica"
+  ]
+ }
+}
