@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "comune": "Colli al Metauro",
+ "provincia": "PU",
+ "gestore": "ASET",
+ "zona": "Zona arancio · a monte della Flaminia",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/aset_ecocalendario_colli_al_metauro_2026.pdf",
+ "raccolte": {
+  "2026-11-25": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-27": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico",
+   "lattine"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-25": [
+   "plastica",
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Per identificare la via o la frazione, usare la cartina ufficiale del gestore.",
+  "Le vie bianche della cartina espongono sulla via colorata più vicina, seguendo le indicazioni ASET.",
+  "Il calendario base vale anche per le attività. I turni indicati si effettuano anche nei festivi.",
+  "Ritiri aggiuntivi su richiesta e approvazione in zona arancio. Organico lunedì e giovedì, secco e plastica martedì, carta giovedì, vetro mercoledì.",
+  "Per gli eventuali ritiri aggiuntivi del cartone l’operatore comunica il giorno."
+ ],
+ "esposizione": "Esporre entro le 06:00 presso il proprio civico.",
+ "esposizione_entro": "06:00"
+}

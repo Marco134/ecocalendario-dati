@@ -1,0 +1,24 @@
+{
+ "schema": 1,
+ "comune": "Fano",
+ "provincia": "PU",
+ "gestore": "ASET",
+ "zona": "Carta · Bellocchi",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/Calendario-Carta-UND-FANO-2026-rev.00.pdf",
+ "raccolte": {
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Calendario della carta per le attività che hanno richiesto il servizio e hanno il contenitore assegnato. Per gli altri rifiuti verificare il servizio previsto per l’indirizzo al numero 800 997 474.",
+  "La raccolta dell’8 dicembre è recuperata mercoledì 9 dicembre."
+ ],
+ "esposizione": "Esporre entro le 06:00 presso il proprio numero civico.",
+ "esposizione_entro": "06:00"
+}

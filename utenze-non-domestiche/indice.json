@@ -353,6 +353,30 @@
    ]
   },
   {
+   "id": "cartoceto",
+   "nome": "Cartoceto",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.765663,
+   "lon": 12.883458,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-zona-rosa",
+     "nome": "Carta · zona rosa, Cartoceto",
+     "file": "comuni/cartoceto/zona-carta-zona-rosa.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-zona-verde",
+     "nome": "Carta · zona verde, Lucrezia",
+     "file": "comuni/cartoceto/zona-carta-zona-verde.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "castel-giorgio",
    "nome": "Castel Giorgio",
    "provincia": "TR",
@@ -459,6 +483,30 @@
    ]
   },
   {
+   "id": "colli-al-metauro",
+   "nome": "Colli al Metauro",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.742315,
+   "lon": 12.908919,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "zona-arancio-a-monte-della-flaminia",
+     "nome": "Zona arancio · a monte della Flaminia",
+     "file": "comuni/colli-al-metauro/zona-zona-arancio-a-monte-della-flaminia.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-azzurra-a-valle-della-flaminia-inclusa",
+     "nome": "Zona azzurra · a valle della Flaminia, inclusa",
+     "file": "comuni/colli-al-metauro/zona-zona-azzurra-a-valle-della-flaminia-inclusa.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "collinas",
    "nome": "Collinas",
    "provincia": "VS",
@@ -536,6 +584,66 @@
      "id": "servizi-attivita",
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/fagnano-alto/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "fano",
+   "nome": "Fano",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.842417,
+   "lon": 13.014663,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-bellocchi",
+     "nome": "Carta · Bellocchi",
+     "file": "comuni/fano/zona-carta-bellocchi.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-centro-storico-enti-autorizzati",
+     "nome": "Carta · Centro storico, enti e istituti autorizzati",
+     "file": "comuni/fano/zona-carta-centro-storico-enti-autorizzati.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-don-gentili-ospedale-san-lazzaro-ex-caserma-aeroporto-tre-ponti",
+     "nome": "Carta · Don Gentili, Ospedale, San Lazzaro, Ex Caserma, Aeroporto e Tre Ponti",
+     "file": "comuni/fano/zona-carta-don-gentili-ospedale-san-lazzaro-ex-caserma-aeroporto-tre-ponti.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-flaminio-san-cristoforo",
+     "nome": "Carta · Flaminio e San Cristoforo",
+     "file": "comuni/fano/zona-carta-flaminio-san-cristoforo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-lido-sassonia-baia-metauro",
+     "nome": "Carta · Lido, Sassonia e Baia Metauro",
+     "file": "comuni/fano/zona-carta-lido-sassonia-baia-metauro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-metaurilia",
+     "nome": "Carta · Metaurilia",
+     "file": "comuni/fano/zona-carta-metaurilia.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-trave-poderino-paleotta-gimarra",
+     "nome": "Carta · Trave, Poderino, Paleotta e Gimarra",
+     "file": "comuni/fano/zona-carta-trave-poderino-paleotta-gimarra.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-vallato-santorso-carrara-cuccurano-rosciano-centinarola-fenile",
+     "nome": "Carta · Vallato, S. Orso, Carrara, Cuccurano, Rosciano, Centinarola e Fenile",
+     "file": "comuni/fano/zona-carta-vallato-santorso-carrara-cuccurano-rosciano-centinarola-fenile.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -795,6 +903,30 @@
    ]
   },
   {
+   "id": "isola-del-piano",
+   "nome": "Isola del Piano",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.737761,
+   "lon": 12.784057,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-zona-1",
+     "nome": "Carta · zona 1, paese, SP48 e strada del Piano",
+     "file": "comuni/isola-del-piano/zona-carta-zona-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carta-zona-2",
+     "nome": "Carta · zona 2, strada delle Valli e via Monte Tomba fino al civico 24",
+     "file": "comuni/isola-del-piano/zona-carta-zona-2.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "laquila",
    "nome": "L'Aquila",
    "provincia": "AQ",
@@ -978,6 +1110,24 @@
    ]
   },
   {
+   "id": "mondavio",
+   "nome": "Mondavio",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.674205,
+   "lon": 12.968771,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-attivita",
+     "nome": "Carta · attività con servizio attivato",
+     "file": "comuni/mondavio/zona-carta-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "montecastrilli",
    "nome": "Montecastrilli",
    "provincia": "TR",
@@ -1007,6 +1157,24 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/montecchio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "montefelcino",
+   "nome": "Montefelcino",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.734761,
+   "lon": 12.833958,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-attivita",
+     "nome": "Carta · attività con servizio attivato",
+     "file": "comuni/montefelcino/zona-carta-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1200,6 +1368,24 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/penna-in-teverina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pergola",
+   "nome": "Pergola",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und-pergola",
+   "lat": 43.56321,
+   "lon": 12.836317,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "centro-storico-e-bronzi",
+     "nome": "Centro storico e Bronzi",
+     "file": "comuni/pergola/zona-centro-storico-e-bronzi.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1474,6 +1660,24 @@
      "id": "servizi-attivita",
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/san-pio-delle-camere/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "santippolito",
+   "nome": "Sant'Ippolito",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.685715,
+   "lon": 12.871689,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-attivita",
+     "nome": "Carta · attività con servizio attivato",
+     "file": "comuni/santippolito/zona-carta-attivita.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -2059,6 +2263,18 @@
    "gestore": "ASM L’Aquila",
    "ecocentri": "ecocentri/asm-und-montereale.json",
    "regole": "regole/asm-aquila.json"
+  },
+  "aset-und": {
+   "nome": "ASET · UND",
+   "gestore": "ASET",
+   "ecocentri": "ecocentri/aset-und.json",
+   "regole": "regole/aset.json"
+  },
+  "aset-und-pergola": {
+   "nome": "ASET · Pergola UND",
+   "gestore": "ASET",
+   "ecocentri": "ecocentri/aset-und-pergola.json",
+   "regole": "regole/aset.json"
   }
  }
 }

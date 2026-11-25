@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "comune": "Cartoceto",
+ "provincia": "PU",
+ "gestore": "ASET",
+ "zona": "Carta · zona verde, Lucrezia",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-pap-cartoceto-2026-rev-00_compressed.pdf",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il PDF della carta vale per famiglie e attività. Controllare la mappa sul retro. Per le altre frazioni verificare il programma UND con ASET.",
+  "Il turno del 25 dicembre è spostato a mercoledì 23 dicembre."
+ ],
+ "esposizione": "Esporre entro le 13:00 presso il proprio numero civico.",
+ "esposizione_entro": "13:00"
+}

@@ -636,6 +636,35 @@
    "regole_en": [
     "Ask ASM whether your agreement accepts bulky business waste. Its standard business limit is zero. The published home collection programme is for older or disabled residents."
    ]
+  },
+  {
+   "id": "aset-und",
+   "nome": "ASET · UND",
+   "comuni": [
+    "cartoceto",
+    "colli-al-metauro",
+    "fano",
+    "isola-del-piano",
+    "mondavio",
+    "montefelcino",
+    "pergola",
+    "santippolito"
+   ],
+   "gestori": [],
+   "telefono": "800 997 474",
+   "orari": "Lun–ven 08:00–20:00, sab 08:00–13:00",
+   "prenotazione": true,
+   "prenota_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/raccolta-rifiuti-ingombranti/",
+   "fonte": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/raccolta-rifiuti-ingombranti/ | https://www.asetservizi.it/wp-content/uploads/2026/10/Allegato-5-Disciplinare-ingombranti-rev-02-del-16.06.2026.pdf",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Il disciplinare riserva il servizio alle utenze TARI in regola nei comuni ASET. Chiedere quali ingombranti sono ammessi per la propria attività e il costo applicabile.",
+    "Per le utenze ammesse al ritiro ordinario il limite è 6 pezzi e 2 m³. Il disciplinare indica tre appuntamenti per gli ingombranti e tre per il verde all’anno, separati e distanziati di quattro mesi per tipologia.",
+    "Il produttore deve avviare i rifiuti speciali derivanti da lavorazioni professionali tramite soggetti e impianti autorizzati."
+   ],
+   "regole_en": [
+    "Ask ASET what business bulky waste is eligible, whether a fee is due and what limits apply. Businesses must arrange authorised treatment for their special waste."
+   ]
   }
  ]
 }

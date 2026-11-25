@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "comune": "Sant'Ippolito",
+ "provincia": "PU",
+ "gestore": "ASET",
+ "zona": "Carta · attività con servizio attivato",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-und-sant_ippolito-2026-rev-00.pdf",
+ "raccolte": {
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Calendario della carta per le attività che hanno richiesto il servizio e hanno il contenitore assegnato. Per gli altri rifiuti verificare il servizio previsto per l’indirizzo al numero 800 997 474."
+ ],
+ "esposizione": "Esporre entro le 06:30 presso il proprio numero civico.",
+ "esposizione_entro": "06:30"
+}

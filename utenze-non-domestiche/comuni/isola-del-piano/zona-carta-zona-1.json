@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "comune": "Isola del Piano",
+ "provincia": "PU",
+ "gestore": "ASET",
+ "zona": "Carta · zona 1, paese, SP48 e strada del Piano",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-pap-isola-del-piano-2026-rev-00.pdf",
+ "raccolte": {
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il PDF della carta vale per famiglie e attività. Controllare la mappa sul retro. Per le altre frazioni verificare il programma UND con ASET."
+ ],
+ "esposizione": "Esporre entro le 06:00 presso il proprio numero civico.",
+ "esposizione_entro": "06:00"
+}

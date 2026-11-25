@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "nome": "ASET · regole per le attività",
+ "fonte": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/come-butta-campagna-per-la-raccolta-differenziata-2026/ | https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/ | https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/centro-raccolta-differenziata/",
+ "tipi": {},
+ "voci": {
+  "scarti di frutta e verdura": {
+   "dove": "organico",
+   "nota": "Usare la dotazione per organico assegnata all’attività."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Conferire nel servizio organico assegnato all’attività."
+  },
+  "carta sporca di cibo": {
+   "dove": "organico",
+   "nota": "Usare le modalità comunali per l’organico."
+  },
+  "sacchetti compostabili certificati": {
+   "dove": "organico",
+   "nota": "Controllare la certificazione di compostabilità."
+  },
+  "scatole di cartone": {
+   "dove": "carta",
+   "nota": "Piegare gli scatoloni e usare il turno della propria attività o il ritiro cartone concordato."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Separare eventuali involucri di plastica."
+  },
+  "bottiglie in plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare e ridurre il volume."
+  },
+  "vaschette in plastica per alimenti": {
+   "dove": "plastica",
+   "nota": "Svuotare dai residui."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare e usare il servizio vetro previsto per la zona."
+  },
+  "lattine": {
+   "dove": "varia",
+   "nota": "Sono imballaggi metallici. A Pergola centro e Bronzi i metalli hanno un turno separato. Consultare le istruzioni del proprio comune."
+  },
+  "tetrapak": {
+   "dove": "varia",
+   "nota": "La guida ASET 2026 indica plastica. Alcune schede di zona indicano carta. Chiedere ad ASET quale regola applicare all’indirizzo."
+  },
+  "cartoni per bevande": {
+   "dove": "varia",
+   "nota": "La guida ASET 2026 indica plastica. Alcune schede di zona indicano carta. Chiedere ad ASET quale regola applicare all’indirizzo."
+  },
+  "olio vegetale esausto": {
+   "dove": "varia",
+   "nota": "Per l’olio da cucina verificare contenitore dedicato e convenzione del centro. L’olio minerale segue regole distinte."
+  },
+  "mobili ingombranti": {
+   "dove": "varia",
+   "nota": "Chiedere ad ASET se l’attività può usare il ritiro a domicilio o il centro convenzionato."
+  },
+  "frigoriferi": {
+   "dove": "varia",
+   "nota": "Svuotare prima della consegna. Verificare regole RAEE, convenzione e documentazione."
+  },
+  "caldaie": {
+   "dove": "varia",
+   "nota": "Il centro accetta caldaie conferite da ditte autorizzate e convenzionate."
+  },
+  "condizionatori fissi": {
+   "dove": "varia",
+   "nota": "Il centro accetta split e macchine conferiti da ditte autorizzate e convenzionate."
+  },
+  "rifiuti speciali da lavorazioni": {
+   "dove": "varia",
+   "nota": "Il produttore deve avviarli a recupero o smaltimento tramite soggetti e impianti autorizzati."
+  }
+ }
+}

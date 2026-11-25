@@ -33,3 +33,7 @@ I calendari dei 13 comuni e 56 zone valgono per le attività con dotazione stand
 ## ASM L’Aquila
 
 Per dieci comuni sono pubblicate le schede dei servizi per le attività, con riferimenti ai centri, alle convenzioni e alle regole. Per giorni, recuperi e orari dei giri delle attività occorre verificare indirizzo e categoria con ASM. [Comuni soci e servizi](https://www.asmaq.it/comuni-soci)
+
+## ASET · Marche
+
+Calendari fino al 31 dicembre 2026. La carta a Fano, Mondavio, Montefelcino e Sant’Ippolito riguarda le attività con servizio attivato. I calendari carta di Cartoceto e Isola del Piano e il calendario base di Colli al Metauro valgono anche per le attività. A Pergola è disponibile il programma del centro storico e Bronzi con il turno UND dell’organico. Per accedere ai centri verificare convenzione, documentazione e rifiuti ammessi. [Calendari ASET](https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/) · [Centri](https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/centro-raccolta-differenziata/)

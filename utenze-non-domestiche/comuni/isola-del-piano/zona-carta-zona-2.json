@@ -1,0 +1,21 @@
+{
+ "schema": 1,
+ "comune": "Isola del Piano",
+ "provincia": "PU",
+ "gestore": "ASET",
+ "zona": "Carta · zona 2, strada delle Valli e via Monte Tomba fino al civico 24",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-pap-isola-del-piano-2026-rev-00.pdf",
+ "raccolte": {
+  "2026-12-09": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il PDF della carta vale per famiglie e attività. Controllare la mappa sul retro. Per le altre frazioni verificare il programma UND con ASET.",
+  "Il 9 dicembre è l’ultima data evidenziata per questa zona nel PDF 2026."
+ ],
+ "esposizione": "Esporre entro le 06:00 presso il proprio numero civico.",
+ "esposizione_entro": "06:00"
+}

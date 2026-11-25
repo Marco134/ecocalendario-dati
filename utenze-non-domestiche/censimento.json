@@ -7935,86 +7935,110 @@
    "nome": "Cartoceto",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-pap-cartoceto-2026-rev-00_compressed.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Carta 2026 per famiglie e attività in due zone. Da verificare gli altri turni UND e la vigenza dello schema 2020."
   },
   {
    "id": "isola-del-piano",
    "nome": "Isola del Piano",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-pap-isola-del-piano-2026-rev-00.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Carta 2026 per famiglie e attività in due zone. Da verificare gli altri turni UND e la vigenza dello schema 2024."
   },
   {
    "id": "monte-porzio",
    "nome": "Monte Porzio",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "calendario_settimanale_da_verificare",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ecocalendario-monte-porzio-revnov2020.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Lo schema pubblicato cita turni UND per l’organico e rinvia al domestico per le altre frazioni. Confermare validità, indirizzo e festivi."
   },
   {
    "id": "montefelcino",
    "nome": "Montefelcino",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-und-montefelcino-2026-rev-00.pdf",
    "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "nota": "Date della carta per attività con servizio attivato. Restano da verificare la vigenza degli schemi generali, le frazioni e i festivi."
   },
   {
    "id": "san-costanzo",
    "nome": "San Costanzo",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/s-costanzo.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Reperite indicazioni comunali per frazione. Da confermare calendario, zone e recuperi delle attività."
   },
   {
    "id": "santippolito",
    "nome": "Sant'Ippolito",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-und-sant_ippolito-2026-rev-00.pdf",
    "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "nota": "Date della carta per attività con servizio attivato. Restano da verificare vigenza dello schema UND 2020, altre frazioni e festivi."
   },
   {
    "id": "colli-al-metauro",
    "nome": "Colli al Metauro",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/aset_ecocalendario_colli_al_metauro_2026.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Calendario base per attività in entrambe le zone. Ritiri suppletivi su richiesta; turno cartone assegnato dall’operatore."
   },
   {
    "id": "fossombrone",
    "nome": "Fossombrone",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ASET-ecocalendario-Fossombrone-2026.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Reperito calendario generale 2026. Da confermare validità per le attività, zone, frazioni e recuperi."
   },
   {
    "id": "mondavio",
    "nome": "Mondavio",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/calendario-carta-und-mondavio-2026-rev-00.pdf",
    "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "nota": "Date della carta per attività con servizio attivato. Restano da verificare le altre frazioni e i loro festivi."
   },
   {
    "id": "pergola",
    "nome": "Pergola",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/aset_ecocalendario_pergola_2026_2.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Calendario UND del centro storico e Bronzi. Da verificare quattro zone restanti e servizi aggiuntivi."
   },
   {
    "id": "fano",
    "nome": "Fano",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/Calendario-Carta-UND-FANO-2026-rev.00.pdf",
+   "verificato": "2026-11-25",
+   "nota": "Carta in otto programmi abilitati. Restano da confermare altre frazioni, zone fuori programma e la vigenza dello schema ordinario del centro storico, rev. novembre 2020."
   },
   {
    "id": "asola",
