@@ -53,3 +53,7 @@ Per 73 comuni sono disponibili i turni ordinari delle attività fino al 31 genna
 ## Garda Uno
 
 Calendario base per Calcinato, Desenzano del Garda e Salò. A Manerbio sono pubblicati i due turni dell’organico dedicati alle grandi utenze. I 22 comuni con scheda riportano servizi e conferme locali. Le **voci ABC** riservate alle famiglie rimandano al canale per le attività. [ABC Garda Uno](https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/abc-dei-rifiuti) · [Accesso ai centri per le attività](https://www.gardauno.it/media/12723/depliant-cdr-2020-aziende.pdf)
+
+## Gelsia Ambiente
+
+Carate Brianza ha cinque frazioni ordinarie e tre zone confermate dal Comune per le attività. A Biassono sono disponibili carta e cartone, imballaggi in plastica e metallo e secco RFID per tre zone. Barlassina, Cogliate, Misinto, Nova Milanese e Triuggio hanno schede di servizio con turni e recuperi da confermare. Gli orari dei centri distinguono le attività e riportano le condizioni stagionali e mensili nelle note.

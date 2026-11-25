@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Gelsia Ambiente",
+ "numero_verde": "800 445 964",
+ "orari_numero_verde": "Lun–ven 08:30–18:00, sab 08:30–13:00",
+ "accesso": "Per le attività servono autorizzazione per la tipologia di rifiuto, formulario e iscrizione all’Albo Nazionale Gestori Ambientali, secondo le condizioni riportate dal gestore.",
+ "avviso": "Via della Longura 37, Misinto. Tessera per le attività. Chiuso nei festivi. Il prospetto indica chiusura domenicale per le attività. Verificare con il gestore se l’apertura straordinaria della prima domenica 08:30–12:00 ammette le attività.",
+ "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/misinto/ | https://www.gelsiambiente.it/servizi/piattaforme-ecologiche/ | https://www.gelsiambiente.it/wp-content/uploads/2026/05/Misinto_Nuova-guida-alla-raccolta-differenziata.pdf",
+ "centri": [
+  {
+   "id": "gelsia-und-misinto",
+   "tipo": "raccolta",
+   "comune": "Misinto",
+   "indirizzo": "Via della Longura 37, Misinto",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "lat": 45.6621,
+   "lon": 9.0655,
+   "avviso": "Tessera per le attività. Chiuso nei festivi. Il prospetto indica chiusura domenicale per le attività. Verificare con il gestore se l’apertura straordinaria della prima domenica 08:30–12:00 ammette le attività."
+  }
+ ]
+}

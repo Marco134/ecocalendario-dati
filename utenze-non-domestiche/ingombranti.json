@@ -938,6 +938,33 @@
    "regole_en": [
     "Check whether bulky waste pickup is available for your business category and which items, limits and fees apply. Recycling centre access depends on local rules."
    ]
+  },
+  {
+   "id": "gelsia-und",
+   "nome": "Gelsia Ambiente · UND",
+   "gestori": [],
+   "comuni": [
+    "barlassina",
+    "biassono",
+    "carate-brianza",
+    "cogliate",
+    "misinto",
+    "nova-milanese",
+    "triuggio"
+   ],
+   "telefono": "800 445 964",
+   "orari": "Lun–ven 08:30–18:00, sab 08:30–13:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.gelsiambiente.it/servizi/ritiro-ingombranti-e-grandi-raee/",
+   "verificato": "2026-11-25",
+   "regole": [
+    "Verificare con Gelsia Ambiente l’ammissibilità del ritiro a domicilio, i costi e l’eventuale centro autorizzato per il materiale dell’attività.",
+    "A Biassono la guida riserva il ritiro a domicilio alle utenze domestiche. A Nova Milanese il centro di via degli Orti è riservato alle utenze domestiche residenti."
+   ],
+   "regole_en": [
+    "Ask whether bulky waste collection or recycling centre access is available for your business and waste type."
+   ]
   }
  ]
 }

@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "comune": "Biassono",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 3",
+ "valido_dal": "2026-11-25",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi dopo le 19:00 della sera precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2025/12/Biassono_calendario-2026_def.pdf | https://www.gelsiambiente.it/servizi-ai-comuni/biassono/byd_a2a_25334_rd_biassono_v8-2/",
+ "note": [
+  "La guida comunale Gelsia indica il calendario per le tre zone e le dotazioni delle attività per carta e cartone, secco RFID e imballaggi in plastica e metallo. Sono riportate le date 2026 di queste tre frazioni. Verificare organico, vetro e servizi su richiesta con il gestore."
+ ],
+ "raccolte": {
+  "2026-11-25": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "eccezioni": []
+}

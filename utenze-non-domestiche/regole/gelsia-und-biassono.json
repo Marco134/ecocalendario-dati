@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "nome": "Biassono · regole UND",
+ "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/biassono/byd_a2a_25334_rd_biassono_v8-2/ | https://www.gelsiambiente.it/servizi/dove-lo-butto/",
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e lattine",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "La guida prevede contenitori bianchi da 120, 240 o 1.100 litri con attacco a pettine per condomini e attività."
+  },
+  "cartone per pizza pulito": {
+   "dove": "carta",
+   "nota": "La guida accetta quello senza residui di cibo."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Seguire la raccolta di carta e cartone indicata dalla guida."
+  },
+  "imballaggi in plastica e metallo": {
+   "dove": "plastica",
+   "nota": "Usare il sacco giallo. La guida indica 7 rotoli annui anche per le attività."
+  },
+  "rifiuto secco indifferenziato": {
+   "dove": "indifferenziato",
+   "nota": "Usare il sacco blu RFID. La guida indica 50 rotoli annui per le attività."
+  },
+  "rifiuti domestici pericolosi dell’ecovan": {
+   "dove": "varia",
+   "nota": "Il servizio Ecovan indicato è per rifiuti domestici. Chiedere il canale autorizzato per l’attività."
+  }
+ }
+}

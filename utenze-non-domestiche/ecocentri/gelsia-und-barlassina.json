@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Gelsia Ambiente",
+ "numero_verde": "800 445 964",
+ "orari_numero_verde": "Lun–ven 08:30–18:00, sab 08:30–13:00",
+ "accesso": "Per le attività servono autorizzazione per la tipologia di rifiuto, formulario e iscrizione all’Albo Nazionale Gestori Ambientali, secondo le condizioni riportate dal gestore.",
+ "avviso": "Via Vecellio, Barlassina. Tessera comunale. Chiuso nei festivi.",
+ "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/barlassina/ | https://www.gelsiambiente.it/servizi/piattaforme-ecologiche/ | https://www.gelsiambiente.it/servizi-ai-comuni/barlassina/nuova-guida-alla-raccolta-differenziata-3/",
+ "centri": [
+  {
+   "id": "gelsia-und-barlassina",
+   "tipo": "raccolta",
+   "comune": "Barlassina",
+   "indirizzo": "Via Vecellio, Barlassina",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "lat": 45.6609148,
+   "lon": 9.1312528,
+   "avviso": "Tessera comunale. Chiuso nei festivi."
+  }
+ ]
+}

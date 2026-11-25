@@ -529,7 +529,10 @@
    "nome": "Barlassina",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/barlassina/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Barlassina_calendario-2026_zona-A.pdf | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Barlassina_calendario-2026_zona-B.pdf | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Barlassina_calendario-2026_zona-C.pdf | https://www.gelsiambiente.it/servizi-ai-comuni/barlassina/nuova-guida-alla-raccolta-differenziata-3/",
+   "verificato": "2026-11-25",
+   "nota": "Il portale ammette al centro le attività nei due giorni indicati e segnala le imprese iscritte in categoria 3-bis per i RAEE, secondo le condizioni del centro. I turni per indirizzo e i recuperi festivi dell’attività richiedono conferma."
   },
   {
    "id": "barolo",
@@ -739,7 +742,10 @@
    "nome": "Biassono",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/biassono/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Biassono_calendario-2026_def.pdf | https://www.gelsiambiente.it/servizi-ai-comuni/biassono/byd_a2a_25334_rd_biassono_v8-2/",
+   "verificato": "2026-11-25",
+   "nota": "La guida comunale Gelsia indica il calendario per le tre zone e le dotazioni delle attività per carta e cartone, secco RFID e imballaggi in plastica e metallo. Sono riportate le date 2026 di queste tre frazioni. Verificare organico, vetro e servizi su richiesta con il gestore."
   },
   {
    "id": "bibiana",
@@ -1419,7 +1425,10 @@
    "nome": "Carate Brianza",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/carate-brianza/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/CARATE_calendario-2026_zona-A.pdf | https://www.gelsiambiente.it/wp-content/uploads/2025/12/CARATE_calendario-2026_zona-B.pdf | https://www.gelsiambiente.it/wp-content/uploads/2025/12/CARATE_calendario-2026_zona-C.pdf | https://www.gelsiambiente.it/wp-content/uploads/2024/06/Guida-alla-raccolta-differenziata_2024-Carate-Brianza.pdf | https://comune.caratebrianza.mb.it/it/garbage-calendars",
+   "verificato": "2026-11-25",
+   "nota": "Il Comune indica le zone A, B e C per utenze domestiche e non domestiche. Sono riportati i ritiri ordinari delle cinque frazioni e le variazioni del PDF 2026. Per verde, tessili sanitari e ulteriori servizi chiedere le condizioni del proprio profilo."
   },
   {
    "id": "caravate",
@@ -2274,7 +2283,10 @@
    "nome": "Cogliate",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/cogliate/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Cogliate_calendario-2026_zona-A.pdf | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Cogliate_calendario-2026_zona-B.pdf | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Cogliate_calendario-2026_zona-C.pdf | https://www.gelsiambiente.it/servizi-ai-comuni/cogliate/cogliate_nuova-guida-alla-raccolta-differenziata_2/",
+   "verificato": "2026-11-25",
+   "nota": "La guida conferma la G-Card per i sacchi blu RFID e riserva i sacchi arancioni ai cittadini. I turni per indirizzo e i recuperi festivi dell’attività richiedono conferma."
   },
   {
    "id": "colazza",
@@ -4134,7 +4146,10 @@
    "nome": "Misinto",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/misinto/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Calendario-Misinto-2026.pdf | https://www.gelsiambiente.it/wp-content/uploads/2026/05/Misinto_Nuova-guida-alla-raccolta-differenziata.pdf",
+   "verificato": "2026-11-25",
+   "nota": "La guida conferma la G-Card per sacchi blu RFID e gialli. I biocompostabili del distributore sono riservati ai cittadini. I turni per indirizzo e i recuperi festivi dell’attività richiedono conferma."
   },
   {
    "id": "missaglia",
@@ -4593,7 +4608,10 @@
    "nome": "Nova Milanese",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/nova-milanese/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/01.Nova-Milanese_calendario-2026.pdf | https://www.gelsiambiente.it/servizi-ai-comuni/nova-milanese/08_nova_guida-rd-3/",
+   "verificato": "2026-11-25",
+   "nota": "La guida riporta la G-Card per le attività. Il centro di via degli Orti è riservato alle utenze domestiche residenti. I turni per indirizzo e i recuperi festivi dell’attività richiedono conferma."
   },
   {
    "id": "novalesa",
@@ -6805,7 +6823,10 @@
    "nome": "Triuggio",
    "provincia": "MB",
    "gestore": "Gelsia Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/triuggio/ | https://www.gelsiambiente.it/wp-content/uploads/2025/12/Triuggio_calendario-2026.pdf | https://www.gelsiambiente.it/servizi-ai-comuni/triuggio/triuggio_nuova-guida-alla-raccolta-differenziata/",
+   "verificato": "2026-11-25",
+   "nota": "La guida conferma la G-Card per il sacco blu RFID e riserva i sacchi arancioni ai cittadini. Il centro abilitato è ad Albiate. I turni per indirizzo e i recuperi festivi dell’attività richiedono conferma."
   },
   {
    "id": "trofarello",

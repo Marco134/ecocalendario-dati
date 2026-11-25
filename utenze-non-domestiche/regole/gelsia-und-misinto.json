@@ -1,0 +1,25 @@
+{
+ "schema": 1,
+ "nome": "Misinto · regole UND",
+ "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2026/05/Misinto_Nuova-guida-alla-raccolta-differenziata.pdf | https://www.gelsiambiente.it/servizi/dove-lo-butto/",
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e lattine",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "rifiuto secco indifferenziato": {
+   "dove": "indifferenziato",
+   "nota": "La guida indica il sacco blu RFID e 50 rotoli annui per le attività commerciali."
+  },
+  "imballaggi in plastica e metallo": {
+   "dove": "plastica",
+   "nota": "La guida indica il sacco giallo e 6 rotoli annui anche per le attività."
+  },
+  "rifiuti organici": {
+   "dove": "varia",
+   "nota": "I sacchi biocompostabili del distributore sono riservati ai cittadini. Chiedere dotazione e turni per l’attività."
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Gelsia Ambiente",
+ "numero_verde": "800 445 964",
+ "orari_numero_verde": "Lun–ven 08:30–18:00, sab 08:30–13:00",
+ "accesso": "Per le attività servono autorizzazione per la tipologia di rifiuto, formulario e iscrizione all’Albo Nazionale Gestori Ambientali, secondo le condizioni riportate dal gestore.",
+ "avviso": "Via Lombardia s.n.c., Carate Brianza. Tessera per le attività. Ultimo ingresso 15 minuti prima della chiusura. Chiuso nei festivi.",
+ "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/carate-brianza/ | https://www.gelsiambiente.it/servizi/piattaforme-ecologiche/ | https://www.gelsiambiente.it/wp-content/uploads/2024/06/Guida-alla-raccolta-differenziata_2024-Carate-Brianza.pdf",
+ "centri": [
+  {
+   "id": "gelsia-und-carate-brianza",
+   "tipo": "raccolta",
+   "comune": "Carate Brianza",
+   "indirizzo": "Via Lombardia s.n.c., Carate Brianza",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "lat": 45.6638605,
+   "lon": 9.2331152,
+   "avviso": "Tessera per le attività. Ultimo ingresso 15 minuti prima della chiusura. Chiuso nei festivi."
+  }
+ ]
+}

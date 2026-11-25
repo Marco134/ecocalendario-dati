@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "nome": "Carate Brianza · regole UND",
+ "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2024/06/Guida-alla-raccolta-differenziata_2024-Carate-Brianza.pdf | https://www.gelsiambiente.it/servizi/dove-lo-butto/",
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e lattine",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Togliere le parti di altri materiali."
+  },
+  "cartone per pizza pulito": {
+   "dove": "carta",
+   "nota": "Conferire solo il cartone privo di residui di cibo."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Svuotare il contenitore."
+  },
+  "bottiglie e flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare gli imballaggi."
+  },
+  "piatti e bicchieri in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire senza residui di cibo."
+  },
+  "imballaggi in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire la raccolta congiunta di plastica e lattine."
+  },
+  "bottiglie, barattoli e flaconi di vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare e togliere i tappi."
+  },
+  "scarti e bucce di frutta e verdura": {
+   "dove": "organico",
+   "nota": "Usare sacchetti compostabili."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare sacchetti compostabili."
+  },
+  "ceramica e porcellana": {
+   "dove": "varia",
+   "nota": "Escluse dal vetro. Verificare la destinazione in base a provenienza e quantità."
+  },
+  "pannolini, pannoloni e tessili sanitari": {
+   "dove": "varia",
+   "nota": "Il servizio a sacco arancione della guida è riservato alle utenze domestiche. Per le attività chiedere il canale previsto."
+  }
+ }
+}

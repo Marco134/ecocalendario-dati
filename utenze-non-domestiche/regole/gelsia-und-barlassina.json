@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "nome": "Barlassina · regole UND",
+ "fonte": "https://www.gelsiambiente.it/servizi/piattaforme-ecologiche/ | https://www.gelsiambiente.it/servizi/dove-lo-butto/",
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e lattine",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "raee": {
+   "dove": "varia",
+   "nota": "Per il centro il gestore cita le imprese iscritte in categoria 3-bis RAEE. Verificare l’autorizzazione e la provenienza del materiale."
+  }
+ }
+}

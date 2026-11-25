@@ -1,0 +1,21 @@
+{
+ "schema": 1,
+ "nome": "Triuggio · regole UND",
+ "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/triuggio/triuggio_nuova-guida-alla-raccolta-differenziata/ | https://www.gelsiambiente.it/servizi/dove-lo-butto/",
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e lattine",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "rifiuto secco indifferenziato": {
+   "dove": "indifferenziato",
+   "nota": "La guida indica il sacco blu RFID e 50 rotoli annui per le attività commerciali."
+  },
+  "tessili sanitari": {
+   "dove": "varia",
+   "nota": "I sacchi arancioni sono riservati ai cittadini. Chiedere il canale per l’attività."
+  }
+ }
+}

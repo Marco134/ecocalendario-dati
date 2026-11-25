@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-25",
+ "gestore": "Gelsia Ambiente",
+ "numero_verde": "800 445 964",
+ "orari_numero_verde": "Lun–ven 08:30–18:00, sab 08:30–13:00",
+ "accesso": "Per le attività servono autorizzazione per la tipologia di rifiuto, formulario e iscrizione all’Albo Nazionale Gestori Ambientali, secondo le condizioni riportate dal gestore.",
+ "avviso": "Via Montello, Cogliate. Tessera comunale. Chiuso nei festivi. Da ottobre a marzo 13:30–17:30. Da aprile a settembre 14:00–18:00, sempre il martedì, giovedì e venerdì.",
+ "fonte": "https://www.gelsiambiente.it/servizi-ai-comuni/cogliate/ | https://www.gelsiambiente.it/servizi/piattaforme-ecologiche/ | https://www.gelsiambiente.it/servizi-ai-comuni/cogliate/cogliate_nuova-guida-alla-raccolta-differenziata_2/",
+ "centri": [
+  {
+   "id": "gelsia-und-cogliate",
+   "tipo": "raccolta",
+   "comune": "Cogliate",
+   "indirizzo": "Via Montello, Cogliate",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "lat": 45.6398732,
+   "lon": 9.0853852,
+   "avviso": "Tessera comunale. Chiuso nei festivi. Da ottobre a marzo 13:30–17:30. Da aprile a settembre 14:00–18:00, sempre il martedì, giovedì e venerdì."
+  }
+ ]
+}
