@@ -97,3 +97,7 @@ I 40 programmi di raccolta ordinaria si applicano ai civici con porta a porta. P
 ## Valli del Verbano
 
 Calendari UND per Luino, Laveno Mombello e Maccagno con Pino e Veddasca fino al 31 dicembre 2027. A Laveno il profilo bar e ristoranti include la raccolta supplementare di vetro e alluminio. Altri 27 comuni hanno schede di servizio, con turni da confermare per sede e categoria. Per Porto Valtravaglia consultare l’avviso sulla riapertura del centro. [Calendari 2027](https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/) · [Centri di raccolta](https://vallidelverbano.va.it/centri-di-raccolta-e-isole-ecologiche-ed-ecomat-come-chi-dove/)
+
+## Ambiente Servizi · Friuli Venezia Giulia
+
+Turni ordinari di 26 comuni fino al 29 febbraio 2028. Per organico e vetro, controllare se alla sede è assegnato il porta a porta o il circuito stradale. A Sacile la scheda per bar e negozi del centro storico indica i turni settimanali e le conferme ancora necessarie. Per centri e ingombranti valgono le condizioni locali. [Carta della qualità](https://www.ambienteservizi.net/carta-della-qualita-dei-servizi) · [Scheda di Sacile](https://www.ambienteservizi.net/comuni/sacile)

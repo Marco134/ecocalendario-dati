@@ -1,0 +1,277 @@
+{
+ "schema": 1,
+ "comune": "Cordovado",
+ "provincia": "PN",
+ "gestore": "Ambiente Servizi S.p.A.",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2028-02-29",
+ "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Cordovado%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Cordovado%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/CORDOVADO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/cordovado",
+ "raccolte": {
+  "2026-12-02": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-06": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-13": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-27": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-03": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-02-10": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-17": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-02-24": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-03-03": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-03-10": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-03-17": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-03-24": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-03-31": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-04-07": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-04-14": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-04-21": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-04-28": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-05-05": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-05-12": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-05-19": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-05-26": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-06-02": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-06-09": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-06-16": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-06-23": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-06-30": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-07-07": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-07-14": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-07-21": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-07-28": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-08-04": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-08-11": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-08-18": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-08-25": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-09-01": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-09-08": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-09-15": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-09-22": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-09-29": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-10-06": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-10-13": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-10-20": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-10-27": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-11-03": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-11-10": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-11-17": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-11-24": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-12-01": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-12-08": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-12-15": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-12-22": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-12-29": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2028-01-05": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2028-01-12": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2028-01-19": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2028-01-26": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2028-02-02": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2028-02-09": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2028-02-16": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2028-02-23": [
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "esposizione": "Esporre i contenitori o sacchi dopo le ore 20:00 della sera precedente alla raccolta.",
+ "note": [
+  "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda.",
+  "Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
+ ]
+}

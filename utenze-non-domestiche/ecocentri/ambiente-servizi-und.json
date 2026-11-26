@@ -1,0 +1,905 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Ambiente Servizi S.p.A.",
+ "fonte": "https://www.ambienteservizi.net/carta-della-qualita-dei-servizi",
+ "numero_verde": "800 774 728",
+ "orari_numero_verde": "lun–ven 08:00–20:00, sab 08:00–13:00",
+ "consorzio": "ambiente-servizi-und",
+ "accesso": "Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+ "avviso": "Gli orari pubblicati sono ordinari. Nei giorni festivi verificare eventuali chiusure. Le attività devono controllare i requisiti del regolamento locale e l’accesso alla singola sede.",
+ "centri": [
+  {
+   "id": "ambiente-servizi-arba-und",
+   "tipo": "raccolta",
+   "comune": "Arba",
+   "indirizzo": "Via del Molinat",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Arba. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.141722308423,
+   "lon": 12.783513426433,
+   "fonte": "https://www.ambienteservizi.net/comuni/arba"
+  },
+  {
+   "id": "ambiente-servizi-brugnera-und",
+   "tipo": "raccolta",
+   "comune": "Brugnera",
+   "indirizzo": "Via Giolitti",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Brugnera. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.898460788703,
+   "lon": 12.534387820747,
+   "fonte": "https://www.ambienteservizi.net/comuni/brugnera"
+  },
+  {
+   "id": "ambiente-servizi-castelnovo-del-friuli-und",
+   "tipo": "raccolta",
+   "comune": "Castelnovo del Friuli",
+   "indirizzo": "Strada Provinciale della Val Cosa 14",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Castelnovo del Friuli e Travesio. Primo e terzo sabato del mese 08:30–10:30. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.198138,
+   "lon": 12.898081,
+   "fonte": "https://www.ambienteservizi.net/comuni/castelnovo-del-friuli"
+  },
+  {
+   "id": "ambiente-servizi-cavasso-nuovo-und",
+   "tipo": "raccolta",
+   "comune": "Cavasso Nuovo",
+   "indirizzo": "Via Meduna, località Case Sparse",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Cavasso Nuovo. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.19615,
+   "lon": 12.783435767858,
+   "fonte": "https://www.ambienteservizi.net/comuni/cavasso-nuovo"
+  },
+  {
+   "id": "ambiente-servizi-cordovado-und",
+   "tipo": "raccolta",
+   "comune": "Cordovado",
+   "indirizzo": "Via Circonvallazione",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:30",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Cordovado. Orario solare. Con ora legale mercoledì 14:30–16:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.849607733157,
+   "lon": 12.891848251748,
+   "fonte": "https://www.ambienteservizi.net/comuni/cordovado"
+  },
+  {
+   "id": "ambiente-servizi-pasiano-di-pordenone-und",
+   "tipo": "raccolta",
+   "comune": "Pasiano di Pordenone",
+   "indirizzo": "Via Comugnuzze",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Pasiano di Pordenone. Orario solare. Con ora legale mercoledì 16:30–18:30 e sabato 09:00–12:30 e 14:30–18:30. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.842811712326,
+   "lon": 12.628914701307,
+   "fonte": "https://www.ambienteservizi.net/comuni/pasiano-di-pordenone"
+  },
+  {
+   "id": "ambiente-servizi-pinzano-al-tagliamento-und",
+   "tipo": "raccolta",
+   "comune": "Pinzano al Tagliamento",
+   "indirizzo": "Via XX Settembre",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Pinzano al Tagliamento. Consultare il PDF per i rifiuti ammessi alla sede locale e per quelli da consegnare a Spilimbergo. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.185235547423,
+   "lon": 12.949064061395,
+   "fonte": "https://www.ambienteservizi.net/comuni/pinzano-al-tagliamento"
+  },
+  {
+   "id": "ambiente-servizi-san-martino-al-tagliamento-und",
+   "tipo": "raccolta",
+   "comune": "San Martino al Tagliamento",
+   "indirizzo": "Via Santa Fosca",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di San Martino al Tagliamento. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.018427300327,
+   "lon": 12.860960922576,
+   "fonte": "https://www.ambienteservizi.net/comuni/san-martino-al-tagliamento"
+  },
+  {
+   "id": "ambiente-servizi-vajont-und",
+   "tipo": "raccolta",
+   "comune": "Vajont",
+   "indirizzo": "Via dell’Artigianato",
+   "per": "non_domestiche",
+   "orari": {
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Vajont. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.14085916753,
+   "lon": 12.692543604068,
+   "fonte": "https://www.ambienteservizi.net/comuni/vajont"
+  },
+  {
+   "id": "ambiente-servizi-casarsa-della-delizia-und",
+   "tipo": "raccolta",
+   "comune": "Casarsa della Delizia",
+   "indirizzo": "Casarsa, Località Turridetta",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Casarsa della Delizia. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 15:00–19:00, Gio 15:00–19:00, Sab 09:00–12:00 / 15:00–19:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.960950108038,
+   "lon": 12.852950048558,
+   "fonte": "https://www.ambienteservizi.net/comuni/casarsa-della-delizia"
+  },
+  {
+   "id": "ambiente-servizi-chions-und",
+   "tipo": "raccolta",
+   "comune": "Chions",
+   "indirizzo": "Via Garibaldi",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Chions. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.849769769496,
+   "lon": 12.708316195795,
+   "fonte": "https://www.ambienteservizi.net/comuni/chions"
+  },
+  {
+   "id": "ambiente-servizi-chions-2-und",
+   "tipo": "raccolta",
+   "comune": "Chions",
+   "indirizzo": "Villotta via XXV Aprile",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Chions. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.880432,
+   "lon": 12.770701,
+   "fonte": "https://www.ambienteservizi.net/comuni/chions"
+  },
+  {
+   "id": "ambiente-servizi-fiume-veneto-und",
+   "tipo": "raccolta",
+   "comune": "Fiume Veneto",
+   "indirizzo": "Via G. Mazzini",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Fiume Veneto. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Lun 14:00–18:00, Mer 15:00–19:00, Sab 08:30–12:30 / 14:00–18:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.917873136053,
+   "lon": 12.706005125306,
+   "fonte": "https://www.ambienteservizi.net/comuni/fiume-veneto"
+  },
+  {
+   "id": "ambiente-servizi-morsano-al-tagliamento-und",
+   "tipo": "raccolta",
+   "comune": "Morsano al Tagliamento",
+   "indirizzo": "Via Feletti",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Morsano al Tagliamento. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mer 16:30–18:30, Sab 08:30–12:30. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.854633121198,
+   "lon": 12.907255911236,
+   "fonte": "https://www.ambienteservizi.net/comuni/morsano-al-tagliamento"
+  },
+  {
+   "id": "ambiente-servizi-polcenigo-und",
+   "tipo": "raccolta",
+   "comune": "Polcenigo",
+   "indirizzo": "Località Murada",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Polcenigo. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.01079007829,
+   "lon": 12.52313883846,
+   "fonte": "https://www.ambienteservizi.net/comuni/polcenigo"
+  },
+  {
+   "id": "ambiente-servizi-porcia-und",
+   "tipo": "raccolta",
+   "comune": "Porcia",
+   "indirizzo": "Via Pieve 9",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Porcia. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 14:00–18:00, Mer 08:00–13:00, Gio 14:00–18:00, Sab 08:00–12:30 / 14:00–16:30. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.956852738602,
+   "lon": 12.598172,
+   "fonte": "https://www.ambienteservizi.net/comuni/porcia"
+  },
+  {
+   "id": "ambiente-servizi-pravisdomini-und",
+   "tipo": "raccolta",
+   "comune": "Pravisdomini",
+   "indirizzo": "Via Barco",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Pravisdomini. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.814087213743,
+   "lon": 12.680162905522,
+   "fonte": "https://www.ambienteservizi.net/comuni/pravisdomini"
+  },
+  {
+   "id": "ambiente-servizi-san-giorgio-della-richinvelda-und",
+   "tipo": "raccolta",
+   "comune": "San Giorgio della Richinvelda",
+   "indirizzo": "Via Cjampagnatis, 3",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di San Giorgio della Richinvelda. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 14:00–17:00, Gio 11:00–13:00, Sab 14:00–17:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.051695593279,
+   "lon": 12.844226508697,
+   "fonte": "https://www.ambienteservizi.net/comuni/san-giorgio-della-richinvelda"
+  },
+  {
+   "id": "ambiente-servizi-sesto-al-reghena-und",
+   "tipo": "raccolta",
+   "comune": "Sesto al Reghena",
+   "indirizzo": "Viale degli Olmi",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "11:00",
+      "13:30"
+     ]
+    ],
+    "6": [
+     [
+      "10:30",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Sesto al Reghena. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.845503964195,
+   "lon": 12.809918465351,
+   "fonte": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
+  },
+  {
+   "id": "ambiente-servizi-sesto-al-reghena-2-und",
+   "tipo": "raccolta",
+   "comune": "Sesto al Reghena",
+   "indirizzo": "Bagnarola, Via Casette",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "08:00",
+      "10:30"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Sesto al Reghena. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.864867420201,
+   "lon": 12.871373111054,
+   "fonte": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
+  },
+  {
+   "id": "ambiente-servizi-sesto-al-reghena-3-und",
+   "tipo": "raccolta",
+   "comune": "Sesto al Reghena",
+   "indirizzo": "Ramuscello, via Risorgimento",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "10:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Sesto al Reghena. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.879763,
+   "lon": 12.890612,
+   "fonte": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
+  },
+  {
+   "id": "ambiente-servizi-valvasone-arzene-und",
+   "tipo": "raccolta",
+   "comune": "Valvasone Arzene",
+   "indirizzo": "Arzene, Via Chiesa",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Valvasone Arzene. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 14:30–16:00, Sab 09:00–12:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.999061034732,
+   "lon": 12.841661538031,
+   "fonte": "https://www.ambienteservizi.net/comuni/valvasone-arzene"
+  },
+  {
+   "id": "ambiente-servizi-valvasone-arzene-2-und",
+   "tipo": "raccolta",
+   "comune": "Valvasone Arzene",
+   "indirizzo": "Valvasone, viale Rimembranza",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Valvasone Arzene. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Mar 16:30–18:00, Sab 15:00–18:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.141722308423,
+   "lon": 12.783513426433,
+   "fonte": "https://www.ambienteservizi.net/comuni/valvasone-arzene"
+  },
+  {
+   "id": "ambiente-servizi-zoppola-und",
+   "tipo": "raccolta",
+   "comune": "Zoppola",
+   "indirizzo": "Via Tavielis",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "15:30",
+      "17:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:30",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Zoppola. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Lun 15:30–18:30, Mer 13:30–18:30, Sab 09:00–12:00 / 13:30–18:30. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.963029291687,
+   "lon": 12.78188559755,
+   "fonte": "https://www.ambienteservizi.net/comuni/zoppola"
+  },
+  {
+   "id": "ambiente-servizi-azzano-decimo-und",
+   "tipo": "raccolta",
+   "comune": "Azzano Decimo",
+   "indirizzo": "Via Troiat",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Azzano Decimo. Orario invernale. Festività nazionali escluse. Orario estivo secondo il portale: Lun 14:00–18:00, Mer 14:00–18:00, Ven 14:00–18:00, Sab 08:30–12:00 / 14:00–18:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.873173801652,
+   "lon": 12.715290662954,
+   "fonte": "https://www.ambienteservizi.net/comuni/azzano-decimo"
+  },
+  {
+   "id": "ambiente-servizi-spilimbergo-und",
+   "tipo": "raccolta",
+   "comune": "Spilimbergo",
+   "indirizzo": "Zona Industriale del Cosa",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "16:30"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze di Spilimbergo. Festività nazionali escluse. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 46.107039978787,
+   "lon": 12.877358070481,
+   "fonte": "https://www.ambienteservizi.net/comuni/spilimbergo"
+  },
+  {
+   "id": "ambiente-servizi-fontanafredda-und",
+   "tipo": "raccolta",
+   "comune": "Fontanafredda",
+   "indirizzo": "Via La Croce",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze del comune. Festività nazionali escluse. La consegna dei contenitori si effettua il sabato con il modulo comunale. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.972698314299,
+   "lon": 12.517797818875,
+   "fonte": "https://www.ambienteservizi.net/comuni/fontanafredda"
+  },
+  {
+   "id": "ambiente-servizi-sacile-und",
+   "tipo": "raccolta",
+   "comune": "Sacile",
+   "indirizzo": "Strada interna San Giovanni di Livenza",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze del comune. Festività nazionali escluse. Orario in ora solare. In ora legale lunedì, mercoledì e venerdì 14:30–18:00, sabato 09:00–12:00 e 14:30–18:00. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.925106349543,
+   "lon": 12.523636221886,
+   "fonte": "https://www.ambienteservizi.net/comuni/sacile"
+  },
+  {
+   "id": "ambiente-servizi-san-vito-al-tagliamento-und",
+   "tipo": "raccolta",
+   "comune": "San Vito al Tagliamento",
+   "indirizzo": "Via Zuccherificio",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze del comune. Festività nazionali escluse. Orario in ora solare. In ora legale lunedì e sabato 09:00–12:30 e 14:00–18:00, martedì, giovedì e venerdì 09:00–12:30, mercoledì 14:00–18:00. I pannelli fotovoltaici si conferiscono su prenotazione. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.907748527123,
+   "lon": 12.850323915482,
+   "fonte": "https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento"
+  },
+  {
+   "id": "ambiente-servizi-san-vito-al-tagliamento-gleris-und",
+   "tipo": "raccolta",
+   "comune": "San Vito al Tagliamento",
+   "indirizzo": "Via Vissignano, Gleris",
+   "per": "non_domestiche",
+   "orari": {
+    "4": [
+     [
+      "14:00",
+      "16:30"
+     ]
+    ],
+    "6": [
+     [
+      "10:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Utenze del comune. Festività nazionali escluse. Orario in ora solare. In ora legale giovedì 15:00–17:30, sabato 10:30–12:30 e 14:00–18:30. Ammessi ingombranti, legno, metalli, verde e ramaglie, vetro. Accesso delle attività secondo il regolamento comunale. Le schede indicano partita IVA per le utenze ammesse. Verificare prima del viaggio i rifiuti urbani ammessi, la documentazione e i limiti della sede.",
+   "lat": 45.892881,
+   "lon": 12.872692,
+   "fonte": "https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SAN%20VITO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf?t=1776944482 | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf?t=1795256142"
+  }
+ ]
+}

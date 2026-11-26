@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "nome": "Ambiente Servizi · Materiali delle attività",
+ "fonte": "https://www.ambienteservizi.net/carta-della-qualita-dei-servizi",
+ "voci": {
+  "cartoni per latte e succhi": {
+   "dove": "carta",
+   "nota": "Vuotare e conferire con carta e cartone."
+  },
+  "cartone ondulato, carta da ufficio, giornali e riviste": {
+   "dove": "carta",
+   "nota": "Usare la dotazione assegnata. Piccole quantità supplementari in scatole o borse di carta secondo la scheda."
+  },
+  "lattine, scatolette e imballaggi di acciaio o alluminio": {
+   "dove": "plastica",
+   "nota": "Con gli imballaggi in plastica e metalli. Conferire vuoti."
+  },
+  "bottiglie e flaconi in plastica, vaschette, film e involucri da imballaggio": {
+   "dove": "plastica",
+   "nota": "Vuotare e conferire con gli imballaggi."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Vetro colorato e incolore separati dove previsto. Seguire il circuito assegnato."
+  },
+  "scarti alimentari e fondi di caffè": {
+   "dove": "organico",
+   "nota": "In sacchetti compostabili. Usare il circuito attivo all’indirizzo."
+  },
+  "oggetti di plastica diversi dagli imballaggi": {
+   "dove": "varia",
+   "nota": "Verificare tipo e dimensioni. Gli oggetti piccoli ammessi vanno nel residuo."
+  },
+  "residui del processo produttivo": {
+   "dove": "varia",
+   "nota": "Verificare classificazione e canale autorizzato per il rifiuto specifico."
+  },
+  "RAEE e grandi ingombranti": {
+   "dove": "varia",
+   "nota": "Contattare il gestore per ritiro, documenti e ammissione al centro."
+  }
+ }
+}

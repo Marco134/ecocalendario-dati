@@ -534,6 +534,24 @@
    "regole": "regole/secam-und-aprica.json"
   },
   {
+   "id": "arba",
+   "nome": "Arba",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.14498,
+   "lon": 12.7914,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/arba/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/arba"
+  },
+  {
    "id": "arcade",
    "nome": "Arcade",
    "provincia": "TV",
@@ -858,6 +876,36 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-azeglio/"
+  },
+  {
+   "id": "azzano-decimo",
+   "nome": "Azzano Decimo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.88142,
+   "lon": 12.714314,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "zona-gialla",
+     "nome": "Zona gialla · Corva, Fagnigola e Tiezzo · UND ordinaria",
+     "file": "comuni/azzano-decimo/zona-zona-gialla.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "zona-verde",
+     "nome": "Zona verde · Azzano Decimo · UND ordinaria",
+     "file": "comuni/azzano-decimo/zona-zona-verde.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "zona-rossa",
+     "nome": "Zona rossa · Vie del centro indicate nel PDF · UND ordinaria",
+     "file": "comuni/azzano-decimo/zona-zona-rossa.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/azzano-decimo"
   },
   {
    "id": "azzate",
@@ -2428,6 +2476,24 @@
    ]
   },
   {
+   "id": "brugnera",
+   "nome": "Brugnera",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.90351,
+   "lon": 12.525989,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/brugnera/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/brugnera"
+  },
+  {
    "id": "brusasco",
    "nome": "Brusasco",
    "provincia": "TO",
@@ -3550,6 +3616,30 @@
    "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
+   "id": "casarsa-della-delizia",
+   "nome": "Casarsa della Delizia",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.955937,
+   "lon": 12.842693,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "san-giovanni",
+     "nome": "San Giovanni di Casarsa · UND ordinaria",
+     "file": "comuni/casarsa-della-delizia/zona-san-giovanni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "casarsa",
+     "nome": "Casarsa della Delizia · UND ordinaria",
+     "file": "comuni/casarsa-della-delizia/zona-casarsa.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/casarsa-della-delizia"
+  },
+  {
    "id": "casazza",
    "nome": "Casazza",
    "provincia": "BG",
@@ -4010,6 +4100,24 @@
    ]
   },
   {
+   "id": "castelnovo-del-friuli",
+   "nome": "Castelnovo del Friuli",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.213832,
+   "lon": 12.883104,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/castelnovo-del-friuli/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/castelnovo-del-friuli"
+  },
+  {
    "id": "castelnuovo-nigra",
    "nome": "Castelnuovo Nigra",
    "provincia": "TO",
@@ -4339,6 +4447,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "cavasso-nuovo",
+   "nome": "Cavasso Nuovo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.196556,
+   "lon": 12.770308,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cavasso-nuovo/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/cavasso-nuovo"
   },
   {
    "id": "cavenago-di-brianza",
@@ -4909,6 +5035,36 @@
    ]
   },
   {
+   "id": "chions",
+   "nome": "Chions",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.847186,
+   "lon": 12.711062,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "chions-basedo",
+     "nome": "Chions e Basedo · UND ordinaria",
+     "file": "comuni/chions/zona-chions-basedo.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "taiedo-villotta",
+     "nome": "Taiedo e Villotta · UND ordinaria",
+     "file": "comuni/chions/zona-taiedo-villotta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "vie-secco-settimanale",
+     "nome": "Via Roma, Santa Caterina, San Giorgio e Vittorio Veneto · UND ordinaria",
+     "file": "comuni/chions/zona-vie-secco-settimanale.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/chions"
+  },
+  {
    "id": "chiuro",
    "nome": "Chiuro",
    "provincia": "SO",
@@ -5444,6 +5600,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "cordovado",
+   "nome": "Cordovado",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.845777,
+   "lon": 12.880665,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cordovado/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/cordovado"
   },
   {
    "id": "corio",
@@ -6575,6 +6749,30 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-fiorano-c-se/"
   },
   {
+   "id": "fiume-veneto",
+   "nome": "Fiume Veneto",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.927943,
+   "lon": 12.732176,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "fiume-veneto",
+     "nome": "Fiume Veneto e Via Nino Bixio · UND ordinaria",
+     "file": "comuni/fiume-veneto/zona-fiume-veneto.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Bannia, Cimpello, Pescincanna e Praturlone · UND ordinaria",
+     "file": "comuni/fiume-veneto/zona-frazioni.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/fiume-veneto"
+  },
+  {
    "id": "foglizzo",
    "nome": "Foglizzo",
    "provincia": "TO",
@@ -6609,6 +6807,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "fontanafredda",
+   "nome": "Fontanafredda",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.967,
+   "lon": 12.567,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "gialla",
+     "nome": "Zona gialla · UND ordinaria",
+     "file": "comuni/fontanafredda/zona-gialla.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "verde",
+     "nome": "Zona verde · UND ordinaria",
+     "file": "comuni/fontanafredda/zona-verde.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/fontanafredda"
   },
   {
    "id": "fontaneto-d-agogna",
@@ -10304,6 +10526,30 @@
    ]
   },
   {
+   "id": "morsano-al-tagliamento",
+   "nome": "Morsano al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.858141,
+   "lon": 12.929336,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "capoluogo",
+     "nome": "Capoluogo e vie elencate nel PDF · UND ordinaria",
+     "file": "comuni/morsano-al-tagliamento/zona-capoluogo.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Bando, Mussons, Saletto, San Paolo e altre vie · UND ordinaria",
+     "file": "comuni/morsano-al-tagliamento/zona-frazioni.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/morsano-al-tagliamento"
+  },
+  {
    "id": "mulazzano",
    "nome": "Mulazzano",
    "provincia": "LO",
@@ -11150,6 +11396,24 @@
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
+   "id": "pasiano-di-pordenone",
+   "nome": "Pasiano di Pordenone",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.849754,
+   "lon": 12.626509,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pasiano-di-pordenone/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/pasiano-di-pordenone"
+  },
+  {
    "id": "pauli-arbarei",
    "nome": "Pauli Arbarei",
    "provincia": "VS",
@@ -11608,6 +11872,24 @@
    ]
   },
   {
+   "id": "pinzano-al-tagliamento",
+   "nome": "Pinzano al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.183104,
+   "lon": 12.945448,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pinzano-al-tagliamento/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/pinzano-al-tagliamento"
+  },
+  {
    "id": "piobesi-d-alba",
    "nome": "Piobesi d'Alba",
    "provincia": "CN",
@@ -11781,6 +12063,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "polcenigo",
+   "nome": "Polcenigo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.0307,
+   "lon": 12.501626,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "fontaniva-e-frazioni",
+     "nome": "Fontaniva, Masat, San Giovanni e Sottocolle · UND ordinaria",
+     "file": "comuni/polcenigo/zona-fontaniva-e-frazioni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "polcenigo-e-frazioni",
+     "nome": "Polcenigo, Coltura, Gorgazzo, Mezzomonte, Range e Santissima · UND ordinaria",
+     "file": "comuni/polcenigo/zona-polcenigo-e-frazioni.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/polcenigo"
   },
   {
    "id": "polpenazze-del-garda",
@@ -11962,6 +12268,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "porcia",
+   "nome": "Porcia",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.946555,
+   "lon": 12.601781,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "capoluogo",
+     "nome": "Capoluogo, Palse, Pieve, Rondover e Talponedo · UND ordinaria",
+     "file": "comuni/porcia/zona-capoluogo.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "rorai-santantonio",
+     "nome": "Rorai Piccolo, Sant’Antonio e vie indicate a nord della ferrovia · UND ordinaria",
+     "file": "comuni/porcia/zona-rorai-santantonio.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/porcia"
   },
   {
    "id": "porte",
@@ -12300,6 +12630,30 @@
     }
    ],
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
+   "id": "pravisdomini",
+   "nome": "Pravisdomini",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.818909,
+   "lon": 12.694425,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "pravisdomini-panigai",
+     "nome": "Pravisdomini, Panigai e zona industriale · UND ordinaria",
+     "file": "comuni/pravisdomini/zona-pravisdomini-panigai.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "barco-frattina",
+     "nome": "Barco, Frattina e Via Coare · UND ordinaria",
+     "file": "comuni/pravisdomini/zona-barco-frattina.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/pravisdomini"
   },
   {
    "id": "predappio",
@@ -13313,6 +13667,42 @@
    ]
   },
   {
+   "id": "sacile",
+   "nome": "Sacile",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.9543,
+   "lon": 12.503,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "nord",
+     "nome": "Zona Nord · UND ordinaria",
+     "file": "comuni/sacile/zona-nord.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "sud",
+     "nome": "Zona Sud · UND ordinaria",
+     "file": "comuni/sacile/zona-sud.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "centro",
+     "nome": "Zona Centro · UND ordinaria",
+     "file": "comuni/sacile/zona-centro.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "centro-storico-commerciale",
+     "nome": "Bar e negozi del centro storico · turni dedicati",
+     "file": "comuni/sacile/zona-centro-storico-commerciale.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/sacile"
+  },
+  {
    "id": "salassa",
    "nome": "Salassa",
    "provincia": "TO",
@@ -13736,6 +14126,30 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giorgio-c-se/"
   },
   {
+   "id": "san-giorgio-della-richinvelda",
+   "nome": "San Giorgio della Richinvelda",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.039508,
+   "lon": 12.882333,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "capoluogo-e-frazioni",
+     "nome": "San Giorgio, Aurava, Cosa, Pozzo e Provesano · UND ordinaria",
+     "file": "comuni/san-giorgio-della-richinvelda/zona-capoluogo-e-frazioni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "domanins-rauscedo",
+     "nome": "Domanins e Rauscedo · UND ordinaria",
+     "file": "comuni/san-giorgio-della-richinvelda/zona-domanins-rauscedo.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/san-giorgio-della-richinvelda"
+  },
+  {
    "id": "san-giorio-di-susa",
    "nome": "San Giorio di Susa",
    "provincia": "TO",
@@ -13794,6 +14208,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giusto/"
+  },
+  {
+   "id": "san-martino-al-tagliamento",
+   "nome": "San Martino al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.020829,
+   "lon": 12.863761,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/san-martino-al-tagliamento/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/san-martino-al-tagliamento"
   },
   {
    "id": "san-martino-canavese",
@@ -14013,6 +14445,36 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "san-vito-al-tagliamento",
+   "nome": "San Vito al Tagliamento",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.9,
+   "lon": 12.867,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "san-vito-prodolone",
+     "nome": "San Vito e Prodolone · UND ordinaria",
+     "file": "comuni/san-vito-al-tagliamento/zona-san-vito-prodolone.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Carbona, Gleris, Ligugnana, Rosa, Savorgnano, Zone Comunali, ZIPR e Via Capitello · UND ordinaria",
+     "file": "comuni/san-vito-al-tagliamento/zona-frazioni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "centro-storico",
+     "nome": "Centro storico entro le fosse e vie indicate · UND ordinaria",
+     "file": "comuni/san-vito-al-tagliamento/zona-centro-storico.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento"
   },
   {
    "id": "san-zenone-al-lambro",
@@ -14428,6 +14890,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "sesto-al-reghena",
+   "nome": "Sesto al Reghena",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.847642,
+   "lon": 12.815531,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "sesto-e-frazioni",
+     "nome": "Sesto, Marignana, Mure, Versiola e vie indicate di Bagnarola · UND ordinaria",
+     "file": "comuni/sesto-al-reghena/zona-sesto-e-frazioni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "bagnarola-e-frazioni",
+     "nome": "Bagnarola, Casette, Ramuscello e Vissignano · UND ordinaria",
+     "file": "comuni/sesto-al-reghena/zona-bagnarola-e-frazioni.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/sesto-al-reghena"
   },
   {
    "id": "sestriere",
@@ -14881,6 +15367,36 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "spilimbergo",
+   "nome": "Spilimbergo",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.111335,
+   "lon": 12.901629,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "capoluogo",
+     "nome": "Capoluogo · UND ordinaria",
+     "file": "comuni/spilimbergo/zona-capoluogo.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Barbeano, Baseglia, Gaio, Gradisca, Istrago, Tauriano e Vacile · UND ordinaria",
+     "file": "comuni/spilimbergo/zona-frazioni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "centro-storico",
+     "nome": "Centro storico · UND ordinaria",
+     "file": "comuni/spilimbergo/zona-centro-storico.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/spilimbergo"
   },
   {
    "id": "spinone-al-lago",
@@ -15523,6 +16039,24 @@
    ]
   },
   {
+   "id": "travesio",
+   "nome": "Travesio",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.196536,
+   "lon": 12.870994,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/travesio/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/travesio"
+  },
+  {
    "id": "tredozio",
    "nome": "Tredozio",
    "provincia": "FC",
@@ -16053,6 +16587,24 @@
    ]
   },
   {
+   "id": "vajont",
+   "nome": "Vajont",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 46.146136,
+   "lon": 12.697447,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/vajont/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/vajont"
+  },
+  {
    "id": "val-della-torre",
    "nome": "Val della Torre",
    "provincia": "TO",
@@ -16267,6 +16819,30 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-valstrona.json"
+  },
+  {
+   "id": "valvasone-arzene",
+   "nome": "Valvasone Arzene",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.995211,
+   "lon": 12.86631,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "valvasone",
+     "nome": "Valvasone · UND ordinaria",
+     "file": "comuni/valvasone-arzene/zona-valvasone.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "arzene-san-lorenzo",
+     "nome": "Arzene e San Lorenzo · UND ordinaria",
+     "file": "comuni/valvasone-arzene/zona-arzene-san-lorenzo.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/valvasone-arzene"
   },
   {
    "id": "valvestino",
@@ -17425,6 +18001,36 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "zoppola",
+   "nome": "Zoppola",
+   "provincia": "PN",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "lat": 45.966254,
+   "lon": 12.771564,
+   "consorzio": "ambiente-servizi-und",
+   "zone": [
+    {
+     "id": "zoppola-cusano-poincicco",
+     "nome": "Zoppola, Cusano e Poincicco · UND ordinaria",
+     "file": "comuni/zoppola/zona-zoppola-cusano-poincicco.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Castions, Murlis, Ovoledo, Orcenico Inferiore e Orcenico Superiore · UND ordinaria",
+     "file": "comuni/zoppola/zona-frazioni.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "vie-secco-settimanale",
+     "nome": "Via Panciera (tratto indicato), Piazza Vittorio Emanuele II e Via Roma · UND ordinaria",
+     "file": "comuni/zoppola/zona-vie-secco-settimanale.json",
+     "valido_al": "2028-02-29"
+    }
+   ],
+   "zone_url": "https://www.ambienteservizi.net/comuni/zoppola"
   }
  ],
  "consorzi": {
@@ -17899,6 +18505,12 @@
    "gestore": "Econord · Comunità Montana Valli del Verbano",
    "ecocentri": "ecocentri/valli-del-verbano-und.json",
    "regole": "regole/valli-del-verbano-und.json"
+  },
+  "ambiente-servizi-und": {
+   "nome": "Ambiente Servizi · UND",
+   "gestore": "Ambiente Servizi S.p.A.",
+   "ecocentri": "ecocentri/ambiente-servizi-und.json",
+   "regole": "regole/ambiente-servizi-und.json"
   }
  }
 }

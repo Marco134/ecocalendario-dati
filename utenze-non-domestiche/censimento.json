@@ -9625,140 +9625,240 @@
    "nome": "Arba",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Arba%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Arba%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/ARBA%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/arba",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "brugnera",
    "nome": "Brugnera",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Brugnera%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Brugnera%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/BRUGNERA%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/brugnera",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "castelnovo-del-friuli",
    "nome": "Castelnovo del Friuli",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Castelnovo%20del%20Friuli%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Castelnovo%20del%20Friuli%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/CASTELNOVO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/castelnovo-del-friuli",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "cavasso-nuovo",
    "nome": "Cavasso Nuovo",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Cavasso%20Nuovo%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Cavasso%20Nuovo%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/CAVASSO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/cavasso-nuovo",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Il calendario include organico e vetro per le attività del circuito ordinario. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "cordovado",
    "nome": "Cordovado",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Cordovado%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Cordovado%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/CORDOVADO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/cordovado",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "pasiano-di-pordenone",
    "nome": "Pasiano di Pordenone",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Pasiano%20di%20Pordenone%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pasiano%20di%20Pordenone%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/PASIANO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/pasiano-di-pordenone",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "pinzano-al-tagliamento",
    "nome": "Pinzano al Tagliamento",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Pinzano%20al%20Tagliamento%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pinzano%20al%20Tagliamento%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/PINZANO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/pinzano-al-tagliamento",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "san-martino-al-tagliamento",
    "nome": "San Martino al Tagliamento",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20San%20Martino%20al%20Tagliamento%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Martino%20al%20Tagliamento%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SAN%20MARTINO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/san-martino-al-tagliamento",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "travesio",
    "nome": "Travesio",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Travesio%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Travesio%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/TRAVESIO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/travesio",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Il calendario include organico e vetro per le attività del circuito ordinario. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "vajont",
    "nome": "Vajont",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Vajont%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Vajont%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/VAJONT%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/vajont",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 1,
+   "nota": "Il calendario include organico e vetro per le attività del circuito ordinario. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "casarsa-della-delizia",
    "nome": "Casarsa della Delizia",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Casarsa%20della%20Delizia%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Casarsa%20della%20Delizia%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/CASARSA%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/casarsa-della-delizia",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "chions",
    "nome": "Chions",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Chions%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Chions%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/CHIONS%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/chions",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 3,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "fiume-veneto",
    "nome": "Fiume Veneto",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Fiume%20Veneto%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Fiume%20Veneto%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/FIUME%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/fiume-veneto",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "morsano-al-tagliamento",
    "nome": "Morsano al Tagliamento",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Morsano%20al%20Tagliamento%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Morsano%20al%20Tagliamento%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/MORSANO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/morsano-al-tagliamento",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "polcenigo",
    "nome": "Polcenigo",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Polcenigo%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Polcenigo%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/POLCENIGO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/polcenigo",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "porcia",
    "nome": "Porcia",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Porcia%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Porcia%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/PORCIA%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/porcia",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "pravisdomini",
    "nome": "Pravisdomini",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Pravisdomini%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Pravisdomini%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/PRAVISDOMINI%20%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/pravisdomini",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "san-giorgio-della-richinvelda",
    "nome": "San Giorgio della Richinvelda",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20San%20Giorgio%20della%20Richinvelda%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Giorgio%20della%20Richinvelda%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SAN%20GIORGIO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/san-giorgio-della-richinvelda",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "sesto-al-reghena",
    "nome": "Sesto al Reghena",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Sesto%20al%20Reghena%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sesto%20al%20Reghena%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SESTO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/sesto-al-reghena",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "valvasone-arzene",
    "nome": "Valvasone Arzene",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Valvasone%20Arzene%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Valvasone%20Arzene%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/VALVASONE%20ARZENE%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/valvasone-arzene",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "zogno",
@@ -9775,42 +9875,72 @@
    "nome": "Zoppola",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Zoppola%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Zoppola%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/ZOPPOLA%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/zoppola",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 3,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "azzano-decimo",
    "nome": "Azzano Decimo",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Azzano%20Decimo%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Azzano%20Decimo%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/AZZANO%20X%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/azzano-decimo",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 3,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "spilimbergo",
    "nome": "Spilimbergo",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Spilimbergo%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Spilimbergo%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SPILIMBERGO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/spilimbergo",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 3,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "fontanafredda",
    "nome": "Fontanafredda",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Fontanafredda%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Fontanafredda%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/FONTANAFREDDA%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/fontanafredda",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 2,
+   "nota": "Vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "sacile",
    "nome": "Sacile",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Sacile%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Sacile%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SACILE%20%20-%20Carta%20della%20qualit%C3%A0%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/sacile",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 4,
+   "nota": "Il calendario include organico e vetro per le attività del circuito ordinario. Per bar, negozi e attività delle vie del centro storico indicate nel PDF consultare anche la scheda dei turni commerciali."
   },
   {
    "id": "san-vito-al-tagliamento",
    "nome": "San Vito al Tagliamento",
    "provincia": "PN",
    "gestore": "Ambiente Servizi S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20San%20Vito%20al%20Tagliamento%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20San%20Vito%20al%20Tagliamento%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/SAN%20VITO%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento",
+   "verificato": "2026-11-26",
+   "valido_al": "2028-02-29",
+   "zone_und": 3,
+   "nota": "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda. Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
   },
   {
    "id": "bientina",

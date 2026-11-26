@@ -1,0 +1,328 @@
+{
+ "schema": 1,
+ "comune": "Valvasone Arzene",
+ "provincia": "PN",
+ "gestore": "Ambiente Servizi S.p.A.",
+ "zona": "Valvasone · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2028-02-29",
+ "fonte": "https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202026/Calendario%20di%20Valvasone%20Arzene%202026.pdf | https://www.ambienteservizi.net/documenti/Download/Calendari%20servizi%20di%20raccolta%202027/Calendario%20di%20Valvasone%20Arzene%202027.pdf | https://www.ambienteservizi.net/documenti/Carta%20dei%20Servizi/Allegati%20Comuni/VALVASONE%20ARZENE%20-%20Carta%20della%20qualita%CC%80%20-%20scheda%20di%20dettaglio.pdf | https://www.ambienteservizi.net/comuni/valvasone-arzene",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "plastica"
+  ],
+  "2027-01-05": [
+   "indifferenziato"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-15": [
+   "plastica"
+  ],
+  "2027-01-19": [
+   "indifferenziato"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-29": [
+   "plastica"
+  ],
+  "2027-02-02": [
+   "indifferenziato"
+  ],
+  "2027-02-05": [
+   "carta"
+  ],
+  "2027-02-12": [
+   "plastica"
+  ],
+  "2027-02-16": [
+   "indifferenziato"
+  ],
+  "2027-02-19": [
+   "carta"
+  ],
+  "2027-02-26": [
+   "plastica"
+  ],
+  "2027-03-02": [
+   "indifferenziato"
+  ],
+  "2027-03-05": [
+   "carta"
+  ],
+  "2027-03-12": [
+   "plastica"
+  ],
+  "2027-03-16": [
+   "indifferenziato"
+  ],
+  "2027-03-19": [
+   "carta"
+  ],
+  "2027-03-26": [
+   "plastica"
+  ],
+  "2027-03-30": [
+   "indifferenziato"
+  ],
+  "2027-04-02": [
+   "carta"
+  ],
+  "2027-04-09": [
+   "plastica"
+  ],
+  "2027-04-13": [
+   "indifferenziato"
+  ],
+  "2027-04-16": [
+   "carta"
+  ],
+  "2027-04-23": [
+   "plastica"
+  ],
+  "2027-04-27": [
+   "indifferenziato"
+  ],
+  "2027-04-30": [
+   "carta"
+  ],
+  "2027-05-07": [
+   "plastica"
+  ],
+  "2027-05-11": [
+   "indifferenziato"
+  ],
+  "2027-05-14": [
+   "carta"
+  ],
+  "2027-05-21": [
+   "plastica"
+  ],
+  "2027-05-25": [
+   "indifferenziato"
+  ],
+  "2027-05-28": [
+   "carta"
+  ],
+  "2027-06-04": [
+   "plastica"
+  ],
+  "2027-06-08": [
+   "indifferenziato"
+  ],
+  "2027-06-11": [
+   "carta"
+  ],
+  "2027-06-18": [
+   "plastica"
+  ],
+  "2027-06-22": [
+   "indifferenziato"
+  ],
+  "2027-06-25": [
+   "carta"
+  ],
+  "2027-07-02": [
+   "plastica"
+  ],
+  "2027-07-06": [
+   "indifferenziato"
+  ],
+  "2027-07-09": [
+   "carta"
+  ],
+  "2027-07-16": [
+   "plastica"
+  ],
+  "2027-07-20": [
+   "indifferenziato"
+  ],
+  "2027-07-23": [
+   "carta"
+  ],
+  "2027-07-30": [
+   "plastica"
+  ],
+  "2027-08-03": [
+   "indifferenziato"
+  ],
+  "2027-08-06": [
+   "carta"
+  ],
+  "2027-08-13": [
+   "plastica"
+  ],
+  "2027-08-17": [
+   "indifferenziato"
+  ],
+  "2027-08-20": [
+   "carta"
+  ],
+  "2027-08-27": [
+   "plastica"
+  ],
+  "2027-08-31": [
+   "indifferenziato"
+  ],
+  "2027-09-03": [
+   "carta"
+  ],
+  "2027-09-10": [
+   "plastica"
+  ],
+  "2027-09-14": [
+   "indifferenziato"
+  ],
+  "2027-09-17": [
+   "carta"
+  ],
+  "2027-09-24": [
+   "plastica"
+  ],
+  "2027-09-28": [
+   "indifferenziato"
+  ],
+  "2027-10-01": [
+   "carta"
+  ],
+  "2027-10-08": [
+   "plastica"
+  ],
+  "2027-10-12": [
+   "indifferenziato"
+  ],
+  "2027-10-15": [
+   "carta"
+  ],
+  "2027-10-22": [
+   "plastica"
+  ],
+  "2027-10-26": [
+   "indifferenziato"
+  ],
+  "2027-10-29": [
+   "carta"
+  ],
+  "2027-11-05": [
+   "plastica"
+  ],
+  "2027-11-09": [
+   "indifferenziato"
+  ],
+  "2027-11-12": [
+   "carta"
+  ],
+  "2027-11-19": [
+   "plastica"
+  ],
+  "2027-11-23": [
+   "indifferenziato"
+  ],
+  "2027-11-26": [
+   "carta"
+  ],
+  "2027-12-03": [
+   "plastica"
+  ],
+  "2027-12-07": [
+   "indifferenziato"
+  ],
+  "2027-12-10": [
+   "carta"
+  ],
+  "2027-12-17": [
+   "plastica"
+  ],
+  "2027-12-21": [
+   "indifferenziato"
+  ],
+  "2027-12-24": [
+   "carta"
+  ],
+  "2027-12-31": [
+   "plastica"
+  ],
+  "2028-01-04": [
+   "indifferenziato"
+  ],
+  "2028-01-07": [
+   "carta"
+  ],
+  "2028-01-14": [
+   "plastica"
+  ],
+  "2028-01-18": [
+   "indifferenziato"
+  ],
+  "2028-01-21": [
+   "carta"
+  ],
+  "2028-01-28": [
+   "plastica"
+  ],
+  "2028-02-01": [
+   "indifferenziato"
+  ],
+  "2028-02-04": [
+   "carta"
+  ],
+  "2028-02-11": [
+   "plastica"
+  ],
+  "2028-02-15": [
+   "indifferenziato"
+  ],
+  "2028-02-18": [
+   "carta"
+  ],
+  "2028-02-25": [
+   "plastica"
+  ],
+  "2028-02-29": [
+   "indifferenziato"
+  ]
+ },
+ "esposizione": "Esporre contenitori e sacchi dopo le 20:00 della sera precedente il ritiro.",
+ "note": [
+  "Organico e vetro seguono il circuito stradale dove previsto. Per il porta a porta UND chiedere attivazione, giro, date e recuperi per la sede. Il vetro va separato per colore secondo la scheda.",
+  "Ritirare i contenitori come indicato nel calendario. Il verde richiede conferma locale di accesso, prenotazione e condizioni per le attività."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-04",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-01"
+  }
+ ]
+}
