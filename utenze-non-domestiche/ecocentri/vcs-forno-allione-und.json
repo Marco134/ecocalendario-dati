@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Valle Camonica Servizi",
+ "numero_verde": "800 905 522",
+ "orari_numero_verde": "Lun–ven 08:00–20:00, sab 08:00–13:00",
+ "accesso": "Il regolamento dell’Unione ammette le attività con sede legale o operativa nei cinque comuni per rifiuti urbani non pericolosi ammessi, con ragione sociale, codice fiscale o partita IVA e registrazione. Esclusi gli scarti di lavorazione.",
+ "avviso": "Per disponibilità, codici e quantità consultare il gestore e le regole della sede. Le schede ufficiali riportano gli orari locali.",
+ "fonte": "https://vallecamonicaservizi.it/isole-ecologiche/ | https://www.unionevalsaviore.bs.it/Pages/amministrazione_trasparente_v3_0/?code=AT.10.20.20.20 | https://www.unionevalsaviore.bs.it/luogo/centro-di-raccolta-rifiuti",
+ "centri": [
+  {
+   "id": "vcs-forno-allione-und",
+   "tipo": "raccolta",
+   "comune": "Berzo Demo",
+   "indirizzo": "Località Forno Allione",
+   "lat": 46.0882552,
+   "lon": 10.3164387,
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "12:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "VCS indica il sabato fino alle 12:00. La scheda dell’Unione indica le 13:00. Per Cevo confermare il centro della ditta: il regolamento include Cevo e la scheda della sede elenca quattro comuni."
+  }
+ ]
+}

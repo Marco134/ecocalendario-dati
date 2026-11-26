@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Valle Camonica Servizi",
+ "numero_verde": "800 905 522",
+ "orari_numero_verde": "Lun–ven 08:00–20:00, sab 08:00–13:00",
+ "accesso": "Accesso UND per utenze iscritte alla TARI di Darfo Boario Terme e Angolo Terme. Confermare le frazioni, i limiti e i documenti applicabili.",
+ "avviso": "Per disponibilità, codici e quantità consultare il gestore e le regole della sede. Le schede ufficiali riportano gli orari locali.",
+ "fonte": "https://vallecamonicaservizi.it/isole-ecologiche/ | https://www.comune.darfoboarioterme.bs.it/it/vivere/centro-di-raccolta-inter-comunale-gestito-da-valle-camonica-servizi",
+ "centri": [
+  {
+   "id": "vcs-darfo-und",
+   "tipo": "raccolta",
+   "comune": "Darfo Boario Terme",
+   "indirizzo": "Via Giovanni Battista Gregorini, Corna",
+   "lat": 45.8800228,
+   "lon": 10.1745025,
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Accesso UND per utenze iscritte alla TARI di Darfo Boario Terme e Angolo Terme. Confermare le frazioni, i limiti e i documenti applicabili."
+  }
+ ]
+}

@@ -1,0 +1,141 @@
+{
+ "schema": 1,
+ "comune": "Malonno",
+ "provincia": "BS",
+ "gestore": "Valle Camonica Servizi",
+ "zona": "Malonno · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "esposizione": "Esponi dalle 20:00 del giorno precedente ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "https://vallecamonicaservizi.it/wp-content/uploads/2026/01/CALENDARIO_MALONNO_FEB26_GEN27.pdf | https://vallecamonicaservizi.it/comuni/malonno/ | https://vallecamonicaservizi.it/faq/",
+ "note": [
+  "Il gestore indica le stesse frequenze ordinarie per famiglie e aziende. Confermare dotazione e ritiri dedicati al proprio indirizzo.",
+  "Vetro e lattine si raccolgono insieme. Per verde, pannolini e servizi su richiesta consultare il gestore.",
+  "Centro indicato dal gestore: Località Mollo, Sonico. Orari generali. Confermare accesso per le attività, titolo, codici EER e quantità prima del conferimento."
+ ],
+ "raccolte": {
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-27": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-03": [
+   "carta"
+  ],
+  "2027-01-05": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-07": [
+   "indifferenziato"
+  ],
+  "2027-01-08": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-21": [
+   "indifferenziato"
+  ],
+  "2027-01-22": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "carta",
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-01",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2027-01-03",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  }
+ ]
+}

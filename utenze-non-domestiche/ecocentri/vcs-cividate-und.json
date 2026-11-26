@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Valle Camonica Servizi",
+ "numero_verde": "800 905 522",
+ "orari_numero_verde": "Lun–ven 08:00–20:00, sab 08:00–13:00",
+ "accesso": "Il Comune conferma l’accesso alle UND iscritte alla TARI di Cividate Camuno e Malegno e la registrazione tramite partita IVA. Verificare il rifiuto ammesso e il regolamento aggiornato.",
+ "avviso": "Per disponibilità, codici e quantità consultare il gestore e le regole della sede. Le schede ufficiali riportano gli orari locali.",
+ "fonte": "https://vallecamonicaservizi.it/isole-ecologiche/ | https://www.comune.cividate-camuno.bs.it/luogo/centro-di-raccolta-rifiuti-intercomunale",
+ "centri": [
+  {
+   "id": "vcs-cividate-und",
+   "tipo": "raccolta",
+   "comune": "Cividate Camuno",
+   "indirizzo": "Via Caduti sul Lavoro",
+   "lat": 45.9385152,
+   "lon": 10.2721263,
+   "orari": {
+    "2": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Il Comune conferma l’accesso alle UND iscritte alla TARI di Cividate Camuno e Malegno e la registrazione tramite partita IVA. Verificare il rifiuto ammesso e il regolamento aggiornato."
+  }
+ ]
+}

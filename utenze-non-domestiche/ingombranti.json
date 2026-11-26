@@ -2233,6 +2233,58 @@
    "regole_en": [
     "Check municipal bulky waste eligibility and recycling centre conditions with Acsel. Ask for business collection availability."
    ]
+  },
+  {
+   "id": "valle-camonica-servizi-und",
+   "nome": "Valle Camonica Servizi · UND",
+   "comuni": [
+    "angolo-terme",
+    "artogne",
+    "berzo-demo",
+    "berzo-inferiore",
+    "bienno",
+    "borno",
+    "braone",
+    "breno",
+    "capo-di-ponte",
+    "cedegolo",
+    "cerveno",
+    "ceto",
+    "cevo",
+    "cividate-camuno",
+    "corteno-golgi",
+    "darfo-boario-terme",
+    "edolo",
+    "esine",
+    "gianico",
+    "losine",
+    "lozio",
+    "malegno",
+    "malonno",
+    "niardo",
+    "ono-san-pietro",
+    "ossimo",
+    "paisco-loveno",
+    "pian-camuno",
+    "piancogno",
+    "saviore-dell-adamello",
+    "sellero",
+    "sonico"
+   ],
+   "gestori": [],
+   "telefono": "800 905 522",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "L’elenco dei centri riporta gli ingombranti urbani EER 20 03 07. Le attività devono verificare autorizzazione, frazione, quantità e possibili costi per la sede. Per un eventuale ritiro presso l’attività, chiedere al gestore.",
+    "Cividate Camuno indica una compartecipazione oltre 150 kg annui per utenza e frazione ingombranti o inerti. Verificare applicabilità, ammissibilità e quota con il Comune.",
+    "Per Forno Allione consultare l’articolo 8 del regolamento."
+   ],
+   "regole_en": [
+    "Check eligible municipal bulky waste, centre access and limits with VCS."
+   ],
+   "fonte": "https://vallecamonicaservizi.it/isole-ecologiche/ | https://www.comune.cividate-camuno.bs.it/luogo/centro-di-raccolta-rifiuti-intercomunale | https://www.unionevalsaviore.bs.it/Pages/amministrazione_trasparente_v3_0/?code=AT.10.20.20.20 | https://www.comune.darfoboarioterme.bs.it/it/vivere/centro-di-raccolta-inter-comunale-gestito-da-valle-camonica-servizi"
   }
  ]
 }

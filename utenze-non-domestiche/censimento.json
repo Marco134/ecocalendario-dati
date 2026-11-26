@@ -275,7 +275,12 @@
    "nome": "Angolo Terme",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/angolo-terme/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "angrogna",
@@ -410,7 +415,12 @@
    "nome": "Artogne",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/artogne/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "asolo",
@@ -842,14 +852,24 @@
    "nome": "Berzo Demo",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/berzo-demo/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "berzo-inferiore",
    "nome": "Berzo Inferiore",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/berzo-inferiore/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "besnate",
@@ -906,7 +926,12 @@
    "nome": "Bienno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/bienno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "bobbio-pellice",
@@ -1091,7 +1116,12 @@
    "nome": "Borno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/borno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "borso-del-grappa",
@@ -1155,7 +1185,12 @@
    "nome": "Braone",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/braone/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "breda-di-piave",
@@ -1172,7 +1207,12 @@
    "nome": "Breno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/breno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. La fascia del lunedì del centro compare con orari diversi su due pagine ufficiali. Verificare se vale per la propria attività.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "brenta",
@@ -1634,7 +1674,12 @@
    "nome": "Capo di Ponte",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/capo-di-ponte/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "capodimonte",
@@ -2286,7 +2331,12 @@
    "nome": "Cedegolo",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/cedegolo/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "celleno",
@@ -2414,7 +2464,12 @@
    "nome": "Cerveno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/cerveno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "cervere",
@@ -2473,14 +2528,24 @@
    "nome": "Ceto",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/ceto/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "cevo",
    "nome": "Cevo",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/cevo/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "cherasco",
@@ -2678,7 +2743,12 @@
    "nome": "Cividate Camuno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/cividate-camuno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Il Comune conferma l’ingresso UND registrato con partita IVA. Verificare le soglie e le frazioni ammesse con il centro.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "claviere",
@@ -2904,7 +2974,12 @@
    "nome": "Corteno Golgi",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/corteno-golgi/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "cortenova",
@@ -3123,7 +3198,12 @@
    "nome": "Darfo Boario Terme",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/download-calendari/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 3
   },
   {
    "id": "daverio",
@@ -3292,7 +3372,12 @@
    "nome": "Edolo",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/edolo/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "ello",
@@ -3316,7 +3401,12 @@
    "nome": "Esine",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/esine/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "esino-lario",
@@ -3702,7 +3792,12 @@
    "nome": "Gianico",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/gianico/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "giaveno",
@@ -4330,14 +4425,24 @@
    "nome": "Losine",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/losine/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "lozio",
    "nome": "Lozio",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/lozio/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "lubriano",
@@ -4490,7 +4595,12 @@
    "nome": "Malegno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/malegno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Il centro intercomunale è in Via Caduti sul Lavoro, Cividate Camuno. Verificare le soglie e le frazioni ammesse.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "malesco",
@@ -4517,7 +4627,12 @@
    "nome": "Malonno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/malonno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "mandello-del-lario",
@@ -5386,7 +5501,12 @@
    "nome": "Niardo",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/niardo/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "nibionno",
@@ -5603,7 +5723,12 @@
    "nome": "Ono San Pietro",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/ono-san-pietro/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "orbassano",
@@ -5700,7 +5825,12 @@
    "nome": "Ossimo",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/ossimo/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Il centro di Borno è indicato per Ossimo fino al 31/12/2026. Chiedere al Comune la sede e le condizioni per il nuovo anno.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "oulx",
@@ -5769,7 +5899,12 @@
    "nome": "Paisco Loveno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/paisco-loveno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Il PDF condiviso è intestato Paisco Loveno e Loveno Inferiore nella scheda del selettore. Confermare la copertura del singolo civico se parte di una frazione.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "palazzo-canavese",
@@ -6029,14 +6164,24 @@
    "nome": "Pian Camuno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/pian-camuno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "piancogno",
    "nome": "Piancogno",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/piancogno/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "pianezza",
@@ -7465,7 +7610,12 @@
    "nome": "Saviore dell'Adamello",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/saviore-dell-adamello/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "scalenghe",
@@ -7509,7 +7659,12 @@
    "nome": "Sellero",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/sellero/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "selva-di-cadore",
@@ -7689,7 +7844,12 @@
    "nome": "Sonico",
    "provincia": "BS",
    "gestore": "Valle Camonica Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://vallecamonicaservizi.it/comuni/sonico/ | https://vallecamonicaservizi.it/faq/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario ordinario confermato per le attività dalla FAQ. Per dotazioni, centro, ingombranti e turni aggiuntivi verificare il profilo UND con il gestore.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "sordio",

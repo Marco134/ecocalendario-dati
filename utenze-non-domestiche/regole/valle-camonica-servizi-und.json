@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "nome": "Valle Camonica Servizi · materiali UND",
+ "fonte": "https://vallecamonicaservizi.it/calendario-raccolta/differenziare-bene/ | https://vallecamonicaservizi.it/download-calendari/ | https://www.unionevalsaviore.bs.it/Pages/amministrazione_trasparente_v3_0/?code=AT.10.20.20.20 | https://www.comune.cividate-camuno.bs.it/luogo/centro-di-raccolta-rifiuti-intercomunale | https://www.comune.darfoboarioterme.bs.it/it/vivere/centro-di-raccolta-inter-comunale-gestito-da-valle-camonica-servizi",
+ "voci": {
+  "giornali e fogli di carta": {
+   "dove": "carta",
+   "nota": "Conferire nel contenitore della carta assegnato."
+  },
+  "cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Ridurre di volume e separare gli altri materiali. Verificare ritiro e contenitore per i volumi dell’attività."
+  },
+  "bottiglie e flaconi in plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare. Usare il circuito degli imballaggi in plastica."
+  },
+  "vaschette e contenitori da imballaggio in plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare prima di conferire. Gli oggetti in plastica diversa dagli imballaggi seguono altri canali."
+  },
+  "bottiglie, vasetti e barattoli in vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare. La raccolta locale abbina vetro e lattine."
+  },
+  "lattine, scatolette e vaschette metalliche": {
+   "dove": "vetro",
+   "nota": "Svuotare. Conferire gli imballaggi metallici con vetro e lattine."
+  },
+  "ceramica, cristallo e vetroceramica": {
+   "dove": "varia",
+   "nota": "Materiali esclusi dal circuito vetro e lattine. Verificare la destinazione e le condizioni per la provenienza."
+  },
+  "oggetti e giocattoli in plastica": {
+   "dove": "varia",
+   "nota": "Sono esclusi dalla raccolta degli imballaggi in plastica. Verificare destinazione e dimensioni."
+  },
+  "scarti organici urbani dell’attività": {
+   "dove": "organico",
+   "nota": "Usare il contenitore dell’organico assegnato. Verificare il circuito per scarti di lavorazione o soggetti a regole specifiche."
+  },
+  "residuo urbano secco": {
+   "dove": "indifferenziato",
+   "nota": "Usare il contenitore del residuo assegnato. Per materiali professionali, verificare la classificazione."
+  },
+  "arredi e ingombranti urbani": {
+   "dove": "varia",
+   "nota": "Verificare che il centro accetti il codice EER 20 03 07 per l’attività. A Forno Allione vale il regolamento dell’Unione."
+  },
+  "legno e pallet": {
+   "dove": "varia",
+   "nota": "Verificare frazione, sede e quantità. A Forno Allione il regolamento indica fino a quattro bancali o pallet all’anno per le attività."
+  },
+  "residui di manutenzione del verde": {
+   "dove": "varia",
+   "nota": "Verificare origine, quantità, attivazione del servizio e centro abilitato per l’impresa."
+  },
+  "piccoli apparecchi elettronici": {
+   "dove": "varia",
+   "nota": "Verificare le condizioni per l’attività. Per Forno Allione il regolamento distingue apparecchi di tipo domestico, quantità e frequenze."
+  },
+  "frigoriferi e banchi refrigerati professionali": {
+   "dove": "varia",
+   "nota": "Verificare un canale autorizzato. Il regolamento Valsaviore esclude i frigoriferi e banchi commerciali oltre le dimensioni di un frigorifero domestico."
+  },
+  "batterie per veicoli e oli minerali delle attività": {
+   "dove": "varia",
+   "nota": "Per Forno Allione il regolamento esclude questi conferimenti delle attività. Verificare circuito professionale e codice."
+  },
+  "macerie, inerti e scarti edili professionali": {
+   "dove": "varia",
+   "nota": "Verificare il circuito professionale. Le condizioni per piccoli lavori domestici sono distinte."
+  }
+ }
+}

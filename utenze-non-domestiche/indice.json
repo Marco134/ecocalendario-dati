@@ -394,6 +394,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-andrate/"
   },
   {
+   "id": "angolo-terme",
+   "nome": "Angolo Terme",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.891036,
+   "lon": 10.146099,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Angolo Terme · UND ordinaria",
+     "file": "comuni/angolo-terme/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-darfo-und.json"
+  },
+  {
    "id": "angrogna",
    "nome": "Angrogna",
    "provincia": "TO",
@@ -572,6 +590,23 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-arola.json"
+  },
+  {
+   "id": "artogne",
+   "nome": "Artogne",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.848982,
+   "lon": 10.164556,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Artogne · UND ordinaria",
+     "file": "comuni/artogne/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
   },
   {
    "id": "asola",
@@ -1318,6 +1353,41 @@
    ]
   },
   {
+   "id": "berzo-demo",
+   "nome": "Berzo Demo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.093418,
+   "lon": 10.336266,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Berzo Demo · UND ordinaria",
+     "file": "comuni/berzo-demo/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-forno-allione-und.json"
+  },
+  {
+   "id": "berzo-inferiore",
+   "nome": "Berzo Inferiore",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.931693,
+   "lon": 10.280587,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Berzo Inferiore · UND ordinaria",
+     "file": "comuni/berzo-inferiore/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "berzo-san-fermo",
    "nome": "Berzo San Fermo",
    "provincia": "BG",
@@ -1489,6 +1559,23 @@
      "nome": "Eco-Punti e servizi dedicati",
      "file": "comuni/bibiana/zona-ecopunti-e-servizi-dedicati.json",
      "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "bienno",
+   "nome": "Bienno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.935562,
+   "lon": 10.294791,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Bienno · UND ordinaria",
+     "file": "comuni/bienno/zona-unica.json",
+     "valido_al": "2027-01-31"
     }
    ]
   },
@@ -1723,6 +1810,23 @@
    "regole": "regole/secam-und-cartone.json"
   },
   {
+   "id": "borno",
+   "nome": "Borno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.94733,
+   "lon": 10.206404,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Borno · UND ordinaria",
+     "file": "comuni/borno/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "borso-del-grappa",
    "nome": "Borso del Grappa",
    "provincia": "TV",
@@ -1822,6 +1926,23 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/bra.pdf"
   },
   {
+   "id": "braone",
+   "nome": "Braone",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.990034,
+   "lon": 10.34319,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Braone · UND ordinaria",
+     "file": "comuni/braone/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "breda-di-piave",
    "nome": "Breda di Piave",
    "provincia": "TV",
@@ -1834,6 +1955,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/breda-di-piave/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "breno",
+   "nome": "Breno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.956324,
+   "lon": 10.30404,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Breno · UND ordinaria",
+     "file": "comuni/breno/zona-unica.json",
      "valido_al": "2027-01-31"
     }
    ]
@@ -2570,6 +2708,23 @@
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/capitignano/zona-servizi-attivita.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "capo-di-ponte",
+   "nome": "Capo di Ponte",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.030996,
+   "lon": 10.345862,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Capo di Ponte · UND ordinaria",
+     "file": "comuni/capo-di-ponte/zona-unica.json",
+     "valido_al": "2027-01-31"
     }
    ]
   },
@@ -3522,6 +3677,24 @@
    ]
   },
   {
+   "id": "cedegolo",
+   "nome": "Cedegolo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.076646,
+   "lon": 10.350068,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Cedegolo · UND ordinaria",
+     "file": "comuni/cedegolo/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-forno-allione-und.json"
+  },
+  {
    "id": "cenate-sopra",
    "nome": "Cenate Sopra",
    "provincia": "BG",
@@ -3706,6 +3879,23 @@
    ]
   },
   {
+   "id": "cerveno",
+   "nome": "Cerveno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.002509,
+   "lon": 10.325791,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Cerveno · UND ordinaria",
+     "file": "comuni/cerveno/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "cervere",
    "nome": "Cervere",
    "provincia": "CN",
@@ -3775,6 +3965,41 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-cesara.json"
+  },
+  {
+   "id": "ceto",
+   "nome": "Ceto",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.002595,
+   "lon": 10.351963,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Ceto · UND ordinaria",
+     "file": "comuni/ceto/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "cevo",
+   "nome": "Cevo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.081397,
+   "lon": 10.368562,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Cevo · UND ordinaria",
+     "file": "comuni/cevo/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-forno-allione-und.json"
   },
   {
    "id": "cherasco",
@@ -4059,6 +4284,24 @@
      "valido_al": "2028-02-25"
     }
    ]
+  },
+  {
+   "id": "cividate-camuno",
+   "nome": "Cividate Camuno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.942493,
+   "lon": 10.277462,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Cividate Camuno · UND ordinaria",
+     "file": "comuni/cividate-camuno/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-cividate-und.json"
   },
   {
    "id": "civitella-di-romagna",
@@ -4461,6 +4704,23 @@
    ]
   },
   {
+   "id": "corteno-golgi",
+   "nome": "Corteno Golgi",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.166198,
+   "lon": 10.243457,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Corteno Golgi · UND ordinaria",
+     "file": "comuni/corteno-golgi/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "cosio-valtellino",
    "nome": "Cosio Valtellino",
    "provincia": "SO",
@@ -4715,6 +4975,37 @@
    ]
   },
   {
+   "id": "darfo-boario-terme",
+   "nome": "Darfo Boario Terme",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.883486,
+   "lon": 10.180707,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "ambito-1",
+     "nome": "Ambito 1 Darfo, Cappellino, Montecchio · UND",
+     "file": "comuni/darfo-boario-terme/zona-ambito-1.json",
+     "valido_al": "2027-01-31"
+    },
+    {
+     "id": "ambito-2",
+     "nome": "Ambito 2 Corna, Capo di Lago, Bessimo, Fucine, Pellalepre · UND",
+     "file": "comuni/darfo-boario-terme/zona-ambito-2.json",
+     "valido_al": "2027-01-31"
+    },
+    {
+     "id": "ambito-3",
+     "nome": "Ambito 3 Boario, Erbanno, Gorzone, Angone · UND",
+     "file": "comuni/darfo-boario-terme/zona-ambito-3.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-darfo-und.json",
+   "zone_url": "https://vallecamonicaservizi.it/download-calendari/"
+  },
+  {
    "id": "daverio",
    "nome": "Daverio",
    "provincia": "VA",
@@ -4940,6 +5231,23 @@
    ]
   },
   {
+   "id": "edolo",
+   "nome": "Edolo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.179375,
+   "lon": 10.330757,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Edolo · UND ordinaria",
+     "file": "comuni/edolo/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "endine-gaiano",
    "nome": "Endine Gaiano",
    "provincia": "BG",
@@ -4954,6 +5262,23 @@
      "nome": "Zona unica",
      "file": "comuni/endine-gaiano/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "esine",
+   "nome": "Esine",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.925692,
+   "lon": 10.250862,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Esine · UND ordinaria",
+     "file": "comuni/esine/zona-unica.json",
+     "valido_al": "2027-01-31"
     }
    ]
   },
@@ -5744,6 +6069,23 @@
      "nome": "Circuito stradale · informazioni UND",
      "file": "comuni/giaglione/zona-stradale.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "gianico",
+   "nome": "Gianico",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.86453,
+   "lon": 10.183653,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Gianico · UND ordinaria",
+     "file": "comuni/gianico/zona-unica.json",
+     "valido_al": "2027-01-31"
     }
    ]
   },
@@ -6790,6 +7132,23 @@
    ]
   },
   {
+   "id": "losine",
+   "nome": "Losine",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.983494,
+   "lon": 10.316163,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Losine · UND ordinaria",
+     "file": "comuni/losine/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "lovere",
    "nome": "Lovere",
    "provincia": "BG",
@@ -6804,6 +7163,23 @@
      "nome": "Zona unica",
      "file": "comuni/lovere/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lozio",
+   "nome": "Lozio",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.986103,
+   "lon": 10.26036,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Lozio · UND ordinaria",
+     "file": "comuni/lozio/zona-unica.json",
+     "valido_al": "2027-01-31"
     }
    ]
   },
@@ -7048,6 +7424,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-maglione/"
   },
   {
+   "id": "malegno",
+   "nome": "Malegno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.950602,
+   "lon": 10.273339,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Malegno · UND ordinaria",
+     "file": "comuni/malegno/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-cividate-und.json"
+  },
+  {
    "id": "malesco",
    "nome": "Malesco",
    "provincia": "VB",
@@ -7064,6 +7458,23 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-malesco.json"
+  },
+  {
+   "id": "malonno",
+   "nome": "Malonno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.122581,
+   "lon": 10.319212,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Malonno · UND ordinaria",
+     "file": "comuni/malonno/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
   },
   {
    "id": "manerba-del-garda",
@@ -8459,6 +8870,23 @@
    ]
   },
   {
+   "id": "niardo",
+   "nome": "Niardo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.975994,
+   "lon": 10.333263,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Niardo · UND ordinaria",
+     "file": "comuni/niardo/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "noasca",
    "nome": "Noasca",
    "provincia": "TO",
@@ -8775,6 +9203,23 @@
    "ecocentri": "ecocentri/conser-vco-und-omegna.json"
   },
   {
+   "id": "ono-san-pietro",
+   "nome": "Ono San Pietro",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.016895,
+   "lon": 10.328362,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Ono San Pietro · UND ordinaria",
+     "file": "comuni/ono-san-pietro/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "orio-canavese",
    "nome": "Orio Canavese",
    "provincia": "TO",
@@ -8883,6 +9328,23 @@
    ]
   },
   {
+   "id": "ossimo",
+   "nome": "Ossimo",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.946192,
+   "lon": 10.230561,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Ossimo · UND ordinaria",
+     "file": "comuni/ossimo/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
    "id": "oulx",
    "nome": "Oulx",
    "provincia": "TO",
@@ -8954,6 +9416,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/paese/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "paisco-loveno",
+   "nome": "Paisco Loveno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.078305,
+   "lon": 10.290733,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Paisco Loveno · UND ordinaria",
+     "file": "comuni/paisco-loveno/zona-unica.json",
      "valido_al": "2027-01-31"
     }
    ]
@@ -9351,6 +9830,40 @@
      "nome": "Contenitori stradali · informazioni UND",
      "file": "comuni/pessinetto/zona-stradale.json",
      "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pian-camuno",
+   "nome": "Pian Camuno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.843752,
+   "lon": 10.157887,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Pian Camuno · UND ordinaria",
+     "file": "comuni/pian-camuno/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "piancogno",
+   "nome": "Piancogno",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 45.919692,
+   "lon": 10.225262,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Piancogno · UND ordinaria",
+     "file": "comuni/piancogno/zona-unica.json",
+     "valido_al": "2027-01-31"
     }
    ]
   },
@@ -11931,6 +12444,24 @@
    ]
   },
   {
+   "id": "saviore-dell-adamello",
+   "nome": "Saviore dell'Adamello",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.080497,
+   "lon": 10.399663,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Saviore dell'Adamello · UND ordinaria",
+     "file": "comuni/saviore-dell-adamello/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-forno-allione-und.json"
+  },
+  {
    "id": "scalenghe",
    "nome": "Scalenghe",
    "provincia": "TO",
@@ -12024,6 +12555,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "sellero",
+   "nome": "Sellero",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.055989,
+   "lon": 10.34399,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Sellero · UND ordinaria",
+     "file": "comuni/sellero/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "ecocentri": "ecocentri/vcs-forno-allione-und.json"
   },
   {
    "id": "serralunga-d-alba",
@@ -12340,6 +12889,23 @@
    "ecocentri": "ecocentri/secam-und-sondrio.json",
    "regole": "regole/secam-und-sondrio.json",
    "zone_url": "https://comune.sondrio.it/wp-content/uploads/sites/152/2026/02/all_del_14_2025_Regolamento_del_servizio_di_igiene_urbana.pdf"
+  },
+  {
+   "id": "sonico",
+   "nome": "Sonico",
+   "provincia": "BS",
+   "gestore": "Valle Camonica Servizi",
+   "lat": 46.165499,
+   "lon": 10.35286,
+   "consorzio": "valle-camonica-servizi-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Sonico · UND ordinaria",
+     "file": "comuni/sonico/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ]
   },
   {
    "id": "sordio",
@@ -15225,6 +15791,12 @@
    "gestore": "Acsel S.p.A.",
    "ecocentri": "ecocentri/acsel-und.json",
    "regole": "regole/acsel-und.json"
+  },
+  "valle-camonica-servizi-und": {
+   "nome": "Valle Camonica Servizi · utenze non domestiche",
+   "gestore": "Valle Camonica Servizi",
+   "ecocentri": "ecocentri/valle-camonica-servizi-und.json",
+   "regole": "regole/valle-camonica-servizi-und.json"
   }
  }
 }
