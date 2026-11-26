@@ -2382,6 +2382,54 @@
    "regole_en": [
     "Check collection centre access, eligible bulky waste and any business collection agreement with the operator."
    ]
+  },
+  {
+   "id": "valli-del-verbano-und",
+   "nome": "Valli del Verbano · UND",
+   "gestori": [],
+   "comuni": [
+    "agra",
+    "azzio",
+    "brenta",
+    "brezzo-di-bedero",
+    "brinzio",
+    "brissago-valtravaglia",
+    "caravate",
+    "casalzuigno",
+    "cassano-valcuvia",
+    "castello-cabiaglio",
+    "castelveccana",
+    "cittiglio",
+    "curiglia-con-monteviasco",
+    "cuveglio",
+    "cuvio",
+    "dumenza",
+    "duno",
+    "ferrera-di-varese",
+    "germignaga",
+    "grantola",
+    "laveno-mombello",
+    "luino",
+    "maccagno-con-pino-e-veddasca",
+    "masciago-primo",
+    "mesenzana",
+    "montegrino-valtravaglia",
+    "orino",
+    "porto-valtravaglia",
+    "rancio-valcuvia",
+    "tronzano-lago-maggiore"
+   ],
+   "telefono": "800 135 586",
+   "fonte": "https://vallidelverbano.va.it/ritiro-ingombranti/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/ | https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Il ritiro gratuito pubblicato riguarda gli ingombranti delle utenze domestiche. Per arredi non pericolosi da dismissione di uffici chiedere al centro ammissione, limiti e documenti. Contattare Econord per un eventuale servizio dedicato."
+   ],
+   "regole_en": [
+    "Ask Econord which bulky items from businesses are eligible and what documents are required."
+   ]
   }
  ]
 }

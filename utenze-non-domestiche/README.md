@@ -93,3 +93,7 @@ Il catalogo riporta le raccolte per Eco-Punti e i servizi per le attività. Il C
 ## CISA · 38 comuni
 
 I 40 programmi di raccolta ordinaria si applicano ai civici con porta a porta. Per i servizi aggiuntivi i passaggi dipendono dall’accordo con CISA. I calendari stradali indicano la frequenza dei giri dei cassonetti. Per le Ecostazioni serve autorizzazione o convenzione SIA. [Calendari CISA](https://www.cisaweb.info/it-it/servizi-/servizi/calendari-di-raccolta) · [Archivio Piemonte](https://github.com/Marco134/ecocalendario/tree/main/archivio-ecocalendari/piemonte/utenze-non-domestiche/cisa)
+
+## Valli del Verbano
+
+Calendari UND per Luino, Laveno Mombello e Maccagno con Pino e Veddasca fino al 31 dicembre 2027. A Laveno il profilo bar e ristoranti include la raccolta supplementare di vetro e alluminio. Altri 27 comuni hanno schede di servizio, con turni da confermare per sede e categoria. Per Porto Valtravaglia consultare l’avviso sulla riapertura del centro. [Calendari 2027](https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/) · [Centri di raccolta](https://vallidelverbano.va.it/centri-di-raccolta-e-isole-ecologiche-ed-ecomat-come-chi-dove/)

@@ -79,6 +79,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-aglie/"
   },
   {
+   "id": "agra",
+   "nome": "Agra",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 46.0341,
+   "lon": 8.7714,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/agra/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "agrate-brianza",
    "nome": "Agrate Brianza",
    "provincia": "MB",
@@ -857,6 +875,24 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "azzio",
+   "nome": "Azzio",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8854,
+   "lon": 8.7063,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/azzio/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "baceno",
@@ -2207,6 +2243,24 @@
    ]
   },
   {
+   "id": "brenta",
+   "nome": "Brenta",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8952,
+   "lon": 8.6842,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/brenta/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "brentonico",
    "nome": "Brentonico",
    "provincia": "TN",
@@ -2225,6 +2279,24 @@
    ]
   },
   {
+   "id": "brezzo-di-bedero",
+   "nome": "Brezzo di Bedero",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9779,
+   "lon": 8.7184,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/brezzo-di-bedero/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "bricherasio",
    "nome": "Bricherasio",
    "provincia": "TO",
@@ -2240,6 +2312,42 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "brinzio",
+   "nome": "Brinzio",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8891,
+   "lon": 8.7868,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/brinzio/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
+   "id": "brissago-valtravaglia",
+   "nome": "Brissago-Valtravaglia",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9496,
+   "lon": 8.7464,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/brissago-valtravaglia/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "brosso",
@@ -3081,6 +3189,24 @@
    "regole": "regole/gelsia-und-carate-brianza.json"
   },
   {
+   "id": "caravate",
+   "nome": "Caravate",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8795,
+   "lon": 8.6555,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/caravate/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "caravino",
    "nome": "Caravino",
    "provincia": "TO",
@@ -3406,6 +3532,24 @@
    ]
   },
   {
+   "id": "casalzuigno",
+   "nome": "Casalzuigno",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9033,
+   "lon": 8.7055,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/casalzuigno/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "casazza",
    "nome": "Casazza",
    "provincia": "BG",
@@ -3589,6 +3733,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "cassano-valcuvia",
+   "nome": "Cassano Valcuvia",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9326,
+   "lon": 8.7682,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/cassano-valcuvia/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "cassina-de-pecchi",
@@ -3813,6 +3975,24 @@
    ]
   },
   {
+   "id": "castello-cabiaglio",
+   "nome": "Castello Cabiaglio",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8925,
+   "lon": 8.7548,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/castello-cabiaglio/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "castello-di-godego",
    "nome": "Castello di Godego",
    "provincia": "TV",
@@ -3845,6 +4025,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "castelveccana",
+   "nome": "Castelveccana",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9465,
+   "lon": 8.6648,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/castelveccana/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "castiglione-falletto",
@@ -4882,6 +5080,24 @@
    ]
   },
   {
+   "id": "cittiglio",
+   "nome": "Cittiglio",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8947,
+   "lon": 8.6687,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/cittiglio/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "cividate-camuno",
    "nome": "Cividate Camuno",
    "provincia": "BS",
@@ -5637,6 +5853,60 @@
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
+   "id": "curiglia-con-monteviasco",
+   "nome": "Curiglia con Monteviasco",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 46.0606,
+   "lon": 8.8048,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/curiglia-con-monteviasco/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
+   "id": "cuveglio",
+   "nome": "Cuveglio",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.906,
+   "lon": 8.7358,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/cuveglio/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
+   "id": "cuvio",
+   "nome": "Cuvio",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.898,
+   "lon": 8.7314,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/cuvio/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "darfo-boario-terme",
    "nome": "Darfo Boario Terme",
    "provincia": "BS",
@@ -5941,6 +6211,42 @@
    ]
   },
   {
+   "id": "dumenza",
+   "nome": "Dumenza",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 46.0228,
+   "lon": 8.7849,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/dumenza/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
+   "id": "duno",
+   "nome": "Duno",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9141,
+   "lon": 8.7385,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/duno/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "edolo",
    "nome": "Edolo",
    "provincia": "BS",
@@ -6190,6 +6496,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "ferrera-di-varese",
+   "nome": "Ferrera di Varese",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9323,
+   "lon": 8.7882,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/ferrera-di-varese/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "fiano",
@@ -6831,6 +7155,24 @@
    "ecocentri": "ecocentri/conser-vco-und-germagno.json"
   },
   {
+   "id": "germignaga",
+   "nome": "Germignaga",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9934,
+   "lon": 8.7268,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/germignaga/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "gessate",
    "nome": "Gessate",
    "provincia": "MI",
@@ -7077,6 +7419,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "grantola",
+   "nome": "Grantola",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9496,
+   "lon": 8.7708,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/grantola/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "gravellona-toce",
@@ -7826,6 +8186,30 @@
    ]
   },
   {
+   "id": "laveno-mombello",
+   "nome": "Laveno-Mombello",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9158,
+   "lon": 8.6154,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/laveno-mombello/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "bar-ristoranti",
+     "nome": "Bar e ristoranti · ordinaria più vetro aggiuntivo",
+     "file": "comuni/laveno-mombello/zona-bar-ristoranti.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "leini",
    "nome": "Leinì",
    "provincia": "TO",
@@ -8163,6 +8547,24 @@
    ]
   },
   {
+   "id": "luino",
+   "nome": "Luino",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 46.0025,
+   "lon": 8.7424,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/luino/zona-unica.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "lunamatrona",
    "nome": "Lunamatrona",
    "provincia": "VS",
@@ -8247,6 +8649,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "maccagno-con-pino-e-veddasca",
+   "nome": "Maccagno con Pino e Veddasca",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 46.0426,
+   "lon": 8.7424,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/maccagno-con-pino-e-veddasca/zona-unica.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "macello",
@@ -8677,6 +9097,24 @@
    ]
   },
   {
+   "id": "masciago-primo",
+   "nome": "Masciago Primo",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9164,
+   "lon": 8.7808,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/masciago-primo/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "maser",
    "nome": "Maser",
    "provincia": "TV",
@@ -9066,6 +9504,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "mesenzana",
+   "nome": "Mesenzana",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.947,
+   "lon": 8.7588,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/mesenzana/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "mezzago",
@@ -9590,6 +10046,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "montegrino-valtravaglia",
+   "nome": "Montegrino Valtravaglia",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9735,
+   "lon": 8.7681,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/montegrino-valtravaglia/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "monteleone-d-orvieto",
@@ -10288,6 +10762,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "orino",
+   "nome": "Orino",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.8818,
+   "lon": 8.7129,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/orino/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "orio-canavese",
@@ -11567,6 +12059,24 @@
    ]
   },
   {
+   "id": "porto-valtravaglia",
+   "nome": "Porto Valtravaglia",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9608,
+   "lon": 8.6803,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/porto-valtravaglia/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "possagno",
    "nome": "Possagno",
    "provincia": "TV",
@@ -12090,6 +12600,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "rancio-valcuvia",
+   "nome": "Rancio Valcuvia",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 45.9163,
+   "lon": 8.7702,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/rancio-valcuvia/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
    "id": "ranzanico",
@@ -15361,6 +15889,24 @@
    "ecocentri": "ecocentri/conser-vco-und-trontano.json"
   },
   {
+   "id": "tronzano-lago-maggiore",
+   "nome": "Tronzano Lago Maggiore",
+   "provincia": "VA",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "lat": 46.0915,
+   "lon": 8.7355,
+   "consorzio": "valli-del-verbano-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni da confermare",
+     "file": "comuni/tronzano-lago-maggiore/zona-servizi-attivita.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
+  },
+  {
    "id": "truccazzano",
    "nome": "Truccazzano",
    "provincia": "MI",
@@ -17347,6 +17893,12 @@
    "gestore": "Medio Novarese Ambiente",
    "ecocentri": "ecocentri/medio-novarese-und.json",
    "regole": "regole/medio-novarese-und.json"
+  },
+  "valli-del-verbano-und": {
+   "nome": "Valli del Verbano · UND",
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "ecocentri": "ecocentri/valli-del-verbano-und.json",
+   "regole": "regole/valli-del-verbano-und.json"
   }
  }
 }

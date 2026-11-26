@@ -54,8 +54,13 @@
    "id": "agra",
    "nome": "Agra",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-5_-3-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-5_-3-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 5 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "agrate-brianza",
@@ -512,8 +517,13 @@
    "id": "azzio",
    "nome": "Azzio",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "baceno",
@@ -1258,15 +1268,25 @@
    "id": "brenta",
    "nome": "Brenta",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-2_-6-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-2_-6-COMUNI_2027-.pdf | https://vallidelverbano.va.it/avviso-agli-utenti-calendario-raccolta-rifiuti-2026-gruppo-2/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 2 · campo di applicazione UND da confermare Per il gruppo 2 a novembre 2026 la copia cartacea spostava erroneamente i passaggi di un giorno. La Comunità Montana indica come corretta la versione online.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "brezzo-di-bedero",
    "nome": "Brezzo di Bedero",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/BREZZO-DI-BEDERO_UT-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/BREZZO-DI-BEDERO_UT-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Singolo comune · PDF identificato come domestico",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "bricherasio",
@@ -1289,15 +1309,25 @@
    "id": "brinzio",
    "nome": "Brinzio",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "brissago-valtravaglia",
    "nome": "Brissago-Valtravaglia",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-4_-2-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-4_-2-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 4 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "brivio",
@@ -1801,8 +1831,13 @@
    "id": "caravate",
    "nome": "Caravate",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-2_-6-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-2_-6-COMUNI_2027-.pdf | https://vallidelverbano.va.it/avviso-agli-utenti-calendario-raccolta-rifiuti-2026-gruppo-2/ | https://www.comune.caravate.va.it/it/news/servizio-igiene-urbana-smaltimento-carta-per-utenze-non-domestiche | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 2 · campo di applicazione UND da confermare Per il gruppo 2 a novembre 2026 la copia cartacea spostava erroneamente i passaggi di un giorno. La Comunità Montana indica come corretta la versione online. Un avviso comunale indicava di portare il cartone di grande volume ai centri. La pagina oggi risponde HTTP 410. Chiedere conferma di validità, limiti e turni.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "caravino",
@@ -1966,8 +2001,13 @@
    "id": "casalzuigno",
    "nome": "Casalzuigno",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-2_-6-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-2_-6-COMUNI_2027-.pdf | https://vallidelverbano.va.it/avviso-agli-utenti-calendario-raccolta-rifiuti-2026-gruppo-2/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 2 · campo di applicazione UND da confermare Per il gruppo 2 a novembre 2026 la copia cartacea spostava erroneamente i passaggi di un giorno. La Comunità Montana indica come corretta la versione online.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "casargo",
@@ -2077,8 +2117,13 @@
    "id": "cassano-valcuvia",
    "nome": "Cassano Valcuvia",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "cassina-de-pecchi",
@@ -2216,8 +2261,13 @@
    "id": "castello-cabiaglio",
    "nome": "Castello Cabiaglio",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "castello-di-brianza",
@@ -2253,8 +2303,13 @@
    "id": "castelveccana",
    "nome": "Castelveccana",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-3-CASTELVECCANA-GRANTOLA-MESENZANA.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-3_-3-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 3 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "castiglione-falletto",
@@ -2835,8 +2890,13 @@
    "id": "cittiglio",
    "nome": "Cittiglio",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-2_-6-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-2_-6-COMUNI_2027-.pdf | https://vallidelverbano.va.it/avviso-agli-utenti-calendario-raccolta-rifiuti-2026-gruppo-2/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 2 · campo di applicazione UND da confermare Per il gruppo 2 a novembre 2026 la copia cartacea spostava erroneamente i passaggi di un giorno. La Comunità Montana indica come corretta la versione online.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "civate",
@@ -3301,22 +3361,37 @@
    "id": "curiglia-con-monteviasco",
    "nome": "Curiglia con Monteviasco",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-5_-3-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-5_-3-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 5 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "cuveglio",
    "nome": "Cuveglio",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-2_-6-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-2_-6-COMUNI_2027-.pdf | https://vallidelverbano.va.it/avviso-agli-utenti-calendario-raccolta-rifiuti-2026-gruppo-2/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 2 · campo di applicazione UND da confermare Per il gruppo 2 a novembre 2026 la copia cartacea spostava erroneamente i passaggi di un giorno. La Comunità Montana indica come corretta la versione online.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "cuvio",
    "nome": "Cuvio",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-2_-6-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-2_-6-COMUNI_2027-.pdf | https://vallidelverbano.va.it/avviso-agli-utenti-calendario-raccolta-rifiuti-2026-gruppo-2/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 2 · campo di applicazione UND da confermare Per il gruppo 2 a novembre 2026 la copia cartacea spostava erroneamente i passaggi di un giorno. La Comunità Montana indica come corretta la versione online.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "darfo-boario-terme",
@@ -3492,15 +3567,25 @@
    "id": "dumenza",
    "nome": "Dumenza",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-5_-3-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-5_-3-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 5 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "duno",
    "nome": "Duno",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "edolo",
@@ -3647,8 +3732,13 @@
    "id": "ferrera-di-varese",
    "nome": "Ferrera di Varese",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "fiano",
@@ -3905,8 +3995,13 @@
    "id": "germignaga",
    "nome": "Germignaga",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GERMIGNAGA_UT-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GERMIGNAGA_UT-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Singolo comune · PDF identificato come domestico",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "gessate",
@@ -4058,8 +4153,13 @@
    "id": "grantola",
    "nome": "Grantola",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-3-CASTELVECCANA-GRANTOLA-MESENZANA.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-3_-3-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 3 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "gravellona-toce",
@@ -4424,11 +4524,13 @@
    "id": "laveno-mombello",
    "nome": "Laveno-Mombello",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "fonte_individuata",
-   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/LAVENO_UT.-NON-DOMESTICHE_2026.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 2 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "calendario_verificato",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/LAVENO_UT.-NON-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/LAVENO_UT.-NON-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario esplicitamente UND I passaggi VE-FOOD e VE-F valgono per bar e ristoranti. Il calendario ordinario non li include. La frazione vetro comprende gli imballaggi metallici ammessi. Il 1° gennaio, 1° maggio e 25 dicembre il calendario indica sospensione di tutti i servizi. Per il centro di via Sangiano, indicato dal Comune, chiedere gli orari vigenti e l’accesso UND. La tabella del calendario elenca cinque altri centri.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "lecco",
@@ -4652,11 +4754,13 @@
    "id": "luino",
    "nome": "Luino",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "fonte_individuata",
-   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/LUINO_UT.-NON-DOMESTICHE_2026.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 2 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "calendario_verificato",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/LUINO_UT.-NON-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/LUINO_UT.-NON-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario esplicitamente UND La frazione vetro comprende gli imballaggi metallici ammessi. Il 1° gennaio, 1° maggio e 25 dicembre il calendario indica sospensione di tutti i servizi. Centro di raccolta in Via Gorizia.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "luserna-san-giovanni",
@@ -4692,11 +4796,13 @@
    "id": "maccagno-con-pino-e-veddasca",
    "nome": "Maccagno con Pino e Veddasca",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "fonte_individuata",
-   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/MACCAGNO_UT.-NON-DOMESTICHE_2026.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 2 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "calendario_verificato",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/MACCAGNO_UT.-NON-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/MACCAGNO_UT.-NON-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario esplicitamente UND La frazione vetro comprende gli imballaggi metallici ammessi. Il 1° gennaio, 1° maggio e 25 dicembre il calendario indica sospensione di tutti i servizi. Centro di raccolta in Via Reschigna.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "macello",
@@ -4961,8 +5067,13 @@
    "id": "masciago-primo",
    "nome": "Masciago Primo",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "maser",
@@ -5166,8 +5277,13 @@
    "id": "mesenzana",
    "nome": "Mesenzana",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-3-CASTELVECCANA-GRANTOLA-MESENZANA.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-3_-3-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 3 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "mezzago",
@@ -5490,8 +5606,13 @@
    "id": "montegrino-valtravaglia",
    "nome": "Montegrino Valtravaglia",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-4_-2-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-4_-2-COMUNI_2027.pdf | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=F526 | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 4 · campo di applicazione UND da confermare Il prospetto comunale indica Albo Gestori Ambientali e modulo allegato 1a dove previsto. Verificare i requisiti correnti della sede prima del conferimento.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "monteleone-d-orvieto",
@@ -5951,8 +6072,13 @@
    "id": "orino",
    "nome": "Orino",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "orio-canavese",
@@ -6672,8 +6798,13 @@
    "id": "porto-valtravaglia",
    "nome": "Porto Valtravaglia",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/PORTO-VALTRAVAGLIA_UT-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/PORTO-VALTRAVAGLIA_UT-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/chiusura-del-centro-di-raccolta-di-porto-valtravaglia/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Singolo comune · PDF identificato come domestico Centro in località Trigo chiuso dal 2 novembre 2026. Fine lavori prevista entro novembre salvo imprevisti. Confermare la riapertura con Econord.",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "possagno",
@@ -6992,8 +7123,13 @@
    "id": "rancio-valcuvia",
    "nome": "Rancio Valcuvia",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/GRUPPO-1_-9-COMUNI_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/GRUPPO-1_-9-COMUNI_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Gruppo 1 · campo di applicazione UND da confermare",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "rasura",
@@ -8626,8 +8762,13 @@
    "id": "tronzano-lago-maggiore",
    "nome": "Tronzano Lago Maggiore",
    "provincia": "VA",
-   "gestore": "Econord (Comunità Montana Valli del Verbano)",
-   "stato": "da_verificare"
+   "gestore": "Econord · Comunità Montana Valli del Verbano",
+   "stato": "scheda_informativa",
+   "fonte": "https://vallidelverbano.va.it/wp-content/uploads/2025/12/TRONZANO-LAGO-MAGGIORE_UT-DOMESTICHE_2026.pdf | https://vallidelverbano.va.it/wp-content/uploads/2026/11/TRONZANO-LAGO-MAGGIORE_UT-DOMESTICHE_2027.pdf | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+   "verificato": "2026-11-26",
+   "nota": "Singolo comune · PDF identificato come domestico",
+   "valido_al": "2027-12-31",
+   "zone_und": 1
   },
   {
    "id": "truccazzano",

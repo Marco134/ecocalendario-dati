@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "nome": "Valli del Verbano · Materiali delle attività",
+ "fonte": "https://www.comune.luino.va.it/raccolta-differenziata/calendario/3169253/comune-luino-utenze-non-domestiche | https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/ | https://vallidelverbano.va.it/regole-di-conferimento-utenze-non-domestiche-dal-1-febbraio-2024/",
+ "voci": {
+  "carta da ufficio, giornali, riviste e quaderni": {
+   "dove": "carta",
+   "nota": "Esporre in scatola o contenitore secondo la dotazione assegnata. Verificare quantità e canale per grossi volumi."
+  },
+  "cartone ondulato e scatole di cartone": {
+   "dove": "carta",
+   "nota": "Esporre in scatola o contenitore secondo la dotazione assegnata. Verificare quantità e canale per grossi volumi."
+  },
+  "cartoni per latte, succhi e bevande": {
+   "dove": "carta",
+   "nota": "Esporre in scatola o contenitore secondo la dotazione assegnata. Verificare quantità e canale per grossi volumi."
+  },
+  "bottiglie, vasetti e imballaggi in vetro": {
+   "dove": "vetro",
+   "nota": "Insieme al vetro nel contenitore assegnato. A Laveno i giri aggiuntivi spettano a bar e ristoranti."
+  },
+  "lattine, scatolette per alimenti, tappi e chiusure in metallo": {
+   "dove": "vetro",
+   "nota": "Insieme al vetro nel contenitore assegnato. A Laveno i giri aggiuntivi spettano a bar e ristoranti."
+  },
+  "contenitori in banda stagnata per alimenti": {
+   "dove": "vetro",
+   "nota": "Insieme al vetro nel contenitore assegnato. A Laveno i giri aggiuntivi spettano a bar e ristoranti."
+  },
+  "bottiglie e flaconi di plastica, vaschette e pellicole da imballaggio": {
+   "dove": "plastica",
+   "nota": "Usare il sacco previsto dal gestore. Il circuito riguarda gli imballaggi."
+  },
+  "oggetti di plastica non da imballaggio di piccole dimensioni": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le dimensioni e le condizioni della guida."
+  },
+  "avanzi alimentari e scarti di frutta e verdura": {
+   "dove": "organico",
+   "nota": "Usare il contenitore con RFID e il sacco compostabile assegnato."
+  },
+  "fondi di caffè e bustine di tè": {
+   "dove": "organico",
+   "nota": "Usare il contenitore con RFID e il sacco compostabile assegnato."
+  },
+  "carta da cucina bianca usata": {
+   "dove": "organico",
+   "nota": "Prevista nella guida del calendario."
+  },
+  "sigarette e rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Usare il sacco del residuo assegnato all’attività."
+  },
+  "mobili e arredi di ufficio non pericolosi": {
+   "dove": "centro",
+   "nota": "Chiedere ammissione e documenti al centro. Il ritiro domiciliare pubblicato riguarda gli ingombranti domestici."
+  },
+  "inerti di attività edili e verde da attività professionale": {
+   "dove": "varia",
+   "nota": "Seguire un canale autorizzato in base a provenienza e codice EER."
+  },
+  "scarti della produzione aziendale": {
+   "dove": "varia",
+   "nota": "Seguire un canale autorizzato per tipologia e codice EER."
+  }
+ }
+}
