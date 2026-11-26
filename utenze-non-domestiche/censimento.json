@@ -9821,14 +9821,20 @@
    "nome": "Casalmoro",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.casalmoro.mn.it/en-us/download/81-regolamento-gestione-rifiuti-pdf-29754-5-1717-456de4ff89f58b6fa68abb34295566e5 | https://www.comune.casalmoro.mn.it/it-it/download/ecocalendario-2026-458098-4-1717-9d6a8e5a0c1849841aa143f191417992 | https://mantovaambiente.it/comuni/casalmoro",
+   "verificato": "2026-11-26",
+   "nota": "La tabella UND del regolamento 2021 indica residuo ogni quattro settimane con eventuali recuperi, carta, plastica e vetro/lattine quindicinali e organico stagionale. Per il centro condiviso di Asola verificare l’ammissione della sede e i materiali. Occorre conferma del calendario vigente per l’attività. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "casaloldo",
    "nome": "Casaloldo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.casaloldo.mn.it/it/vivere/centro-di-raccolta | https://static.mantovaambiente.it/4a/96/casaloldo_ma-calendario2026_mono_01-web.pdf | https://mantovaambiente.it/comuni/casaloldo",
+   "verificato": "2026-11-26",
+   "nota": "Il Comune indica la piazzola di Via San Vito e riserva l’accesso ai residenti. La sede apre martedì, giovedì e sabato 09:00–12:00, esclusi i festivi. Per un’attività chiedere quale impianto è abilitato e se esiste un servizio dedicato per ingombranti e RAEE. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "casalromano",
@@ -9845,14 +9851,20 @@
    "nome": "Castelbelforte",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/castelbelforte-1 | https://www.comune.castelbelforte.mn.it/s3/1632/allegati/castelbelforte_ma-calendario2026_mono_02.pdf | https://www.comune.castelbelforte.mn.it/index.php/it/vivere/ecocentro-comunale",
+   "verificato": "2026-11-26",
+   "nota": "La pagina ambientale comunale e il calendario indicano il centro di Via Verdi. Chiedere tessera, limiti, documenti e turni per le attività. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "castel-goffredo",
    "nome": "Castel Goffredo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/castel-goffredo | https://www.comune.castelgoffredo.mn.it/s3/1610/allegati/novit/avvisi/ecocalendario-2026.pdf | https://www.comune.castelgoffredo.mn.it/it/news/calendario-rifiuti-2026-e-aggiornamento-sulla-raccolta-indifferenziata",
+   "verificato": "2026-11-26",
+   "nota": "L’avviso comunale annuncia il residuo ogni quattro settimane da gennaio 2026. Chiedere se e per quali attività vale questo passaggio e se sono previsti turni aggiuntivi. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "marmirolo",
@@ -9889,7 +9901,10 @@
    "nome": "San Giacomo delle Segnate",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/san-giacomo-delle-segnate | https://static.mantovaambiente.it/a3/37/sangiacomodellesegnate_ma-calendario2026_mono_00-web.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario rimanda a Via Ca’ Rossa. Verificare la convenzione per le attività e l’applicabilità delle tariffe per il ritiro ingombranti comunale. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "san-giorgio-bigarello",
@@ -9976,14 +9991,20 @@
    "nome": "Magnacavallo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/magnacavallo | https://static.mantovaambiente.it/8f/c9/magnacavallo_ma-calendario2026_mono_01-web.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Scaglioni stagionali del centro di Via Giliola. Confermare quali attività possono accedere e se il servizio a domicilio prevede giri aggiuntivi. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "marcaria",
    "nome": "Marcaria",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/marcaria | https://www.comune.marcaria.mn.it/portals/2252/SiscomArchivio/4/calendario_raccolta_rifiuti_2026_001.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il centro è a San Michele in Bosco. Chiedere condizioni per l’attività e calendario per la sede e la frazione di raccolta. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "pegognaga",
@@ -10020,21 +10041,30 @@
    "nome": "Quingentole",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/quingentole | https://static.mantovaambiente.it/e9/35/quingentole_ma-calendario2026_mono_00-web.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario rimanda a Via Ca’ Rossa a Quistello. Verificare la convenzione per le UND e gli orari del centro. La scheda generale parla di residenza. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "quistello",
    "nome": "Quistello",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/quistello | https://mycity.s3.sbg.io.cloud.ovh.net/4866934/Quistello_MA-calendario2026_mono_01-WEB.pdf | https://comune.quistello.mn.it/notizie/3046420/centro-raccolta-comunale",
+   "verificato": "2026-11-26",
+   "nota": "Verificare accesso UND al centro di Via Ca’ Rossa e orari estivi. Le fonti generali divergono sulla chiusura di sabato. Verificare la mappa dei quattro circuiti per il vegetale e l’applicabilità per le attività. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "redondesco",
    "nome": "Redondesco",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/redondesco | https://static.mantovaambiente.it/09/4e/redondesco_ma-calendario2026_mono_01-web.pdf | https://www.comune.asola.mn.it/wp-content/uploads/2024/03/REGOLAMENTO-DEL-CENTRO-DI-RACCOLTA-RIFIUTI-1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario rimanda al centro di Asola. Il regolamento di Asola distingue le utenze dei comuni convenzionati. Chiedere conferma della convenzione per la sede aziendale di Redondesco e dei turni. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "rivarolo-mantovano",
@@ -10051,7 +10081,10 @@
    "nome": "Rodigo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/rodigo | https://static.mantovaambiente.it/3f/63/rodigo_ma-calendario2026_mono_08-web.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il punto di Rivalta è indicato per sfalci e potature. Verificare accesso al centro di Strada Fossato, inclusi ingombranti delle attività e se il ritiro gratuito del primo venerdì si estende alle UND. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "roncoferraro",
@@ -10078,7 +10111,10 @@
    "nome": "San Giovanni del Dosso",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/san-giovanni-del-dosso | https://mycity.s3.sbg.io.cloud.ovh.net/4896549/San-Giovanni-del-Dosso_MA-calendario2026_mono_01-WEB.pdf | https://mycity.s3.sbg.io.cloud.ovh.net/3621831/Regolamento-del-Centro-di-Raccolta-Rev.0-30_11_23_Parte1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario rimanda al centro di Via Ovara. Verificare se il regolamento di Poggio Rusco e la convenzione consentono l’accesso alle attività della sede. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "san-martino-dallargine",
@@ -10095,21 +10131,30 @@
    "nome": "Schivenoglia",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/schivenoglia | https://www.comune.schivenoglia.mn.it/wp-content/uploads/2026/01/Schivenoglia_MA-calendario2026_mono_01-WEB.pdf | https://www.comune.schivenoglia.mn.it/servizio-rifiuti/raccolta-differenziata/",
+   "verificato": "2026-11-26",
+   "nota": "La sede è in Via Andrea Schivenoglia. Il servizio generale indica un limite di tre colli e specifiche esclusioni. Confermare accesso e ritiro per le attività. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "sermide-e-felonica",
    "nome": "Sermide e Felonica",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/sermide-e-felonica-1 | https://www.comune.sermideefelonica.mn.it/amministrazione/trasparenza/pubblicazioni/allegati/allegato_2187.html | https://www.comune.sermideefelonica.mn.it/amministrazione/documenti_e_dati/atti_normativi/documento_298.html",
+   "verificato": "2026-11-26",
+   "nota": "Consultare il regolamento comunale e il centro di Via L. B. Alberti. Confermare accesso, turni di Felonica e Sermide per le attività e applicabilità della regola locale sulle capsule. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "solferino",
    "nome": "Solferino",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.solferino.mn.it/attachments/article/835/Solferino_MA-calendario2026_multi_01-WEB.pdf | https://www.comune.solferino.mn.it/attachments/article/835/Solferino_MA-calendario2026_multi_01-WEB.pdf | https://mantovaambiente.it/comuni/solferino",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario 2026 conferma che la piattaforma in Via Gerra a Castiglione delle Stiviere ammette alcuni conferimenti gratuiti delle attività con sede o operative a Solferino. Lunedì, martedì, mercoledì e venerdì 08:30–11:50 e 14:30–17:50, giovedì 08:30–11:50, sabato 08:00–11:50. Ultimo ingresso 15 minuti prima. Chiedere frazioni, limiti e documenti per la sede. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "volta-mantovana",
@@ -10126,7 +10171,10 @@
    "nome": "Borgocarbonara",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://mantovaambiente.it/comuni/borgocarbonara | https://www.comune.borgocarbonara.mn.it/novita/avvisi/novita_4.html",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario rimanda al centro di Magnacavallo. Confermare la convenzione per le attività di Borgocarbonara, l’accesso e le frazioni per la sede. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
   },
   {
    "id": "settimo-milanese",

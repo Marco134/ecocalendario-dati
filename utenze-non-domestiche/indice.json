@@ -2616,6 +2616,40 @@
    ]
   },
   {
+   "id": "casalmoro",
+   "nome": "Casalmoro",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.259577,
+   "lon": 10.404478,
+   "consorzio": "mantova-ambiente-und-casalmoro",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/casalmoro/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "casaloldo",
+   "nome": "Casaloldo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.254777,
+   "lon": 10.474379,
+   "consorzio": "mantova-ambiente-und-casaloldo",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/casaloldo/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "casalromano",
    "nome": "Casalromano",
    "provincia": "MN",
@@ -10930,6 +10964,23 @@
    ]
   },
   {
+   "id": "solferino",
+   "nome": "Solferino",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.368581,
+   "lon": 10.566679,
+   "consorzio": "mantova-ambiente-und-solferino",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/solferino/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "solto-collina",
    "nome": "Solto Collina",
    "provincia": "BG",
@@ -13617,6 +13668,21 @@
    "nome": "San Martino dall'Argine · UND",
    "gestore": "Mantova Ambiente",
    "ecocentri": "ecocentri/mantova-ambiente-und-san-martino-dallargine.json"
+  },
+  "mantova-ambiente-und-casalmoro": {
+   "nome": "Casalmoro · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-casalmoro.json"
+  },
+  "mantova-ambiente-und-casaloldo": {
+   "nome": "Casaloldo · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-casaloldo.json"
+  },
+  "mantova-ambiente-und-solferino": {
+   "nome": "Solferino · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-solferino.json"
   }
  }
 }
