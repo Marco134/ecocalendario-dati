@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Pegognaga · Materiali ammessi al centro per le UND",
+ "fonte": "https://www.comune.pegognaga.mn.it/vivere_il_comune/luoghi/luogo_26.html",
+ "voci": {
+  "imballaggi in plastica": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  },
+  "vetro e lattine": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  },
+  "imballaggi in carta e cartone": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  },
+  "oli vegetali": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  },
+  "ferro": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  },
+  "ingombranti urbani": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  },
+  "legno": {
+   "dove": "centro",
+   "nota": "Tessera UND. Verificare ammissibilità per provenienza e quantità."
+  }
+ }
+}

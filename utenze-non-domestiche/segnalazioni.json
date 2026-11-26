@@ -422,6 +422,42 @@
    "telefono": "800 473 165",
    "verificato": "2026-11-26",
    "fonte": "https://asep.it/contenuti/125865/piazza-ecologica | https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf | https://www.comune.mantova.it/index.php/it/vivere/760944?category_id=401835"
+  },
+  {
+   "id": "mantova-ambiente-und-bagnolo-san-vito",
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.bagnolosanvito.mn.it/it/vivere/734852 | https://www.comune.bagnolosanvito.mn.it/s3/468/allegati/bagnolo-san-vito_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/bagnolo-san-vito",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-borgo-mantovano",
+   "telefono": "800 473 165",
+   "fonte": "https://comune.borgomantovano.mn.it/documenti/2937904/raccolta-differenziata | https://mycity.s3.sbg.io.cloud.ovh.net/4862887/Borgo-Mantovano_MA-calendario2026_mono_02-WEB.pdf | https://mantovaambiente.it/comuni/borgo-mantovano-1",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-gonzaga",
+   "telefono": "800 473 165",
+   "fonte": "https://comune.gonzaga.mn.it/it/vivere/746546 | https://gonzaga-api.municipiumapp.it/s3/3188/allegati/gonzaga_ma-calendario2026_mono_04-web.pdf | https://mantovaambiente.it/comuni/gonzaga",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-pegognaga",
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.pegognaga.mn.it/vivere_il_comune/luoghi/luogo_26.html | https://static.mantovaambiente.it/39/88/pegognaga_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/pegognaga",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-roncoferraro",
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.roncoferraro.mn.it/c020052/po/attachment_news.php?id=963 | https://static.mantovaambiente.it/03/69/roncoferraro_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/roncoferraro",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-volta-mantovana",
+   "telefono": "800 473 165",
+   "fonte": "https://www.anticorruzione.it/documents/91439/0/Prot_Par0000409del11-01-2024-AllegatoDELIBERA_Num_61__Allegato1_RelazioneillustrativagestioneservizipubbliciVoltacc.pdf/8ca98883-7141-9032-04b6-76bb803e46ce?t=1706118860380 | https://www.comune.volta.mn.it/novita/notizie/novita_49.html | https://mantovaambiente.it/comuni/volta-mantovana",
+   "verificato": "2026-11-26"
   }
  ]
 }

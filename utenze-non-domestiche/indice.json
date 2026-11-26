@@ -668,6 +668,23 @@
    "ecocentri": "ecocentri/conser-vco-und-baceno.json"
   },
   {
+   "id": "bagnolo-san-vito",
+   "nome": "Bagnolo San Vito",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.092253,
+   "lon": 10.880429,
+   "consorzio": "mantova-ambiente-und-bagnolo-san-vito",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/bagnolo-san-vito/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "bairo",
    "nome": "Bairo",
    "provincia": "TO",
@@ -1374,6 +1391,23 @@
      "id": "cartone-commerciale",
      "nome": "Cartone commerciale",
      "file": "comuni/borgiallo/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "borgo-mantovano",
+   "nome": "Borgo Mantovano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.026484,
+   "lon": 11.121971,
+   "consorzio": "mantova-ambiente-und-borgo-mantovano",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/borgo-mantovano/zona-info-und.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -4989,6 +5023,23 @@
    ]
   },
   {
+   "id": "gonzaga",
+   "nome": "Gonzaga",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 44.952488,
+   "lon": 10.822623,
+   "consorzio": "mantova-ambiente-und-gonzaga",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/gonzaga/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "gorgonzola",
    "nome": "Gorgonzola",
    "provincia": "MI",
@@ -7981,6 +8032,23 @@
    ]
   },
   {
+   "id": "pegognaga",
+   "nome": "Pegognaga",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 44.995988,
+   "lon": 10.858772,
+   "consorzio": "mantova-ambiente-und-pegognaga",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/pegognaga/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "peia",
    "nome": "Peia",
    "provincia": "BG",
@@ -9576,6 +9644,23 @@
      "id": "cartone-commerciale",
      "nome": "Cartone commerciale",
      "file": "comuni/ronco-canavese/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "roncoferraro",
+   "nome": "Roncoferraro",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.135929,
+   "lon": 10.951354,
+   "consorzio": "mantova-ambiente-und-roncoferraro",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/roncoferraro/zona-info-und.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -12770,6 +12855,23 @@
    ]
   },
   {
+   "id": "volta-mantovana",
+   "nome": "Volta Mantovana",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.321302,
+   "lon": 10.659224,
+   "consorzio": "mantova-ambiente-und-volta-mantovana",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/volta-mantovana/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "volvera",
    "nome": "Volvera",
    "provincia": "TO",
@@ -13148,6 +13250,37 @@
    "gestore": "Mantova Ambiente",
    "ecocentri": "ecocentri/mantova-ambiente-porto-und.json",
    "regole": "regole/mantova-ambiente-porto-und.json"
+  },
+  "mantova-ambiente-und-bagnolo-san-vito": {
+   "nome": "Bagnolo San Vito · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-bagnolo-san-vito.json"
+  },
+  "mantova-ambiente-und-borgo-mantovano": {
+   "nome": "Borgo Mantovano · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-borgo-mantovano.json"
+  },
+  "mantova-ambiente-und-gonzaga": {
+   "nome": "Gonzaga · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-gonzaga.json"
+  },
+  "mantova-ambiente-und-pegognaga": {
+   "nome": "Pegognaga · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-pegognaga.json",
+   "regole": "regole/mantova-ambiente-und-pegognaga.json"
+  },
+  "mantova-ambiente-und-roncoferraro": {
+   "nome": "Roncoferraro · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-roncoferraro.json"
+  },
+  "mantova-ambiente-und-volta-mantovana": {
+   "nome": "Volta Mantovana · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-volta-mantovana.json"
   }
  }
 }

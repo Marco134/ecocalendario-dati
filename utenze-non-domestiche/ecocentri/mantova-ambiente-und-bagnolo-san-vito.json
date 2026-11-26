@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Mantova Ambiente",
+ "numero_verde": "800 473 165",
+ "accesso": "Il centro in Via dell’Artigianato ammette le attività con la tessera da richiedere all’ufficio all’ingresso. Da ottobre a marzo apre martedì e giovedì 14:00–17:00 e sabato 09:00–12:00 e 14:00–17:00. Ultimo ingresso 15 minuti prima. Chiusura nei festivi.",
+ "fonte": "https://www.comune.bagnolosanvito.mn.it/it/vivere/734852 | https://www.comune.bagnolosanvito.mn.it/s3/468/allegati/bagnolo-san-vito_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/bagnolo-san-vito",
+ "centri": [
+  {
+   "id": "mantova-ambiente-und-bagnolo-san-vito",
+   "tipo": "raccolta",
+   "comune": "Bagnolo San Vito",
+   "indirizzo": "Via dell’Artigianato",
+   "lat": 45.0887459,
+   "lon": 10.862289,
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "per": "non_domestiche",
+   "avviso": "Orario invernale. Consultare la scheda per le fasce stagionali. Chiuso nei festivi."
+  }
+ ]
+}

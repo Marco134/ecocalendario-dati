@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Mantova Ambiente",
+ "numero_verde": "800 473 165",
+ "accesso": "Con tessera UND e posizione rifiuti attiva si accede al centro di Via Brigate Garibaldine. Da novembre a febbraio martedì, giovedì e sabato 08:00–13:00 e 14:00–17:00. Da marzo a ottobre pomeriggio 15:00–18:00. Ultimo ingresso 15 minuti prima. Il Comune indica servizi personalizzati tramite commercialeambiente@teaspa.it.",
+ "fonte": "https://comune.gonzaga.mn.it/it/vivere/746546 | https://gonzaga-api.municipiumapp.it/s3/3188/allegati/gonzaga_ma-calendario2026_mono_04-web.pdf | https://mantovaambiente.it/comuni/gonzaga",
+ "centri": [
+  {
+   "id": "mantova-ambiente-und-gonzaga",
+   "tipo": "raccolta",
+   "comune": "Gonzaga",
+   "indirizzo": "Via Brigate Garibaldine",
+   "lat": 44.9482635,
+   "lon": 10.8413159,
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "per": "non_domestiche",
+   "avviso": "Orario invernale. Consultare la scheda per le fasce stagionali. Chiuso nei festivi."
+  }
+ ]
+}

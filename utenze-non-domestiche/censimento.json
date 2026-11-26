@@ -9808,7 +9808,10 @@
    "nome": "Bagnolo San Vito",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.bagnolosanvito.mn.it/it/vivere/734852 | https://www.comune.bagnolosanvito.mn.it/s3/468/allegati/bagnolo-san-vito_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/bagnolo-san-vito",
+   "verificato": "2026-11-26",
+   "nota": "Il centro in Via dell’Artigianato ammette le attività con la tessera da richiedere all’ufficio all’ingresso. Da ottobre a marzo apre martedì e giovedì 14:00–17:00 e sabato 09:00–12:00 e 14:00–17:00. Ultimo ingresso 15 minuti prima. Chiusura nei festivi. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "casalmoro",
@@ -9888,7 +9891,10 @@
    "nome": "Borgo Mantovano",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://comune.borgomantovano.mn.it/documenti/2937904/raccolta-differenziata | https://mycity.s3.sbg.io.cloud.ovh.net/4862887/Borgo-Mantovano_MA-calendario2026_mono_02-WEB.pdf | https://mantovaambiente.it/comuni/borgo-mantovano-1",
+   "verificato": "2026-11-26",
+   "nota": "Il calendario rinvia al centro in Via Ovara a Poggio Rusco. Gli orari generali sono lunedì, mercoledì e venerdì 15:00–18:00, martedì e giovedì 09:00–12:00 e sabato 09:00–12:00 e 15:00–18:00. Confermare l’accesso per l’attività. La tessera UND per il distributore di sacchi si richiede al Comune. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "acquanegra-sul-chiese",
@@ -9930,7 +9936,10 @@
    "nome": "Gonzaga",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://comune.gonzaga.mn.it/it/vivere/746546 | https://gonzaga-api.municipiumapp.it/s3/3188/allegati/gonzaga_ma-calendario2026_mono_04-web.pdf | https://mantovaambiente.it/comuni/gonzaga",
+   "verificato": "2026-11-26",
+   "nota": "Con tessera UND e posizione rifiuti attiva si accede al centro di Via Brigate Garibaldine. Da novembre a febbraio martedì, giovedì e sabato 08:00–13:00 e 14:00–17:00. Da marzo a ottobre pomeriggio 15:00–18:00. Ultimo ingresso 15 minuti prima. Il Comune indica servizi personalizzati tramite commercialeambiente@teaspa.it. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "magnacavallo",
@@ -9951,7 +9960,10 @@
    "nome": "Pegognaga",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.pegognaga.mn.it/vivere_il_comune/luoghi/luogo_26.html | https://static.mantovaambiente.it/39/88/pegognaga_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/pegognaga",
+   "verificato": "2026-11-26",
+   "nota": "Tessera UND da richiedere all’ufficio del centro di Strada Chiaviche 84. Da ottobre ad aprile lunedì e venerdì 14:00–17:00, mercoledì e sabato anche 09:00–12:00. Da maggio a settembre fascia pomeridiana 16:00–19:00. Il Comune pubblica l’elenco dei materiali ammessi. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "poggio-rusco",
@@ -10007,7 +10019,10 @@
    "nome": "Roncoferraro",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.roncoferraro.mn.it/c020052/po/attachment_news.php?id=963 | https://static.mantovaambiente.it/03/69/roncoferraro_ma-calendario2026_mono_00-web.pdf | https://mantovaambiente.it/comuni/roncoferraro",
+   "verificato": "2026-11-26",
+   "nota": "Il centro di Via Cesare Battisti a Villa Garibaldi riserva alle attività martedì e giovedì 14:30–17:30. Ultimo ingresso 15 minuti prima e chiusura nei festivi. Confermare documenti e materiali con il gestore. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "sabbioneta",
@@ -10056,7 +10071,10 @@
    "nome": "Volta Mantovana",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.anticorruzione.it/documents/91439/0/Prot_Par0000409del11-01-2024-AllegatoDELIBERA_Num_61__Allegato1_RelazioneillustrativagestioneservizipubbliciVoltacc.pdf/8ca98883-7141-9032-04b6-76bb803e46ce?t=1706118860380 | https://www.comune.volta.mn.it/novita/notizie/novita_49.html | https://mantovaambiente.it/comuni/volta-mantovana",
+   "verificato": "2026-11-26",
+   "nota": "La relazione comunale documenta il porta a porta UND e i servizi integrativi per esigenze specifiche. La periodicità storica è quindicinale per residuo, carta, plastica e vetro. L’organico è settimanale da ottobre ad aprile e bisettimanale da maggio a settembre. Controllare con il gestore calendario, recuperi e accesso UND alla piattaforma di Strada dei Colli. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "borgocarbonara",
