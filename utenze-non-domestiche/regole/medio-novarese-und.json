@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "nome": "Medio Novarese Ambiente · Materiali delle attività",
+ "fonte": "https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario",
+ "voci": {
+  "giornali, riviste, fogli e quaderni": {
+   "dove": "carta",
+   "nota": "Conferire puliti. Le attività usano il cassonetto assegnato per la carta."
+  },
+  "scatole e cartoni da imballaggio": {
+   "dove": "carta",
+   "nota": "Appiattire e impilare. Per il giro Cartoni ditte chiedere l’attivazione a Medio Novarese Ambiente."
+  },
+  "espositori, coni e angolari di cartone": {
+   "dove": "varia",
+   "nota": "Esclusi dal giro dedicato Cartoni ditte. Verificare l’imballaggio, la destinazione e le quantità con il gestore."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del calendario e la campagna Comieco del consorzio per i poliaccoppiati."
+  },
+  "carta forno, oleata e plastificata": {
+   "dove": "indifferenziato",
+   "nota": "Esclusa dalla raccolta carta. Verificare se il prodotto è compostabile o soggetto a regole specifiche."
+  },
+  "avanzi, bucce, gusci e fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare sacco compostabile o di carta e il contenitore organico assegnato."
+  },
+  "bottiglie, flaconi e vaschette in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire imballaggi vuoti nel sacco giallo trasparente. Per la ditta usare la dotazione assegnata."
+  },
+  "cellophane, film in polietilene, regge e pluriball": {
+   "dove": "plastica",
+   "nota": "Per il giro aggiuntivo delle attività chiedere l’attivazione e usare i sacchi trasparenti indicati da MNA."
+  },
+  "bottiglie, barattoli e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire sfusi nel cassonetto del vetro. Separare tappi e altri materiali."
+  },
+  "lattine di alluminio": {
+   "dove": "lattine",
+   "nota": "Conferire sfuse nel circuito dedicato degli imballaggi metallici. Consultare il giorno Lattine."
+  },
+  "barattoli di latta, vaschette e tappi metallici": {
+   "dove": "lattine",
+   "nota": "Conferire nel circuito Lattine. Svuotare gli imballaggi."
+  },
+  "specchi, cristallo, ceramica e lastre di vetro": {
+   "dove": "varia",
+   "nota": "Esclusi dal giro degli imballaggi di vetro. Chiedere l’ammissione per materiale al centro competente."
+  },
+  "residuo urbano indistinto": {
+   "dove": "indifferenziato",
+   "nota": "Usare il sacco conforme bianco da 120 litri assegnato alle attività e il cassonetto previsto."
+  },
+  "cartucce e toner esausti": {
+   "dove": "varia",
+   "nota": "La Carta descrive un ritiro due volte l’anno su richiesta con minimo un sacco da 120 litri. Chiedere date, sede alternativa e condizioni."
+  },
+  "ingombranti da attività": {
+   "dove": "varia",
+   "nota": "Chiedere al centro di riferimento per codice, limiti e titolo. Il ritiro a domicilio descritto dalla Carta riguarda rifiuti provenienti da abitazioni civili."
+  },
+  "RAEE professionali": {
+   "dove": "varia",
+   "nota": "Verificare circuito e provenienza con il gestore. Ad Arona la delega per rifiuti domestici di terzi ha condizioni specifiche."
+  },
+  "inerti, pneumatici, oli e batterie professionali": {
+   "dove": "varia",
+   "nota": "Chiedere per tipologia e provenienza. Le condizioni dei conferimenti domestici seguono regole proprie."
+  },
+  "verde da manutenzione professionale": {
+   "dove": "varia",
+   "nota": "Confermare condizioni, quantità e canale. I passaggi del verde domestico sono soggetti a contratto e calendario dedicati."
+  }
+ }
+}

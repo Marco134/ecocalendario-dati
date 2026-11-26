@@ -1,0 +1,188 @@
+{
+ "schema": 1,
+ "comune": "Pombia",
+ "provincia": "NO",
+ "gestore": "Medio Novarese Ambiente",
+ "zona": "Zona unica · solo Cartoni ditte",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-12-31",
+ "fonte": "https://www.consorziomedionovarese.it/it-it/download/pombia-2026-uff-730-109-20027-4a4f5871f2457ad7f1ea6fc79210482c | https://www.consorziomedionovarese.it/it-it/download/pombia-2027-uff-955-109-20027-2b16383954a064211a45822abd3937e7 | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf",
+ "esposizione": "Esporre fronte strada pubblica entro le 05:00, salvo accordi espressi per la sede.",
+ "esposizione_entro": "05:00",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "carta"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-15": [
+   "carta"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-29": [
+   "carta"
+  ],
+  "2027-02-05": [
+   "carta"
+  ],
+  "2027-02-12": [
+   "carta"
+  ],
+  "2027-02-19": [
+   "carta"
+  ],
+  "2027-02-26": [
+   "carta"
+  ],
+  "2027-03-05": [
+   "carta"
+  ],
+  "2027-03-12": [
+   "carta"
+  ],
+  "2027-03-19": [
+   "carta"
+  ],
+  "2027-03-26": [
+   "carta"
+  ],
+  "2027-04-02": [
+   "carta"
+  ],
+  "2027-04-09": [
+   "carta"
+  ],
+  "2027-04-16": [
+   "carta"
+  ],
+  "2027-04-23": [
+   "carta"
+  ],
+  "2027-04-30": [
+   "carta"
+  ],
+  "2027-05-07": [
+   "carta"
+  ],
+  "2027-05-14": [
+   "carta"
+  ],
+  "2027-05-21": [
+   "carta"
+  ],
+  "2027-05-28": [
+   "carta"
+  ],
+  "2027-06-04": [
+   "carta"
+  ],
+  "2027-06-11": [
+   "carta"
+  ],
+  "2027-06-18": [
+   "carta"
+  ],
+  "2027-06-25": [
+   "carta"
+  ],
+  "2027-07-02": [
+   "carta"
+  ],
+  "2027-07-09": [
+   "carta"
+  ],
+  "2027-07-16": [
+   "carta"
+  ],
+  "2027-07-23": [
+   "carta"
+  ],
+  "2027-07-30": [
+   "carta"
+  ],
+  "2027-08-06": [
+   "carta"
+  ],
+  "2027-08-13": [
+   "carta"
+  ],
+  "2027-08-20": [
+   "carta"
+  ],
+  "2027-08-27": [
+   "carta"
+  ],
+  "2027-09-03": [
+   "carta"
+  ],
+  "2027-09-10": [
+   "carta"
+  ],
+  "2027-09-17": [
+   "carta"
+  ],
+  "2027-09-24": [
+   "carta"
+  ],
+  "2027-10-01": [
+   "carta"
+  ],
+  "2027-10-08": [
+   "carta"
+  ],
+  "2027-10-15": [
+   "carta"
+  ],
+  "2027-10-22": [
+   "carta"
+  ],
+  "2027-10-29": [
+   "carta"
+  ],
+  "2027-11-05": [
+   "carta"
+  ],
+  "2027-11-12": [
+   "carta"
+  ],
+  "2027-11-19": [
+   "carta"
+  ],
+  "2027-11-26": [
+   "carta"
+  ],
+  "2027-12-03": [
+   "carta"
+  ],
+  "2027-12-10": [
+   "carta"
+  ],
+  "2027-12-17": [
+   "carta"
+  ],
+  "2027-12-24": [
+   "carta"
+  ],
+  "2027-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Giro per ditte selezionate, da attivare con MNA. Conferire esclusivamente imballaggi di cartone aperti e impilati. Per le altre frazioni consultare il calendario UND della zona."
+ ]
+}

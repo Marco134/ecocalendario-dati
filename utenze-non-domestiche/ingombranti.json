@@ -2334,6 +2334,54 @@
     "Registered businesses may take eligible municipal bulky waste to authorised centres. Contact SETA for business collection options."
    ],
    "fonte": "https://www.setaspa.com/per-le-aziende | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/CDR_ALL.3_ELENCO-DEI-RIFIUTI-URBANI-CONFERIBILI-CDR-UND.pdf | https://www.setaspa.com/centri-di-raccolta-centro-del-riuso"
+  },
+  {
+   "id": "medio-novarese-und",
+   "nome": "Medio Novarese Ambiente · UND",
+   "gestori": [],
+   "comuni": [
+    "agrate-conturbia",
+    "arona",
+    "boca",
+    "bogogno",
+    "borgo-ticino",
+    "borgomanero",
+    "carpignano-sesia",
+    "castelletto-sopra-ticino",
+    "cavaglietto",
+    "cavaglio-d-agogna",
+    "cavallirio",
+    "comignago",
+    "cressa",
+    "cureggio",
+    "divignano",
+    "dormelletto",
+    "fara-novarese",
+    "fontaneto-d-agogna",
+    "gattico-veruno",
+    "ghemme",
+    "grignasco",
+    "maggiora",
+    "oleggio-castello",
+    "paruzzaro",
+    "pombia",
+    "prato-sesia",
+    "romagnano-sesia",
+    "sizzano",
+    "suno",
+    "varallo-pombia"
+   ],
+   "telefono": "800 810 310",
+   "fonte": "https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforme.php | https://comune.arona.no.it/novita/avviso-agli-utenti/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Il ritiro a domicilio della Carta riguarda gli ingombranti provenienti da abitazioni civili. Le attività devono verificare con il centro l’ammissione dei propri rifiuti urbani, i limiti, i titoli e le eventuali condizioni di ritiro."
+   ],
+   "regole_en": [
+    "Check collection centre access, eligible bulky waste and any business collection agreement with the operator."
+   ]
   }
  ]
 }

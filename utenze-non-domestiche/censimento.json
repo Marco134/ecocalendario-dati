@@ -72,7 +72,12 @@
    "nome": "Agrate Conturbia",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_suno.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Suno Via Pieve, 72 28019 Suno (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "aicurzio",
@@ -408,7 +413,12 @@
    "nome": "Arona",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://comune.arona.no.it/novita/avviso-agli-utenti/",
+   "verificato": "2026-11-26",
+   "nota": "Centro in Via Fratelli Cervi 2. Dal 15 giugno per rifiuti domestici trasportati da una ditta per conto di terzi serve la delega per le frazioni indicate dal Comune. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 6
   },
   {
    "id": "artogne",
@@ -948,7 +958,12 @@
    "nome": "Boca",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.comune.boca.no.it/it-it/amministrazione/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti",
+   "verificato": "2026-11-26",
+   "nota": "Il PDF rimanda al Comune per orari, materiali e accesso dell’area ecologica temporanea. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "bodio-lomnago",
@@ -975,7 +990,12 @@
    "nome": "Bogogno",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_suno.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Suno Via Pieve, 72 28019 Suno (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "bollengo",
@@ -1055,7 +1075,12 @@
    "nome": "Borgo Ticino",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_borgo_ticino_2015.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Borgo Ticino Via per Castelletto, 70 28040 Borgo Ticino (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "borgofranco-d-ivrea",
@@ -1072,7 +1097,12 @@
    "nome": "Borgomanero",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_borgomanero_2015.html",
+   "verificato": "2026-11-26",
+   "nota": "Stazione in Via Resega 46. Il giro Cartoni ditte e quello degli imballaggi in polietilene vanno attivati con il gestore. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-12-31",
+   "zone_und": 3
   },
   {
    "id": "borgomasino",
@@ -1853,7 +1883,12 @@
    "nome": "Carpignano Sesia",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.comune.carpignanosesia.no.it/it-it/servizi/ambiente/raccolta-rifiuti-107-26081-1-d66bcfd1d1b04596848274aaad36e12a",
+   "verificato": "2026-11-26",
+   "nota": "Per i container comunali chiedere conferma delle giornate, dei materiali e dell’accesso UND al Comune. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "carugate",
@@ -2160,7 +2195,12 @@
    "nome": "Castelletto sopra Ticino",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_borgo_ticino_2015.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Borgo Ticino Via per Castelletto, 70 28040 Borgo Ticino (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 4
   },
   {
    "id": "castellinaldo-d-alba",
@@ -2293,14 +2333,24 @@
    "nome": "Cavaglietto",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_suno.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Suno Via Pieve, 72 28019 Suno (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "cavaglio-d-agogna",
    "nome": "Cavaglio d'Agogna",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://comune.cavagliodagogna.no.it/it-it/novita/avvisi/2026/ambiente-verde-e-rifiuti/area-ecologica-comunale-orari-anno-2026-380093-1-6d5d293028e595a89ab252b613d566eb",
+   "verificato": "2026-11-26",
+   "nota": "Area comunale in Via Stazione. Consultare orari stagionali del Comune e condizioni del regolamento. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "cavagnolo",
@@ -2319,7 +2369,12 @@
    "nome": "Cavallirio",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario",
+   "verificato": "2026-11-26",
+   "nota": "La piattaforma è in Via alla Strona. Il PDF indica mar 13:30–15:00, sab 09:00–11:30. Verificare l’ammissione UND. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "cavaria-con-premezzo",
@@ -2950,7 +3005,12 @@
    "nome": "Comignago",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_arona.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Arona Via F.lli Cervi, 2 28041 Arona (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "concorezzo",
@@ -3138,7 +3198,12 @@
    "nome": "Cressa",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_suno.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Suno Via Pieve, 72 28019 Suno (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "crevoladossola",
@@ -3225,7 +3290,12 @@
    "nome": "Cureggio",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_cureggio.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Cureggio Via Marzalesco, snc 28010 Cureggio (NO). Consultare gli orari locali e confermare i conferimenti UND. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "curiglia-con-monteviasco",
@@ -3325,7 +3395,12 @@
    "nome": "Divignano",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_pombia.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Pombia Strada Intercomunale snc 28050 Pombia (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "dolzago",
@@ -3359,7 +3434,12 @@
    "nome": "Dormelletto",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_arona.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Arona Via F.lli Cervi, 2 28041 Arona (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "dresano",
@@ -3519,7 +3599,12 @@
    "nome": "Fara Novarese",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario",
+   "verificato": "2026-11-26",
+   "nota": "La piattaforma locale è in Via Marconi 34. Per accesso, orari e materiali consultare l’ultima pagina del PDF e il Comune. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "farnese",
@@ -3614,7 +3699,12 @@
    "nome": "Fontaneto d'Agogna",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_fontaneto.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Fontaneto d'Agogna Via della Pace, 9ter 28010 Fontaneto d'Agogna (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "fonte",
@@ -3784,7 +3874,12 @@
    "nome": "Gattico-Veruno",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_gattico_veruno.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Gattico-Veruno Via Reina, snc 28013 Gattico-Veruno (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "germagnano",
@@ -3828,7 +3923,12 @@
    "nome": "Ghemme",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_ghemme.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Ghemme Regione Croce 28074 Ghemme (NO). Consultare gli orari locali e confermare i conferimenti UND. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "ghiffa",
@@ -3998,7 +4098,12 @@
    "nome": "Grignasco",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_grignasco.php",
+   "verificato": "2026-11-26",
+   "nota": "Il PDF del servizio cita Via Verdi 3, l’indice del gestore Via Verdi 30. Confermare l’esatto ingresso. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "grinzane-cavour",
@@ -4648,7 +4753,12 @@
    "nome": "Maggiora",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_maggiora_2015.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Maggiora Via Carlo Sacchi, 8 28014 Maggiora (NO). Consultare gli orari locali e confermare i conferimenti UND. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "magliano-alfieri",
@@ -5767,7 +5877,12 @@
    "nome": "Oleggio Castello",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_arona.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Arona Via F.lli Cervi, 2 28041 Arona (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "olgiate-molgora",
@@ -6082,7 +6197,12 @@
    "nome": "Paruzzaro",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_paruzzaro.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Paruzzaro Via Fornaccio, snc 28040 Paruzzaro (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "pasturo",
@@ -6479,7 +6599,12 @@
    "nome": "Pombia",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_pombia.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Pombia Strada Intercomunale snc 28050 Pombia (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "pont-canavese",
@@ -6682,7 +6807,12 @@
    "nome": "Prato Sesia",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_prato_sesia.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Prato Sesia Via Vaglio 28077 Prato Sesia (NO). Consultare gli orari locali e confermare i conferimenti UND. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "preganziol",
@@ -7124,7 +7254,12 @@
    "nome": "Romagnano Sesia",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_prato_sesia.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Prato Sesia Via Vaglio 28077 Prato Sesia (NO). Consultare gli orari locali e confermare i conferimenti UND. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "roncade",
@@ -7912,7 +8047,12 @@
    "nome": "Sizzano",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.comune.sizzano.no.it/it-it/avvisi",
+   "verificato": "2026-11-26",
+   "nota": "Il Comune indica l’area ecologica aperta dal 19/10/2026 mar e sab 14:00–17:00. Chiedere condizioni UND e ubicazione. Giorni del giro Cartoni ditte da confermare.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "soiano-del-lago",
@@ -8120,7 +8260,12 @@
    "nome": "Suno",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_suno.html",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Suno Via Pieve, 72 28019 Suno (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "susa",
@@ -8746,7 +8891,12 @@
    "nome": "Varallo Pombia",
    "provincia": "NO",
    "gestore": "Medio Novarese Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf | https://www.medionovareseambiente.com/piattaforma_pombia.php",
+   "verificato": "2026-11-26",
+   "nota": "Centro indicato: Pombia Strada Intercomunale snc 28050 Pombia (NO). Consultare gli orari locali e confermare i conferimenti UND. Date Cartoni ditte disponibili.",
+   "valido_al": "2027-12-31",
+   "zone_und": 2
   },
   {
    "id": "varenna",

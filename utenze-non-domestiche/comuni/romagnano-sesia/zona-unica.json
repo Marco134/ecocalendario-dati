@@ -1,0 +1,171 @@
+{
+ "schema": 1,
+ "comune": "Romagnano Sesia",
+ "provincia": "NO",
+ "gestore": "Medio Novarese Ambiente",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-02-28",
+ "fonte": "https://www.consorziomedionovarese.it/it-it/download/romagnano-sesia-2026-uff-844-109-20027-71b52d9c5088d0ebf718a0c3caa38ffa | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf",
+ "esposizione": "Esporre fronte strada pubblica entro le 05:00, salvo accordi espressi per la sede.",
+ "esposizione_entro": "05:00",
+ "raccolte": {
+  "2026-11-27": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "carta",
+   "lattine",
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "carta",
+   "lattine",
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-04": [
+   "indifferenziato"
+  ],
+  "2027-01-05": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "lattine",
+   "organico"
+  ],
+  "2027-01-11": [
+   "indifferenziato"
+  ],
+  "2027-01-12": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-18": [
+   "indifferenziato"
+  ],
+  "2027-01-19": [
+   "carta",
+   "lattine",
+   "organico"
+  ],
+  "2027-01-22": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-25": [
+   "indifferenziato"
+  ],
+  "2027-01-26": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-01": [
+   "indifferenziato"
+  ],
+  "2027-02-02": [
+   "carta",
+   "lattine",
+   "organico"
+  ],
+  "2027-02-05": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-08": [
+   "indifferenziato"
+  ],
+  "2027-02-09": [
+   "carta",
+   "organico"
+  ],
+  "2027-02-12": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-15": [
+   "indifferenziato"
+  ],
+  "2027-02-16": [
+   "carta",
+   "lattine",
+   "organico"
+  ],
+  "2027-02-19": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-22": [
+   "indifferenziato"
+  ],
+  "2027-02-23": [
+   "carta",
+   "organico"
+  ],
+  "2027-02-26": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Centro indicato: Prato Sesia Via Vaglio 28077 Prato Sesia (NO). Consultare gli orari locali e confermare i conferimenti UND.",
+  "Lattine e vetro seguono circuiti distinti. Il ritiro del cartone per le ditte e gli altri servizi aggiuntivi richiedono attivazione. Le dotazioni delle attività si concordano con MNA.",
+  "MNA documenta un servizio Cartoni ditte per attività selezionate. Chiedere giorni e recuperi al gestore."
+ ]
+}

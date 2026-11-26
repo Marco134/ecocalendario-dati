@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "comune": "Sizzano",
+ "provincia": "NO",
+ "gestore": "Medio Novarese Ambiente",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-02-28",
+ "fonte": "https://www.consorziomedionovarese.it/it-it/download/sizzano-2026-uff-846-109-20027-214f94b73abd48b0f5a60547e38e83e3 | https://www.medionovareseambiente.com/pdf/Carta%20Qualita_Medio%20Novarese%20Ambiente%20DEF3.pdf",
+ "esposizione": "Esporre fronte strada pubblica entro le 05:00, salvo accordi espressi per la sede.",
+ "esposizione_entro": "05:00",
+ "raccolte": {
+  "2026-11-26": [
+   "lattine",
+   "organico"
+  ],
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "lattine",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "lattine",
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-06": [
+   "plastica"
+  ],
+  "2027-01-07": [
+   "lattine",
+   "organico"
+  ],
+  "2027-01-08": [
+   "indifferenziato"
+  ],
+  "2027-01-09": [
+   "carta"
+  ],
+  "2027-01-11": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-14": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "indifferenziato"
+  ],
+  "2027-01-16": [
+   "carta"
+  ],
+  "2027-01-18": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-20": [
+   "plastica"
+  ],
+  "2027-01-21": [
+   "lattine",
+   "organico"
+  ],
+  "2027-01-22": [
+   "indifferenziato"
+  ],
+  "2027-01-23": [
+   "carta"
+  ],
+  "2027-01-25": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-28": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "indifferenziato"
+  ],
+  "2027-01-30": [
+   "carta"
+  ],
+  "2027-02-01": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-03": [
+   "plastica"
+  ],
+  "2027-02-04": [
+   "lattine",
+   "organico"
+  ],
+  "2027-02-05": [
+   "indifferenziato"
+  ],
+  "2027-02-06": [
+   "carta"
+  ],
+  "2027-02-08": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-11": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "indifferenziato"
+  ],
+  "2027-02-13": [
+   "carta"
+  ],
+  "2027-02-15": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-17": [
+   "plastica"
+  ],
+  "2027-02-18": [
+   "lattine",
+   "organico"
+  ],
+  "2027-02-19": [
+   "indifferenziato"
+  ],
+  "2027-02-20": [
+   "carta"
+  ],
+  "2027-02-22": [
+   "organico",
+   "vetro"
+  ],
+  "2027-02-25": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "indifferenziato"
+  ],
+  "2027-02-27": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il Comune indica l’area ecologica aperta dal 19/10/2026 mar e sab 14:00–17:00. Chiedere condizioni UND e ubicazione.",
+  "Lattine e vetro seguono circuiti distinti. Il ritiro del cartone per le ditte e gli altri servizi aggiuntivi richiedono attivazione. Le dotazioni delle attività si concordano con MNA.",
+  "MNA documenta un servizio Cartoni ditte per attività selezionate. Chiedere giorni e recuperi al gestore."
+ ]
+}

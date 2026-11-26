@@ -7,7 +7,8 @@
   "vetro": "Vetro",
   "plastica": "Plastica",
   "indifferenziato": "Indifferenziato",
-  "sfalci": "Sfalci"
+  "sfalci": "Sfalci",
+  "lattine": "Lattine"
  },
  "tipi_en": {
   "organico": "Organic",
@@ -15,7 +16,8 @@
   "vetro": "Glass",
   "plastica": "Plastic",
   "indifferenziato": "General waste",
-  "sfalci": "Garden waste"
+  "sfalci": "Garden waste",
+  "lattine": "Cans"
  },
  "comuni": [
   {
@@ -93,6 +95,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "agrate-conturbia",
+   "nome": "Agrate Conturbia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.676,
+   "lon": 8.5599,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/agrate-conturbia/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/agrate-conturbia/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "aicurzio",
@@ -590,6 +616,54 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-arola.json"
+  },
+  {
+   "id": "arona",
+   "nome": "Arona",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7604,
+   "lon": 8.5595,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "a-b",
+     "nome": "Zone A e B · calendario commerciale UND",
+     "file": "comuni/arona/zona-a-b.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "a-b-cartoni-ditte",
+     "nome": "Zone A e B · solo Cartoni ditte",
+     "file": "comuni/arona/zona-a-b-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C · calendario commerciale UND",
+     "file": "comuni/arona/zona-c.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "c-cartoni-ditte",
+     "nome": "Zona C · solo Cartoni ditte",
+     "file": "comuni/arona/zona-c-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "d",
+     "nome": "Zona D · calendario commerciale UND",
+     "file": "comuni/arona/zona-d.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "d-cartoni-ditte",
+     "nome": "Zona D · solo Cartoni ditte",
+     "file": "comuni/arona/zona-d-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "artogne",
@@ -1597,6 +1671,24 @@
    ]
   },
   {
+   "id": "boca",
+   "nome": "Boca",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6783,
+   "lon": 8.4087,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/boca/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "bodio-lomnago",
    "nome": "Bodio Lomnago",
    "provincia": "VA",
@@ -1630,6 +1722,30 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-bognanco.json"
+  },
+  {
+   "id": "bogogno",
+   "nome": "Bogogno",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6672,
+   "lon": 8.5345,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/bogogno/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/bogogno/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "bollengo",
@@ -1738,6 +1854,30 @@
    ]
   },
   {
+   "id": "borgo-ticino",
+   "nome": "Borgo Ticino",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6881,
+   "lon": 8.6039,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/borgo-ticino/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/borgo-ticino/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "borgofranco-d-ivrea",
    "nome": "Borgofranco d'Ivrea",
    "provincia": "TO",
@@ -1760,6 +1900,36 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-borgofranco-capoluogo/"
+  },
+  {
+   "id": "borgomanero",
+   "nome": "Borgomanero",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6989,
+   "lon": 8.463,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A · UND ordinaria",
+     "file": "comuni/borgomanero/zona-a.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B · UND ordinaria",
+     "file": "comuni/borgomanero/zona-b.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C · UND ordinaria",
+     "file": "comuni/borgomanero/zona-c.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "borgomasino",
@@ -3012,6 +3182,24 @@
    ]
   },
   {
+   "id": "carpignano-sesia",
+   "nome": "Carpignano Sesia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.5353,
+   "lon": 8.4183,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/carpignano-sesia/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "cartoceto",
    "nome": "Cartoceto",
    "provincia": "PU",
@@ -3572,6 +3760,42 @@
    ]
   },
   {
+   "id": "castelletto-sopra-ticino",
+   "nome": "Castelletto sopra Ticino",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7141,
+   "lon": 8.6424,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A · UND ordinaria",
+     "file": "comuni/castelletto-sopra-ticino/zona-a.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "a-cartoni-ditte",
+     "nome": "Zona A · solo Cartoni ditte",
+     "file": "comuni/castelletto-sopra-ticino/zona-a-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B · UND ordinaria",
+     "file": "comuni/castelletto-sopra-ticino/zona-b.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "b-cartoni-ditte",
+     "nome": "Zona B · solo Cartoni ditte",
+     "file": "comuni/castelletto-sopra-ticino/zona-b-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "castellinaldo-d-alba",
    "nome": "Castellinaldo d'Alba",
    "provincia": "CN",
@@ -3800,6 +4024,54 @@
    ]
   },
   {
+   "id": "cavaglietto",
+   "nome": "Cavaglietto",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6028,
+   "lon": 8.5009,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cavaglietto/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/cavaglietto/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
+   "id": "cavaglio-d-agogna",
+   "nome": "Cavaglio d'Agogna",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6118,
+   "lon": 8.4828,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cavaglio-d-agogna/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/cavaglio-d-agogna/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "cavagnolo",
    "nome": "Cavagnolo",
    "provincia": "TO",
@@ -3816,6 +4088,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "cavallirio",
+   "nome": "Cavallirio",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.665,
+   "lon": 8.3967,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cavallirio/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "cavaria-con-premezzo",
@@ -4874,6 +5164,30 @@
    ]
   },
   {
+   "id": "comignago",
+   "nome": "Comignago",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7152,
+   "lon": 8.5651,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/comignago/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/comignago/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "concorezzo",
    "nome": "Concorezzo",
    "provincia": "MB",
@@ -5146,6 +5460,30 @@
    "ecocentri": "ecocentri/conser-vco-und-craveggia.json"
   },
   {
+   "id": "cressa",
+   "nome": "Cressa",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.648,
+   "lon": 8.5075,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cressa/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/cressa/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "crevoladossola",
    "nome": "Crevoladossola",
    "provincia": "VB",
@@ -5279,6 +5617,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "cureggio",
+   "nome": "Cureggio",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6751,
+   "lon": 8.4614,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cureggio/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "darfo-boario-terme",
@@ -5429,6 +5785,30 @@
    ]
   },
   {
+   "id": "divignano",
+   "nome": "Divignano",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6623,
+   "lon": 8.6015,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/divignano/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/divignano/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "domodossola",
    "nome": "Domodossola",
    "provincia": "VB",
@@ -5452,6 +5832,30 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/domodossola/",
    "ecocentri": "ecocentri/conser-vco-und-domodossola.json"
+  },
+  {
+   "id": "dormelletto",
+   "nome": "Dormelletto",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7302,
+   "lon": 8.5732,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/dormelletto/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/dormelletto/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "dovadola",
@@ -5719,6 +6123,24 @@
    ]
   },
   {
+   "id": "fara-novarese",
+   "nome": "Fara Novarese",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.5551,
+   "lon": 8.4591,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/fara-novarese/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "favria",
    "nome": "Favria",
    "provincia": "TO",
@@ -5863,6 +6285,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "fontaneto-d-agogna",
+   "nome": "Fontaneto d'Agogna",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6399,
+   "lon": 8.4846,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/fontaneto-d-agogna/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/fontaneto-d-agogna/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "fonte",
@@ -6273,6 +6719,30 @@
    ]
   },
   {
+   "id": "gattico-veruno",
+   "nome": "Gattico-Veruno",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7076,
+   "lon": 8.5213,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/gattico-veruno/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/gattico-veruno/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "gaverina-terme",
    "nome": "Gaverina Terme",
    "provincia": "BG",
@@ -6394,6 +6864,24 @@
      "valido_al": "2027-10-31"
     }
    ]
+  },
+  {
+   "id": "ghemme",
+   "nome": "Ghemme",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.5978,
+   "lon": 8.4201,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/ghemme/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "ghiffa",
@@ -6650,6 +7138,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "grignasco",
+   "nome": "Grignasco",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6819,
+   "lon": 8.3397,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/grignasco/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "grinzane-cavour",
@@ -7837,6 +8343,24 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-magasa.json"
+  },
+  {
+   "id": "maggiora",
+   "nome": "Maggiora",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6908,
+   "lon": 8.421,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/maggiora/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "magliano-alfieri",
@@ -9694,6 +10218,30 @@
    ]
   },
   {
+   "id": "oleggio-castello",
+   "nome": "Oleggio Castello",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7493,
+   "lon": 8.5297,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/oleggio-castello/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/oleggio-castello/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "omegna",
    "nome": "Omegna",
    "provincia": "VB",
@@ -10084,6 +10632,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "paruzzaro",
+   "nome": "Paruzzaro",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.7487,
+   "lon": 8.5135,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/paruzzaro/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/paruzzaro/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "pauli-arbarei",
@@ -10772,6 +11344,30 @@
    ]
   },
   {
+   "id": "pombia",
+   "nome": "Pombia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6493,
+   "lon": 8.6324,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pombia/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/pombia/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "pont-canavese",
    "nome": "Pont Canavese",
    "provincia": "TO",
@@ -11176,6 +11772,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "prato-sesia",
+   "nome": "Prato Sesia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6479,
+   "lon": 8.3738,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/prato-sesia/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "predappio",
@@ -11883,6 +12497,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "romagnano-sesia",
+   "nome": "Romagnano Sesia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6334,
+   "lon": 8.3829,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/romagnano-sesia/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "roncade",
@@ -13470,6 +14102,24 @@
    ]
   },
   {
+   "id": "sizzano",
+   "nome": "Sizzano",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.5773,
+   "lon": 8.4373,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/sizzano/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "soiano-del-lago",
    "nome": "Soiano del Lago",
    "provincia": "BS",
@@ -13904,6 +14554,30 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "suno",
+   "nome": "Suno",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6311,
+   "lon": 8.5409,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/suno/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/suno/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "susa",
@@ -15108,6 +15782,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "varallo-pombia",
+   "nome": "Varallo Pombia",
+   "provincia": "NO",
+   "gestore": "Medio Novarese Ambiente",
+   "lat": 45.6667,
+   "lon": 8.6331,
+   "consorzio": "medio-novarese-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/varallo-pombia/zona-unica.json",
+     "valido_al": "2027-12-31"
+    },
+    {
+     "id": "unica-cartoni-ditte",
+     "nome": "Zona unica · solo Cartoni ditte",
+     "file": "comuni/varallo-pombia/zona-unica-cartoni-ditte.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "varisella",
@@ -16643,6 +17341,12 @@
    "gestore": "SETA S.p.A.",
    "ecocentri": "ecocentri/seta-cb16-und.json",
    "regole": "regole/seta-cb16-und.json"
+  },
+  "medio-novarese-und": {
+   "nome": "Medio Novarese Ambiente · UND",
+   "gestore": "Medio Novarese Ambiente",
+   "ecocentri": "ecocentri/medio-novarese-und.json",
+   "regole": "regole/medio-novarese-und.json"
   }
  }
 }
