@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "CISA / SIA",
+ "numero_verde": "800 071 302",
+ "orari_numero_verde": "Punto informativo lun–ven 09:00–13:00 e 14:00–15:00",
+ "accesso": "Le attività devono richiedere a SIA l’autorizzazione per il conferimento occasionale e la convenzione per conferimenti continuativi. Verificare sede, frazioni urbane ammesse, tariffe e quantitativi per l’attività. Riferimento SIA 011 920 2214 · info@siaweb.info.",
+ "avviso": "Dieci sedi consortili. Le sedi e gli orari delle altre nove Ecostazioni sono disponibili nella tabella dell’archivio Piemonte. I centri chiudono nelle festività indicate dal CISA.",
+ "fonte": "https://www.cisaweb.info/it-it/servizi-/servizi/ecostazioni | https://www.cisaweb.info/it-it/download/eco-guida-versione-2025-4740-89-20059-44b50b0792138fc230bdfbaadc3917ed | https://www.cisaweb.info/it-it/download/regolamento-di-gestione-di-centri-di-racolta-3268-89-20059-c0ed0a4f6a8d009bfe6a732afb3e3570 | https://www.cisaweb.info/it-it/linea-diretta-/avvisi/2026/il-centro-di-raccolta-di-cirie-cambia-sede-405767-1-271f1c8113d294c19212e64f83ae2986 | https://www.cisaweb.info/it-it/download/calendario-2026-27-zona-a-ex-zone-1-2-e-3-3711-89-20059-b1fbe062b973aef888ae70b3178cffb9",
+ "centri": [
+  {
+   "id": "cisa-und-cirie-borche",
+   "tipo": "raccolta",
+   "comune": "Ciriè",
+   "indirizzo": "Località Borche 12/E, ex IPCA",
+   "lat": 45.2239937,
+   "lon": 7.5849273,
+   "orari": {
+    "1": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:30",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "17:30"
+     ]
+    ],
+    "7": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Sede dal 28 ottobre 2026. Per accedere occorre il titolo rilasciato da SIA e la verifica della frazione."
+  }
+ ]
+}

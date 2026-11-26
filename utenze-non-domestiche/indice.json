@@ -148,6 +148,30 @@
    ]
   },
   {
+   "id": "ala-di-stura",
+   "nome": "Ala di Stura",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3151,
+   "lon": 7.3043,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/ala-di-stura/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/ala-di-stura/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/ala-di-stura/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "alba",
    "nome": "Alba",
    "provincia": "CN",
@@ -743,6 +767,30 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-bairo/"
   },
   {
+   "id": "balangero",
+   "nome": "Balangero",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.27,
+   "lon": 7.5193,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/balangero/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "b",
+     "nome": "B · UND ordinaria",
+     "file": "comuni/balangero/zona-b.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "a",
+     "nome": "A · UND ordinaria",
+     "file": "comuni/balangero/zona-a.json",
+     "valido_al": "2028-02-29"
+    }
+   ]
+  },
+  {
    "id": "baldissero-canavese",
    "nome": "Baldissero Canavese",
    "provincia": "TO",
@@ -780,6 +828,30 @@
      "nome": "Raccolta ordinaria · attività",
      "file": "comuni/baldissero-d-alba/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "balme",
+   "nome": "Balme",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3023,
+   "lon": 7.2183,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/balme/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/balme/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/balme/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -831,6 +903,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/bannio-anzino/",
    "ecocentri": "ecocentri/conser-vco-und-bannio-anzino.json"
+  },
+  {
+   "id": "barbania",
+   "nome": "Barbania",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2905,
+   "lon": 7.6305,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/barbania/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1039-1-4ca394a078653d94c00ec81f9d9b8278",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/barbania/zona-unica.json",
+     "valido_al": "2028-02-25"
+    }
+   ]
   },
   {
    "id": "barbaresco",
@@ -1906,6 +1996,24 @@
    ]
   },
   {
+   "id": "cafasse",
+   "nome": "Cafasse",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2447,
+   "lon": 7.5181,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/cafasse/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1104-1-7647562f43e99034b49db653e6a320d0",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/cafasse/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ]
+  },
+  {
    "id": "cagnano-amiterno",
    "nome": "Cagnano Amiterno",
    "provincia": "AQ",
@@ -2287,6 +2395,30 @@
      "id": "ecopunti-e-servizi-dedicati",
      "nome": "Eco-Punti e servizi dedicati",
      "file": "comuni/cantalupa/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "cantoira",
+   "nome": "Cantoira",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3432,
+   "lon": 7.3817,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/cantoira/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/cantoira/zona-porta-a-porta.json",
+     "valido_al": "2028-02-25"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/cantoira/zona-stradale.json",
      "valido_al": "2027-12-31"
     }
    ]
@@ -3282,6 +3414,30 @@
    ]
   },
   {
+   "id": "ceres",
+   "nome": "Ceres",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3131,
+   "lon": 7.3893,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/ceres/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/ceres/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/ceres/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "ceresara",
    "nome": "Ceresara",
    "provincia": "MN",
@@ -3471,6 +3627,30 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/cherasco.pdf"
   },
   {
+   "id": "chialamberto",
+   "nome": "Chialamberto",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3629,
+   "lon": 7.3457,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/chialamberto/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/chialamberto/zona-porta-a-porta.json",
+     "valido_al": "2028-02-25"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/chialamberto/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "chiavenna",
    "nome": "Chiavenna",
    "provincia": "SO",
@@ -3617,6 +3797,30 @@
    ]
   },
   {
+   "id": "cirie",
+   "nome": "Ciriè",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.232,
+   "lon": 7.6038,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/cirie/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "A · UND ordinaria",
+     "file": "comuni/cirie/zona-a.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "b",
+     "nome": "B · UND ordinaria",
+     "file": "comuni/cirie/zona-b.json",
+     "valido_al": "2028-02-25"
+    }
+   ]
+  },
+  {
    "id": "civitella-di-romagna",
    "nome": "Civitella di Romagna",
    "provincia": "FC",
@@ -3649,6 +3853,30 @@
      "nome": "Cintura urbana 4",
      "file": "comuni/civitella-di-romagna/zona-cintura-urbana-4.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "coassolo-torinese",
+   "nome": "Coassolo Torinese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3007,
+   "lon": 7.4613,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/coassolo-torinese/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/coassolo-torinese/zona-porta-a-porta.json",
+     "valido_al": "2028-02-24"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/coassolo-torinese/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -3853,6 +4081,30 @@
      "nome": "Zona unica",
      "file": "comuni/concorezzo/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "corio",
+   "nome": "Corio",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3127,
+   "lon": 7.5326,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/corio/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/corio/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/corio/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -4587,6 +4839,24 @@
    ]
   },
   {
+   "id": "fiano",
+   "nome": "Fiano",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2181,
+   "lon": 7.5198,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/fiano/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1111-1-055a91df40b694475da90068190c3940",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/fiano/zona-unica.json",
+     "valido_al": "2028-02-28"
+    }
+   ]
+  },
+  {
    "id": "ficulle",
    "nome": "Ficulle",
    "provincia": "TR",
@@ -4823,6 +5093,24 @@
    ]
   },
   {
+   "id": "front",
+   "nome": "Front",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2796,
+   "lon": 7.6656,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/front/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1112-1-b3f7970c1fdfa57f452a487e6d872612",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/front/zona-unica.json",
+     "valido_al": "2028-02-25"
+    }
+   ]
+  },
+  {
    "id": "frossasco",
    "nome": "Frossasco",
    "provincia": "TO",
@@ -5046,6 +5334,24 @@
    ]
   },
   {
+   "id": "germagnano",
+   "nome": "Germagnano",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2622,
+   "lon": 7.4669,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/germagnano/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1113-1-0a4b662c523a616537a7d27cdce1672a",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/germagnano/zona-unica.json",
+     "valido_al": "2028-02-28"
+    }
+   ]
+  },
+  {
    "id": "germagno",
    "nome": "Germagno",
    "provincia": "VB",
@@ -5172,6 +5478,24 @@
      "nome": "Area intensa e area vasta",
      "file": "comuni/giove/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "givoletto",
+   "nome": "Givoletto",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.1588,
+   "lon": 7.4968,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/givoletto/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1114-1-cf330bd890cc0e340bcf25bc412f42f4",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/givoletto/zona-unica.json",
+     "valido_al": "2028-02-29"
     }
    ]
   },
@@ -5326,6 +5650,30 @@
    ]
   },
   {
+   "id": "groscavallo",
+   "nome": "Groscavallo",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.369,
+   "lon": 7.2823,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/groscavallo/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/groscavallo/zona-porta-a-porta.json",
+     "valido_al": "2028-02-25"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/groscavallo/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "grosio",
    "nome": "Grosio",
    "provincia": "SO",
@@ -5358,6 +5706,24 @@
      "nome": "Scheda attività",
      "file": "comuni/grosotto/zona-da-confermare.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "grosso",
+   "nome": "Grosso",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2564,
+   "lon": 7.5566,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/grosso/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1117-1-204b5dbbcfe770245b599f8456c59e3c",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/grosso/zona-unica.json",
+     "valido_al": "2028-02-28"
     }
    ]
   },
@@ -5763,6 +6129,48 @@
    ]
   },
   {
+   "id": "la-cassa",
+   "nome": "La Cassa",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.1818,
+   "lon": 7.5191,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/la-cassa/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1118-1-0ae3095d326b2e3bb022d053dd87495e",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/la-cassa/zona-unica.json",
+     "valido_al": "2028-02-28"
+    }
+   ]
+  },
+  {
+   "id": "lanzo-torinese",
+   "nome": "Lanzo Torinese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2723,
+   "lon": 7.4766,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/lanzo-torinese/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "A · UND ordinaria",
+     "file": "comuni/lanzo-torinese/zona-a.json",
+     "valido_al": "2028-02-28"
+    },
+    {
+     "id": "b",
+     "nome": "B · UND ordinaria",
+     "file": "comuni/lanzo-torinese/zona-b.json",
+     "valido_al": "2028-02-28"
+    }
+   ]
+  },
+  {
    "id": "laquila",
    "nome": "L'Aquila",
    "provincia": "AQ",
@@ -5846,6 +6254,30 @@
      "nome": "Tutto il comune",
      "file": "comuni/lavarone/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lemie",
+   "nome": "Lemie",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2286,
+   "lon": 7.2929,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/lemie/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/lemie/zona-porta-a-porta.json",
+     "valido_al": "2028-02-25"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/lemie/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -6606,6 +7038,24 @@
    "ecocentri": "ecocentri/conser-vco-und-massiola.json"
   },
   {
+   "id": "mathi",
+   "nome": "Mathi",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2566,
+   "lon": 7.5413,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/mathi/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1121-1-02d596adf3ac9264ffe40a45379c90d3",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/mathi/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ]
+  },
+  {
    "id": "mazzo-di-valtellina",
    "nome": "Mazzo di Valtellina",
    "provincia": "SO",
@@ -6849,6 +7299,30 @@
    ]
   },
   {
+   "id": "mezzenile",
+   "nome": "Mezzenile",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2924,
+   "lon": 7.395,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/mezzenile/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/mezzenile/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/mezzenile/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "miazzina",
    "nome": "Miazzina",
    "provincia": "VB",
@@ -6918,6 +7392,30 @@
      "nome": "Cintura urbana",
      "file": "comuni/modigliana/zona-cintura-urbana.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "monastero-di-lanzo",
+   "nome": "Monastero di Lanzo",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3014,
+   "lon": 7.4391,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/monastero-di-lanzo/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/monastero-di-lanzo/zona-porta-a-porta.json",
+     "valido_al": "2028-02-24"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/monastero-di-lanzo/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -7584,6 +8082,24 @@
      "nome": "Tutto il comune",
      "file": "comuni/nogaredo/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "nole",
+   "nome": "Nole",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2452,
+   "lon": 7.5701,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/nole/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1124-1-6dd0cfa1f658695644d06bd98bc12cde",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/nole/zona-unica.json",
+     "valido_al": "2028-02-28"
     }
    ]
   },
@@ -8361,6 +8877,30 @@
      "nome": "Zona unica",
      "file": "comuni/pessano-con-bornago/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "pessinetto",
+   "nome": "Pessinetto",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2905,
+   "lon": 7.4028,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/pessinetto/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/pessinetto/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/pessinetto/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -9643,6 +10183,42 @@
    ]
   },
   {
+   "id": "robassomero",
+   "nome": "Robassomero",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2001,
+   "lon": 7.5702,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/robassomero/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1126-1-22c1c364a6a48385b4d40ca48fd3b010",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/robassomero/zona-unica.json",
+     "valido_al": "2028-02-26"
+    }
+   ]
+  },
+  {
+   "id": "rocca-canavese",
+   "nome": "Rocca Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.3094,
+   "lon": 7.5785,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/rocca-canavese/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1127-1-4448b7f30037f1ce304397edd948d38d",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/rocca-canavese/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ]
+  },
+  {
    "id": "rocca-san-casciano",
    "nome": "Rocca San Casciano",
    "provincia": "FC",
@@ -10232,6 +10808,24 @@
    ]
   },
   {
+   "id": "san-carlo-canavese",
+   "nome": "San Carlo Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2482,
+   "lon": 7.6102,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/san-carlo-canavese/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1128-1-d5aa60aecce24ac1f6319b2c3df3297f",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/san-carlo-canavese/zona-unica.json",
+     "valido_al": "2028-02-25"
+    }
+   ]
+  },
+  {
    "id": "san-colombano-belmonte",
    "nome": "San Colombano Belmonte",
    "provincia": "TO",
@@ -10265,6 +10859,24 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-san-felice-del-benaco.json"
+  },
+  {
+   "id": "san-francesco-al-campo",
+   "nome": "San Francesco al Campo",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2255,
+   "lon": 7.6557,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/san-francesco-al-campo/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1129-1-9ed9be9f3403b939c86c4e82a69f51ec",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/san-francesco-al-campo/zona-unica.json",
+     "valido_al": "2028-02-25"
+    }
+   ]
   },
   {
    "id": "san-gemini",
@@ -10438,6 +11050,24 @@
      "nome": "Servizi per le attività",
      "file": "comuni/san-martino-dallargine/zona-info-und.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-maurizio-canavese",
+   "nome": "San Maurizio Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2191,
+   "lon": 7.6308,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/san-maurizio-canavese/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1130-1-3221a4f0adddfa588eefb9c238e8ab5a",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/san-maurizio-canavese/zona-unica.json",
+     "valido_al": "2028-02-29"
     }
    ]
   },
@@ -11697,6 +12327,30 @@
    ]
   },
   {
+   "id": "traves",
+   "nome": "Traves",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2706,
+   "lon": 7.4297,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/traves/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/traves/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/traves/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "tredozio",
    "nome": "Tredozio",
    "provincia": "FC",
@@ -12167,6 +12821,54 @@
    ]
   },
   {
+   "id": "usseglio",
+   "nome": "Usseglio",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2327,
+   "lon": 7.2172,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/usseglio/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/usseglio/zona-porta-a-porta.json",
+     "valido_al": "2028-02-25"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/usseglio/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "val-della-torre",
+   "nome": "Val della Torre",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.1556,
+   "lon": 7.4494,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/val-della-torre/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/val-della-torre/zona-porta-a-porta.json",
+     "valido_al": "2028-02-29"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/val-della-torre/zona-stradale.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "val-di-chy",
    "nome": "Val di Chy",
    "provincia": "TO",
@@ -12289,6 +12991,24 @@
    "ecocentri": "ecocentri/conser-vco-und-valle-cannobina.json"
   },
   {
+   "id": "vallo-torinese",
+   "nome": "Vallo Torinese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2235,
+   "lon": 7.4993,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.comune.vallotorinese.to.it/Dettaglionews?IDNews=419541",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/vallo-torinese/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "valperga",
    "nome": "Valperga",
    "provincia": "TO",
@@ -12402,6 +13122,24 @@
    ]
   },
   {
+   "id": "varisella",
+   "nome": "Varisella",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2098,
+   "lon": 7.489,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/varisella/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1135-1-2fcc6cdfec14eca01de3686cad3bc4f3",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/varisella/zona-unica.json",
+     "valido_al": "2028-02-28"
+    }
+   ]
+  },
+  {
    "id": "varzo",
    "nome": "Varzo",
    "provincia": "VB",
@@ -12425,6 +13163,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/varzo/",
    "ecocentri": "ecocentri/conser-vco-und-varzo.json"
+  },
+  {
+   "id": "vauda-canavese",
+   "nome": "Vauda Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2792,
+   "lon": 7.6182,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/vauda-canavese/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1136-1-0b550fd18a7bbb19ab61c9347f36d6b6",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/vauda-canavese/zona-unica.json",
+     "valido_al": "2028-02-25"
+    }
+   ]
   },
   {
    "id": "vedano-al-lambro",
@@ -12848,6 +13604,24 @@
    ]
   },
   {
+   "id": "villanova-canavese",
+   "nome": "Villanova Canavese",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2429,
+   "lon": 7.5535,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/villanova-canavese/servizi-/servizi/calendari-di-raccolta/calendari-di-raccolta-1137-1-b0aab4fb3bca66485ff7e5c7d5ae19a5",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "unica · UND ordinaria",
+     "file": "comuni/villanova-canavese/zona-unica.json",
+     "valido_al": "2028-02-29"
+    }
+   ]
+  },
+  {
    "id": "villanovaforru",
    "nome": "Villanovaforru",
    "provincia": "VS",
@@ -13079,6 +13853,30 @@
      "nome": "Cartone commerciale",
      "file": "comuni/vistrorio/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "viu",
+   "nome": "Viù",
+   "provincia": "TO",
+   "gestore": "CISA",
+   "lat": 45.2389,
+   "lon": 7.3765,
+   "consorzio": "cisa-und",
+   "zone_url": "https://www.cisaweb.info/it-it/comune/viu/servizi-/servizi/calendari-di-raccolta",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Utenze con contenitori a domicilio (porta a porta) · UND ordinaria",
+     "file": "comuni/viu/zona-porta-a-porta.json",
+     "valido_al": "2028-02-25"
+    },
+    {
+     "id": "stradale",
+     "nome": "Contenitori stradali · informazioni UND",
+     "file": "comuni/viu/zona-stradale.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -13683,6 +14481,12 @@
    "nome": "Solferino · UND",
    "gestore": "Mantova Ambiente",
    "ecocentri": "ecocentri/mantova-ambiente-und-solferino.json"
+  },
+  "cisa-und": {
+   "nome": "Consorzio CISA · UND",
+   "gestore": "CISA",
+   "ecocentri": "ecocentri/cisa-und.json",
+   "regole": "regole/cisa-und.json"
   }
  }
 }

@@ -89,3 +89,7 @@ Quarantasette comuni con il giro aggiuntivo per il cartone commerciale a fine 20
 ## Acea Pinerolese · 47 comuni
 
 Il catalogo riporta le raccolte per Eco-Punti e i servizi per le attività. Il Comune di Pinerolo documenta i giri attivabili per cinque frazioni e Bricherasio conferma i servizi su richiesta in base ai volumi. La Carta consortile indica assetti storici da riconfermare per sede. Per i giri dedicati restano da verificare date, orari, recuperi festivi e accesso per il singolo civico. Sono disponibili le 16 Ecoisole con tessera UND, le regole per i materiali e il prospetto 2026 di Roure e Pragelato. [Mappa Eco-Punti](https://ambiente.aceapinerolese.it/mappa/mappa-poi.php) · [Accesso alle Ecoisole](https://ambiente.aceapinerolese.it/modalita-di-accesso-alle-ecoisole/) · [Archivio regionale](https://github.com/Marco134/ecocalendario/tree/main/archivio-ecocalendari/piemonte/utenze-non-domestiche/acea-pinerolese)
+
+## CISA · 38 comuni
+
+I 40 programmi di raccolta ordinaria si applicano ai civici con porta a porta. Per i servizi aggiuntivi i passaggi dipendono dall’accordo con CISA. I calendari stradali indicano la frequenza dei giri dei cassonetti. Per le Ecostazioni serve autorizzazione o convenzione SIA. [Calendari CISA](https://www.cisaweb.info/it-it/servizi-/servizi/calendari-di-raccolta) · [Archivio Piemonte](https://github.com/Marco134/ecocalendario/tree/main/archivio-ecocalendari/piemonte/utenze-non-domestiche/cisa)

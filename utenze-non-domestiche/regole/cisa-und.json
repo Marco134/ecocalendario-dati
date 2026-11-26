@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "nome": "CISA · Materiali delle attività",
+ "fonte": "https://www.cisaweb.info/it-it/download/eco-guida-versione-2025-4740-89-20059-44b50b0792138fc230bdfbaadc3917ed | https://www.cisaweb.info/it-it/download/regolamento-di-gestione-di-centri-di-racolta-3268-89-20059-c0ed0a4f6a8d009bfe6a732afb3e3570 | https://www.cisaweb.info/it-it/download/calendario-2026-27-zona-a-ex-zone-1-2-e-3-3711-89-20059-b1fbe062b973aef888ae70b3178cffb9",
+ "voci": {
+  "carta e cartone puliti": {
+   "dove": "carta",
+   "nota": "Contenitore blu, senza sacchi di plastica. Piegare le scatole."
+  },
+  "cartone da imballaggio voluminoso": {
+   "dove": "carta",
+   "nota": "Le attività con grandi volumi possono richiedere un giro dedicato. Esporre sfuso a terra secondo il calendario assegnato."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Sciacquare e schiacciare. Conferire nella raccolta carta."
+  },
+  "giornali, riviste, fogli e sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Conferire sfusi nel contenitore della carta."
+  },
+  "bottiglie, vasi e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire vuoti. Separare i tappi metallici o di plastica."
+  },
+  "ceramica, porcellana, cristallo, pyrex e specchi": {
+   "dove": "varia",
+   "nota": "Esclusi dalla raccolta del vetro da imballaggio. Verificare la destinazione, soprattutto per pezzi ingombranti."
+  },
+  "bottiglie, flaconi, vaschette e sacchetti di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi in plastica e metalli. Svuotare completamente."
+  },
+  "lattine, tappi e vaschette in alluminio o metallo": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica e metalli."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Seguire le indicazioni per gli imballaggi. Per grandi volumi chiedere il percorso assegnato all’attività."
+  },
+  "avanzi di cucina, fondi del caffè e filtri del tè": {
+   "dove": "organico",
+   "nota": "Chiudere in un sacco compostabile e usare il contenitore organico assegnato."
+  },
+  "bioplastiche e stoviglie compostabili certificate": {
+   "dove": "organico",
+   "nota": "Conferire con l’organico quando l’imballaggio è certificato compostabile."
+  },
+  "carta oleata o plastificata e residuo non riciclabile": {
+   "dove": "indifferenziato",
+   "nota": "Usare il contenitore del residuo, salvo presenza di sostanze pericolose."
+  },
+  "ingombranti e raee di grandi dimensioni": {
+   "dove": "varia",
+   "nota": "Chiedere a SIA se il materiale è ammesso con autorizzazione o convenzione."
+  },
+  "neon, lampade e piccoli apparecchi elettrici": {
+   "dove": "varia",
+   "nota": "Verificare con SIA la frazione RAEE ammessa per il produttore o il distributore."
+  },
+  "sfalci e ramaglie delle attività": {
+   "dove": "varia",
+   "nota": "Chiedere condizioni a SIA. Le formule domestiche del calendario prevedono condizioni proprie."
+  },
+  "indumenti usati e calzature riutilizzabili": {
+   "dove": "indumenti",
+   "nota": "Per le attività verificare quantità e accesso con CISA."
+  },
+  "pile e accumulatori delle attività": {
+   "dove": "varia",
+   "nota": "Chiedere il circuito per la tipologia. I contenitori ordinari seguono le istruzioni CISA."
+  },
+  "medicinali scaduti provenienti da attività": {
+   "dove": "varia",
+   "nota": "Chiedere il circuito autorizzato per lo specifico rifiuto."
+  },
+  "vernici, solventi e scarti di lavorazione": {
+   "dove": "varia",
+   "nota": "Verificare con SIA la classificazione. L’accesso UND riguarda le frazioni urbane ammissibili."
+  },
+  "olio alimentare esausto": {
+   "dove": "varia",
+   "nota": "Verificare il circuito e l’autorizzazione per l’attività."
+  }
+ }
+}

@@ -2121,6 +2121,63 @@
    "regole_en": [
     "Check business eligibility and accepted bulky items."
    ]
+  },
+  {
+   "id": "cisa-und",
+   "telefono": "800 071 302",
+   "orari": "Punto informativo lun–ven 09:00–13:00 e 14:00–15:00",
+   "fonte": "https://www.cisaweb.info/it-it/servizi-/servizi/ingombranti | https://www.cisaweb.info/it-it/download/calendario-2026-27-zona-a-ex-zone-1-2-e-3-3711-89-20059-b1fbe062b973aef888ae70b3178cffb9 | https://www.cisaweb.info/it-it/download/eco-guida-versione-2025-4740-89-20059-44b50b0792138fc230bdfbaadc3917ed | https://www.cisaweb.info/it-it/servizi-/servizi/ecostazioni",
+   "verificato": "2026-11-26",
+   "nome": "CISA · UND",
+   "gestori": [],
+   "comuni": [
+    "ala-di-stura",
+    "balangero",
+    "balme",
+    "barbania",
+    "cafasse",
+    "cantoira",
+    "ceres",
+    "chialamberto",
+    "cirie",
+    "coassolo-torinese",
+    "corio",
+    "fiano",
+    "front",
+    "germagnano",
+    "givoletto",
+    "groscavallo",
+    "grosso",
+    "la-cassa",
+    "lanzo-torinese",
+    "lemie",
+    "mathi",
+    "mezzenile",
+    "monastero-di-lanzo",
+    "nole",
+    "pessinetto",
+    "robassomero",
+    "rocca-canavese",
+    "san-carlo-canavese",
+    "san-francesco-al-campo",
+    "san-maurizio-canavese",
+    "traves",
+    "usseglio",
+    "val-della-torre",
+    "vallo-torinese",
+    "varisella",
+    "vauda-canavese",
+    "villanova-canavese",
+    "viu"
+   ],
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Il ritiro gratuito a domicilio dei calendari CISA è riservato alle famiglie. Per ingombranti delle attività verificare con SIA le frazioni ammesse, la tariffa e il titolo richiesto. Le Ecostazioni accettano i flussi autorizzati."
+   ],
+   "regole_en": [
+    "Free home collection is reserved for households. Businesses should check with SIA for authorised bulky waste and recycling centre terms."
+   ]
   }
  ]
 }
