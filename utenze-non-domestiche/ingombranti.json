@@ -2924,6 +2924,481 @@
    "regole_en": [
     "Book through the operator and confirm eligible items, current charges and limits."
    ]
+  },
+  {
+   "id": "idealservice-vt-und-acquapendente",
+   "nome": "Acquapendente · Idealservice UND",
+   "comuni": [
+    "acquapendente"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/acquapendente/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=5",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-arlena-di-castro",
+   "nome": "Arlena di Castro · Idealservice UND",
+   "comuni": [
+    "arlena-di-castro"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/arlena-di-castro/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=12",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-barbarano-romano",
+   "nome": "Barbarano Romano · Idealservice UND",
+   "comuni": [
+    "barbarano-romano"
+   ],
+   "gestori": [],
+   "telefono": "800 719 744",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=13",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-bolsena",
+   "nome": "Bolsena · Idealservice UND",
+   "comuni": [
+    "bolsena"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/bolsena/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=15",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "La Carta indica martedì ogni due settimane, fino a 3 colli su prenotazione. Confermare disponibilità per l’attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-canino",
+   "nome": "Canino · Idealservice UND",
+   "comuni": [
+    "canino"
+   ],
+   "gestori": [],
+   "telefono": "800 955 029",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/canino/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=16",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "La pagina indica giovedì su prenotazione. La Carta riserva la gratuità alle abitazioni. Confermare ammissibilità, costi e limiti per l’attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-capodimonte",
+   "nome": "Capodimonte · Idealservice UND",
+   "comuni": [
+    "capodimonte"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/capodimonte/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=17",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-celleno",
+   "nome": "Celleno · Idealservice UND",
+   "comuni": [
+    "celleno"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/celleno/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=18",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-cellere",
+   "nome": "Cellere · Idealservice UND",
+   "comuni": [
+    "cellere"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/cellere/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=19",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-farnese",
+   "nome": "Farnese · Idealservice UND",
+   "comuni": [
+    "farnese"
+   ],
+   "gestori": [],
+   "telefono": "800 955 029",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/farnese/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=20",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-gallese",
+   "nome": "Gallese · Idealservice UND",
+   "comuni": [
+    "gallese"
+   ],
+   "gestori": [],
+   "telefono": "800 955 029",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/gallese/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=21",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-gradoli",
+   "nome": "Gradoli · Idealservice UND",
+   "comuni": [
+    "gradoli"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/gradoli/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-grotte-di-castro",
+   "nome": "Grotte di Castro · Idealservice UND",
+   "comuni": [
+    "grotte-di-castro"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/grotte-di-castro/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=6",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-ischia-di-castro",
+   "nome": "Ischia di Castro · Idealservice UND",
+   "comuni": [
+    "ischia-di-castro"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/ischia-di-castro/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=94",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-latera",
+   "nome": "Latera · Idealservice UND",
+   "comuni": [
+    "latera"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/latera/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=7",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "La pagina del gestore indica il terzo mercoledì del mese su prenotazione. Confermare disponibilità per l’attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-lubriano",
+   "nome": "Lubriano · Idealservice UND",
+   "comuni": [
+    "lubriano"
+   ],
+   "gestori": [],
+   "telefono": "+390432693511",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/lubriano/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=22",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-marta",
+   "nome": "Marta · Idealservice UND",
+   "comuni": [
+    "marta"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/marta/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=24",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-onano",
+   "nome": "Onano · Idealservice UND",
+   "comuni": [
+    "onano"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/onano/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=8",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-piansano",
+   "nome": "Piansano · Idealservice UND",
+   "comuni": [
+    "piansano"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/piansano/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "La pagina del gestore indica il martedì ogni due settimane su prenotazione. Confermare disponibilità per l’attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-proceno",
+   "nome": "Proceno · Idealservice UND",
+   "comuni": [
+    "proceno"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/proceno/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=9",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-san-lorenzo-nuovo",
+   "nome": "San Lorenzo Nuovo · Idealservice UND",
+   "comuni": [
+    "san-lorenzo-nuovo"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/san-lorenzo-nuovo/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=10",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-valentano",
+   "nome": "Valentano · Idealservice UND",
+   "comuni": [
+    "valentano"
+   ],
+   "gestori": [],
+   "telefono": "800 688 583",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/valentano/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=11",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-vallerano",
+   "nome": "Vallerano · Idealservice UND",
+   "comuni": [
+    "vallerano"
+   ],
+   "gestori": [],
+   "telefono": "800 955 029",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/vallerano/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=27",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-vasanello",
+   "nome": "Vasanello · Idealservice UND",
+   "comuni": [
+    "vasanello"
+   ],
+   "gestori": [],
+   "telefono": "800 955 029",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/vasanello/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=28",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-vignanello",
+   "nome": "Vignanello · Idealservice UND",
+   "comuni": [
+    "vignanello"
+   ],
+   "gestori": [],
+   "telefono": "800 955 029",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/vignanello/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=29",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "idealservice-vt-und-villa-san-giovanni-in-tuscia",
+   "nome": "Villa San Giovanni in Tuscia · Idealservice UND",
+   "comuni": [
+    "villa-san-giovanni-in-tuscia"
+   ],
+   "gestori": [],
+   "telefono": "800 719 741",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/villa-san-giovanni-in-tuscia/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=30",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-26",
+   "regole": [
+    "Contattare il gestore per l’ammissione degli ingombranti o RAEE dell’attività, le quantità e la tariffa. Verificare eventuale gratuità per le attività."
+   ],
+   "regole_en": [
+    "Ask the operator about eligible business items, charges and limits."
+   ]
   }
  ]
 }

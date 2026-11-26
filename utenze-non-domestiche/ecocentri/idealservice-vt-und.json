@@ -1,0 +1,459 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Idealservice",
+ "numero_verde": "800 688 583",
+ "accesso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione.",
+ "fonte": "https://serviziambientali.idealservice.it",
+ "avviso": "Consulta la scheda del comune per il recapito locale e gli orari stagionali. Per Centignano e le sedi prive di coordinate consultare le schede del gestore.",
+ "centri": [
+  {
+   "id": "idealservice-acquapendente-und",
+   "tipo": "raccolta",
+   "comune": "Acquapendente",
+   "indirizzo": "Località Cufone",
+   "lat": 42.74326209,
+   "lon": 11.8763849,
+   "orari": {
+    "2": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:30",
+      "12:30"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/acquapendente/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-barbarano-romano-und",
+   "tipo": "raccolta",
+   "comune": "Barbarano Romano",
+   "indirizzo": "Località San Quirico",
+   "lat": 42.238993,
+   "lon": 12.092128,
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-bolsena-und",
+   "tipo": "raccolta",
+   "comune": "Bolsena",
+   "indirizzo": "Località Morone",
+   "lat": 42.65376689659294,
+   "lon": 11.97299661707492,
+   "orari": {},
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/bolsena/",
+   "per": "non_domestiche",
+   "avviso": "Dal 15 settembre al 15 maggio lunedì–sabato 15:00–17:30. Dal 16 maggio al 14 settembre lunedì–sabato 16:30–19:00. Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-canino-und",
+   "tipo": "raccolta",
+   "comune": "Canino",
+   "indirizzo": "Località Madonna delle Mosse",
+   "lat": 42.44767934,
+   "lon": 11.73720724,
+   "orari": {
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/canino/",
+   "per": "non_domestiche",
+   "avviso": "Le isole informatizzate indicate per utenze domestiche non residenti sono un circuito distinto. Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-capodimonte-und",
+   "tipo": "raccolta",
+   "comune": "Capodimonte",
+   "indirizzo": "Località Montecchio",
+   "lat": 42.54226648,
+   "lon": 11.90126801,
+   "orari": {
+    "2": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/capodimonte/",
+   "per": "non_domestiche",
+   "avviso": "Dal 16 giugno al 14 settembre è indicato anche giovedì 15:00–18:00. Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-farnese-und",
+   "tipo": "raccolta",
+   "comune": "Farnese",
+   "indirizzo": "Località Le Sparme",
+   "lat": 42.55122461,
+   "lon": 11.72530359,
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/farnese/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-gallese-und",
+   "tipo": "raccolta",
+   "comune": "Gallese",
+   "indirizzo": "Località La Valle",
+   "lat": 42.37193135730243,
+   "lon": 12.445020825458192,
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/gallese/",
+   "per": "non_domestiche",
+   "avviso": "Giovedì in estate 15:00–18:00, in inverno 14:00–17:00. Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-ischia-di-castro-und",
+   "tipo": "raccolta",
+   "comune": "Ischia di Castro",
+   "indirizzo": "Località Prataccio",
+   "lat": 42.542200994995135,
+   "lon": 11.770810264338673,
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/ischia-di-castro/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-marta-und",
+   "tipo": "raccolta",
+   "comune": "Marta",
+   "indirizzo": "Strada Provinciale Martana verso Tuscania",
+   "lat": 42.499408,
+   "lon": 11.919499,
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/marta/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-piansano-und",
+   "tipo": "raccolta",
+   "comune": "Piansano",
+   "indirizzo": "Località Cave di Tufo",
+   "lat": 42.496755675385536,
+   "lon": 11.840199500046431,
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "2": [
+     [
+      "11:30",
+      "13:30"
+     ]
+    ],
+    "3": [
+     [
+      "11:30",
+      "13:30"
+     ]
+    ],
+    "4": [
+     [
+      "11:30",
+      "13:30"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ],
+    "5": [
+     [
+      "11:30",
+      "13:30"
+     ]
+    ],
+    "6": [
+     [
+      "11:30",
+      "13:30"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/piansano/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  },
+  {
+   "id": "idealservice-san-lorenzo-nuovo-und",
+   "tipo": "raccolta",
+   "comune": "San Lorenzo Nuovo",
+   "indirizzo": "Località Cava Merle",
+   "lat": 42.69045371,
+   "lon": 11.89766547,
+   "orari": {
+    "2": [
+     [
+      "10:00",
+      "11:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:30",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ]
+   },
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/san-lorenzo-nuovo/",
+   "per": "non_domestiche",
+   "avviso": "Verificare l’ammissione delle utenze non domestiche secondo il regolamento della singola sede e la tipologia di rifiuto. Chiedere eventuali documenti, limiti e prenotazione."
+  }
+ ]
+}

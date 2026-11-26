@@ -101,3 +101,7 @@ Calendari UND per Luino, Laveno Mombello e Maccagno con Pino e Veddasca fino al 
 ## Ambiente Servizi · Friuli Venezia Giulia
 
 Turni ordinari di 26 comuni fino al 29 febbraio 2028. Per organico e vetro, controllare se alla sede è assegnato il porta a porta o il circuito stradale. A Sacile la scheda per bar e negozi del centro storico indica i turni settimanali e le conferme ancora necessarie. Per centri e ingombranti valgono le condizioni locali. [Carta della qualità](https://www.ambienteservizi.net/carta-della-qualita-dei-servizi) · [Scheda di Sacile](https://www.ambienteservizi.net/comuni/sacile)
+
+## Idealservice · Provincia di Viterbo
+
+Il catalogo include 24 comuni con date e Acquapendente con due schede per civico. A Canino scegliere area urbana o area vasta. A Capodimonte consultare la scheda stagionale per la zona lago. I calendari di Bolsena e Marta sono verificati fino al 31 gennaio 2027. Per gli altri comuni occorre verificare le date dopo il 31 dicembre. Per i giorni festivi verificare gli avvisi del gestore. [Portale Idealservice](https://serviziambientali.idealservice.it/) · [Documenti di Acquapendente](https://serviziambientali.idealservice.it/it/comuni/acquapendente/documenti/)

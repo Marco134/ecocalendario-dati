@@ -19,7 +19,12 @@
    "nome": "Acquapendente",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/acquapendente/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/acquapendente/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=5",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.acquapendente@idealservice.it Il calendario digitale offre un solo profilo con turni che differiscono dai due PDF. Verificare quale programma vale per la propria attività.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "acquasparta",
@@ -394,7 +399,12 @@
    "nome": "Arlena di Castro",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/arlena-di-castro/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/arlena-di-castro/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=12",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "armeno",
@@ -644,7 +654,12 @@
    "nome": "Barbarano Romano",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=13",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 719 744. servizioclienti.barbaranoromano@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "barbaresco",
@@ -1022,7 +1037,12 @@
    "nome": "Bolsena",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/bolsena/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/bolsena/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=15",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.bolsena@idealservice.it Il PDF UND distingue estate e inverno. Le date pubblicate seguono il portale. Le isole ecologiche domestiche sono riservate a quel circuito.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "bolzano-novarese",
@@ -1697,7 +1717,12 @@
    "nome": "Canino",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/canino/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/canino/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=16",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 955 029. servizioclienti.canino@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "canischio",
@@ -1766,7 +1791,12 @@
    "nome": "Capodimonte",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/capodimonte/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/capodimonte/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=17",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.capodimonte@idealservice.it Il filtro propone due calendari. Qui sono riportate le date del calendario esplicitamente UND. Per la zona lago verificare il profilo stagionale.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "caponago",
@@ -2498,14 +2528,24 @@
    "nome": "Celleno",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/celleno/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/celleno/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=18",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.celleno@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "cellere",
    "nome": "Cellere",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/cellere/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/cellere/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=19",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.cellere@idealservice.it Il portale distingue Vetro e Vetro e lattine in alcune date. Per gli imballaggi metallici verificare la frazione indicata nella settimana specifica.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "cencenighe-agordino",
@@ -3696,7 +3736,12 @@
    "nome": "Farnese",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/farnese/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/farnese/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=20",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 955 029. servizioclienti.farnese@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "favria",
@@ -3881,7 +3926,12 @@
    "nome": "Gallese",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/gallese/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/gallese/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=21",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 955 029.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "galliate-lombardo",
@@ -4147,7 +4197,12 @@
    "nome": "Gradoli",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/gradoli/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/gradoli/documenti/",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.gradoli@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "grantola",
@@ -4260,7 +4315,12 @@
    "nome": "Grotte di Castro",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/grotte-di-castro/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/grotte-di-castro/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=6",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.grotte@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "grugliasco",
@@ -4381,7 +4441,12 @@
    "nome": "Ischia di Castro",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/ischia-di-castro/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/ischia-di-castro/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=94",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.ischiadicastro@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "isolabella",
@@ -4506,7 +4571,12 @@
    "nome": "Latera",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/latera/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/latera/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=7",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "lauriano",
@@ -4736,7 +4806,12 @@
    "nome": "Lubriano",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/lubriano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/lubriano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=22",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al +390432693511. Il portale mostra turni anche a gennaio 2027. L’atto comunale reperito riguarda il secondo semestre 2026. Verificare gestore e vigenza per gennaio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "lugnano-in-teverina",
@@ -5041,7 +5116,12 @@
    "nome": "Marta",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/marta/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/marta/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=24",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.marta@idealservice.it",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "martinengo",
@@ -6047,7 +6127,12 @@
    "nome": "Onano",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/onano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/onano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=8",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.onano@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "ono-san-pietro",
@@ -6546,7 +6631,12 @@
    "nome": "Piansano",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/piansano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/piansano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=26",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.piansano@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "piateda",
@@ -7037,7 +7127,12 @@
    "nome": "Proceno",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/proceno/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/proceno/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=9",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. Il regolamento storico ammette i negozi di vicinato iscritti. Verificare sede, orari e regole dopo i lavori all’isola.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "puegnago-del-garda",
@@ -7750,7 +7845,12 @@
    "nome": "San Lorenzo Nuovo",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/san-lorenzo-nuovo/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/san-lorenzo-nuovo/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=10",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. Il disciplinare indica raccolte su richiesta per attività di ristorazione. Verificare attivazione, frequenze e recuperi.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-martino-canavese",
@@ -8877,7 +8977,12 @@
    "nome": "Valentano",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/valentano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/valentano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=11",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 688 583. servizioclienti.valentano@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "valfurva",
@@ -8935,7 +9040,12 @@
    "nome": "Vallerano",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/vallerano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/vallerano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=27",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 955 029.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "vallo-torinese",
@@ -9074,7 +9184,12 @@
    "nome": "Vasanello",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/vasanello/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/vasanello/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=28",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 955 029. servizioclienti.vasanello@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "vauda-canavese",
@@ -9284,7 +9399,12 @@
    "nome": "Vignanello",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/vignanello/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/vignanello/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=29",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 955 029.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "vignate",
@@ -9331,7 +9451,12 @@
    "nome": "Villa San Giovanni in Tuscia",
    "provincia": "VT",
    "gestore": "Idealservice",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://serviziambientali.idealservice.it/it/comuni/villa-san-giovanni-in-tuscia/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/villa-san-giovanni-in-tuscia/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=30",
+   "verificato": "2026-11-26",
+   "nota": "Contattare Idealservice al 800 719 741. servizioclienti.villasangiovanniintuscia@idealservice.it",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "villa-d-adda",

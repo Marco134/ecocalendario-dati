@@ -1,0 +1,97 @@
+{
+ "schema": 1,
+ "comune": "Gradoli",
+ "provincia": "VT",
+ "gestore": "Idealservice",
+ "zona": "Raccolta porta a porta · UND",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://serviziambientali.idealservice.it/it/comuni/gradoli/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/gradoli/documenti/",
+ "raccolte": {
+  "2026-11-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "vetro"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-25": [
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "esposizione": "Esposizione dalle 19:00 del giorno precedente",
+ "note": [
+  "Contattare Idealservice al 800 688 583.",
+  "servizioclienti.gradoli@idealservice.it",
+  "Per 8, 25 e 26 dicembre, Capodanno ed Epifania verificare gli avvisi aggiornati. Alcune griglie mostrano passaggi anche nei giorni festivi."
+ ]
+}

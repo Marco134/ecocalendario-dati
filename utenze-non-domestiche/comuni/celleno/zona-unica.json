@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "comune": "Celleno",
+ "provincia": "VT",
+ "gestore": "Idealservice",
+ "zona": "Raccolta porta a porta · UND",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://serviziambientali.idealservice.it/it/comuni/celleno/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/celleno/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=18",
+ "raccolte": {
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "esposizione": "Esposizione dalle 19:00 del giorno precedente",
+ "note": [
+  "Contattare Idealservice al 800 688 583.",
+  "servizioclienti.celleno@idealservice.it",
+  "Per 8, 25 e 26 dicembre, Capodanno ed Epifania verificare gli avvisi aggiornati. Alcune griglie mostrano passaggi anche nei giorni festivi."
+ ]
+}

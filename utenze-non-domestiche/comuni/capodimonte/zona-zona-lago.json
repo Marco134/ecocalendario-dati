@@ -1,0 +1,18 @@
+{
+ "schema": 1,
+ "comune": "Capodimonte",
+ "provincia": "VT",
+ "gestore": "Idealservice",
+ "zona": "Zona lago · servizio stagionale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=136 | https://serviziambientali.idealservice.it/it/comuni/capodimonte/calendario?tipologiaUtenza=non-domestica",
+ "raccolte": {},
+ "info": "Il PDF indica la zona lago dal 16 giugno al 15 settembre. Confermare le attività ammesse, il civico e il profilo da usare negli altri periodi.",
+ "info_en": "Confirm the business collection schedule and holiday changes for your address with the operator.",
+ "note": [
+  "Contattare Idealservice al 800 688 583.",
+  "servizioclienti.capodimonte@idealservice.it",
+  "Il filtro propone due calendari. Qui sono riportate le date del calendario esplicitamente UND. Per la zona lago verificare il profilo stagionale."
+ ]
+}

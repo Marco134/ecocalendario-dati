@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "comune": "Barbarano Romano",
+ "provincia": "VT",
+ "gestore": "Idealservice",
+ "zona": "Raccolta porta a porta · UND",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=13",
+ "raccolte": {
+  "2026-11-26": [
+   "vetro"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "vetro"
+  ],
+  "2026-12-25": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ]
+ },
+ "esposizione": "Esposizione dalle 19:00 del giorno precedente",
+ "note": [
+  "Contattare Idealservice al 800 719 744.",
+  "servizioclienti.barbaranoromano@idealservice.it",
+  "Per 8, 25 e 26 dicembre, Capodanno ed Epifania verificare gli avvisi aggiornati. Alcune griglie mostrano passaggi anche nei giorni festivi."
+ ]
+}

@@ -1,0 +1,18 @@
+{
+ "schema": 1,
+ "comune": "Acquapendente",
+ "provincia": "VT",
+ "gestore": "Idealservice",
+ "zona": "Centro storico · calendario settimanale UND",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=117 | https://serviziambientali.idealservice.it/it/comuni/acquapendente/calendario?tipologiaUtenza=non-domestica",
+ "raccolte": {},
+ "info": "Carta lunedì e venerdì, plastica lunedì e mercoledì, organico lunedì mercoledì e venerdì, residuo lunedì, vetro e lattine sabato. Lunedì la carta e la plastica si espongono tra le 12:00 e le 13:00. Chiedere conferma della via e dei recuperi.",
+ "info_en": "Confirm the business collection schedule and holiday changes for your address with the operator.",
+ "note": [
+  "Contattare Idealservice al 800 688 583.",
+  "servizioclienti.acquapendente@idealservice.it",
+  "Il calendario digitale offre un solo profilo con turni che differiscono dai due PDF. Verificare quale programma vale per la propria attività."
+ ]
+}

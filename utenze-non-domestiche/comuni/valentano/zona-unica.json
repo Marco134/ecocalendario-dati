@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "comune": "Valentano",
+ "provincia": "VT",
+ "gestore": "Idealservice",
+ "zona": "Raccolta porta a porta · UND",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://serviziambientali.idealservice.it/it/comuni/valentano/calendario?tipologiaUtenza=non-domestica | https://serviziambientali.idealservice.it/it/comuni/valentano/documenti/ | https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=11",
+ "raccolte": {
+  "2026-11-27": [
+   "carta",
+   "organico"
+  ],
+  "2026-11-30": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-25": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "esposizione": "Esposizione dalle 19:00 del giorno precedente",
+ "note": [
+  "Contattare Idealservice al 800 688 583.",
+  "servizioclienti.valentano@idealservice.it",
+  "Per 8, 25 e 26 dicembre, Capodanno ed Epifania verificare gli avvisi aggiornati. Alcune griglie mostrano passaggi anche nei giorni festivi."
+ ]
+}

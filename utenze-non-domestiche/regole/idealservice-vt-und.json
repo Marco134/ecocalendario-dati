@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "nome": "Idealservice Viterbo · Materiali delle attività",
+ "fonte": "https://serviziambientali.idealservice.it/api/v0/public/files?entity=documenti:file&id=118 | https://serviziambientali.idealservice.it/it/comuni/vignanello/calendario?tipologiaUtenza=non-domestica",
+ "voci": {
+  "cartoni per bevande in tetrapak": {
+   "dove": "carta",
+   "nota": "Con carta e cartone secondo il calendario."
+  },
+  "carta da ufficio, cartone, giornali e riviste": {
+   "dove": "carta",
+   "nota": "Appiattire e togliere residui evidenti."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Vuotare e usare il contenitore previsto."
+  },
+  "lattine per bevande, scatolette e vaschette in alluminio": {
+   "dove": "vetro",
+   "nota": "Con il vetro dove il gestore indica Vetro e lattine. Se la frazione è solo vetro, chiedere indicazioni per i metalli."
+  },
+  "bottiglie, flaconi, vaschette e film di plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Ridurre i volumi e usare i sacchi assegnati."
+  },
+  "fondi di caffè e scarti di cucina": {
+   "dove": "organico",
+   "nota": "Usare sacchi compostabili. Conferire senza liquidi e senza residui ancora caldi."
+  },
+  "cerotti, cancelleria e mozziconi spenti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il turno del residuo."
+  },
+  "vernici, batterie veicoli e residui di produzione": {
+   "dove": "varia",
+   "nota": "Verificare il canale autorizzato e l’eventuale ammissibilità al centro."
+  }
+ }
+}

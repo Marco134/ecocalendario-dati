@@ -38,6 +38,30 @@
    ]
   },
   {
+   "id": "acquapendente",
+   "nome": "Acquapendente",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.744,
+   "lon": 11.8651,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "centro-storico",
+     "nome": "Centro storico · calendario settimanale UND",
+     "file": "comuni/acquapendente/zona-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "altri-civici",
+     "nome": "Altri civici · calendario settimanale UND",
+     "file": "comuni/acquapendente/zona-altri-civici.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/acquapendente/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "acquasparta",
    "nome": "Acquasparta",
    "provincia": "TR",
@@ -636,6 +660,24 @@
    "ecocentri": "ecocentri/conser-vco-und-arizzano.json"
   },
   {
+   "id": "arlena-di-castro",
+   "nome": "Arlena di Castro",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.463,
+   "lon": 11.8236,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/arlena-di-castro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/arlena-di-castro/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "arola",
    "nome": "Arola",
    "provincia": "VB",
@@ -1156,6 +1198,24 @@
      "valido_al": "2028-02-25"
     }
    ]
+  },
+  {
+   "id": "barbarano-romano",
+   "nome": "Barbarano Romano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.2522,
+   "lon": 12.066,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/barbarano-romano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/barbarano-romano/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "barbaresco",
@@ -1854,6 +1914,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-bollengo/"
+  },
+  {
+   "id": "bolsena",
+   "nome": "Bolsena",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6447,
+   "lon": 11.9876,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/bolsena/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/bolsena/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "borgaro-torinese",
@@ -3026,6 +3104,30 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-candia-c-se/"
   },
   {
+   "id": "canino",
+   "nome": "Canino",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.4642,
+   "lon": 11.7491,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "urbana",
+     "nome": "Area urbana · UND",
+     "file": "comuni/canino/zona-urbana.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "vasta",
+     "nome": "Area vasta · UND",
+     "file": "comuni/canino/zona-vasta.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/canino/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "canischio",
    "nome": "Canischio",
    "provincia": "TO",
@@ -3167,6 +3269,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "capodimonte",
+   "nome": "Capodimonte",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.5489,
+   "lon": 11.9063,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/capodimonte/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-lago",
+     "nome": "Zona lago · servizio stagionale",
+     "file": "comuni/capodimonte/zona-zona-lago.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/capodimonte/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "caponago",
@@ -4535,6 +4661,42 @@
     }
    ],
    "ecocentri": "ecocentri/vcs-forno-allione-und.json"
+  },
+  {
+   "id": "celleno",
+   "nome": "Celleno",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.5598,
+   "lon": 12.1264,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/celleno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/celleno/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
+   "id": "cellere",
+   "nome": "Cellere",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.508,
+   "lon": 11.7678,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/cellere/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/cellere/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "cenate-sopra",
@@ -6621,6 +6783,24 @@
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
+   "id": "farnese",
+   "nome": "Farnese",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.5502,
+   "lon": 11.7245,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/farnese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/farnese/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "favria",
    "nome": "Favria",
    "provincia": "TO",
@@ -7153,6 +7333,24 @@
    ]
   },
   {
+   "id": "gallese",
+   "nome": "Gallese",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.3724,
+   "lon": 12.4045,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/gallese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/gallese/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "galliate-lombardo",
    "nome": "Galliate Lombardo",
    "provincia": "VA",
@@ -7643,6 +7841,24 @@
    ]
   },
   {
+   "id": "gradoli",
+   "nome": "Gradoli",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6437,
+   "lon": 11.8561,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/gradoli/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/gradoli/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "grantola",
    "nome": "Grantola",
    "provincia": "VA",
@@ -7860,6 +8076,24 @@
    ]
   },
   {
+   "id": "grotte-di-castro",
+   "nome": "Grotte di Castro",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6739,
+   "lon": 11.8702,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/grotte-di-castro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/grotte-di-castro/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "guarene",
    "nome": "Guarene",
    "provincia": "CN",
@@ -7980,6 +8214,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "ischia-di-castro",
+   "nome": "Ischia di Castro",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.5442,
+   "lon": 11.7578,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/ischia-di-castro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/ischia-di-castro/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "isera",
@@ -8372,6 +8624,24 @@
    ]
   },
   {
+   "id": "latera",
+   "nome": "Latera",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6264,
+   "lon": 11.8284,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/latera/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/latera/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "lauriano",
    "nome": "Lauriano",
    "provincia": "TO",
@@ -8750,6 +9020,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "lubriano",
+   "nome": "Lubriano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6353,
+   "lon": 12.1071,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/lubriano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/lubriano/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "lugnano-in-teverina",
@@ -9281,6 +9569,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "marta",
+   "nome": "Marta",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.535,
+   "lon": 11.9252,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/marta/zona-unica.json",
+     "valido_al": "2027-01-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/marta/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "martinengo",
@@ -10993,6 +11299,24 @@
    "ecocentri": "ecocentri/conser-vco-und-omegna.json"
   },
   {
+   "id": "onano",
+   "nome": "Onano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6937,
+   "lon": 11.815,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/onano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/onano/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "ono-san-pietro",
    "nome": "Ono San Pietro",
    "provincia": "BS",
@@ -11734,6 +12058,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "piansano",
+   "nome": "Piansano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.5179,
+   "lon": 11.8282,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/piansano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/piansano/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "piateda",
@@ -12811,6 +13153,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "proceno",
+   "nome": "Proceno",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.7572,
+   "lon": 11.8304,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/proceno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/proceno/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "puegnago-del-garda",
@@ -14208,6 +14568,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giusto/"
+  },
+  {
+   "id": "san-lorenzo-nuovo",
+   "nome": "San Lorenzo Nuovo",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.6856,
+   "lon": 11.9061,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/san-lorenzo-nuovo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/san-lorenzo-nuovo/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "san-martino-al-tagliamento",
@@ -16698,6 +17076,24 @@
    "regole": "regole/secam-und-cartone.json"
   },
   {
+   "id": "valentano",
+   "nome": "Valentano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.5692,
+   "lon": 11.8184,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/valentano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/valentano/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "valfurva",
    "nome": "Valfurva",
    "provincia": "SO",
@@ -16749,6 +17145,24 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-valle-cannobina.json"
+  },
+  {
+   "id": "vallerano",
+   "nome": "Vallerano",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.3838,
+   "lon": 12.264,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/vallerano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/vallerano/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "vallo-torinese",
@@ -16971,6 +17385,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/varzo/",
    "ecocentri": "ecocentri/conser-vco-und-varzo.json"
+  },
+  {
+   "id": "vasanello",
+   "nome": "Vasanello",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.4182,
+   "lon": 12.3465,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/vasanello/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/vasanello/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "vauda-canavese",
@@ -17334,6 +17766,24 @@
    ]
   },
   {
+   "id": "vignanello",
+   "nome": "Vignanello",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.3838,
+   "lon": 12.2781,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/vignanello/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/vignanello/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
    "id": "vignate",
    "nome": "Vignate",
    "provincia": "MI",
@@ -17422,6 +17872,24 @@
      "valido_al": "2027-01-02"
     }
    ]
+  },
+  {
+   "id": "villa-san-giovanni-in-tuscia",
+   "nome": "Villa San Giovanni in Tuscia",
+   "provincia": "VT",
+   "gestore": "Idealservice",
+   "lat": 42.2835,
+   "lon": 12.0529,
+   "consorzio": "idealservice-vt-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta porta a porta · UND",
+     "file": "comuni/villa-san-giovanni-in-tuscia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://serviziambientali.idealservice.it/it/comuni/villa-san-giovanni-in-tuscia/calendario?tipologiaUtenza=non-domestica"
   },
   {
    "id": "villa-santangelo",
@@ -18511,6 +18979,12 @@
    "gestore": "Ambiente Servizi S.p.A.",
    "ecocentri": "ecocentri/ambiente-servizi-und.json",
    "regole": "regole/ambiente-servizi-und.json"
+  },
+  "idealservice-vt-und": {
+   "nome": "Idealservice Viterbo · UND",
+   "gestore": "Idealservice",
+   "ecocentri": "ecocentri/idealservice-vt-und.json",
+   "regole": "regole/idealservice-vt-und.json"
   }
  }
 }
