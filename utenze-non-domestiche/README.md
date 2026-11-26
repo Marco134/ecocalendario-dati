@@ -61,3 +61,7 @@ Carate Brianza ha cinque frazioni ordinarie e tre zone confermate dal Comune per
 ## Società Canavesana Servizi
 
 Nei 56 comuni verificati organico e residuo seguono il calendario pubblico della zona. La carta è settimanale per le attività. Il programma separato del cartone è indicato dove la tabella offre un turno comunale univoco. Per i turni per via di Ivrea e Strambino, il vetro e le zone con frazioni consultare le tabelle SCS. La Z.2 di Ivrea richiede il PDF corretto. [Calendari UND](https://scsivrea.it/calendario-raccolta-rifiuti-per-utenze-non-domestiche/)
+
+## Coinger
+
+Ventuno comuni con raccolta ordinaria delle attività fino al 31 maggio 2027. Per le dotazioni, i centri con fasce dedicate alle ditte e i limiti per singolo materiale valgono le condizioni del gestore. [Condizioni UND](https://coinger.it/per-le-aziende/)

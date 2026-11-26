@@ -1039,6 +1039,46 @@
    "regole_en": [
     "Business users can request information or a quote on +39 0125 632500, extension 2."
    ]
+  },
+  {
+   "id": "coinger-und",
+   "nome": "Coinger · UND",
+   "gestori": [],
+   "comuni": [
+    "albizzate",
+    "azzate",
+    "besnate",
+    "bodio-lomnago",
+    "casale-litta",
+    "castiglione-olona",
+    "castronno",
+    "cavaria-con-premezzo",
+    "cazzago-brabbia",
+    "crosio-della-valle",
+    "daverio",
+    "galliate-lombardo",
+    "inarzo",
+    "jerago-con-orago",
+    "morazzone",
+    "mornago",
+    "oggiona-con-santo-stefano",
+    "solbiate-arno",
+    "sumirago",
+    "vedano-olona",
+    "venegono-inferiore"
+   ],
+   "telefono": "800 35 95 95",
+   "orari": "Lun–gio 08:30–13:00 e 14:00–17:00, ven 08:30–13:00 e 14:00–16:00, sab 08:30–13:30",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://coinger.it/per-le-aziende/ | https://coinger.it/wp-content/uploads/Carta-dei-servizi-di-igiene-urbana.pdf",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Per ritiro a domicilio, tariffa e applicabilità al profilo aziendale chiedere al numero verde. I centri abilitati al codice 20 03 07 ammettono gli ingombranti delle attività fino a 1 m³ al giorno con le condizioni previste per le ditte."
+   ],
+   "regole_en": [
+    "Call Coinger to confirm whether bulky waste pickup is available for your business. Approved companies can take up to one cubic metre per day to authorised centres."
+   ]
   }
  ]
 }

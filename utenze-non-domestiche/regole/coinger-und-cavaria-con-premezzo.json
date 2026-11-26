@@ -1,0 +1,1057 @@
+{
+ "schema": 1,
+ "nome": "Cavaria con Premezzo · regole per le attività",
+ "fonte": "https://www.coinger.it/wp-content/uploads/20230418_Regolamento_servizio_rifiuti_COINGER_V09.pdf | https://coinger.it/comuni/cavaria-con-premezzo/raccolta-porta-a-porta/ | https://coinger.it/per-le-aziende/",
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro, lattine e latta",
+   "nome_en": "Glass and metal packaging"
+  }
+ },
+ "voci": {
+  "accendino/accendi fuoco a gas": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "accessori auto, qualsi ad esempio tappetini, copricerchi. le parti di auto invece devono essere obbligatoriamente portati presso i centri individuati dalla prefettura": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "alimenti in generale": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "assorbenti igienici e pannolini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "automobili e loro parti. solo in centri autorizzati": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "avanzi di stoffa": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "avanzi sia dei pasti che della preparazione degli stessi": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "barattoli in latta (confezioni legumi, pelati, etc.)": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "barattoli in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "barattoli per il confezionamento di prodotti vari in plastica (es: cosmetici, articoli da cancelleria, salviette umide, detersivi, rullini fotografici)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "batterie automobili e motoveicoli": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "beni durevoli di plastica di grandi dimensioni quali ad esempio sedie, tavoli, panchine, grossi giocattoli, taniche e bidoni": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "beni durevoli di plastica di piccole dimensioni quali ad esempio posacenere, portapenne, portasapone, scopino, casalinghi etc": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "biberon": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "biciclette": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "bretelle in cattivo stato": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "bidoni vuoti di tempere": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "biglietti lotterie e giochi vari": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "blister e contenitori rigidi e formati a sagoma (es: gusci per giocattoli, pile, articoli da cancelleria, gadget vari, ecc)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "bombolette spray esaurite e senza simbolo di pericolo": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "borse e zaini in buono stato": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "borse e zaini in cattivo stato": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "bottiglie di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "bottiglie in plastica (acqua, bibite, olio, succhi, latte…)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "bottoni": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "braccioli galleggiamento": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "bretelle in buono stato": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "buste da corrispondenza (anche quelle con finestrella in plastica)": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste della spesa in carta": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste della spesa in plastica compostabile en 13432": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste della spesa in plastica": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste in carta con all’interno rivestimento in alluminio": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste in carta imbottite con pluriball": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste in plastica con all’interno rivestimento in alluminio": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste in plastica per alimenti in genere, anche per congelatore": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "buste monodose cibo per cani e gatti": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "bustine tè, camomilla o infusi": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "caffettiere": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "calcinacci (solo utenti domestici)": {
+   "dove": "varia",
+   "nota": "Voce riservata alle utenze domestiche dal regolamento. Per l’attività chiedere il circuito autorizzato."
+  },
+  "calze di nylon": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "candele": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "canne da irrigazione": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cannucce per bibite": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carbonella per grigliate": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta da banco": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta da banco usata per prodotti di macelleria/pescheria (solo il primo foglio di contatto con alimento)": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta da cucina e tovaglioli intrisi di unto da cucina": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta da cucina, tovaglioli o carta uso alimentare": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta da parati": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta da forno": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta lucida da disegno": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta mani": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta poliaccoppiata ad alluminio per biscotti": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta oleata": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta intrisa di vernice o oli minerali": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "carta stagnola": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "carta stagnola utilizzata per cucinare al cartoccio con parti di cibo non staccabili": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta tritata da ufficio": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta utilizzata come lettiera di animali": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "carta vetrata": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cartine di zucchero": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cartoni della pizza (mettere nell'umido gli avanzi)": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "casalinghi in plastica tipo scolapasta, spremiagrumi, colino, etc": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "casalinghi in metallo senza supporto in plastica": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "caschi da moto/scooter": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cassette in cartone per prodotti ortofrutticoli e alimentari in genere": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cassette in plastica per prodotti ortofrutticoli e alimentari": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cavi elettrici (solo provenienza domestica)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "cellophane, anche per confezionamento capi prelevati da lavanderia": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cassette per bottiglie di acqua, vino, bibite ecc": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cenere di legna del camino/stufa completamente spenta": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "ceramica e porcellana": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "cerotti": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "ceste in vimini": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "cestini portarifiuti": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "cialde del caffè": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cinture in buono stato": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "cinture in cattivo stato": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "ciotole in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "colla stick/colla base vinilica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "confezioni in alluminio (tipo quelle di mousse alla frutta o di alcuni prodotti alimentari per animali)": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "confezioni in plastica dello yogurt": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "confezioni rigide per dolciumi (es scatole trasparenti e vassoi interni ad impronte)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "contenitori in plastica per conservare o cucinare": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "contenitori per yogurt, creme di formaggio, dessert": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "contenitori uova in carta": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "contenitori uova in plastica": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "coperte": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "copertone biciclette": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "coppette gelato in carta pressata": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "coprivasetti in alluminio di yogurt ed altri alimenti con linguetta a strappo": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "cosmetici e detersivi flaconi pieni (chiamare uffici coinger)": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cotone idrofilo e cotton fioc": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "cover per smartphone": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "diapositive": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "divani e mobilio di grandi dimensioni": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "dvd, cd, videocassette, musicassette e loro confezioni": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "elastici": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "elettrodomestici ed eletroutensili in generale (frigo, tv, condizionatore, trapano, tostapane, etc)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "escrementi di animali": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "evidenziatori": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "farmaci": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "fazzoletti per l’igiene nasale e fazzoletti struccanti": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "fili elettrici": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "film di imballaggio per tenere più prodotti insieme: ad es per raggruppare bottiglie di acqua, etc": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "fiori (nel verde per chi ha servizio porta a porta)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "fiori finti": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "fitofarmaci (solo utenti domestici)": {
+   "dove": "varia",
+   "nota": "Voce riservata alle utenze domestiche dal regolamento. Per l’attività chiedere il circuito autorizzato."
+  },
+  "flaconi e tubetti in plastica vuoti di alimenti, sciroppi, creme, salse ma anche di detersivi, saponi, prodotti per l’igiene, cosmetici, acqua distillata e liquidi in genere": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "foglio retro di etichette adesive": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "fondi di the, caffè e tisane": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "fotografie": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "giocattoli in plastica (privi di pile)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "gomma anti-trauma per bambini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "gomma piuma": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "gomme da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "gomme per cancellare": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "graffette": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "grucce in plastica da abito": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "grucce metalliche da tintoria": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "guaine di tubazioni (solo provenienza domenistica)": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "guanti di gomma": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "guarnizioni": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "gusci di frutta secca": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "gusci di molluschi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "ice box": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "imballaggi in plastica o polistirolo vuoti": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "indumenti da lavoro sporchi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "indumenti nuovi o logori": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "involucri di caramelle e cioccolatini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "lampade e lampadine a led": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "lampade e lampadine alogene": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "lampade e lampadine fluorescenti a risparmio energetico e lampade al neon": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "lampadine di vecchia generazione a incandescenza": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "lana materassi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "lastre diagnostiche": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "lattine per bibite e bevande": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "legno": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "lettiera di animali minerali": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "lettiere di animali vegetali (prive di escrementi)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "libri e quaderni": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "mastelli grandi": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "mastelli piccoli": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "materassi e reti": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "matite": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "mollette per bucato": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "moto e motorini e loro parti. solo in centri autorizzati": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "nastro adesivo": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "nastro/paglia per confezioni regalo": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "occhiali": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "oggetti di plastica per la casa (scolapasta, spremiagrumi, colino etc.)": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "olio vegetale/minerale": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "oggetti in plastica e polistirolo che non sono imballaggi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "ombrelli (se non inseribili nel bidone rur)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "ossa e lische": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "palloni": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pellicola d’imballaggio liscia e “a bolle” (pluriball)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pellicola per alimenti, anche quella che richiude le vaschette di alimenti acquistati": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pellicole trasparenti per riviste": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pelo toelettatura cane": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "penne, pennarelli, pennelli": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "peluches/pupazzi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pentolame di grosse dimensioni": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "pentole di dimensioni compatibili con secchi in uso (senza supporti in plastica)": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "pentole in coccio": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "pettini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "phone/piastre per capelli": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "piatti e bicchieri in plastica monouso": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "piatti e bicchieri monouso in materiale compostabile en 13432": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "posate in materiale compostabile en 13432": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pile": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "pinne": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "pirofile in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "piumoni": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "pneumatici di auto e moto (solo centri autorizzati)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "portadocumenti in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "portapenne in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "posacenere in ceramica/porcellana": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "posacenere in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "posate in metallo": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "posate in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "potature siepe": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "presine in stoffa/plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "radiografie": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "reggette per legatura pacchi": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "residui di sigarette": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "residuo della pulizia del pavimento": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "reti in plastica per frutta e verdura": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "righelli e squadre": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "rotoli interni di carta igienica / carta da cucina": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sacche per plasma, contenitori per liquidi fisiologici e per emodialisi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sacchetti in carta (anche quelli con inserto in plastica), shopper in carta": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sacchetti pieni dell’aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sacchetti vari in plastica per alimenti per animali": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sacchi cemento in carta": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sacchi in plastica per cemento, catrame a freddo, stabilitura": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "salvagente": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "scarpe e ciabatte in buono stato": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "scarpe e ciabatte in cattivo stato": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "scatole in carta per il confezionamento di capi di abbigliamento (es.: camicie, biancheria intima, calze, cravatte)": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "scatole in plastica per il confezionamento di capi di abbigliamento (es.: camicie, biancheria intima, calze, cravatte)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sci, monopattini, pattini etc.": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "scotch, anche rotolo interno in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "secchi, mastelli, catini in plastica": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "sedie in plastica": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "sfalcio prato": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "shopper (sacchetti/buste)dei negozi in plastica": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "siringhe, sacche per plasma, contenitori per liquidi fisiologici e per emodialisi)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "smalto per unghie (secco/finito)": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "smartphone": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "spazzole e spazzolini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "sporte": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "spugne": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "stagnola plastificata del caffè o biscotti": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "stoffe": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "stoviglie in ceramica/porcellana": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "stracci sporchi": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "stringhe": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "stuzzicadenti e spiedini di legno": {
+   "dove": "organico",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tappeti grandi": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "tappeti piccoli": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tappetini da auto/camion anche se di gomma": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tappi a corona": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "tappi di metallo di vasetti": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "tappi di plastica di barattoli": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tappi di sughero": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tappo di plastica bottiglie": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tavoletta copri wc": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "telecomandi (privi di batteria)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "telefonini (senza batteria)": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "teli da imbianchino": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "teli da serra": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "termometro in mercurio": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "tetrapak (cartoni del latte, succhi di frutta e altre bevande)": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "toner e cartucce stampanti": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "tovaglie di carta": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tovaglie plastificate": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tubetti di salse in metallo vuoti": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "tubetti dentifricio in plastica vuoto": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tubi proteggi fili elettrici": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tubetto dentifricio in plastica": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tubetto tempere in metallo": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "tubetto tempere in plastica": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "tute sportive": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "vaschette e confezioni in plastica trasparente o polistirolo per alimenti freschi (es. affettati, formaggi, pasta fresca, frutta, verdura)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "vaschette in alluminio per cucinare": {
+   "dove": "vetro",
+   "nota": "Conferire con vetro e imballaggi metallici, secondo le modalità locali per le attività."
+  },
+  "vaschette porta-uova in carta": {
+   "dove": "carta",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "vaschette porta-uova in plastica": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "vaschette/barattoli in plastica e polistirolo per gelati": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "vasi per piante": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "vasi per vendita e trasporto piantine (in genere sono neri)": {
+   "dove": "plastica",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "vetri e/o specchi di grandi dimensioni": {
+   "dove": "varia",
+   "nota": "Verificare il codice CER e il circuito autorizzato per la provenienza e la categoria dell’attività."
+  },
+  "vetri tipo pyrex": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "videocassette, musicassette, dvd, cd e loro confezioni": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "zerbini": {
+   "dove": "indifferenziato",
+   "nota": "Si applica ai rifiuti urbani dell’attività secondo il regolamento e la dotazione assegnata."
+  },
+  "bicchieri di cristallo": {
+   "dove": "vetro",
+   "nota": "A Cavaria con Premezzo seguiranno la raccolta del vetro come riportato nella scheda comunale Coinger. Chiedere conferma per quantità aziendali eccezionali."
+  },
+  "piatti e tazzine di porcellana": {
+   "dove": "indifferenziato",
+   "nota": "A Cavaria con Premezzo piatti e tazzine di porcellana sono indicati nel residuo. Chiedere conferma per quantità aziendali eccezionali."
+  }
+ }
+}

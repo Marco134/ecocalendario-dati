@@ -1,0 +1,133 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Coinger",
+ "numero_verde": "800 35 95 95",
+ "orari_numero_verde": "Lun–gio 08:30–13:00 e 14:00–17:00, ven 08:30–13:00 e 14:00–16:00, sab 08:30–13:30",
+ "accesso": "Rifiuti urbani della sede sul territorio Coinger. Abilitare la tessera viola con Coinger e portare autorizzazione per i codici ammessi e formulario per ogni tipologia. Il gestore indica 30 accessi l’anno e accesso il venerdì nelle fasce per le ditte, fino a 15 minuti prima della chiusura. Centri e limiti dipendono dal codice CER.",
+ "fonte": "https://coinger.it/per-le-aziende/ | https://coinger.it/comuni/venegono-inferiore/centri-di-raccolta/",
+ "centri": [
+  {
+   "id": "coinger-und-oggiona-con-santo-stefano",
+   "tipo": "raccolta",
+   "comune": "Oggiona con Santo Stefano",
+   "indirizzo": "Via Bonacalza, Oggiona con Santo Stefano",
+   "per": "non_domestiche",
+   "orari": {
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "lat": 45.7005086,
+   "lon": 8.8205001,
+   "chiuso": false,
+   "avviso": "Orario UND riportato dal gestore al 26 novembre. Chiuso nei festivi. Verificare l’orario estivo e il codice ammesso al centro."
+  },
+  {
+   "id": "coinger-und-solbiate-arno",
+   "tipo": "raccolta",
+   "comune": "Solbiate Arno",
+   "indirizzo": "Via Molinello, Solbiate Arno",
+   "per": "non_domestiche",
+   "orari": {
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "lat": 45.7134247,
+   "lon": 8.8079523,
+   "chiuso": false,
+   "avviso": "Orario UND riportato dal gestore al 26 novembre. Chiuso nei festivi. Verificare l’orario estivo e il codice ammesso al centro."
+  },
+  {
+   "id": "coinger-und-besnate",
+   "tipo": "raccolta",
+   "comune": "Besnate",
+   "indirizzo": "Via A. di Dio, Besnate",
+   "per": "non_domestiche",
+   "orari": {
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "lat": 45.7049903,
+   "lon": 8.7626152,
+   "chiuso": false,
+   "avviso": "Orario UND riportato dal gestore al 26 novembre. Chiuso nei festivi. Verificare l’orario estivo e il codice ammesso al centro."
+  },
+  {
+   "id": "coinger-und-bodio-lomnago",
+   "tipo": "raccolta",
+   "comune": "Bodio Lomnago",
+   "indirizzo": "Via Galvani, Bodio Lomnago",
+   "per": "non_domestiche",
+   "orari": {
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "lat": 45.786087,
+   "lon": 8.7448024,
+   "chiuso": false,
+   "avviso": "Orario UND riportato dal gestore al 26 novembre. Chiuso nei festivi. Verificare l’orario estivo e il codice ammesso al centro."
+  },
+  {
+   "id": "coinger-und-brunello",
+   "tipo": "raccolta",
+   "comune": "Brunello",
+   "indirizzo": "Via Chiesa ad Erbamolle, Brunello",
+   "per": "non_domestiche",
+   "orari": {
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "lat": 45.7700806,
+   "lon": 8.8063617,
+   "chiuso": false,
+   "avviso": "Orario UND riportato dal gestore al 26 novembre. Chiuso nei festivi. Verificare l’orario estivo e il codice ammesso al centro."
+  },
+  {
+   "id": "coinger-und-castiglione-olona",
+   "tipo": "raccolta",
+   "comune": "Castiglione Olona",
+   "indirizzo": "Via Boccaccio, Castiglione Olona",
+   "per": "non_domestiche",
+   "orari": {
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "lat": 45.7416241,
+   "lon": 8.8694264,
+   "chiuso": false,
+   "avviso": "Orario UND riportato dal gestore al 26 novembre. Chiuso nei festivi. Verificare l’orario estivo e il codice ammesso al centro."
+  }
+ ]
+}

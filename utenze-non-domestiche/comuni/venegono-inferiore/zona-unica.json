@@ -1,0 +1,345 @@
+{
+ "schema": 1,
+ "comune": "Venegono Inferiore",
+ "provincia": "VA",
+ "gestore": "Coinger",
+ "zona": "Gruppo Beta",
+ "valido_al": "2027-05-31",
+ "esposizione": "Almeno un’ora dopo il tramonto del giorno precedente e comunque entro le 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00",
+ "valido_dal": "2026-11-26",
+ "fonte": "https://coinger.it/wp-content/uploads/BETA-Calendario-Aprile-2026-Maggio-2027.pdf | https://coinger.it/comuni/venegono-inferiore/calendario/ | https://coinger.it/per-le-aziende/",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-06": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-11": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-13": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-18": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-25": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-27": [
+   "carta",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-02-01": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-03": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-08": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-10": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-12": [
+   "organico"
+  ],
+  "2027-02-15": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-17": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-22": [
+   "organico",
+   "plastica"
+  ],
+  "2027-02-24": [
+   "carta",
+   "vetro"
+  ],
+  "2027-02-26": [
+   "organico"
+  ],
+  "2027-03-01": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-03": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-08": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-10": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-12": [
+   "organico"
+  ],
+  "2027-03-15": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-17": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-03-22": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-24": [
+   "carta",
+   "vetro"
+  ],
+  "2027-03-26": [
+   "organico"
+  ],
+  "2027-03-29": [
+   "organico",
+   "plastica"
+  ],
+  "2027-03-31": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-05": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-07": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-09": [
+   "organico"
+  ],
+  "2027-04-12": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-14": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-04-19": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-21": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-23": [
+   "organico"
+  ],
+  "2027-04-26": [
+   "organico",
+   "plastica"
+  ],
+  "2027-04-28": [
+   "carta",
+   "vetro"
+  ],
+  "2027-04-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-03": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-05": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-07": [
+   "organico"
+  ],
+  "2027-05-10": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-12": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-17": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-19": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-21": [
+   "organico"
+  ],
+  "2027-05-24": [
+   "organico",
+   "plastica"
+  ],
+  "2027-05-26": [
+   "carta",
+   "vetro"
+  ],
+  "2027-05-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-05-31": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Il calendario comunale vale per la raccolta ordinaria delle attività secondo Coinger. Esporre le frazioni previste dalla dotazione dell’attività. Per servizi aggiuntivi, grandi quantità o dotazioni dedicate chiedere al gestore.",
+  "Vetro, lattine e latta si raccolgono insieme. I contenitori in Tetra Pak vanno con la carta. Sfalci, tessili e raccolte su richiesta seguono le condizioni del gestore."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-01"
+  }
+ ]
+}
