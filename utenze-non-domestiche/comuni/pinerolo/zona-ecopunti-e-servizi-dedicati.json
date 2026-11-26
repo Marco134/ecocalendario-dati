@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Pinerolo",
+ "provincia": "TO",
+ "gestore": "Acea Pinerolese Industriale",
+ "zona": "Eco-Punti e servizi dedicati",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-12-31",
+ "fonte": "https://ambiente.aceapinerolese.it/comuni-serviti/ | https://ambiente.aceapinerolese.it/raccolta-e-spazzamento/ | https://ambiente.aceapinerolese.it/mappa/mappa-poi.php | https://www.comune.cantalupa.to.it/cgi-bin/allegati/carta%20dei%20serivizi.pdf | https://ambiente.aceapinerolese.it/modalita-di-accesso-alle-ecoisole/ | https://www.comune.pinerolo.to.it/schede-informative/rifiuti | https://www.comune.pinerolo.to.it/novita/notizie/vademecum-per-raccolta-rifiuti-delle-utenze-non-domestiche | https://www.comune.pinerolo.to.it/media/1985",
+ "raccolte": {},
+ "note": [
+  "Raccolta di prossimità per Eco-Punti. Per i quantitativi indicati dal vademecum comunale si attivano i servizi di cartone a terra, plastica e metalli, organico, vetro e carta da ufficio. Il residuo si porta all’Eco-Punto di riferimento. Verificare con Acea giorni, orari, luogo di esposizione e recuperi per la propria sede. Per le Ecoisole serve la tessera UND. Assistenza Acea 800 774 749."
+ ],
+ "info": "Raccolta di prossimità per Eco-Punti. Per i quantitativi indicati dal vademecum comunale si attivano i servizi di cartone a terra, plastica e metalli, organico, vetro e carta da ufficio. Il residuo si porta all’Eco-Punto di riferimento. Verificare con Acea giorni, orari, luogo di esposizione e recuperi per la propria sede. Per le Ecoisole serve la tessera UND. Assistenza Acea 800 774 749.",
+ "info_en": "Business services may vary by address and waste volume. Check the assigned street collection points and ask Acea for any dedicated pickups, holiday changes and the business recycling centre card."
+}

@@ -96,6 +96,23 @@
    ]
   },
   {
+   "id": "airasca",
+   "nome": "Airasca",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9169,
+   "lon": 7.4844,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/airasca/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "ala",
    "nome": "Ala",
    "provincia": "TN",
@@ -316,6 +333,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-andrate/"
+  },
+  {
+   "id": "angrogna",
+   "nome": "Angrogna",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8434,
+   "lon": 7.2243,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/angrogna/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "antrona-schieranco",
@@ -1235,6 +1269,40 @@
    "regole": "regole/gelsia-und-biassono.json"
   },
   {
+   "id": "bibiana",
+   "nome": "Bibiana",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.7976,
+   "lon": 7.2898,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/bibiana/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "bobbio-pellice",
+   "nome": "Bobbio Pellice",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8077,
+   "lon": 7.1179,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/bobbio-pellice/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "bodio-lomnago",
    "nome": "Bodio Lomnago",
    "provincia": "VA",
@@ -1530,6 +1598,23 @@
    ]
   },
   {
+   "id": "bricherasio",
+   "nome": "Bricherasio",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8256,
+   "lon": 7.3029,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/bricherasio/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "brosso",
    "nome": "Brosso",
    "provincia": "TO",
@@ -1621,6 +1706,23 @@
      "nome": "Zona unica",
      "file": "comuni/burago-di-molgora/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "buriasco",
+   "nome": "Buriasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8734,
+   "lon": 7.4119,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/buriasco/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -1938,6 +2040,23 @@
    ]
   },
   {
+   "id": "campiglione-fenile",
+   "nome": "Campiglione Fenile",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8021,
+   "lon": 7.325,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/campiglione-fenile/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "campotosto",
    "nome": "Campotosto",
    "provincia": "AQ",
@@ -2069,6 +2188,23 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/cannobio/",
    "ecocentri": "ecocentri/conser-vco-und-cannobio.json"
+  },
+  {
+   "id": "cantalupa",
+   "nome": "Cantalupa",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9403,
+   "lon": 7.3326,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/cantalupa/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "capitignano",
@@ -2899,6 +3035,23 @@
    ]
   },
   {
+   "id": "cavour",
+   "nome": "Cavour",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.784,
+   "lon": 7.3752,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/cavour/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "cazzago-brabbia",
    "nome": "Cazzago Brabbia",
    "provincia": "VA",
@@ -2957,6 +3110,23 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/ceppo-morelli/",
    "ecocentri": "ecocentri/conser-vco-und-ceppo-morelli.json"
+  },
+  {
+   "id": "cercenasco",
+   "nome": "Cercenasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8613,
+   "lon": 7.5013,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/cercenasco/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "ceresole-alba",
@@ -3807,6 +3977,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cuceglio/"
   },
   {
+   "id": "cumiana",
+   "nome": "Cumiana",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9828,
+   "lon": 7.3744,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/cumiana/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "cuorgne",
    "nome": "Cuorgnè",
    "provincia": "TO",
@@ -4213,6 +4400,23 @@
    ]
   },
   {
+   "id": "fenestrelle",
+   "nome": "Fenestrelle",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 45.0343,
+   "lon": 7.0519,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/fenestrelle/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "ficulle",
    "nome": "Ficulle",
    "provincia": "TR",
@@ -4449,6 +4653,23 @@
    ]
   },
   {
+   "id": "frossasco",
+   "nome": "Frossasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9336,
+   "lon": 7.3508,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/frossasco/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "galeata",
    "nome": "Galeata",
    "provincia": "FC",
@@ -4584,6 +4805,23 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-gargnano.json"
+  },
+  {
+   "id": "garzigliana",
+   "nome": "Garzigliana",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8368,
+   "lon": 7.3747,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/garzigliana/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "gaverina-terme",
@@ -5005,6 +5243,23 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-intragna.json"
+  },
+  {
+   "id": "inverso-pinasca",
+   "nome": "Inverso Pinasca",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9472,
+   "lon": 7.216,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/inverso-pinasca/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "inzago",
@@ -5633,6 +5888,40 @@
    ]
   },
   {
+   "id": "luserna-san-giovanni",
+   "nome": "Luserna San Giovanni",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8143,
+   "lon": 7.2458,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/luserna-san-giovanni/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lusernetta",
+   "nome": "Lusernetta",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8024,
+   "lon": 7.2502,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/lusernetta/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "lusiglie",
    "nome": "Lusigliè",
    "provincia": "TO",
@@ -5646,6 +5935,23 @@
      "nome": "Cartone commerciale",
      "file": "comuni/lusiglie/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "macello",
+   "nome": "Macello",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8512,
+   "lon": 7.4008,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/macello/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -5998,6 +6304,23 @@
      "nome": "Zona unica",
      "file": "comuni/massalengo/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "massello",
+   "nome": "Massello",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9586,
+   "lon": 7.0563,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/massello/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -7044,6 +7367,23 @@
    ]
   },
   {
+   "id": "none",
+   "nome": "None",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9323,
+   "lon": 7.5412,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/none/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "nonio",
    "nome": "Nonio",
    "provincia": "VB",
@@ -7319,6 +7659,23 @@
     }
    ],
    "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+  },
+  {
+   "id": "osasco",
+   "nome": "Osasco",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8495,
+   "lon": 7.3432,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/osasco/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "ozegna",
@@ -7635,6 +7992,23 @@
    ]
   },
   {
+   "id": "perosa-argentina",
+   "nome": "Perosa Argentina",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9581,
+   "lon": 7.1924,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/perosa-argentina/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "perosa-canavese",
    "nome": "Perosa Canavese",
    "provincia": "TO",
@@ -7657,6 +8031,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-perosa-c-se/"
+  },
+  {
+   "id": "perrero",
+   "nome": "Perrero",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9375,
+   "lon": 7.1153,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/perrero/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "pertusio",
@@ -7814,6 +8205,40 @@
    "ecocentri": "ecocentri/conser-vco-und-pieve-vergonte.json"
   },
   {
+   "id": "pinasca",
+   "nome": "Pinasca",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9427,
+   "lon": 7.2277,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/pinasca/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pinerolo",
+   "nome": "Pinerolo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8873,
+   "lon": 7.332,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/pinerolo/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "piobesi-d-alba",
    "nome": "Piobesi d'Alba",
    "provincia": "CN",
@@ -7875,6 +8300,23 @@
      "nome": "Centro storico · cassonetti con tessera e servizi personalizzati",
      "file": "comuni/pisa/zona-cassonetti-e-servizi-personalizzati.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "piscina",
+   "nome": "Piscina",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9195,
+   "lon": 7.4259,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/piscina/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -7971,6 +8413,23 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-polpenazze-del-garda.json"
+  },
+  {
+   "id": "pomaretto",
+   "nome": "Pomaretto",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9551,
+   "lon": 7.1822,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/pomaretto/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
   },
   {
    "id": "pomarolo",
@@ -8074,6 +8533,23 @@
      "nome": "Area intensa e area vasta",
      "file": "comuni/porano/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "porte",
+   "nome": "Porte",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8876,
+   "lon": 7.268,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/porte/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -8192,6 +8668,74 @@
      "nome": "Zona unica",
      "file": "comuni/pozzuolo-martesana/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "pragelato",
+   "nome": "Pragelato",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 45.0163,
+   "lon": 6.9423,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/pragelato/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "prali",
+   "nome": "Prali",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8904,
+   "lon": 7.049,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/prali/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pramollo",
+   "nome": "Pramollo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9046,
+   "lon": 7.2117,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/pramollo/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "prarostino",
+   "nome": "Prarostino",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8658,
+   "lon": 7.2697,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/prarostino/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -8860,6 +9404,23 @@
    ]
   },
   {
+   "id": "roletto",
+   "nome": "Roletto",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9252,
+   "lon": 7.3307,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/roletto/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "roncade",
    "nome": "Roncade",
    "provincia": "TV",
@@ -8948,6 +9509,23 @@
    ]
   },
   {
+   "id": "rora",
+   "nome": "Rorà",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.7923,
+   "lon": 7.1985,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/rora/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "rota-dimagna",
    "nome": "Rota d'Imagna",
    "provincia": "BG",
@@ -8962,6 +9540,23 @@
      "nome": "Zona unica",
      "file": "comuni/rota-dimagna/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "roure",
+   "nome": "Roure",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 45.0011,
+   "lon": 7.1291,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/roure/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -9114,6 +9709,23 @@
    "ecocentri": "ecocentri/garda-und-salo.json"
   },
   {
+   "id": "salza-di-pinerolo",
+   "nome": "Salza di Pinerolo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9405,
+   "lon": 7.0532,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/salza-di-pinerolo/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "samolaco",
    "nome": "Samolaco",
    "provincia": "SO",
@@ -9238,6 +9850,23 @@
      "nome": "Area intensa e area vasta",
      "file": "comuni/san-gemini/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-germano-chisone",
+   "nome": "San Germano Chisone",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8987,
+   "lon": 7.2409,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/san-germano-chisone/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -9374,6 +10003,23 @@
    ]
   },
   {
+   "id": "san-pietro-val-lemina",
+   "nome": "San Pietro Val Lemina",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9073,
+   "lon": 7.3136,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/san-pietro-val-lemina/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "san-pio-delle-camere",
    "nome": "San Pio delle Camere",
    "provincia": "AQ",
@@ -9405,6 +10051,23 @@
      "nome": "Cartone commerciale",
      "file": "comuni/san-ponso/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-secondo-di-pinerolo",
+   "nome": "San Secondo di Pinerolo",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8666,
+   "lon": 7.2986,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/san-secondo-di-pinerolo/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -9552,6 +10215,23 @@
      "nome": "Raccolta ordinaria · attività",
      "file": "comuni/santo-stefano-roero/zona-unica.json",
      "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "scalenghe",
+   "nome": "Scalenghe",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8883,
+   "lon": 7.498,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/scalenghe/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -10395,6 +11075,23 @@
    ]
   },
   {
+   "id": "torre-pellice",
+   "nome": "Torre Pellice",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8207,
+   "lon": 7.224,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/torre-pellice/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "torrevecchia-pia",
    "nome": "Torrevecchia Pia",
    "provincia": "PV",
@@ -10972,6 +11669,23 @@
    ]
   },
   {
+   "id": "usseaux",
+   "nome": "Usseaux",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 45.0485,
+   "lon": 7.0269,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/usseaux/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "val-di-chy",
    "nome": "Val di Chy",
    "provincia": "TO",
@@ -11539,6 +12253,23 @@
    "ecocentri": "ecocentri/conser-vco-und-vignone.json"
   },
   {
+   "id": "vigone",
+   "nome": "Vigone",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8424,
+   "lon": 7.4945,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/vigone/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "villa-di-tirano",
    "nome": "Villa di Tirano",
    "provincia": "SO",
@@ -11619,6 +12350,23 @@
    "ecocentri": "ecocentri/conser-vco-und-villadossola.json"
   },
   {
+   "id": "villafranca-piemonte",
+   "nome": "Villafranca Piemonte",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.7813,
+   "lon": 7.5045,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/villafranca-piemonte/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
    "id": "villanovaforru",
    "nome": "Villanovaforru",
    "provincia": "VS",
@@ -11649,6 +12397,40 @@
      "nome": "Utenze economiche",
      "file": "comuni/villanovafranca/zona-unica.json",
      "valido_al": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "villar-pellice",
+   "nome": "Villar Pellice",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.8086,
+   "lon": 7.1583,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/villar-pellice/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "villar-perosa",
+   "nome": "Villar Perosa",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.9202,
+   "lon": 7.2493,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/villar-perosa/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -11894,6 +12676,23 @@
      "nome": "Zona unica",
      "file": "comuni/volpago-del-montello/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "volvera",
+   "nome": "Volvera",
+   "provincia": "TO",
+   "gestore": "Acea Pinerolese Industriale",
+   "consorzio": "acea-pinerolese-und",
+   "lat": 44.955,
+   "lon": 7.5123,
+   "zone": [
+    {
+     "id": "ecopunti-e-servizi-dedicati",
+     "nome": "Eco-Punti e servizi dedicati",
+     "file": "comuni/volvera/zona-ecopunti-e-servizi-dedicati.json",
+     "valido_al": "2027-12-31"
     }
    ]
   },
@@ -12241,6 +13040,12 @@
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
    "ecocentri": "ecocentri/tekno-cca-und.json",
    "regole": "regole/tekno-cca-und.json"
+  },
+  "acea-pinerolese-und": {
+   "nome": "Acea Pinerolese · UND",
+   "gestore": "Acea Pinerolese Industriale",
+   "ecocentri": "ecocentri/acea-pinerolese-und.json",
+   "regole": "regole/acea-pinerolese-und.json"
   }
  }
 }

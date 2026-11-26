@@ -1,0 +1,558 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Acea Pinerolese Industriale",
+ "numero_verde": "800 774 749",
+ "orari_numero_verde": "Numero ambientale del bacino, sempre attivo secondo il Consorzio",
+ "accesso": "Accesso alle attività del bacino che producono rifiuti urbani ammissibili. Esibire a ogni ingresso la tessera UND originale richiesta ad Acea. Il conferimento si svolge con l’addetto e si registra per tipo e quantità. Verificare codici EER, limiti ed eventuale convenzione prima di portare il materiale.",
+ "avviso": "Le 16 Ecoisole sono sovracomunali. Consultare il gestore per limiti e conferimenti ammessi per la propria attività. Il prospetto speciale del 2026 si applica a Roure e Pragelato.",
+ "fonte": "https://ambiente.aceapinerolese.it/ecoisole/ | https://ambiente.aceapinerolese.it/wp-content/uploads/2025/02/ECOISOLE_ORARI_20.02.25.pdf | https://ambiente.aceapinerolese.it/wp-content/uploads/2026/01/APERTURE-PRAGELATO-ROURE.pdf | https://ambiente.aceapinerolese.it/modalita-di-accesso-alle-ecoisole/ | https://www.consorzioaceapinerolese.it/Dettaglionews?IDNews=354237 | https://www.comune.garzigliana.to.it/cgi-bin/cmsdocumenti/06032019133029_COMUNE_DI_GARZIGLIANA.pdf",
+ "centri": [
+  {
+   "id": "acea-und-airasca",
+   "tipo": "raccolta",
+   "comune": "Airasca",
+   "indirizzo": "Via Piscina",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "5": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "10:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.921164,
+   "lon": 7.471514
+  },
+  {
+   "id": "acea-und-cavour",
+   "tipo": "raccolta",
+   "comune": "Cavour",
+   "indirizzo": "Via Gemerello 33",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "5": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.794144,
+   "lon": 7.36586
+  },
+  {
+   "id": "acea-und-cumiana",
+   "tipo": "raccolta",
+   "comune": "Cumiana",
+   "indirizzo": "Via alla Grotta",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "3": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "10:30"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.984911,
+   "lon": 7.370976
+  },
+  {
+   "id": "acea-und-frossasco",
+   "tipo": "raccolta",
+   "comune": "Frossasco",
+   "indirizzo": "Via Piscina",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "4": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.9199864,
+   "lon": 7.3771644
+  },
+  {
+   "id": "acea-und-luserna-san-giovanni",
+   "tipo": "raccolta",
+   "comune": "Luserna San Giovanni",
+   "indirizzo": "Strada raccordo via I Maggio – Viale Matteotti",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "2": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "3": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "4": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "13:00"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.81054,
+   "lon": 7.256841
+  },
+  {
+   "id": "acea-und-none",
+   "tipo": "raccolta",
+   "comune": "None",
+   "indirizzo": "Via delle Lame",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "4": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "5": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.936159,
+   "lon": 7.55216
+  },
+  {
+   "id": "acea-und-perosa-argentina",
+   "tipo": "raccolta",
+   "comune": "Perosa Argentina",
+   "indirizzo": "Via Renato Calzi",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "3": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.9538803,
+   "lon": 7.1995089
+  },
+  {
+   "id": "acea-und-pinerolo",
+   "tipo": "raccolta",
+   "comune": "Pinerolo",
+   "indirizzo": "Corso della Costituzione 15",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:45",
+      "15:45"
+     ]
+    ],
+    "2": [
+     [
+      "07:45",
+      "13:15"
+     ]
+    ],
+    "3": [
+     [
+      "07:45",
+      "15:45"
+     ]
+    ],
+    "4": [
+     [
+      "07:45",
+      "13:15"
+     ]
+    ],
+    "5": [
+     [
+      "07:45",
+      "13:15"
+     ]
+    ],
+    "6": [
+     [
+      "08:15",
+      "13:45"
+     ],
+     [
+      "14:15",
+      "16:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi. Fasce riportate dal prospetto corrente Acea.",
+   "lat": 44.885036,
+   "lon": 7.358542
+  },
+  {
+   "id": "acea-und-piscina",
+   "tipo": "raccolta",
+   "comune": "Piscina",
+   "indirizzo": "Via Rivarossa",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "3": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.911682,
+   "lon": 7.428088
+  },
+  {
+   "id": "acea-und-pragelato",
+   "tipo": "raccolta",
+   "comune": "Pragelato",
+   "indirizzo": "Borgata La Ruà",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Il prospetto 2026 prevede i sabati non festivi. Consultare il prospetto per i martedì e per il calendario successivo.",
+   "lat": 45.0189829,
+   "lon": 6.9471453
+  },
+  {
+   "id": "acea-und-roure",
+   "tipo": "raccolta",
+   "comune": "Roure",
+   "indirizzo": "Strada Regionale 23",
+   "per": "non_domestiche",
+   "orari": {
+    "6": [
+     [
+      "13:30",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Il prospetto 2026 prevede i sabati non festivi. Consultare il prospetto per i martedì e per il calendario successivo. Chiuso l’8 dicembre 2026. Apertura prevista il 22 dicembre 2026 dalle 10:00 alle 12:00.",
+   "lat": 44.9974582,
+   "lon": 7.1321958
+  },
+  {
+   "id": "acea-und-san-germano-chisone",
+   "tipo": "raccolta",
+   "comune": "San Germano Chisone",
+   "indirizzo": "Strada Regionale 166, km 10",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "4": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.9232032,
+   "lon": 7.2371772
+  },
+  {
+   "id": "acea-und-san-secondo-di-pinerolo",
+   "tipo": "raccolta",
+   "comune": "San Secondo di Pinerolo",
+   "indirizzo": "Via San Rocco",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "4": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "10:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.8610629,
+   "lon": 7.3100019
+  },
+  {
+   "id": "acea-und-vigone",
+   "tipo": "raccolta",
+   "comune": "Vigone",
+   "indirizzo": "Via Mattalia",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "4": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "10:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.8356943,
+   "lon": 7.5084767
+  },
+  {
+   "id": "acea-und-villafranca-piemonte",
+   "tipo": "raccolta",
+   "comune": "Villafranca Piemonte",
+   "indirizzo": "Località San Grato",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "3": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "13:00"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.775375,
+   "lon": 7.4972701
+  },
+  {
+   "id": "acea-und-volvera",
+   "tipo": "raccolta",
+   "comune": "Volvera",
+   "indirizzo": "Strada Antica di Orbassano",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "3": [
+     [
+      "10:30",
+      "12:45"
+     ]
+    ],
+    "5": [
+     [
+      "13:15",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "10:30"
+     ],
+     [
+      "14:30",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Tessera UND obbligatoria. Confermare conferimenti e aperture nei festivi.",
+   "lat": 44.9818461,
+   "lon": 7.5280457
+  }
+ ]
+}

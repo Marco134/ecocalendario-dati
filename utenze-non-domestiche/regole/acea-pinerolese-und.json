@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "nome": "Acea Pinerolese · materiali delle attività",
+ "fonte": "https://ambiente.aceapinerolese.it/raccolta-differenziata/ | https://ambiente.aceapinerolese.it/umido/ | https://ambiente.aceapinerolese.it/carta/ | https://www.comune.pinerolo.to.it/media/1985 | https://www.comune.garzigliana.to.it/cgi-bin/cmsdocumenti/06032019133029_COMUNE_DI_GARZIGLIANA.pdf | https://www.comune.garzigliana.to.it/pagina/148/Servizi-ai-cittadini | https://ambiente.aceapinerolese.it/wp-content/uploads/2017/08/RAEE_INFORMATIVA.pdf",
+ "voci": {
+  "avanzi di cucina e alimenti": {
+   "dove": "organico",
+   "nota": "Eco-Punto dell’organico in sacchetto compostabile. Usare il giro dedicato se attivato per la sede."
+  },
+  "fondi di caffè e bustine del tè": {
+   "dove": "organico",
+   "nota": "Umido negli Eco-Punti o nella dotazione concordata."
+  },
+  "tovaglioli e carta da cucina sporchi di cibo": {
+   "dove": "organico",
+   "nota": "Umido. Il materiale deve essere privo di sostanze estranee."
+  },
+  "stoviglie compostabili certificate": {
+   "dove": "organico",
+   "nota": "Conferire con l’umido secondo le indicazioni del gestore."
+  },
+  "giornali, fogli e quaderni puliti": {
+   "dove": "carta",
+   "nota": "Carta all’Eco-Punto. Per gli uffici con servizio attivo, usare il contenitore assegnato."
+  },
+  "sacchetti di carta e cartoncino pulito": {
+   "dove": "carta",
+   "nota": "Carta all’Eco-Punto secondo la raccolta locale."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Svuotare. Seguire la raccolta carta del gestore."
+  },
+  "imballaggi in cartone e scatoloni puliti": {
+   "dove": "carta",
+   "nota": "Piegare e svuotare. Le attività con cartone dedicato devono usare il punto di esposizione concordato. A Pinerolo rispettare le istruzioni comunali per il cartone a terra."
+  },
+  "carta plastificata, oleata o carbone": {
+   "dove": "indifferenziato",
+   "nota": "Residuo urbano, se priva di sostanze pericolose. Verificare l’Eco-Punto assegnato."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare. Usare il contenitore vetro o il giro dedicato dell’attività, se attivo."
+  },
+  "ceramica, terracotta e vetro pyrex": {
+   "dove": "varia",
+   "nota": "Esclusi dalla campana del vetro. Chiedere il percorso per tipologia e quantità."
+  },
+  "flaconi e bottiglie in plastica vuoti": {
+   "dove": "plastica",
+   "nota": "Imballaggi in plastica e metalli. Svuotare prima di conferire."
+  },
+  "vaschette e pellicole di imballaggio": {
+   "dove": "plastica",
+   "nota": "Imballaggi in plastica e metalli, privi di contenuto. Usare il giro speciale se assegnato."
+  },
+  "lattine, barattoli metallici e vaschette di alluminio": {
+   "dove": "plastica",
+   "nota": "Raccolta con gli imballaggi in plastica, dopo aver svuotato i contenitori."
+  },
+  "piatti e bicchieri monouso in plastica puliti": {
+   "dove": "plastica",
+   "nota": "Raccolta plastica e metalli, come indicato nel vademecum comunale."
+  },
+  "residuo urbano non riciclabile": {
+   "dove": "indifferenziato",
+   "nota": "Usare l’Eco-Punto assegnato e la relativa tessera dove richiesta. Per una dotazione dedicata chiedere ad Acea."
+  },
+  "sfalci e potature": {
+   "dove": "varia",
+   "nota": "La raccolta stradale è attiva in alcuni comuni. Verificare il servizio e l’ammissibilità degli scarti delle attività."
+  },
+  "pallet e imballaggi in legno": {
+   "dove": "centro",
+   "nota": "Verificare ammissibilità, quantità e centro con Acea prima di usare la tessera UND."
+  },
+  "ingombranti urbani": {
+   "dove": "centro",
+   "nota": "Verificare materiale e limiti con Acea. Le condizioni del ritiro domestico sono distinte."
+  },
+  "RAEE, frigoriferi, televisori e apparecchi elettronici": {
+   "dove": "varia",
+   "nota": "Accesso disciplinato per provenienza, titolo e raggruppamento. Gli operatori abilitati verificano forma di conferimento e convenzione."
+  },
+  "pile e accumulatori provenienti da attività": {
+   "dove": "varia",
+   "nota": "Verificare l’ammissibilità con Acea. Per la deroga sulle pile portatili il regolamento richiede soggetto autorizzato e convenzione."
+  },
+  "oli di frittura e oli minerali delle attività": {
+   "dove": "varia",
+   "nota": "Verificare EER e autorizzazione. La lista generale dei centri comprende flussi soggetti a limitazioni per le UND."
+  },
+  "pneumatici e inerti da attività": {
+   "dove": "varia",
+   "nota": "La scheda comunale indica che le Ecoisole non li ritirano. Chiedere il circuito autorizzato."
+  },
+  "tessili e abbigliamento riutilizzabile": {
+   "dove": "varia",
+   "nota": "Separare i capi puliti dai tessili sporchi. Per partite provenienti da attività verificare il conferimento con Acea."
+  },
+  "cartucce e toner esauriti": {
+   "dove": "varia",
+   "nota": "Verificare con Acea la provenienza e l’ammissione. Il regolamento esclude i conferimenti analoghi da attività industriali."
+  },
+  "vernici e inchiostri non pericolosi": {
+   "dove": "varia",
+   "nota": "Il regolamento riporta il codice 20 01 28. Far confermare la classificazione e le condizioni del centro."
+  },
+  "vernici pericolose, solventi, pesticidi e acidi": {
+   "dove": "varia",
+   "nota": "Il regolamento esclude il conferimento delle attività per i rifiuti pericolosi di queste categorie. Chiedere il circuito autorizzato."
+  },
+  "vetro piano e lastre": {
+   "dove": "varia",
+   "nota": "Separare dagli imballaggi in vetro. Per l’Ecoisola di Pinerolo verificare l’ammissibilità in base al regolamento."
+  },
+  "rottami metallici e manufatti in metallo": {
+   "dove": "varia",
+   "nota": "Separare dagli imballaggi leggeri. Verificare ammissione. Il regolamento esclude macchinari industriali e parti di autoveicoli."
+  },
+  "tubi fluorescenti, neon e lampade a scarica": {
+   "dove": "varia",
+   "nota": "RAEE R5. Per l’utenza non domestica il regolamento prevede il conferimento da soggetti autorizzati previa convenzione."
+  },
+  "farmaci scaduti di attività sanitarie, negozi o grossisti": {
+   "dove": "varia",
+   "nota": "Il flusso dei farmaci scaduti previsto dalle Ecoisole riguarda la provenienza domestica. Chiedere il circuito previsto per l’attività."
+  }
+ }
+}

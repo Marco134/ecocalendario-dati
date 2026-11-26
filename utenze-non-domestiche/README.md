@@ -85,3 +85,7 @@ Quarantanove comuni e 54 zone con turni ordinari delle attività fino al 31 genn
 ## Teknoservice · Consorzio Canavesano Ambiente
 
 Quarantasette comuni con il giro aggiuntivo per il cartone commerciale a fine 2026. Per altre frazioni o contratti dedicati valgono le indicazioni del gestore per sede. Il centro consortile a Castellamonte ammette le attività con i documenti indicati nella scheda CCA. [Condizioni]( https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca)
+
+## Acea Pinerolese · 47 comuni
+
+Il catalogo riporta le raccolte per Eco-Punti e i servizi per le attività. Il Comune di Pinerolo documenta i giri attivabili per cinque frazioni e Bricherasio conferma i servizi su richiesta in base ai volumi. La Carta consortile indica assetti storici da riconfermare per sede. Per i giri dedicati restano da verificare date, orari, recuperi festivi e accesso per il singolo civico. Sono disponibili le 16 Ecoisole con tessera UND, le regole per i materiali e il prospetto 2026 di Roure e Pragelato. [Mappa Eco-Punti](https://ambiente.aceapinerolese.it/mappa/mappa-poi.php) · [Accesso alle Ecoisole](https://ambiente.aceapinerolese.it/modalita-di-accesso-alle-ecoisole/) · [Archivio regionale](https://github.com/Marco134/ecocalendario/tree/main/archivio-ecocalendari/piemonte/utenze-non-domestiche/acea-pinerolese)

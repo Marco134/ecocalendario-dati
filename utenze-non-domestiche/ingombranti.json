@@ -1561,6 +1561,72 @@
    "regole_en": [
     "Ask Teknoservice about business eligibility and permitted items at the Castellamonte centre. Use the official mobile collection timetable for small bulky items."
    ]
+  },
+  {
+   "id": "acea-pinerolese-und",
+   "nome": "Acea Pinerolese · UND",
+   "gestori": [],
+   "comuni": [
+    "airasca",
+    "angrogna",
+    "bibiana",
+    "bobbio-pellice",
+    "bricherasio",
+    "buriasco",
+    "campiglione-fenile",
+    "cantalupa",
+    "cavour",
+    "cercenasco",
+    "cumiana",
+    "fenestrelle",
+    "frossasco",
+    "garzigliana",
+    "inverso-pinasca",
+    "luserna-san-giovanni",
+    "lusernetta",
+    "macello",
+    "massello",
+    "none",
+    "osasco",
+    "perosa-argentina",
+    "perrero",
+    "pinasca",
+    "pinerolo",
+    "piscina",
+    "pomaretto",
+    "porte",
+    "pragelato",
+    "prali",
+    "pramollo",
+    "prarostino",
+    "roletto",
+    "rora",
+    "roure",
+    "salza-di-pinerolo",
+    "san-germano-chisone",
+    "san-pietro-val-lemina",
+    "san-secondo-di-pinerolo",
+    "scalenghe",
+    "torre-pellice",
+    "usseaux",
+    "vigone",
+    "villafranca-piemonte",
+    "villar-pellice",
+    "villar-perosa",
+    "volvera"
+   ],
+   "telefono": "800 774 749",
+   "orari": "Numero ambientale del bacino, sempre attivo secondo il Consorzio",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "fonte": "https://www.consorzioaceapinerolese.it/Dettaglionews?IDNews=333327 | https://ambiente.aceapinerolese.it/ingombranti/ | https://www.comune.cantalupa.to.it/cgi-bin/allegati/carta%20dei%20serivizi.pdf | https://ambiente.aceapinerolese.it/regolamento/",
+   "regole": [
+    "Il Consorzio e la Carta riservano il ritiro gratuito a domicilio alle utenze domestiche. La pagina del gestore ha una formulazione generica. Per le UND, verificare l’ammissibilità dell’oggetto all’Ecoisola con tessera e chiedere al gestore eventuali servizi aziendali separati."
+   ],
+   "regole_en": [
+    "Free home pickup is guaranteed to households. Businesses should check the item’s eligibility at a recycling centre with their business card or ask Acea about a separate service."
+   ]
   }
  ]
 }
