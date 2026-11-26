@@ -19,6 +19,23 @@
  },
  "comuni": [
   {
+   "id": "acquanegra-sul-chiese",
+   "nome": "Acquanegra sul Chiese",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.162475,
+   "lon": 10.43468,
+   "consorzio": "mantova-ambiente-und-acquanegra-sul-chiese",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/acquanegra-sul-chiese/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "acquasparta",
    "nome": "Acquasparta",
    "provincia": "TR",
@@ -1579,6 +1596,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/bossico/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "bozzolo",
+   "nome": "Bozzolo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.102474,
+   "lon": 10.483982,
+   "consorzio": "mantova-ambiente-und-bozzolo",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/bozzolo/zona-info-und.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3210,6 +3244,23 @@
      "nome": "Eco-Punti e servizi dedicati",
      "file": "comuni/cercenasco/zona-ecopunti-e-servizi-dedicati.json",
      "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "ceresara",
+   "nome": "Ceresara",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.26513,
+   "lon": 10.567035,
+   "consorzio": "mantova-ambiente-und-ceresara",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/ceresara/zona-info-und.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -9524,6 +9575,23 @@
    ]
   },
   {
+   "id": "rivarolo-mantovano",
+   "nome": "Rivarolo Mantovano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.070309,
+   "lon": 10.432104,
+   "consorzio": "mantova-ambiente-und-rivarolo-mantovano",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/rivarolo-mantovano/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "rivarossa",
    "nome": "Rivarossa",
    "provincia": "TO",
@@ -10321,6 +10389,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-martino-c-se/"
+  },
+  {
+   "id": "san-martino-dallargine",
+   "nome": "San Martino dall'Argine",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.099056,
+   "lon": 10.518348,
+   "consorzio": "mantova-ambiente-und-san-martino-dallargine",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/san-martino-dallargine/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "san-pellegrino-terme",
@@ -13505,6 +13590,33 @@
    "gestore": "Mantova Ambiente",
    "ecocentri": "ecocentri/mantova-ambiente-und-san-giorgio-bigarello.json",
    "regole": "regole/mantova-ambiente-und-san-giorgio-bigarello.json"
+  },
+  "mantova-ambiente-und-acquanegra-sul-chiese": {
+   "nome": "Acquanegra sul Chiese · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-acquanegra-sul-chiese.json"
+  },
+  "mantova-ambiente-und-bozzolo": {
+   "nome": "Bozzolo · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-bozzolo.json"
+  },
+  "mantova-ambiente-und-ceresara": {
+   "nome": "Ceresara · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-ceresara.json",
+   "regole": "regole/mantova-ambiente-und-ceresara.json"
+  },
+  "mantova-ambiente-und-rivarolo-mantovano": {
+   "nome": "Rivarolo Mantovano · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-rivarolo-mantovano.json",
+   "regole": "regole/mantova-ambiente-und-rivarolo-mantovano.json"
+  },
+  "mantova-ambiente-und-san-martino-dallargine": {
+   "nome": "San Martino dall'Argine · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-san-martino-dallargine.json"
   }
  }
 }

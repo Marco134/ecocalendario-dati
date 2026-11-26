@@ -518,6 +518,36 @@
    "telefono": "800 473 165",
    "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/rifiuti/regolamento-dei-centri-di-raccolta_2023-mod.pdf | https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/2026_ecocalendario.pdf | https://mantovaambiente.it/comuni/san-giorgio-e-bigarello",
    "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-acquanegra-sul-chiese",
+   "telefono": "800 473 165",
+   "fonte": "https://www.halleyweb.com/c020001/po/attachment_news.php?id=763 | https://mycity.s3.sbg.io.cloud.ovh.net/4873822/Raccolta-differenziata-2026.pdf | https://mantovaambiente.it/comuni/acquanegra-sul-chiese",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-bozzolo",
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.sanmartinodallargine.mn.it/s3/6299/allegati/regolamento-del-centro-di-raccolta-rifiuti-di-bozzolo.pdf | https://www.comune.bozzolo.mn.it/s3/873/allegati/bozzolo_ma-calendario2026_mono_02-web.pdf | https://mantovaambiente.it/comuni/bozzolo",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-ceresara",
+   "telefono": "800 473 165",
+   "fonte": "https://comune.ceresara.mn.it/wp-content/uploads/2024/01/Regolamento-del-Centro-di-Raccolta_CERESARA.pdf | https://comune.ceresara.mn.it/wp-content/uploads/2025/12/Ceresara_MA-calendario2026_mono_02-WEB.pdf | https://mantovaambiente.it/comuni/ceresara",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-rivarolo-mantovano",
+   "telefono": "800 473 165",
+   "fonte": "https://rivarolo-mantovano-api.municipiumapp.it/s3/5774/allegati/regolamento-del-centro-di-raccolta.pdf | https://static.mantovaambiente.it/ad/a3/rivarolo_ma-calendario2026_multi_21x21_00-web.pdf | https://mantovaambiente.it/comuni/rivarolo-mantovano",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-san-martino-dallargine",
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.sanmartinodallargine.mn.it/index.php/it/documenti_pubblici/regolamento-del-centro-raccolta-rifiuti-di-bozzolo | https://www.comune.sanmartinodallargine.mn.it/s3/6299/allegati/ecocalendario-2026.pdf | https://mantovaambiente.it/comuni/san-martino-dall-argine",
+   "verificato": "2026-11-26"
   }
  ]
 }

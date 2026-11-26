@@ -9916,14 +9916,20 @@
    "nome": "Acquanegra sul Chiese",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.halleyweb.com/c020001/po/attachment_news.php?id=763 | https://mycity.s3.sbg.io.cloud.ovh.net/4873822/Raccolta-differenziata-2026.pdf | https://mantovaambiente.it/comuni/acquanegra-sul-chiese",
+   "verificato": "2026-11-26",
+   "nota": "Il regolamento ammette le attività a ruolo per i rifiuti urbani della sede al centro di Strada Valli. Il calendario 2026 indica martedì e giovedì 14:00–18:00 e sabato 09:00–13:00 e 14:00–17:30. Chiuso nei festivi e ultimo ingresso 15 minuti prima. Verificare documenti e ammissibilità. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "bozzolo",
    "nome": "Bozzolo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.sanmartinodallargine.mn.it/s3/6299/allegati/regolamento-del-centro-di-raccolta-rifiuti-di-bozzolo.pdf | https://www.comune.bozzolo.mn.it/s3/873/allegati/bozzolo_ma-calendario2026_mono_02-web.pdf | https://mantovaambiente.it/comuni/bozzolo",
+   "verificato": "2026-11-26",
+   "nota": "Il centro di Via Tezzoglio ammette le UND a ruolo con iscrizione all’Albo, fattura o contratto e modulo Ia. Il calendario 2026 indica in inverno lunedì, mercoledì e giovedì 14:30–16:30 e sabato 08:00–12:00. Ultimo ingresso 15 minuti prima. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "castel-dario",
@@ -9940,7 +9946,10 @@
    "nome": "Ceresara",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://comune.ceresara.mn.it/wp-content/uploads/2024/01/Regolamento-del-Centro-di-Raccolta_CERESARA.pdf | https://comune.ceresara.mn.it/wp-content/uploads/2025/12/Ceresara_MA-calendario2026_mono_02-WEB.pdf | https://mantovaambiente.it/comuni/ceresara",
+   "verificato": "2026-11-26",
+   "nota": "Il regolamento ammette le UND a ruolo con iscrizione all’Albo, fattura o contratto e scheda Ia. Usare la tessera se attivo il controllo informatizzato. Gli orari 2026 per Via Guado differiscono dall’avviso del 2024. Verificare gli orari e la sede prima di recarsi al centro. L’Allegato 2 ammette gli ingombranti urbani fino a 2 m³. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "gazzuolo",
@@ -10032,7 +10041,10 @@
    "nome": "Rivarolo Mantovano",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://rivarolo-mantovano-api.municipiumapp.it/s3/5774/allegati/regolamento-del-centro-di-raccolta.pdf | https://static.mantovaambiente.it/ad/a3/rivarolo_ma-calendario2026_multi_21x21_00-web.pdf | https://mantovaambiente.it/comuni/rivarolo-mantovano",
+   "verificato": "2026-11-26",
+   "nota": "Via Delmona. Le attività a ruolo presentano iscrizione all’Albo, fattura o contratto e modulo Ia. La tessera serve dove previsto. In inverno martedì e sabato 08:30–12:00 e giovedì 14:00–17:00. In estate il giovedì è 16:00–19:00. L’Allegato 2 ammette ingombranti urbani fino a 2 m³. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "rodigo",
@@ -10073,7 +10085,10 @@
    "nome": "San Martino dall'Argine",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.sanmartinodallargine.mn.it/index.php/it/documenti_pubblici/regolamento-del-centro-raccolta-rifiuti-di-bozzolo | https://www.comune.sanmartinodallargine.mn.it/s3/6299/allegati/ecocalendario-2026.pdf | https://mantovaambiente.it/comuni/san-martino-dall-argine",
+   "verificato": "2026-11-26",
+   "nota": "Il Comune rimanda al centro condiviso di Via Tezzoglio a Bozzolo. Il regolamento prevede l’accesso delle UND a ruolo nei comuni convenzionati con Albo, fattura o contratto e modulo Ia. Verificare che la convenzione includa la sede dell’attività. Il calendario riporta le fasce di apertura. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "schivenoglia",

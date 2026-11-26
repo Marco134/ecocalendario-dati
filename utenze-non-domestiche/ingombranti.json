@@ -1969,6 +1969,101 @@
    "regole_en": [
     "Check business eligibility and accepted bulky items."
    ]
+  },
+  {
+   "id": "mantova-ambiente-und-acquanegra-sul-chiese",
+   "nome": "Acquanegra sul Chiese · UND",
+   "gestori": [],
+   "comuni": [
+    "acquanegra-sul-chiese"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://www.halleyweb.com/c020001/po/attachment_news.php?id=763 | https://mycity.s3.sbg.io.cloud.ovh.net/4873822/Raccolta-differenziata-2026.pdf | https://mantovaambiente.it/comuni/acquanegra-sul-chiese",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Chiedere se l’ingombrante è accettato dalla piattaforma per la propria attività e quali documenti portare. Verificare con il gestore eventuale ritiro dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-bozzolo",
+   "nome": "Bozzolo · UND",
+   "gestori": [],
+   "comuni": [
+    "bozzolo"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.sanmartinodallargine.mn.it/s3/6299/allegati/regolamento-del-centro-di-raccolta-rifiuti-di-bozzolo.pdf | https://www.comune.bozzolo.mn.it/s3/873/allegati/bozzolo_ma-calendario2026_mono_02-web.pdf | https://mantovaambiente.it/comuni/bozzolo",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Chiedere se l’ingombrante è accettato dalla piattaforma per la propria attività e quali documenti portare. Verificare con il gestore eventuale ritiro dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-ceresara",
+   "nome": "Ceresara · UND",
+   "gestori": [],
+   "comuni": [
+    "ceresara"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://comune.ceresara.mn.it/wp-content/uploads/2024/01/Regolamento-del-Centro-di-Raccolta_CERESARA.pdf | https://comune.ceresara.mn.it/wp-content/uploads/2025/12/Ceresara_MA-calendario2026_mono_02-WEB.pdf | https://mantovaambiente.it/comuni/ceresara",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Abbinate ai documenti richiesti per l’utenza, le condizioni dell’Allegato 2 ammettono fino a 2 m³ di ingombranti urbani per conferimento. Per il ritiro a domicilio verificare l’idoneità con il gestore."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-rivarolo-mantovano",
+   "nome": "Rivarolo Mantovano · UND",
+   "gestori": [],
+   "comuni": [
+    "rivarolo-mantovano"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://rivarolo-mantovano-api.municipiumapp.it/s3/5774/allegati/regolamento-del-centro-di-raccolta.pdf | https://static.mantovaambiente.it/ad/a3/rivarolo_ma-calendario2026_multi_21x21_00-web.pdf | https://mantovaambiente.it/comuni/rivarolo-mantovano",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Abbinate ai documenti richiesti per l’utenza, le condizioni dell’Allegato 2 ammettono fino a 2 m³ di ingombranti urbani per conferimento. Per il ritiro a domicilio verificare l’idoneità con il gestore."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-san-martino-dallargine",
+   "nome": "San Martino dall'Argine · UND",
+   "gestori": [],
+   "comuni": [
+    "san-martino-dallargine"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.sanmartinodallargine.mn.it/index.php/it/documenti_pubblici/regolamento-del-centro-raccolta-rifiuti-di-bozzolo | https://www.comune.sanmartinodallargine.mn.it/s3/6299/allegati/ecocalendario-2026.pdf | https://mantovaambiente.it/comuni/san-martino-dall-argine",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Chiedere se l’ingombrante è accettato dalla piattaforma per la propria attività e quali documenti portare. Verificare con il gestore eventuale ritiro dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
   }
  ]
 }
