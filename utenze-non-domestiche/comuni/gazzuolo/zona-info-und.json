@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Gazzuolo",
+ "provincia": "MN",
+ "gestore": "Mantova Ambiente",
+ "zona": "Servizi per le attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://gazzuolo-api.municipiumapp.it/s3/3076/allegati/dlc_delibera_04-05-2024_10-04-36.pdf | https://www.comune.gazzuolo.mn.it/s3/3076/allegati/gazzuolo_ma-calendario2026_mono_01-web.pdf | https://mantovaambiente.it/comuni/gazzuolo",
+ "raccolte": {},
+ "note": [
+  "Il documento comunale del 2024 riporta standard UND ogni quattro settimane per il residuo, quindicinali per carta/cartone, plastica e vetro con lattine, bisettimanali per organico. Sono previsti servizi integrativi secondo necessità. Occorre la conferma del calendario e del circuito attivi per la sede. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
+ ],
+ "info": "Il documento comunale del 2024 riporta standard UND ogni quattro settimane per il residuo, quindicinali per carta/cartone, plastica e vetro con lattine, bisettimanali per organico. Sono previsti servizi integrativi secondo necessità. Occorre la conferma del calendario e del circuito attivi per la sede. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165.",
+ "info_en": "Check the official recycling centre access rules and ask Mantova Ambiente for the collection schedule assigned to your business address."
+}

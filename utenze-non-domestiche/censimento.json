@@ -9801,7 +9801,10 @@
    "nome": "Asola",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.asola.mn.it/wp-content/uploads/2024/03/REGOLAMENTO-DEL-CENTRO-DI-RACCOLTA-RIFIUTI-1.pdf | https://static.mantovaambiente.it/c3/a5/asola_ma-calendario2026_mono_01-web.pdf | https://mantovaambiente.it/comuni/asola",
+   "verificato": "2026-11-26",
+   "nota": "Per il centro di Strada Compartitori il regolamento ammette le UND a ruolo per i rifiuti urbani della sede. Occorrono iscrizione all’Albo Gestori Ambientali, fattura rifiuti o contratto prima della prima fattura e scheda Ia compilata. Se attiva, serve anche la tessera. Gli ingombranti richiedono conferma dell’oggetto e del servizio. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "bagnolo-san-vito",
@@ -9832,7 +9835,10 @@
    "nome": "Casalromano",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www1.finanze.gov.it/finanze2/dipartimentopolitichefiscali/fiscalitalocale/nuova_at/download_lib.php?key=0900f2308050f700&nome=192689_DIMUNIC-09mn17b911d.pdf | https://comune.casalromano.mn.it/it-it/download/calendario-2026-458677-4-1693-bc93a4ec301aaffaca4f003826f892d8 | https://mantovaambiente.it/comuni/casalromano",
+   "verificato": "2026-11-26",
+   "nota": "Il PEF 2017 documenta le dotazioni UND per carta/cartone, plastica, organico e vetro con alluminio. Le frequenze storiche sono quindicinale per carta e vetro, settimanale per plastica e stagionale per l’organico. Il PDF 2026 rinvia al Comune anche per rifiuti da attività specifiche. Confermare con il gestore la vigenza dei circuiti per l’attività. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "castelbelforte",
@@ -9929,7 +9935,10 @@
    "nome": "Gazzuolo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://gazzuolo-api.municipiumapp.it/s3/3076/allegati/dlc_delibera_04-05-2024_10-04-36.pdf | https://www.comune.gazzuolo.mn.it/s3/3076/allegati/gazzuolo_ma-calendario2026_mono_01-web.pdf | https://mantovaambiente.it/comuni/gazzuolo",
+   "verificato": "2026-11-26",
+   "nota": "Il documento comunale del 2024 riporta standard UND ogni quattro settimane per il residuo, quindicinali per carta/cartone, plastica e vetro con lattine, bisettimanali per organico. Sono previsti servizi integrativi secondo necessità. Occorre la conferma del calendario e del circuito attivi per la sede. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "gonzaga",
@@ -10029,7 +10038,10 @@
    "nome": "Sabbioneta",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://sabbioneta.e-pal.it/L190/atto/download/94067?activePage=22&idSezione=70&search=&sort= | https://www.comune.sabbioneta.mn.it/s3/20149/allegati/sabbioneta_ma-calendario2026_mono_03-web.pdf | https://mantovaambiente.it/comuni/sabbioneta",
+   "verificato": "2026-11-26",
+   "nota": "Il regolamento indica il porta a porta per le UND con standard quindicinale per residuo, carta, plastica, vetro/lattine e bisettimanale per l’organico. Dotazioni e passaggi possono variare con categoria, produzione e metratura. Per le frazioni ammesse al centro vale il regolamento locale. Per giorni e recuperi delle raccolte presso la sede chiedere a Mantova Ambiente, 800 473 165."
   },
   {
    "id": "san-giovanni-del-dosso",

@@ -515,6 +515,23 @@
    "ecocentri": "ecocentri/conser-vco-und-arola.json"
   },
   {
+   "id": "asola",
+   "nome": "Asola",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.22112,
+   "lon": 10.413065,
+   "consorzio": "mantova-ambiente-und-asola",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/asola/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "asolo",
    "nome": "Asolo",
    "provincia": "TV",
@@ -2561,6 +2578,23 @@
      "nome": "Zona unica",
      "file": "comuni/casalmaiocco/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "casalromano",
+   "nome": "Casalromano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.200675,
+   "lon": 10.369378,
+   "consorzio": "mantova-ambiente-und-casalromano",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/casalromano/zona-info-und.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -4871,6 +4905,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/gaverina-terme/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "gazzuolo",
+   "nome": "Gazzuolo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.069175,
+   "lon": 10.583113,
+   "consorzio": "mantova-ambiente-und-gazzuolo",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/gazzuolo/zona-info-und.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -9777,6 +9828,23 @@
    ]
   },
   {
+   "id": "sabbioneta",
+   "nome": "Sabbioneta",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 44.998436,
+   "lon": 10.488587,
+   "consorzio": "mantova-ambiente-und-sabbioneta",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/sabbioneta/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "salassa",
    "nome": "Salassa",
    "provincia": "TO",
@@ -13281,6 +13349,27 @@
    "nome": "Volta Mantovana · UND",
    "gestore": "Mantova Ambiente",
    "ecocentri": "ecocentri/mantova-ambiente-und-volta-mantovana.json"
+  },
+  "mantova-ambiente-und-asola": {
+   "nome": "Asola · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-asola.json",
+   "regole": "regole/mantova-ambiente-und-asola.json"
+  },
+  "mantova-ambiente-und-casalromano": {
+   "nome": "Casalromano · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-casalromano.json"
+  },
+  "mantova-ambiente-und-gazzuolo": {
+   "nome": "Gazzuolo · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-gazzuolo.json"
+  },
+  "mantova-ambiente-und-sabbioneta": {
+   "nome": "Sabbioneta · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-sabbioneta.json"
   }
  }
 }
