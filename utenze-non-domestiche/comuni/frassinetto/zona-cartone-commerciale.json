@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "comune": "Frassinetto",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/04/frassinetto-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/frassinetto/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/",
+ "raccolte": {
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Giro del cartone commerciale martedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12. Verificare eventuali avvisi successivi."
+ ],
+ "esposizione": "Esporre secondo la dotazione assegnata dalle 19:00 della sera prima alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}

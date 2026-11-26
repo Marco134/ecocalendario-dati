@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "comune": "Castellamonte",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/CASTELLAMONTE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/castellamonte/ | https://www.comune.castellamonte.to.it/it-it/download/calendario-raccolta-rifiuti-2026-459277-4-961-8328f5e0b3b9db822dd1673da888e3e7 | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-25": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Giro del cartone commerciale mercoledì, venerdì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il PDF comunale del 14 gennaio indica lunedì. Il PDF Teknoservice del 12 febbraio, attualmente collegato dal gestore, indica mercoledì e venerdì. Il riquadro festività indica servizio invariato il 25/12. Verificare eventuali avvisi successivi."
+ ],
+ "esposizione": "Esporre secondo la dotazione assegnata dalle 19:00 della sera prima alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}

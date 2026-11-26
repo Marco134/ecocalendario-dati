@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "comune": "Oglianico",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/oglianico-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/oglianico/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/",
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice."
+ ],
+ "esposizione": "Esporre secondo la dotazione assegnata dalle 19:00 della sera prima alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}

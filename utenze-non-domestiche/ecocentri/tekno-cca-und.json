@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "numero_verde": "800 079 960",
+ "orari_numero_verde": "Lun–ven 08:00–17:00 e sab 08:00–12:00 secondo il libretto di ottobre 2026",
+ "accesso": "Per il centro consortile di Castellamonte la scheda CCA ammette le attività con documento di identità, partita IVA e ragione sociale. Confermare con Teknoservice i materiali, le quantità e la documentazione da portare per il singolo conferimento.",
+ "avviso": "Il prospetto Ecomobile è aperto agli utenti TARI dei comuni CCA con codice fiscale dell’intestatario, con condizioni per frazione da confermare per le attività. Consultare le tappe di Rueglio, Cuorgnè e Ronco Canavese.",
+ "fonte": "https://www.teknoserviceitalia.com/piemonte/torino/castellamonte/ | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://www.comune.castellamonte.to.it/it-it/trasparenza-gestione-rifiuti/a-gestori-del-servizio | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+ "centri": [
+  {
+   "id": "tekno-cca-und-castellamonte",
+   "tipo": "raccolta",
+   "comune": "Castellamonte",
+   "per": "non_domestiche",
+   "indirizzo": "Strada del Ghiaro Inferiore 16",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "11:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "11:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "11:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "11:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "11:00"
+     ],
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "lat": 45.3738998,
+   "lon": 7.7099335,
+   "avviso": "Per il centro consortile di Castellamonte la scheda CCA ammette le attività con documento di identità, partita IVA e ragione sociale. Confermare con Teknoservice i materiali, le quantità e la documentazione da portare per il singolo conferimento."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "comune": "Pratiglione",
+ "provincia": "TO",
+ "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/PRATIGLIONE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/pratiglione/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/",
+ "raccolte": {
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice."
+ ],
+ "esposizione": "Esporre secondo la dotazione assegnata dalle 19:00 della sera prima alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}

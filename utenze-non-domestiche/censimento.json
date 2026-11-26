@@ -179,7 +179,10 @@
    "nome": "Alpette",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/04/alpette-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/alpette/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale martedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "alpignano",
@@ -953,7 +956,10 @@
    "nome": "Borgiallo",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/BORGIALLO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/borgiallo/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "borgo-san-dalmazzo",
@@ -1058,7 +1064,10 @@
    "nome": "Bosconero",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/01/bosconero-2026-1.pdf | https://www.teknoserviceitalia.com/piemonte/torino/bosconero/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Strada Ronchi del Bosco. Il libretto indica sab 09:00–11:15. Il portale CCA riporta sab 08:00–12:00 e tipo domestico con una nota documenti UND. Confermare fascia e accesso."
   },
   {
    "id": "bosisio-parini",
@@ -1178,7 +1187,10 @@
    "nome": "Brosso",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/04/BROSSO.pdf | https://www.teknoserviceitalia.com/piemonte/torino/brosso/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "brovello-carpugnino",
@@ -1280,7 +1292,10 @@
    "nome": "Busano",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/BUSANO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/busano/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "busca",
@@ -1503,7 +1518,10 @@
    "nome": "Canischio",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/03/CANISCHIO.pdf | https://www.teknoserviceitalia.com/piemonte/torino/canischio/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "cannero-riviera",
@@ -1960,7 +1978,10 @@
    "nome": "Castellamonte",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/CASTELLAMONTE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/castellamonte/ | https://www.comune.castellamonte.to.it/it-it/download/calendario-raccolta-rifiuti-2026-459277-4-961-8328f5e0b3b9db822dd1673da888e3e7 | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì, venerdì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il PDF comunale del 14 gennaio indica lunedì. Il PDF Teknoservice del 12 febbraio, attualmente collegato dal gestore, indica mercoledì e venerdì. Il riquadro festività indica servizio invariato il 25/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "castelletto-stura",
@@ -2021,7 +2042,10 @@
    "nome": "Castelnuovo Nigra",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/CASTELNUOVO-NIGRA-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/castelnuovo-nigra/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "castelveccana",
@@ -2249,7 +2273,10 @@
    "nome": "Ceresole Reale",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/05/ceresole-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/ceresole-reale/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "cernusco-lombardone",
@@ -2425,7 +2452,10 @@
    "nome": "Chiesanuova",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/CHIESANUOVA-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/chiesanuova/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "chiomonte",
@@ -2480,14 +2510,20 @@
    "nome": "Ciconio",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/ciconio-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/ciconio/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "cintano",
    "nome": "Cintano",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/CINTANO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/cintano/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "cinzano",
@@ -2604,7 +2640,10 @@
    "nome": "Colleretto Castelnuovo",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/COLLERETTO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/colleretto-castelnuovo/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "colleretto-giacosa",
@@ -2910,7 +2949,10 @@
    "nome": "Cuorgnè",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/CUORGNE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/cuorgne/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "cureggio",
@@ -3205,14 +3247,20 @@
    "nome": "Favria",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/FAVRIA-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/favria/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "feletto",
    "nome": "Feletto",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/FELETTO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/feletto/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Via della Gola. Il libretto indica sab 08:00–12:00. Il portale CCA indica il primo sabato e una classificazione domestica con nota documenti UND. Confermare giorno e accesso attività."
   },
   {
    "id": "fenestrelle",
@@ -3306,14 +3354,20 @@
    "nome": "Forno Canavese",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/FORNO-CANAVESE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/forno-canavese/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Frazione Crosi, sab 09:30–12:30. Il libretto indica legno, sfalci e ingombranti. Accesso UND da confermare."
   },
   {
    "id": "frassinetto",
    "nome": "Frassinetto",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/04/frassinetto-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/frassinetto/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale martedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "front",
@@ -3727,7 +3781,10 @@
    "nome": "Ingria",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/04/ingria-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/ingria/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale venerdì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 25/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "intragna",
@@ -3792,7 +3849,10 @@
    "nome": "Issiglio",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/issiglio-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/issiglio/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "istrana",
@@ -3969,7 +4029,10 @@
    "nome": "Levone",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/LEVONE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/levone/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "lierna",
@@ -4003,7 +4066,10 @@
    "nome": "Locana",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/locana-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/locana/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale martedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "lomagna",
@@ -4131,7 +4197,10 @@
    "nome": "Lusigliè",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/LUSIGLIE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/lusiglie/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "maccagno-con-pino-e-veddasca",
@@ -5110,7 +5179,10 @@
    "nome": "Noasca",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/05/noasca-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/noasca/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "nole",
@@ -5228,7 +5300,10 @@
    "nome": "Oglianico",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/oglianico-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/oglianico/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "oleggio-castello",
@@ -5394,7 +5469,10 @@
    "nome": "Ozegna",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/OZEGNA-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/ozegna/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "padenghe-sul-garda",
@@ -5638,7 +5716,10 @@
    "nome": "Pertusio",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/PERTUSIO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/pertusio/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale sabato. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 26/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "pescate",
@@ -5894,7 +5975,10 @@
    "nome": "Pont Canavese",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/PONT-CSE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/pont-canavese/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale martedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "ponte-in-valtellina",
@@ -6042,7 +6126,10 @@
    "nome": "Prascorsano",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/01/prascorsano-2026-1.pdf | https://www.teknoserviceitalia.com/piemonte/torino/prascorsano/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "prata-camportaccio",
@@ -6059,7 +6146,10 @@
    "nome": "Pratiglione",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/PRATIGLIONE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/pratiglione/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "prato-sesia",
@@ -6291,7 +6381,10 @@
    "nome": "Ribordone",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/04/ribordone-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/ribordone/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale mercoledì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "riese-pio-x",
@@ -6336,21 +6429,30 @@
    "nome": "Rivara",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/01/rivara-2026-1.pdf | https://www.teknoserviceitalia.com/piemonte/torino/rivara/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "rivarolo-canavese",
    "nome": "Rivarolo Canavese",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/RIVAROLO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/rivarolo-canavese/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale martedì, venerdì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12, 25/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "rivarossa",
    "nome": "Rivarossa",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/rivarossa-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/rivarossa/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "rivoli",
@@ -6519,7 +6621,10 @@
    "nome": "Ronco Canavese",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/04/ronco-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/ronco-canavese/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale venerdì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 25/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "rondissone",
@@ -6561,14 +6666,20 @@
    "nome": "Rueglio",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/RUEGLIO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/rueglio/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "salassa",
    "nome": "Salassa",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/salassa-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/salassa/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "salbertrand",
@@ -6683,7 +6794,10 @@
    "nome": "San Colombano Belmonte",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/SAN-COLOMBANO-BELMONTE-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/san-colombano-belmonte/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "san-didero",
@@ -6822,7 +6936,10 @@
    "nome": "San Ponso",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/san-ponso-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/san-ponso/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "san-raffaele-cimena",
@@ -7226,7 +7343,10 @@
    "nome": "Sparone",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/sparone-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/sparone/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale martedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 08/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "spresiano",
@@ -7547,7 +7667,10 @@
    "nome": "Traversella",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/04/CALENDARI-CCA-2026-4.pdf | https://www.teknoserviceitalia.com/piemonte/torino/traversella/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "traves",
@@ -7743,14 +7866,20 @@
    "nome": "Val di Chy",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/02/val-di-chy-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/val-di-chy/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "valchiusa",
    "nome": "Valchiusa",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/03/CALENDARI-CCA-2026-2.pdf | https://www.teknoserviceitalia.com/piemonte/torino/valchiusa/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Sede Trausella, via Rueglio, sab 09:00–12:00 ogni 15 giorni da ottobre a maggio e ogni sabato da giugno a settembre. Date esatte e accesso UND da confermare."
   },
   {
    "id": "valdisotto",
@@ -7849,14 +7978,20 @@
    "nome": "Valperga",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/VALPERGA-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/valperga/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale giovedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "valprato-soana",
    "nome": "Valprato Soana",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/04/valprato-soana-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/valprato-soana/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale venerdì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Il riquadro festività indica servizio invariato il 25/12. Verificare eventuali avvisi successivi. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "valstrona",
@@ -8119,7 +8254,10 @@
    "nome": "Vidracco",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/VIDRACCO-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/vidracco/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "vigano",
@@ -8346,7 +8484,10 @@
    "nome": "Vistrorio",
    "provincia": "TO",
    "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2026/02/vistrorio-2026.pdf | https://www.teknoserviceitalia.com/piemonte/torino/vistrorio/ | https://www.teknoserviceitalia.com/avvisi-e-aggiornamenti/ | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Giro del cartone commerciale lunedì. I PDF pubblicano un passaggio aggiuntivo di cartone commerciale. Per le altre frazioni e per attività con attrezzatura o raccolta concordata verificare il programma della sede con Teknoservice. Per appuntamenti mobili consultare le tappe CCA."
   },
   {
    "id": "vizzolo-predabissi",

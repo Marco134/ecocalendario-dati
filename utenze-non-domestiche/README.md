@@ -81,3 +81,7 @@ Verificati 51 comuni. Dieci hanno turni datati per frazioni o profili confermati
 ## Contarina · Treviso
 
 Quarantanove comuni e 54 zone con turni ordinari delle attività fino al 31 gennaio 2027. Per dotazioni dedicate si segue il contratto. Negli EcoCentri le attività prenotano la fascia e si presentano con EcoCard e autorizzazione. [EcoCalendario Impresa](https://contarina.it/impresa/racolta-differenziata/ecocalendario)
+
+## Teknoservice · Consorzio Canavesano Ambiente
+
+Quarantasette comuni con il giro aggiuntivo per il cartone commerciale a fine 2026. Per altre frazioni o contratti dedicati valgono le indicazioni del gestore per sede. Il centro consortile a Castellamonte ammette le attività con i documenti indicati nella scheda CCA. [Condizioni]( https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca)

@@ -209,6 +209,23 @@
    ]
   },
   {
+   "id": "alpette",
+   "nome": "Alpette",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.41,
+   "lon": 7.5786,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/alpette/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "altivole",
    "nome": "Altivole",
    "provincia": "TV",
@@ -1277,6 +1294,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-bollengo/"
   },
   {
+   "id": "borgiallo",
+   "nome": "Borgiallo",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4168,
+   "lon": 7.6677,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/borgiallo/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "borgo-san-giovanni",
    "nome": "Borgo San Giovanni",
    "provincia": "LO",
@@ -1396,6 +1430,23 @@
    ]
   },
   {
+   "id": "bosconero",
+   "nome": "Bosconero",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.2686,
+   "lon": 7.7651,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/bosconero/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "bossico",
    "nome": "Bossico",
    "provincia": "BG",
@@ -1474,6 +1525,23 @@
      "id": "unica",
      "nome": "Brentonico e frazioni",
      "file": "comuni/brentonico/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "brosso",
+   "nome": "Brosso",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4928,
+   "lon": 7.8033,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/brosso/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1579,6 +1647,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-burolo/"
+  },
+  {
+   "id": "busano",
+   "nome": "Busano",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3288,
+   "lon": 7.6557,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/busano/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "busnago",
@@ -1917,6 +2002,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-candia-c-se/"
+  },
+  {
+   "id": "canischio",
+   "nome": "Canischio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3743,
+   "lon": 7.5952,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/canischio/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "cannero-riviera",
@@ -2535,6 +2637,23 @@
    "zone_url": "https://contarina.it/impresa/racolta-differenziata/ecocalendario"
   },
   {
+   "id": "castellamonte",
+   "nome": "Castellamonte",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3833,
+   "lon": 7.7099,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/castellamonte/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "castellinaldo-d-alba",
    "nome": "Castellinaldo d'Alba",
    "provincia": "CN",
@@ -2565,6 +2684,23 @@
      "nome": "Zona unica",
      "file": "comuni/castello-di-godego/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "castelnuovo-nigra",
+   "nome": "Castelnuovo Nigra",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4373,
+   "lon": 7.6951,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/castelnuovo-nigra/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -2840,6 +2976,23 @@
    ]
   },
   {
+   "id": "ceresole-reale",
+   "nome": "Ceresole Reale",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4326,
+   "lon": 7.2325,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/ceresole-reale/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "cernusco-sul-naviglio",
    "nome": "Cernusco sul Naviglio",
    "provincia": "MI",
@@ -3038,6 +3191,23 @@
    ]
   },
   {
+   "id": "chiesanuova",
+   "nome": "Chiesanuova",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4178,
+   "lon": 7.6561,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/chiesanuova/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "chignolo-disola",
    "nome": "Chignolo d'Isola",
    "provincia": "BG",
@@ -3068,6 +3238,40 @@
      "id": "da-confermare",
      "nome": "Scheda attività",
      "file": "comuni/chiuro/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "ciconio",
+   "nome": "Ciconio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3303,
+   "lon": 7.7599,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/ciconio/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "cintano",
+   "nome": "Cintano",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4281,
+   "lon": 7.6866,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/cintano/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3126,6 +3330,23 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-cogliate.json",
    "regole": "regole/gelsia-und-cogliate.json"
+  },
+  {
+   "id": "colleretto-castelnuovo",
+   "nome": "Colleretto Castelnuovo",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4214,
+   "lon": 7.679,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/colleretto-castelnuovo/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "colleretto-giacosa",
@@ -3586,6 +3807,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cuceglio/"
   },
   {
+   "id": "cuorgne",
+   "nome": "Cuorgnè",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3912,
+   "lon": 7.6489,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/cuorgne/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "daverio",
    "nome": "Daverio",
    "provincia": "VA",
@@ -3941,6 +4179,40 @@
    ]
   },
   {
+   "id": "favria",
+   "nome": "Favria",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3328,
+   "lon": 7.688,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/favria/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "feletto",
+   "nome": "Feletto",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3055,
+   "lon": 7.7471,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/feletto/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "ficulle",
    "nome": "Ficulle",
    "provincia": "TR",
@@ -4141,6 +4413,40 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/formazza/",
    "ecocentri": "ecocentri/conser-vco-und-formazza.json"
+  },
+  {
+   "id": "forno-canavese",
+   "nome": "Forno Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3468,
+   "lon": 7.5868,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/forno-canavese/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "frassinetto",
+   "nome": "Frassinetto",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.436,
+   "lon": 7.6057,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/frassinetto/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "galeata",
@@ -4666,6 +4972,23 @@
    ]
   },
   {
+   "id": "ingria",
+   "nome": "Ingria",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4663,
+   "lon": 7.5709,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/ingria/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "intragna",
    "nome": "Intragna",
    "provincia": "VB",
@@ -4739,6 +5062,23 @@
      "id": "carta-zona-2",
      "nome": "Carta · zona 2, strada delle Valli e via Monte Tomba fino al civico 24",
      "file": "comuni/isola-del-piano/zona-carta-zona-2.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "issiglio",
+   "nome": "Issiglio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4468,
+   "lon": 7.7542,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/issiglio/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -5093,6 +5433,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-lessolo/"
   },
   {
+   "id": "levone",
+   "nome": "Levone",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3181,
+   "lon": 7.6059,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/levone/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "liscate",
    "nome": "Liscate",
    "provincia": "MI",
@@ -5107,6 +5464,23 @@
      "nome": "Zona unica",
      "file": "comuni/liscate/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "locana",
+   "nome": "Locana",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.417,
+   "lon": 7.4613,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/locana/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -5254,6 +5628,23 @@
      "id": "unica",
      "nome": "Tutto il comune",
      "file": "comuni/luserna/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lusiglie",
+   "nome": "Lusigliè",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3186,
+   "lon": 7.7665,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/lusiglie/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -6576,6 +6967,23 @@
    ]
   },
   {
+   "id": "noasca",
+   "nome": "Noasca",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4531,
+   "lon": 7.3135,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/noasca/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "nogaredo",
    "nome": "Nogaredo",
    "provincia": "TN",
@@ -6774,6 +7182,23 @@
    ]
   },
   {
+   "id": "oglianico",
+   "nome": "Oglianico",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3426,
+   "lon": 7.6927,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/oglianico/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "omegna",
    "nome": "Omegna",
    "provincia": "VB",
@@ -6894,6 +7319,23 @@
     }
    ],
    "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+  },
+  {
+   "id": "ozegna",
+   "nome": "Ozegna",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.349,
+   "lon": 7.7431,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/ozegna/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "padenghe-sul-garda",
@@ -7217,6 +7659,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-perosa-c-se/"
   },
   {
+   "id": "pertusio",
+   "nome": "Pertusio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3534,
+   "lon": 7.6387,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/pertusio/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "pessano-con-bornago",
    "nome": "Pessano con Bornago",
    "provincia": "MI",
@@ -7532,6 +7991,23 @@
    ]
   },
   {
+   "id": "pont-canavese",
+   "nome": "Pont Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4207,
+   "lon": 7.5936,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/pont-canavese/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "ponte-in-valtellina",
    "nome": "Ponte in Valtellina",
    "provincia": "SO",
@@ -7720,6 +8196,23 @@
    ]
   },
   {
+   "id": "prascorsano",
+   "nome": "Prascorsano",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3677,
+   "lon": 7.6157,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/prascorsano/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "prata-camportaccio",
    "nome": "Prata Camportaccio",
    "provincia": "SO",
@@ -7732,6 +8225,23 @@
      "id": "da-confermare",
      "nome": "Scheda attività",
      "file": "comuni/prata-camportaccio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pratiglione",
+   "nome": "Pratiglione",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3536,
+   "lon": 7.5961,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/pratiglione/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -8107,6 +8617,23 @@
    ]
   },
   {
+   "id": "ribordone",
+   "nome": "Ribordone",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4316,
+   "lon": 7.5024,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/ribordone/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "riese-pio-x",
    "nome": "Riese Pio X",
    "provincia": "TV",
@@ -8137,6 +8664,57 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/riva-di-solto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "rivara",
+   "nome": "Rivara",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3323,
+   "lon": 7.6251,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/rivara/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "rivarolo-canavese",
+   "nome": "Rivarolo Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3328,
+   "lon": 7.7252,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/rivarolo-canavese/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "rivarossa",
+   "nome": "Rivarossa",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.2513,
+   "lon": 7.7172,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/rivarossa/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -8335,6 +8913,23 @@
    ]
   },
   {
+   "id": "ronco-canavese",
+   "nome": "Ronco Canavese",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4994,
+   "lon": 7.5457,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/ronco-canavese/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "ronzo-chienis",
    "nome": "Ronzo-Chienis",
    "provincia": "TN",
@@ -8391,6 +8986,40 @@
      "nome": "Zona B · Rovereto Centro, Rovereto Nord e Noriglio",
      "file": "comuni/rovereto/zona-b.json",
      "valido_al": "2027-01-02"
+    }
+   ]
+  },
+  {
+   "id": "rueglio",
+   "nome": "Rueglio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4678,
+   "lon": 7.7558,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/rueglio/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "salassa",
+   "nome": "Salassa",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3596,
+   "lon": 7.6894,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/salassa/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -8557,6 +9186,23 @@
      "nome": "Zona unica",
      "file": "comuni/san-biagio-di-callalta/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "san-colombano-belmonte",
+   "nome": "San Colombano Belmonte",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3814,
+   "lon": 7.6185,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/san-colombano-belmonte/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -8741,6 +9387,23 @@
      "id": "servizi-attivita",
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/san-pio-delle-camere/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-ponso",
+   "nome": "San Ponso",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3508,
+   "lon": 7.6675,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/san-ponso/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -9306,6 +9969,23 @@
    ]
   },
   {
+   "id": "sparone",
+   "nome": "Sparone",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4133,
+   "lon": 7.5442,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/sparone/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "spinone-al-lago",
    "nome": "Spinone al Lago",
    "provincia": "BG",
@@ -9822,6 +10502,23 @@
    "ecocentri": "ecocentri/conser-vco-und-trasquera.json"
   },
   {
+   "id": "traversella",
+   "nome": "Traversella",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.5094,
+   "lon": 7.7504,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/traversella/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "tredozio",
    "nome": "Tredozio",
    "provincia": "FC",
@@ -10275,6 +10972,23 @@
    ]
   },
   {
+   "id": "val-di-chy",
+   "nome": "Val di Chy",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.459,
+   "lon": 7.778,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/val-di-chy/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "val-masino",
    "nome": "Val Masino",
    "provincia": "SO",
@@ -10287,6 +11001,23 @@
      "id": "da-confermare",
      "nome": "Scheda attività",
      "file": "comuni/val-masino/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "valchiusa",
+   "nome": "Valchiusa",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.493,
+   "lon": 7.795,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/valchiusa/zona-cartone-commerciale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -10361,6 +11092,40 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-valle-cannobina.json"
+  },
+  {
+   "id": "valperga",
+   "nome": "Valperga",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.3703,
+   "lon": 7.6568,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/valperga/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "valprato-soana",
+   "nome": "Valprato Soana",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.5224,
+   "lon": 7.549,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/valprato-soana/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "valstrona",
@@ -10721,6 +11486,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vialfre/"
   },
   {
+   "id": "vidracco",
+   "nome": "Vidracco",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4305,
+   "lon": 7.759,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/vidracco/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "vignate",
    "nome": "Vignate",
    "provincia": "MI",
@@ -11019,6 +11801,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vische/"
+  },
+  {
+   "id": "vistrorio",
+   "nome": "Vistrorio",
+   "provincia": "TO",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "consorzio": "tekno-cca-und",
+   "lat": 45.4411,
+   "lon": 7.7694,
+   "zone": [
+    {
+     "id": "cartone-commerciale",
+     "nome": "Cartone commerciale",
+     "file": "comuni/vistrorio/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "vizzolo-predabissi",
@@ -11436,6 +12235,12 @@
    "gestore": "Contarina S.p.A.",
    "ecocentri": "ecocentri/contarina-und.json",
    "regole": "regole/contarina-und.json"
+  },
+  "tekno-cca-und": {
+   "nome": "Consorzio Canavesano Ambiente · Teknoservice · UND",
+   "gestore": "Teknoservice (Consorzio Canavesano Ambiente)",
+   "ecocentri": "ecocentri/tekno-cca-und.json",
+   "regole": "regole/tekno-cca-und.json"
   }
  }
 }

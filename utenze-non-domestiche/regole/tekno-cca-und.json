@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "nome": "Teknoservice CCA · raccolta e servizi per le attività",
+ "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf",
+ "voci": {
+  "scatole e scatoloni di cartone puliti": {
+   "dove": "carta",
+   "nota": "Per le attività seguire il giro dedicato del cartone, con l’attrezzatura assegnata."
+  },
+  "imballaggi in cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire la raccolta della carta secondo il servizio attivo."
+  },
+  "giornali, riviste e volantini": {
+   "dove": "carta",
+   "nota": "Seguire la raccolta della carta associata all’attività."
+  },
+  "cartoni per latte e succhi": {
+   "dove": "carta",
+   "nota": "La guida indica la carta. Separare l’eventuale tappo in plastica."
+  },
+  "bottiglie, vasetti e barattoli in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire alla raccolta vetro secondo il servizio attivo."
+  },
+  "bottiglie e flaconi di plastica vuoti": {
+   "dove": "plastica",
+   "nota": "Raccolta plastica e lattine, secondo la dotazione."
+  },
+  "vasetti in plastica e vaschette alimentari in polistirolo": {
+   "dove": "plastica",
+   "nota": "Raccolta plastica e lattine. Svuotare gli imballaggi."
+  },
+  "lattine in alluminio e banda stagnata": {
+   "dove": "lattine",
+   "nota": "Conferire con la plastica nel circuito ordinario secondo il calendario attivo."
+  },
+  "scarti di cucina, frutta e verdura": {
+   "dove": "organico",
+   "nota": "Seguire il servizio dell’organico assegnato all’attività."
+  },
+  "fondi di caffè e avanzi di cibo": {
+   "dove": "organico",
+   "nota": "Seguire il servizio dell’organico assegnato all’attività."
+  },
+  "sfalci, erba e ramaglie": {
+   "dove": "varia",
+   "nota": "Verificare quantità e accesso UND al centro. Il ritiro del verde dipende dal servizio e dalla stagione."
+  },
+  "materassi, armadi e mobili inutilizzabili": {
+   "dove": "varia",
+   "nota": "Conferimento degli ingombranti urbani assimilabili al centro di Castellamonte, con condizioni da confermare per il singolo oggetto. Per piccoli ingombranti consultare le date Ecomobile. Il libretto del gestore indica il ritiro a domicilio per le famiglie. Per un eventuale servizio all’attività chiedere condizioni e costi a Teknoservice."
+  },
+  "Cartucce e toner esauriti all’EcoCentro": {
+   "dove": "varia",
+   "nota": "La scheda del centro indica la frazione. Chiedere conferma per provenienza, quantità e documenti UND."
+  },
+  "Legno all’EcoCentro": {
+   "dove": "varia",
+   "nota": "La scheda del centro indica la frazione. Chiedere conferma per provenienza, quantità e documenti UND."
+  },
+  "Vetro piano all’EcoCentro": {
+   "dove": "varia",
+   "nota": "La scheda del centro indica la frazione. Chiedere conferma per provenienza, quantità e documenti UND."
+  },
+  "Rifiuti ingombranti all’EcoCentro": {
+   "dove": "varia",
+   "nota": "La scheda del centro indica la frazione. Chiedere conferma per provenienza, quantità e documenti UND."
+  },
+  "Macerie, inerti all’EcoCentro": {
+   "dove": "varia",
+   "nota": "Frazione esclusa al centro consortile. Per l’attività verificare il circuito con Teknoservice."
+  }
+ }
+}

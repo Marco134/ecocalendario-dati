@@ -1495,6 +1495,72 @@
    "regole_en": [
     "Book a visit and bring your EcoCard. If authorised, the bulky waste limits are 10 items per visit and 20 per year. Ask Contarina about collection from business premises."
    ]
+  },
+  {
+   "id": "tekno-cca-und",
+   "nome": "Teknoservice CCA · UND",
+   "gestori": [],
+   "comuni": [
+    "alpette",
+    "borgiallo",
+    "bosconero",
+    "brosso",
+    "busano",
+    "canischio",
+    "castellamonte",
+    "castelnuovo-nigra",
+    "ceresole-reale",
+    "chiesanuova",
+    "ciconio",
+    "cintano",
+    "colleretto-castelnuovo",
+    "cuorgne",
+    "favria",
+    "feletto",
+    "forno-canavese",
+    "frassinetto",
+    "ingria",
+    "issiglio",
+    "levone",
+    "locana",
+    "lusiglie",
+    "noasca",
+    "oglianico",
+    "ozegna",
+    "pertusio",
+    "pont-canavese",
+    "prascorsano",
+    "pratiglione",
+    "ribordone",
+    "rivara",
+    "rivarolo-canavese",
+    "rivarossa",
+    "ronco-canavese",
+    "rueglio",
+    "salassa",
+    "san-colombano-belmonte",
+    "san-ponso",
+    "sparone",
+    "traversella",
+    "val-di-chy",
+    "valchiusa",
+    "valperga",
+    "valprato-soana",
+    "vidracco",
+    "vistrorio"
+   ],
+   "telefono": "800 079 960",
+   "orari": "Lun–ven 08:00–17:00 e sab 08:00–12:00 secondo il libretto di ottobre 2026",
+   "prenotazione": false,
+   "prenota_url": null,
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/CRM-e-ECOMOBILE-CCA-inverno-2026-2.pdf | https://www.beataladifferenziata.it/it/il-destino-dei-rifiuti/riciclo-e-recupero/riciclo/centri-di-raccolta/cca | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/10/LIBRETTO-INFORMATIVO-CCA-NUOVO-7.pdf",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Conferimento degli ingombranti urbani assimilabili al centro di Castellamonte, con condizioni da confermare per il singolo oggetto. Per piccoli ingombranti consultare le date Ecomobile. Il libretto del gestore indica il ritiro a domicilio per le famiglie. Per un eventuale servizio all’attività chiedere condizioni e costi a Teknoservice."
+   ],
+   "regole_en": [
+    "Ask Teknoservice about business eligibility and permitted items at the Castellamonte centre. Use the official mobile collection timetable for small bulky items."
+   ]
   }
  ]
 }
