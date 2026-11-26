@@ -410,6 +410,18 @@
    "orari": "Numero ambientale del bacino, sempre attivo secondo il Consorzio",
    "verificato": "2026-11-26",
    "fonte": "https://www.aceapinerolese.it/contatti/ | https://consorzioaceapinerolese.it/Menu?IDDettaglio=297345"
+  },
+  {
+   "id": "mantova-ambiente-und",
+   "telefono": "800 473 165",
+   "verificato": "2026-11-26",
+   "fonte": "https://static.mantovaambiente.it/5d/07/citybin_pieghevole_istruzioni_und_2026-web.pdf | https://www.comune.mantova.it/it/vivere/centro-di-raccolta-via-visi | https://www.comune.mantova.it/index.php/it/vivere/760944?category_id=401835"
+  },
+  {
+   "id": "mantova-ambiente-porto-und",
+   "telefono": "800 473 165",
+   "verificato": "2026-11-26",
+   "fonte": "https://asep.it/contenuti/125865/piazza-ecologica | https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf | https://www.comune.mantova.it/index.php/it/vivere/760944?category_id=401835"
   }
  ]
 }

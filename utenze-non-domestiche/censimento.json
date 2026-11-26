@@ -9857,7 +9857,10 @@
    "nome": "Porto Mantovano",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf | https://servizionline.comune.porto-mantovano.mn.it/AttiVisualizzatore/download/allegato/2269617?fId=2269628&sbustato=true | https://asep.it/contenuti/125865/piazza-ecologica",
+   "verificato": "2026-11-26",
+   "nota": "Il disciplinare comunale conferma frequenze ordinarie condivise fra famiglie e attività. Le date valgono per il servizio ordinario della propria zona. Per dotazioni e turni compensativi fanno fede le indicazioni del gestore per la sede. Sfalci su attivazione da verificare per le attività."
   },
   {
    "id": "roverbella",
@@ -10074,7 +10077,10 @@
    "nome": "Mantova",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://static.mantovaambiente.it/5d/07/citybin_pieghevole_istruzioni_und_2026-web.pdf | https://www.comune.mantova.it/it/documenti_pubblici/raccolta-differenziata-centro-storico | https://www.comune.mantova.it/it/news/due-serate-pubbliche-per-presentare-il-nuovo-servizio-di-raccolta-con-cassonetti-stradali-per-lunetta-e-ponte-rosso?type=1",
+   "verificato": "2026-11-26",
+   "nota": "Date ordinarie del centro storico per profilo. Il PDF specifica cinque turni settimanali per frazione o tipo di attività. Festivi e recuperi del centro storico, giri dei quartieri e perimetro delle attività presso Lunetta e Ponte Rosso da confermare."
   },
   {
    "id": "berzo-san-fermo",

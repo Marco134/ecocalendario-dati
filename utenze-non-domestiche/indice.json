@@ -6171,6 +6171,48 @@
    ]
   },
   {
+   "id": "mantova",
+   "nome": "Mantova",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.15866,
+   "lon": 10.79116,
+   "zone_url": "https://static.mantovaambiente.it/5d/07/citybin_pieghevole_istruzioni_und_2026-web.pdf",
+   "consorzio": "mantova-ambiente-und",
+   "zone": [
+    {
+     "id": "centro-negozi-uffici",
+     "nome": "Centro storico · Negozi, agenzie e uffici",
+     "file": "comuni/mantova/zona-centro-negozi-uffici.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-ristorazione-entro-21",
+     "nome": "Centro storico · Ristorazione con chiusura entro le 21:00",
+     "file": "comuni/mantova/zona-centro-ristorazione-entro-21.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-ristorazione-dopo-23",
+     "nome": "Centro storico · Ristorazione con chiusura dopo le 23:00",
+     "file": "comuni/mantova/zona-centro-ristorazione-dopo-23.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-ritiri-comuni",
+     "nome": "Centro storico · Ritiri comuni, profilo residuo da confermare",
+     "file": "comuni/mantova/zona-centro-ritiri-comuni.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "quartieri-und",
+     "nome": "Quartieri · Servizio UND da verificare",
+     "file": "comuni/mantova/zona-quartieri-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "marene",
    "nome": "Marene",
    "provincia": "CN",
@@ -8579,6 +8621,54 @@
      "id": "cintura-urbana",
      "nome": "Cintura urbana",
      "file": "comuni/portico-e-san-benedetto/zona-cintura-urbana.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "porto-mantovano",
+   "nome": "Porto Mantovano",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.192526,
+   "lon": 10.755221,
+   "zone_url": "https://mantovaambiente.it/comuni/porto-mantovano/raccolta-e-trasporto-porto-mantovano/zone-raccolta-porto-mantovano",
+   "consorzio": "mantova-ambiente-porto-und",
+   "zone": [
+    {
+     "id": "zona-a1-ordinaria",
+     "nome": "Zona A1 · UND ordinaria",
+     "file": "comuni/porto-mantovano/zona-zona-a1-ordinaria.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-a2-ordinaria",
+     "nome": "Zona A2 · UND ordinaria",
+     "file": "comuni/porto-mantovano/zona-zona-a2-ordinaria.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-a3-ordinaria",
+     "nome": "Zona A3 · UND ordinaria",
+     "file": "comuni/porto-mantovano/zona-zona-a3-ordinaria.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-b4-ordinaria",
+     "nome": "Zona B4 · UND ordinaria",
+     "file": "comuni/porto-mantovano/zona-zona-b4-ordinaria.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-b5-ordinaria",
+     "nome": "Zona B5 · UND ordinaria",
+     "file": "comuni/porto-mantovano/zona-zona-b5-ordinaria.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-b6-ordinaria",
+     "nome": "Zona B6 · UND ordinaria",
+     "file": "comuni/porto-mantovano/zona-zona-b6-ordinaria.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -13046,6 +13136,18 @@
    "gestore": "Acea Pinerolese Industriale",
    "ecocentri": "ecocentri/acea-pinerolese-und.json",
    "regole": "regole/acea-pinerolese-und.json"
+  },
+  "mantova-ambiente-und": {
+   "nome": "Mantova · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und.json",
+   "regole": "regole/mantova-ambiente-und.json"
+  },
+  "mantova-ambiente-porto-und": {
+   "nome": "Porto Mantovano · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-porto-und.json",
+   "regole": "regole/mantova-ambiente-porto-und.json"
   }
  }
 }

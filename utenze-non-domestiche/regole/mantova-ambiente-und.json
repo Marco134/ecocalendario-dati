@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "nome": "Mantova centro storico · Materiali delle attività",
+ "fonte": "https://static.mantovaambiente.it/5d/07/citybin_pieghevole_istruzioni_und_2026-web.pdf",
+ "voci": {
+  "cartone voluminoso e imballaggi in carta": {
+   "dove": "carta",
+   "nota": "Nel centro storico piegare, legare ed esporre dalle 12:00 alle 12:30."
+  },
+  "carta in sacco e piccoli imballaggi": {
+   "dove": "carta",
+   "nota": "Esporre il sacco il venerdì mattina dalle 07:00 alle 09:00 secondo la guida. Le ecopiazzole accettano anche carta sfusa."
+  },
+  "imballaggi in plastica": {
+   "dove": "plastica",
+   "nota": "Nel centro storico esporre il sacco giallo dalle 12:00 alle 12:30 o usare Citybin ed ecopiazzole."
+  },
+  "vetro e lattine in alluminio e acciaio": {
+   "dove": "vetro",
+   "nota": "Conferire sfusi. Nei Citybin la frazione è disponibile dalle 07:00 alle 23:00."
+  },
+  "avanzi alimentari e organico": {
+   "dove": "organico",
+   "nota": "Usare sacchetti di carta o di materiale biodegradabile e compostabile. Citybin ed ecopiazzole abilitati con tessera."
+  },
+  "residuo urbano non riciclabile": {
+   "dove": "indifferenziato",
+   "nota": "Usare il sacco grigio con tag e il turno assegnato al profilo dell’attività."
+  },
+  "mobili, materassi e altri ingombranti urbani": {
+   "dove": "centro",
+   "nota": "Verificare limiti del centro e compatibilità per l’attività."
+  },
+  "ferro e legno": {
+   "dove": "centro",
+   "nota": "Verificare provenienza e ammissione al centro."
+  },
+  "sfalci e potature da manutentori del verde privato": {
+   "dove": "varia",
+   "nota": "Esclusi dal servizio del centro per le ditte di manutenzione. Chiedere il circuito autorizzato."
+  },
+  "inerti, pericolosi e scarti tipici della lavorazione": {
+   "dove": "varia",
+   "nota": "Esclusi dall’accesso UND ai centri secondo la guida del gestore."
+  }
+ }
+}

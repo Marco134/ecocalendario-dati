@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "nome": "Porto Mantovano · Materiali delle attività",
+ "fonte": "https://servizionline.comune.porto-mantovano.mn.it/AttiVisualizzatore/download/allegato/2269617?fId=2269628&sbustato=true | https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf | https://asep.it/contenuti/125865/piazza-ecologica",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Contenitore assegnato secondo i volumi. Seguire il calendario comunale."
+  },
+  "imballaggi in plastica": {
+   "dove": "plastica",
+   "nota": "Sacco o contenitore assegnato."
+  },
+  "vetro e lattine": {
+   "dove": "vetro",
+   "nota": "Conferimento congiunto nel contenitore assegnato."
+  },
+  "organico": {
+   "dove": "organico",
+   "nota": "Contenitore assegnato secondo i volumi."
+  },
+  "residuo urbano": {
+   "dove": "indifferenziato",
+   "nota": "Contenitore con microchip assegnato dal gestore."
+  },
+  "ingombranti e altri materiali da centro": {
+   "dove": "varia",
+   "nota": "Le attività di Porto Mantovano conferiscono a Soave. Occorrono convenzione con Mantova Ambiente, iscrizione all’Albo Gestori Ambientali e formulario identificativo rifiuti compilato. Verificare le frazioni ammesse."
+  }
+ }
+}

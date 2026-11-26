@@ -1627,6 +1627,44 @@
    "regole_en": [
     "Free home pickup is guaranteed to households. Businesses should check the item’s eligibility at a recycling centre with their business card or ask Acea about a separate service."
    ]
+  },
+  {
+   "id": "mantova-ambiente-und",
+   "telefono": "800 473 165",
+   "verificato": "2026-11-26",
+   "fonte": "https://static.mantovaambiente.it/5d/07/citybin_pieghevole_istruzioni_und_2026-web.pdf | https://www.comune.mantova.it/it/vivere/centro-di-raccolta-via-visi | https://www.comune.mantova.it/index.php/it/vivere/760944?category_id=401835",
+   "nome": "Mantova · UND",
+   "comuni": [
+    "mantova"
+   ],
+   "gestori": [],
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Per le attività iscritte alla tariffa rifiuti. Conferire con mezzi propri nei limiti autorizzati. Pericolosi, inerti e scarti tipici dell’attività esclusi. Gli scarti da manutenzione professionale del verde sono esclusi. Il ritiro gratuito davanti alla propria abitazione è presentato come servizio ai cittadini. Chiedere al gestore per un ritiro aziendale."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted items with Mantova Ambiente."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-porto-und",
+   "telefono": "800 473 165",
+   "verificato": "2026-11-26",
+   "fonte": "https://asep.it/contenuti/125865/piazza-ecologica | https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf | https://www.comune.mantova.it/index.php/it/vivere/760944?category_id=401835",
+   "nome": "Porto Mantovano · UND",
+   "comuni": [
+    "porto-mantovano"
+   ],
+   "gestori": [],
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Le attività di Porto Mantovano conferiscono a Soave. Occorrono convenzione con Mantova Ambiente, iscrizione all’Albo Gestori Ambientali e formulario identificativo rifiuti compilato. Il ritiro gratuito davanti alla propria abitazione è presentato come servizio ai cittadini. Chiedere al gestore per un ritiro aziendale."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted items with Mantova Ambiente."
+   ]
   }
  ]
 }

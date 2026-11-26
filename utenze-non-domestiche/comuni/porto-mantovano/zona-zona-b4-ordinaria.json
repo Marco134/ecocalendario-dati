@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "comune": "Porto Mantovano",
+ "provincia": "MN",
+ "gestore": "Mantova Ambiente",
+ "zona": "Zona B4 · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://porto-mantovano-api.municipiumapp.it/s3/5450/allegati/ufficio-tecnico/porto-mantovano_ma-calendario2026_multi_04-web.pdf | https://servizionline.comune.porto-mantovano.mn.it/AttiVisualizzatore/download/allegato/2269617?fId=2269628&sbustato=true",
+ "raccolte": {
+  "2026-11-26": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "plastica",
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "organico"
+  ]
+ },
+ "note": [
+  "Il disciplinare comunale conferma frequenze ordinarie condivise fra famiglie e attività. Le date valgono per il servizio ordinario della propria zona. Per dotazioni e turni compensativi fanno fede le indicazioni del gestore per la sede. Sfalci su attivazione da verificare per le attività.",
+  "Seguire le fasce del calendario comunale. La raccolta del vetro comprende le lattine."
+ ],
+ "esposizione": "Esporre la sera prima dalle 20:00 da ottobre ad aprile e dalle 21:00 da maggio a settembre."
+}
