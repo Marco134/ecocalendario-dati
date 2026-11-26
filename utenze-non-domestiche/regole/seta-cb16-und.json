@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "nome": "SETA CB16 · Materiali delle attività",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Indicazioni-per-la-raccolta-differenziata.pdf | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Rifiutologo.pdf | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/CDR_ALL.3_ELENCO-DEI-RIFIUTI-URBANI-CONFERIBILI-CDR-UND.pdf",
+ "voci": {
+  "giornali, riviste, fogli e carta pulita": {
+   "dove": "carta",
+   "nota": "Conferire sfusi nel contenitore della carta."
+  },
+  "scatole, scatoloni e imballaggi di cartone puliti": {
+   "dove": "carta",
+   "nota": "Ridurre il volume e togliere gli elementi in plastica o metallo. Per prestazioni extra chiedere un preventivo."
+  },
+  "cartoni per latte, succhi e bevande": {
+   "dove": "carta",
+   "nota": "I poliaccoppiati per bevande vanno svuotati, sciacquati e schiacciati."
+  },
+  "carta oleata, carta forno e scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Sono esclusi dalla raccolta carta. Verificare la composizione per carte speciali."
+  },
+  "avanzi alimentari, bucce, gusci e fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare il contenitore dell’organico assegnato e sacchetti compostabili secondo le istruzioni locali."
+  },
+  "bottiglie, flaconi e vaschette da imballaggio di plastica": {
+   "dove": "plastica",
+   "nota": "Usare il circuito degli imballaggi della plastica e svuotare il contenuto."
+  },
+  "pellicole, sacchetti e polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Conferire come imballaggi plastici. Per grandi volumi consultare il gestore."
+  },
+  "bottiglie, vasetti e barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire vuoti nel contenitore blu del vetro e delle lattine."
+  },
+  "lattine di alluminio": {
+   "dove": "vetro",
+   "nota": "Conferire vuote nel circuito vetro e lattine, contenitore blu."
+  },
+  "barattoli di latta": {
+   "dove": "vetro",
+   "nota": "Conferire vuoti nel circuito vetro e lattine, contenitore blu."
+  },
+  "carta stagnola e vaschette di alluminio": {
+   "dove": "vetro",
+   "nota": "Conferire pulite nel circuito vetro e lattine, contenitore blu."
+  },
+  "tappi, chiusure e scatolame in metallo": {
+   "dove": "vetro",
+   "nota": "Vanno nel contenitore blu con vetro e lattine."
+  },
+  "capsule del caffè in alluminio": {
+   "dove": "vetro",
+   "nota": "Vanno nel contenitore blu. Il Rifiutologo consiglia di svuotarle se possibile."
+  },
+  "capsule del caffè in plastica": {
+   "dove": "plastica",
+   "nota": "Vanno nel sacco plastica. Il Rifiutologo consiglia di svuotarle se possibile."
+  },
+  "capsule del caffè compostabili": {
+   "dove": "organico",
+   "nota": "Vanno nell’organico se compostabili."
+  },
+  "cristallo, ceramica, porcellana e vetroceramica": {
+   "dove": "varia",
+   "nota": "Esclusi dal contenitore vetro e lattine. Verificare il circuito per tipologia e dimensione."
+  },
+  "lastre di vetro, finestre e vetrocamere": {
+   "dove": "centro",
+   "nota": "EER 20 01 02 per lastre e vetro assimilabile ammesso. Allegato 3 fino a 2 m³ al giorno. Gli specchi sono esclusi da questo flusso."
+  },
+  "specchi": {
+   "dove": "varia",
+   "nota": "Esclusi dalla frazione vetro indicata nell’Allegato 3. Chiedere destinazione e condizioni."
+  },
+  "bacinelle, giochi e manufatti in plastica rigida": {
+   "dove": "centro",
+   "nota": "Verificare il codice 20 01 39 e l’ammissione dei manufatti puliti. Limite 1 m³ al giorno."
+  },
+  "pallet, cassette e serramenti di legno pulito": {
+   "dove": "centro",
+   "nota": "Allegato 3 per EER 15 01 03 o 20 01 38. Limite 1 m³ al giorno."
+  },
+  "sfalci e potature": {
+   "dove": "centro",
+   "nota": "Centro con accreditamento, fino a 2 m³ al giorno per EER 20 02 01. Il ritiro commerciale è separato e a preventivo."
+  },
+  "materassi, arredi e ingombranti misti": {
+   "dove": "centro",
+   "nota": "Allegato 3 fino a 3 m³ al giorno per ingombranti urbani EER 20 03 07. Verificare accreditamento e idoneità."
+  },
+  "cartucce e toner esauriti": {
+   "dove": "centro",
+   "nota": "L’Allegato 3 indica tre pezzi al giorno per EER 08 03 18."
+  },
+  "pile, accumulatori e oli minerali dell’attività": {
+   "dove": "varia",
+   "nota": "Verificare il canale autorizzato per origine e codice. Consultare la distinta UND."
+  },
+  "RAEE professionali": {
+   "dove": "varia",
+   "nota": "Verificare il circuito secondo il tipo di apparecchiatura e il profilo della ditta."
+  },
+  "macerie da attività edile": {
+   "dove": "varia",
+   "nota": "Verificare il circuito professionale. Le macerie domestiche seguono condizioni proprie."
+  }
+ },
+ "tipi": {
+  "vetro": {
+   "nome": "Vetro e lattine",
+   "nome_en": "Glass and cans"
+  }
+ }
+}

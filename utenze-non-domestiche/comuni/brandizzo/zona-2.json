@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "comune": "Brandizzo",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona 2 · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Brandizzo_zona-2.pdf | https://www.setaspa.com/comuni/148-comuni/781-brandizzo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-27": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-27": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-06": [
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "carta"
+  ],
+  "2027-01-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "indifferenziato"
+  ],
+  "2027-01-21": [
+   "carta"
+  ],
+  "2027-01-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

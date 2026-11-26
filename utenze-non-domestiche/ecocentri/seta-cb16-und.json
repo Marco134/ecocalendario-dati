@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "SETA S.p.A.",
+ "numero_verde": "800 401 692",
+ "orari_numero_verde": "Lun–ven 09:00–12:30 e 14:00–17:00",
+ "accesso": "Sede operativa nel bacino CB16 e utenza TARI. Accreditarsi online per il PASS, anche se già registrati, e presentare la scheda ALL.5 a ogni conferimento. Consultare ALL.3 per i limiti.",
+ "avviso": "Via Verga 40 a Settimo Torinese è dedicata alle attività. Strada Ratera è per utenze domestiche. Il centro di Leinì risulta chiuso per lavori. Consultare la pagina del gestore per indirizzi e orari.",
+ "fonte": "https://www.setaspa.com/centri-di-raccolta-centro-del-riuso | https://www.setaspa.com/per-le-aziende | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/CDR_ALL.3_ELENCO-DEI-RIFIUTI-URBANI-CONFERIBILI-CDR-UND.pdf | https://www.comune.settimo-torinese.to.it/it/vivere/centro-di-raccolta-settimo-t-se",
+ "centri": [
+  {
+   "id": "seta-cb16-settimo-verga-und",
+   "tipo": "raccolta",
+   "comune": "Settimo Torinese",
+   "indirizzo": "Via Giovanni Verga 40",
+   "lat": 45.1479413,
+   "lon": 7.7541235,
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Sede dedicata alle utenze non domestiche con PASS e scheda ALL.5."
+  }
+ ]
+}

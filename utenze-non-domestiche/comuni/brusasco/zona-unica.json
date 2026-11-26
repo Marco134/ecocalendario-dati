@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "comune": "Brusasco",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Brusasco.pdf | https://www.setaspa.com/comuni/148-comuni/783-brusasco | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-25": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-28": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "carta"
+  ],
+  "2027-01-14": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-18": [
+   "organico"
+  ],
+  "2027-01-11": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-05": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

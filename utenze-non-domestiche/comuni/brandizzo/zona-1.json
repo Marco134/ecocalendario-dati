@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "comune": "Brandizzo",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona 1 · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Brandizzo_zona-1.pdf | https://www.setaspa.com/comuni/148-comuni/781-brandizzo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-18": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-25": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-29": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-15": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-14": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-13": [
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-11": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "organico"
+  ],
+  "2027-01-03": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "schema": 1,
+ "comune": "Foglizzo",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Foglizzo.pdf | https://www.setaspa.com/comuni/148-comuni/791-foglizzo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ],
+  "2027-01-03": [
+   "indifferenziato"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-13": [
+   "plastica"
+  ],
+  "2027-01-14": [
+   "vetro"
+  ],
+  "2027-01-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-26": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-27": [
+   "plastica"
+  ],
+  "2027-01-28": [
+   "vetro"
+  ],
+  "2027-01-29": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "comune": "Casalborgone",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Casalborgone.pdf | https://www.setaspa.com/comuni/148-comuni/784-casalborgone | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-29": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "vetro"
+  ],
+  "2027-01-06": [
+   "carta"
+  ],
+  "2027-01-13": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-27": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "vetro"
+  ],
+  "2027-01-16": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-12": [
+   "vetro"
+  ],
+  "2027-01-02": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

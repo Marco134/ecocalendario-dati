@@ -1,0 +1,149 @@
+{
+ "schema": 1,
+ "comune": "Borgaro Torinese",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona B · SMART solo residuo",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Borgaro-Torinese_zona-B.pdf | https://www.setaspa.com/comuni/148-comuni/780-borgaro-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "vetro"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2027-01-02": [
+   "plastica"
+  ],
+  "2027-01-04": [
+   "vetro"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-06": [
+   "carta"
+  ],
+  "2027-01-11": [
+   "vetro"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "carta"
+  ],
+  "2027-01-08": [
+   "organico"
+  ],
+  "2027-01-09": [
+   "plastica"
+  ],
+  "2027-01-15": [
+   "organico"
+  ],
+  "2027-01-16": [
+   "plastica"
+  ],
+  "2027-01-18": [
+   "vetro"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "carta"
+  ],
+  "2027-01-22": [
+   "organico"
+  ],
+  "2027-01-23": [
+   "plastica"
+  ],
+  "2027-01-25": [
+   "vetro"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "carta"
+  ],
+  "2027-01-29": [
+   "organico"
+  ],
+  "2027-01-30": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Verificare nello stradario via e civico. Il residuo si conferisce alle campane ad accesso controllato. Carta, plastica, vetro e organico seguono il porta a porta della zona."
+ ]
+}

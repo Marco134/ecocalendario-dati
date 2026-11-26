@@ -1,0 +1,113 @@
+{
+ "schema": 1,
+ "comune": "Torrazza Piemonte",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Torrazza-Piemonte.pdf | https://www.setaspa.com/comuni/148-comuni/806-torrazza-piemonte | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-16": [
+   "organico"
+  ],
+  "2027-01-18": [
+   "indifferenziato"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-23": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-25": [
+   "carta"
+  ],
+  "2027-01-15": [
+   "vetro"
+  ],
+  "2027-01-13": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-11": [
+   "carta"
+  ],
+  "2027-01-09": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "indifferenziato"
+  ],
+  "2027-01-02": [
+   "organico",
+   "vetro"
+  ],
+  "2027-01-29": [
+   "vetro"
+  ],
+  "2027-01-30": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

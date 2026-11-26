@@ -2285,6 +2285,55 @@
     "Check eligible municipal bulky waste, centre access and limits with VCS."
    ],
    "fonte": "https://vallecamonicaservizi.it/isole-ecologiche/ | https://www.comune.cividate-camuno.bs.it/luogo/centro-di-raccolta-rifiuti-intercomunale | https://www.unionevalsaviore.bs.it/Pages/amministrazione_trasparente_v3_0/?code=AT.10.20.20.20 | https://www.comune.darfoboarioterme.bs.it/it/vivere/centro-di-raccolta-inter-comunale-gestito-da-valle-camonica-servizi"
+  },
+  {
+   "id": "seta-cb16-und",
+   "nome": "SETA CB16 · UND",
+   "gestori": [],
+   "comuni": [
+    "borgaro-torinese",
+    "brandizzo",
+    "brozolo",
+    "brusasco",
+    "casalborgone",
+    "caselle-torinese",
+    "castagneto-po",
+    "castiglione-torinese",
+    "cavagnolo",
+    "chivasso",
+    "cinzano",
+    "foglizzo",
+    "gassino-torinese",
+    "lauriano",
+    "leini",
+    "lombardore",
+    "mappano",
+    "montanaro",
+    "monteu-da-po",
+    "rivalba",
+    "rondissone",
+    "san-benigno-canavese",
+    "san-mauro-torinese",
+    "san-raffaele-cimena",
+    "san-sebastiano-da-po",
+    "sciolze",
+    "settimo-torinese",
+    "torrazza-piemonte",
+    "verolengo",
+    "verrua-savoia",
+    "volpiano"
+   ],
+   "telefono": "800 401 692",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Gli ingombranti urbani EER 20 03 07 ammessi si conferiscono al centro con PASS, scheda ALL.5 e limite 3 m³ per conferimento giornaliero. A Settimo Torinese la sede UND è Via Verga 40. Il servizio di ritiro descritto da SETA è riferito alle utenze domestiche. Chiedere a SETA eventuali accordi per l’attività."
+   ],
+   "regole_en": [
+    "Registered businesses may take eligible municipal bulky waste to authorised centres. Contact SETA for business collection options."
+   ],
+   "fonte": "https://www.setaspa.com/per-le-aziende | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/CDR_ALL.3_ELENCO-DEI-RIFIUTI-URBANI-CONFERIBILI-CDR-UND.pdf | https://www.setaspa.com/centri-di-raccolta-centro-del-riuso"
   }
  ]
 }

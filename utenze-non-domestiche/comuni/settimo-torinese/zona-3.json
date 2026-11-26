@@ -1,0 +1,134 @@
+{
+ "schema": 1,
+ "comune": "Settimo Torinese",
+ "provincia": "TO",
+ "gestore": "SETA S.p.A.",
+ "zona": "Zona 3 · UND ordinaria",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://www.setaspa.com/images/ecocalendari-2026/ECOCALENDARIO-2026_Settimo-Torinese_zona-3.pdf | https://www.setaspa.com/comuni/148-comuni/805-settimo-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+ "esposizione": "Esporre i contenitori pieni entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-27": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-09": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-16": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-22": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-23": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-27": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-13": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "plastica"
+  ],
+  "2027-01-08": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-03": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-29": [
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare con SETA l’assegnazione di servizio, le dotazioni e gli eventuali turni dedicati. I turni del verde commerciale sono su preventivo."
+ ]
+}

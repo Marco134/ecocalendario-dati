@@ -1013,7 +1013,12 @@
    "nome": "Borgaro Torinese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/780-borgaro-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Modalità SMART 5 frazioni e SMART solo residuo A/B distinte per civico. Controllare la postazione assegnata e l’accesso dell’impresa.",
+   "valido_al": "2027-01-31",
+   "zone_und": 3
   },
   {
    "id": "borgiallo",
@@ -1178,7 +1183,12 @@
    "nome": "Brandizzo",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/781-brandizzo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 3
   },
   {
    "id": "braone",
@@ -1294,7 +1304,12 @@
    "nome": "Brozolo",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/782-brozolo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "brugherio",
@@ -1318,7 +1333,12 @@
    "nome": "Brusasco",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/783-brusasco | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "bruzolo",
@@ -1850,7 +1870,12 @@
    "nome": "Casalborgone",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/784-casalborgone | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "casale-corte-cerro",
@@ -1966,7 +1991,12 @@
    "nome": "Caselle Torinese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/785-caselle-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 5
   },
   {
    "id": "casier",
@@ -2037,7 +2067,12 @@
    "nome": "Castagneto Po",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/786-castagneto-po | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "castagnito",
@@ -2216,7 +2251,12 @@
    "nome": "Castiglione Torinese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/787-castiglione-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 3
   },
   {
    "id": "castiglione-in-teverina",
@@ -2267,7 +2307,12 @@
    "nome": "Cavagnolo",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/788-cavagnolo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "cavallirio",
@@ -2675,7 +2720,12 @@
    "nome": "Chivasso",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/789-chivasso | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 7
   },
   {
    "id": "cibiana-di-cadore",
@@ -2709,7 +2759,12 @@
    "nome": "Cinzano",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/790-cinzano | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "cirie",
@@ -3547,7 +3602,12 @@
    "nome": "Foglizzo",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/791-foglizzo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "fontaneto-d-agogna",
@@ -3712,7 +3772,12 @@
    "nome": "Gassino Torinese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/792-gassino-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 4
   },
   {
    "id": "gattico-veruno",
@@ -4243,7 +4308,12 @@
    "nome": "Lauriano",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/793-lauriano | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "laveno-mombello",
@@ -4270,7 +4340,12 @@
    "nome": "Leinì",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/794-leini | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 7
   },
   {
    "id": "lemie",
@@ -4371,7 +4446,12 @@
    "nome": "Lombardore",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/795-lombardore | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "lombriasco",
@@ -4696,7 +4776,12 @@
    "nome": "Mappano",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/862-mappano | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 2
   },
   {
    "id": "marene",
@@ -5208,7 +5293,12 @@
    "nome": "Montanaro",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/796-montanaro | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 2
   },
   {
    "id": "montanera",
@@ -5340,7 +5430,12 @@
    "nome": "Monteu da Po",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/797-monteu-da-po | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "montevecchia",
@@ -6839,7 +6934,12 @@
    "nome": "Rivalba",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/798-rivalba | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "rivalta-di-torino",
@@ -7071,7 +7171,12 @@
    "nome": "Rondissone",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/799-rondissone | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "rora",
@@ -7219,7 +7324,12 @@
    "nome": "San Benigno Canavese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/800-san-benigno-canavese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 2
   },
   {
    "id": "san-bernardino-verbano",
@@ -7403,7 +7513,12 @@
    "nome": "San Mauro Torinese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/801-san-mauro-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 2
   },
   {
    "id": "san-pietro-val-lemina",
@@ -7430,14 +7545,24 @@
    "nome": "San Raffaele Cimena",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/802-san-raffaele-cimena | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "san-sebastiano-da-po",
    "nome": "San Sebastiano da Po",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/803-san-sebastiano-da-po | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "san-secondo-di-pinerolo",
@@ -7642,7 +7767,12 @@
    "nome": "Sciolze",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/804-sciolze | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "sedrina",
@@ -7720,7 +7850,12 @@
    "nome": "Settimo Torinese",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/805-settimo-torinese | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 6
   },
   {
    "id": "settimo-vittone",
@@ -8101,7 +8236,12 @@
    "nome": "Torrazza Piemonte",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/806-torrazza-piemonte | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "torre-canavese",
@@ -8779,14 +8919,24 @@
    "nome": "Verolengo",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/807-verolengo | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 4
   },
   {
    "id": "verrua-savoia",
    "nome": "Verrua Savoia",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/808-verrua-savoia | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 1
   },
   {
    "id": "vestigne",
@@ -9135,7 +9285,12 @@
    "nome": "Volpiano",
    "provincia": "TO",
    "gestore": "SETA S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.setaspa.com/comuni/148-comuni/809-volpiano | https://www.setaspa.com/images/ultime-revisioni/documenti-pdf/Carta-dei-servizi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Date delle frazioni ordinarie per la zona. Accreditamento ai centri e verifica dei giri aggiuntivi per civico e contratto.",
+   "valido_al": "2027-01-31",
+   "zone_und": 5
   },
   {
    "id": "voltago-agordino",
