@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "SECAM S.p.A.",
+ "numero_verde": "800 919 106",
+ "orari_numero_verde": "Lun–ven 08:30–12:30 e 14:00–17:00",
+ "accesso": "Ecocentro di via Giustizia 6. Accesso alle attività a ruolo per rifiuti analoghi agli urbani. Esclusi rifiuti produttivi, pericolosi, da costruzione o demolizione. Per conferire ingombranti analoghi agli urbani chiedere l’autorizzazione e confermare l’ammissibilità. Lun e sab 08:30–11:30, gio 14:00–17:00.",
+ "fonte": "https://www.comune.tirano.so.it/index.php/it/vivere/centro-di-raccolta-comunale-4",
+ "centri": [
+  {
+   "id": "secam-und-tirano-centro",
+   "tipo": "raccolta",
+   "comune": "Tirano",
+   "indirizzo": "Via Giustizia 6, località Foro Boario",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "11:30"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "11:30"
+     ]
+    ]
+   },
+   "lat": 46.2097761,
+   "lon": 10.1632495,
+   "chiuso": false,
+   "per": "non_domestiche",
+   "avviso": "Ecocentro di via Giustizia 6. Accesso alle attività a ruolo per rifiuti analoghi agli urbani. Esclusi rifiuti produttivi, pericolosi, da costruzione o demolizione. Per conferire ingombranti analoghi agli urbani chiedere l’autorizzazione e confermare l’ammissibilità."
+  }
+ ]
+}

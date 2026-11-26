@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "nome": "Grosio · materiali ammessi all’ecocentro",
+ "fonte": "https://www.secam.net/wp-content/uploads/2026/06/ALLEGATI-rifiuti-conferibili-utenze-NON-domestiche.pdf | https://www.secam.net/wp-content/uploads/2026/06/modalita-accesso-area-differenziata.pdf",
+ "voci": {
+  "carta e cartone": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 15.01.01, 20.01.01. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "imballaggi misti in plastica, alluminio, banda stagnata e cartone per bevande": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 15.01.06. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "imballaggi in plastica": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 15.01.02. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "legno, mobili in legno e pallet rotti": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.38. Limite giornaliero 3 m³ e annuo 5 m³ per utenza secondo il prospetto del Comune."
+  },
+  "metallo, telai e infissi metallici": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.40. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "imballaggi in vetro": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 15.01.07. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "vetro da finestre, vetrate e tavoli": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.02. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "abiti e prodotti tessili": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.10, 20.01.11. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "vernici, inchiostri, adesivi e resine non pericolosi": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.28. Limite giornaliero 1 l e annuo 5 l per utenza secondo il prospetto del Comune."
+  },
+  "detergenti non pericolosi": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.30. Limite giornaliero 1 l e annuo 5 l per utenza secondo il prospetto del Comune."
+  },
+  "plastica di grande formato": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.39. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "rifiuti ingombranti, imbottiti e materassi": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.03.07. Limite giornaliero 2 m³ e annuo 10 m³ per utenza secondo il prospetto del Comune."
+  },
+  "toner esauriti non pericolosi": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 08.03.18. Limite giornaliero 4 pezzi e annuo 20 pezzi per utenza secondo il prospetto del Comune."
+  },
+  "rifiuti biodegradabili di cucine e mense": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.01.08. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  },
+  "sfalci e potature ammessi di piccola manutenzione": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.02.01. Limite giornaliero 2 m³ e annuo 5 m³ per utenza secondo il prospetto del Comune."
+  },
+  "rifiuti urbani indifferenziati": {
+   "dove": "varia",
+   "nota": "Ecocentro con QR e documenti UND. EER 20.03.01. Limite giornaliero Libero e annuo Libero per utenza secondo il prospetto del Comune."
+  }
+ }
+}

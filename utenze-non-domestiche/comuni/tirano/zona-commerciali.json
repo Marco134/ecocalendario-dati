@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "comune": "Tirano",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Carta e cartone commerciali",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Tirano.pdf | https://www.secam.net/comuni/tirano/ | https://www.secam.net/wp-content/uploads/2023/04/TIRANO-carta-di-qualita.pdf | https://www.comune.tirano.so.it/index.php/it/vivere/centro-di-raccolta-comunale-4 | https://www.comune.tirano.so.it/it/garbage-glossary",
+ "raccolte": {
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Carta e cartone presso gli esercizi commerciali il mercoledì, con la stessa istruzione nelle due zone del PDF. Esposizione dalle 19:00 della sera prima alle 04:00 del giorno di raccolta. Per l’organico destinato a ristoranti, mense e alberghi serve richiesta al gestore. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ],
+ "esposizione": "Esporre dalle 19:00 della vigilia alle 04:00 del giorno di raccolta.",
+ "esposizione_entro": "04:00"
+}

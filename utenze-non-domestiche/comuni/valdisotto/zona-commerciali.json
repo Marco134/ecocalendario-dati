@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "comune": "Valdisotto",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Valdisotto.pdf | https://www.secam.net/comuni/valdisotto/ | https://www.secam.net/wp-content/uploads/2024/01/VALDISOTTO-CARTA-QUALITA.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Cartone degli esercizi commerciali il martedì. L’8 dicembre è festivo nel PDF e l’eventuale recupero commerciale resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ]
+}

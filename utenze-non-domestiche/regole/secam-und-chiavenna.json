@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "nome": "Chiavenna · materiali all’ecocentro",
+ "fonte": "https://www.comune.chiavenna.so.it/vivere_il_comune/luoghi/luogo_8.html | https://www.comune.chiavenna.so.it/amministrazione/documenti_e_dati/modulistica/documento_61.html | https://www.secam.net/wp-content/uploads/2024/06/carta-qualita-CHIAVENNA.pdf",
+ "voci": {
+  "carta e cartone, plastica e vetro": {
+   "dove": "varia",
+   "nota": "Conferibili se urbani e prodotti nel comune, con scheda di conferimento."
+  },
+  "legno, metalli e ingombranti urbani": {
+   "dove": "varia",
+   "nota": "Conferibili se urbani e prodotti nel comune, con scheda di conferimento."
+  },
+  "sfalci e potature": {
+   "dove": "varia",
+   "nota": "Verificare la provenienza e l’ammissibilità come rifiuto urbano. Presentare la scheda."
+  },
+  "RAEE": {
+   "dove": "varia",
+   "nota": "Verificare l’ammissibilità e presentare la documentazione prevista per il profilo aziendale."
+  },
+  "olio vegetale, minerale, toner, accumulatori al piombo e contenitori pericolosi": {
+   "dove": "varia",
+   "nota": "La carta di qualità li riserva alle utenze domestiche. Verificare un circuito autorizzato per le attività."
+  },
+  "inerti da demolizione": {
+   "dove": "varia",
+   "nota": "Il centro provvisorio non li accetta. L’alternativa indicata a Prata Camportaccio è riservata alle utenze domestiche."
+  }
+ }
+}

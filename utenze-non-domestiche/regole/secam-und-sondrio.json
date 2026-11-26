@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "nome": "Sondrio · regole per le attività e accesso a Ventina",
+ "fonte": "https://comune.sondrio.it/wp-content/uploads/sites/152/2026/02/all_del_14_2025_Regolamento_del_servizio_di_igiene_urbana.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf",
+ "voci": {
+  "carta e cartone a bassa produzione": {
+   "dove": "carta",
+   "nota": "Porta a porta con contenitore RFID o materiale legato o in un involucro di carta. Alta produzione su servizio concordato."
+  },
+  "imballaggi in plastica, alluminio e banda stagnata a bassa produzione": {
+   "dove": "plastica",
+   "nota": "Sacco trasparente. Alta produzione su servizio concordato."
+  },
+  "scarti di cucine e mense a bassa produzione": {
+   "dove": "organico",
+   "nota": "Sacchetto compostabile nel contenitore assegnato con RFID. Per servizio aziendale dedicato consultare SECAM."
+  },
+  "vetro da imballaggio": {
+   "dove": "vetro",
+   "nota": "Campane stradali oppure contenitore da 240 l per specifiche UND. Per alta produzione servizio da concordare."
+  },
+  "secco residuo a bassa produzione": {
+   "dove": "indifferenziato",
+   "nota": "Porta a porta con contenitore assegnato con RFID. Per alta produzione servizio da concordare."
+  },
+  "ingombranti urbani di attività, materiali ammessi": {
+   "dove": "varia",
+   "nota": "Conferire alla Ventina solo con la convenzione. Verificare tipologia e condizioni, EER 20.03.07."
+  }
+ }
+}

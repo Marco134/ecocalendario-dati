@@ -1,0 +1,21 @@
+{
+ "schema": 1,
+ "comune": "Villa di Tirano",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/VillaDiTirano.pdf | https://www.secam.net/comuni/villa-di-tirano/ | https://comune.villaditirano.so.it/trasparenza-rifiuti/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Cartone degli esercizi commerciali il secondo e l’ultimo venerdì del mese. Il 25 dicembre è festivo nel PDF e il recupero commerciale resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ]
+}

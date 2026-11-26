@@ -1,0 +1,15 @@
+{
+ "schema": 1,
+ "nome": "Aprica · cartone e vetro commerciali",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Aprica.pdf",
+ "voci": {
+  "cartone da imballaggio degli esercizi commerciali": {
+   "dove": "carta",
+   "nota": "Seguire i martedì con carta indicati nel PDF."
+  },
+  "bottiglie e imballaggi di vetro degli esercizi commerciali": {
+   "dove": "vetro",
+   "nota": "Turno del venerdì. Verificare il recupero di Natale con SECAM."
+  }
+ }
+}

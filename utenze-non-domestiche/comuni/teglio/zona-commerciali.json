@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "comune": "Teglio",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Teglio.pdf | https://www.secam.net/comuni/teglio/ | https://www.secam.net/wp-content/uploads/2024/04/TEGLIO-carta-qualita.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Cartone degli esercizi commerciali ritirato il martedì. Per gli altri servizi e le zone di Teglio centro e frazione Santa Maria verificare il profilo con SECAM. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ]
+}

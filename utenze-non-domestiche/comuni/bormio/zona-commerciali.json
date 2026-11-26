@@ -1,0 +1,36 @@
+{
+ "schema": 1,
+ "comune": "Bormio",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2026/09/calendario-rifiuti-bormio-aggiornato.pdf | https://www.secam.net/comuni/bormio/ | https://www.secam.net/wp-content/uploads/2024/01/BORMIO-CARTA-QUALITA.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Cartone per esercizi commerciali il martedì e nei due venerdì prima di Natale, 11 e 18 dicembre. Per il Passo dello Stelvio e l’organico riservato alle attività autorizzate verificare il servizio con SECAM. La Carta qualità indica servizio stagionale giugno–novembre al Passo, con cassonetti del residuo e frazioni differenziate a chiamata. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ]
+}

@@ -73,3 +73,7 @@ Verificati 74 comuni. I turni ordinari e quelli selezionati sono distinti. Bacen
 ## STR, Verde Gufo e CoAbSeR
 
 Calendari commerciali e artigianali per 51 comuni. Alba e Trezzo Tinella hanno schede con fonti e conferme per i turni. Nei centri consortili è obbligatoria la prenotazione per le attività. [Calendari UND](https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/)
+
+## SECAM
+
+Verificati 51 comuni. Dieci hanno turni datati per frazioni o profili confermati. Nei restanti 41 sono disponibili le schede con contatti ufficiali e informazioni per le attività. Cinque comuni condividono l’accesso convenzionato alla Ventina. [SECAM](https://www.secam.net/)

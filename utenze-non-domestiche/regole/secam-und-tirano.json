@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "nome": "Tirano · conferimento delle attività",
+ "fonte": "https://www.comune.tirano.so.it/it/garbage-glossary | https://www.comune.tirano.so.it/index.php/it/vivere/centro-di-raccolta-comunale-4",
+ "voci": {
+  "cartone da imballaggio degli esercizi commerciali": {
+   "dove": "carta",
+   "nota": "Esporre dalle 19:00 della sera precedente alle 04:00 del mercoledì di raccolta."
+  },
+  "avanzi e scarti di cucine e mense": {
+   "dove": "organico",
+   "nota": "Servizio per le attività che fanno richiesta, quali ristoranti, mense e alberghi. Il Comune indica anche il prestito del bidone senza costi ulteriori."
+  },
+  "bottiglie e vasetti di vetro vuoti": {
+   "dove": "vetro",
+   "nota": "Campane stradali. Usare il circuito consentito dal Comune se il contenitore non entra nel bocchettone."
+  },
+  "lastre di vetro e macchinari professionali": {
+   "dove": "varia",
+   "nota": "Il Comune li esclude dal centro per le UND. Usare un operatore autorizzato."
+  },
+  "olio vegetale di cucine professionali": {
+   "dove": "varia",
+   "nota": "La voce per il conferimento dell’olio vegetale esausto è riservata alle utenze domestiche. Verificare il circuito autorizzato per l’attività."
+  }
+ }
+}

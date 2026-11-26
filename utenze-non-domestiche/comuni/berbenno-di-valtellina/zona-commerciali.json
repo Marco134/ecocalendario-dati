@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "comune": "Berbenno di Valtellina",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Berbenno.pdf | https://www.secam.net/comuni/berbenno-di-valtellina/ | https://www.secam.net/wp-content/uploads/2023/06/berbenno_carta_qualita.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il cartone degli esercizi commerciali si ritira di giovedì a partire dalle 08:00. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ]
+}

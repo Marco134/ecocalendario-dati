@@ -1262,6 +1262,171 @@
    "regole_en": [
     "STR continues to handle bulky waste. Call the local waste service to confirm collection for your business."
    ]
+  },
+  {
+   "id": "secam-und-grosio",
+   "nome": "Grosio · UND",
+   "gestori": [],
+   "comuni": [
+    "grosio"
+   ],
+   "telefono": "800 919 106",
+   "orari": "Lun–ven 08:30–12:30 e 14:00–17:00",
+   "prenota_url": "https://www.secam.net/wp-content/uploads/2026/06/modalita-accesso-area-differenziata.pdf",
+   "prenotazione": false,
+   "fonte": "https://www.secam.net/wp-content/uploads/2026/06/modalita-accesso-area-differenziata.pdf | https://www.secam.net/wp-content/uploads/2026/06/ALLEGATI-rifiuti-conferibili-utenze-NON-domestiche.pdf | https://www.secam.net/comuni/grosio/",
+   "verificato": "2026-11-26",
+   "regole": [
+    "L’ecocentro ammette gli ingombranti urbani 20.03.07 fino a 2 m³ al giorno e 10 m³ annui per utenza, con autorizzazioni e QR. Verificare il ritiro a domicilio."
+   ],
+   "regole_en": [
+    "Confirm business eligibility and the permitted items before taking bulky waste to the centre."
+   ]
+  },
+  {
+   "id": "secam-und-tirano",
+   "nome": "Tirano · UND",
+   "gestori": [],
+   "comuni": [
+    "tirano"
+   ],
+   "telefono": "800 919 106",
+   "orari": "Lun–ven 08:30–12:30 e 14:00–17:00",
+   "prenota_url": "https://www.comune.tirano.so.it/index.php/it/vivere/centro-di-raccolta-comunale-4",
+   "prenotazione": true,
+   "fonte": "https://www.comune.tirano.so.it/index.php/it/vivere/centro-di-raccolta-comunale-4",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Fino a nuovo avviso il Comune richiede prenotazione per gli ingombranti al centro, almeno tre giorni lavorativi prima e massimo 1 m³ per utenza. Confermare l’ammissibilità dell’oggetto per le UND."
+   ],
+   "regole_en": [
+    "Confirm business eligibility and the permitted items before taking bulky waste to the centre."
+   ]
+  },
+  {
+   "id": "secam-und-chiavenna",
+   "nome": "Chiavenna · UND",
+   "gestori": [],
+   "comuni": [
+    "chiavenna"
+   ],
+   "telefono": "800 919 106",
+   "orari": "Lun–ven 08:30–12:30 e 14:00–17:00",
+   "prenota_url": "https://www.comune.chiavenna.so.it/vivere_il_comune/luoghi/luogo_8.html",
+   "prenotazione": false,
+   "fonte": "https://www.comune.chiavenna.so.it/vivere_il_comune/luoghi/luogo_8.html | https://www.comune.chiavenna.so.it/amministrazione/documenti_e_dati/modulistica/documento_61.html",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Il centro comunale ammette ingombranti assimilabili se prodotti nel comune. Presentare la scheda. Per il ritiro a domicilio chiedere le condizioni UND."
+   ],
+   "regole_en": [
+    "Confirm business eligibility and the permitted items before taking bulky waste to the centre."
+   ]
+  },
+  {
+   "id": "secam-und-villa-di-tirano",
+   "nome": "Villa di Tirano · UND",
+   "gestori": [],
+   "comuni": [
+    "villa-di-tirano"
+   ],
+   "telefono": "800 919 106",
+   "orari": "Lun–ven 08:30–12:30 e 14:00–17:00",
+   "prenota_url": "https://comune.villaditirano.so.it/trasparenza-rifiuti/",
+   "prenotazione": false,
+   "fonte": "https://comune.villaditirano.so.it/trasparenza-rifiuti/",
+   "verificato": "2026-11-26",
+   "regole": [
+    "La scheda TARI include gli ingombranti al centro locale per rifiuti assimilabili, con mobili smontati e separati. Per i limiti e il ritiro a domicilio chiedere al Comune."
+   ],
+   "regole_en": [
+    "Confirm business eligibility and the permitted items before taking bulky waste to the centre."
+   ]
+  },
+  {
+   "id": "secam-und-ventina",
+   "nome": "Centro di via Ventina · UND",
+   "gestori": [],
+   "comuni": [
+    "albosaggia",
+    "caiolo",
+    "castione-andevenno",
+    "montagna-in-valtellina",
+    "sondrio"
+   ],
+   "telefono": "800 919 106",
+   "orari": "Lun–ven 08:30–12:30 e 14:00–17:00",
+   "prenota_url": null,
+   "prenotazione": true,
+   "fonte": "https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf",
+   "verificato": "2026-11-26",
+   "regole": [
+    "La tabella 2 ammette al centro Ventina gli ingombranti urbani 20.03.07 con convenzione. Chiedere i limiti e l’eventuale ritiro domiciliato per l’attività."
+   ],
+   "regole_en": [
+    "Urban bulky waste is accepted under the business agreement with SECAM."
+   ]
+  },
+  {
+   "id": "secam-und",
+   "nome": "SECAM · UND",
+   "gestori": [],
+   "comuni": [
+    "andalo-valtellino",
+    "aprica",
+    "ardenno",
+    "berbenno-di-valtellina",
+    "bianzone",
+    "bormio",
+    "buglio-in-monte",
+    "caspoggio",
+    "chiesa-in-valmalenco",
+    "chiuro",
+    "colorina",
+    "cosio-valtellino",
+    "dazio",
+    "delebio",
+    "dubino",
+    "faedo-valtellino",
+    "forcola",
+    "grosotto",
+    "lanzada",
+    "mantello",
+    "mazzo-di-valtellina",
+    "morbegno",
+    "novate-mezzola",
+    "piateda",
+    "poggiridenti",
+    "ponte-in-valtellina",
+    "prata-camportaccio",
+    "rasura",
+    "rogolo",
+    "samolaco",
+    "san-giacomo-filippo",
+    "sondalo",
+    "spriana",
+    "talamona",
+    "teglio",
+    "torre-di-santa-maria",
+    "traona",
+    "tresivio",
+    "val-masino",
+    "valdisotto",
+    "valfurva",
+    "verceia"
+   ],
+   "telefono": "800 919 106",
+   "orari": "Lun–ven 08:30–12:30 e 14:00–17:00",
+   "prenota_url": null,
+   "prenotazione": false,
+   "fonte": "https://www.secam.net",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
+   ],
+   "regole_en": [
+    "Ask SECAM whether collection is available for your business and about limits and costs."
+   ]
   }
  ]
 }

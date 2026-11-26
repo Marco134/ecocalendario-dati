@@ -143,7 +143,10 @@
    "nome": "Albosaggia",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Albosaggia.pdf | https://www.secam.net/comuni/albosaggia/ | https://www.secam.net/wp-content/uploads/2024/01/ALBOSAGGIA-CARTA-QUALITA.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Centro intercomunale di via Ventina 20. Per le attività in regola con la TARI, serve una convenzione preventiva con SECAM a igiene.urbana@secam.net e la documentazione sulla categoria 2-bis. Ammessi solo i codici della Tabella 2, con soglia annua di gratuità calcolata in base al Kd e alla superficie iscritta. La tabella 2 ammette al centro Ventina gli ingombranti urbani 20.03.07 con convenzione. Chiedere i limiti e l’eventuale ritiro domiciliato per l’attività."
   },
   {
    "id": "alleghe",
@@ -228,7 +231,10 @@
    "nome": "Andalo Valtellino",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Andalo.pdf | https://www.secam.net/comuni/andalo-valtellino/ | https://www.secam.net/wp-content/uploads/2024/01/ANDALO-CARTA-DELLA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "andezeno",
@@ -296,7 +302,10 @@
    "nome": "Aprica",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Aprica.pdf | https://www.secam.net/comuni/aprica/ | https://www.secam.net/wp-content/uploads/2024/01/APRICA-CARTA-DELLA-QUALITA.pdf | https://comune.aprica.so.it/servizio/servizio-di-prenotazione-accesso-al-centro-di-raccolta/",
+   "verificato": "2026-11-26",
+   "nota": "Il cartone degli esercizi commerciali segue i martedì con carta nel PDF. Il vetro degli esercizi commerciali è previsto il venerdì. Il recupero del vetro del 25 dicembre resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "arcade",
@@ -320,7 +329,10 @@
    "nome": "Ardenno",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Ardenno.pdf | https://www.secam.net/comuni/ardenno/ | https://www.secam.net/wp-content/uploads/2024/03/carta-qualita-ARDENNO.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "arignano",
@@ -755,7 +767,10 @@
    "nome": "Berbenno di Valtellina",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Berbenno.pdf | https://www.secam.net/comuni/berbenno-di-valtellina/ | https://www.secam.net/wp-content/uploads/2023/06/berbenno_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Il cartone degli esercizi commerciali si ritira di giovedì a partire dalle 08:00. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "bernareggio",
@@ -816,7 +831,10 @@
    "nome": "Bianzone",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Bianzone.pdf | https://www.secam.net/comuni/bianzone/",
+   "verificato": "2026-11-26",
+   "nota": "Il cartone degli esercizi commerciali si ritira l’ultimo venerdì del mese. Il 25 dicembre è festivo nel PDF e il recupero commerciale resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "biassono",
@@ -1004,7 +1022,10 @@
    "nome": "Bormio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2026/09/calendario-rifiuti-bormio-aggiornato.pdf | https://www.secam.net/comuni/bormio/ | https://www.secam.net/wp-content/uploads/2024/01/BORMIO-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Cartone per esercizi commerciali il martedì e nei due venerdì prima di Natale, 11 e 18 dicembre. Per il Passo dello Stelvio e l’organico riservato alle attività autorizzate verificare il servizio con SECAM. La Carta qualità indica servizio stagionale giugno–novembre al Passo, con cassonetti del residuo e frazioni differenziate a chiamata. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "borno",
@@ -1197,7 +1218,10 @@
    "nome": "Buglio in Monte",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Buglio.pdf | https://www.secam.net/comuni/buglio-in-monte/ | https://www.secam.net/wp-content/uploads/2023/06/buglio_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "bulciago",
@@ -1306,7 +1330,10 @@
    "nome": "Caiolo",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2023/04/Caiolo_2026_A_2_ristampa_D_FR.pdf | https://www.secam.net/comuni/caiolo/ | https://www.secam.net/wp-content/uploads/2024/03/CAIOLO-carta-qualita.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Centro intercomunale di via Ventina 20. Per le attività in regola con la TARI, serve una convenzione preventiva con SECAM a igiene.urbana@secam.net e la documentazione sulla categoria 2-bis. Ammessi solo i codici della Tabella 2, con soglia annua di gratuità calcolata in base al Kd e alla superficie iscritta. La tabella 2 ammette al centro Ventina gli ingombranti urbani 20.03.07 con convenzione. Chiedere i limiti e l’eventuale ritiro domiciliato per l’attività."
   },
   {
    "id": "calasca-castiglione",
@@ -1784,7 +1811,10 @@
    "nome": "Caspoggio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Unione-Caspoggio-Lanzada.pdf | https://www.secam.net/comuni/caspoggio/ | https://www.secam.net/wp-content/uploads/2023/04/carta_qualita_unione_comuni_valmalenco.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "cassago-brianza",
@@ -2016,7 +2046,10 @@
    "nome": "Castione Andevenno",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Castione.pdf | https://www.secam.net/comuni/castione-andevenno/ | https://www.secam.net/wp-content/uploads/2024/03/Carta-qualita-CASTIONE.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. La Carta qualità indica un turno settimanale di carta e cartone per le attività commerciali. Giorno e recuperi commerciali da confermare. Centro intercomunale di via Ventina 20. Per le attività in regola con la TARI, serve una convenzione preventiva con SECAM a igiene.urbana@secam.net e la documentazione sulla categoria 2-bis. Ammessi solo i codici della Tabella 2, con soglia annua di gratuità calcolata in base al Kd e alla superficie iscritta. La tabella 2 ammette al centro Ventina gli ingombranti urbani 20.03.07 con convenzione. Chiedere i limiti e l’eventuale ritiro domiciliato per l’attività."
   },
   {
    "id": "castronno",
@@ -2316,7 +2349,10 @@
    "nome": "Chiavenna",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Chiavenna.pdf | https://www.secam.net/comuni/chiavenna/ | https://www.secam.net/wp-content/uploads/2024/06/carta-qualita-CHIAVENNA.pdf | https://www.comune.chiavenna.so.it/vivere_il_comune/luoghi/luogo_8.html | https://www.comune.chiavenna.so.it/amministrazione/documenti_e_dati/modulistica/documento_61.html",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Ecocentro provvisorio nel piazzale del campo sportivo di via Falcone e Borsellino, mar, gio e sab 08:00–12:00 fino a fine lavori. Per persone giuridiche, solo rifiuti urbani prodotti nel comune con scheda di conferimento. Chiedere conferma degli orari al Comune prima di partire. Il centro comunale ammette ingombranti assimilabili se prodotti nel comune. Presentare la scheda. Per il ritiro a domicilio chiedere le condizioni UND."
   },
   {
    "id": "chiaverano",
@@ -2340,7 +2376,10 @@
    "nome": "Chiesa in Valmalenco",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Chiesa.pdf | https://www.secam.net/comuni/chiesa-in-valmalenco/ | https://www.secam.net/wp-content/uploads/2023/04/carta_qualita_unione_comuni_valmalenco.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "chiesanuova",
@@ -2361,7 +2400,10 @@
    "nome": "Chiuro",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Chiuro.pdf | https://www.secam.net/comuni/chiuro/ | https://www.secam.net/wp-content/uploads/2023/04/carta_qualita_chiuro.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "chiusa-di-pesio",
@@ -2550,7 +2592,10 @@
    "nome": "Colorina",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Colorina.pdf | https://www.secam.net/comuni/colorina/ | https://www.secam.net/wp-content/uploads/2024/01/COLORINA-Carta-della-qualita-.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "colturano",
@@ -2662,7 +2707,10 @@
    "nome": "Cosio Valtellino",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Cosio.pdf | https://www.secam.net/comuni/cosio-valtellino/ | https://www.secam.net/wp-content/uploads/2024/01/COSIO-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "cossano-belbo",
@@ -2869,14 +2917,20 @@
    "nome": "Dazio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Dazio.pdf | https://www.secam.net/comuni/dazio/ | https://www.secam.net/wp-content/uploads/2024/01/DAZIO-CARTA-QUALITA.pdf | https://www.comune.dazio.so.it/vivere_il_comune/luoghi/luogo_7.html",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "delebio",
    "nome": "Delebio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Delebio.pdf | https://www.secam.net/comuni/delebio/ | https://www.secam.net/wp-content/uploads/2024/01/DELEBIO-Carta-qualita-sotto-servizi-tributi.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "dello",
@@ -2991,7 +3045,10 @@
    "nome": "Dubino",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Dubino.pdf | https://www.secam.net/comuni/dubino/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "dumenza",
@@ -3072,7 +3129,10 @@
    "nome": "Faedo Valtellino",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Faedo.pdf | https://www.secam.net/comuni/faedo-valtellino/ | https://www.secam.net/wp-content/uploads/2023/06/faedo_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "falcade",
@@ -3178,7 +3238,10 @@
    "nome": "Forcola",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Forcola.pdf | https://www.secam.net/comuni/forcola/ | https://www.secam.net/wp-content/uploads/2023/04/FORCOLA-Carta-qualita-del-servizio.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "formazza",
@@ -3522,14 +3585,20 @@
    "nome": "Grosio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Grosio.pdf | https://www.secam.net/comuni/grosio/ | https://www.secam.net/wp-content/uploads/2024/01/GROSIO-CARTA-DELLA-QUALITA.pdf | https://www.secam.net/wp-content/uploads/2026/06/modalita-accesso-area-differenziata.pdf | https://www.secam.net/wp-content/uploads/2026/06/ALLEGATI-rifiuti-conferibili-utenze-NON-domestiche.pdf | https://www.secam.net/comuni/grosio/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Ecocentro di via Tirano, svincolo SS38. Le attività a ruolo richiedono il QR code a tributi@comune.grosio.so.it, allegando iscrizione alla categoria 2-bis e i veicoli autorizzati. Presentare il QR a ogni accesso. L’ecocentro ammette gli ingombranti urbani 20.03.07 fino a 2 m³ al giorno e 10 m³ annui per utenza, con autorizzazioni e QR. Verificare il ritiro a domicilio."
   },
   {
    "id": "grosotto",
    "nome": "Grosotto",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Grosotto.pdf | https://www.secam.net/comuni/grosotto/ | https://www.secam.net/wp-content/uploads/2023/04/GROSOTTO-CARTA-QUALITA-SERVIZI.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "grosso",
@@ -3747,7 +3816,10 @@
    "nome": "Lanzada",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Unione-Caspoggio-Lanzada.pdf | https://www.secam.net/comuni/lanzada/ | https://www.secam.net/wp-content/uploads/2023/04/carta_qualita_unione_comuni_valmalenco.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "lanzo-torinese",
@@ -4167,7 +4239,10 @@
    "nome": "Mantello",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Mantello.pdf | https://www.secam.net/comuni/mantello/ | https://www.secam.net/wp-content/uploads/2023/08/mantello_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "mapello",
@@ -4331,7 +4406,10 @@
    "nome": "Mazzo di Valtellina",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Mazzo.pdf | https://www.secam.net/comuni/mazzo-di-valtellina/ | https://www.secam.net/wp-content/uploads/2024/01/MAZZO-CARTA-DELLA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "mazze",
@@ -4599,7 +4677,10 @@
    "nome": "Montagna in Valtellina",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Montagna.pdf | https://www.secam.net/comuni/montagna-in-valtellina/ | https://www.secam.net/wp-content/uploads/2023/06/montagna-_carta_qualita.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Centro intercomunale di via Ventina 20. Per le attività in regola con la TARI, serve una convenzione preventiva con SECAM a igiene.urbana@secam.net e la documentazione sulla categoria 2-bis. Ammessi solo i codici della Tabella 2, con soglia annua di gratuità calcolata in base al Kd e alla superficie iscritta. La tabella 2 ammette al centro Ventina gli ingombranti urbani 20.03.07 con convenzione. Chiedere i limiti e l’eventuale ritiro domiciliato per l’attività."
   },
   {
    "id": "montaldo-roero",
@@ -4829,7 +4910,10 @@
    "nome": "Morbegno",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Morbegno.pdf | https://www.secam.net/comuni/morbegno/",
+   "verificato": "2026-11-26",
+   "nota": "Cartone degli esercizi commerciali ritirato il mercoledì. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "morgano",
@@ -5006,7 +5090,10 @@
    "nome": "Novate Mezzola",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Novate.pdf | https://www.secam.net/comuni/novate-mezzola/ | https://www.secam.net/wp-content/uploads/2024/01/NOVATE-MEZZOLA-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "novello",
@@ -5556,7 +5643,10 @@
    "nome": "Piateda",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Piateda.pdf | https://www.secam.net/comuni/piateda/ | https://www.secam.net/wp-content/uploads/2024/05/carta-qualita-piateda.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "piedimulera",
@@ -5669,7 +5759,10 @@
    "nome": "Poggiridenti",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Poggiridenti.pdf | https://www.secam.net/comuni/poggiridenti/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "pogno",
@@ -5721,7 +5814,10 @@
    "nome": "Ponte in Valtellina",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Ponte.pdf | https://www.secam.net/comuni/ponte-in-valtellina/ | https://www.secam.net/wp-content/uploads/2024/01/PONTE-IN-VALTELLINA-CARTA-DELLA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Nel PDF alcune ammissioni aggiuntive sono riservate alle utenze domestiche. Confermare le singole frazioni per le attività. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione. Verificare imballaggi, materiali e condizioni con SECAM."
   },
   {
    "id": "pontevico",
@@ -5857,7 +5953,10 @@
    "nome": "Prata Camportaccio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Prata.pdf | https://www.secam.net/comuni/prata-camportaccio/ | https://www.secam.net/wp-content/uploads/2023/06/prata_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "pratiglione",
@@ -6053,7 +6152,10 @@
    "nome": "Rasura",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Rasura.pdf | https://www.secam.net/comuni/rasura/ | https://www.secam.net/wp-content/uploads/2024/01/RASURA-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "re",
@@ -6255,7 +6357,10 @@
    "nome": "Rogolo",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Rogolo.pdf | https://www.secam.net/comuni/rogolo/ | https://www.secam.net/wp-content/uploads/2023/08/rogolo_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "roletto",
@@ -6413,7 +6518,10 @@
    "nome": "Samolaco",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Samolaco.pdf | https://www.secam.net/comuni/samolaco/ | https://www.secam.net/wp-content/uploads/2024/01/SAMOLACO-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "samone",
@@ -6511,7 +6619,10 @@
    "nome": "San Giacomo Filippo",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/San-Giacomo.pdf | https://www.secam.net/comuni/san-giacomo-filippo/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "san-gillio",
@@ -6951,14 +7062,20 @@
    "nome": "Sondalo",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Sondalo.pdf | https://www.secam.net/comuni/sondalo/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione. SECAM indica prenotazione generale per gli ingombranti presso la piattaforma. Chiedere se può accedere l’attività."
   },
   {
    "id": "sondrio",
    "nome": "Sondrio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2026/05/Calendario-rifiuti-Sondrio-2026-con-indicazioni_ok.pdf | https://www.secam.net/comuni/sondrio/ | https://www.secam.net/wp-content/uploads/2023/12/comune-di-sondrio-carta-della-qualita.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/ | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/02/all_del_14_2025_Regolamento_del_servizio_di_igiene_urbana.pdf",
+   "verificato": "2026-11-26",
+   "nota": "L’art. 36 del regolamento include le UND a bassa produzione nei turni ordinari di carta, multimateriale, residuo e organico con dotazione conforme. Per vetro stradale e servizi dedicati valgono le condizioni comunali. Alta produzione con turni concordati con il gestore. La Carta qualità cita anche un giro organico commerciale specifico, da verificare con SECAM prima di applicare il calendario ordinario."
   },
   {
    "id": "sonico",
@@ -7003,7 +7120,10 @@
    "nome": "Spriana",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Unione-Spriana-Torre.pdf | https://www.secam.net/comuni/spriana/ | https://www.secam.net/wp-content/uploads/2023/06/unione_spriana_torre_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "strambinello",
@@ -7130,7 +7250,10 @@
    "nome": "Talamona",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Talamona.pdf | https://www.secam.net/comuni/talamona/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "tarantasca",
@@ -7157,7 +7280,10 @@
    "nome": "Teglio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Teglio.pdf | https://www.secam.net/comuni/teglio/ | https://www.secam.net/wp-content/uploads/2024/04/TEGLIO-carta-qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Cartone degli esercizi commerciali ritirato il martedì. Per gli altri servizi e le zone di Teglio centro e frazione Santa Maria verificare il profilo con SECAM. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "tignale",
@@ -7174,7 +7300,10 @@
    "nome": "Tirano",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Tirano.pdf | https://www.secam.net/comuni/tirano/ | https://www.secam.net/wp-content/uploads/2023/04/TIRANO-carta-di-qualita.pdf | https://www.comune.tirano.so.it/index.php/it/vivere/centro-di-raccolta-comunale-4 | https://www.comune.tirano.so.it/it/garbage-glossary",
+   "verificato": "2026-11-26",
+   "nota": "Carta e cartone presso gli esercizi commerciali il mercoledì, con la stessa istruzione nelle due zone del PDF. Esposizione dalle 19:00 della sera prima alle 04:00 del giorno di raccolta. Per l’organico destinato a ristoranti, mense e alberghi serve richiesta al gestore. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "toceno",
@@ -7225,7 +7354,10 @@
    "nome": "Torre di Santa Maria",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Unione-Spriana-Torre.pdf | https://www.secam.net/comuni/torre-santa-maria/ | https://www.secam.net/wp-content/uploads/2023/06/unione_spriana_torre_carta_qualita.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "torrevecchia-pia",
@@ -7259,7 +7391,10 @@
    "nome": "Traona",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Traona.pdf | https://www.secam.net/comuni/traona/",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "trarego-viggiona",
@@ -7320,7 +7455,10 @@
    "nome": "Tresivio",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Tresivio.pdf | https://www.secam.net/comuni/tresivio/ | https://www.secam.net/wp-content/uploads/2024/01/TRESIVIO-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "trevignano",
@@ -7456,7 +7594,10 @@
    "nome": "Val Masino",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Valmasino.pdf | https://www.secam.net/comuni/val-masino/ | https://www.secam.net/wp-content/uploads/2024/02/VAL-MASINO-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "val-della-torre",
@@ -7484,7 +7625,10 @@
    "nome": "Valdisotto",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Valdisotto.pdf | https://www.secam.net/comuni/valdisotto/ | https://www.secam.net/wp-content/uploads/2024/01/VALDISOTTO-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Cartone degli esercizi commerciali il martedì. L’8 dicembre è festivo nel PDF e l’eventuale recupero commerciale resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "valentano",
@@ -7498,7 +7642,10 @@
    "nome": "Valfurva",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Valfurva.pdf | https://www.secam.net/comuni/valfurva/ | https://www.secam.net/wp-content/uploads/2024/03/VALFURVA-CARTA-QUALITA.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "valgioie",
@@ -7743,7 +7890,10 @@
    "nome": "Verceia",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Verceia.pdf | https://www.secam.net/comuni/verceia/ | https://www.secam.net/wp-content/uploads/2024/03/carta-qualita-comune-di-verceia.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Controllata la scheda SECAM, il PDF locale del 2026 e la Carta qualità. Date e zone per le attività da confermare. Confermare l’accesso per la propria attività, centro competente, codici ammessi e documenti. Le fasce delle utenze domestiche possono differire. Chiedere a SECAM l’ammissibilità per l’attività, i limiti e il costo dell’eventuale ritiro su prenotazione."
   },
   {
    "id": "vercurago",
@@ -7912,7 +8062,10 @@
    "nome": "Villa di Tirano",
    "provincia": "SO",
    "gestore": "SECAM S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.secam.net/wp-content/uploads/2025/12/VillaDiTirano.pdf | https://www.secam.net/comuni/villa-di-tirano/ | https://comune.villaditirano.so.it/trasparenza-rifiuti/",
+   "verificato": "2026-11-26",
+   "nota": "Cartone degli esercizi commerciali il secondo e l’ultimo venerdì del mese. Il 25 dicembre è festivo nel PDF e il recupero commerciale resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
   },
   {
    "id": "villadossola",

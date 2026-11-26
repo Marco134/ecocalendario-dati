@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "nome": "Villa di Tirano · cartone e centro locale",
+ "fonte": "https://comune.villaditirano.so.it/trasparenza-rifiuti/ | https://www.secam.net/wp-content/uploads/2025/12/VillaDiTirano.pdf",
+ "voci": {
+  "cartone degli esercizi commerciali": {
+   "dove": "carta",
+   "nota": "Il calendario contiene un giro dedicato il secondo e ultimo venerdì del mese."
+  },
+  "ingombranti urbani e mobili smontati": {
+   "dove": "varia",
+   "nota": "Il centro in località Svandana ammette le attività a ruolo per rifiuti assimilabili. Mobili smontati per materiale."
+  },
+  "rifiuti soggetti ad autorizzazione per la piattaforma di Lovero": {
+   "dove": "varia",
+   "nota": "Il canale indicato dal Comune è riservato alle utenze domestiche. Verificare il circuito UND con il Comune."
+  }
+ }
+}

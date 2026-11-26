@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Sondrio",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Attività ad alta produzione",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2026/05/Calendario-rifiuti-Sondrio-2026-con-indicazioni_ok.pdf | https://www.secam.net/comuni/sondrio/ | https://www.secam.net/wp-content/uploads/2023/12/comune-di-sondrio-carta-della-qualita.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/ | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/02/all_del_14_2025_Regolamento_del_servizio_di_igiene_urbana.pdf",
+ "raccolte": {},
+ "note": [
+  "Alta produzione con turni concordati con il gestore. La Carta qualità cita anche un giro organico commerciale specifico, da verificare con SECAM prima di applicare il calendario ordinario. Centro intercomunale di via Ventina 20. Per le attività in regola con la TARI, serve una convenzione preventiva con SECAM a igiene.urbana@secam.net e la documentazione sulla categoria 2-bis. Ammessi solo i codici della Tabella 2, con soglia annua di gratuità calcolata in base al Kd e alla superficie iscritta."
+ ],
+ "info": "Alta produzione con turni concordati con il gestore. La Carta qualità cita anche un giro organico commerciale specifico, da verificare con SECAM prima di applicare il calendario ordinario. Centro intercomunale di via Ventina 20. Per le attività in regola con la TARI, serve una convenzione preventiva con SECAM a igiene.urbana@secam.net e la documentazione sulla categoria 2-bis. Ammessi solo i codici della Tabella 2, con soglia annua di gratuità calcolata in base al Kd e alla superficie iscritta.",
+ "info_en": "Contact SECAM to confirm the collection and recycling arrangements for your business."
+}

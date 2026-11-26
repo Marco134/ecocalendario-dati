@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "comune": "Sondrio",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Attività a bassa produzione",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2026/05/Calendario-rifiuti-Sondrio-2026-con-indicazioni_ok.pdf | https://www.secam.net/comuni/sondrio/ | https://www.secam.net/wp-content/uploads/2023/12/comune-di-sondrio-carta-della-qualita.pdf | https://www.secam.net/wp-content/uploads/2026/04/Modalita-di-conferimento-utenza-NON-domestica_REV1.pdf | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf | https://comune.sondrio.it/novita/centro-intercomunale-raccolta-rifiuti-da-oggi-e-aperto-ai-cittadini-di-cinque-comuni/ | https://comune.sondrio.it/wp-content/uploads/sites/152/2026/02/all_del_14_2025_Regolamento_del_servizio_di_igiene_urbana.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "L’art. 36 del regolamento include le UND a bassa produzione nei turni ordinari di carta, multimateriale, residuo e organico con dotazione conforme. Per vetro stradale e servizi dedicati valgono le condizioni comunali. Alta produzione con turni concordati con il gestore. La Carta qualità cita anche un giro organico commerciale specifico, da verificare con SECAM prima di applicare il calendario ordinario."
+ ],
+ "esposizione": "Esporre dopo le 22:00 della vigilia ed entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00"
+}

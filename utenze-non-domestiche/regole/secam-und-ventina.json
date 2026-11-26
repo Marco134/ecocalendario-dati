@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "nome": "Sondrio, via Ventina · materiali ammessi all’ecocentro",
+ "fonte": "https://comune.sondrio.it/wp-content/uploads/sites/152/2026/03/2026-_-REGOLAMENTO-Centro-di-Raccolta-_-rev-02-02-2026-emendato.pdf",
+ "voci": {
+  "rifiuti biodegradabili di cucine e mense": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.08. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "sfalci e altri rifiuti biodegradabili": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.02.01. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "carta e cartone": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.01. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "plastica": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.39. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "imballaggi in plastica": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 15.01.02. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "legno non pericoloso": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.38. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "imballaggi metallici": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 15.01.04. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "metallo": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.40. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "imballaggi misti": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 15.01.06. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "imballaggi in vetro": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 15.01.07. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "vetro": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.02. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "abbigliamento": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.10. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "rifiuti ingombranti": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.03.07. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "vernici, inchiostri, adesivi e resine non pericolosi": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.28. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "detergenti non pericolosi": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.01.30. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  },
+  "rifiuti urbani indifferenziati": {
+   "dove": "varia",
+   "nota": "Centro di via Ventina, EER 20.03.01. Serve convenzione per il conferimento UND. La gratuità segue il limite annuo del regolamento."
+  }
+ }
+}

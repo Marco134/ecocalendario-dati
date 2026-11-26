@@ -173,6 +173,25 @@
    ]
   },
   {
+   "id": "albosaggia",
+   "nome": "Albosaggia",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1474,
+   "lon": 9.8547,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/albosaggia/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-albosaggia.json",
+   "regole": "regole/secam-und-ventina.json"
+  },
+  {
    "id": "allerona",
    "nome": "Allerona",
    "provincia": "TR",
@@ -219,6 +238,23 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/amelia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "andalo-valtellino",
+   "nome": "Andalo Valtellino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1345,
+   "lon": 9.473,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/andalo-valtellino/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -291,6 +327,24 @@
    "ecocentri": "ecocentri/conser-vco-und-anzola-d-ossola.json"
   },
   {
+   "id": "aprica",
+   "nome": "Aprica",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1533,
+   "lon": 10.1521,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale e vetro",
+     "file": "comuni/aprica/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-aprica.json"
+  },
+  {
    "id": "arcore",
    "nome": "Arcore",
    "provincia": "MB",
@@ -312,6 +366,23 @@
      "nome": "Zona Sud",
      "file": "comuni/arcore/zona-sud.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "ardenno",
+   "nome": "Ardenno",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1728,
+   "lon": 9.6517,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/ardenno/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -859,6 +930,24 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/bene_vagienna.pdf"
   },
   {
+   "id": "berbenno-di-valtellina",
+   "nome": "Berbenno di Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1687,
+   "lon": 9.7432,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/berbenno-di-valtellina/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-cartone.json"
+  },
+  {
    "id": "bernareggio",
    "nome": "Bernareggio",
    "provincia": "MB",
@@ -1019,6 +1108,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "bianzone",
+   "nome": "Bianzone",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1839,
+   "lon": 10.1093,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/bianzone/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-cartone.json"
   },
   {
    "id": "biassono",
@@ -1196,6 +1303,24 @@
    "ecocentri": "ecocentri/conser-vco-und-borgomezzavalle.json"
   },
   {
+   "id": "bormio",
+   "nome": "Bormio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.4702,
+   "lon": 10.3756,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/bormio/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-cartone.json"
+  },
+  {
    "id": "bossico",
    "nome": "Bossico",
    "provincia": "BG",
@@ -1305,6 +1430,23 @@
    ]
   },
   {
+   "id": "buglio-in-monte",
+   "nome": "Buglio in Monte",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1834,
+   "lon": 9.6754,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/buglio-in-monte/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "burago-di-molgora",
    "nome": "Burago di Molgora",
    "provincia": "MB",
@@ -1399,6 +1541,25 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "caiolo",
+   "nome": "Caiolo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1523,
+   "lon": 9.8171,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/caiolo/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-caiolo.json",
+   "regole": "regole/secam-und-ventina.json"
   },
   {
    "id": "calasca-castiglione",
@@ -2049,6 +2210,23 @@
    ]
   },
   {
+   "id": "caspoggio",
+   "nome": "Caspoggio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2647,
+   "lon": 9.8618,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/caspoggio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "cassano-d-adda",
    "nome": "Cassano d'Adda",
    "provincia": "MI",
@@ -2222,6 +2400,25 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "castione-andevenno",
+   "nome": "Castione Andevenno",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1729,
+   "lon": 9.8003,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/castione-andevenno/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-castione-andevenno.json",
+   "regole": "regole/secam-und-ventina.json"
   },
   {
    "id": "castro",
@@ -2546,6 +2743,25 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/cherasco.pdf"
   },
   {
+   "id": "chiavenna",
+   "nome": "Chiavenna",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.321,
+   "lon": 9.4055,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/chiavenna/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-chiavenna.json",
+   "regole": "regole/secam-und-chiavenna.json"
+  },
+  {
    "id": "chiaverano",
    "nome": "Chiaverano",
    "provincia": "TO",
@@ -2570,6 +2786,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-chiaverano/"
   },
   {
+   "id": "chiesa-in-valmalenco",
+   "nome": "Chiesa in Valmalenco",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2638,
+   "lon": 9.8483,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/chiesa-in-valmalenco/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "chignolo-disola",
    "nome": "Chignolo d'Isola",
    "provincia": "BG",
@@ -2583,6 +2816,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/chignolo-disola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "chiuro",
+   "nome": "Chiuro",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1696,
+   "lon": 9.9892,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/chiuro/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -2740,6 +2990,23 @@
    "regole": "regole/cem-und-cologno-monzese.json"
   },
   {
+   "id": "colorina",
+   "nome": "Colorina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1518,
+   "lon": 9.7335,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/colorina/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "colturano",
    "nome": "Colturano",
    "provincia": "MI",
@@ -2842,6 +3109,23 @@
      "id": "turni-da-confermare",
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/correzzana/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "cosio-valtellino",
+   "nome": "Cosio Valtellino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1304,
+   "lon": 9.5499,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/cosio-valtellino/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3050,6 +3334,40 @@
    ]
   },
   {
+   "id": "dazio",
+   "nome": "Dazio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1607,
+   "lon": 9.6002,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/dazio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "delebio",
+   "nome": "Delebio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1372,
+   "lon": 9.4593,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/delebio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "dello",
    "nome": "Dello",
    "provincia": "BS",
@@ -3207,6 +3525,23 @@
    "ecocentri": "ecocentri/conser-vco-und-druogno.json"
   },
   {
+   "id": "dubino",
+   "nome": "Dubino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.153,
+   "lon": 9.4609,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/dubino/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "endine-gaiano",
    "nome": "Endine Gaiano",
    "provincia": "BG",
@@ -3237,6 +3572,23 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/fabro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "faedo-valtellino",
+   "nome": "Faedo Valtellino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1531,
+   "lon": 9.9063,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/faedo-valtellino/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3397,6 +3749,47 @@
    ]
   },
   {
+   "id": "forcola",
+   "nome": "Forcola",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1582,
+   "lon": 9.6611,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/forcola/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "forlimpopoli",
+   "nome": "Forlimpopoli",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "lat": 44.187305,
+   "lon": 12.125906,
+   "consorzio": "alea-ambiente-und",
+   "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro",
+     "file": "comuni/forlimpopoli/zona-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cintura-urbana",
+     "nome": "Cintura urbana",
+     "file": "comuni/forlimpopoli/zona-cintura-urbana.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "forli",
    "nome": "Forlì",
    "provincia": "FC",
@@ -3434,30 +3827,6 @@
      "id": "cintura-urbana-d",
      "nome": "Cintura urbana D",
      "file": "comuni/forli/zona-cintura-urbana-d.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "forlimpopoli",
-   "nome": "Forlimpopoli",
-   "provincia": "FC",
-   "gestore": "Alea Ambiente",
-   "lat": 44.187305,
-   "lon": 12.125906,
-   "consorzio": "alea-ambiente-und",
-   "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
-   "zone": [
-    {
-     "id": "centro",
-     "nome": "Centro",
-     "file": "comuni/forlimpopoli/zona-centro.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "cintura-urbana",
-     "nome": "Cintura urbana",
-     "file": "comuni/forlimpopoli/zona-cintura-urbana.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3906,6 +4275,42 @@
    ]
   },
   {
+   "id": "grosio",
+   "nome": "Grosio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2973,
+   "lon": 10.2757,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/grosio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-grosio.json",
+   "regole": "regole/secam-und-grosio.json"
+  },
+  {
+   "id": "grosotto",
+   "nome": "Grosotto",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2788,
+   "lon": 10.2571,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/grosotto/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "guarene",
    "nome": "Guarene",
    "provincia": "CN",
@@ -4269,6 +4674,23 @@
      "id": "unica",
      "nome": "Raccolta ordinaria · attività",
      "file": "comuni/la-morra/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lanzada",
+   "nome": "Lanzada",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2694,
+   "lon": 9.8739,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/lanzada/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -4698,6 +5120,23 @@
    ]
   },
   {
+   "id": "mantello",
+   "nome": "Mantello",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1529,
+   "lon": 9.488,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/mantello/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "marene",
    "nome": "Marene",
    "provincia": "CN",
@@ -4817,6 +5256,23 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-massiola.json"
+  },
+  {
+   "id": "mazzo-di-valtellina",
+   "nome": "Mazzo di Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2565,
+   "lon": 10.2548,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/mazzo-di-valtellina/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "mazze",
@@ -5207,6 +5663,25 @@
    "ecocentri": "ecocentri/garda-und-moniga-del-garda.json"
   },
   {
+   "id": "montagna-in-valtellina",
+   "nome": "Montagna in Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1782,
+   "lon": 9.9006,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/montagna-in-valtellina/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-montagna-in-valtellina.json",
+   "regole": "regole/secam-und-ventina.json"
+  },
+  {
    "id": "montaldo-roero",
    "nome": "Montaldo Roero",
    "provincia": "CN",
@@ -5504,6 +5979,24 @@
    ]
   },
   {
+   "id": "morbegno",
+   "nome": "Morbegno",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1305,
+   "lon": 9.5698,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/morbegno/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-cartone.json"
+  },
+  {
    "id": "mori",
    "nome": "Mori",
    "provincia": "TN",
@@ -5715,6 +6208,23 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-nova-milanese.json",
    "regole": "regole/gelsia-und-nova-milanese.json"
+  },
+  {
+   "id": "novate-mezzola",
+   "nome": "Novate Mezzola",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.222,
+   "lon": 9.4468,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/novate-mezzola/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "novello",
@@ -6246,6 +6756,23 @@
    ]
   },
   {
+   "id": "piateda",
+   "nome": "Piateda",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1598,
+   "lon": 9.9389,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/piateda/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "piazza-brembana",
    "nome": "Piazza Brembana",
    "provincia": "BG",
@@ -6438,6 +6965,23 @@
    ]
   },
   {
+   "id": "poggiridenti",
+   "nome": "Poggiridenti",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1759,
+   "lon": 9.9287,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/poggiridenti/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "polpenazze-del-garda",
    "nome": "Polpenazze del Garda",
    "provincia": "BS",
@@ -6469,6 +7013,23 @@
      "id": "unica",
      "nome": "Tutto il comune",
      "file": "comuni/pomarolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "ponte-in-valtellina",
+   "nome": "Ponte in Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1744,
+   "lon": 9.9775,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/ponte-in-valtellina/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -6590,6 +7151,23 @@
      "nome": "Zona unica",
      "file": "comuni/pozzuolo-martesana/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "prata-camportaccio",
+   "nome": "Prata Camportaccio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.3064,
+   "lon": 9.395,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/prata-camportaccio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -6878,6 +7456,23 @@
    ]
   },
   {
+   "id": "rasura",
+   "nome": "Rasura",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1007,
+   "lon": 9.5529,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/rasura/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "re",
    "nome": "Re",
    "provincia": "VB",
@@ -7032,6 +7627,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/rogno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "rogolo",
+   "nome": "Rogolo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1363,
+   "lon": 9.4879,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/rogolo/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -7223,6 +7835,23 @@
    "ecocentri": "ecocentri/garda-und-salo.json"
   },
   {
+   "id": "samolaco",
+   "nome": "Samolaco",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2442,
+   "lon": 9.3951,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/samolaco/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "samone",
    "nome": "Samone",
    "provincia": "TO",
@@ -7295,6 +7924,23 @@
      "id": "unica",
      "nome": "Area intensa e area vasta",
      "file": "comuni/san-gemini/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-giacomo-filippo",
+   "nome": "San Giacomo Filippo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.3371,
+   "lon": 9.3704,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/san-giacomo-filippo/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -7862,6 +8508,49 @@
    ]
   },
   {
+   "id": "sondalo",
+   "nome": "Sondalo",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.332,
+   "lon": 10.3237,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/sondalo/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "sondrio",
+   "nome": "Sondrio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.171,
+   "lon": 9.8715,
+   "zone": [
+    {
+     "id": "bassa-produzione",
+     "nome": "Attività a bassa produzione",
+     "file": "comuni/sondrio/zona-bassa-produzione.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "alta-produzione",
+     "nome": "Attività ad alta produzione",
+     "file": "comuni/sondrio/zona-alta-produzione.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-sondrio.json",
+   "regole": "regole/secam-und-sondrio.json",
+   "zone_url": "https://comune.sondrio.it/wp-content/uploads/sites/152/2026/02/all_del_14_2025_Regolamento_del_servizio_di_igiene_urbana.pdf"
+  },
+  {
    "id": "sordio",
    "nome": "Sordio",
    "provincia": "LO",
@@ -7929,6 +8618,23 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/spinone-al-lago/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "spriana",
+   "nome": "Spriana",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2201,
+   "lon": 9.8645,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/spriana/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -8083,6 +8789,23 @@
    ]
   },
   {
+   "id": "talamona",
+   "nome": "Talamona",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1375,
+   "lon": 9.6095,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/talamona/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "tavagnasco",
    "nome": "Tavagnasco",
    "provincia": "TO",
@@ -8105,6 +8828,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-tavagnasco/"
+  },
+  {
+   "id": "teglio",
+   "nome": "Teglio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1723,
+   "lon": 10.0633,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/teglio/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-cartone.json"
   },
   {
    "id": "terno-disola",
@@ -8161,6 +8902,25 @@
    "ecocentri": "ecocentri/garda-und-tignale.json"
   },
   {
+   "id": "tirano",
+   "nome": "Tirano",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2169,
+   "lon": 10.1753,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Carta e cartone commerciali",
+     "file": "comuni/tirano/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-tirano.json",
+   "regole": "regole/secam-und-tirano.json"
+  },
+  {
    "id": "toceno",
    "nome": "Toceno",
    "provincia": "VB",
@@ -8201,6 +8961,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-torre-c-se/"
+  },
+  {
+   "id": "torre-di-santa-maria",
+   "nome": "Torre di Santa Maria",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2326,
+   "lon": 9.8521,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/torre-di-santa-maria/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "torrevecchia-pia",
@@ -8252,6 +9029,23 @@
      "id": "unica",
      "nome": "Tutto il comune",
      "file": "comuni/trambileno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "traona",
+   "nome": "Traona",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1469,
+   "lon": 9.5268,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/traona/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -8472,6 +9266,23 @@
    ]
   },
   {
+   "id": "tresivio",
+   "nome": "Tresivio",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1747,
+   "lon": 9.9454,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/tresivio/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "trezzano-rosa",
    "nome": "Trezzano Rosa",
    "provincia": "MI",
@@ -8678,6 +9489,58 @@
      "nome": "Utenze economiche",
      "file": "comuni/ussaramanna/zona-unica.json",
      "valido_al": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "val-masino",
+   "nome": "Val Masino",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2111,
+   "lon": 9.6366,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/val-masino/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "valdisotto",
+   "nome": "Valdisotto",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.4317,
+   "lon": 10.3551,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/valdisotto/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "regole": "regole/secam-und-cartone.json"
+  },
+  {
+   "id": "valfurva",
+   "nome": "Valfurva",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.4631,
+   "lon": 10.4109,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/valfurva/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -8941,6 +9804,23 @@
    "ecocentri": "ecocentri/conser-vco-und-verbania.json"
   },
   {
+   "id": "verceia",
+   "nome": "Verceia",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.1966,
+   "lon": 9.4528,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/verceia/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "verduno",
    "nome": "Verduno",
    "provincia": "CN",
@@ -9076,6 +9956,25 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-vignone.json"
+  },
+  {
+   "id": "villa-di-tirano",
+   "nome": "Villa di Tirano",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2027,
+   "lon": 10.1332,
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Cartone commerciale",
+     "file": "comuni/villa-di-tirano/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/secam-und-villa-di-tirano.json",
+   "regole": "regole/secam-und-villa-di-tirano.json"
   },
   {
    "id": "villa-lagarina",
@@ -9659,6 +10558,11 @@
    "gestore": "STR – Verde Gufo (CoAbSeR)",
    "ecocentri": "ecocentri/str-coabser-und.json",
    "regole": "regole/str-coabser-und.json"
+  },
+  "secam-und": {
+   "nome": "SECAM · UND",
+   "gestore": "SECAM S.p.A.",
+   "ecocentri": "ecocentri/secam-und.json"
   }
  }
 }

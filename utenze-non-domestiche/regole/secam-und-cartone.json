@@ -1,0 +1,11 @@
+{
+ "schema": 1,
+ "nome": "SECAM · cartone commerciale",
+ "fonte": "https://www.secam.net",
+ "voci": {
+  "cartone da imballaggio pulito": {
+   "dove": "carta",
+   "nota": "Per gli esercizi commerciali, seguire il giro del cartone indicato nel calendario comunale. Separare la plastica e gli altri materiali."
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "schema": 1,
+ "comune": "Bianzone",
+ "provincia": "SO",
+ "gestore": "SECAM S.p.A.",
+ "zona": "Cartone commerciale",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.secam.net/wp-content/uploads/2025/12/Bianzone.pdf | https://www.secam.net/comuni/bianzone/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il cartone degli esercizi commerciali si ritira l’ultimo venerdì del mese. Il 25 dicembre è festivo nel PDF e il recupero commerciale resta da confermare. Confermare le altre frazioni per l’attività, il centro e le eventuali variazioni specifiche. Validità dei turni oltre dicembre 2026 da verificare."
+ ]
+}
