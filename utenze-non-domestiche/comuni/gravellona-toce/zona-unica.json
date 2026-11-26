@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "comune": "Gravellona Toce",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24351/gravellona-toce-2026.pdf | https://www.conservco.it/it/comuni-serviti/gravellona-toce/ | https://www.conservco.it/media/23051/gravellona-toce-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "vetro"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "vetro"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Ambito UND indicato nel calendario comunale.",
+  "L’avviso comunale indica il trasferimento da via Cirla a Casale Corte Cerro durante i lavori. Confermare accesso UND, materiali e orari con ConSer VCO."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ],
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60."
+}

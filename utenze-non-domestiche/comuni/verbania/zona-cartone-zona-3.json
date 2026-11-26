@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "comune": "Verbania",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Cartone · Intra alta",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://consorziorifiutivco.it/it-it/download/informativa-raccolta-imballaggi-cartone-anno-2026-utenze-non-domestiche-selezionate-815-109-20024-6e7df842ac6ccec3d98d5d720105efeb | https://consorziorifiutivco.it/it-it/rifiuti-/rifiuti/calendario",
+ "raccolte": {
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Solo il cartone delle attività selezionate nella zona indicata. Appiattire il cartone e togliere nastri e punti metallici. Consultare l’elenco delle vie e gli orari per il profilo dell’attività."
+ ]
+}

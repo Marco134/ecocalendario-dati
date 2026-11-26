@@ -65,3 +65,7 @@ Nei 56 comuni verificati organico e residuo seguono il calendario pubblico della
 ## Coinger
 
 Ventuno comuni con raccolta ordinaria delle attività fino al 31 maggio 2027. Per le dotazioni, i centri con fasce dedicate alle ditte e i limiti per singolo materiale valgono le condizioni del gestore. [Condizioni UND](https://coinger.it/per-le-aziende/)
+
+## ConSer VCO
+
+Verificati 74 comuni. I turni ordinari e quelli selezionati sono distinti. Baceno e Crodo hanno il nuovo porta a porta di organico e indifferenziato. Le schede stradali descrivono postazioni e conferme per le attività. Per ecocentri e ingombranti consultare le regole del centro competente. [Calendari e profili](https://consorziorifiutivco.it/it-it/rifiuti-/rifiuti/calendario)

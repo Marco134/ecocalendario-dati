@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "comune": "Miazzina",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/348979/miazzina-2026-rev-1.pdf | https://www.conservco.it/it/comuni-serviti/miazzina/ | https://www.conservco.it/media/23167/miazzina-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026.",
+  "Per il cartone delle attività verificare il circuito predisposto dal gestore.",
+  "Niente date porta a porta per carta e vetro nei contenitori stradali. L’organico richiede verifica in località Alpe Pala."
+ ],
+ "esposizione": "Seguire gli orari della scheda operativa, con esposizione entro le 07:00 per i ritiri indicati. Confermare le modalità in località Alpe Pala."
+}

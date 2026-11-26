@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "comune": "Pieve Vergonte",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24372/pieve-vergonte-2026.pdf | https://www.conservco.it/it/comuni-serviti/pieve-vergonte/ | https://www.conservco.it/media/23070/pieve-vergonte-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "carta",
+   "vetro"
+  ],
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Ambito UND indicato nel calendario comunale."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  },
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  }
+ ],
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60."
+}

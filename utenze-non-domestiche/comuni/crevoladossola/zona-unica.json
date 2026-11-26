@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Crevoladossola",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24344/crevoladossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/crevoladossola/ | https://www.conservco.it/media/23043/crevoladossola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Ambito UND indicato nel calendario comunale."
+ ],
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60."
+}

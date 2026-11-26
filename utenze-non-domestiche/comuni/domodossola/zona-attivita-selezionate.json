@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "comune": "Domodossola",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24346/domodossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/domodossola/ | https://www.conservco.it/media/23045/domodossola-2023-scheda-operativa-definitiva-22set23.pdf",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}

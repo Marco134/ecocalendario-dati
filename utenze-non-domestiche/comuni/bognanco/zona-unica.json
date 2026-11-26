@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "comune": "Bognanco",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24331/bognanco-2026.pdf | https://www.conservco.it/it/comuni-serviti/bognanco/ | https://www.conservco.it/media/23164/bognanco-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Ambito UND indicato nel calendario comunale."
+ ],
+ "esposizione": "Giorni di raccolta dal calendario ConSer VCO. Se nella tua via ci sono contenitori stradali, sono i giorni di svuotamento; per orari di esposizione e dubbi chiama il numero verde. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. (800 33 50 60)"
+}

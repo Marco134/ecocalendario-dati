@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "comune": "Verbania",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Cartone · Pallanza",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://consorziorifiutivco.it/it-it/download/informativa-raccolta-imballaggi-cartone-anno-2026-utenze-non-domestiche-selezionate-815-109-20024-6e7df842ac6ccec3d98d5d720105efeb | https://consorziorifiutivco.it/it-it/rifiuti-/rifiuti/calendario",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Solo il cartone delle attività selezionate nella zona indicata. Appiattire il cartone e togliere nastri e punti metallici. Consultare l’elenco delle vie e gli orari per il profilo dell’attività."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  }
+ ]
+}

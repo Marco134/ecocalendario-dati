@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "comune": "Baceno",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Porta a porta · organico e indifferenziato",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/349096/baceno_porta_a_porta_2026.pdf | https://www.conservco.it/it/news/crodo-e-baceno-dal-19-ottobre-2026-al-via-la-raccolta-porta-a-porta/ | https://www.comune.baceno.vb.it/it-it/novita/avvisi/2026/raccolta-porta-a-porta-variazione-date-consegne-400996-1-c22b1b03fd2fea6c0b371656b37ac3ce | https://www.conservco.it/it/comuni-serviti/baceno/",
+ "raccolte": {
+  "2026-11-26": [
+   "indifferenziato"
+  ],
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Dal 19 ottobre il porta a porta riguarda organico e indifferenziato. Per le altre frazioni seguire i contenitori stradali e le indicazioni del Comune."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-25",
+   "tipo": "annullato",
+   "raccolta": "organico"
+  }
+ ],
+ "esposizione": "Esponi sacchi e contenitori dopo le 21 del giorno prima ed entro le 6 del giorno di raccolta. Porta a porta solo organico e indifferenziato; carta, plastica e vetro nei contenitori stradali."
+}

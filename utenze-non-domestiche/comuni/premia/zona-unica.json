@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "comune": "Premia",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/348961/premia-2026.pdf | https://www.conservco.it/it/comuni-serviti/premia/ | https://www.conservco.it/media/23158/premia-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Ambito UND indicato nel calendario comunale."
+ ],
+ "esposizione": "Giorni di raccolta dal calendario ConSer VCO. Se nella tua via ci sono contenitori stradali, sono i giorni di svuotamento; per orari di esposizione e dubbi chiama il numero verde. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. (800 33 50 60)"
+}

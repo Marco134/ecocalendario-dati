@@ -1,0 +1,21 @@
+{
+ "schema": 1,
+ "comune": "Ceppo Morelli",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24340/ceppo-morelli-2026.pdf | https://www.conservco.it/it/comuni-serviti/ceppo-morelli/ | https://www.conservco.it/media/23161/ceppo-morelli-2023-scheda-operativa-def.pdf",
+ "raccolte": {
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}

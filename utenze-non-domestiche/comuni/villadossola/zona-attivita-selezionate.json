@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "comune": "Villadossola",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24398/villadossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/villadossola/ | https://www.conservco.it/media/23089/villadossola-2023-scheda-operativa-definitiva-22set23.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}

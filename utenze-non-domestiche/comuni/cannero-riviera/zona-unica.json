@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "comune": "Cannero Riviera",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/348978/cannero-riviera-2026-rev-1.pdf | https://www.conservco.it/it/comuni-serviti/cannero-riviera/ | https://www.conservco.it/media/23035/cannero-riviera-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Ambito UND indicato nel calendario comunale."
+ ],
+ "esposizione": "Esponi i rifiuti entro le 6 del giorno di raccolta. Gli scarti vegetali hanno giorni per frazione: vedi il calendario del gestore. Info: numero verde 800 33 50 60."
+}

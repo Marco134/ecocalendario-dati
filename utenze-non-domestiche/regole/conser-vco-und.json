@@ -1,0 +1,145 @@
+{
+ "schema": 1,
+ "nome": "ConSer VCO · materiali per le attività",
+ "fonte": "https://www.conservco.it/media/24320/antrona-schieranco-2026.pdf | https://consorziorifiutivco.it/it-it/rifiuti-/rifiuti/dizionario",
+ "tipi": {
+  "plastica": {
+   "nome": "Plastica e metallo",
+   "nome_en": "Plastic and metal packaging"
+  }
+ },
+ "voci": {
+  "bottiglie e flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare gli imballaggi e ridurne il volume."
+  },
+  "vaschette e barattoli di plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi svuotati."
+  },
+  "pellicole e film di imballaggio": {
+   "dove": "plastica",
+   "nota": "Conferire quando sono imballaggi svuotati."
+  },
+  "chips e lastre di polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "La guida include il polistirolo da imballaggio pulito. Confermare le quantità aziendali fuori standard."
+  },
+  "vaschette per alimenti": {
+   "dove": "plastica",
+   "nota": "Svuotare le vaschette di plastica prima di conferirle."
+  },
+  "cassette di plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Solo imballaggi ammessi e senza residui. Per i volumi delle attività chiedere al gestore."
+  },
+  "boccioni per erogatori d’acqua": {
+   "dove": "plastica",
+   "nota": "Vuoti e nei limiti del servizio assegnato."
+  },
+  "fusti monouso keykeg e polykeg": {
+   "dove": "plastica",
+   "nota": "Vuoti. Per i fusti dell’attività seguire la dotazione e le quantità ammesse."
+  },
+  "buste e reti per frutta e verdura": {
+   "dove": "plastica",
+   "nota": "Svuotare gli imballaggi."
+  },
+  "lattine e scatolette": {
+   "dove": "plastica",
+   "nota": "Gli imballaggi metallici vuoti si raccolgono con la plastica."
+  },
+  "tappi a corona": {
+   "dove": "plastica",
+   "nota": "Staccare i tappi dalle bottiglie in vetro."
+  },
+  "carta stagnola pulita": {
+   "dove": "plastica",
+   "nota": "Conferire come imballaggio metallico senza residui."
+  },
+  "barattoli di vernici, solventi e colle": {
+   "dove": "varia",
+   "nota": "Chiedere il circuito autorizzato per il materiale dell’attività, anche se il contenitore è vuoto."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Svuotare e togliere tappi, coperchi e parti separabili."
+  },
+  "bicchieri di cristallo": {
+   "dove": "varia",
+   "nota": "Il vetro degli imballaggi esclude il cristallo. Verificare il canale dell’attività."
+  },
+  "specchi e lastre di vetro": {
+   "dove": "varia",
+   "nota": "Il vetro degli imballaggi esclude lastre e specchi. Verificare il centro autorizzato."
+  },
+  "ceramica e porcellana": {
+   "dove": "varia",
+   "nota": "Escluse dagli imballaggi in vetro. Verificare destinazione e quantitativi per l’attività."
+  },
+  "cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Piegare e rimuovere le parti estranee. Nei comuni con giro selezionato verificare il turno dell’attività."
+  },
+  "giornali, riviste e fogli": {
+   "dove": "carta",
+   "nota": "Seguire la raccolta di carta assegnata all’attività."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Conferire i cartoni per bevande con carta e cartone, dopo averli svuotati e aver tolto il tappo."
+  },
+  "scarti di cucina e alimenti scaduti": {
+   "dove": "organico",
+   "nota": "Conferire nel sacchetto compostabile, senza imballaggi."
+  },
+  "fondi e cialde compostabili di caffè": {
+   "dove": "organico",
+   "nota": "Le cialde devono essere compostabili. Chiedere il circuito applicabile alle altre cialde."
+  },
+  "tovaglioli non colorati": {
+   "dove": "organico",
+   "nota": "Seguire il ritiro dell’organico per la dotazione dell’attività."
+  },
+  "gusci di uova": {
+   "dove": "organico",
+   "nota": "Conferire con gli scarti di cucina."
+  },
+  "bioplastiche compostabili": {
+   "dove": "organico",
+   "nota": "Verificare l’indicazione di compostabilità."
+  },
+  "rifiuto indifferenziato": {
+   "dove": "indifferenziato",
+   "nota": "Usare sacco e contenitore previsti, per i rifiuti urbani non recuperabili."
+  },
+  "sfalci e potature": {
+   "dove": "varia",
+   "nota": "Verificare le regole stagionali, le quantità e il canale per l’attività."
+  },
+  "ingombranti delle attività": {
+   "dove": "varia",
+   "nota": "Chiedere il centro abilitato o l’eventuale ritiro a domicilio."
+  },
+  "raee": {
+   "dove": "varia",
+   "nota": "Consegnare integri nei circuiti abilitati. Per le attività verificare tipologia e ammissibilità presso il centro."
+  },
+  "pile e accumulatori": {
+   "dove": "varia",
+   "nota": "Consultare il canale autorizzato per la provenienza aziendale."
+  },
+  "farmaci scaduti": {
+   "dove": "varia",
+   "nota": "Chiedere il circuito per il rifiuto dell’attività."
+  },
+  "oli alimentari e minerali": {
+   "dove": "varia",
+   "nota": "Consultare il centro e il circuito autorizzato per l’origine e il quantitativo."
+  },
+  "siringhe e rifiuti sanitari": {
+   "dove": "varia",
+   "nota": "Verificare il canale autorizzato per la provenienza e il tipo di rifiuto."
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "comune": "Pallanzeno",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24370/pallanzeno-2026.pdf | https://www.conservco.it/it/comuni-serviti/pallanzeno/ | https://www.conservco.it/media/23068/pallanzeno-2023-scheda-operativa-definitiva-22set23.pdf",
+ "raccolte": {
+  "2026-11-27": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}

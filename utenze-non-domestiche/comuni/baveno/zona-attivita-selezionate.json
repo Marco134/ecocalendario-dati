@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "comune": "Baveno",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/24425/baveno-2026.pdf | https://www.conservco.it/it/comuni-serviti/baveno/ | https://www.conservco.it/media/23227/2023-06-30-baveno-scheda-operativa-def-rev-1.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}

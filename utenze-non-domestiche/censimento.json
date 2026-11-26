@@ -273,14 +273,20 @@
    "nome": "Antrona Schieranco",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24320/antrona-schieranco-2026.pdf | https://www.conservco.it/it/comuni-serviti/antrona-schieranco/ | https://www.conservco.it/media/23176/antrona-schieranco-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24320/antrona-schieranco-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "anzola-d-ossola",
    "nome": "Anzola d'Ossola",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24321/anzola-d-ossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/anzola-dossola/ | https://www.conservco.it/media/23020/anzola-dossola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24321/anzola-d-ossola-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "aprica",
@@ -325,7 +331,10 @@
    "nome": "Arizzano",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24322/arizzano-2026.pdf | https://www.conservco.it/it/comuni-serviti/arizzano/ | https://www.conservco.it/media/23021/arizzano-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24322/arizzano-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "arlena-di-castro",
@@ -346,7 +355,10 @@
    "nome": "Arola",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24323/arola-2026.pdf | https://www.conservco.it/it/comuni-serviti/arola/ | https://www.conservco.it/media/23022/arola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24323/arola-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "arona",
@@ -386,7 +398,10 @@
    "nome": "Aurano",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24324/aurano-2026.pdf | https://www.conservco.it/it/comuni-serviti/aurano/ | https://www.conservco.it/media/23172/aurano-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24324/aurano-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "avigliana",
@@ -439,7 +454,10 @@
    "nome": "Baceno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/349096/baceno_porta_a_porta_2026.pdf | https://www.conservco.it/it/news/crodo-e-baceno-dal-19-ottobre-2026-al-via-la-raccolta-porta-a-porta/ | https://www.comune.baceno.vb.it/it-it/novita/avvisi/2026/raccolta-porta-a-porta-variazione-date-consegne-400996-1-c22b1b03fd2fea6c0b371656b37ac3ce | https://www.conservco.it/it/comuni-serviti/baceno/ | https://www.conservco.it/media/24325/baceno-2026.pdf | https://www.conservco.it/media/349096/baceno_porta_a_porta_2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Dal 19 ottobre il porta a porta riguarda organico e indifferenziato. Per le altre frazioni seguire i contenitori stradali e le indicazioni del Comune. La colonna dei giri selezionati è archiviata nel PDF stradale. Confermare con il gestore l’eventuale permanenza dopo l’avvio del nuovo servizio. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "bagnoregio",
@@ -521,7 +539,10 @@
    "nome": "Bannio Anzino",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24326/bannio-anzino-2026.pdf | https://www.conservco.it/it/comuni-serviti/bannio-anzino/ | https://www.conservco.it/media/23025/bannio-anzino-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24326/bannio-anzino-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "barbania",
@@ -635,14 +656,20 @@
    "nome": "Baveno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24425/baveno-2026.pdf | https://www.conservco.it/it/comuni-serviti/baveno/ | https://www.conservco.it/media/23227/2023-06-30-baveno-scheda-operativa-def-rev-1.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24425/baveno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "bee",
    "nome": "Bee",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24328/bee-2026.pdf | https://www.conservco.it/it/comuni-serviti/bee/ | https://www.conservco.it/media/23027/bee-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24328/bee-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "beinasco",
@@ -666,7 +693,10 @@
    "nome": "Belgirate",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24441/belgirate-2026.pdf | https://www.conservco.it/it/comuni-serviti/belgirate/ | https://www.conservco.it/media/23028/belgirate-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24441/belgirate-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "bellano",
@@ -761,7 +791,10 @@
    "nome": "Beura-Cardezza",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24330/beura-cardezza.pdf | https://www.conservco.it/it/comuni-serviti/beura-cardezza/ | https://www.conservco.it/media/23029/beura-cardezza-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24330/beura-cardezza.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "bianzone",
@@ -823,7 +856,10 @@
    "nome": "Bognanco",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24331/bognanco-2026.pdf | https://www.conservco.it/it/comuni-serviti/bognanco/ | https://www.conservco.it/media/23164/bognanco-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24331/bognanco-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "bogogno",
@@ -936,7 +972,10 @@
    "nome": "Borgomezzavalle",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24332/borgomezzavalle-2026.pdf | https://www.conservco.it/it/comuni-serviti/borgomezzavalle/ | https://www.conservco.it/media/23153/borgomezzavalle-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24332/borgomezzavalle-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "borgone-susa",
@@ -1092,7 +1131,10 @@
    "nome": "Brovello-Carpugnino",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24333/brovello-carpugnino-2026.pdf | https://www.conservco.it/it/comuni-serviti/brovello-carpugnino/ | https://www.conservco.it/media/23032/brovello-carpugnino-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24333/brovello-carpugnino-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "brozolo",
@@ -1253,7 +1295,10 @@
    "nome": "Calasca-Castiglione",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24334/calasca-castiglione-2026.pdf | https://www.conservco.it/it/comuni-serviti/calasca-castiglione/ | https://www.conservco.it/media/23160/calasca-castiglione-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24334/calasca-castiglione-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "calcinato",
@@ -1327,7 +1372,10 @@
    "nome": "Cambiasca",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24435/cambiasca-2026.pdf | https://www.conservco.it/it/comuni-serviti/cambiasca/ | https://www.conservco.it/media/23034/cambiasca-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24435/cambiasca-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Per il cartone delle attività verificare il circuito predisposto dal gestore. Il vetro è indicato nei cassonetti stradali. I giorni in app riguardano le altre frazioni del porta a porta ordinario."
   },
   {
    "id": "camparada",
@@ -1396,14 +1444,20 @@
    "nome": "Cannero Riviera",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348978/cannero-riviera-2026-rev-1.pdf | https://www.conservco.it/it/comuni-serviti/cannero-riviera/ | https://www.conservco.it/media/23035/cannero-riviera-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348978/cannero-riviera-2026-rev-1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "cannobio",
    "nome": "Cannobio",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24337/cannobio-2026.pdf | https://www.conservco.it/it/comuni-serviti/cannobio/ | https://www.conservco.it/media/23036/cannobio-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24337/cannobio-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "cantalupa",
@@ -1448,7 +1502,10 @@
    "nome": "Caprezzo",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24338/caprezzo-2026.pdf | https://www.conservco.it/it/comuni-serviti/caprezzo/ | https://www.conservco.it/media/23177/caprezzo-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24338/caprezzo-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "caprie",
@@ -1591,7 +1648,10 @@
    "nome": "Casale Corte Cerro",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24339/casale-corte-cerro-2026.pdf | https://www.conservco.it/it/comuni-serviti/casale-corte-cerro/ | https://www.conservco.it/media/23038/casale-corte-cerro-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24339/casale-corte-cerro-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "casale-litta",
@@ -2050,7 +2110,10 @@
    "nome": "Ceppo Morelli",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24340/ceppo-morelli-2026.pdf | https://www.conservco.it/it/comuni-serviti/ceppo-morelli/ | https://www.conservco.it/media/23161/ceppo-morelli-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24340/ceppo-morelli-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "cercenasco",
@@ -2166,7 +2229,10 @@
    "nome": "Cesara",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24341/cesara-2026.pdf | https://www.conservco.it/it/comuni-serviti/cesara/ | https://www.conservco.it/media/23040/cesara-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24341/cesara-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "ceto",
@@ -2575,7 +2641,10 @@
    "nome": "Cossogno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348977/cossogno-2026-rev1.pdf | https://www.conservco.it/it/comuni-serviti/cossogno/ | https://www.conservco.it/media/23041/cossogno-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348977/cossogno-2026-rev1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "costa-masnaga",
@@ -2599,7 +2668,10 @@
    "nome": "Craveggia",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24343/craveggia-2026.pdf | https://www.conservco.it/it/comuni-serviti/craveggia/ | https://www.conservco.it/media/23042/craveggia-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24343/craveggia-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "cremella",
@@ -2633,7 +2705,10 @@
    "nome": "Crevoladossola",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24344/crevoladossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/crevoladossola/ | https://www.conservco.it/media/23043/crevoladossola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24344/crevoladossola-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "crocetta-del-montello",
@@ -2647,7 +2722,10 @@
    "nome": "Crodo",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/349095/crodo_porta-_a_porta-_2026.pdf | https://www.conservco.it/it/news/crodo-e-baceno-dal-19-ottobre-2026-al-via-la-raccolta-porta-a-porta/ | https://www.comune.crodo.vb.it/it-it/novita/avvisi/2026/ambiente-verde-e-rifiuti/aggiornamento-distribuzione-di-kit-per-la-raccolta-differenziata-anche-per-utenze-non-domestiche-401613-1-4d816e204158fae12cf7b67064f41408 | https://www.conservco.it/it/comuni-serviti/crodo/ | https://comune.crodo.vb.it/it-it/download/crodo-calendario-raccolta-anno-2027-489679-4-197-cd19be3814fd6dc56f57935aca5f8c13 | https://www.conservco.it/media/24345/crodo-2026.pdf | https://www.conservco.it/media/349095/crodo_porta-_a_porta-_2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Dal 19 ottobre il porta a porta riguarda organico e indifferenziato. Per le altre frazioni seguire i contenitori stradali e le indicazioni del Comune. Il Comune ha pubblicato il calendario 2027. La colonna dei giri selezionati è archiviata nel PDF stradale. Confermare con il gestore l’eventuale permanenza dopo l’avvio del nuovo servizio. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "crosio-della-valle",
@@ -2801,7 +2879,10 @@
    "nome": "Domodossola",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24346/domodossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/domodossola/ | https://www.conservco.it/media/23045/domodossola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24346/domodossola-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "dorio",
@@ -2849,7 +2930,10 @@
    "nome": "Druogno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24347/druogno-2026.pdf | https://www.conservco.it/it/comuni-serviti/druogno/ | https://www.conservco.it/media/23046/druogno-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24347/druogno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "dubino",
@@ -3050,7 +3134,10 @@
    "nome": "Formazza",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348962/formazza-2026.pdf | https://www.conservco.it/it/comuni-serviti/formazza/ | https://www.conservco.it/media/23157/formazza-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348962/formazza-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "forno-canavese",
@@ -3184,7 +3271,10 @@
    "nome": "Germagno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24349/germagno-2026.pdf | https://www.conservco.it/it/comuni-serviti/germagno/ | https://www.conservco.it/media/23048/germagno-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24349/germagno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Il porta a porta vale per le vie servite. Nelle località non raggiungibili si usano i contenitori indicati dal gestore."
   },
   {
    "id": "germignaga",
@@ -3215,7 +3305,10 @@
    "nome": "Ghiffa",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24408/ghiffa-2026.pdf | https://www.conservco.it/it/comuni-serviti/ghiffa/ | https://www.conservco.it/media/23049/ghiffa-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24408/ghiffa-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "giaglione",
@@ -3250,7 +3343,10 @@
    "nome": "Gignese",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348971/gignese-2026-rev1.pdf | https://www.conservco.it/it/comuni-serviti/gignese/ | https://www.conservco.it/media/23050/gignese-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348971/gignese-2026-rev1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "giove",
@@ -3321,7 +3417,10 @@
    "nome": "Gravellona Toce",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24351/gravellona-toce-2026.pdf | https://www.conservco.it/it/comuni-serviti/gravellona-toce/ | https://www.conservco.it/media/23051/gravellona-toce-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24351/gravellona-toce-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. L’avviso comunale indica il trasferimento da via Cirla a Casale Corte Cerro durante i lavori. Confermare accesso UND, materiali e orari con ConSer VCO."
   },
   {
    "id": "gravere",
@@ -3418,7 +3517,10 @@
    "nome": "Gurro",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24445/gurro-2026.pdf | https://www.conservco.it/it/comuni-serviti/gurro/ | https://www.conservco.it/media/23168/gurro-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24445/gurro-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "imbersago",
@@ -3452,7 +3554,10 @@
    "nome": "Intragna",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24353/intragna-2026.pdf | https://www.conservco.it/it/comuni-serviti/intragna/ | https://www.conservco.it/media/23165/intragna-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24353/intragna-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "introbio",
@@ -3760,7 +3865,10 @@
    "nome": "Loreglia",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24354/loreglia-2026.pdf | https://www.conservco.it/it/comuni-serviti/loreglia/ | https://www.conservco.it/media/23054/loreglia-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://comune.loreglia.vb.it/it-it/download/calendario-raccolta-rifiuti-2027-496440-4-209-becbbfd2f067c17cb81c825912aa0c48 | https://www.conservco.it/media/24354/loreglia-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Il Comune ha pubblicato il calendario 2027. Il porta a porta vale per le vie servite. Nelle località non raggiungibili si usano i contenitori indicati dal gestore. Il Comune ha pubblicato l’edizione 2027."
   },
   {
    "id": "loria",
@@ -3865,14 +3973,20 @@
    "nome": "Macugnaga",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24355/macugnaga-2026.pdf | https://www.conservco.it/it/comuni-serviti/macugnaga/ | https://www.conservco.it/media/23162/macugnaga-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24355/macugnaga-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "madonna-del-sasso",
    "nome": "Madonna del Sasso",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24356/madonna-del-sasso-2026.pdf | https://www.conservco.it/it/comuni-serviti/madonna-del-sasso/ | https://www.conservco.it/media/23056/madonna-del-sasso-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24356/madonna-del-sasso-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. In località Piana dei Monti sono previste modalità specifiche per residuo, carta, vetro e multimateriale. Verificare la via prima di usare i turni ordinari."
   },
   {
    "id": "magasa",
@@ -3920,7 +4034,10 @@
    "nome": "Malesco",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24357/malesco-2026.pdf | https://www.conservco.it/it/comuni-serviti/malesco/ | https://www.conservco.it/media/23057/malesco-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24357/malesco-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "malgrate",
@@ -4077,7 +4194,10 @@
    "nome": "Masera",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24358/masera-2026.pdf | https://www.conservco.it/it/comuni-serviti/masera/ | https://www.conservco.it/media/23058/masera-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24358/masera-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "maserada-sul-piave",
@@ -4115,7 +4235,10 @@
    "nome": "Massiola",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24359/massiola-2026.pdf | https://www.conservco.it/it/comuni-serviti/massiola/ | https://www.conservco.it/media/23059/massiola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24359/massiola-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Il porta a porta vale per le vie servite. Nelle località non raggiungibili si usano i contenitori indicati dal gestore."
   },
   {
    "id": "mathi",
@@ -4217,7 +4340,10 @@
    "nome": "Mergozzo",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24360/mergozzo-2026.pdf | https://www.conservco.it/it/comuni-serviti/mergozzo/ | https://www.conservco.it/media/23060/mergozzo-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24360/mergozzo-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "merlino",
@@ -4265,7 +4391,10 @@
    "nome": "Miazzina",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348979/miazzina-2026-rev-1.pdf | https://www.conservco.it/it/comuni-serviti/miazzina/ | https://www.conservco.it/media/23167/miazzina-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348979/miazzina-2026-rev-1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Per il cartone delle attività verificare il circuito predisposto dal gestore. Niente date porta a porta per carta e vetro nei contenitori stradali. L’organico richiede verifica in località Alpe Pala."
   },
   {
    "id": "misinto",
@@ -4491,7 +4620,10 @@
    "nome": "Montecrestese",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348946/montecrestese-2026.pdf | https://www.conservco.it/it/comuni-serviti/montecrestese/ | https://www.conservco.it/media/23063/montecrestese-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348946/montecrestese-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "montegabbione",
@@ -4536,7 +4668,10 @@
    "nome": "Montescheno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24363/montescheno-2026.pdf | https://www.conservco.it/it/comuni-serviti/montescheno/ | https://www.conservco.it/media/23154/montescheno-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24363/montescheno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. La scheda operativa include le utenze di ogni categoria. Verificare la dotazione e il punto di conferimento nei nuclei serviti."
   },
   {
    "id": "monteu-roero",
@@ -4742,7 +4877,10 @@
    "nome": "Nonio",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24364/nonio-2026.pdf | https://www.conservco.it/it/comuni-serviti/nonio/ | https://www.conservco.it/media/23065/nonio-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24364/nonio-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "nova-milanese",
@@ -4790,7 +4928,10 @@
    "nome": "Oggebbio",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24365/oggebbio-2026.pdf | https://www.conservco.it/it/comuni-serviti/oggebbio/ | https://www.conservco.it/media/23141/oggebbio-2023-scheda-operativa.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24365/oggebbio-2026.pdf | https://www.conservco.it/media/24366/oggebbio-frazioni-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Manegra e Colle hanno un PDF distinto. L’applicabilità UND delle frazioni va confermata. La scheda per le frazioni richiede conferma UND."
   },
   {
    "id": "oggiona-con-santo-stefano",
@@ -4858,7 +4999,10 @@
    "nome": "Omegna",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24367/omegna-2026.pdf | https://www.conservco.it/it/comuni-serviti/omegna/ | https://www.conservco.it/media/23066/omegna-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24367/omegna-2026.pdf | https://www.conservco.it/media/24368/omegna-vetta-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Gli orari e la copertura UND della Vetta Mottarone vanno verificati separatamente. La scheda per le frazioni richiede conferma UND."
   },
   {
    "id": "onano",
@@ -4913,7 +5057,10 @@
    "nome": "Ornavasso",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24369/ornavasso-2026.pdf | https://www.conservco.it/it/comuni-serviti/ornavasso/ | https://www.conservco.it/media/23067/ornavasso-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24369/ornavasso-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "orta-san-giulio",
@@ -5038,7 +5185,10 @@
    "nome": "Pallanzeno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24370/pallanzeno-2026.pdf | https://www.conservco.it/it/comuni-serviti/pallanzeno/ | https://www.conservco.it/media/23068/pallanzeno-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24370/pallanzeno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "pancalieri",
@@ -5308,14 +5458,20 @@
    "nome": "Piedimulera",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24371/piedimulera-2026.pdf | https://www.conservco.it/it/comuni-serviti/piedimulera/ | https://www.conservco.it/media/23069/piedimulera-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24371/piedimulera-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "pieve-vergonte",
    "nome": "Pieve Vergonte",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24372/pieve-vergonte-2026.pdf | https://www.conservco.it/it/comuni-serviti/pieve-vergonte/ | https://www.conservco.it/media/23070/pieve-vergonte-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24372/pieve-vergonte-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "pieve-del-grappa",
@@ -5628,21 +5784,30 @@
    "nome": "Premeno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24373/premeno-2026.pdf | https://www.conservco.it/it/comuni-serviti/premeno/ | https://www.conservco.it/media/23071/premeno-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24373/premeno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "premia",
    "nome": "Premia",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348961/premia-2026.pdf | https://www.conservco.it/it/comuni-serviti/premia/ | https://www.conservco.it/media/23158/premia-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348961/premia-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "premosello-chiovenda",
    "nome": "Premosello-Chiovenda",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/348972/premosello-chiovenda-2026-rev1.pdf | https://www.conservco.it/it/comuni-serviti/premosello-chiovenda/ | https://www.conservco.it/media/23073/premosello-chiovenda-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/348972/premosello-chiovenda-2026-rev1.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "presezzo",
@@ -5720,14 +5885,20 @@
    "nome": "Quarna Sopra",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24376/quarna-sopra-2026.pdf | https://www.conservco.it/it/comuni-serviti/quarna-sopra/ | https://www.conservco.it/media/23074/quarna-sopra-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24376/quarna-sopra-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "quarna-sotto",
    "nome": "Quarna Sotto",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24377/quarna-sotto-2026.pdf | https://www.conservco.it/it/comuni-serviti/quarna-sotto/ | https://www.conservco.it/media/23075/quarna-sotto-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24377/quarna-sotto-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "quassolo",
@@ -5775,7 +5946,10 @@
    "nome": "Re",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24378/re-2026.pdf | https://www.conservco.it/it/comuni-serviti/re/ | https://www.conservco.it/media/23076/re-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24378/re-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "reano",
@@ -6137,7 +6311,10 @@
    "nome": "San Bernardino Verbano",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24436/san-bernardino-verbano-2026.pdf | https://www.conservco.it/it/comuni-serviti/san-bernardino-verbano/ | https://www.conservco.it/media/23077/san-bernardino-verbano-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24436/san-bernardino-verbano-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Il porta a porta coesiste con conferimenti in isole ecologiche per le utenze ammesse. Verificare il sistema associato al proprio indirizzo."
   },
   {
    "id": "san-biagio-di-callalta",
@@ -6401,7 +6578,10 @@
    "nome": "Santa Maria Maggiore",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24380/santa-maria-maggiore-2026.pdf | https://www.conservco.it/it/comuni-serviti/santa-maria-maggiore/ | https://www.conservco.it/media/23143/santa-maria-m-2023-scheda-operativa.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24380/santa-maria-maggiore-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "santena",
@@ -6703,7 +6883,10 @@
    "nome": "Stresa",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24381/stresa-2026.pdf | https://www.conservco.it/it/comuni-serviti/stresa/ | https://www.conservco.it/media/23078/stresa-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24381/stresa-2026.pdf | https://www.conservco.it/media/24401/stresa-isole-e-vetta.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Isola Bella, Isola Pescatori e Vetta Mottarone hanno documenti per località. Confermare l’ambito UND delle frazioni e i recapiti per le isole. La scheda per le frazioni richiede conferma UND."
   },
   {
    "id": "stroncone",
@@ -6851,7 +7034,10 @@
    "nome": "Toceno",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24385/toceno-2026.pdf | https://www.conservco.it/it/comuni-serviti/toceno/ | https://www.conservco.it/media/23170/toceno-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24385/toceno-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "torrazza-piemonte",
@@ -6933,14 +7119,20 @@
    "nome": "Trarego Viggiona",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24386/trarego-viggiona-2026.pdf | https://www.conservco.it/it/comuni-serviti/trarego-viggiona/ | https://www.conservco.it/media/23169/trarego-viggiona-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24386/trarego-viggiona-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "trasquera",
    "nome": "Trasquera",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24387/trasquera-2026.pdf | https://www.conservco.it/it/comuni-serviti/trasquera/ | https://www.conservco.it/media/23171/trasquera-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24387/trasquera-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "traversella",
@@ -7053,7 +7245,10 @@
    "nome": "Trontano",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24458/trontano-2026.pdf | https://www.conservco.it/it/comuni-serviti/trontano/ | https://www.conservco.it/media/23082/trontano-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24458/trontano-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "tronzano-lago-maggiore",
@@ -7181,7 +7376,10 @@
    "nome": "Valle Cannobina",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24446/valle-cannobina-2026.pdf | https://www.conservco.it/it/comuni-serviti/valle-cannobina/ | https://www.conservco.it/media/23173/valle-cannobina-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24446/valle-cannobina-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "valle-di-cadore",
@@ -7233,7 +7431,10 @@
    "nome": "Valstrona",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24390/valstrona-2026.pdf | https://www.conservco.it/it/comuni-serviti/valstrona/ | https://www.conservco.it/media/23084/valstrona-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.comune.valstrona.vb.it/en-us/download/calendario-raccolta-rifiuti-2027-496439-4-240-9b376e9fe7122f41c16fc323fba8c620 | https://www.conservco.it/media/24390/valstrona-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Il Comune ha pubblicato il calendario 2027. Il porta a porta vale per le vie servite. Nelle località non raggiungibili si usano i contenitori indicati dal gestore. Il Comune ha pubblicato l’edizione 2027."
   },
   {
    "id": "valvarrone",
@@ -7260,7 +7461,10 @@
    "nome": "Vanzone con San Carlo",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24391/vanzone-san-carlo-2026.pdf | https://www.conservco.it/it/comuni-serviti/vanzone-con-san-carlo/ | https://www.conservco.it/media/23163/vanzone-sc-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24391/vanzone-san-carlo-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "vaprio-d-adda",
@@ -7301,7 +7505,10 @@
    "nome": "Varzo",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24392/varzo-2026.pdf | https://www.conservco.it/it/comuni-serviti/varzo/ | https://www.conservco.it/media/23174/varzo-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24392/varzo-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "vasanello",
@@ -7373,7 +7580,10 @@
    "nome": "Verbania",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24396/verbania-ut_domestiche-2026.pdf | https://www.conservco.it/it/comuni-serviti/verbania/ | https://www.conservco.it/media/23087/verbania-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24396/verbania-ut_domestiche-2026.pdf | https://www.conservco.it/media/24402/verbania-und.pdf | https://consorziorifiutivco.it/it-it/rifiuti-/rifiuti/calendario",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività. Tre profili selezionati e cinque zone cartone aggiunti con le condizioni del Consorzio."
   },
   {
    "id": "verceia",
@@ -7509,7 +7719,10 @@
    "nome": "Vignone",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24397/vignone-2026.pdf | https://www.conservco.it/it/comuni-serviti/vignone/ | https://www.conservco.it/media/23088/vignone-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24397/vignone-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa include le attività nella raccolta comunale. Le date provengono dal PDF 2026. Per il cartone delle attività verificare il circuito predisposto dal gestore. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "vigone",
@@ -7547,7 +7760,10 @@
    "nome": "Villadossola",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24398/villadossola-2026.pdf | https://www.conservco.it/it/comuni-serviti/villadossola/ | https://www.conservco.it/media/23089/villadossola-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24398/villadossola-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "villafranca-piemonte",
@@ -7633,7 +7849,10 @@
    "nome": "Villette",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.conservco.it/media/24399/villette-2026.pdf | https://www.conservco.it/it/comuni-serviti/villette/ | https://www.conservco.it/media/23175/villette-2023-scheda-operativa-def.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24399/villette-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "La scheda operativa indica raccolta con contenitori stradali. Verificare postazioni, frazioni ammesse e servizi su richiesta per l’attività con ConSer VCO. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "villorba",
@@ -7708,7 +7927,10 @@
    "nome": "Vogogna",
    "provincia": "VB",
    "gestore": "ConSer VCO",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.conservco.it/media/24400/vogogna-2026.pdf | https://www.conservco.it/it/comuni-serviti/vogogna/ | https://www.conservco.it/media/23091/vogogna-2023-scheda-operativa-definitiva-22set23.pdf | https://www.conservco.it/media/23234/carta-della-qualit%C3%A0-del-servizio-di-raccolta-trasporto-e-spazzamento-conser-vco-ed2-rev0.pdf | https://www.conservco.it/media/24400/vogogna-2026.pdf",
+   "verificato": "2026-11-26",
+   "nota": "Ambito UND indicato nel calendario comunale. Verificare dotazioni, orari e giri aggiuntivi previsti per l’attività."
   },
   {
    "id": "volpago-del-montello",

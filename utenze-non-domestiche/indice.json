@@ -230,6 +230,49 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-andrate/"
   },
   {
+   "id": "antrona-schieranco",
+   "nome": "Antrona Schieranco",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0614,
+   "lon": 8.1151,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/antrona-schieranco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-antrona-schieranco.json"
+  },
+  {
+   "id": "anzola-d-ossola",
+   "nome": "Anzola d'Ossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9895,
+   "lon": 8.3475,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/anzola-d-ossola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/anzola-d-ossola/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/anzola-dossola/",
+   "ecocentri": "ecocentri/conser-vco-und-anzola-d-ossola.json"
+  },
+  {
    "id": "arcore",
    "nome": "Arcore",
    "provincia": "MB",
@@ -255,6 +298,49 @@
    ]
   },
   {
+   "id": "arizzano",
+   "nome": "Arizzano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9556,
+   "lon": 8.5831,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/arizzano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/arizzano/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/arizzano/",
+   "ecocentri": "ecocentri/conser-vco-und-arizzano.json"
+  },
+  {
+   "id": "arola",
+   "nome": "Arola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8095,
+   "lon": 8.3588,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/arola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-arola.json"
+  },
+  {
    "id": "attigliano",
    "nome": "Attigliano",
    "provincia": "TR",
@@ -270,6 +356,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "aurano",
+   "nome": "Aurano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9987,
+   "lon": 8.588,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/aurano/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-aurano.json"
   },
   {
    "id": "avigliano-umbro",
@@ -348,6 +452,24 @@
    ]
   },
   {
+   "id": "baceno",
+   "nome": "Baceno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.2615,
+   "lon": 8.3195,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Porta a porta · organico e indifferenziato",
+     "file": "comuni/baceno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-baceno.json"
+  },
+  {
    "id": "bairo",
    "nome": "Bairo",
    "provincia": "TO",
@@ -418,6 +540,31 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-banchette/"
+  },
+  {
+   "id": "bannio-anzino",
+   "nome": "Bannio Anzino",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9845,
+   "lon": 8.1462,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/bannio-anzino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/bannio-anzino/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/bannio-anzino/",
+   "ecocentri": "ecocentri/conser-vco-und-bannio-anzino.json"
   },
   {
    "id": "barlassina",
@@ -513,6 +660,74 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "baveno",
+   "nome": "Baveno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9089,
+   "lon": 8.5048,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/baveno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/baveno/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/baveno/",
+   "ecocentri": "ecocentri/conser-vco-und-baveno.json"
+  },
+  {
+   "id": "bee",
+   "nome": "Bee",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9627,
+   "lon": 8.5802,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/bee/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/bee/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/bee/",
+   "ecocentri": "ecocentri/conser-vco-und-bee.json"
+  },
+  {
+   "id": "belgirate",
+   "nome": "Belgirate",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8384,
+   "lon": 8.5716,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/belgirate/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-belgirate.json"
   },
   {
    "id": "bellinzago-lombardo",
@@ -670,6 +885,31 @@
    ]
   },
   {
+   "id": "beura-cardezza",
+   "nome": "Beura-Cardezza",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0789,
+   "lon": 8.2993,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/beura-cardezza/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/beura-cardezza/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/beura-cardezza/",
+   "ecocentri": "ecocentri/conser-vco-und-beura-cardezza.json"
+  },
+  {
    "id": "bianzano",
    "nome": "Bianzano",
    "provincia": "BG",
@@ -735,6 +975,24 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "bognanco",
+   "nome": "Bognanco",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1228,
+   "lon": 8.2064,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/bognanco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-bognanco.json"
   },
   {
    "id": "bollengo",
@@ -827,6 +1085,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-borgomasino/"
   },
   {
+   "id": "borgomezzavalle",
+   "nome": "Borgomezzavalle",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.05,
+   "lon": 8.193,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/borgomezzavalle/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-borgomezzavalle.json"
+  },
+  {
    "id": "bossico",
    "nome": "Bossico",
    "provincia": "BG",
@@ -861,6 +1137,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "brovello-carpugnino",
+   "nome": "Brovello-Carpugnino",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8427,
+   "lon": 8.5332,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/brovello-carpugnino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-brovello-carpugnino.json"
   },
   {
    "id": "brugherio",
@@ -984,6 +1278,31 @@
    ]
   },
   {
+   "id": "calasca-castiglione",
+   "nome": "Calasca-Castiglione",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0038,
+   "lon": 8.1702,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/calasca-castiglione/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/calasca-castiglione/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/calasca-castiglione/",
+   "ecocentri": "ecocentri/conser-vco-und-calasca-castiglione.json"
+  },
+  {
    "id": "calcinato",
    "nome": "Calcinato",
    "provincia": "BS",
@@ -1105,6 +1424,24 @@
    ]
   },
   {
+   "id": "cambiasca",
+   "nome": "Cambiasca",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9643,
+   "lon": 8.5411,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/cambiasca/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-cambiasca.json"
+  },
+  {
    "id": "camparada",
    "nome": "Camparada",
    "provincia": "MB",
@@ -1165,6 +1502,56 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-candia-c-se/"
   },
   {
+   "id": "cannero-riviera",
+   "nome": "Cannero Riviera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0221,
+   "lon": 8.6793,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/cannero-riviera/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/cannero-riviera/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/cannero-riviera/",
+   "ecocentri": "ecocentri/conser-vco-und-cannero-riviera.json"
+  },
+  {
+   "id": "cannobio",
+   "nome": "Cannobio",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0617,
+   "lon": 8.7002,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/cannobio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/cannobio/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/cannobio/",
+   "ecocentri": "ecocentri/conser-vco-und-cannobio.json"
+  },
+  {
    "id": "capitignano",
    "nome": "Capitignano",
    "provincia": "AQ",
@@ -1199,6 +1586,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "caprezzo",
+   "nome": "Caprezzo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9807,
+   "lon": 8.5613,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/caprezzo/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-caprezzo.json"
   },
   {
    "id": "carate-brianza",
@@ -1357,6 +1762,31 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "casale-corte-cerro",
+   "nome": "Casale Corte Cerro",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9168,
+   "lon": 8.4151,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/casale-corte-cerro/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/casale-corte-cerro/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/casale-corte-cerro/",
+   "ecocentri": "ecocentri/conser-vco-und-casale-corte-cerro.json"
   },
   {
    "id": "casale-litta",
@@ -1721,6 +2151,31 @@
    ]
   },
   {
+   "id": "ceppo-morelli",
+   "nome": "Ceppo Morelli",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9714,
+   "lon": 8.0667,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/ceppo-morelli/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/ceppo-morelli/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/ceppo-morelli/",
+   "ecocentri": "ecocentri/conser-vco-und-ceppo-morelli.json"
+  },
+  {
    "id": "cernusco-sul-naviglio",
    "nome": "Cernusco sul Naviglio",
    "provincia": "MI",
@@ -1786,6 +2241,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "cesara",
+   "nome": "Cesara",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8351,
+   "lon": 8.3659,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/cesara/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-cesara.json"
   },
   {
    "id": "chiaverano",
@@ -2096,6 +2569,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cossano/"
   },
   {
+   "id": "cossogno",
+   "nome": "Cossogno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.964,
+   "lon": 8.51,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/cossogno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-cossogno.json"
+  },
+  {
    "id": "costa-volpino",
    "nome": "Costa Volpino",
    "provincia": "BG",
@@ -2112,6 +2603,67 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "craveggia",
+   "nome": "Craveggia",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1406,
+   "lon": 8.4898,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/craveggia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-craveggia.json"
+  },
+  {
+   "id": "crevoladossola",
+   "nome": "Crevoladossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.156,
+   "lon": 8.3036,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/crevoladossola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/crevoladossola/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/crevoladossola/",
+   "ecocentri": "ecocentri/conser-vco-und-crevoladossola.json"
+  },
+  {
+   "id": "crodo",
+   "nome": "Crodo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.2235,
+   "lon": 8.3234,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Porta a porta · organico e indifferenziato",
+     "file": "comuni/crodo/zona-unica.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-crodo.json"
   },
   {
    "id": "crosio-della-valle",
@@ -2221,6 +2773,31 @@
    "ecocentri": "ecocentri/garda-und-desenzano-del-garda.json"
   },
   {
+   "id": "domodossola",
+   "nome": "Domodossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1153,
+   "lon": 8.292,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/domodossola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/domodossola/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/domodossola/",
+   "ecocentri": "ecocentri/conser-vco-und-domodossola.json"
+  },
+  {
    "id": "dovadola",
    "nome": "Dovadola",
    "provincia": "FC",
@@ -2267,6 +2844,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "druogno",
+   "nome": "Druogno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1353,
+   "lon": 8.4318,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/druogno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-druogno.json"
   },
   {
    "id": "endine-gaiano",
@@ -2525,6 +3120,31 @@
    ]
   },
   {
+   "id": "formazza",
+   "nome": "Formazza",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.3767,
+   "lon": 8.4267,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/formazza/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/formazza/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/formazza/",
+   "ecocentri": "ecocentri/conser-vco-und-formazza.json"
+  },
+  {
    "id": "galeata",
    "nome": "Galeata",
    "provincia": "FC",
@@ -2697,6 +3317,24 @@
    ]
   },
   {
+   "id": "germagno",
+   "nome": "Germagno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8925,
+   "lon": 8.388,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/germagno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-germagno.json"
+  },
+  {
    "id": "gessate",
    "nome": "Gessate",
    "provincia": "MI",
@@ -2730,6 +3368,49 @@
      "valido_al": "2027-10-31"
     }
    ]
+  },
+  {
+   "id": "ghiffa",
+   "nome": "Ghiffa",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9564,
+   "lon": 8.6171,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/ghiffa/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/ghiffa/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/ghiffa/",
+   "ecocentri": "ecocentri/conser-vco-und-ghiffa.json"
+  },
+  {
+   "id": "gignese",
+   "nome": "Gignese",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8606,
+   "lon": 8.5099,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/gignese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-gignese.json"
   },
   {
    "id": "giove",
@@ -2780,6 +3461,31 @@
    ]
   },
   {
+   "id": "gravellona-toce",
+   "nome": "Gravellona Toce",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9276,
+   "lon": 8.4314,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/gravellona-toce/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/gravellona-toce/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/gravellona-toce/",
+   "ecocentri": "ecocentri/conser-vco-und-gravellona-toce.json"
+  },
+  {
    "id": "grezzago",
    "nome": "Grezzago",
    "provincia": "MI",
@@ -2823,6 +3529,24 @@
    ]
   },
   {
+   "id": "gurro",
+   "nome": "Gurro",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.086,
+   "lon": 8.5701,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/gurro/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-gurro.json"
+  },
+  {
    "id": "inarzo",
    "nome": "Inarzo",
    "provincia": "VA",
@@ -2838,6 +3562,24 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "intragna",
+   "nome": "Intragna",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9953,
+   "lon": 8.5763,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/intragna/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-intragna.json"
   },
   {
    "id": "inzago",
@@ -3259,6 +4001,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-loranze/"
   },
   {
+   "id": "loreglia",
+   "nome": "Loreglia",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9064,
+   "lon": 8.371,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/loreglia/zona-unica.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-loreglia.json"
+  },
+  {
    "id": "lovere",
    "nome": "Lovere",
    "provincia": "BG",
@@ -3347,6 +4107,49 @@
    ]
   },
   {
+   "id": "macugnaga",
+   "nome": "Macugnaga",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9686,
+   "lon": 7.9678,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/macugnaga/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/macugnaga/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/macugnaga/",
+   "ecocentri": "ecocentri/conser-vco-und-macugnaga.json"
+  },
+  {
+   "id": "madonna-del-sasso",
+   "nome": "Madonna del Sasso",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.7923,
+   "lon": 8.3681,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/madonna-del-sasso/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-madonna-del-sasso.json"
+  },
+  {
    "id": "magasa",
    "nome": "Magasa",
    "provincia": "BS",
@@ -3387,6 +4190,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-maglione/"
+  },
+  {
+   "id": "malesco",
+   "nome": "Malesco",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1267,
+   "lon": 8.5004,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/malesco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-malesco.json"
   },
   {
    "id": "manerba-del-garda",
@@ -3468,6 +4289,31 @@
    ]
   },
   {
+   "id": "masera",
+   "nome": "Masera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.137,
+   "lon": 8.3265,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/masera/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/masera/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/masera/",
+   "ecocentri": "ecocentri/conser-vco-und-masera.json"
+  },
+  {
    "id": "massalengo",
    "nome": "Massalengo",
    "provincia": "LO",
@@ -3484,6 +4330,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "massiola",
+   "nome": "Massiola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9122,
+   "lon": 8.3197,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/massiola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-massiola.json"
   },
   {
    "id": "mazze",
@@ -3651,6 +4515,31 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-mercenasco/"
   },
   {
+   "id": "mergozzo",
+   "nome": "Mergozzo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.961,
+   "lon": 8.4529,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/mergozzo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/mergozzo/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/mergozzo/",
+   "ecocentri": "ecocentri/conser-vco-und-mergozzo.json"
+  },
+  {
    "id": "merlino",
    "nome": "Merlino",
    "provincia": "LO",
@@ -3685,6 +4574,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "miazzina",
+   "nome": "Miazzina",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9752,
+   "lon": 8.5239,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/miazzina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-miazzina.json"
   },
   {
    "id": "misinto",
@@ -3878,6 +4785,31 @@
    ]
   },
   {
+   "id": "montecrestese",
+   "nome": "Montecrestese",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1655,
+   "lon": 8.3265,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/montecrestese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/montecrestese/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/montecrestese/",
+   "ecocentri": "ecocentri/conser-vco-und-montecrestese.json"
+  },
+  {
    "id": "montefelcino",
    "nome": "Montefelcino",
    "provincia": "PU",
@@ -3946,6 +4878,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "montescheno",
+   "nome": "Montescheno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0666,
+   "lon": 8.2329,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/montescheno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-montescheno.json"
   },
   {
    "id": "morazzone",
@@ -4090,6 +5040,24 @@
    ]
   },
   {
+   "id": "nonio",
+   "nome": "Nonio",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8451,
+   "lon": 8.3768,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/nonio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-nonio.json"
+  },
+  {
    "id": "nova-milanese",
    "nome": "Nova Milanese",
    "provincia": "MB",
@@ -4128,6 +5096,37 @@
    "ecocentri": "ecocentri/garda-und-offlaga.json"
   },
   {
+   "id": "oggebbio",
+   "nome": "Oggebbio",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9969,
+   "lon": 8.6529,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro · ordinario",
+     "file": "comuni/oggebbio/zona-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "manegra-colle",
+     "nome": "Frazioni Manegra e Colle · da confermare",
+     "file": "comuni/oggebbio/zona-manegra-colle.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/oggebbio/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/oggebbio/",
+   "ecocentri": "ecocentri/conser-vco-und-oggebbio.json"
+  },
+  {
    "id": "oggiona-con-santo-stefano",
    "nome": "Oggiona con Santo Stefano",
    "provincia": "VA",
@@ -4143,6 +5142,37 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "omegna",
+   "nome": "Omegna",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8756,
+   "lon": 8.4089,
+   "zone": [
+    {
+     "id": "citta",
+     "nome": "Città · ordinario",
+     "file": "comuni/omegna/zona-citta.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "mottarone",
+     "nome": "Vetta Mottarone · da confermare",
+     "file": "comuni/omegna/zona-mottarone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/omegna/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/omegna/",
+   "ecocentri": "ecocentri/conser-vco-und-omegna.json"
   },
   {
    "id": "orio-canavese",
@@ -4185,6 +5215,31 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "ornavasso",
+   "nome": "Ornavasso",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9692,
+   "lon": 8.4158,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/ornavasso/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/ornavasso/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/ornavasso/",
+   "ecocentri": "ecocentri/conser-vco-und-ornavasso.json"
   },
   {
    "id": "orvieto",
@@ -4251,6 +5306,31 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-palazzo-c-se/"
+  },
+  {
+   "id": "pallanzeno",
+   "nome": "Pallanzeno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0435,
+   "lon": 8.2579,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/pallanzeno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/pallanzeno/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/pallanzeno/",
+   "ecocentri": "ecocentri/conser-vco-und-pallanzeno.json"
   },
   {
    "id": "pantigliate",
@@ -4525,6 +5605,56 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "piedimulera",
+   "nome": "Piedimulera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0271,
+   "lon": 8.2598,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/piedimulera/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/piedimulera/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/piedimulera/",
+   "ecocentri": "ecocentri/conser-vco-und-piedimulera.json"
+  },
+  {
+   "id": "pieve-vergonte",
+   "nome": "Pieve Vergonte",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0056,
+   "lon": 8.2685,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/pieve-vergonte/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/pieve-vergonte/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/pieve-vergonte/",
+   "ecocentri": "ecocentri/conser-vco-und-pieve-vergonte.json"
   },
   {
    "id": "pisa",
@@ -4803,6 +5933,81 @@
    ]
   },
   {
+   "id": "premeno",
+   "nome": "Premeno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9771,
+   "lon": 8.5915,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/premeno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/premeno/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/premeno/",
+   "ecocentri": "ecocentri/conser-vco-und-premeno.json"
+  },
+  {
+   "id": "premia",
+   "nome": "Premia",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.2688,
+   "lon": 8.3395,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/premia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/premia/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/premia/",
+   "ecocentri": "ecocentri/conser-vco-und-premia.json"
+  },
+  {
+   "id": "premosello-chiovenda",
+   "nome": "Premosello-Chiovenda",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0027,
+   "lon": 8.3294,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/premosello-chiovenda/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/premosello-chiovenda/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/premosello-chiovenda/",
+   "ecocentri": "ecocentri/conser-vco-und-premosello-chiovenda.json"
+  },
+  {
    "id": "prevalle",
    "nome": "Prevalle",
    "provincia": "BS",
@@ -4861,6 +6066,42 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-quagliuzzo/"
+  },
+  {
+   "id": "quarna-sopra",
+   "nome": "Quarna Sopra",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.873,
+   "lon": 8.3722,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/quarna-sopra/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-quarna-sopra.json"
+  },
+  {
+   "id": "quarna-sotto",
+   "nome": "Quarna Sotto",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8682,
+   "lon": 8.3639,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/quarna-sotto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-quarna-sotto.json"
   },
   {
    "id": "quassolo",
@@ -4927,6 +6168,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "re",
+   "nome": "Re",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1306,
+   "lon": 8.5444,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/re/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-re.json"
   },
   {
    "id": "riva-di-solto",
@@ -5212,6 +6471,24 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-samone/"
   },
   {
+   "id": "san-bernardino-verbano",
+   "nome": "San Bernardino Verbano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9568,
+   "lon": 8.5202,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/san-bernardino-verbano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-san-bernardino-verbano.json"
+  },
+  {
    "id": "san-felice-del-benaco",
    "nome": "San Felice del Benaco",
    "provincia": "BS",
@@ -5439,6 +6716,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "santa-maria-maggiore",
+   "nome": "Santa Maria Maggiore",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1351,
+   "lon": 8.4669,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/santa-maria-maggiore/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-santa-maria-maggiore.json"
   },
   {
    "id": "scanzorosciate",
@@ -5792,6 +7087,37 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-strambino-capoluogo/"
   },
   {
+   "id": "stresa",
+   "nome": "Stresa",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.8839,
+   "lon": 8.5407,
+   "zone": [
+    {
+     "id": "citta",
+     "nome": "Città · ordinario",
+     "file": "comuni/stresa/zona-citta.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "isole-mottarone",
+     "nome": "Isola Bella, Isola Pescatori e Vetta Mottarone · da confermare",
+     "file": "comuni/stresa/zona-isole-mottarone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/stresa/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/stresa/",
+   "ecocentri": "ecocentri/conser-vco-und-stresa.json"
+  },
+  {
    "id": "stroncone",
    "nome": "Stroncone",
    "provincia": "TR",
@@ -5940,6 +7266,24 @@
    "ecocentri": "ecocentri/garda-und-tignale.json"
   },
   {
+   "id": "toceno",
+   "nome": "Toceno",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1434,
+   "lon": 8.4676,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/toceno/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-toceno.json"
+  },
+  {
    "id": "torre-canavese",
    "nome": "Torre Canavese",
    "provincia": "TO",
@@ -6016,6 +7360,42 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "trarego-viggiona",
+   "nome": "Trarego Viggiona",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0339,
+   "lon": 8.664,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/trarego-viggiona/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-trarego-viggiona.json"
+  },
+  {
+   "id": "trasquera",
+   "nome": "Trasquera",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.2125,
+   "lon": 8.214,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/trasquera/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-trasquera.json"
   },
   {
    "id": "tredozio",
@@ -6260,6 +7640,31 @@
    "regole": "regole/gelsia-und-triuggio.json"
   },
   {
+   "id": "trontano",
+   "nome": "Trontano",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1222,
+   "lon": 8.3345,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/trontano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/trontano/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/trontano/",
+   "ecocentri": "ecocentri/conser-vco-und-trontano.json"
+  },
+  {
    "id": "truccazzano",
    "nome": "Truccazzano",
    "provincia": "MI",
@@ -6365,6 +7770,42 @@
    ]
   },
   {
+   "id": "valle-cannobina",
+   "nome": "Valle Cannobina",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0725,
+   "lon": 8.5904,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/valle-cannobina/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-valle-cannobina.json"
+  },
+  {
+   "id": "valstrona",
+   "nome": "Valstrona",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9073,
+   "lon": 8.3408,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/valstrona/zona-unica.json",
+     "valido_al": "2027-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-valstrona.json"
+  },
+  {
    "id": "valvestino",
    "nome": "Valvestino",
    "provincia": "BS",
@@ -6383,6 +7824,31 @@
    "ecocentri": "ecocentri/garda-und-valvestino.json"
   },
   {
+   "id": "vanzone-con-san-carlo",
+   "nome": "Vanzone con San Carlo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.98,
+   "lon": 8.1104,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/vanzone-con-san-carlo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/vanzone-con-san-carlo/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/vanzone-con-san-carlo/",
+   "ecocentri": "ecocentri/conser-vco-und-vanzone-con-san-carlo.json"
+  },
+  {
    "id": "vaprio-d-adda",
    "nome": "Vaprio d'Adda",
    "provincia": "MI",
@@ -6399,6 +7865,31 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "varzo",
+   "nome": "Varzo",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.2067,
+   "lon": 8.2555,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/varzo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/varzo/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/varzo/",
+   "ecocentri": "ecocentri/conser-vco-und-varzo.json"
   },
   {
    "id": "vedano-al-lambro",
@@ -6451,6 +7942,73 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "verbania",
+   "nome": "Verbania",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9214,
+   "lon": 8.5511,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/verbania/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "campeggi-grandi-utenze",
+     "nome": "Campeggi, alberghi con ristorante e grandi utenze · attività selezionate",
+     "file": "comuni/verbania/zona-campeggi-grandi-utenze.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "alimentari",
+     "nome": "Alimentari e pizza al taglio · attività selezionate",
+     "file": "comuni/verbania/zona-alimentari.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "ristorazione",
+     "nome": "Ristorazione e bar · attività selezionate",
+     "file": "comuni/verbania/zona-ristorazione.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-zona-1",
+     "nome": "Cartone · Intra collinare",
+     "file": "comuni/verbania/zona-cartone-zona-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-zona-2",
+     "nome": "Cartone · Intra centro",
+     "file": "comuni/verbania/zona-cartone-zona-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-zona-3",
+     "nome": "Cartone · Intra alta",
+     "file": "comuni/verbania/zona-cartone-zona-3.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-zona-4",
+     "nome": "Cartone · Pallanza Sant’Anna, Suna e Fondotoce",
+     "file": "comuni/verbania/zona-cartone-zona-4.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-zona-5",
+     "nome": "Cartone · Pallanza",
+     "file": "comuni/verbania/zona-cartone-zona-5.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://consorziorifiutivco.it/it-it/rifiuti-/rifiuti/calendario",
+   "ecocentri": "ecocentri/conser-vco-und-verbania.json"
   },
   {
    "id": "verolanuova",
@@ -6538,6 +8096,24 @@
    ]
   },
   {
+   "id": "vignone",
+   "nome": "Vignone",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 45.9604,
+   "lon": 8.5664,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/vignone/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-vignone.json"
+  },
+  {
    "id": "villa-lagarina",
    "nome": "Villa Lagarina",
    "provincia": "TN",
@@ -6572,6 +8148,31 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "villadossola",
+   "nome": "Villadossola",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0677,
+   "lon": 8.2601,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/villadossola/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/villadossola/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/villadossola/",
+   "ecocentri": "ecocentri/conser-vco-und-villadossola.json"
   },
   {
    "id": "villanovaforru",
@@ -6648,6 +8249,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "villette",
+   "nome": "Villette",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.1313,
+   "lon": 8.5341,
+   "zone": [
+    {
+     "id": "raccolta-stradale",
+     "nome": "Raccolta stradale · attività",
+     "file": "comuni/villette/zona-raccolta-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "ecocentri": "ecocentri/conser-vco-und-villette.json"
   },
   {
    "id": "vimercate",
@@ -6739,6 +8358,31 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "vogogna",
+   "nome": "Vogogna",
+   "provincia": "VB",
+   "gestore": "ConSer VCO",
+   "consorzio": "conser-vco-und",
+   "lat": 46.0078,
+   "lon": 8.2955,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/vogogna/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "attivita-selezionate",
+     "nome": "Turni aggiuntivi · attività selezionate",
+     "file": "comuni/vogogna/zona-attivita-selezionate.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.conservco.it/it/comuni-serviti/vogogna/",
+   "ecocentri": "ecocentri/conser-vco-und-vogogna.json"
   },
   {
    "id": "volano",
@@ -7039,6 +8683,12 @@
    "gestore": "Coinger",
    "ecocentri": "ecocentri/coinger-und.json",
    "regole": "regole/coinger-und.json"
+  },
+  "conser-vco-und": {
+   "nome": "ConSer VCO · UND",
+   "gestore": "ConSer VCO",
+   "ecocentri": "ecocentri/conser-vco-und.json",
+   "regole": "regole/conser-vco-und.json"
   }
  }
 }

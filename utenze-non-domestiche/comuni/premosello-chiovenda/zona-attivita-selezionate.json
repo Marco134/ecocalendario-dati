@@ -1,0 +1,30 @@
+{
+ "schema": 1,
+ "comune": "Premosello-Chiovenda",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/348972/premosello-chiovenda-2026-rev1.pdf | https://www.conservco.it/it/comuni-serviti/premosello-chiovenda/ | https://www.conservco.it/media/23073/premosello-chiovenda-2023-scheda-operativa-definitiva-22set23.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}

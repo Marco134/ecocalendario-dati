@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "comune": "Cannero Riviera",
+ "provincia": "VB",
+ "gestore": "ConSer VCO",
+ "zona": "Turni aggiuntivi · attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.conservco.it/media/348978/cannero-riviera-2026-rev-1.pdf | https://www.conservco.it/it/comuni-serviti/cannero-riviera/ | https://www.conservco.it/media/23035/cannero-riviera-2023-scheda-operativa-definitiva-22set23.pdf",
+ "raccolte": {
+  "2026-11-26": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-10": [
+   "vetro"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-24": [
+   "vetro"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Turni aggiuntivi per le attività espressamente selezionate da ConSer VCO. Controllare l’adesione e l’ubicazione con il gestore; la raccolta ordinaria ha il proprio programma."
+ ]
+}
