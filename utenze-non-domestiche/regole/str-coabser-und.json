@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "nome": "STR CoAbSeR · materiali per le attività",
+ "fonte": "https://coabser.it/pdf/regolamento-centri-raccolta.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/",
+ "voci": {
+  "carta e cartone puliti": {
+   "dove": "carta",
+   "nota": "Separare le parti estranee. Per il centro si applicano i codici 15.01.01 e 20.01.01."
+  },
+  "cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Seguire il giro previsto per l’attività e la frazione. Dove previsto, il centro accetta l’imballaggio separato."
+  },
+  "imballaggi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire la dotazione assegnata. Al centro si applica il codice 15.01.02."
+  },
+  "cassette e manufatti recuperabili in polietilene": {
+   "dove": "varia",
+   "nota": "Verificare il centro di raccolta. Il regolamento esclude gli scarti della lavorazione industriale o artigianale da questa voce."
+  },
+  "pedane e cassette in legno": {
+   "dove": "varia",
+   "nota": "Verificare l’ammissione al centro per gli imballaggi di legno, codice 15.01.03."
+  },
+  "mobili e oggetti in legno": {
+   "dove": "varia",
+   "nota": "Chiedere il centro per il legno, codice 20.01.38, oppure il servizio a chiamata."
+  },
+  "lattine e latte vuote": {
+   "dove": "lattine",
+   "nota": "Seguire il giro degli imballaggi metallici dove indicato. Distinguere l’imballaggio dal metallo di altre tipologie."
+  },
+  "oggetti metallici non da imballaggio": {
+   "dove": "varia",
+   "nota": "Verificare l’ammissione al centro per la voce 20.01.40."
+  },
+  "bottiglie e barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il servizio e il contenitore assegnati all’attività. Separare gli imballaggi dai manufatti in vetro."
+  },
+  "lastre e altri manufatti in vetro": {
+   "dove": "varia",
+   "nota": "Verificare l’ammissione al centro per il vetro non da imballaggio, codice 20.01.02."
+  },
+  "imballaggi tessili": {
+   "dove": "varia",
+   "nota": "Verificare l’ammissione al centro, codice 15.01.09."
+  },
+  "abiti riutilizzabili": {
+   "dove": "varia",
+   "nota": "Chiedere il canale del centro per abbigliamento, codice 20.01.10."
+  },
+  "prodotti tessili": {
+   "dove": "varia",
+   "nota": "Verificare il canale del centro, codice 20.01.11."
+  },
+  "toner esauriti": {
+   "dove": "varia",
+   "nota": "Per il codice 08.03.18 verificare centro e provenienza del materiale."
+  },
+  "materassi, divani e altri ingombranti": {
+   "dove": "varia",
+   "nota": "Il regolamento indica il limite di 2 m³ per singola tipologia al centro per i materiali ammessi. Prenotare e confermare il profilo."
+  },
+  "vernici e adesivi privi di sostanze pericolose": {
+   "dove": "varia",
+   "nota": "Verificare il codice 20.01.28, il limite per contenitori e la frequenza con il centro."
+  },
+  "detergenti privi di sostanze pericolose": {
+   "dove": "varia",
+   "nota": "Verificare il codice 20.01.30, il limite per contenitori e la frequenza con il centro."
+  },
+  "raee analoghi ai domestici": {
+   "dove": "varia",
+   "nota": "Confermare al centro comparabilità, ammissibilità, documenti e circuito per la propria attività."
+  },
+  "scarti di cucine e mense": {
+   "dove": "organico",
+   "nota": "Seguire la raccolta dell’organico e la dotazione dell’attività dove sono attive."
+  },
+  "verde, sfalci e potature": {
+   "dove": "varia",
+   "nota": "Verificare il centro per il codice 20.02.01 oppure il servizio locale a seconda della quantità e provenienza."
+  }
+ }
+}

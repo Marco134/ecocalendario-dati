@@ -114,6 +114,24 @@
    ]
   },
   {
+   "id": "alba",
+   "nome": "Alba",
+   "provincia": "CN",
+   "gestore": "San Germano (Gruppo Iren) e STR",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7009,
+   "lon": 8.0357,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Calendario attività da confermare",
+     "file": "comuni/alba/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.alba.cn.it/index.php/it/news/2053110"
+  },
+  {
    "id": "albiano-d-ivrea",
    "nome": "Albiano d'Ivrea",
    "provincia": "TO",
@@ -518,6 +536,23 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-baldissero-c-se/"
   },
   {
+   "id": "baldissero-d-alba",
+   "nome": "Baldissero d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7587,
+   "lon": 7.9157,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/baldissero-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "banchette",
    "nome": "Banchette",
    "provincia": "TO",
@@ -567,6 +602,23 @@
    "ecocentri": "ecocentri/conser-vco-und-bannio-anzino.json"
   },
   {
+   "id": "barbaresco",
+   "nome": "Barbaresco",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7255,
+   "lon": 8.0805,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/barbaresco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "barlassina",
    "nome": "Barlassina",
    "provincia": "MB",
@@ -584,6 +636,23 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-barlassina.json",
    "regole": "regole/gelsia-und-barlassina.json"
+  },
+  {
+   "id": "barolo",
+   "nome": "Barolo",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6099,
+   "lon": 7.9418,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/barolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "barone-canavese",
@@ -764,6 +833,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "bene-vagienna",
+   "nome": "Bene Vagienna",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5452,
+   "lon": 7.8328,
+   "zone": [
+    {
+     "id": "centro-abitato",
+     "nome": "Centro abitato",
+     "file": "comuni/bene-vagienna/zona-centro-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "resto-territorio",
+     "nome": "Resto del territorio",
+     "file": "comuni/bene-vagienna/zona-resto-territorio.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/bene_vagienna.pdf"
   },
   {
    "id": "bernareggio",
@@ -1121,6 +1214,36 @@
    ]
   },
   {
+   "id": "bra",
+   "nome": "Bra",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6977,
+   "lon": 7.8553,
+   "zone": [
+    {
+     "id": "a-centro",
+     "nome": "Zona A · Centro e Centro storico",
+     "file": "comuni/bra/zona-a-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "a-altre-vie",
+     "nome": "Zona A · altre vie",
+     "file": "comuni/bra/zona-a-altre-vie.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B",
+     "file": "comuni/bra/zona-b.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/bra.pdf"
+  },
+  {
    "id": "brentonico",
    "nome": "Brentonico",
    "provincia": "TN",
@@ -1476,6 +1599,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "canale",
+   "nome": "Canale",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7972,
+   "lon": 7.9914,
+   "zone": [
+    {
+     "id": "centro-abitato",
+     "nome": "Centro abitato",
+     "file": "comuni/canale/zona-centro-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "resto-territorio",
+     "nome": "Resto del territorio",
+     "file": "comuni/canale/zona-resto-territorio.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/canale.pdf"
   },
   {
    "id": "candia-canavese",
@@ -1958,6 +2105,23 @@
    ]
   },
   {
+   "id": "castagnito",
+   "nome": "Castagnito",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7565,
+   "lon": 8.0302,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/castagnito/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "castel-giorgio",
    "nome": "Castel Giorgio",
    "provincia": "TR",
@@ -1992,6 +2156,40 @@
    ]
   },
   {
+   "id": "castellinaldo-d-alba",
+   "nome": "Castellinaldo d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7753,
+   "lon": 8.0315,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/castellinaldo-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "castiglione-falletto",
+   "nome": "Castiglione Falletto",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6233,
+   "lon": 7.979,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/castiglione-falletto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "castiglione-olona",
    "nome": "Castiglione Olona",
    "provincia": "VA",
@@ -2005,6 +2203,23 @@
      "nome": "Gruppo Alfa",
      "file": "comuni/castiglione-olona/zona-unica.json",
      "valido_al": "2027-05-31"
+    }
+   ]
+  },
+  {
+   "id": "castiglione-tinella",
+   "nome": "Castiglione Tinella",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.726,
+   "lon": 8.1894,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/castiglione-tinella/zona-unica.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -2176,6 +2391,23 @@
    "ecocentri": "ecocentri/conser-vco-und-ceppo-morelli.json"
   },
   {
+   "id": "ceresole-alba",
+   "nome": "Ceresole Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7995,
+   "lon": 7.8206,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/ceresole-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "cernusco-sul-naviglio",
    "nome": "Cernusco sul Naviglio",
    "provincia": "MI",
@@ -2225,6 +2457,23 @@
    ]
   },
   {
+   "id": "cervere",
+   "nome": "Cervere",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6348,
+   "lon": 7.7932,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/cervere/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "cervignano-d-adda",
    "nome": "Cervignano d'Adda",
    "provincia": "LO",
@@ -2259,6 +2508,42 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-cesara.json"
+  },
+  {
+   "id": "cherasco",
+   "nome": "Cherasco",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6522,
+   "lon": 7.8582,
+   "zone": [
+    {
+     "id": "gruppo-1-selezionate",
+     "nome": "Capoluogo e frazioni del gruppo 1 · selezionate",
+     "file": "comuni/cherasco/zona-gruppo-1-selezionate.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "gruppo-1-ordinarie",
+     "nome": "Capoluogo e frazioni del gruppo 1 · ordinarie",
+     "file": "comuni/cherasco/zona-gruppo-1-ordinarie.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "gruppo-2-selezionate",
+     "nome": "Oltre Stura · selezionate",
+     "file": "comuni/cherasco/zona-gruppo-2-selezionate.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "gruppo-2-ordinarie",
+     "nome": "Oltre Stura · ordinarie",
+     "file": "comuni/cherasco/zona-gruppo-2-ordinarie.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/cherasco.pdf"
   },
   {
    "id": "chiaverano",
@@ -2527,6 +2812,23 @@
    ]
   },
   {
+   "id": "corneliano-d-alba",
+   "nome": "Corneliano d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7355,
+   "lon": 7.9613,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/corneliano-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "correzzana",
    "nome": "Correzzana",
    "provincia": "MB",
@@ -2543,6 +2845,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "cossano-belbo",
+   "nome": "Cossano Belbo",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6691,
+   "lon": 8.1986,
+   "zone": [
+    {
+     "id": "centro-abitato",
+     "nome": "Centro abitato",
+     "file": "comuni/cossano-belbo/zona-centro-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "resto-territorio",
+     "nome": "Resto del territorio",
+     "file": "comuni/cossano-belbo/zona-resto-territorio.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/cossano_belbo.pdf"
   },
   {
    "id": "cossano-canavese",
@@ -2771,6 +3097,23 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-desenzano-del-garda.json"
+  },
+  {
+   "id": "diano-d-alba",
+   "nome": "Diano d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6514,
+   "lon": 8.0277,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/diano-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "domodossola",
@@ -3461,6 +3804,23 @@
    ]
   },
   {
+   "id": "govone",
+   "nome": "Govone",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.8049,
+   "lon": 8.1,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/govone/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "gravellona-toce",
    "nome": "Gravellona Toce",
    "provincia": "VB",
@@ -3504,6 +3864,23 @@
    ]
   },
   {
+   "id": "grinzane-cavour",
+   "nome": "Grinzane Cavour",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6565,
+   "lon": 7.9822,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/grinzane-cavour/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "grone",
    "nome": "Grone",
    "provincia": "BG",
@@ -3524,6 +3901,23 @@
      "id": "santantonio-e-colli-di-san-fermo",
      "nome": "Sant’Antonio e Colli di San Fermo",
      "file": "comuni/grone/zona-santantonio-e-colli-di-san-fermo.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "guarene",
+   "nome": "Guarene",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7378,
+   "lon": 8.0337,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/guarene/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3863,6 +4257,23 @@
    ]
   },
   {
+   "id": "la-morra",
+   "nome": "La Morra",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6373,
+   "lon": 7.9335,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/la-morra/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "las-plassas",
    "nome": "Las Plassas",
    "provincia": "VS",
@@ -4168,6 +4579,23 @@
    "ecocentri": "ecocentri/garda-und-magasa.json"
   },
   {
+   "id": "magliano-alfieri",
+   "nome": "Magliano Alfieri",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7665,
+   "lon": 8.0678,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/magliano-alfieri/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "maglione",
    "nome": "Maglione",
    "provincia": "TO",
@@ -4251,6 +4679,47 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-manerbio.json"
+  },
+  {
+   "id": "mango",
+   "nome": "Mango",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6846,
+   "lon": 8.1503,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/mango/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "marene",
+   "nome": "Marene",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6615,
+   "lon": 7.7292,
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano",
+     "file": "comuni/marene/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "area-esterna",
+     "nome": "Area esterna",
+     "file": "comuni/marene/zona-area-esterna.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/marene.pdf"
   },
   {
    "id": "martinengo",
@@ -4667,6 +5136,24 @@
    ]
   },
   {
+   "id": "monchiero",
+   "nome": "Monchiero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.573,
+   "lon": 7.9181,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Turni ordinari · attività",
+     "file": "comuni/monchiero/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://coabser.it/pdf/calendari_und/monchiero.pdf"
+  },
+  {
    "id": "mondavio",
    "nome": "Mondavio",
    "provincia": "PU",
@@ -4680,6 +5167,23 @@
      "id": "carta-attivita",
      "nome": "Carta · attività con servizio attivato",
      "file": "comuni/mondavio/zona-carta-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "monforte-d-alba",
+   "nome": "Monforte d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5823,
+   "lon": 7.9684,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/monforte-d-alba/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -4701,6 +5205,23 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-moniga-del-garda.json"
+  },
+  {
+   "id": "montaldo-roero",
+   "nome": "Montaldo Roero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7686,
+   "lon": 7.9245,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/montaldo-roero/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "montalenghe",
@@ -4862,6 +5383,23 @@
    ]
   },
   {
+   "id": "montelupo-albese",
+   "nome": "Montelupo Albese",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6231,
+   "lon": 8.0464,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/montelupo-albese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "montereale",
    "nome": "Montereale",
    "provincia": "AQ",
@@ -4896,6 +5434,57 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-montescheno.json"
+  },
+  {
+   "id": "monteu-roero",
+   "nome": "Monteu Roero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7802,
+   "lon": 7.9309,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/monteu-roero/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "monticello-d-alba",
+   "nome": "Monticello d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7183,
+   "lon": 7.941,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/monticello-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "monta",
+   "nome": "Montà",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.8131,
+   "lon": 7.96,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/monta/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "morazzone",
@@ -4976,6 +5565,57 @@
      "nome": "Zona unica",
      "file": "comuni/mulazzano/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "narzole",
+   "nome": "Narzole",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5942,
+   "lon": 7.8705,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/narzole/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "neive",
+   "nome": "Neive",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7263,
+   "lon": 8.1155,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/neive/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "neviglie",
+   "nome": "Neviglie",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6921,
+   "lon": 8.116,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/neviglie/zona-unica.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -5075,6 +5715,23 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-nova-milanese.json",
    "regole": "regole/gelsia-und-nova-milanese.json"
+  },
+  {
+   "id": "novello",
+   "nome": "Novello",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5872,
+   "lon": 7.9277,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/novello/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "offlaga",
@@ -5657,6 +6314,23 @@
    "ecocentri": "ecocentri/conser-vco-und-pieve-vergonte.json"
   },
   {
+   "id": "piobesi-d-alba",
+   "nome": "Piobesi d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7349,
+   "lon": 7.9785,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/piobesi-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "pisa",
    "nome": "Pisa",
    "provincia": "PI",
@@ -5742,6 +6416,23 @@
      "id": "servizi-attivita",
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/pizzoli/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "pocapaglia",
+   "nome": "Pocapaglia",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7195,
+   "lon": 7.8872,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/pocapaglia/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -6026,6 +6717,23 @@
    "ecocentri": "ecocentri/garda-und-prevalle.json"
   },
   {
+   "id": "priocca",
+   "nome": "Priocca",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7913,
+   "lon": 8.0627,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/priocca/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "puegnago-del-garda",
    "nome": "Puegnago del Garda",
    "provincia": "BS",
@@ -6260,6 +6968,57 @@
    ]
   },
   {
+   "id": "roddi",
+   "nome": "Roddi",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6785,
+   "lon": 7.9761,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/roddi/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "roddino",
+   "nome": "Roddino",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5741,
+   "lon": 8.0187,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/roddino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "rodello",
+   "nome": "Rodello",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6306,
+   "lon": 8.0593,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/rodello/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "rogno",
    "nome": "Rogno",
    "provincia": "BG",
@@ -6412,6 +7171,23 @@
      "nome": "Zona unica",
      "file": "comuni/salerano-sul-lambro/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "salmour",
+   "nome": "Salmour",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5782,
+   "lon": 7.7921,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/salmour/zona-unica.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -6675,6 +7451,23 @@
    ]
   },
   {
+   "id": "sanfre",
+   "nome": "Sanfrè",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7522,
+   "lon": 7.8035,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/sanfre/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "sant-angelo-lodigiano",
    "nome": "Sant'Angelo Lodigiano",
    "provincia": "LO",
@@ -6734,6 +7527,40 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-santa-maria-maggiore.json"
+  },
+  {
+   "id": "santo-stefano-belbo",
+   "nome": "Santo Stefano Belbo",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7075,
+   "lon": 8.231,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/santo-stefano-belbo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "santo-stefano-roero",
+   "nome": "Santo Stefano Roero",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7888,
+   "lon": 7.9399,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/santo-stefano-roero/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "scanzorosciate",
@@ -6809,6 +7636,23 @@
      "id": "unica",
      "nome": "Zona unica · servizio pubblico",
      "file": "comuni/sedrina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "serralunga-d-alba",
+   "nome": "Serralunga d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6092,
+   "lon": 8.0006,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/serralunga-d-alba/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -6914,6 +7758,23 @@
    ]
   },
   {
+   "id": "sinio",
+   "nome": "Sinio",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.5995,
+   "lon": 8.0216,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/sinio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "soiano-del-lago",
    "nome": "Soiano del Lago",
    "provincia": "BS",
@@ -6962,6 +7823,40 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/solto-collina/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "sommariva-del-bosco",
+   "nome": "Sommariva del Bosco",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7713,
+   "lon": 7.7843,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/sommariva-del-bosco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "sommariva-perno",
+   "nome": "Sommariva Perno",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7432,
+   "lon": 7.9056,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/sommariva-perno/zona-unica.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -7428,6 +8323,23 @@
    ]
   },
   {
+   "id": "treiso",
+   "nome": "Treiso",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6894,
+   "lon": 8.0868,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/treiso/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "tremosine-sul-garda",
    "nome": "Tremosine sul Garda",
    "provincia": "BS",
@@ -7601,6 +8513,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "trezzo-tinella",
+   "nome": "Trezzo Tinella",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.677,
+   "lon": 8.1076,
+   "zone": [
+    {
+     "id": "turni-da-confermare",
+     "nome": "Calendario attività da confermare",
+     "file": "comuni/trezzo-tinella/zona-turni-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.trezzotinella.cn.it/it-it/amministrazione/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti"
   },
   {
    "id": "tribiano",
@@ -8011,6 +8941,23 @@
    "ecocentri": "ecocentri/conser-vco-und-verbania.json"
   },
   {
+   "id": "verduno",
+   "nome": "Verduno",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6681,
+   "lon": 7.9338,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/verduno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "verolanuova",
    "nome": "Verolanuova",
    "provincia": "BS",
@@ -8052,6 +8999,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vestigne/"
+  },
+  {
+   "id": "vezza-d-alba",
+   "nome": "Vezza d'Alba",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.7639,
+   "lon": 7.9961,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/vezza-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "vialfre",
@@ -8689,6 +9653,12 @@
    "gestore": "ConSer VCO",
    "ecocentri": "ecocentri/conser-vco-und.json",
    "regole": "regole/conser-vco-und.json"
+  },
+  "str-coabser-und": {
+   "nome": "STR, Verde Gufo e CoAbSeR · UND",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "ecocentri": "ecocentri/str-coabser-und.json",
+   "regole": "regole/str-coabser-und.json"
   }
  }
 }

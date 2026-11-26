@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "comune": "Cherasco",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Oltre Stura · ordinarie",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://coabser.it/pdf/calendari_und/cherasco.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Zona 2, Oltre Stura. Il PDF distingue l’accesso ai turni di organico, vetro e residuo.",
+  "Per le attività fuori elenco il PDF prescrive il residuo il sabato. Confermare con STR il ritiro del 26 dicembre."
+ ],
+ "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Nei giorni con asterisco il servizio può svolgersi nell’arco della giornata.",
+ "esposizione_entro": "06:00"
+}

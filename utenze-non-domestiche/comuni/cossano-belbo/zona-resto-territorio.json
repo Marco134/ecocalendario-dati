@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Cossano Belbo",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Resto del territorio",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://coabser.it/pdf/calendari_und/cossano_belbo.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+ "raccolte": {
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "I giorni seguono la legenda delle zone nel PDF commerciale. Confermare la via con STR.",
+  "Il PDF contrassegna 28/12 con un asterisco. In queste giornate il servizio può svolgersi nell’arco della giornata."
+ ],
+ "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Nei giorni con asterisco il servizio può svolgersi nell’arco della giornata.",
+ "esposizione_entro": "06:00"
+}

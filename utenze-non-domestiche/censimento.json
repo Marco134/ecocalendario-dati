@@ -113,7 +113,10 @@
    "nome": "Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.alba.cn.it/index.php/it/news/2053110 | https://comune.alba.cn.it/it/page/rifiuti-e-servizio-di-igiene-urbana | https://www.comune.alba.cn.it/it/page/raccolta-differenziata-13 | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Dal 1º ottobre 2026 San Germano gestisce il porta a porta, compreso il vetro delle attività. STR gestisce ecocentri e ingombranti. Il link UND CoAbSeR apre il PDF domestico. Chiedere all’Ecosportello il calendario della fase transitoria, i turni di cartone e vetro e i recuperi per la propria via."
   },
   {
    "id": "albiano-d-ivrea",
@@ -505,7 +508,10 @@
    "nome": "Baldissero d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/baldissero_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "ballabio",
@@ -563,7 +569,10 @@
    "nome": "Barbaresco",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/barbaresco.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "bardonecchia",
@@ -587,7 +596,10 @@
    "nome": "Barolo",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/barolo.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "barone-canavese",
@@ -733,7 +745,10 @@
    "nome": "Bene Vagienna",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/bene_vagienna.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "berbenno-di-valtellina",
@@ -1037,7 +1052,10 @@
    "nome": "Bra",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/bra.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore. Il vetro porta a porta è indicato per le vie di Centro e Centro storico. Il vetro porta a porta è indicato per le vie di Centro e Centro storico."
   },
   {
    "id": "brandizzo",
@@ -1399,7 +1417,10 @@
    "nome": "Canale",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/canale.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "canale-d-agordo",
@@ -1821,7 +1842,10 @@
    "nome": "Castagnito",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/castagnito.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "castagnole-piemonte",
@@ -1897,7 +1921,10 @@
    "nome": "Castellinaldo d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/castellinaldo_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "castello-cabiaglio",
@@ -1942,7 +1969,10 @@
    "nome": "Castiglione Falletto",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/castiglione_falletto.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "castiglione-olona",
@@ -1959,7 +1989,10 @@
    "nome": "Castiglione Tinella",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/castiglione_tinella.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "castiglione-torinese",
@@ -2134,7 +2167,10 @@
    "nome": "Ceresole Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/ceresole_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "ceresole-reale",
@@ -2195,7 +2231,10 @@
    "nome": "Cervere",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/cervere.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "cervignano-d-adda",
@@ -2253,7 +2292,10 @@
    "nome": "Cherasco",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/cherasco.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. A Cherasco seguire il gruppo della via e l’iscrizione per organico, vetro e residuo. Confermare l’eventuale ritiro del 26 dicembre per le attività fuori elenco."
   },
   {
    "id": "chialamberto",
@@ -2576,7 +2618,10 @@
    "nome": "Corneliano d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/corneliano_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "cornuda",
@@ -2624,7 +2669,10 @@
    "nome": "Cossano Belbo",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/cossano_belbo.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "cossano-canavese",
@@ -2855,7 +2903,10 @@
    "nome": "Diano d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/diano_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "divignano",
@@ -3389,7 +3440,10 @@
    "nome": "Govone",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/govone.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "gozzano",
@@ -3451,7 +3505,10 @@
    "nome": "Grinzane Cavour",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/grinzane_cavour.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "groscavallo",
@@ -3510,7 +3567,10 @@
    "nome": "Guarene",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/guarene.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "gurro",
@@ -3660,7 +3720,10 @@
    "nome": "La Morra",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/la_morra.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "la-valle-agordina",
@@ -4010,7 +4073,10 @@
    "nome": "Magliano Alfieri",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/magliano_alfieri.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "maglione",
@@ -4091,7 +4157,10 @@
    "nome": "Mango",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/mango.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "mantello",
@@ -4119,7 +4188,10 @@
    "nome": "Marene",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/marene.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "marentino",
@@ -4483,7 +4555,10 @@
    "nome": "Monchiero",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/monchiero.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’ambito della sigla CARTA C. I giorni con questa sigla sono nell’archivio e nel PDF del gestore."
   },
   {
    "id": "moncucco-torinese",
@@ -4497,7 +4572,10 @@
    "nome": "Monforte d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/monforte_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "monfumo",
@@ -4528,7 +4606,10 @@
    "nome": "Montaldo Roero",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/montaldo_roero.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "montaldo-torinese",
@@ -4661,7 +4742,10 @@
    "nome": "Montelupo Albese",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/montelupo_albese.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "montescheno",
@@ -4678,7 +4762,10 @@
    "nome": "Monteu Roero",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/monteu_roero.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "monteu-da-po",
@@ -4712,14 +4799,20 @@
    "nome": "Monticello d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/monticello_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "monta",
    "nome": "Montà",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/monta.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "morazzone",
@@ -4787,7 +4880,10 @@
    "nome": "Narzole",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/narzole.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "nebbiuno",
@@ -4801,7 +4897,10 @@
    "nome": "Neive",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/neive.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "nervesa-della-battaglia",
@@ -4815,7 +4914,10 @@
    "nome": "Neviglie",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/neviglie.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "niardo",
@@ -4911,7 +5013,10 @@
    "nome": "Novello",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/novello.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "offlaga",
@@ -5513,7 +5618,10 @@
    "nome": "Piobesi d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/piobesi_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "piossasco",
@@ -5551,7 +5659,10 @@
    "nome": "Pocapaglia",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/pocapaglia.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "poggiridenti",
@@ -5841,7 +5952,10 @@
    "nome": "Priocca",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/priocca.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "proceno",
@@ -6101,21 +6215,30 @@
    "nome": "Roddi",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/roddi.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "roddino",
    "nome": "Roddino",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/roddino.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "rodello",
    "nome": "Rodello",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/rodello.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "rogeno",
@@ -6263,7 +6386,10 @@
    "nome": "Salmour",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/salmour.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "salza-di-pinerolo",
@@ -6530,7 +6656,10 @@
    "nome": "Sanfrè",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/sanfre.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "sangano",
@@ -6595,14 +6724,20 @@
    "nome": "Santo Stefano Belbo",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/santo_stefano_belbo.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "santo-stefano-roero",
    "nome": "Santo Stefano Roero",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/santo_stefano_roero.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "sauze-d-oulx",
@@ -6678,7 +6813,10 @@
    "nome": "Serralunga d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/serralunga_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "sestriere",
@@ -6736,7 +6874,10 @@
    "nome": "Sinio",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/sinio.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "sirone",
@@ -6790,14 +6931,20 @@
    "nome": "Sommariva Perno",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/sommariva_perno.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "sommariva-del-bosco",
    "nome": "Sommariva del Bosco",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/sommariva_bosco.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "sondalo",
@@ -7153,7 +7300,10 @@
    "nome": "Treiso",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/treiso.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "tremosine-sul-garda",
@@ -7211,7 +7361,10 @@
    "nome": "Trezzo Tinella",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.trezzotinella.cn.it/it-it/amministrazione/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti | https://www.comune.trezzotinella.cn.it/it-it/servizi/vivere-l-ambiente-c/raccolta-differenziata-108-59-1-96b604a67aa999868ddceeaac5a41134 | https://strweb.biz/sportello-online/ | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda del Comune indica il porta a porta e STR conferma l’assistenza per il comune. Il portale dei calendari commerciali non ha un PDF per Trezzo Tinella. Verificare applicabilità per l’attività, recuperi festivi e orari."
   },
   {
    "id": "tribiano",
@@ -7617,7 +7770,10 @@
    "nome": "Verduno",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/verduno.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "verolanuova",
@@ -7658,7 +7814,10 @@
    "nome": "Vezza d'Alba",
    "provincia": "CN",
    "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://coabser.it/pdf/calendari_und/vezza_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+   "verificato": "2026-11-26",
+   "nota": "Calendario 2026 intestato alle attività commerciali e artigianali. Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
   },
   {
    "id": "vialfre",

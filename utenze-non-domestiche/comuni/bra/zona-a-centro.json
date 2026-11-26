@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "comune": "Bra",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Zona A · Centro e Centro storico",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://coabser.it/pdf/calendari_und/bra.pdf | https://www.comune.bra.cn.it/it/page/informazioni-sulla-raccolta-rifiuti",
+ "raccolte": {
+  "2026-11-26": [
+   "carta",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "lattine",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "lattine",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "lattine",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "lattine",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "lattine",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Usare lo stradario nel PDF commerciale per selezionare la zona.",
+  "Il giro del vetro riguarda Centro e Centro storico."
+ ],
+ "esposizione": "Esporre dalle 21:00 del giorno prima alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00"
+}

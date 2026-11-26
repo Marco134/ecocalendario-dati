@@ -1172,6 +1172,96 @@
    "regole_en": [
     "Ask ConSer VCO whether your business can book bulky waste collection or use an approved recycling centre."
    ]
+  },
+  {
+   "id": "str-coabser-und",
+   "nome": "STR · UND",
+   "gestori": [],
+   "comuni": [
+    "baldissero-d-alba",
+    "barbaresco",
+    "barolo",
+    "bene-vagienna",
+    "bra",
+    "canale",
+    "castagnito",
+    "castellinaldo-d-alba",
+    "castiglione-falletto",
+    "castiglione-tinella",
+    "ceresole-alba",
+    "cervere",
+    "cherasco",
+    "corneliano-d-alba",
+    "cossano-belbo",
+    "diano-d-alba",
+    "govone",
+    "grinzane-cavour",
+    "guarene",
+    "la-morra",
+    "magliano-alfieri",
+    "mango",
+    "marene",
+    "monchiero",
+    "monforte-d-alba",
+    "monta",
+    "montaldo-roero",
+    "montelupo-albese",
+    "monteu-roero",
+    "monticello-d-alba",
+    "narzole",
+    "neive",
+    "neviglie",
+    "novello",
+    "piobesi-d-alba",
+    "pocapaglia",
+    "priocca",
+    "roddi",
+    "roddino",
+    "rodello",
+    "salmour",
+    "sanfre",
+    "santo-stefano-belbo",
+    "santo-stefano-roero",
+    "serralunga-d-alba",
+    "sinio",
+    "sommariva-del-bosco",
+    "sommariva-perno",
+    "treiso",
+    "trezzo-tinella",
+    "verduno",
+    "vezza-d-alba"
+   ],
+   "telefono": "800 957 793",
+   "orari": "Lun–sab 10:00–13:00, lun–ven 15:00–18:00",
+   "prenota_url": null,
+   "prenotazione": true,
+   "fonte": "https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/sportello-online/ | https://coabser.it/pdf/regolamento-centri-raccolta.pdf",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Prenotare al numero indicato nel calendario, comunicando materiale e quantità. Chiedere condizioni, tariffa e idoneità al ritiro per l’attività. I limiti del centro sono indicati nell’allegato 2 del regolamento."
+   ],
+   "regole_en": [
+    "Call the number on the local business calendar to ask about bulky waste collection and which items the service accepts."
+   ]
+  },
+  {
+   "id": "alba-str-und",
+   "nome": "Alba · STR per ingombranti",
+   "gestori": [],
+   "comuni": [
+    "alba"
+   ],
+   "telefono": "0172 1836714",
+   "prenota_url": null,
+   "prenotazione": true,
+   "fonte": "https://www.comune.alba.cn.it/index.php/it/news/2053110 | https://comune.alba.cn.it/it/page/rifiuti-e-servizio-di-igiene-urbana",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Aperto il nuovo appalto per la raccolta. Per gli ingombranti resta competente STR. Contattare l’Ecosportello per modalità e ammissibilità dell’attività."
+   ],
+   "regole_en": [
+    "STR continues to handle bulky waste. Call the local waste service to confirm collection for your business."
+   ]
   }
  ]
 }

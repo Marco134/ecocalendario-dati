@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "comune": "Cherasco",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Capoluogo e frazioni del gruppo 1 · selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://coabser.it/pdf/calendari_und/cherasco.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Zona 1, Capoluogo, Oltretanaro, San Giovanni, Picchi e Fraschetta. Il PDF distingue l’accesso ai turni di organico, vetro e residuo.",
+  "Solo per le attività iscritte all’elenco del gestore.",
+  "Il PDF contrassegna 24/12, 26/12 con un asterisco. In queste giornate il servizio può svolgersi nell’arco della giornata."
+ ],
+ "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Nei giorni con asterisco il servizio può svolgersi nell’arco della giornata.",
+ "esposizione_entro": "06:00"
+}

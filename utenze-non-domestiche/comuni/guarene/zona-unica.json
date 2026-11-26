@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Guarene",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://coabser.it/pdf/calendari_und/guarene.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Calendario 2026 intestato alle attività commerciali e artigianali.",
+  "Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore."
+ ],
+ "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Nei giorni con asterisco il servizio può svolgersi nell’arco della giornata.",
+ "esposizione_entro": "06:00"
+}

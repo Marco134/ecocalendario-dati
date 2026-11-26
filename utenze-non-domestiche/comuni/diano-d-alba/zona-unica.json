@@ -1,0 +1,89 @@
+{
+ "schema": 1,
+ "comune": "Diano d'Alba",
+ "provincia": "CN",
+ "gestore": "STR – Verde Gufo (CoAbSeR)",
+ "zona": "Raccolta ordinaria · attività",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://coabser.it/pdf/calendari_und/diano_alba.pdf | https://coabser.it/servizi/calendari-utenze-commerciali-ed-artigianali/ | https://strweb.biz/titr/calendari-utenze-commerciali-ed-artigianali/",
+ "raccolte": {
+  "2026-11-26": [
+   "organico"
+  ],
+  "2026-11-27": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Calendario 2026 intestato alle attività commerciali e artigianali.",
+  "Verificare l’abbinamento alla propria via e ai servizi attivati. Per gli ingombranti e i centri valgono le condizioni del gestore.",
+  "Il PDF contrassegna 26/12 con un asterisco. In queste giornate il servizio può svolgersi nell’arco della giornata."
+ ],
+ "esposizione": "Esporre entro le 06:00 del giorno di raccolta. Nei giorni con asterisco il servizio può svolgersi nell’arco della giornata.",
+ "esposizione_entro": "06:00"
+}
