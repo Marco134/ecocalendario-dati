@@ -1855,6 +1855,120 @@
    "regole_en": [
     "Check business eligibility and accepted bulky items."
    ]
+  },
+  {
+   "id": "mantova-ambiente-und-castel-dario",
+   "nome": "Castel d'Ario · UND",
+   "gestori": [],
+   "comuni": [
+    "castel-dario"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/1591/allegati/regolamento-centro-di-raccolta-castel-d-ario.pdf | https://static.mantovaambiente.it/29/0e/casteldario_ma-calendario2026_multi_21x21_00-web.pdf | https://mantovaambiente.it/comuni/casteldario",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "L’Allegato 2 ammette 2 m³ di ingombranti urbani per conferimento UND. Per ritiro presso l’attività chiedere il servizio o l’intervento dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-marmirolo",
+   "nome": "Marmirolo · UND",
+   "gestori": [],
+   "comuni": [
+    "marmirolo"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://comune.marmirolo.mn.it/it/vivere/735517 | https://comune.marmirolo.mn.it/s3/3876/allegati/marmirolo_ma-calendario2026-25_mono_02-web.pdf | https://mantovaambiente.it/comuni/marmirolo",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Chiedere se l’ingombrante è accettato dalla piattaforma per la propria attività e quali documenti portare. Verificare con il gestore eventuale ritiro dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-poggio-rusco",
+   "nome": "Poggio Rusco · UND",
+   "gestori": [],
+   "comuni": [
+    "poggio-rusco"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/3621831/Regolamento-del-Centro-di-Raccolta-Rev.0-30_11_23_Parte1.pdf | https://static.mantovaambiente.it/64/81/poggiorusco_ma-calendario2026_multi_21x21_01-web.pdf | https://mantovaambiente.it/comuni/poggio-rusco",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Chiedere se l’ingombrante è accettato dalla piattaforma per la propria attività e quali documenti portare. Verificare con il gestore eventuale ritiro dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-ponti-sul-mincio",
+   "nome": "Ponti sul Mincio · UND",
+   "gestori": [],
+   "comuni": [
+    "ponti-sul-mincio"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://istituzionale.comune.pontisulmincio.mn.it/c020044/zf/index.php/atti-generali/index/download-file/atto/2/voce/43 | https://static.mantovaambiente.it/b1/f3/ponti-sul-mincio_ma-calendario2026_mono_01-web.pdf | https://mantovaambiente.it/comuni/ponti-sul-mincio",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Per gli ingombranti delle attività chiedere conferma preventiva. Il regolamento indica le frazioni ammesse al centro per le UND."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-roverbella",
+   "nome": "Roverbella · UND",
+   "gestori": [],
+   "comuni": [
+    "roverbella"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.roverbella.mn.it/dam/jcr%3A76a098c3-fa30-400f-8a30-5b3cad871690/Regolamento%20di%20gestione%20dei%20rifiuti%20.pdf | https://www.comune.roverbella.mn.it/dam/jcr%3Acad63371-664e-4423-8b82-a66449c466bd/Roverbella_MA-calendario2026_mono_01-WEB.pdf | https://mantovaambiente.it/comuni/roverbella",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Chiedere se l’ingombrante è accettato dalla piattaforma per la propria attività e quali documenti portare. Verificare con il gestore eventuale ritiro dedicato."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
+  },
+  {
+   "id": "mantova-ambiente-und-san-giorgio-bigarello",
+   "nome": "San Giorgio Bigarello · UND",
+   "gestori": [],
+   "comuni": [
+    "san-giorgio-bigarello"
+   ],
+   "telefono": "800 473 165",
+   "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/rifiuti/regolamento-dei-centri-di-raccolta_2023-mod.pdf | https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/2026_ecocalendario.pdf | https://mantovaambiente.it/comuni/san-giorgio-e-bigarello",
+   "verificato": "2026-11-26",
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "L’Allegato 2 ammette fino a 2 m³ di ingombranti urbani per singolo conferimento. Verificare i documenti di accesso e l’eventuale servizio presso l’attività."
+   ],
+   "regole_en": [
+    "Check business eligibility and accepted bulky items."
+   ]
   }
  ]
 }

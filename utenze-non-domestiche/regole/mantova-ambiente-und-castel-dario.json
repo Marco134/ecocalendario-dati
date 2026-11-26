@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "nome": "Castel d’Ario · Materiali del centro per le UND",
+ "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/1591/allegati/regolamento-centro-di-raccolta-castel-d-ario.pdf",
+ "voci": {
+  "imballaggi in carta e cartone": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Confermare l’ammissibilità per provenienza e documentazione."
+  },
+  "imballaggi in plastica e polistirolo": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Confermare l’ammissibilità per provenienza e documentazione."
+  },
+  "imballaggi in vetro e lattine": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Confermare l’ammissibilità per provenienza e documentazione."
+  },
+  "bombolette spray pericolose": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "pneumatici fuori uso": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "toner e cartucce di stampa": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "inerti": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "sorgenti luminose R5": {
+   "dove": "centro",
+   "nota": "Massimo 10 pezzi a conferimento. Verificare i requisiti applicabili alla provenienza e agli operatori RAEE."
+  },
+  "frigoriferi, congelatori e climatizzatori R1": {
+   "dove": "centro",
+   "nota": "Massimo 4 pezzi a conferimento. Verificare i requisiti applicabili alla provenienza e agli operatori RAEE."
+  },
+  "oli e grassi commestibili": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "vernici, inchiostri e adesivi pericolosi": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "medicinali scaduti": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "batterie": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "pile esauste": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  },
+  "televisori e monitor R3": {
+   "dove": "centro",
+   "nota": "Massimo 4 pezzi a conferimento. Verificare i requisiti applicabili alla provenienza e agli operatori RAEE."
+  },
+  "grandi elettrodomestici R2": {
+   "dove": "centro",
+   "nota": "Massimo 4 pezzi a conferimento. Verificare i requisiti applicabili alla provenienza e agli operatori RAEE."
+  },
+  "piccoli apparecchi elettrici ed elettronici R4": {
+   "dove": "centro",
+   "nota": "Massimo 10 pezzi a conferimento. Verificare i requisiti applicabili alla provenienza e agli operatori RAEE."
+  },
+  "legno": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Confermare l’ammissibilità per provenienza e documentazione."
+  },
+  "metallo": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Confermare l’ammissibilità per provenienza e documentazione."
+  },
+  "sfalci e potature": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Esclusi gli sfalci da manutenzione professionale del verde privato."
+  },
+  "ingombranti urbani": {
+   "dove": "centro",
+   "nota": "Massimo 2 m³ a conferimento. Confermare l’ammissibilità per provenienza e documentazione."
+  },
+  "oli e grassi pericolosi": {
+   "dove": "varia",
+   "nota": "Conferimento escluso per le attività. Chiedere il canale previsto per l’utenza."
+  }
+ }
+}

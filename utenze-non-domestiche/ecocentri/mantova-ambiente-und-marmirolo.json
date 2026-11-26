@@ -1,0 +1,51 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Mantova Ambiente",
+ "numero_verde": "800 473 165",
+ "accesso": "Le attività possono richiedere la tessera alla piazzola di Via Di Vittorio. L’accesso UND segue gli orari generali. In inverno lunedì e giovedì 09:00–12:00, martedì 14:00–17:30, sabato 09:00–12:00 e 14:00–17:30. In estate le fasce pomeridiane sono 16:00–19:30 secondo il Comune.",
+ "fonte": "https://comune.marmirolo.mn.it/it/vivere/735517 | https://comune.marmirolo.mn.it/s3/3876/allegati/marmirolo_ma-calendario2026-25_mono_02-web.pdf | https://mantovaambiente.it/comuni/marmirolo",
+ "centri": [
+  {
+   "id": "marmirolo-und-centro",
+   "tipo": "raccolta",
+   "comune": "Marmirolo",
+   "indirizzo": "Via Giuseppe Di Vittorio",
+   "lat": 45.2079922,
+   "lon": 10.7643496,
+   "per": "non_domestiche",
+   "chiuso": false,
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:30"
+     ]
+    ]
+   },
+   "avviso": "Orari invernali. Per l’estate consultare la scheda. Tessera da richiedere presso l’ufficio del centro."
+  }
+ ]
+}

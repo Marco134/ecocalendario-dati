@@ -482,6 +482,42 @@
    "telefono": "800 473 165",
    "fonte": "https://sabbioneta.e-pal.it/L190/atto/download/94067?activePage=22&idSezione=70&search=&sort= | https://www.comune.sabbioneta.mn.it/s3/20149/allegati/sabbioneta_ma-calendario2026_mono_03-web.pdf | https://mantovaambiente.it/comuni/sabbioneta",
    "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-castel-dario",
+   "telefono": "800 473 165",
+   "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/1591/allegati/regolamento-centro-di-raccolta-castel-d-ario.pdf | https://static.mantovaambiente.it/29/0e/casteldario_ma-calendario2026_multi_21x21_00-web.pdf | https://mantovaambiente.it/comuni/casteldario",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-marmirolo",
+   "telefono": "800 473 165",
+   "fonte": "https://comune.marmirolo.mn.it/it/vivere/735517 | https://comune.marmirolo.mn.it/s3/3876/allegati/marmirolo_ma-calendario2026-25_mono_02-web.pdf | https://mantovaambiente.it/comuni/marmirolo",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-poggio-rusco",
+   "telefono": "800 473 165",
+   "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/3621831/Regolamento-del-Centro-di-Raccolta-Rev.0-30_11_23_Parte1.pdf | https://static.mantovaambiente.it/64/81/poggiorusco_ma-calendario2026_multi_21x21_01-web.pdf | https://mantovaambiente.it/comuni/poggio-rusco",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-ponti-sul-mincio",
+   "telefono": "800 473 165",
+   "fonte": "https://istituzionale.comune.pontisulmincio.mn.it/c020044/zf/index.php/atti-generali/index/download-file/atto/2/voce/43 | https://static.mantovaambiente.it/b1/f3/ponti-sul-mincio_ma-calendario2026_mono_01-web.pdf | https://mantovaambiente.it/comuni/ponti-sul-mincio",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-roverbella",
+   "telefono": "800 473 165",
+   "fonte": "https://www.comune.roverbella.mn.it/dam/jcr%3A76a098c3-fa30-400f-8a30-5b3cad871690/Regolamento%20di%20gestione%20dei%20rifiuti%20.pdf | https://www.comune.roverbella.mn.it/dam/jcr%3Acad63371-664e-4423-8b82-a66449c466bd/Roverbella_MA-calendario2026_mono_01-WEB.pdf | https://mantovaambiente.it/comuni/roverbella",
+   "verificato": "2026-11-26"
+  },
+  {
+   "id": "mantova-ambiente-und-san-giorgio-bigarello",
+   "telefono": "800 473 165",
+   "fonte": "https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/rifiuti/regolamento-dei-centri-di-raccolta_2023-mod.pdf | https://municipium-images-production.s3-eu-west-1.amazonaws.com/s3/6213/allegati/argomenti/ambiente/2026_ecocalendario.pdf | https://mantovaambiente.it/comuni/san-giorgio-e-bigarello",
+   "verificato": "2026-11-26"
   }
  ]
 }

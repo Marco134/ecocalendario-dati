@@ -2766,6 +2766,23 @@
    ]
   },
   {
+   "id": "castel-dario",
+   "nome": "Castel d'Ario",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.189008,
+   "lon": 10.97513,
+   "consorzio": "mantova-ambiente-und-castel-dario",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/castel-dario/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "castel-giorgio",
    "nome": "Castel Giorgio",
    "provincia": "TR",
@@ -6339,6 +6356,23 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/marene.pdf"
   },
   {
+   "id": "marmirolo",
+   "nome": "Marmirolo",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.220563,
+   "lon": 10.756393,
+   "consorzio": "mantova-ambiente-und-marmirolo",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/marmirolo/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "martinengo",
    "nome": "Martinengo",
    "provincia": "BG",
@@ -8541,6 +8575,23 @@
    ]
   },
   {
+   "id": "poggio-rusco",
+   "nome": "Poggio Rusco",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 44.975558,
+   "lon": 11.114649,
+   "consorzio": "mantova-ambiente-und-poggio-rusco",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/poggio-rusco/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "poggiridenti",
    "nome": "Poggiridenti",
    "provincia": "SO",
@@ -8662,6 +8713,23 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-pontevico.json"
+  },
+  {
+   "id": "ponti-sul-mincio",
+   "nome": "Ponti sul Mincio",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.412515,
+   "lon": 10.687221,
+   "consorzio": "mantova-ambiente-und-ponti-sul-mincio",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/ponti-sul-mincio/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "ponzano-veneto",
@@ -9787,6 +9855,23 @@
    ]
   },
   {
+   "id": "roverbella",
+   "nome": "Roverbella",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.26578,
+   "lon": 10.767527,
+   "consorzio": "mantova-ambiente-und-roverbella",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/roverbella/zona-info-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "rovereto",
    "nome": "Rovereto",
    "provincia": "TN",
@@ -10126,6 +10211,23 @@
      "id": "da-confermare",
      "nome": "Scheda attività",
      "file": "comuni/san-giacomo-filippo/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "san-giorgio-bigarello",
+   "nome": "San Giorgio Bigarello",
+   "provincia": "MN",
+   "gestore": "Mantova Ambiente",
+   "lat": 45.18053,
+   "lon": 10.871789,
+   "consorzio": "mantova-ambiente-und-san-giorgio-bigarello",
+   "zone": [
+    {
+     "id": "info-und",
+     "nome": "Servizi per le attività",
+     "file": "comuni/san-giorgio-bigarello/zona-info-und.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -13370,6 +13472,39 @@
    "nome": "Sabbioneta · UND",
    "gestore": "Mantova Ambiente",
    "ecocentri": "ecocentri/mantova-ambiente-und-sabbioneta.json"
+  },
+  "mantova-ambiente-und-castel-dario": {
+   "nome": "Castel d'Ario · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-castel-dario.json",
+   "regole": "regole/mantova-ambiente-und-castel-dario.json"
+  },
+  "mantova-ambiente-und-marmirolo": {
+   "nome": "Marmirolo · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-marmirolo.json"
+  },
+  "mantova-ambiente-und-poggio-rusco": {
+   "nome": "Poggio Rusco · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-poggio-rusco.json"
+  },
+  "mantova-ambiente-und-ponti-sul-mincio": {
+   "nome": "Ponti sul Mincio · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-ponti-sul-mincio.json",
+   "regole": "regole/mantova-ambiente-und-ponti-sul-mincio.json"
+  },
+  "mantova-ambiente-und-roverbella": {
+   "nome": "Roverbella · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-roverbella.json"
+  },
+  "mantova-ambiente-und-san-giorgio-bigarello": {
+   "nome": "San Giorgio Bigarello · UND",
+   "gestore": "Mantova Ambiente",
+   "ecocentri": "ecocentri/mantova-ambiente-und-san-giorgio-bigarello.json",
+   "regole": "regole/mantova-ambiente-und-san-giorgio-bigarello.json"
   }
  }
 }
