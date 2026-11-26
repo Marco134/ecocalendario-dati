@@ -1,0 +1,444 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Acsel S.p.A.",
+ "numero_verde": "800 497 052",
+ "accesso": "Per le UND Acsel richiede nominativo ditta, partita IVA, copia della bolletta TARI, tessera se emessa e prova della sede legale o operativa nel bacino. Verificare con il centro la categoria, il codice EER, le quantità e la documentazione di trasporto applicabile.",
+ "avviso": "Dieci sedi consortili. In mappa le nove con coordinate pubblicate. Per Sauze d’Oulx consultare la sede in Via Monfol sul sito Acsel. Il cambio orario segue il cambio fra ora solare e legale. Chiedere eventuali chiusure e accessi dedicati.",
+ "fonte": "https://www.acselspa.it/ecocentri-2/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf",
+ "centri": [
+  {
+   "id": "acsel-almese-und",
+   "tipo": "raccolta",
+   "comune": "Almese",
+   "indirizzo": "Località Granaglie, vicino ai campi sportivi",
+   "lat": 45.1127778,
+   "lon": 7.4036944,
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "16:45"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "16:45"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "11:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:45",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  },
+  {
+   "id": "acsel-avigliana-und",
+   "tipo": "raccolta",
+   "comune": "Avigliana",
+   "indirizzo": "Via Nobel 44",
+   "lat": 45.0875833,
+   "lon": 7.3893889,
+   "orari": {
+    "1": [
+     [
+      "08:45",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:45",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:45",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:45",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "16:15"
+     ]
+    ],
+    "6": [
+     [
+      "08:45",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel. Al sabato invernale il PDF riporta apertura alle 10:15. La pagina Ecocentri indica le 08:45. Confermare l’orario prima di partire."
+  },
+  {
+   "id": "acsel-bardonecchia-und",
+   "tipo": "raccolta",
+   "comune": "Bardonecchia",
+   "indirizzo": "Località Rocca Tagliata",
+   "lat": 45.0655833,
+   "lon": 6.7221944,
+   "orari": {
+    "1": [
+     [
+      "07:30",
+      "12:30"
+     ]
+    ],
+    "2": [
+     [
+      "07:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "3": [
+     [
+      "07:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "07:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "5": [
+     [
+      "07:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "07:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel. Una seconda pagina ufficiale riporta pomeriggi diversi. Verificare con Acsel la fascia effettiva."
+  },
+  {
+   "id": "acsel-bussoleno-und",
+   "tipo": "raccolta",
+   "comune": "Bussoleno",
+   "indirizzo": "Località Isolabella",
+   "lat": 45.1379444,
+   "lon": 7.1265556,
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "6": [
+     [
+      "08:45",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  },
+  {
+   "id": "acsel-condove-und",
+   "tipo": "raccolta",
+   "comune": "Condove",
+   "indirizzo": "Località Battagliero, zona industriale",
+   "lat": 45.1130556,
+   "lon": 7.2996944,
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ],
+    "6": [
+     [
+      "12:00",
+      "16:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  },
+  {
+   "id": "acsel-rubiana-und",
+   "tipo": "raccolta",
+   "comune": "Rubiana",
+   "indirizzo": "Località Borgata Ratta",
+   "lat": 45.1333889,
+   "lon": 7.3871389,
+   "orari": {
+    "2": [
+     [
+      "09:30",
+      "12:15"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:45"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:15"
+     ],
+     [
+      "14:00",
+      "16:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  },
+  {
+   "id": "acsel-sant-antonino-di-susa-und",
+   "tipo": "raccolta",
+   "comune": "Sant’Antonino di Susa",
+   "indirizzo": "Località zona cimitero",
+   "lat": 45.1095,
+   "lon": 7.2610556,
+   "orari": {
+    "2": [
+     [
+      "10:00",
+      "12:45"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "15:45"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "11:45"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  },
+  {
+   "id": "acsel-sestriere-und",
+   "tipo": "raccolta",
+   "comune": "Sestriere",
+   "indirizzo": "Via Azzurri d’Italia",
+   "lat": 44.9638889,
+   "lon": 6.8804444,
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "10:00"
+     ],
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "10:00"
+     ],
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "10:00"
+     ],
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "10:00"
+     ],
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "10:00"
+     ],
+     [
+      "13:30",
+      "15:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "11:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  },
+  {
+   "id": "acsel-susa-und",
+   "tipo": "raccolta",
+   "comune": "Susa",
+   "indirizzo": "Località Castelpietra",
+   "lat": 45.1321667,
+   "lon": 7.07525,
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "15:45"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:45"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "15:45"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:45"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "15:45"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "15:45"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "chiuso": false,
+   "avviso": "Orario invernale generale. Per il conferimento della ditta e gli eventuali orari dedicati verificare con Acsel."
+  }
+ ]
+}

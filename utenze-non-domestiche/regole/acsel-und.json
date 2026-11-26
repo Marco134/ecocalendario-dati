@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "nome": "Acsel · Materiali delle attività",
+ "fonte": "https://www.acselspa.it/wp-content/uploads/2025/12/MINIGUIDA-2025.pdf | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://www.acselspa.it/ecocentri-2/",
+ "voci": {
+  "giornali, fogli, quaderni e sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Sfusi, senza sacchetto di plastica."
+  },
+  "scatole e cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Piegare. Per grandi volumi utilizzare il ritiro assegnato da Acsel o il centro abilitato."
+  },
+  "cartoni per latte e succhi": {
+   "dove": "carta",
+   "nota": "Poliaccoppiati da conferire con carta e cartone dopo lo svuotamento."
+  },
+  "carta plastificata e carta oleata": {
+   "dove": "indifferenziato",
+   "nota": "Escluse dalla carta. Conferire nel residuo se privo di sostanze pericolose."
+  },
+  "bottiglie e flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi vuoti. La raccolta Acsel comprende anche gli imballaggi metallici."
+  },
+  "vaschette e polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Usare la raccolta plastica e metalli per i soli imballaggi."
+  },
+  "pellicole e sacchetti da imballaggio": {
+   "dove": "plastica",
+   "nota": "Conferire vuoti. Verificare canale e volume per le attività."
+  },
+  "lattine, scatolame e tappi metallici": {
+   "dove": "plastica",
+   "nota": "Imballaggi metallici con la plastica. Svuotare prima del conferimento."
+  },
+  "bottiglie, barattoli e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Vuoti e senza tappi. Usare il giro commerciale se assegnato."
+  },
+  "pirofile, vetroceramica e porcellana": {
+   "dove": "varia",
+   "nota": "Escluse dagli imballaggi di vetro. Chiedere al gestore la destinazione del materiale per l’attività."
+  },
+  "lastre e specchi grandi": {
+   "dove": "varia",
+   "nota": "Separare dagli imballaggi di vetro. Verificare il centro, il flusso ammesso e la provenienza."
+  },
+  "avanzi alimentari, bucce e fondi di caffè": {
+   "dove": "organico",
+   "nota": "Conferire nel circuito organico assegnato all’indirizzo."
+  },
+  "cancelleria in plastica, penne e gomme": {
+   "dove": "indifferenziato",
+   "nota": "Sono oggetti, esclusi dalla raccolta degli imballaggi in plastica."
+  },
+  "materassi e arredi misti": {
+   "dove": "centro",
+   "nota": "Flusso urbano EER 20 03 07 ammesso per UND nelle schede locali. Verificare accesso e condizioni del centro."
+  },
+  "arredi e reti metalliche": {
+   "dove": "centro",
+   "nota": "EER 20 01 40. Separare gli oggetti soprattutto metallici dagli ingombranti misti."
+  },
+  "legno e pallet": {
+   "dove": "centro",
+   "nota": "Verificare codice e sede. Le quantità previste per cassette e pedane sono distinte dagli arredi."
+  },
+  "sfalci e potature delle attività": {
+   "dove": "varia",
+   "nota": "Confermare origine, titolo, sede e quantità. Le schede distinguono manutenzione in proprio e altri flussi."
+  },
+  "raee delle attività": {
+   "dove": "varia",
+   "nota": "Verificare sede, raggruppamento e modalità per produttore o distributore al Centro di Coordinamento RAEE."
+  },
+  "olio alimentare esausto professionale": {
+   "dove": "varia",
+   "nota": "Verificare il circuito professionale. Il flusso ordinario EER 20 01 25 indicato nell’appendice CADOS è domestico."
+  },
+  "olio lubrificante professionale": {
+   "dove": "varia",
+   "nota": "Verificare il circuito autorizzato. Il flusso ordinario domestico EER 20 01 26* ha condizioni distinte."
+  },
+  "pneumatici da officina": {
+   "dove": "varia",
+   "nota": "Usare il circuito professionale. Il conferimento ordinario EER 16 01 03 è domestico."
+  },
+  "macerie da attività edile": {
+   "dove": "varia",
+   "nota": "Verificare il circuito autorizzato per l’attività. Le quantità esposte per piccoli lavori domestici valgono per quel profilo."
+  },
+  "batterie e accumulatori professionali": {
+   "dove": "varia",
+   "nota": "Separare per tipo. Chiedere il circuito per il relativo codice EER e la provenienza."
+  }
+ }
+}

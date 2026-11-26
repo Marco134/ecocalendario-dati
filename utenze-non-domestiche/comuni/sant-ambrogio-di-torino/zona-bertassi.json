@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "comune": "Sant'Ambrogio di Torino",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "Borgata Bertassi · grandi produttori",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-santambrogio-di-torino | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/SANT-AMBROGIO-2026.pdf | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/SANT-AMBROGIO-BERTASSI-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+ "raccolte": {
+  "2026-11-26": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Seguire l’elenco dei civici nel PDF. Carta martedì, vetro e plastica/metalli giovedì. Il 9 dicembre la carta commerciale viene raccolta al mattino."
+ ]
+}

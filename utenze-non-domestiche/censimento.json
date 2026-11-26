@@ -178,7 +178,12 @@
    "nome": "Almese",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-almese | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/ALMESE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Verificare con Acsel per civico l’assegnazione al porta a porta e le frazioni ritirate per l’attività. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "alpette",
@@ -444,7 +449,12 @@
    "nome": "Avigliana",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-avigliana | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/AVIGLIANA-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Verificare con Acsel per civico l’assegnazione al porta a porta e le frazioni ritirate per l’attività. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "avigliano-umbro",
@@ -621,7 +631,12 @@
    "nome": "Bardonecchia",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-bardonecchia | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Raccolta stradale generale e giri commerciali stagionali con profili separati. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "barlassina",
@@ -1054,7 +1069,12 @@
    "nome": "Borgone Susa",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-borgone-di-susa | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/BORGONE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "bormio",
@@ -1265,7 +1285,12 @@
    "nome": "Bruzolo",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-bruzolo | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/BRUZOLO-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "buglio-in-monte",
@@ -1362,7 +1387,12 @@
    "nome": "Bussoleno",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-bussoleno | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/BUSSOLENO-ZONA-1-2026.pdf | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/BUSSOLENO-ZONA-2-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Porta a porta nelle zone 1 e 2. Nella zona 2 Acsel elenca anche isole interrate. Confermare il circuito del civico e la tessera. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
   },
   {
    "id": "buttigliera-alta",
@@ -1638,7 +1668,12 @@
    "nome": "Caprie",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-caprie | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/CAPRIE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "caprino-bergamasco",
@@ -1864,7 +1899,12 @@
    "nome": "Caselette",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-caselette | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/CASELETTE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "caselle-lurani",
@@ -2411,7 +2451,12 @@
    "nome": "Cesana Torinese",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-cesana-torinese | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Raccolta stradale per stagione, con isole interrate documentate nella scheda. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "cesara",
@@ -2462,7 +2507,12 @@
    "nome": "Chianocco",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-chianocco | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/CHIANOCCO-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "chiavenna",
@@ -2516,7 +2566,12 @@
    "nome": "Chiomonte",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-chiomonte | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "chiuro",
@@ -2543,7 +2598,12 @@
    "nome": "Chiusa di San Michele",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-chiusa-san-michele | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/CHIUSA-SAN-MICHELE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "chivasso",
@@ -2625,7 +2685,12 @@
    "nome": "Claviere",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-claviere | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Circuito stradale. La scheda del gestore indica carta per le attività il lunedì e giovedì in bassa stagione. Confermare il periodo indicato come giugno–settembre–novembre e le condizioni di assegnazione prima di usare le date. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "coassolo-torinese",
@@ -2777,7 +2842,12 @@
    "nome": "Condove",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-condove | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/CONDOVE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Porta a porta a cinque filiere e postazioni con isole interrate. Consultare la mappa e chiedere ad Acsel il giro del civico. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "corio",
@@ -3263,7 +3333,12 @@
    "nome": "Exilles",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-exilles | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "fabro",
@@ -3615,7 +3690,12 @@
    "nome": "Giaglione",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-giaglione | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "gianico",
@@ -3736,7 +3816,12 @@
    "nome": "Gravere",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-gravere | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "grezzago",
@@ -4651,7 +4736,12 @@
    "nome": "Mattie",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-mattie | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "mazzo-di-valtellina",
@@ -4678,7 +4768,12 @@
    "nome": "Meana di Susa",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-meana-di-susa | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "mediglia",
@@ -4853,7 +4948,12 @@
    "nome": "Mompantero",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-mompantero | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/MOMPANTERO-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Verificare con Acsel per civico l’assegnazione al porta a porta e le frazioni ritirate per l’attività. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "monastero-di-lanzo",
@@ -4887,7 +4987,12 @@
    "nome": "Moncenisio",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-moncenisio | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "monchiero",
@@ -5365,7 +5470,12 @@
    "nome": "Novalesa",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-novalesa | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "novate-mezzola",
@@ -5597,7 +5707,12 @@
    "nome": "Oulx",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-oulx | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Raccolta stradale generale e giri commerciali stagionali con profili separati. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "ozegna",
@@ -6845,7 +6960,12 @@
    "nome": "Rubiana",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-rubiana | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/RUBIANA-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "rueglio",
@@ -6872,7 +6992,12 @@
    "nome": "Salbertrand",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-salbertrand | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "salerano-canavese",
@@ -6996,7 +7121,12 @@
    "nome": "San Didero",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-san-didero | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-felice-del-benaco",
@@ -7072,7 +7202,12 @@
    "nome": "San Giorio di Susa",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-san-giorio-di-susa | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-giusto-canavese",
@@ -7225,7 +7360,12 @@
    "nome": "Sant'Ambrogio di Torino",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-santambrogio-di-torino | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/SANT-AMBROGIO-2026.pdf | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/SANT-AMBROGIO-BERTASSI-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Porta a porta, borgata Bertassi con elenco dedicato di vie e civici e isole interrate nel centro storico. Verificare assegnazione e accesso. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
   },
   {
    "id": "sant-angelo-lodigiano",
@@ -7242,7 +7382,12 @@
    "nome": "Sant'Antonino di Susa",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sant-antonino | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/SANT-ANTONINO-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Porta a porta a cinque filiere e isole interrate. Verificare il circuito del civico. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "santa-maria-hoe",
@@ -7296,14 +7441,24 @@
    "nome": "Sauze d'Oulx",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sauze-oulx | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Raccolta stradale generale e giri commerciali confermati in media e alta stagione. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "sauze-di-cesana",
    "nome": "Sauze di Cesana",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sauze-cesana | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "saviore-dell-adamello",
@@ -7378,7 +7533,12 @@
    "nome": "Sestriere",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sestriere | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Raccolta stradale per stagione, con isole interrate documentate nella scheda. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "settala",
@@ -7672,7 +7832,12 @@
    "nome": "Susa",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-susa | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/SUSA-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Porta a porta a cinque filiere e isole interrate. Verificare il circuito del civico. Sono pubblicate solo le frazioni e i turni commerciali documentati. Le coperture mancanti sono nella tabella delle verifiche aperte.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "susegana",
@@ -8064,7 +8229,12 @@
    "nome": "Vaie",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-vaie | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/VAIE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "Residuo a domicilio e differenziata alle isole di prossimità. Sulla statale il gestore descrive anche il porta a porta di carta, plastica e vetro. Confermare per civico. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "val-masino",
@@ -8367,7 +8537,12 @@
    "nome": "Venaus",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-venaus | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel descrive la raccolta stradale. Verificare le postazioni, la tessera e l’eventuale giro dedicato per l’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "venegono-inferiore",
@@ -8612,14 +8787,24 @@
    "nome": "Villar Dora",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-villardora | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/VILLARDORA_2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "villar-focchiardo",
    "nome": "Villar Focchiardo",
    "provincia": "TO",
    "gestore": "Acsel S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-villarfocchiardo | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/VILLAR_FOCCHIARDO-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+   "verificato": "2026-11-26",
+   "nota": "La scheda Acsel indica il solo residuo nel porta a porta generale. Le frazioni differenziate usano le isole di prossimità chiuse. Chiedere il servizio assegnato all’attività. Contattare Acsel per l’assegnazione UND. Nessuna data commerciale pubblicata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "villar-pellice",

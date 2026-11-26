@@ -2178,6 +2178,61 @@
    "regole_en": [
     "Free home collection is reserved for households. Businesses should check with SIA for authorised bulky waste and recycling centre terms."
    ]
+  },
+  {
+   "id": "acsel-und",
+   "nome": "Acsel · UND",
+   "telefono": "800 497 052",
+   "fonte": "https://www.acselspa.it/ecocentri-2/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://www.acselspa.it/raccolta-ingombranti-e-verde/ | https://www.acselspa.it/wp-content/uploads/2025/12/MINIGUIDA-2025.pdf",
+   "verificato": "2026-11-26",
+   "gestori": [],
+   "comuni": [
+    "almese",
+    "avigliana",
+    "bardonecchia",
+    "borgone-susa",
+    "bruzolo",
+    "bussoleno",
+    "caprie",
+    "caselette",
+    "cesana-torinese",
+    "chianocco",
+    "chiomonte",
+    "chiusa-di-san-michele",
+    "claviere",
+    "condove",
+    "exilles",
+    "giaglione",
+    "gravere",
+    "mattie",
+    "meana-di-susa",
+    "mompantero",
+    "moncenisio",
+    "novalesa",
+    "oulx",
+    "rubiana",
+    "salbertrand",
+    "san-didero",
+    "san-giorio-di-susa",
+    "sant-ambrogio-di-torino",
+    "sant-antonino-di-susa",
+    "sauze-d-oulx",
+    "sauze-di-cesana",
+    "sestriere",
+    "susa",
+    "vaie",
+    "venaus",
+    "villar-dora",
+    "villar-focchiardo"
+   ],
+   "prenotazione": false,
+   "prenota_url": null,
+   "regole": [
+    "Per le UND gli ecocentri possono accettare ingombranti urbani ammessi EER 20 03 07. Nove schede indicano 10 pezzi o fino a 2 m³ al giorno. La scheda di Sauze d’Oulx riporta al massimo 10 pezzi una volta al giorno. Confermare sede, titolo e condizioni. Per l’eventuale ritiro presso l’attività chiedere conferma ad Acsel."
+   ],
+   "regole_en": [
+    "Check municipal bulky waste eligibility and recycling centre conditions with Acsel. Ask for business collection availability."
+   ]
   }
  ]
 }

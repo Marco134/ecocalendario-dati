@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "comune": "Almese",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "Attività selezionate",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-almese | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/ALMESE-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+ "raccolte": {
+  "2026-11-26": [
+   "vetro"
+  ],
+  "2026-11-30": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "vetro"
+  ],
+  "2026-12-07": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "vetro"
+  ],
+  "2026-12-14": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "vetro"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "vetro"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Ditta già individuata da Acsel per grandi produzioni. Esporre la plastica il lunedì e la carta il martedì entro le 12:00, il vetro il giovedì entro le 06:00. Verificare il turno commerciale della carta dell’8 dicembre."
+ ]
+}

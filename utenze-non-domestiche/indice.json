@@ -267,6 +267,24 @@
    ]
   },
   {
+   "id": "almese",
+   "nome": "Almese",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1169,
+   "lon": 7.3945,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-almese",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Attività selezionate",
+     "file": "comuni/almese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "alpette",
    "nome": "Alpette",
    "provincia": "TO",
@@ -632,6 +650,30 @@
    "ecocentri": "ecocentri/conser-vco-und-aurano.json"
   },
   {
+   "id": "avigliana",
+   "nome": "Avigliana",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0779,
+   "lon": 7.3984,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-avigliana",
+   "zone": [
+    {
+     "id": "1",
+     "nome": "Zona 1 · grandi produttori",
+     "file": "comuni/avigliana/zona-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "2",
+     "nome": "Zona 2 · grandi produttori",
+     "file": "comuni/avigliana/zona-2.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "avigliano-umbro",
    "nome": "Avigliano Umbro",
    "provincia": "TR",
@@ -935,6 +977,30 @@
      "id": "unica",
      "nome": "Raccolta ordinaria · attività",
      "file": "comuni/barbaresco/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "bardonecchia",
+   "nome": "Bardonecchia",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0783,
+   "lon": 6.7032,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-bardonecchia",
+   "zone": [
+    {
+     "id": "stagionale",
+     "nome": "Attività commerciali · turni stagionali",
+     "file": "comuni/bardonecchia/zona-stagionale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/bardonecchia/zona-stradale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -1621,6 +1687,24 @@
    "ecocentri": "ecocentri/conser-vco-und-borgomezzavalle.json"
   },
   {
+   "id": "borgone-susa",
+   "nome": "Borgone Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.123,
+   "lon": 7.2409,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-borgone-di-susa",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/borgone-susa/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "bormio",
    "nome": "Bormio",
    "provincia": "SO",
@@ -1850,6 +1934,24 @@
    ]
   },
   {
+   "id": "bruzolo",
+   "nome": "Bruzolo",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1422,
+   "lon": 7.1956,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-bruzolo",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/bruzolo/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "buglio-in-monte",
    "nome": "Buglio in Monte",
    "provincia": "SO",
@@ -1975,6 +2077,36 @@
      "nome": "Zona unica",
      "file": "comuni/bussero/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "bussoleno",
+   "nome": "Bussoleno",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1393,
+   "lon": 7.1477,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-bussoleno",
+   "zone": [
+    {
+     "id": "1",
+     "nome": "Zona 1 · attività selezionate",
+     "file": "comuni/bussoleno/zona-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "2",
+     "nome": "Zona 2 · attività selezionate",
+     "file": "comuni/bussoleno/zona-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/bussoleno/zona-misto.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -2478,6 +2610,24 @@
    "ecocentri": "ecocentri/conser-vco-und-caprezzo.json"
   },
   {
+   "id": "caprie",
+   "nome": "Caprie",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1188,
+   "lon": 7.3319,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-caprie",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/caprie/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "carate-brianza",
    "nome": "Carate Brianza",
    "provincia": "MB",
@@ -2839,6 +2989,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-cascinette-divrea/"
+  },
+  {
+   "id": "caselette",
+   "nome": "Caselette",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1047,
+   "lon": 7.4808,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-caselette",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/caselette/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "caselle-lurani",
@@ -3573,6 +3741,24 @@
    ]
   },
   {
+   "id": "cesana-torinese",
+   "nome": "Cesana Torinese",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 44.9524,
+   "lon": 6.7907,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-cesana-torinese",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/cesana-torinese/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "cesara",
    "nome": "Cesara",
    "provincia": "VB",
@@ -3647,6 +3833,24 @@
      "nome": "Contenitori stradali · informazioni UND",
      "file": "comuni/chialamberto/zona-stradale.json",
      "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "chianocco",
+   "nome": "Chianocco",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1486,
+   "lon": 7.1682,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-chianocco",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/chianocco/zona-misto.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -3746,6 +3950,24 @@
    ]
   },
   {
+   "id": "chiomonte",
+   "nome": "Chiomonte",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1195,
+   "lon": 6.9853,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-chiomonte",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/chiomonte/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "chiuro",
    "nome": "Chiuro",
    "provincia": "SO",
@@ -3758,6 +3980,24 @@
      "id": "da-confermare",
      "nome": "Scheda attività",
      "file": "comuni/chiuro/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "chiusa-di-san-michele",
+   "nome": "Chiusa di San Michele",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1039,
+   "lon": 7.327,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-chiusa-san-michele",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/chiusa-di-san-michele/zona-misto.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -3852,6 +4092,24 @@
      "id": "cintura-urbana-4",
      "nome": "Cintura urbana 4",
      "file": "comuni/civitella-di-romagna/zona-cintura-urbana-4.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "claviere",
+   "nome": "Claviere",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 44.9388,
+   "lon": 6.7503,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-claviere",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/claviere/zona-stradale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -4081,6 +4339,30 @@
      "nome": "Zona unica",
      "file": "comuni/concorezzo/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "condove",
+   "nome": "Condove",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1174,
+   "lon": 7.3095,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-condove",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Attività selezionate · porta a porta",
+     "file": "comuni/condove/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/condove/zona-misto.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -4671,6 +4953,24 @@
      "id": "unica",
      "nome": "Zona unica",
      "file": "comuni/endine-gaiano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "exilles",
+   "nome": "Exilles",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0974,
+   "lon": 6.9291,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-exilles",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/exilles/zona-stradale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -5430,6 +5730,24 @@
    "ecocentri": "ecocentri/conser-vco-und-ghiffa.json"
   },
   {
+   "id": "giaglione",
+   "nome": "Giaglione",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1402,
+   "lon": 7.0148,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-giaglione",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/giaglione/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "giavera-del-montello",
    "nome": "Giavera del Montello",
    "provincia": "TV",
@@ -5588,6 +5906,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/gravellona-toce/",
    "ecocentri": "ecocentri/conser-vco-und-gravellona-toce.json"
+  },
+  {
+   "id": "gravere",
+   "nome": "Gravere",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1061,
+   "lon": 7.0274,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-gravere",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/gravere/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "grezzago",
@@ -7056,6 +7392,24 @@
    ]
   },
   {
+   "id": "mattie",
+   "nome": "Mattie",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1181,
+   "lon": 7.1151,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-mattie",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/mattie/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "mazzo-di-valtellina",
    "nome": "Mazzo di Valtellina",
    "provincia": "SO",
@@ -7095,6 +7449,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-mazze/"
+  },
+  {
+   "id": "meana-di-susa",
+   "nome": "Meana di Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0976,
+   "lon": 7.0662,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-meana-di-susa",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/meana-di-susa/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "mediglia",
@@ -7396,6 +7768,24 @@
    ]
   },
   {
+   "id": "mompantero",
+   "nome": "Mompantero",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1421,
+   "lon": 7.0644,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-mompantero",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Attività commerciali · plastica e metalli",
+     "file": "comuni/mompantero/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "monastero-di-lanzo",
    "nome": "Monastero di Lanzo",
    "provincia": "TO",
@@ -7451,6 +7841,24 @@
      "nome": "Zona unica",
      "file": "comuni/monastier-di-treviso/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "moncenisio",
+   "nome": "Moncenisio",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.2053,
+   "lon": 6.9825,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-moncenisio",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/moncenisio/zona-stradale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -8200,6 +8608,24 @@
    "regole": "regole/gelsia-und-nova-milanese.json"
   },
   {
+   "id": "novalesa",
+   "nome": "Novalesa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1896,
+   "lon": 7.0155,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-novalesa",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/novalesa/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "novate-mezzola",
    "nome": "Novate Mezzola",
    "provincia": "SO",
@@ -8453,6 +8879,30 @@
      "nome": "Eco-Punti e servizi dedicati",
      "file": "comuni/osasco/zona-ecopunti-e-servizi-dedicati.json",
      "valido_al": "2027-12-31"
+    }
+   ]
+  },
+  {
+   "id": "oulx",
+   "nome": "Oulx",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0331,
+   "lon": 6.8325,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-oulx",
+   "zone": [
+    {
+     "id": "stagionale",
+     "nome": "Attività commerciali · turni stagionali",
+     "file": "comuni/oulx/zona-stagionale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/oulx/zona-stradale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -10574,6 +11024,24 @@
    ]
   },
   {
+   "id": "rubiana",
+   "nome": "Rubiana",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1379,
+   "lon": 7.3848,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-rubiana",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/rubiana/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "rueglio",
    "nome": "Rueglio",
    "provincia": "TO",
@@ -10620,6 +11088,24 @@
      "id": "cartone-commerciale",
      "nome": "Cartone commerciale",
      "file": "comuni/salassa/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "salbertrand",
+   "nome": "Salbertrand",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.072,
+   "lon": 6.8832,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-salbertrand",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/salbertrand/zona-stradale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -10843,6 +11329,24 @@
    ]
   },
   {
+   "id": "san-didero",
+   "nome": "San Didero",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1353,
+   "lon": 7.2129,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-san-didero",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/san-didero/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "san-felice-del-benaco",
    "nome": "San Felice del Benaco",
    "provincia": "BS",
@@ -10969,6 +11473,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-san-giorgio-c-se/"
+  },
+  {
+   "id": "san-giorio-di-susa",
+   "nome": "San Giorio di Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.128,
+   "lon": 7.178,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-san-giorio-di-susa",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/san-giorio-di-susa/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "san-giovanni-bianco",
@@ -11218,6 +11740,36 @@
    ]
   },
   {
+   "id": "sant-ambrogio-di-torino",
+   "nome": "Sant'Ambrogio di Torino",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0994,
+   "lon": 7.3623,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-santambrogio-di-torino",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Attività commerciali · vetro",
+     "file": "comuni/sant-ambrogio-di-torino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "bertassi",
+     "nome": "Borgata Bertassi · grandi produttori",
+     "file": "comuni/sant-ambrogio-di-torino/zona-bertassi.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/sant-ambrogio-di-torino/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "sant-angelo-lodigiano",
    "nome": "Sant'Angelo Lodigiano",
    "provincia": "LO",
@@ -11239,6 +11791,30 @@
      "nome": "Zona B",
      "file": "comuni/sant-angelo-lodigiano/zona-b.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "sant-antonino-di-susa",
+   "nome": "Sant'Antonino di Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1071,
+   "lon": 7.2736,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sant-antonino",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Attività commerciali · vetro",
+     "file": "comuni/sant-antonino-di-susa/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/sant-antonino-di-susa/zona-misto.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -11308,6 +11884,48 @@
      "id": "unica",
      "nome": "Raccolta ordinaria · attività",
      "file": "comuni/santo-stefano-roero/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "sauze-d-oulx",
+   "nome": "Sauze d'Oulx",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.027,
+   "lon": 6.8583,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sauze-oulx",
+   "zone": [
+    {
+     "id": "stagionale",
+     "nome": "Attività commerciali · media e alta stagione",
+     "file": "comuni/sauze-d-oulx/zona-stagionale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/sauze-d-oulx/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "sauze-di-cesana",
+   "nome": "Sauze di Cesana",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 44.9405,
+   "lon": 6.859,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sauze-cesana",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/sauze-di-cesana/zona-stradale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -11420,6 +12038,24 @@
      "id": "unica",
      "nome": "Raccolta ordinaria · attività",
      "file": "comuni/serralunga-d-alba/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "sestriere",
+   "nome": "Sestriere",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 44.9585,
+   "lon": 6.8787,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-sestriere",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/sestriere/zona-stradale.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -11974,6 +12610,30 @@
      "nome": "Gruppo Delta",
      "file": "comuni/sumirago/zona-unica.json",
      "valido_al": "2027-05-31"
+    }
+   ]
+  },
+  {
+   "id": "susa",
+   "nome": "Susa",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1384,
+   "lon": 7.0493,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-susa",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Attività commerciali · vetro",
+     "file": "comuni/susa/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/susa/zona-misto.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -12845,6 +13505,24 @@
    ]
   },
   {
+   "id": "vaie",
+   "nome": "Vaie",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.0958,
+   "lon": 7.2935,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-vaie",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/vaie/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "val-della-torre",
    "nome": "Val della Torre",
    "provincia": "TO",
@@ -13231,6 +13909,24 @@
      "nome": "Zona unica",
      "file": "comuni/vedelago/zona-unica.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "venaus",
+   "nome": "Venaus",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1549,
+   "lon": 7.0126,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-venaus",
+   "zone": [
+    {
+     "id": "stradale",
+     "nome": "Circuito stradale · informazioni UND",
+     "file": "comuni/venaus/zona-stradale.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -13652,6 +14348,42 @@
      "nome": "Utenze economiche",
      "file": "comuni/villanovafranca/zona-unica.json",
      "valido_al": "2027-10-31"
+    }
+   ]
+  },
+  {
+   "id": "villar-dora",
+   "nome": "Villar Dora",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1146,
+   "lon": 7.3835,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-villardora",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/villar-dora/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "villar-focchiardo",
+   "nome": "Villar Focchiardo",
+   "provincia": "TO",
+   "gestore": "Acsel S.p.A.",
+   "lat": 45.1114,
+   "lon": 7.2247,
+   "consorzio": "acsel-und",
+   "zone_url": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-villarfocchiardo",
+   "zone": [
+    {
+     "id": "misto",
+     "nome": "Postazioni e servizi · informazioni UND",
+     "file": "comuni/villar-focchiardo/zona-misto.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -14487,6 +15219,12 @@
    "gestore": "CISA",
    "ecocentri": "ecocentri/cisa-und.json",
    "regole": "regole/cisa-und.json"
+  },
+  "acsel-und": {
+   "nome": "Acsel · utenze non domestiche",
+   "gestore": "Acsel S.p.A.",
+   "ecocentri": "ecocentri/acsel-und.json",
+   "regole": "regole/acsel-und.json"
   }
  }
 }

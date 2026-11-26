@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Avigliana",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "Zona 2 · grandi produttori",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-avigliana | https://wwwdevel.acselspa.it/wp-content/uploads/CALENDARI/AVIGLIANA-2026.pdf | https://www.acselspa.it/ecocentri-2/",
+ "raccolte": {
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "vetro"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "vetro"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "vetro"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vetro martedì, carta mercoledì, plastica/metalli giovedì. Esporre entro le 12:00. Il 9 dicembre il vetro commerciale è al mattino: esporre entro le 06:00. La carta è indicata nella stessa giornata."
+ ]
+}

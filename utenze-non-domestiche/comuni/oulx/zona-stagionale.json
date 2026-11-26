@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "comune": "Oulx",
+ "provincia": "TO",
+ "gestore": "Acsel S.p.A.",
+ "zona": "Attività commerciali · turni stagionali",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2026-12-31",
+ "fonte": "https://wwwdevel.acselspa.it/wp/servizi-di-raccolta/servizi-di-raccolta-oulx | https://www.acselspa.it/ecocentri-2/",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "carta"
+  ]
+ },
+ "note": [
+  "Giro commerciale 06:00–12:00. Residuo e vetro in bassa stagione, residuo in media, residuo e carta in alta. Le date festive dell’8, 25 e 26 dicembre richiedono verifica."
+ ]
+}
