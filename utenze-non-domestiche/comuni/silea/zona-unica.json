@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "comune": "Silea",
+ "provincia": "TV",
+ "gestore": "Contarina S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://contarina.it/files/ecocalendari/21_allegato_bassa_Silea_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1",
+ "esposizione": "Esporre i contenitori la sera prima del giorno indicato, nel punto di raccolta assegnato.",
+ "raccolte": {
+  "2026-11-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2027-01-02": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-05": [
+   "organico",
+   "sfalci"
+  ],
+  "2027-01-08": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-09": [
+   "indifferenziato"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "carta"
+  ],
+  "2027-01-15": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "organico",
+   "sfalci"
+  ],
+  "2027-01-20": [
+   "indifferenziato"
+  ],
+  "2027-01-22": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "carta"
+  ],
+  "2027-01-29": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina.",
+  "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu.",
+  "Il giro del vegetale richiede l’attivazione del servizio con Contarina."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

@@ -77,3 +77,7 @@ Calendari commerciali e artigianali per 51 comuni. Alba e Trezzo Tinella hanno s
 ## SECAM
 
 Verificati 51 comuni. Dieci hanno turni datati per frazioni o profili confermati. Nei restanti 41 sono disponibili le schede con contatti ufficiali e informazioni per le attività. Cinque comuni condividono l’accesso convenzionato alla Ventina. [SECAM](https://www.secam.net/)
+
+## Contarina · Treviso
+
+Quarantanove comuni e 54 zone con turni ordinari delle attività fino al 31 gennaio 2027. Per dotazioni dedicate si segue il contratto. Negli EcoCentri le attività prenotano la fascia e si presentano con EcoCard e autorizzazione. [EcoCalendario Impresa](https://contarina.it/impresa/racolta-differenziata/ecocalendario)

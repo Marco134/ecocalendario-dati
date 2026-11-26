@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-25",
+ "aggiornato": "2026-11-26",
  "gestori": [
   {
    "id": "cosp-orvietano",
@@ -1426,6 +1426,74 @@
    ],
    "regole_en": [
     "Ask SECAM whether collection is available for your business and about limits and costs."
+   ]
+  },
+  {
+   "id": "contarina-und",
+   "nome": "Contarina · UND",
+   "gestori": [],
+   "comuni": [
+    "altivole",
+    "arcade",
+    "asolo",
+    "borso-del-grappa",
+    "breda-di-piave",
+    "caerano-di-san-marco",
+    "carbonera",
+    "casale-sul-sile",
+    "casier",
+    "castelcucco",
+    "castelfranco-veneto",
+    "castello-di-godego",
+    "cavaso-del-tomba",
+    "cornuda",
+    "crocetta-del-montello",
+    "fonte",
+    "giavera-del-montello",
+    "istrana",
+    "loria",
+    "maser",
+    "maserada-sul-piave",
+    "monastier-di-treviso",
+    "monfumo",
+    "montebelluna",
+    "morgano",
+    "nervesa-della-battaglia",
+    "paese",
+    "pederobba",
+    "pieve-del-grappa",
+    "ponzano-veneto",
+    "possagno",
+    "povegliano",
+    "preganziol",
+    "quinto-di-treviso",
+    "resana",
+    "riese-pio-x",
+    "roncade",
+    "san-biagio-di-callalta",
+    "san-zenone-degli-ezzelini",
+    "silea",
+    "spresiano",
+    "susegana",
+    "trevignano",
+    "treviso",
+    "vedelago",
+    "villorba",
+    "volpago-del-montello",
+    "zenson-di-piave",
+    "zero-branco"
+   ],
+   "telefono": "800 07 66 11",
+   "orari": "Lun–ven 08:30–18:00 e sab 08:30–13:00",
+   "prenota_url": "https://sportellonline.servizicontarina.it/",
+   "prenotazione": true,
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/files/filemanager/source/raccolta%20differenziata/nuove%20regole%20ecocentri%202024/accesso_ecocentro_NONDOM.pdf | https://contarina.it/contatti/262/impresa",
+   "verificato": "2026-11-26",
+   "regole": [
+    "Gli ingombranti urbani autorizzati si portano all’EcoCentro su prenotazione con EcoCard, fino a 10 pezzi per accesso e 20 all’anno per utenza. Per un eventuale ritiro a domicilio, verificare disponibilità, condizioni e costo con Contarina."
+   ],
+   "regole_en": [
+    "Book a visit and bring your EcoCard. If authorised, the bulky waste limits are 10 items per visit and 20 per year. Ask Contarina about collection from business premises."
    ]
   }
  ]

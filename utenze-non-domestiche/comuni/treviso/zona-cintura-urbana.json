@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "comune": "Treviso",
+ "provincia": "TV",
+ "gestore": "Contarina S.p.A.",
+ "zona": "Cintura urbana",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://contarina.it/files/ecocalendari/1_allegato_bassa_Treviso_CU_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1",
+ "esposizione": "Esporre i contenitori la sera prima del giorno indicato, nel punto di raccolta assegnato.",
+ "raccolte": {
+  "2026-11-26": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico",
+   "sfalci"
+  ],
+  "2027-01-04": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-09": [
+   "carta"
+  ],
+  "2027-01-11": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-13": [
+   "indifferenziato"
+  ],
+  "2027-01-14": [
+   "organico",
+   "sfalci"
+  ],
+  "2027-01-18": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-20": [
+   "carta"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-25": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-27": [
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "organico",
+   "sfalci"
+  ]
+ },
+ "note": [
+  "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina.",
+  "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu.",
+  "Il giro del vegetale richiede l’attivazione del servizio con Contarina."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

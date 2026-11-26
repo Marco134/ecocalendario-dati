@@ -1,0 +1,212 @@
+{
+ "schema": 1,
+ "comune": "Montebelluna",
+ "provincia": "TV",
+ "gestore": "Contarina S.p.A.",
+ "zona": "Centro storico",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://contarina.it/files/ecocalendari/46_allegato_bassa_Montebelluna_CS_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1",
+ "esposizione": "Esporre i contenitori la sera prima del giorno indicato, nel punto di raccolta assegnato.",
+ "raccolte": {
+  "2026-11-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-27": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "sfalci"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "sfalci"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "sfalci"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "sfalci"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-02": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-04": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-05": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-08": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-09": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-11": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-12": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-14": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-15": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-16": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-18": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-19": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-20": [
+   "sfalci"
+  ],
+  "2027-01-21": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-22": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-23": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-25": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-26": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-28": [
+   "organico",
+   "plastica"
+  ],
+  "2027-01-29": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2027-01-30": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina.",
+  "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu.",
+  "Il giro del vegetale richiede l’attivazione del servizio con Contarina."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

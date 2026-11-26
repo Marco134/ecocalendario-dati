@@ -1,0 +1,955 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-26",
+ "gestore": "Contarina S.p.A.",
+ "numero_verde": "800 07 66 11",
+ "orari_numero_verde": "Lun–ven 08:30–18:00 e sab 08:30–13:00",
+ "accesso": "Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione.",
+ "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/mappa-ecocentri-1 | https://contarina.it/files/filemanager/source/raccolta%20differenziata/nuove%20regole%20ecocentri%202024/accesso_ecocentro_NONDOM.pdf",
+ "prenota_url": "https://sportellonline.servizicontarina.it/",
+ "centri": [
+  {
+   "id": "contarina-und-026001-1",
+   "tipo": "raccolta",
+   "comune": "Altivole",
+   "indirizzo": "via della Botte (Caselle)",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.7510571,
+   "lon": 11.9665986,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026002-1",
+   "tipo": "raccolta",
+   "comune": "Arcade",
+   "indirizzo": "via Roma",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.778772,
+   "lon": 12.233333,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026003-1",
+   "tipo": "raccolta",
+   "comune": "Asolo",
+   "indirizzo": "via Fermi",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.783156,
+   "lon": 11.910932,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026004-1",
+   "tipo": "raccolta",
+   "comune": "Borso del Grappa",
+   "indirizzo": "via Vallina Orticella",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.813393,
+   "lon": 11.809252,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026005-1",
+   "tipo": "raccolta",
+   "comune": "Breda di Piave",
+   "indirizzo": "via Volta - loc. Pero",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.703425,
+   "lon": 12.360095,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026006-1",
+   "tipo": "raccolta",
+   "comune": "Caerano di San Marco",
+   "indirizzo": "via Vittime del Vajont",
+   "orari": {
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.75675,
+   "lon": 11.993018,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026008-1",
+   "tipo": "raccolta",
+   "comune": "Carbonera",
+   "indirizzo": "via Tommaso Salsa",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.678542,
+   "lon": 12.309534,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026009-1",
+   "tipo": "raccolta",
+   "comune": "Casale sul Sile",
+   "indirizzo": "via della Ricerca",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.600948,
+   "lon": 12.290272,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026010-1",
+   "tipo": "raccolta",
+   "comune": "Casier",
+   "indirizzo": "via Bigonzo",
+   "orari": {
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.608978,
+   "lon": 12.263099,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026011-1",
+   "tipo": "raccolta",
+   "comune": "Castelcucco",
+   "indirizzo": "via S. Antonio",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.83204,
+   "lon": 11.888111,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026012-1",
+   "tipo": "raccolta",
+   "comune": "Castelfranco Veneto",
+   "indirizzo": "via dell'Impresa",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.679165,
+   "lon": 11.969086,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026012-2",
+   "tipo": "raccolta",
+   "comune": "Castelfranco Veneto",
+   "indirizzo": "via Montebelluna di S. Andrea",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.647949,
+   "lon": 11.903614,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026036-1",
+   "tipo": "raccolta",
+   "comune": "Loria",
+   "indirizzo": "via delle Fosse",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.720117,
+   "lon": 11.865434,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione. Sede condivisa da Castello di Godego e Loria."
+  },
+  {
+   "id": "contarina-und-026014-1",
+   "tipo": "raccolta",
+   "comune": "Cavaso del Tomba",
+   "indirizzo": "via Pasubio",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.857561,
+   "lon": 11.900648,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione. Sede condivisa da Cavaso del Tomba e Possagno."
+  },
+  {
+   "id": "contarina-und-026023-1",
+   "tipo": "raccolta",
+   "comune": "Cornuda",
+   "indirizzo": "via Piave",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.837983,
+   "lon": 12.012073,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026025-1",
+   "tipo": "raccolta",
+   "comune": "Crocetta del Montello",
+   "indirizzo": "via Artigiani",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.81254,
+   "lon": 12.024276,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026029-1",
+   "tipo": "raccolta",
+   "comune": "Fonte",
+   "indirizzo": "via delle Industrie (Onè)",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.780322,
+   "lon": 11.884848,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026062-1",
+   "tipo": "raccolta",
+   "comune": "Povegliano",
+   "indirizzo": "via Prato della Valle",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.767996,
+   "lon": 12.196797,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione. Sede condivisa da Giavera del Montello e Povegliano."
+  },
+  {
+   "id": "contarina-und-026035-1",
+   "tipo": "raccolta",
+   "comune": "Istrana",
+   "indirizzo": "via Toniolo",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.694006,
+   "lon": 12.110272,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026039-1",
+   "tipo": "raccolta",
+   "comune": "Maser",
+   "indirizzo": "via Roccoler",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.802773,
+   "lon": 11.966902,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026040-1",
+   "tipo": "raccolta",
+   "comune": "Maserada sul Piave",
+   "indirizzo": "via Papadopoli",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.742034,
+   "lon": 12.326832,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026044-1",
+   "tipo": "raccolta",
+   "comune": "Monastier di Treviso",
+   "indirizzo": "via Vallio",
+   "orari": {
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.652544,
+   "lon": 12.417764,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026045-1",
+   "tipo": "raccolta",
+   "comune": "Monfumo",
+   "indirizzo": "via Campiel",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.824171,
+   "lon": 11.928344,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026046-1",
+   "tipo": "raccolta",
+   "comune": "Montebelluna",
+   "indirizzo": "via Feltrina Sud",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.781952,
+   "lon": 12.060967,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026046-2",
+   "tipo": "raccolta",
+   "comune": "Montebelluna",
+   "indirizzo": "via San Gaetano",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.762354,
+   "lon": 12.049214,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026047-1",
+   "tipo": "raccolta",
+   "comune": "Morgano",
+   "indirizzo": "via dell'Ambiente",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.629565,
+   "lon": 12.091382,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026050-1",
+   "tipo": "raccolta",
+   "comune": "Nervesa della Battaglia",
+   "indirizzo": "via Perosin",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.806569,
+   "lon": 12.197269,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026055-1",
+   "tipo": "raccolta",
+   "comune": "Paese",
+   "indirizzo": "via Baldrocco",
+   "orari": {
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.701,
+   "lon": 12.15289,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026056-1",
+   "tipo": "raccolta",
+   "comune": "Pederobba",
+   "indirizzo": "via Cal Munera (Onigo)",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.854694,
+   "lon": 12.002295,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione. Onigo non raccoglie legno e imballaggi in plastica. La chiusura pomeridiana alle 16:30 fino al 31 dicembre lascia disponibile il turno UND del martedì mattina."
+  },
+  {
+   "id": "contarina-und-026059-1",
+   "tipo": "raccolta",
+   "comune": "Ponzano Veneto",
+   "indirizzo": "via del Bellato",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.722879,
+   "lon": 12.18756,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026063-1",
+   "tipo": "raccolta",
+   "comune": "Preganziol",
+   "indirizzo": "via Schiavonia Nuova",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.591629,
+   "lon": 12.242312,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026064-1",
+   "tipo": "raccolta",
+   "comune": "Quinto di Treviso",
+   "indirizzo": "via Mattei",
+   "orari": {
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.629041,
+   "lon": 12.160788,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026066-1",
+   "tipo": "raccolta",
+   "comune": "Resana",
+   "indirizzo": "via Cà Zane",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.632752,
+   "lon": 11.97173,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026068-1",
+   "tipo": "raccolta",
+   "comune": "Riese Pio X",
+   "indirizzo": "via E. Minato",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.717301,
+   "lon": 11.92474,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026069-1",
+   "tipo": "raccolta",
+   "comune": "Roncade",
+   "indirizzo": "via Tintoretto",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.637628,
+   "lon": 12.383383,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026071-1",
+   "tipo": "raccolta",
+   "comune": "San Biagio di Callalta",
+   "indirizzo": "via De Gasperi (Spercenigo)",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.670573,
+   "lon": 12.343775,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026077-1",
+   "tipo": "raccolta",
+   "comune": "San Zenone degli Ezzelini",
+   "indirizzo": "via Marini",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.773632,
+   "lon": 11.839114,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026081-1",
+   "tipo": "raccolta",
+   "comune": "Silea",
+   "indirizzo": "via Cendon",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.645155,
+   "lon": 12.314999,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026082-1",
+   "tipo": "raccolta",
+   "comune": "Spresiano",
+   "indirizzo": "via Indipendenza",
+   "orari": {
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.767133,
+   "lon": 12.259621,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026083-1",
+   "tipo": "raccolta",
+   "comune": "Susegana",
+   "indirizzo": "via Stradonelli",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.837793,
+   "lon": 12.267019,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026085-1",
+   "tipo": "raccolta",
+   "comune": "Trevignano",
+   "indirizzo": "via Monte Bianco",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.750092,
+   "lon": 12.088967,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026086-1",
+   "tipo": "raccolta",
+   "comune": "Treviso",
+   "indirizzo": "viale della Serenissima - Porta del Leon",
+   "orari": {
+    "1": [
+     [
+      "12:00",
+      "14:00"
+     ]
+    ],
+    "3": [
+     [
+      "12:00",
+      "14:00"
+     ]
+    ],
+    "4": [
+     [
+      "12:00",
+      "14:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.661622,
+   "lon": 12.202367,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026089-1",
+   "tipo": "raccolta",
+   "comune": "Vedelago",
+   "indirizzo": "via Papa Sarto",
+   "orari": {
+    "2": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.706005,
+   "lon": 12.017419,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026091-1",
+   "tipo": "raccolta",
+   "comune": "Villorba",
+   "indirizzo": "via F.lli Cervi",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.72505,
+   "lon": 12.244958,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026093-1",
+   "tipo": "raccolta",
+   "comune": "Volpago del Montello",
+   "indirizzo": "via Belfiore",
+   "orari": {
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.76871,
+   "lon": 12.11979,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026094-1",
+   "tipo": "raccolta",
+   "comune": "Zenson di Piave",
+   "indirizzo": "via Dell'Artigianato",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.678041,
+   "lon": 12.479557,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026095-1",
+   "tipo": "raccolta",
+   "comune": "Zero Branco",
+   "indirizzo": "via Milan",
+   "orari": {
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.592627,
+   "lon": 12.171298,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026096-1",
+   "tipo": "raccolta",
+   "comune": "Pieve del Grappa",
+   "indirizzo": "ex Crespano del Grappa - via Giare",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.816473,
+   "lon": 11.826917,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  },
+  {
+   "id": "contarina-und-026096-2",
+   "tipo": "raccolta",
+   "comune": "Pieve del Grappa",
+   "indirizzo": "ex Paderno del Grappa - p.zza Madonnina del Grappa",
+   "orari": {
+    "1": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "per": "non_domestiche",
+   "lat": 45.82605,
+   "lon": 11.85299,
+   "chiuso": false,
+   "avviso": "Presentarsi con EcoCard e autorizzazione dopo aver prenotato. EcoCentri chiusi il 24 e il 31 dicembre 2026. Confermare aperture festive e del nuovo anno durante la prenotazione."
+  }
+ ]
+}

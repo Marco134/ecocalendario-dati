@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "comune": "Castelcucco",
+ "provincia": "TV",
+ "gestore": "Contarina S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-26",
+ "valido_al": "2027-01-31",
+ "fonte": "https://contarina.it/files/ecocalendari/33_allegato_bassa_Castelcucco_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1",
+ "esposizione": "Esporre i contenitori la sera prima del giorno indicato, nel punto di raccolta assegnato.",
+ "raccolte": {
+  "2026-11-26": [
+   "plastica"
+  ],
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ],
+  "2027-01-02": [
+   "carta",
+   "organico"
+  ],
+  "2027-01-05": [
+   "organico"
+  ],
+  "2027-01-07": [
+   "plastica"
+  ],
+  "2027-01-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-12": [
+   "organico"
+  ],
+  "2027-01-14": [
+   "plastica"
+  ],
+  "2027-01-15": [
+   "carta",
+   "organico",
+   "sfalci"
+  ],
+  "2027-01-19": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "plastica"
+  ],
+  "2027-01-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-26": [
+   "organico"
+  ],
+  "2027-01-28": [
+   "plastica"
+  ],
+  "2027-01-29": [
+   "carta",
+   "organico",
+   "sfalci"
+  ]
+ },
+ "note": [
+  "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina.",
+  "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu.",
+  "Il giro del vegetale richiede l’attivazione del servizio con Contarina."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

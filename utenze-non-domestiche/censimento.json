@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-25",
+ "aggiornato": "2026-11-26",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
  "totale": 1163,
  "comuni": [
@@ -193,7 +193,10 @@
    "nome": "Altivole",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/28_allegato_bassa_Altivole_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "alviano",
@@ -312,7 +315,10 @@
    "nome": "Arcade",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/4_allegato_bassa_Arcade_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "arcore",
@@ -394,7 +400,10 @@
    "nome": "Asolo",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/29_allegato_bassa_Asolo_CS_2026_sintetico.pdf | https://contarina.it/files/ecocalendari/30_allegato_bassa_Asolo_FCS_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula. Verificare la zona della via sul portale del gestore."
   },
   {
    "id": "attigliano",
@@ -1039,7 +1048,10 @@
    "nome": "Borso del Grappa",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/31_allegato_bassa_Borso_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "bosconero",
@@ -1097,7 +1109,10 @@
    "nome": "Breda di Piave",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/5_allegato_bassa_Breda_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "breno",
@@ -1316,7 +1331,10 @@
    "nome": "Caerano di San Marco",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/32_allegato_bassa_Caerano_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "cafasse",
@@ -1611,7 +1629,10 @@
    "nome": "Carbonera",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/6_allegato_bassa_Carbonera_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "carema",
@@ -1716,7 +1737,10 @@
    "nome": "Casale sul Sile",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/7_allegato_bassa_Casale_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "casaletto-lodigiano",
@@ -1804,7 +1828,10 @@
    "nome": "Casier",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/8_allegato_bassa_Casier_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "caspoggio",
@@ -1913,14 +1940,20 @@
    "nome": "Castelcucco",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/33_allegato_bassa_Castelcucco_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "castelfranco-veneto",
    "nome": "Castelfranco Veneto",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/34_allegato_bassa_Castelfranco_CS_2026_sintetico.pdf | https://contarina.it/files/ecocalendari/35_allegato_bassa_Castelfranco_FCS_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula. Verificare la zona della via sul portale del gestore."
   },
   {
    "id": "castellamonte",
@@ -1978,7 +2011,10 @@
    "nome": "Castello di Godego",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/36_allegato_bassa_Godego_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "castelnuovo-nigra",
@@ -2104,7 +2140,10 @@
    "nome": "Cavaso del Tomba",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/37_allegato_bassa_Cavaso_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "cavenago-di-brianza",
@@ -2673,7 +2712,10 @@
    "nome": "Cornuda",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/38_allegato_bassa_Cornuda_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "correzzana",
@@ -2811,7 +2853,10 @@
    "nome": "Crocetta del Montello",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/40_allegato_bassa_Crocetta_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "crodo",
@@ -3231,7 +3276,10 @@
    "nome": "Fonte",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/41_allegato_bassa_Fonte_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "forcola",
@@ -3450,7 +3498,10 @@
    "nome": "Giavera del Montello",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/9_allegato_bassa_Giavera_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "gignese",
@@ -3748,7 +3799,10 @@
    "nome": "Istrana",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/42_allegato_bassa_Istrana_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "ivrea",
@@ -4010,7 +4064,10 @@
    "nome": "Loria",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/43_allegato_bassa_Loria_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "losine",
@@ -4334,7 +4391,10 @@
    "nome": "Maser",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/44_allegato_bassa_Maser_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "masera",
@@ -4351,7 +4411,10 @@
    "nome": "Maserada sul Piave",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/10_allegato_bassa_Maserada_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "massalengo",
@@ -4612,7 +4675,10 @@
    "nome": "Monastier di Treviso",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/11_allegato_bassa_Monastier_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "moncalieri",
@@ -4660,7 +4726,10 @@
    "nome": "Monfumo",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/45_allegato_bassa_Monfumo_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "moniga-del-garda",
@@ -4751,7 +4820,10 @@
    "nome": "Montebelluna",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/46_allegato_bassa_Montebelluna_CS_2026_sintetico.pdf | https://contarina.it/files/ecocalendari/47_allegato_bassa_Montebelluna_FCS_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula. Verificare la zona della via sul portale del gestore."
   },
   {
    "id": "montecastrilli",
@@ -4920,7 +4992,10 @@
    "nome": "Morgano",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/12_allegato_bassa_Morgano_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "moriondo-torinese",
@@ -4991,7 +5066,10 @@
    "nome": "Nervesa della Battaglia",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/13_allegato_bassa_Nervesa_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "neviglie",
@@ -5343,7 +5421,10 @@
    "nome": "Paese",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/14_allegato_bassa_Paese_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "pagnona",
@@ -5494,7 +5575,10 @@
    "nome": "Pederobba",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/49_allegato_bassa_Pederobba_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula. A Onigo legno e imballaggi in plastica sono esclusi."
   },
   {
    "id": "pella",
@@ -5673,7 +5757,10 @@
    "nome": "Pieve del Grappa",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/56_allegato_bassa_Pieve_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "pinasca",
@@ -5834,7 +5921,10 @@
    "nome": "Ponzano Veneto",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/15_allegato_bassa_Ponzano_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "porano",
@@ -5867,14 +5957,20 @@
    "nome": "Possagno",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/50_allegato_bassa_Possagno_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "povegliano",
    "nome": "Povegliano",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/16_allegato_bassa_Povegliano_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "pozzo-d-adda",
@@ -5977,7 +6073,10 @@
    "nome": "Preganziol",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/17_allegato_bassa_Preganziol_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "premana",
@@ -6138,7 +6237,10 @@
    "nome": "Quinto di Treviso",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/18_allegato_bassa_Quinto_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "rancio-valcuvia",
@@ -6179,7 +6281,10 @@
    "nome": "Resana",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/51_allegato_bassa_Resana_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "ribordone",
@@ -6193,7 +6298,10 @@
    "nome": "Riese Pio X",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/52_allegato_bassa_Riese_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "riva-presso-chieri",
@@ -6381,7 +6489,10 @@
    "nome": "Roncade",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/19_allegato_bassa_Roncade_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "roncello",
@@ -6555,7 +6666,10 @@
    "nome": "San Biagio di Callalta",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/20_allegato_bassa_SanBiagio_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "san-carlo-canavese",
@@ -6760,7 +6874,10 @@
    "nome": "San Zenone degli Ezzelini",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/53_allegato_bassa_SanZenone_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "sanfre",
@@ -6978,7 +7095,10 @@
    "nome": "Silea",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/21_allegato_bassa_Silea_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "sinio",
@@ -7113,7 +7233,10 @@
    "nome": "Spresiano",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/22_allegato_bassa_Spresiano_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "spriana",
@@ -7226,7 +7349,10 @@
    "nome": "Susegana",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/23_allegato_bassa_Susegana_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "taceno",
@@ -7465,14 +7591,20 @@
    "nome": "Trevignano",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/54_allegato_bassa_Trevignano_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "treviso",
    "nome": "Treviso",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/3_allegato_bassa_Treviso_CS_2026_sintetico.pdf | https://contarina.it/files/ecocalendari/1_allegato_bassa_Treviso_CU_2026_sintetico.pdf | https://contarina.it/files/ecocalendari/2_allegato_bassa_Treviso_FM_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula. Verificare la zona della via sul portale del gestore."
   },
   {
    "id": "trezzano-rosa",
@@ -7849,7 +7981,10 @@
    "nome": "Vedelago",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/55_allegato_bassa_Vedelago_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "venaria-reale",
@@ -8171,7 +8306,10 @@
    "nome": "Villorba",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/24_allegato_bassa_Villorba_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "vimercate",
@@ -8249,7 +8387,10 @@
    "nome": "Volpago del Montello",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/25_allegato_bassa_Volpago_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "volpiano",
@@ -8277,14 +8418,20 @@
    "nome": "Zenson di Piave",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/26_allegato_bassa_Zenson_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "zero-branco",
    "nome": "Zero Branco",
    "provincia": "TV",
    "gestore": "Contarina S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://contarina.it/impresa/racolta-differenziata/ecocalendario | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://contarina.it/files/ecocalendari/27_allegato_bassa_Zero_2026_sintetico.pdf | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/impresa/racolta-differenziata/ecocentro-1/orari-ecocentro-1",
+   "verificato": "2026-11-26",
+   "nota": "Turni ordinari pubblicati nella sezione Impresa. Usare i contenitori associati al contratto. Per turni dedicati di cartone, plastica o altre frazioni per alte produzioni, seguire il servizio concordato con Contarina. Calendario fino al 31 gennaio 2027. Le attività accedono su prenotazione con EcoCard e autorizzazione, contratto attivo e pagamenti in regola. L’autorizzazione specifica i rifiuti ammessi. Il limite generale è di 5 m³ complessivi a visita e 1 m³ per tipologia, fatte salve le soglie specifiche. La tariffa è stabilita dal Consiglio di Bacino Priula."
   },
   {
    "id": "arba",

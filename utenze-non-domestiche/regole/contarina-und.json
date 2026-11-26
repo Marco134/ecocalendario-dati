@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "nome": "Contarina · materiali per le attività",
+ "fonte": "https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1 | https://raccoltadifferenziata.contarina.it/it/ | https://contarina.it/impresa/racolta-differenziata/ecocentro-1 | https://contarina.it/files/filemanager/source/raccolta%20differenziata/nuove%20regole%20ecocentri%202024/accesso_ecocentro_NONDOM.pdf | https://contarina.it/impresa/racolta-differenziata/porta-a-porta-1/servizi-a-chiamata",
+ "voci": {
+  "carta e cartone puliti": {
+   "dove": "carta",
+   "nota": "Contenitore giallo. Piegare scatole e cartoni. Per grandi quantità, consultare il servizio dedicato."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Contenitore giallo della carta."
+  },
+  "confezioni in cartoncino": {
+   "dove": "carta",
+   "nota": "Contenitore giallo. Separare le parti di altri materiali."
+  },
+  "bottiglie e vasetti in vetro vuoti": {
+   "dove": "vetro",
+   "nota": "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu."
+  },
+  "bottiglie e flaconi di plastica vuoti": {
+   "dove": "plastica",
+   "nota": "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu."
+  },
+  "vaschette in plastica o polistirolo per alimenti": {
+   "dove": "plastica",
+   "nota": "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu."
+  },
+  "piatti e bicchieri monouso in plastica non compostabile": {
+   "dove": "plastica",
+   "nota": "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu."
+  },
+  "lattine e scatolette vuote": {
+   "dove": "lattine",
+   "nota": "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu."
+  },
+  "piccoli imballaggi in polistirolo": {
+   "dove": "plastica",
+   "nota": "Vetro, plastica e lattine si ritirano insieme come VPL, nel contenitore blu."
+  },
+  "avanzi di cibo e scarti di cucina": {
+   "dove": "organico",
+   "nota": "Contenitore marrone con sacchetto compostabile certificato."
+  },
+  "fondi di caffè, cialde compostabili e bustine di tè": {
+   "dove": "organico",
+   "nota": "Contenitore marrone dell’umido."
+  },
+  "tovaglioli e fazzoletti di carta sporchi": {
+   "dove": "organico",
+   "nota": "Contenitore marrone dell’umido."
+  },
+  "stoviglie e sacchetti compostabili certificati": {
+   "dove": "organico",
+   "nota": "Contenitore marrone se certificati UNI EN 13432 come indicato dal gestore."
+  },
+  "posate monouso in plastica non compostabile": {
+   "dove": "indifferenziato",
+   "nota": "Contenitore grigio del secco."
+  },
+  "cialde e capsule di caffè non compostabili": {
+   "dove": "indifferenziato",
+   "nota": "Contenitore grigio del secco."
+  },
+  "sfalci, ramaglie e potature": {
+   "dove": "sfalci",
+   "nota": "Il giro del vegetale richiede l’attivazione del servizio con Contarina. In alternativa verificare l’ammissione all’EcoCentro e i limiti."
+  },
+  "imballaggi in cartone all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 150101. Limite per accesso 1 m³. Limite annuo da autorizzazione. Piegare scatole e scatoloni."
+  },
+  "imballaggi in plastica all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 150102. Limite per accesso 1 m³. Limite annuo da autorizzazione. Frazione non attiva a Pederobba."
+  },
+  "imballaggi in metallo all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 150104. Limite per accesso 1 m³. Limite annuo da autorizzazione. Conferire secondo l’autorizzazione."
+  },
+  "metallo all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 200140. Limite per accesso 1 m³. Limite annuo da autorizzazione. Conferire secondo l’autorizzazione."
+  },
+  "imballaggi in vetro all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 150107. Limite per accesso 1 m³. Limite annuo da autorizzazione. Conferire secondo l’autorizzazione."
+  },
+  "vetro diverso dagli imballaggi all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 200102. Limite per accesso 1 m³. Limite annuo da autorizzazione. Per specchi e vetrocamera seguire la voce ingombranti."
+  },
+  "imballaggi in legno all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 150103. Limite per accesso 1 m³. Limite annuo da autorizzazione. Frazione non attiva a Pederobba."
+  },
+  "legno all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 200138. Limite per accesso 1 m³. Limite annuo da autorizzazione. Frazione non attiva a Pederobba."
+  },
+  "olio vegetale esausto all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 200125. Limite per accesso 100 litri. Limite annuo 1.200 litri. Conferire secondo l’autorizzazione."
+  },
+  "vegetale all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 200201. Limite per accesso 1 m³. Limite annuo 20 m³. Conferire secondo l’autorizzazione."
+  },
+  "ingombranti urbani all’EcoCentro": {
+   "dove": "varia",
+   "nota": "EcoCentro su prenotazione, EER 200307. Limite per accesso 10 pezzi. Limite annuo 20 pezzi. Ammessi per il profilo autorizzato."
+  },
+  "materassi, divani, poltrone e specchi": {
+   "dove": "varia",
+   "nota": "Gli ingombranti urbani autorizzati si portano all’EcoCentro su prenotazione con EcoCard, fino a 10 pezzi per accesso e 20 all’anno per utenza. Per un eventuale ritiro a domicilio, verificare disponibilità, condizioni e costo con Contarina."
+  },
+  "cartongesso delle attività": {
+   "dove": "varia",
+   "nota": "Contarina offre alle imprese il servizio in convenzione."
+  },
+  "RAEE dual use dell’attività": {
+   "dove": "varia",
+   "nota": "Verificare iscrizione all’Albo e condizioni del circuito RAEE dual use con Contarina."
+  }
+ }
+}
