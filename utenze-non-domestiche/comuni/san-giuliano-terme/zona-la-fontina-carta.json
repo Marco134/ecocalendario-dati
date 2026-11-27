@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "comune": "San Giuliano Terme",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "La Fontina · carta zona artigianale",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2026/09/SAN-GIULIANO-TERME-CALENDARIO-PAP-2026-valido-dal-21_09_2026.pdf | https://www.geofor.it/s-giuliano-terme/calendario-raccolta-porta-a-porta-s-giuliano-terme/ | https://comune.sangiulianoterme.pi.it/raccolta-porta-porta-geofor-2026 | https://comune.sangiulianoterme.pi.it/sites/default/files/2025-12/SAN%20GIULIANO%20TERME%20CALENDARIO%20PAP%202026.pdf | https://www.geofor.it/wp-content/uploads/2026/09/SAN-GIULIANO-TERME-CALENDARIO-PAP-2026-valido-dal-21_09_2026.pdf | https://www.geofor.it/s-giuliano-terme/calendario-raccolta-porta-a-porta-s-giuliano-terme/ | https://www.comune.sangiulianoterme.pi.it/sites/default/files/2026-03/Regolamento%20del%20Servizio%20di%20Gestione%20Rifiuti%20Urbani.pdf | https://comune.sangiulianoterme.pi.it/sites/default/files/2025-10/Carta_Unica_Qualit%C3%A0_SAN_GIULIANO_TERME.pdf",
+ "raccolte": {
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "esposizione": "Per il ritiro di carta in zona artigianale La Fontina il servizio inizia alle 13:00. Seguire la fascia assegnata.",
+ "note": [
+  "Il calendario valido dal 21 settembre indica l’inizio della raccolta della carta alle 13:00 in zona artigianale La Fontina. Il regolamento ammette i rifiuti urbani delle attività nei limiti d’impianto.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "San Miniato",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/SAN-MINIATO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/san-miniato/calendario-raccolta-porta-a-porta-san-miniato/ | https://comune.san-miniato.pi.it/servizio/smaltimento-rifiuti-presso-il-centro-raccolta/",
+ "raccolte": {},
+ "info": "Il Comune ammette le attività con sede e tributo comunale per i rifiuti urbani dei locali assoggettati al tributo. Verificare titoli e materiali ammessi. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Il Comune ammette le attività con sede e tributo comunale per i rifiuti urbani dei locali assoggettati al tributo. Verificare titoli e materiali ammessi.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

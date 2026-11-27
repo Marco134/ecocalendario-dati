@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-26",
+ "aggiornato": "2026-11-27",
  "tipi": {
   "organico": "Organico",
   "carta": "Carta",
@@ -1798,6 +1798,24 @@
    ]
   },
   {
+   "id": "bientina",
+   "nome": "Bientina",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.717,
+   "lon": 10.617,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/bientina/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/bientina/calendario-raccolta-porta-a-porta/"
+  },
+  {
    "id": "bobbio-pellice",
    "nome": "Bobbio Pellice",
    "provincia": "TO",
@@ -2767,6 +2785,24 @@
    ]
   },
   {
+   "id": "buti",
+   "nome": "Buti",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.729722,
+   "lon": 10.586667,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/buti/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/buti/calendario-raccolta-porta-a-porta-buti/"
+  },
+  {
    "id": "caerano-di-san-marco",
    "nome": "Caerano di San Marco",
    "provincia": "TV",
@@ -2862,6 +2898,42 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/calasca-castiglione/",
    "ecocentri": "ecocentri/conser-vco-und-calasca-castiglione.json"
+  },
+  {
+   "id": "calci",
+   "nome": "Calci",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.717,
+   "lon": 10.517,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/calci/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/calci/calendario-raccolta-porta-a-porta-calci/"
+  },
+  {
+   "id": "calcinaia",
+   "nome": "Calcinaia",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.683,
+   "lon": 10.617,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/calcinaia/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/calcinaia/calendario-raccolta-porta-a-porta-calcinaia/"
   },
   {
    "id": "calcinato",
@@ -3234,6 +3306,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "capannoli",
+   "nome": "Capannoli",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.583,
+   "lon": 10.667,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/capannoli/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/capannoli/calendario-raccolta-porta-a-porta-capannoli/"
   },
   {
    "id": "capitignano",
@@ -3784,6 +3874,60 @@
    ]
   },
   {
+   "id": "casciana-terme-lari",
+   "nome": "Casciana Terme Lari",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.552159,
+   "lon": 10.594206,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "a-uffici",
+     "nome": "Zona A · uffici, agenzie, studi, banche e istituti di credito",
+     "file": "comuni/casciana-terme-lari/zona-a-uffici.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "a-altre-attivita",
+     "nome": "Zona A · altre attività",
+     "file": "comuni/casciana-terme-lari/zona-a-altre-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b-uffici",
+     "nome": "Zona B · uffici, agenzie, studi, banche e istituti di credito",
+     "file": "comuni/casciana-terme-lari/zona-b-uffici.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b-altre-attivita",
+     "nome": "Zona B · altre attività",
+     "file": "comuni/casciana-terme-lari/zona-b-altre-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/casciana-terme-lari/calendario-raccolta-porta-a-porta-casciana-terme-lari/"
+  },
+  {
+   "id": "cascina",
+   "nome": "Cascina",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.676674,
+   "lon": 10.549224,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/cascina/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/cascina/calendario-raccolta-porta-a-porta-cascina/"
+  },
+  {
    "id": "cascinette-d-ivrea",
    "nome": "Cascinette d'Ivrea",
    "provincia": "TO",
@@ -4095,6 +4239,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "castelfranco-di-sotto",
+   "nome": "Castelfranco di Sotto",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.699715,
+   "lon": 10.745178,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/castelfranco-di-sotto/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/castelfranco-di-sotto/calendario-raccolta-porta-a-porta-castelfranco/"
   },
   {
    "id": "castelfranco-veneto",
@@ -5066,6 +5228,24 @@
    ]
   },
   {
+   "id": "chianni",
+   "nome": "Chianni",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.48612,
+   "lon": 10.642362,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/chianni/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/chianni/"
+  },
+  {
    "id": "chianocco",
    "nome": "Chianocco",
    "provincia": "TO",
@@ -6012,6 +6192,24 @@
    "ecocentri": "ecocentri/conser-vco-und-craveggia.json"
   },
   {
+   "id": "crespina-lorenzana",
+   "nome": "Crespina Lorenzana",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.587912,
+   "lon": 10.554653,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/crespina-lorenzana/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/Crespina-Lorenzana/calendario-raccolta-porta-a-porta-Crespina-Lorenzana/"
+  },
+  {
    "id": "cressa",
    "nome": "Cressa",
    "provincia": "NO",
@@ -6799,6 +6997,24 @@
     }
    ],
    "zone_url": "https://serviziambientali.idealservice.it/it/comuni/farnese/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
+   "id": "fauglia",
+   "nome": "Fauglia",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.570638,
+   "lon": 10.514409,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/fauglia/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/Fauglia/calendario-raccolta-porta-a-porta-Fauglia/"
   },
   {
    "id": "favria",
@@ -8529,6 +8745,24 @@
      "valido_al": "2028-02-28"
     }
    ]
+  },
+  {
+   "id": "lajatico",
+   "nome": "Lajatico",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.475418,
+   "lon": 10.728284,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/lajatico/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/lajatico/"
   },
   {
    "id": "lanzo-torinese",
@@ -10733,6 +10967,24 @@
    ]
   },
   {
+   "id": "montopoli-in-val-d-arno",
+   "nome": "Montopoli in Val d'Arno",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.670299,
+   "lon": 10.760832,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/montopoli-in-val-d-arno/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/montopoli/calendario-raccolta-porta-a-porta-montopoli/"
+  },
+  {
    "id": "morazzone",
    "nome": "Morazzone",
    "provincia": "VA",
@@ -11568,6 +11820,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "palaia",
+   "nome": "Palaia",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.605041,
+   "lon": 10.772014,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/palaia/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/Palaia/calendario-raccolta-porta-a-porta-Palaia/"
   },
   {
    "id": "palazzo-canavese",
@@ -12508,6 +12778,24 @@
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
+   "id": "ponsacco",
+   "nome": "Ponsacco",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.620713,
+   "lon": 10.630829,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/ponsacco/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/ponsacco/calendario-raccolta-porta-a-porta-ponsacco/"
+  },
+  {
    "id": "pont-canavese",
    "nome": "Pont Canavese",
    "provincia": "TO",
@@ -12540,6 +12828,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "pontedera",
+   "nome": "Pontedera",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.663454,
+   "lon": 10.635485,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/pontedera/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/pontedera/calendario-raccolta-porta-a-porta-pontedera/"
   },
   {
    "id": "pontevico",
@@ -14546,6 +14852,30 @@
    ]
   },
   {
+   "id": "san-giuliano-terme",
+   "nome": "San Giuliano Terme",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.762996,
+   "lon": 10.44104,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "la-fontina-carta",
+     "nome": "La Fontina · carta zona artigianale",
+     "file": "comuni/san-giuliano-terme/zona-la-fontina-carta.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/san-giuliano-terme/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/s-giuliano-terme/calendario-raccolta-porta-a-porta-s-giuliano-terme/"
+  },
+  {
    "id": "san-giusto-canavese",
    "nome": "San Giusto Canavese",
    "provincia": "TO",
@@ -14687,6 +15017,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "san-miniato",
+   "nome": "San Miniato",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.67975,
+   "lon": 10.850095,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/san-miniato/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/san-miniato/calendario-raccolta-porta-a-porta-san-miniato/"
   },
   {
    "id": "san-pellegrino-terme",
@@ -14984,6 +15332,48 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "santa-croce-sull-arno",
+   "nome": "Santa Croce sull'Arno",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.710108,
+   "lon": 10.781941,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/santa-croce-sull-arno/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/santa-croce-sull-arno/calendario-raccolta-porta-a-porta-santa-croce-sull-arno/"
+  },
+  {
+   "id": "santa-maria-a-monte",
+   "nome": "Santa Maria a Monte",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.698064,
+   "lon": 10.692998,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "carta-su-richiesta",
+     "nome": "Carta · recupero per UND su richiesta",
+     "file": "comuni/santa-maria-a-monte/zona-carta-su-richiesta.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/santa-maria-a-monte/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/santa-maria-a-monte/calendario-raccolta-porta-a-porta-santa-maria-a-monte/"
   },
   {
    "id": "santippolito",
@@ -16136,6 +16526,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "terricciola",
+   "nome": "Terricciola",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.524738,
+   "lon": 10.680114,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/terricciola/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/terricciola/"
   },
   {
    "id": "tignale",
@@ -17423,6 +17831,30 @@
    ]
   },
   {
+   "id": "vecchiano",
+   "nome": "Vecchiano",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.783342,
+   "lon": 10.384403,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "migliarino-marina",
+     "nome": "Zona artigianale Migliarino e Marina di Vecchiano",
+     "file": "comuni/vecchiano/zona-migliarino-marina.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/vecchiano/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/vecchiano/calendario-raccolta-porta-a-porta-vecchiano/"
+  },
+  {
    "id": "vedano-al-lambro",
    "nome": "Vedano al Lambro",
    "provincia": "MB",
@@ -17747,6 +18179,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-vialfre/"
+  },
+  {
+   "id": "vicopisano",
+   "nome": "Vicopisano",
+   "provincia": "PI",
+   "gestore": "Geofor S.p.A.",
+   "lat": 43.699832,
+   "lon": 10.584695,
+   "consorzio": "geofor-und",
+   "zone": [
+    {
+     "id": "servizi-attivita",
+     "nome": "Servizi per le attività · turni per sede da confermare",
+     "file": "comuni/vicopisano/zona-servizi-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.geofor.it/vicopisano/calendario-raccolta-porta-a-porta-vicopisano/"
   },
   {
    "id": "vidracco",
@@ -18985,6 +19435,12 @@
    "gestore": "Idealservice",
    "ecocentri": "ecocentri/idealservice-vt-und.json",
    "regole": "regole/idealservice-vt-und.json"
+  },
+  "geofor-und": {
+   "nome": "Geofor · UND provincia di Pisa",
+   "gestore": "Geofor S.p.A.",
+   "ecocentri": "ecocentri/geofor-und.json",
+   "regole": "regole/geofor-und.json"
   }
  }
 }

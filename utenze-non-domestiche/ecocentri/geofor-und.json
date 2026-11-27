@@ -1,0 +1,123 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-27",
+ "gestore": "Geofor S.p.A.",
+ "numero_verde": "800 959 095",
+ "fonte": "https://www.geofor.it/centro-di-raccolta/ | https://www.comune.sangiulianoterme.pi.it/sites/default/files/2026-03/Regolamento%20del%20Servizio%20di%20Gestione%20Rifiuti%20Urbani.pdf | https://comune.san-miniato.pi.it/servizio/smaltimento-rifiuti-presso-il-centro-raccolta/",
+ "accesso": "Per le attività valgono il regolamento comunale, la tipologia e le quantità di rifiuti urbani ammesse presso la sede. Chiedere eventuale iscrizione all’Albo, documentazione e orari per l’accesso UND.",
+ "avviso": "Per le altre sedi consultare Geofor. Orari per le attività ed eventuali chiusure dipendono dal centro.",
+ "centri": [
+  {
+   "id": "geofor-san-miniato-und",
+   "tipo": "raccolta",
+   "comune": "San Miniato",
+   "indirizzo": "Via Guerrazzi",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "19:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "13:30"
+     ],
+     [
+      "15:00",
+      "19:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "13:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "13:30"
+     ],
+     [
+      "15:00",
+      "19:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Il Comune ammette le persone giuridiche con sede nel comune e tributo pagato per i rifiuti urbani dei locali assoggettati. Verificare la documentazione e le quantità.",
+   "lat": 43.690411,
+   "lon": 10.822257,
+   "fonte": "https://www.geofor.it/san-miniato/centro-di-raccolta-san-miniato/ | https://comune.san-miniato.pi.it/servizio/smaltimento-rifiuti-presso-il-centro-raccolta/"
+  },
+  {
+   "id": "geofor-sgt-albavola-und",
+   "tipo": "raccolta",
+   "comune": "San Giuliano Terme",
+   "indirizzo": "Località Albavola",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "13:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "19:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:30",
+      "13:30"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Il regolamento ammette i rifiuti urbani delle attività nei limiti d’impianto e prescrive l’iscrizione all’Albo Gestori Ambientali in categoria 2-bis o altra idonea per il trasporto dei propri rifiuti.",
+   "lat": 43.767208,
+   "lon": 10.3521,
+   "fonte": "https://www.geofor.it/s-giuliano-terme/centro-di-raccolta-s-giuliano-terme/ | https://www.comune.sangiulianoterme.pi.it/sites/default/files/2026-03/Regolamento%20del%20Servizio%20di%20Gestione%20Rifiuti%20Urbani.pdf"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Fauglia",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2026/05/FAUGLIA-CALENDARIO-PAP-2026-valido-dal-11_05_2026.pub-rev-1.pdf | https://www.geofor.it/Fauglia/calendario-raccolta-porta-a-porta-Fauglia/ | https://www.comune.fauglia.pi.it/novita/rifiuti-indifferenziati-primi-passi-verso-la-raccolta-puntuale",
+ "raccolte": {},
+ "info": "Il Comune prevede consegna e taggatura dei contenitori per le attività a febbraio e marzo 2027. Verificare i turni e le categorie specifiche. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Il Comune prevede consegna e taggatura dei contenitori per le attività a febbraio e marzo 2027. Verificare i turni e le categorie specifiche.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

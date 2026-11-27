@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Lajatico",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/lajatico/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=E413",
+ "raccolte": {},
+ "info": "Per la raccolta ordinaria occorre confermare modalità per frazione, postazione o turno vigente. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Per la raccolta ordinaria occorre confermare modalità per frazione, postazione o turno vigente.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

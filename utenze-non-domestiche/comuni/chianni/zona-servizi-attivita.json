@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Chianni",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/chianni/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=C609",
+ "raccolte": {},
+ "info": "Le fonti storiche indicano un circuito stradale. Verificare assetto vigente e materiali per il singolo civico. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Le fonti storiche indicano un circuito stradale. Verificare assetto vigente e materiali per il singolo civico.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

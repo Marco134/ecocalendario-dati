@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Cascina",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2026/01/CASCINA-CALENDARIO-PAP-2026-CON-ECOMOBILE-rev-1.pdf | https://www.geofor.it/cascina/calendario-raccolta-porta-a-porta-cascina/ | https://municipium-images-production-autopilot.s3.eu-south-1.amazonaws.com/s3/1520/allegati/ord_00222_09-09-2021-stamped.pdf",
+ "raccolte": {},
+ "info": "L’ordinanza del 2021 include le attività nel progetto di misurazione del residuo. Verificare turni 2026, zone e circuiti aggiuntivi per la sede. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "L’ordinanza del 2021 include le attività nel progetto di misurazione del residuo. Verificare turni 2026, zone e circuiti aggiuntivi per la sede.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

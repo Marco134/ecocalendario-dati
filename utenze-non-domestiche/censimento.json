@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-26",
+ "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
  "totale": 1163,
  "comuni": [
@@ -10072,140 +10072,240 @@
    "nome": "Bientina",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/BIENTINA-CALENDARIO-PAP-2026-Rev1.pdf | https://www.geofor.it/bientina/calendario-raccolta-porta-a-porta/ | https://www.comune.bientina.pi.it/home/vivere/territorio/ambiente/smaltimento-rifiuti/raccolta-rifiuti/calendario-porta-a-porta.html",
+   "verificato": "2026-11-27",
+   "nota": "Il portale comunale pubblica il calendario generale. Verificare il giro assegnato alle attività e il profilo separato degli sfalci.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "buti",
    "nome": "Buti",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/BUTI-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/buti/calendario-raccolta-porta-a-porta-buti/",
+   "verificato": "2026-11-27",
+   "nota": "Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "calci",
    "nome": "Calci",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CALCI-CALENDARIO-2026-PAP-CON-QRCODE-DEL-RIFIUTARIO.pdf | https://www.geofor.it/calci/calendario-raccolta-porta-a-porta-calci/ | https://www.comune.calci.pi.it/Novita/Notizie/Calendario-2026-della-raccolta-porta-a-porta-dei-rifiuti",
+   "verificato": "2026-11-27",
+   "nota": "Il Comune segnala adeguamento progressivo dei colori. Verificare per la sede il giro e la dotazione assegnata.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "calcinaia",
    "nome": "Calcinaia",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CALCINAIA-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/calcinaia/calendario-raccolta-porta-a-porta-calcinaia/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=B392",
+   "verificato": "2026-11-27",
+   "nota": "La trasparenza descrive attivazione della raccolta del verde tramite bidone. Chiedere le condizioni UND e i giri.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "capannoli",
    "nome": "Capannoli",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CAPANNOLI-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/capannoli/calendario-raccolta-porta-a-porta-capannoli/",
+   "verificato": "2026-11-27",
+   "nota": "Per le case sparse, il PDF indica il conferimento al centro per i residenti non serviti. Verificare applicabilità per le attività, indirizzo, materiali e accesso.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "casciana-terme-lari",
    "nome": "Casciana Terme Lari",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2026/02/CASCIANA-TERME-LARI-CALENDARO-PAP-2026-con-mappa-approvato-27.02.26.pdf | https://www.geofor.it/casciana-terme-lari/calendario-raccolta-porta-a-porta-casciana-terme-lari/ | https://www.geofor.it/casciana-terme-lari-modifica-frequenza-raccolta-rifiuto-urbano-residuo-rur/",
+   "verificato": "2026-11-27",
+   "nota": "Il residuo è quindicinale per uffici, agenzie, studi professionali, banche e istituti di credito. Per le altre attività è settimanale.",
+   "valido_al": "2026-12-31",
+   "zone_und": 4
   },
   {
    "id": "cascina",
    "nome": "Cascina",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2026/01/CASCINA-CALENDARIO-PAP-2026-CON-ECOMOBILE-rev-1.pdf | https://www.geofor.it/cascina/calendario-raccolta-porta-a-porta-cascina/ | https://municipium-images-production-autopilot.s3.eu-south-1.amazonaws.com/s3/1520/allegati/ord_00222_09-09-2021-stamped.pdf",
+   "verificato": "2026-11-27",
+   "nota": "L’ordinanza del 2021 include le attività nel progetto di misurazione del residuo. Verificare turni 2026, zone e circuiti aggiuntivi per la sede.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "castelfranco-di-sotto",
    "nome": "Castelfranco di Sotto",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CASTELFRANCO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/castelfranco-di-sotto/calendario-raccolta-porta-a-porta-castelfranco/",
+   "verificato": "2026-11-27",
+   "nota": "Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "crespina-lorenzana",
    "nome": "Crespina Lorenzana",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CRESPINA-LORENZANA-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/Crespina-Lorenzana/calendario-raccolta-porta-a-porta-Crespina-Lorenzana/",
+   "verificato": "2026-11-27",
+   "nota": "Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "fauglia",
    "nome": "Fauglia",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2026/05/FAUGLIA-CALENDARIO-PAP-2026-valido-dal-11_05_2026.pub-rev-1.pdf | https://www.geofor.it/Fauglia/calendario-raccolta-porta-a-porta-Fauglia/ | https://www.comune.fauglia.pi.it/novita/rifiuti-indifferenziati-primi-passi-verso-la-raccolta-puntuale",
+   "verificato": "2026-11-27",
+   "nota": "Il Comune prevede consegna e taggatura dei contenitori per le attività a febbraio e marzo 2027. Verificare i turni e le categorie specifiche.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "montopoli-in-val-d-arno",
    "nome": "Montopoli in Val d'Arno",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/MONTOPOLI-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/montopoli/calendario-raccolta-porta-a-porta-montopoli/",
+   "verificato": "2026-11-27",
+   "nota": "Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "palaia",
    "nome": "Palaia",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PALAIA-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/Palaia/calendario-raccolta-porta-a-porta-Palaia/",
+   "verificato": "2026-11-27",
+   "nota": "Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "ponsacco",
    "nome": "Ponsacco",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2026/06/PONSACCO-CALENDARIO-PAP-2026-rev0.1.pdf | https://www.geofor.it/ponsacco/calendario-raccolta-porta-a-porta-ponsacco/",
+   "verificato": "2026-11-27",
+   "nota": "Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "pontedera",
    "nome": "Pontedera",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/PONTEDERA-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/pontedera/calendario-raccolta-porta-a-porta-pontedera/ | https://www.comune.pontedera.pi.it/wp-content/uploads/2025/12/PONTEDERA-CALENDARIO-PAP-2026.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Il PDF comunale indica distinte fasce orarie. Per aziende in Gello, PIP3 e Il Chiesino confermare il profilo della sede e i servizi dedicati.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-miniato",
    "nome": "San Miniato",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/SAN-MINIATO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/san-miniato/calendario-raccolta-porta-a-porta-san-miniato/ | https://comune.san-miniato.pi.it/servizio/smaltimento-rifiuti-presso-il-centro-raccolta/",
+   "verificato": "2026-11-27",
+   "nota": "Il Comune ammette le attività con sede e tributo comunale per i rifiuti urbani dei locali assoggettati al tributo. Verificare titoli e materiali ammessi.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "santa-croce-sull-arno",
    "nome": "Santa Croce sull'Arno",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/SANTA-CROCE-SULLARNO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/santa-croce-sull-arno/calendario-raccolta-porta-a-porta-santa-croce-sull-arno/ | https://comune.santacroce.pi.it/novita/raccolta-porta-a-porta-a-santa-croce-sullarno-cambia-il-calendario-dal-1-gennaio-2021/",
+   "verificato": "2026-11-27",
+   "nota": "Il Comune ha distinto il giro carta della zona industriale da quello delle attività in area residenziale. Giorni e fasce pubblicati nel 2020 da riconfermare per il 2026.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "santa-maria-a-monte",
    "nome": "Santa Maria a Monte",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/SANTA-MARIA-A-MONTE-CALENDARIO-PAP-2026-con-mappa.pdf | https://www.geofor.it/santa-maria-a-monte/calendario-raccolta-porta-a-porta-santa-maria-a-monte/",
+   "verificato": "2026-11-27",
+   "nota": "Il 26 dicembre il gestore indica il recupero della carta esclusivamente per le attività che lo richiedono.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "vecchiano",
    "nome": "Vecchiano",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/VECCHIANO-CALENDARIO-PAP-2026-ESCLUSO-Z.A.-MIGLIARINO-E-MARINA-DI-VECCHIANO-con-ecomobile-e-Sfalci-CON-MAPPA.pdf | https://www.geofor.it/wp-content/uploads/2025/12/VECCHIANO-CALENDARIO-PAP-2026-Z.A.-MIGLIARINO-E-MARINA-DI-VECCHIANO-CON-SFALCI-ECOMOBILE-E-MAPPA.pdf | https://www.geofor.it/vecchiano/calendario-raccolta-porta-a-porta-vecchiano/ | https://comune.vecchiano.pi.it/novita/ecomobile-vecchiano-e-gli-altri-servizi-attivi-tema-rifiuti",
+   "verificato": "2026-11-27",
+   "nota": "Nel calendario della zona artigianale Migliarino e Marina valgono gli orari per frazione. Il Comune riserva Ecomobile e sfalci a richiesta alle utenze domestiche.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "vicopisano",
    "nome": "Vicopisano",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/VICOPISANO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/vicopisano/calendario-raccolta-porta-a-porta-vicopisano/",
+   "verificato": "2026-11-27",
+   "nota": "Per le zone artigianali chiedere a Geofor se sono attivi i giri commerciali dedicati, la frequenza e il giorno esatto.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-giuliano-terme",
    "nome": "San Giuliano Terme",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.geofor.it/wp-content/uploads/2026/09/SAN-GIULIANO-TERME-CALENDARIO-PAP-2026-valido-dal-21_09_2026.pdf | https://www.geofor.it/s-giuliano-terme/calendario-raccolta-porta-a-porta-s-giuliano-terme/ | https://www.comune.sangiulianoterme.pi.it/sites/default/files/2026-03/Regolamento%20del%20Servizio%20di%20Gestione%20Rifiuti%20Urbani.pdf | https://comune.sangiulianoterme.pi.it/sites/default/files/2025-10/Carta_Unica_Qualit%C3%A0_SAN_GIULIANO_TERME.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario valido dal 21 settembre indica l’inizio della raccolta della carta alle 13:00 in zona artigianale La Fontina. Il regolamento ammette i rifiuti urbani delle attività nei limiti d’impianto.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "pisa",
@@ -10222,21 +10322,36 @@
    "nome": "Chianni",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/chianni/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=C609",
+   "verificato": "2026-11-27",
+   "nota": "Le fonti storiche indicano un circuito stradale. Verificare assetto vigente e materiali per il singolo civico.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "lajatico",
    "nome": "Lajatico",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/lajatico/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=E413",
+   "verificato": "2026-11-27",
+   "nota": "Per la raccolta ordinaria occorre confermare modalità per frazione, postazione o turno vigente.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "terricciola",
    "nome": "Terricciola",
    "provincia": "PI",
    "gestore": "Geofor S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.geofor.it/terricciola/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=L138",
+   "verificato": "2026-11-27",
+   "nota": "Confermare le modalità vigenti per strada e frazione. Il centro di Via Pian d’Era è in località La Rosa.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "ala",

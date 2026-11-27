@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Capannoli",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CAPANNOLI-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/capannoli/calendario-raccolta-porta-a-porta-capannoli/",
+ "raccolte": {},
+ "info": "Per le case sparse, il PDF indica il conferimento al centro per i residenti non serviti. Verificare applicabilità per le attività, indirizzo, materiali e accesso. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Per le case sparse, il PDF indica il conferimento al centro per i residenti non serviti. Verificare applicabilità per le attività, indirizzo, materiali e accesso.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

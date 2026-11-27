@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Terricciola",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/terricciola/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=L138",
+ "raccolte": {},
+ "info": "Confermare le modalità vigenti per strada e frazione. Il centro di Via Pian d’Era è in località La Rosa. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Confermare le modalità vigenti per strada e frazione. Il centro di Via Pian d’Era è in località La Rosa.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

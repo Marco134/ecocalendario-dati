@@ -105,3 +105,7 @@ Turni ordinari di 26 comuni fino al 29 febbraio 2028. Per organico e vetro, cont
 ## Idealservice · Provincia di Viterbo
 
 Il catalogo include 24 comuni con date e Acquapendente con due schede per civico. A Canino scegliere area urbana o area vasta. A Capodimonte consultare la scheda stagionale per la zona lago. I calendari di Bolsena e Marta sono verificati fino al 31 gennaio 2027. Per gli altri comuni occorre verificare le date dopo il 31 dicembre. Per i giorni festivi verificare gli avvisi del gestore. [Portale Idealservice](https://serviziambientali.idealservice.it/) · [Documenti di Acquapendente](https://serviziambientali.idealservice.it/it/comuni/acquapendente/documenti/)
+
+## Geofor · Provincia di Pisa
+
+Calendari UND documentati per Casciana Terme Lari, il turno carta su richiesta a Santa Maria a Monte, Migliarino e Marina di Vecchiano e la carta della zona artigianale La Fontina. Negli altri comuni verificare il profilo per attività e civico. Per i centri valgono i regolamenti comunali. [Geofor](https://www.geofor.it/) · [Accesso ai centri](https://www.geofor.it/centro-di-raccolta/)

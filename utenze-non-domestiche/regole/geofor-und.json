@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "nome": "Geofor · Materiali delle attività",
+ "fonte": "https://www.geofor.it/dove-lo-butto/ | https://comune.sangiulianoterme.pi.it/sites/default/files/2025-10/Carta_Unica_Qualit%C3%A0_SAN_GIULIANO_TERME.pdf",
+ "voci": {
+  "lattine, scatolette e tappi in alluminio": {
+   "dove": "plastica",
+   "nota": "Con gli imballaggi del multimateriale."
+  },
+  "cartoni in tetrapak per bevande": {
+   "dove": "plastica",
+   "nota": "Con gli imballaggi del multimateriale."
+  },
+  "flaconi, vaschette e film in plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Usare il contenitore assegnato per il multimateriale."
+  },
+  "carta da ufficio e cartone": {
+   "dove": "carta",
+   "nota": "Usare il circuito carta. Verificare il giro dei cartoni ingombranti e ridurre il volume."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Campana dove prevista dal calendario. Verificare il circuito assegnato al civico."
+  },
+  "fondi di caffè e scarti alimentari": {
+   "dove": "organico",
+   "nota": "Con gli altri scarti alimentari nel contenitore assegnato."
+  },
+  "cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il giro del residuo."
+  },
+  "RAEE professionali e rifiuti della produzione": {
+   "dove": "varia",
+   "nota": "Verificare il canale autorizzato e i requisiti in base al rifiuto."
+  }
+ }
+}

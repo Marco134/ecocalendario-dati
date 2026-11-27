@@ -1,0 +1,28 @@
+{
+ "schema": 1,
+ "comune": "Santa Maria a Monte",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Carta · recupero per UND su richiesta",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/SANTA-MARIA-A-MONTE-CALENDARIO-PAP-2026-con-mappa.pdf | https://www.geofor.it/santa-maria-a-monte/calendario-raccolta-porta-a-porta-santa-maria-a-monte/",
+ "raccolte": {
+  "2026-12-26": [
+   "carta"
+  ]
+ },
+ "esposizione": "Concordare il turno con Geofor prima di esporre il materiale.",
+ "note": [
+  "Il 26 dicembre il gestore indica il recupero della carta esclusivamente per le attività che lo richiedono.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ],
+ "eccezioni": [
+  {
+   "data": "2026-12-26",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  }
+ ]
+}

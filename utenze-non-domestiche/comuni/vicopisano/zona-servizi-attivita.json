@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Vicopisano",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/VICOPISANO-CALENDARIO-PAP-2026.pdf | https://www.geofor.it/vicopisano/calendario-raccolta-porta-a-porta-vicopisano/",
+ "raccolte": {},
+ "info": "Per le zone artigianali chiedere a Geofor se sono attivi i giri commerciali dedicati, la frequenza e il giorno esatto. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Per le zone artigianali chiedere a Geofor se sono attivi i giri commerciali dedicati, la frequenza e il giorno esatto.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}

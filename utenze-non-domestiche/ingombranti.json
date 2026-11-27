@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-26",
+ "aggiornato": "2026-11-27",
  "gestori": [
   {
    "id": "cosp-orvietano",
@@ -3398,6 +3398,443 @@
    ],
    "regole_en": [
     "Ask the operator about eligible business items, charges and limits."
+   ]
+  },
+  {
+   "id": "geofor-und-bientina",
+   "nome": "Bientina · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "bientina"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/bientina/prenota-ritiri-bientina/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-buti",
+   "nome": "Buti · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "buti"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/buti/prenota-ritiri-buti/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-calci",
+   "nome": "Calci · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "calci"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/calci/prenota-ritiri-calci/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-calcinaia",
+   "nome": "Calcinaia · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "calcinaia"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/calcinaia/prenota-ritiri-calcinaia/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-capannoli",
+   "nome": "Capannoli · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "capannoli"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/capannoli/prenota-ritiri-capannoli/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-casciana-terme-lari",
+   "nome": "Casciana Terme Lari · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "casciana-terme-lari"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/casciana-terme-lari/prenota-ritiri-casciana-terme-lari/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-cascina",
+   "nome": "Cascina · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "cascina"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/cascina/prenota-ritiri-cascina/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-castelfranco-di-sotto",
+   "nome": "Castelfranco di Sotto · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "castelfranco-di-sotto"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/castelfranco-di-sotto/prenota-ritiri-castelfranco/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-chianni",
+   "nome": "Chianni · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "chianni"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/chianni/prenota-ritiri-chianni/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-crespina-lorenzana",
+   "nome": "Crespina Lorenzana · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "crespina-lorenzana"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/Crespina-Lorenzana/prenota-ritiri-Crespina-Lorenzana/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-fauglia",
+   "nome": "Fauglia · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "fauglia"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/Fauglia/prenota-ritiri-Fauglia/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-lajatico",
+   "nome": "Lajatico · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "lajatico"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/lajatico/prenotazione-ritiri-lajatico/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-montopoli-in-val-d-arno",
+   "nome": "Montopoli in Val d'Arno · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "montopoli-in-val-d-arno"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/montopoli/prenota-ritiri-montopoli/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-palaia",
+   "nome": "Palaia · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "palaia"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/Palaia/prenota-ritiri-Palaia/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-ponsacco",
+   "nome": "Ponsacco · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "ponsacco"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/ponsacco/prenota-ritiri-ponsacco/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-pontedera",
+   "nome": "Pontedera · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "pontedera"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/pontedera/prenota-ritiri-pontedera/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-san-giuliano-terme",
+   "nome": "San Giuliano Terme · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "san-giuliano-terme"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/s-giuliano-terme/prenota-ritiri-s-giuliano-terme/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-san-miniato",
+   "nome": "San Miniato · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "san-miniato"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/san-miniato/prenota-ritiri-san-miniato/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-santa-croce-sull-arno",
+   "nome": "Santa Croce sull'Arno · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "santa-croce-sull-arno"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/santa-croce-sull-arno/prenota-ritiri-santa-croce-sull-arno/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-santa-maria-a-monte",
+   "nome": "Santa Maria a Monte · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "santa-maria-a-monte"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/santa-maria-a-monte/prenota-ritiri-santa-maria-a-monte/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-terricciola",
+   "nome": "Terricciola · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "terricciola"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/terricciola/prenota-ritiri-terricciola/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-vecchiano",
+   "nome": "Vecchiano · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "vecchiano"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/vecchiano/prenota-ritiri-vecchiano/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
+   ]
+  },
+  {
+   "id": "geofor-und-vicopisano",
+   "nome": "Vicopisano · Geofor UND",
+   "gestori": [],
+   "comuni": [
+    "vicopisano"
+   ],
+   "telefono": "800 959 095",
+   "fonte": "https://www.geofor.it/vicopisano/prenota-ritiri-vicopisano/ | https://www.geofor.it/servizi-di-raccolta-e-igiene-ambientale/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere a Geofor il ritiro su prenotazione per rifiuti urbani ingombranti prodotti presso l’attività. Confermare quantità, condizioni, costo e regole per RAEE professionali."
+   ],
+   "regole_en": [
+    "Check which bulky waste items from your business can be collected and how to book."
    ]
   }
  ]

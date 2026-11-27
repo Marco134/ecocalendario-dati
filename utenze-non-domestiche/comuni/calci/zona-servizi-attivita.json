@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Calci",
+ "provincia": "PI",
+ "gestore": "Geofor S.p.A.",
+ "zona": "Servizi per le attività · turni per sede da confermare",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.geofor.it/wp-content/uploads/2025/12/CALCI-CALENDARIO-2026-PAP-CON-QRCODE-DEL-RIFIUTARIO.pdf | https://www.geofor.it/calci/calendario-raccolta-porta-a-porta-calci/ | https://www.comune.calci.pi.it/Novita/Notizie/Calendario-2026-della-raccolta-porta-a-porta-dei-rifiuti",
+ "raccolte": {},
+ "info": "Il Comune segnala adeguamento progressivo dei colori. Verificare per la sede il giro e la dotazione assegnata. Chiedere al gestore quali turni ordinari e dedicati sono attivi per l’indirizzo, la categoria e la dotazione. Verificare giorni festivi e cambi di servizio.",
+ "info_en": "Ask Geofor to confirm the business collection routes, special services and public holiday changes for your address.",
+ "note": [
+  "Il Comune segnala adeguamento progressivo dei colori. Verificare per la sede il giro e la dotazione assegnata.",
+  "Per i programmi 2027 e le eventuali variazioni consultare gli avvisi del gestore."
+ ]
+}
