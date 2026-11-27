@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "nome": "Capurso · Materiali",
+ "fonte": "https://avrgroup.it/wp-content/uploads/2024/06/Calendario-Capurso-2025-monthly-1.pdf | https://www.comune.capurso.bari.it/novita/sospensione-ritiro-raee-r1-r4-capurso/",
+ "voci": {
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "La guida AVR lo colloca con carta e cartone."
+  },
+  "imballaggi in alluminio e latta": {
+   "dove": "lattine",
+   "nota": "Circuito metalli dedicato. Verificare i giorni aggiornati."
+  },
+  "raee gruppi r1 e r4": {
+   "dove": "varia",
+   "nota": "Ritiro e conferimento sospesi temporaneamente. Chiedere conferma prima di esporre o spostarsi."
+  }
+ }
+}

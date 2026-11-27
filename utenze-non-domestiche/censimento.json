@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1181,
+ "totale": 1187,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12607,6 +12607,78 @@
    "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La guida riserva il conferimento della carta al lunedì sera, con ritiro martedì. Per il cartone commerciale il testo e il simbolo del sabato non coincidono. Verificare il sabato con ARO BA/2.",
    "valido_al": "2026-12-31",
    "zone_und": 1
+  },
+  {
+   "id": "capurso",
+   "nome": "Capurso",
+   "provincia": "BA",
+   "gestore": "AVR per l’Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://avrgroup.it/wp-content/uploads/2024/06/Calendario-Capurso-2025-monthly-1.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Il gestore pubblica un calendario annuale del 2025 con griglia UND. Occorre il documento aggiornato UD e UND. Il Comune ha comunicato la sospensione temporanea di ritiro e conferimento dei RAEE R1 e R4. Chiedere se il servizio è ripreso.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "cellamare",
+   "nome": "Cellamare",
+   "provincia": "BA",
+   "gestore": "TeknoService",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/02/BROCHURE-CALENDARIO-CELLAMARE-5.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Il cartone da imballaggio ha un giro dedicato tutti i giorni, compresa la domenica. Usare il kit fornito con RFID.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "noicattaro",
+   "nome": "Noicattaro",
+   "provincia": "BA",
+   "gestore": "Raccolgo S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://noicattaro-api.municipiumapp.it/s3/4644/allegati/calendario-di-ritiro-rifiuti-utenze-non-domastiche.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Per gli imballaggi di solo cartone il Comune indica un giro dal lunedì al sabato, con imballaggi piegati e privi di nastro. Verificare la zona e i circuiti speciali per il civico.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "rutigliano",
+   "nome": "Rutigliano",
+   "provincia": "BA",
+   "gestore": "Vito Gassi",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.rutiglianoonline.it/pdf/nuova_raccolta.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La trasparenza TARI rimanda all’app del gestore per il calendario. Il PDF reperibile riporta il 2012. Richiedere a Vito Gassi i calendari pubblici vigenti UD e UND, festività e validità per il proprio indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "triggiano",
+   "nome": "Triggiano",
+   "provincia": "BA",
+   "gestore": "Omnitech · Ciclat",
+   "stato": "calendario_verificato",
+   "fonte": "https://omnitech.srl/wp-content/uploads/2026/03/Calendario-Triggiano-UND-commerciali.pdf | https://omnitech.srl/wp-content/uploads/2026/03/Calendario-Triggiano-UND-FOOD.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Il cartone ondulato ha un giro dedicato dal lunedì al sabato. Esporlo piegato tra le 12:00 e le 13:00 del giorno di ritiro.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
+  },
+  {
+   "id": "valenzano",
+   "nome": "Valenzano",
+   "provincia": "BA",
+   "gestore": "SI.ECO",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.siecospa.it/web/wp-content/uploads/2023/12/calendario-studi-professionali.pdf | https://www.siecospa.it/web/wp-content/uploads/2020/02/calendario-valenzano-UC.jpeg | https://www.siecospa.it/web/wp-content/uploads/2020/02/calendario-valenzano-UCA.jpeg",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Nel circuito commerciale il solo cartone ha un giro dedicato indicato nella relativa griglia. Ordinanza dal 12 ottobre 2026 per carta e vetro sfusi, oppure sacchetto di carta per la carta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
   }
  ]
 }

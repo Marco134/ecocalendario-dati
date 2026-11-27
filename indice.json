@@ -24048,6 +24048,114 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "capurso",
+      "nome": "Capurso",
+      "provincia": "BA",
+      "gestore": "AVR per l’Ambiente",
+      "consorzio": "aroba7-capurso",
+      "lat": 41.05032,
+      "lon": 16.916742,
+      "zone_url": "https://avrgroup.it/trasparenza-arera/",
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Servizi e fonti",
+          "file": "comuni/capurso/zona-servizi.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "cellamare",
+      "nome": "Cellamare",
+      "provincia": "BA",
+      "gestore": "TeknoService",
+      "consorzio": "aroba7-cellamare",
+      "lat": 41.019333,
+      "lon": 16.928288,
+      "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/cellamare/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/cellamare/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "noicattaro",
+      "nome": "Noicattaro",
+      "provincia": "BA",
+      "gestore": "Raccolgo S.r.l.",
+      "consorzio": "aroba7-noicattaro",
+      "lat": 41.032287,
+      "lon": 16.987712,
+      "zone_url": "https://comune.noicattaro.bari.it/it/topics/gestione-rifiuti",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/noicattaro/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rutigliano",
+      "nome": "Rutigliano",
+      "provincia": "BA",
+      "gestore": "Vito Gassi",
+      "consorzio": "aroba7-rutigliano",
+      "lat": 41.011159,
+      "lon": 17.005479,
+      "zone_url": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=H643",
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Servizi e fonti",
+          "file": "comuni/rutigliano/zona-servizi.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "triggiano",
+      "nome": "Triggiano",
+      "provincia": "BA",
+      "gestore": "Omnitech · Ciclat",
+      "consorzio": "aroba7-triggiano",
+      "lat": 41.063448,
+      "lon": 16.921698,
+      "zone_url": "https://omnitech.srl/gestione-ambientale/comune-di-triggiano/",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/triggiano/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "valenzano",
+      "nome": "Valenzano",
+      "provincia": "BA",
+      "gestore": "SI.ECO",
+      "consorzio": "aroba7-valenzano",
+      "lat": 41.045333,
+      "lon": 16.885086,
+      "zone_url": "https://www.siecospa.it/project/valenzano-ba/",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/valenzano/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -24448,6 +24556,42 @@
       "gestore": "ARO BA/2",
       "ecocentri": "ecocentri/aroba2-sannicandro-di-bari.json",
       "regole": "regole/aroba2.json"
+    },
+    "aroba7-capurso": {
+      "nome": "ARO BA/7 · Capurso",
+      "gestore": "AVR per l’Ambiente",
+      "ecocentri": "ecocentri/aroba7-capurso.json",
+      "regole": "regole/aroba7-capurso.json"
+    },
+    "aroba7-cellamare": {
+      "nome": "ARO BA/7 · Cellamare",
+      "gestore": "TeknoService",
+      "ecocentri": "ecocentri/aroba7-cellamare.json",
+      "regole": "regole/aroba7-cellamare.json"
+    },
+    "aroba7-noicattaro": {
+      "nome": "ARO BA/7 · Noicattaro",
+      "gestore": "Raccolgo S.r.l.",
+      "ecocentri": "ecocentri/aroba7-noicattaro.json",
+      "regole": "regole/aroba7-noicattaro.json"
+    },
+    "aroba7-rutigliano": {
+      "nome": "ARO BA/7 · Rutigliano",
+      "gestore": "Vito Gassi",
+      "ecocentri": "ecocentri/aroba7-rutigliano.json",
+      "regole": "regole/aroba7-rutigliano.json"
+    },
+    "aroba7-triggiano": {
+      "nome": "ARO BA/7 · Triggiano",
+      "gestore": "Omnitech · Ciclat",
+      "ecocentri": "ecocentri/aroba7-triggiano.json",
+      "regole": "regole/aroba7-triggiano.json"
+    },
+    "aroba7-valenzano": {
+      "nome": "ARO BA/7 · Valenzano",
+      "gestore": "SI.ECO",
+      "ecocentri": "ecocentri/aroba7-valenzano.json",
+      "regole": "regole/aroba7-valenzano.json"
     }
   },
   "tipi_en": {

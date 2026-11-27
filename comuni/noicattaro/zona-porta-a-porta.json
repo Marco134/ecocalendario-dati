@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "comune": "Noicattaro",
+ "provincia": "BA",
+ "gestore": "Raccolgo S.r.l.",
+ "zona": "Porta a porta",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.comune.noicattaro.bari.it/it/news/modalita-operative-per-il-conferimento-di-rifiuti-per-le-utenze-domestiche | https://comune.noicattaro.bari.it/it/topics/gestione-rifiuti | https://ager.puglia.it/wp-content/uploads/2026/04/Carta_Servizi_-_Comune_di_Noicattaro_-_21_04_2026-15_50_00.pdf",
+ "raccolte": {
+  "2026-11-27": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Le date sono quelle di ritiro della mattina successiva alle sere di esposizione indicate dal Comune. Per Parchitello o circuiti speciali verificare il civico."
+ ],
+ "esposizione": "Dalle 20:00 del giorno precedente alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}

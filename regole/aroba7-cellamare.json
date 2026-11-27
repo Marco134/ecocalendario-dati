@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "nome": "Cellamare · Materiali",
+ "fonte": "https://www.teknoserviceitalia.com/puglia/bari/cellamare/",
+ "voci": {
+  "imballaggi in plastica e metalli": {
+   "dove": "plastica",
+   "nota": "Usare il kit assegnato con RFID."
+  },
+  "cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Per le attività seguire il giro separato degli imballaggi di cartone."
+  },
+  "pannolini e pannoloni": {
+   "dove": "varia",
+   "nota": "Per il giro dedicato registrare l’utenza e usare il kit assegnato."
+  }
+ }
+}

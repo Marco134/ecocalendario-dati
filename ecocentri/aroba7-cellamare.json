@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-27",
+ "gestore": "TeknoService",
+ "numero_verde": "800 615 622",
+ "fonte": "https://www.teknoserviceitalia.com/puglia/bari/cellamare/",
+ "accesso": "Controllare frazioni, limiti e documenti per la propria utenza prima del conferimento.",
+ "avviso": "Via Pezze Pennino. Lun–sab 07:30–13:00, lun e gio anche 15:00–16:30.",
+ "centri": [
+  {
+   "id": "pezze-pennino",
+   "nome": "Centro Comunale di Raccolta",
+   "comune": "Cellamare",
+   "indirizzo": "Via Pezze Pennino",
+   "orari": {
+    "1": [
+     [
+      "07:30",
+      "13:00"
+     ],
+     [
+      "15:00",
+      "16:30"
+     ]
+    ],
+    "2": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:30",
+      "13:00"
+     ],
+     [
+      "15:00",
+      "16:30"
+     ]
+    ],
+    "5": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:30",
+      "13:00"
+     ]
+    ]
+   },
+   "lat": 41.0203993,
+   "lon": 16.9286858
+  }
+ ]
+}

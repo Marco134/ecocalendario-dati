@@ -4016,6 +4016,24 @@
    "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
+   "id": "capurso",
+   "nome": "Capurso",
+   "provincia": "BA",
+   "gestore": "AVR per l’Ambiente",
+   "consorzio": "aroba7-capurso-und",
+   "lat": 41.05032,
+   "lon": 16.916742,
+   "zone_url": "https://avrgroup.it/trasparenza-arera/",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/capurso/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "carate-brianza",
    "nome": "Carate Brianza",
    "provincia": "MB",
@@ -5568,6 +5586,24 @@
     }
    ],
    "ecocentri": "ecocentri/vcs-forno-allione-und.json"
+  },
+  {
+   "id": "cellamare",
+   "nome": "Cellamare",
+   "provincia": "BA",
+   "gestore": "TeknoService",
+   "consorzio": "aroba7-cellamare-und",
+   "lat": 41.019333,
+   "lon": 16.928288,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/cellamare/",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano",
+     "file": "comuni/cellamare/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "celleno",
@@ -12982,6 +13018,24 @@
    ]
   },
   {
+   "id": "noicattaro",
+   "nome": "Noicattaro",
+   "provincia": "BA",
+   "gestore": "Raccolgo S.r.l.",
+   "consorzio": "aroba7-noicattaro-und",
+   "lat": 41.032287,
+   "lon": 16.987712,
+   "zone_url": "https://comune.noicattaro.bari.it/it/topics/gestione-rifiuti",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta",
+     "file": "comuni/noicattaro/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "nole",
    "nome": "Nole",
    "provincia": "TO",
@@ -16820,6 +16874,24 @@
    ]
   },
   {
+   "id": "rutigliano",
+   "nome": "Rutigliano",
+   "provincia": "BA",
+   "gestore": "Vito Gassi",
+   "consorzio": "aroba7-rutigliano-und",
+   "lat": 41.011159,
+   "lon": 17.005479,
+   "zone_url": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=H643",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/rutigliano/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "ruvo-di-puglia",
    "nome": "Ruvo di Puglia",
    "provincia": "BA",
@@ -19970,6 +20042,30 @@
    ]
   },
   {
+   "id": "triggiano",
+   "nome": "Triggiano",
+   "provincia": "BA",
+   "gestore": "Omnitech · Ciclat",
+   "consorzio": "aroba7-triggiano-und",
+   "lat": 41.063448,
+   "lon": 16.921698,
+   "zone_url": "https://omnitech.srl/gestione-ambientale/comune-di-triggiano/",
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Attività commerciali",
+     "file": "comuni/triggiano/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "alimentari",
+     "nome": "Attività alimentari",
+     "file": "comuni/triggiano/zona-alimentari.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "triuggio",
    "nome": "Triuggio",
    "provincia": "MB",
@@ -20365,6 +20461,36 @@
     }
    ],
    "zone_url": "https://serviziambientali.idealservice.it/it/comuni/valentano/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
+   "id": "valenzano",
+   "nome": "Valenzano",
+   "provincia": "BA",
+   "gestore": "SI.ECO",
+   "consorzio": "aroba7-valenzano-und",
+   "lat": 41.045333,
+   "lon": 16.885086,
+   "zone_url": "https://www.siecospa.it/project/valenzano-ba/",
+   "zone": [
+    {
+     "id": "studi-professionali",
+     "nome": "Studi professionali",
+     "file": "comuni/valenzano/zona-studi-professionali.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "commerciali",
+     "nome": "Attività commerciali",
+     "file": "comuni/valenzano/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "alimentari",
+     "nome": "Attività che somministrano alimenti",
+     "file": "comuni/valenzano/zona-alimentari.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "valfurva",
@@ -22607,6 +22733,42 @@
    "gestore": "ARO BA/2",
    "ecocentri": "ecocentri/aroba2-sannicandro-di-bari-und.json",
    "regole": "regole/aroba2.json"
+  },
+  "aroba7-capurso-und": {
+   "nome": "ARO BA/7 · Capurso",
+   "gestore": "AVR per l’Ambiente",
+   "ecocentri": "ecocentri/aroba7-capurso-und.json",
+   "regole": "regole/aroba7-capurso.json"
+  },
+  "aroba7-cellamare-und": {
+   "nome": "ARO BA/7 · Cellamare",
+   "gestore": "TeknoService",
+   "ecocentri": "ecocentri/aroba7-cellamare-und.json",
+   "regole": "regole/aroba7-cellamare.json"
+  },
+  "aroba7-noicattaro-und": {
+   "nome": "ARO BA/7 · Noicattaro",
+   "gestore": "Raccolgo S.r.l.",
+   "ecocentri": "ecocentri/aroba7-noicattaro-und.json",
+   "regole": "regole/aroba7-noicattaro.json"
+  },
+  "aroba7-rutigliano-und": {
+   "nome": "ARO BA/7 · Rutigliano",
+   "gestore": "Vito Gassi",
+   "ecocentri": "ecocentri/aroba7-rutigliano-und.json",
+   "regole": "regole/aroba7-rutigliano.json"
+  },
+  "aroba7-triggiano-und": {
+   "nome": "ARO BA/7 · Triggiano",
+   "gestore": "Omnitech · Ciclat",
+   "ecocentri": "ecocentri/aroba7-triggiano-und.json",
+   "regole": "regole/aroba7-triggiano.json"
+  },
+  "aroba7-valenzano-und": {
+   "nome": "ARO BA/7 · Valenzano",
+   "gestore": "SI.ECO",
+   "ecocentri": "ecocentri/aroba7-valenzano-und.json",
+   "regole": "regole/aroba7-valenzano.json"
   }
  }
 }

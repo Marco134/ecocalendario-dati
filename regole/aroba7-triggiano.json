@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Triggiano · Materiali",
+ "fonte": "https://omnitech.srl/wp-content/uploads/2026/03/Calendario-Triggiano-UD.pdf",
+ "voci": {
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Nel contenitore blu senza busta."
+  },
+  "stoviglie compostabili": {
+   "dove": "organico",
+   "nota": "Usare il sacco compostabile e il contenitore marrone."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Senza tappo e senza busta."
+  },
+  "scontrini e carta da forno": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel contenitore grigio."
+  },
+  "imballaggi in plastica e metallo": {
+   "dove": "plastica",
+   "nota": "Multimateriale nel contenitore giallo."
+  },
+  "farmaci scaduti": {
+   "dove": "varia",
+   "nota": "Farmacie o CCR."
+  },
+  "pile esauste": {
+   "dove": "varia",
+   "nota": "CCR o raccolta dedicata presso esercizi commerciali."
+  }
+ }
+}

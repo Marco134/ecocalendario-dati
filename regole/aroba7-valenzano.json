@@ -1,0 +1,23 @@
+{
+ "schema": 1,
+ "nome": "Valenzano · Materiali",
+ "fonte": "https://www.comune.valenzano.ba.it/novita/notizie/novita_92.html | https://www.siecospa.it/project/valenzano-ba/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Sfusi nel mastello o in un sacchetto di carta. Dal 12 ottobre 2026 sono vietati i sacchi in plastica."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire sfusi nel contenitore dedicato."
+  },
+  "plastica e metalli da imballaggio": {
+   "dove": "plastica",
+   "nota": "Conferire nel circuito multimateriale della propria utenza."
+  },
+  "indumenti usati": {
+   "dove": "varia",
+   "nota": "Sieco pubblica il ritiro l’ultimo venerdì del mese con esposizione il giovedì precedente."
+  }
+ }
+}

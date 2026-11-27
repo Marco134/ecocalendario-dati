@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Noicattaro · Materiali",
+ "fonte": "https://www.comune.noicattaro.bari.it/it/news/modalita-operative-per-il-conferimento-di-rifiuti-per-le-utenze-domestiche | https://comune.noicattaro.bari.it/it/news/calendario-di-ritiro-rifiuti-utenze-non-domestiche?type=3 | https://comune.noicattaro.bari.it/it/news/raccolta-indumenti-usati-porta-a-porta",
+ "voci": {
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Senza tappo e sfusi."
+  },
+  "piatti e bicchieri monouso in plastica": {
+   "dove": "plastica",
+   "nota": "Imballaggi puliti nel multimateriale."
+  },
+  "scontrini in carta termica": {
+   "dove": "indifferenziato",
+   "nota": "Tenere separati dalla carta riciclabile."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Usare il contenitore e i sacchetti compostabili assegnati."
+  },
+  "imballaggi in cartone": {
+   "dove": "carta",
+   "nota": "Piegare e togliere il nastro. Le attività seguono il giro dedicato."
+  },
+  "legno": {
+   "dove": "varia",
+   "nota": "Chiedere il conferimento al CCR."
+  },
+  "indumenti usati": {
+   "dove": "varia",
+   "nota": "Ritiro porta a porta l’ultimo mercoledì del mese. Confermare variazioni festive."
+  }
+ }
+}

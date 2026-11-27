@@ -1,0 +1,15 @@
+{
+ "schema": 1,
+ "nome": "Rutigliano · Materiali",
+ "fonte": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=H643 | https://rutigliano.comune.digital/centro-di-raccolta",
+ "voci": {
+  "olio vegetale esausto": {
+   "dove": "varia",
+   "nota": "Il portale TARI indica un ritiro dedicato per le utenze domestiche. Chiedere frequenza e modalità."
+  },
+  "ingombranti": {
+   "dove": "varia",
+   "nota": "Ritiro su prenotazione. Accesso al CCR secondo l’utenza."
+  }
+ }
+}

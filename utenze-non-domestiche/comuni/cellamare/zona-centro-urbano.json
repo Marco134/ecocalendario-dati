@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "comune": "Cellamare",
+ "provincia": "BA",
+ "gestore": "TeknoService",
+ "zona": "Centro urbano",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/02/BROCHURE-CALENDARIO-CELLAMARE-5.pdf | https://www.teknoserviceitalia.com/puglia/bari/cellamare/",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Il cartone da imballaggio ha un giro dedicato tutti i giorni, compresa la domenica. Usare il kit fornito con RFID."
+ ],
+ "esposizione": "Dalle 22:00 del giorno precedente alle 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00"
+}

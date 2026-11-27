@@ -4926,6 +4926,120 @@
       "regole_en": [
         "Check eligibility and collection limits with the provider."
       ]
+    },
+    {
+      "id": "aroba7-capurso",
+      "nome": "AVR per l’Ambiente · Capurso · UD",
+      "gestori": [],
+      "comuni": [
+        "capurso"
+      ],
+      "telefono": "800 131 026",
+      "fonte": "https://avrgroup.it/trasparenza-arera/ | https://www.comune.capurso.bari.it/novita/sospensione-ritiro-raee-r1-r4-capurso/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotare ingombranti al numero verde. Per i RAEE R1 e R4 verificare il ripristino del servizio."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba7-cellamare",
+      "nome": "TeknoService · Cellamare · UD",
+      "gestori": [],
+      "comuni": [
+        "cellamare"
+      ],
+      "telefono": "800 615 622",
+      "fonte": "https://www.teknoserviceitalia.com/puglia/bari/cellamare/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro su prenotazione oppure conferimento al centro di raccolta secondo le condizioni locali."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba7-noicattaro",
+      "nome": "Raccolgo S.r.l. · Noicattaro · UD",
+      "gestori": [],
+      "comuni": [
+        "noicattaro"
+      ],
+      "telefono": "800 966 182",
+      "fonte": "https://comune.noicattaro.bari.it/it/topics/gestione-rifiuti",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro a domicilio di ingombranti e RAEE su prenotazione al numero verde o all’infopoint 080 897 6378. Per gli sfalci il Comune indica fino a tre sacchetti."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba7-rutigliano",
+      "nome": "Vito Gassi · Rutigliano · UD",
+      "gestori": [],
+      "comuni": [
+        "rutigliano"
+      ],
+      "telefono": "800 098 662",
+      "fonte": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=H643",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro a domicilio con prenotazione tramite gestore. Chiedere condizioni per RAEE e per le attività."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba7-triggiano",
+      "nome": "Omnitech · Ciclat · Triggiano · UD",
+      "gestori": [],
+      "comuni": [
+        "triggiano"
+      ],
+      "telefono": "800 172 319",
+      "fonte": "https://omnitech.srl/gestione-ambientale/comune-di-triggiano/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro di ingombranti e grandi elettrodomestici su prenotazione. Numero verde lun–sab 08:30–12:30."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba7-valenzano",
+      "nome": "SI.ECO · Valenzano · UD",
+      "gestori": [],
+      "comuni": [
+        "valenzano"
+      ],
+      "telefono": "800 999 531",
+      "fonte": "https://www.siecospa.it/project/valenzano-ba/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro di ingombranti, RAEE e sfalci su prenotazione al numero verde da fisso o al 346 5368821 da mobile."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
     }
   ]
 }
