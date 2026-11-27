@@ -113,3 +113,7 @@ Calendari UND documentati per Casciana Terme Lari, il turno carta su richiesta a
 ## Valpe Ambiente · Agordino e Valle del Boite
 
 Turni standard per 21 comuni e 36 zone fino al 31 dicembre 2026. Vetro, plastica e lattine formano un unico giro VPL. Alle attività con servizio intensificato o a pesatura si applicano i turni comunicati dal gestore. Per gli ecocentri serve l’autorizzazione. Gli ingombranti delle attività si gestiscono su preventivo. [Calendari](https://valpeambiente.it/p/gestione-rifiuti/calendari) · [Ecocentri](https://valpeambiente.it/p/gestione-rifiuti/ecocentro)
+
+## Cooperativa Sociale Risorse · Cusio e Vergante
+
+Calendario ordinario per 20 comuni fino al 28 febbraio 2027. Per otto comuni sono disponibili anche i turni Cartone e Polietilene delle attività abilitate fino al 31 dicembre 2026. A Orta San Giulio verificare il servizio stagionale delle attività ricettive e dell’Isola. [Calendari dedicati](https://www.cooprisorse.it/calendari-raccolta/) · [Calendari ordinari del Consorzio](https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario)

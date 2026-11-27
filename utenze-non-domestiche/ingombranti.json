@@ -3893,6 +3893,386 @@
    "regole_en": [
     "Ask the operator for a site inspection and a quote for bulky waste from a business."
    ]
+  },
+  {
+   "id": "coop-risorse-und-ameno",
+   "nome": "Ameno · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "ameno"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/ameno-2026-uff-817-109-20027-12ac2a9538615820a42052337a074850 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-armeno",
+   "nome": "Armeno · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "armeno"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/armeno-2026-uff-818-109-20027-6792afef9928451f264d82c47d4d7c5d | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404 | https://comune.armeno.no.it/it-it/download/carta-qualita-dei-servizi-cooperativa-sociale-risorse-491857-4-3-e2810281193c1281c10d760cef71d917",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-bolzano-novarese",
+   "nome": "Bolzano Novarese · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "bolzano-novarese"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/bolzano-novarese-2026-uff-820-109-20027-e25892d7ce6ed395e01d434ef4ab87ff | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-briga-novarese",
+   "nome": "Briga Novarese · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "briga-novarese"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/briga-novarese-2026-uff-821-109-20027-e1175a729d1e85049a7e1b85919203b2 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-colazza",
+   "nome": "Colazza · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "colazza"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/colazza-2026-uff-824-109-20027-86ddbd5e0a8075dcaaec6ced816afdd8 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-gargallo",
+   "nome": "Gargallo · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "gargallo"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/gargallo-2026-uff-827-109-20027-94f365d7f23aecb1ccd96d2f318e684e | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-gozzano",
+   "nome": "Gozzano · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "gozzano"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/gozzano-2026-uff-829-109-20027-6409589b969f555036f78740be961e08 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-invorio",
+   "nome": "Invorio · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "invorio"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/invorio-2026-uff-831-109-20027-18baafd104fa4bd6ba345dcd472c0103 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-lesa",
+   "nome": "Lesa · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "lesa"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/lesa-2026-uff-832-109-20027-21aa3fc6df8a92eb596abac8a0c4e3a6 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-massino-visconti",
+   "nome": "Massino Visconti · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "massino-visconti"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/massino-visconti-2026-uff-834-109-20027-5aaba7c0b1e60185ae61a9b8fbb598d7 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-meina",
+   "nome": "Meina · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "meina"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/meina-2026-uff-835-109-20027-05bb01f5a23ad6479c7d5e0ed7f56660 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-miasino",
+   "nome": "Miasino · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "miasino"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/miasino-2026-uff-836-109-20027-9ba605416f33a2808b3e55bb54b7d25f | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-nebbiuno",
+   "nome": "Nebbiuno · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "nebbiuno"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/nebbiuno-2026-uff-837-109-20027-f7a1bf174c4b74f360e65f6c4e5b7b09 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-orta-san-giulio",
+   "nome": "Orta San Giulio · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "orta-san-giulio"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/orta-san-giulio-2026-uff-838-109-20027-d74fe1727103807da1e68a35e246ab4a | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-pella",
+   "nome": "Pella · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "pella"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pella-2026-uff-839-109-20027-79fdf17c9666dbf4bd015a136e3f86e8 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-pettenasco",
+   "nome": "Pettenasco · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "pettenasco"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pettenasco-2026-uff-840-109-20027-5d8c71a10e3021e2508c249da605f4e3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-pisano",
+   "nome": "Pisano · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "pisano"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pisano-2026-uff-841-109-20027-83592d4ce3f9d000d255c8c3c2c2cab3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-pogno",
+   "nome": "Pogno · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "pogno"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pogno-2026-uff-842-109-20027-3e8b483793772859f09d7f8cc97a6fa3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-san-maurizio-d-opaglio",
+   "nome": "San Maurizio d'Opaglio · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "san-maurizio-d-opaglio"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/san-maurizio-d-opaglio-2026-uff-845-109-20027-253fa8210b65abea7afd74587937a425 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito. Il calendario 2026 documenta per le imprese il conferimento in piazzale di Via Brughiere il 3 giugno e 25 novembre, 08:00–11:00. Per nuovi turni chiedere al gestore."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
+  },
+  {
+   "id": "coop-risorse-und-soriso",
+   "nome": "Soriso · Risorse UND",
+   "gestori": [],
+   "comuni": [
+    "soriso"
+   ],
+   "telefono": "800 519 109",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/soriso-2026-uff-847-109-20027-966db3c064c94ae7f536643373cd4f34 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "La Carta indica ritiro di ingombranti e RAEE su prenotazione. Chiedere limiti, articoli ammessi per l’attività, disponibilità e costo. Per RAEE professionali verificare il circuito."
+   ],
+   "regole_en": [
+    "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
+   ]
   }
  ]
 }

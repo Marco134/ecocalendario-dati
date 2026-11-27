@@ -1,0 +1,188 @@
+{
+ "schema": 1,
+ "comune": "San Maurizio d'Opaglio",
+ "provincia": "NO",
+ "gestore": "Cooperativa Sociale Risorse",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2027-02-28",
+ "fonte": "https://www.consorziomedionovarese.it/it-it/download/san-maurizio-d-opaglio-2026-uff-845-109-20027-253fa8210b65abea7afd74587937a425 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "lattine"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-02": [
+   "indifferenziato"
+  ],
+  "2027-01-04": [
+   "organico"
+  ],
+  "2027-01-05": [
+   "carta"
+  ],
+  "2027-01-09": [
+   "indifferenziato"
+  ],
+  "2027-01-11": [
+   "organico"
+  ],
+  "2027-01-12": [
+   "carta"
+  ],
+  "2027-01-13": [
+   "lattine"
+  ],
+  "2027-01-14": [
+   "plastica"
+  ],
+  "2027-01-15": [
+   "vetro"
+  ],
+  "2027-01-16": [
+   "indifferenziato"
+  ],
+  "2027-01-18": [
+   "organico"
+  ],
+  "2027-01-19": [
+   "carta"
+  ],
+  "2027-01-23": [
+   "indifferenziato"
+  ],
+  "2027-01-25": [
+   "organico"
+  ],
+  "2027-01-26": [
+   "carta"
+  ],
+  "2027-01-28": [
+   "plastica"
+  ],
+  "2027-01-29": [
+   "vetro"
+  ],
+  "2027-01-30": [
+   "indifferenziato"
+  ],
+  "2027-02-01": [
+   "organico"
+  ],
+  "2027-02-02": [
+   "carta"
+  ],
+  "2027-02-06": [
+   "indifferenziato"
+  ],
+  "2027-02-08": [
+   "organico"
+  ],
+  "2027-02-09": [
+   "carta"
+  ],
+  "2027-02-10": [
+   "lattine"
+  ],
+  "2027-02-11": [
+   "plastica"
+  ],
+  "2027-02-12": [
+   "vetro"
+  ],
+  "2027-02-13": [
+   "indifferenziato"
+  ],
+  "2027-02-15": [
+   "organico"
+  ],
+  "2027-02-16": [
+   "carta"
+  ],
+  "2027-02-20": [
+   "indifferenziato"
+  ],
+  "2027-02-22": [
+   "organico"
+  ],
+  "2027-02-23": [
+   "carta"
+  ],
+  "2027-02-25": [
+   "plastica"
+  ],
+  "2027-02-26": [
+   "vetro"
+  ],
+  "2027-02-27": [
+   "indifferenziato"
+  ]
+ },
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00",
+ "note": [
+  "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+  "Sacco conforme e contenitori secondo la dotazione. Verificare eventuali deroghe, rifiuti vegetali e turni dedicati per il civico.",
+  "Il profilo Cartone e Polietilene vale per le attività ammesse al servizio specifico."
+ ]
+}

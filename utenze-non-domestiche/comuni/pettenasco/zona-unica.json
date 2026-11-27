@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "comune": "Pettenasco",
+ "provincia": "NO",
+ "gestore": "Cooperativa Sociale Risorse",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2027-02-28",
+ "fonte": "https://www.consorziomedionovarese.it/it-it/download/pettenasco-2026-uff-840-109-20027-5d8c71a10e3021e2508c249da605f4e3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-28": [
+   "vetro"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "vetro"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "lattine"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "carta"
+  ],
+  "2027-01-04": [
+   "indifferenziato"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "carta"
+  ],
+  "2027-01-09": [
+   "vetro"
+  ],
+  "2027-01-11": [
+   "indifferenziato"
+  ],
+  "2027-01-13": [
+   "plastica"
+  ],
+  "2027-01-14": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "carta"
+  ],
+  "2027-01-16": [
+   "lattine"
+  ],
+  "2027-01-18": [
+   "indifferenziato"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "carta"
+  ],
+  "2027-01-23": [
+   "vetro"
+  ],
+  "2027-01-25": [
+   "indifferenziato"
+  ],
+  "2027-01-27": [
+   "plastica"
+  ],
+  "2027-01-28": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "carta"
+  ],
+  "2027-02-01": [
+   "indifferenziato"
+  ],
+  "2027-02-04": [
+   "organico"
+  ],
+  "2027-02-05": [
+   "carta"
+  ],
+  "2027-02-06": [
+   "vetro"
+  ],
+  "2027-02-08": [
+   "indifferenziato"
+  ],
+  "2027-02-10": [
+   "plastica"
+  ],
+  "2027-02-11": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "carta"
+  ],
+  "2027-02-13": [
+   "lattine"
+  ],
+  "2027-02-15": [
+   "indifferenziato"
+  ],
+  "2027-02-18": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "carta"
+  ],
+  "2027-02-20": [
+   "vetro"
+  ],
+  "2027-02-22": [
+   "indifferenziato"
+  ],
+  "2027-02-24": [
+   "plastica"
+  ],
+  "2027-02-25": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "carta"
+  ]
+ },
+ "esposizione": "Esponi i rifiuti fronte strada pubblica entro le 5:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00",
+ "note": [
+  "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+  "Sacco conforme e contenitori secondo la dotazione. Verificare eventuali deroghe, rifiuti vegetali e turni dedicati per il civico."
+ ]
+}

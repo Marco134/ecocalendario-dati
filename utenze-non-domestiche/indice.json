@@ -469,6 +469,24 @@
    ]
   },
   {
+   "id": "ameno",
+   "nome": "Ameno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7888,
+   "lon": 8.4394,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/ameno/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "andalo-valtellino",
    "nome": "Andalo Valtellino",
    "provincia": "SO",
@@ -724,6 +742,24 @@
     }
    ],
    "zone_url": "https://serviziambientali.idealservice.it/it/comuni/arlena-di-castro/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
+   "id": "armeno",
+   "nome": "Armeno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.822,
+   "lon": 8.4392,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/armeno/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "arola",
@@ -2000,6 +2036,30 @@
    "zone_url": "https://serviziambientali.idealservice.it/it/comuni/bolsena/calendario?tipologiaUtenza=non-domestica"
   },
   {
+   "id": "bolzano-novarese",
+   "nome": "Bolzano Novarese",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7628,
+   "lon": 8.4442,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/bolzano-novarese/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/bolzano-novarese/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "borca-di-cadore",
    "nome": "Borca di Cadore",
    "provincia": "BL",
@@ -2523,6 +2583,30 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "briga-novarese",
+   "nome": "Briga Novarese",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7314,
+   "lon": 8.4516,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/briga-novarese/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/briga-novarese/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "brinzio",
@@ -5845,6 +5929,24 @@
    "regole": "regole/gelsia-und-cogliate.json"
   },
   {
+   "id": "colazza",
+   "nome": "Colazza",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7926,
+   "lon": 8.4991,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/colazza/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "colle-santa-lucia",
    "nome": "Colle Santa Lucia",
    "provincia": "BL",
@@ -7784,6 +7886,30 @@
    "ecocentri": "ecocentri/garda-und-gardone-riviera.json"
   },
   {
+   "id": "gargallo",
+   "nome": "Gargallo",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7275,
+   "lon": 8.4292,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/gargallo/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/gargallo/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "gargnano",
    "nome": "Gargnano",
    "provincia": "BS",
@@ -8263,6 +8389,30 @@
    ]
   },
   {
+   "id": "gozzano",
+   "nome": "Gozzano",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7476,
+   "lon": 8.4347,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/gozzano/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/gozzano/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "gradoli",
    "nome": "Gradoli",
    "provincia": "VT",
@@ -8618,6 +8768,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "invorio",
+   "nome": "Invorio",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7559,
+   "lon": 8.4867,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/invorio/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "inzago",
@@ -9242,6 +9410,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "lesa",
+   "nome": "Lesa",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.8301,
+   "lon": 8.5648,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/lesa/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "lesmo",
@@ -10225,6 +10411,24 @@
    ]
   },
   {
+   "id": "massino-visconti",
+   "nome": "Massino Visconti",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.8219,
+   "lon": 8.5388,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/massino-visconti/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "massiola",
    "nome": "Massiola",
    "provincia": "VB",
@@ -10361,6 +10565,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "meina",
+   "nome": "Meina",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.79,
+   "lon": 8.5376,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/meina/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "meldola",
@@ -10580,6 +10802,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "miasino",
+   "nome": "Miasino",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.8022,
+   "lon": 8.4304,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/miasino/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "miazzina",
@@ -11397,6 +11637,24 @@
    ]
   },
   {
+   "id": "nebbiuno",
+   "nome": "Nebbiuno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.8061,
+   "lon": 8.5242,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/nebbiuno/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "neive",
    "nome": "Neive",
    "provincia": "CN",
@@ -11925,6 +12183,24 @@
    "ecocentri": "ecocentri/conser-vco-und-ornavasso.json"
   },
   {
+   "id": "orta-san-giulio",
+   "nome": "Orta San Giulio",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7992,
+   "lon": 8.4057,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/orta-san-giulio/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "orvieto",
    "nome": "Orvieto",
    "provincia": "TR",
@@ -12380,6 +12656,30 @@
    ]
   },
   {
+   "id": "pella",
+   "nome": "Pella",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7971,
+   "lon": 8.3831,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pella/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/pella/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "penna-in-teverina",
    "nome": "Penna in Teverina",
    "provincia": "TR",
@@ -12530,6 +12830,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "pettenasco",
+   "nome": "Pettenasco",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.8173,
+   "lon": 8.4086,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pettenasco/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "pian-camuno",
@@ -12821,6 +13139,24 @@
    ]
   },
   {
+   "id": "pisano",
+   "nome": "Pisano",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7935,
+   "lon": 8.5104,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pisano/zona-unica.json",
+     "valido_al": "2027-02-28"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "piscina",
    "nome": "Piscina",
    "provincia": "TO",
@@ -12929,6 +13265,30 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "pogno",
+   "nome": "Pogno",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7567,
+   "lon": 8.3831,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/pogno/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/pogno/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "polcenigo",
@@ -15297,6 +15657,30 @@
    ]
   },
   {
+   "id": "san-maurizio-d-opaglio",
+   "nome": "San Maurizio d'Opaglio",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7725,
+   "lon": 8.391,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/san-maurizio-d-opaglio/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/san-maurizio-d-opaglio/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
    "id": "san-mauro-torinese",
    "nome": "San Mauro Torinese",
    "provincia": "TO",
@@ -16451,6 +16835,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "soriso",
+   "nome": "Soriso",
+   "provincia": "NO",
+   "gestore": "Cooperativa Sociale Risorse",
+   "lat": 45.7423,
+   "lon": 8.4094,
+   "consorzio": "coop-risorse-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/soriso/zona-unica.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "cartone-polietilene",
+     "nome": "Cartone e polietilene · solo attività abilitate",
+     "file": "comuni/soriso/zona-cartone-polietilene.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
    "id": "sorisole",
@@ -19920,6 +20328,12 @@
    "gestore": "Valpe Ambiente",
    "ecocentri": "ecocentri/valpe-und.json",
    "regole": "regole/valpe-und.json"
+  },
+  "coop-risorse-und": {
+   "nome": "Cooperativa Sociale Risorse · UND",
+   "gestore": "Cooperativa Sociale Risorse",
+   "ecocentri": "ecocentri/coop-risorse-und.json",
+   "regole": "regole/coop-risorse-und.json"
   }
  }
 }

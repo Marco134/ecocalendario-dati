@@ -266,7 +266,12 @@
    "nome": "Ameno",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/ameno-2026-uff-817-109-20027-12ac2a9538615820a42052337a074850 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "andalo-valtellino",
@@ -421,7 +426,12 @@
    "nome": "Armeno",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/armeno-2026-uff-818-109-20027-6792afef9928451f264d82c47d4d7c5d | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404 | https://comune.armeno.no.it/it-it/download/carta-qualita-dei-servizi-cooperativa-sociale-risorse-491857-4-3-e2810281193c1281c10d760cef71d917",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "arola",
@@ -1059,7 +1069,12 @@
    "nome": "Bolzano Novarese",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/bolzano-novarese-2026-uff-820-109-20027-e25892d7ce6ed395e01d434ef4ab87ff | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "borca-di-cadore",
@@ -1338,7 +1353,12 @@
    "nome": "Briga Novarese",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/briga-novarese-2026-uff-821-109-20027-e1175a729d1e85049a7e1b85919203b2 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "brinzio",
@@ -3034,7 +3054,12 @@
    "nome": "Colazza",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/colazza-2026-uff-824-109-20027-86ddbd5e0a8075dcaaec6ced816afdd8 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "colico",
@@ -4005,7 +4030,12 @@
    "nome": "Gargallo",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/gargallo-2026-uff-827-109-20027-94f365d7f23aecb1ccd96d2f318e684e | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "gargnano",
@@ -4235,7 +4265,12 @@
    "nome": "Gozzano",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/gozzano-2026-uff-829-109-20027-6409589b969f555036f78740be961e08 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "gradoli",
@@ -4469,7 +4504,12 @@
    "nome": "Invorio",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/invorio-2026-uff-831-109-20027-18baafd104fa4bd6ba345dcd472c0103 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "inzago",
@@ -4689,7 +4729,12 @@
    "nome": "Lesa",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/lesa-2026-uff-832-109-20027-21aa3fc6df8a92eb596abac8a0c4e3a6 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "lesmo",
@@ -5265,7 +5310,12 @@
    "nome": "Massino Visconti",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/massino-visconti-2026-uff-834-109-20027-5aaba7c0b1e60185ae61a9b8fbb598d7 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "massiola",
@@ -5346,7 +5396,12 @@
    "nome": "Meina",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/meina-2026-uff-835-109-20027-05bb01f5a23ad6479c7d5e0ed7f56660 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "melegnano",
@@ -5445,7 +5500,12 @@
    "nome": "Miasino",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/miasino-2026-uff-836-109-20027-9ba605416f33a2808b3e55bb54b7d25f | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "miazzina",
@@ -5925,7 +5985,12 @@
    "nome": "Nebbiuno",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/nebbiuno-2026-uff-837-109-20027-f7a1bf174c4b74f360e65f6c4e5b7b09 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "neive",
@@ -6255,7 +6320,12 @@
    "nome": "Orta San Giulio",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/orta-san-giulio-2026-uff-838-109-20027-d74fe1727103807da1e68a35e246ab4a | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "orvieto",
@@ -6529,7 +6599,12 @@
    "nome": "Pella",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pella-2026-uff-839-109-20027-79fdf17c9666dbf4bd015a136e3f86e8 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "penna-in-teverina",
@@ -6628,7 +6703,12 @@
    "nome": "Pettenasco",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pettenasco-2026-uff-840-109-20027-5d8c71a10e3021e2508c249da605f4e3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "peveragno",
@@ -6789,7 +6869,12 @@
    "nome": "Pisano",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pisano-2026-uff-841-109-20027-83592d4ce3f9d000d255c8c3c2c2cab3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 1
   },
   {
    "id": "piscina",
@@ -6836,7 +6921,12 @@
    "nome": "Pogno",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/pogno-2026-uff-842-109-20027-3e8b483793772859f09d7f8cc97a6fa3 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "poirino",
@@ -7942,7 +8032,12 @@
    "nome": "San Maurizio d'Opaglio",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/san-maurizio-d-opaglio-2026-uff-845-109-20027-253fa8210b65abea7afd74587937a425 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "san-mauro-torinese",
@@ -8457,7 +8552,12 @@
    "nome": "Soriso",
    "provincia": "NO",
    "gestore": "Cooperativa Sociale Risorse",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.consorziomedionovarese.it/it-it/download/soriso-2026-uff-847-109-20027-966db3c064c94ae7f536643373cd4f34 | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+   "verificato": "2026-11-27",
+   "nota": "I giri per utenze selezionate dipendono dall’attivazione e dalla categoria. Chiedere a Risorse giorni, condizioni e recuperi. Lattine e vetro hanno circuiti distinti nei PDF ordinari.",
+   "valido_al": "2027-02-28",
+   "zone_und": 2
   },
   {
    "id": "sparone",

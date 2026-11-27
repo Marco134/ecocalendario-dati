@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "nome": "Cooperativa Sociale Risorse · Materiali delle attività",
+ "fonte": "https://www.cooprisorse.it/calendari-raccolta/ | https://comune.ameno.no.it/it-it/download/carta-della-qualita-dei-servizi-cooperativa-sociale-risorse-pef-2026-2027-519909-31-2-606ea619f2da33f7b7403adb8ec26404",
+ "voci": {
+  "scatole di cartone piegate": {
+   "dove": "carta",
+   "nota": "Il giro Cartone ditte accetta scatole piegate. Confermare attivazione."
+  },
+  "tubolari per bobine, cartoncino e carta d’ufficio": {
+   "dove": "carta",
+   "nota": "Usare la raccolta ordinaria della carta. Esclusi dal giro dedicato cartone."
+  },
+  "cartoni in Tetra Pak per bevande": {
+   "dove": "carta",
+   "nota": "Con la carta secondo la guida del gestore."
+  },
+  "film estensibile e termoretraibile in PE, regge in PP, polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Per attività ammesse, giro Polietilene. Verificare simbolo e specifiche del materiale."
+  },
+  "bottiglie e flaconi vuoti fino a 5 litri": {
+   "dove": "plastica",
+   "nota": "Giro plastica ordinario secondo la guida. Verificare i contenitori di prodotti con simboli di pericolo."
+  },
+  "carta di supporto delle etichette adesive, siliconata": {
+   "dove": "indifferenziato",
+   "nota": "Nel sacco conforme del residuo."
+  },
+  "lattine, vaschette e scatolame in metallo": {
+   "dove": "lattine",
+   "nota": "Seguire il circuito separato dei metalli e la dotazione."
+  },
+  "bottiglie, vasetti e altri contenitori in vetro": {
+   "dove": "vetro",
+   "nota": "Usare il giro vetro, rimuovere componenti estranei."
+  },
+  "avanzi alimentari e fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare i sacchetti compostabili e il contenitore assegnato."
+  },
+  "cartucce, toner e nastri esausti": {
+   "dove": "varia",
+   "nota": "Chiedere alla cooperativa se è attivo il servizio dedicato e come aderire."
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "comune": "Pogno",
+ "provincia": "NO",
+ "gestore": "Cooperativa Sociale Risorse",
+ "zona": "Cartone e polietilene · solo attività abilitate",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.cooprisorse.it/download/servizio-cartone-e-polietilene-pella-pogno-e-san-maurizio-dopaglio/",
+ "raccolte": {
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ]
+ },
+ "esposizione": "Concordare luogo, orario e attivazione con Risorse.",
+ "note": [
+  "Solo scatole di cartone piegate e imballaggi specifici in polietilene o polistirolo, oltre a regge in polipropilene. Per flaconi e bottiglie idonei usare il giro ordinario."
+ ]
+}

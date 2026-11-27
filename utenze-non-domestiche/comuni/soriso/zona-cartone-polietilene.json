@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "comune": "Soriso",
+ "provincia": "NO",
+ "gestore": "Cooperativa Sociale Risorse",
+ "zona": "Cartone e polietilene · solo attività abilitate",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.cooprisorse.it/download/servizio-cartone-e-polietilene-bolzano-n-se-briga-n-se-gargallo-gozzano-soriso-2026/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ]
+ },
+ "esposizione": "Concordare luogo, orario e attivazione con Risorse.",
+ "note": [
+  "Solo scatole di cartone piegate e imballaggi specifici in polietilene o polistirolo, oltre a regge in polipropilene. Per flaconi e bottiglie idonei usare il giro ordinario."
+ ]
+}
