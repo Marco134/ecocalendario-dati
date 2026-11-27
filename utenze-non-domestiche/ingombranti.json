@@ -4634,6 +4634,346 @@
    "regole_en": [
     "Ask CCS about eligibility for bulky waste and professional electrical equipment."
    ]
+  },
+  {
+   "id": "cidiu-und-alpignano",
+   "nome": "Alpignano · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "alpignano"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-alpignano/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-buttigliera-alta",
+   "nome": "Buttigliera Alta · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "buttigliera-alta"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-buttigliera-alta/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio a pagamento. Chiedere tariffa ed effettuare la prenotazione telefonica."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-coazze",
+   "nome": "Coazze · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "coazze"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-coazze/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio a pagamento. Chiedere tariffa ed effettuare la prenotazione telefonica."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-collegno",
+   "nome": "Collegno · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "collegno"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-collegno/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-druento",
+   "nome": "Druento · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "druento"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-druento/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio a pagamento. Chiedere tariffa ed effettuare la prenotazione telefonica."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-giaveno",
+   "nome": "Giaveno · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "giaveno"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-giaveno/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni. Prenotazione telefonica."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-grugliasco",
+   "nome": "Grugliasco · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "grugliasco"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-grugliasco/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-pianezza",
+   "nome": "Pianezza · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "pianezza"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-pianezza/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-reano",
+   "nome": "Reano · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "reano"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-reano/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-rivoli",
+   "nome": "Rivoli · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "rivoli"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-rivoli/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-rosta",
+   "nome": "Rosta · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "rosta"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-rosta/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio a pagamento. Chiedere tariffa ed effettuare la prenotazione telefonica."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-san-gillio",
+   "nome": "San Gillio · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "san-gillio"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-san-gillio/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-sangano",
+   "nome": "Sangano · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "sangano"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-sangano/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-trana",
+   "nome": "Trana · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "trana"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-trana/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-valgioie",
+   "nome": "Valgioie · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "valgioie"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-valgioie/",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni. Prenotazione telefonica."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-venaria-reale",
+   "nome": "Venaria Reale · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "venaria-reale"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-venaria-reale/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
+  },
+  {
+   "id": "cidiu-und-villarbasse",
+   "nome": "Villarbasse · Cidiu UND",
+   "gestori": [],
+   "comuni": [
+    "villarbasse"
+   ],
+   "telefono": "800 011 651",
+   "fonte": "https://cidiu.it/cidiu/raccolta-ingombranti/ | https://cidiu.it/cidiu/comune-di-villarbasse/",
+   "prenotazione": true,
+   "prenota_url": "https://cidiu.it/cidiu/raccolta-ingombranti/",
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per UND solo arredi e RAEE dual use ammessi. Fino a 5 oggetti per prenotazione, massimo 2,5 m di lunghezza. Esposizione a bordo strada la sera prima col numero di prenotazione.",
+    "Servizio ordinario gratuito. Verificare con Cidiu materiale e condizioni."
+   ],
+   "regole_en": [
+    "Business pickup is limited to qualifying furniture and dual-use WEEE. Ask Cidiu for collection and booking conditions."
+   ]
   }
  ]
 }

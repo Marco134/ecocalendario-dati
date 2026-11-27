@@ -1,0 +1,553 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-27",
+ "gestore": "Cidiu S.p.A.",
+ "numero_verde": "800 011 651",
+ "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/",
+ "accesso": "Le attività ammesse con unità locale in un Comune servito devono esibire TARI o visura camerale. Valgono le categorie, i rifiuti e i limiti previsti dal regolamento e il gestore può riservare fasce o centri alle UND.",
+ "avviso": "14 punti consortili. Verificare orari delle attività e se la singola sede accetta il materiale.",
+ "centri": [
+  {
+   "id": "cidiu-alpignano-und",
+   "tipo": "raccolta",
+   "comune": "Alpignano",
+   "indirizzo": "Strada Campagnola",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu. Indicazioni orarie (giorno ISO): 6: 13:00-18:00(chiusura h17:00 da novembre a gennaio)",
+   "lat": 45.1092,
+   "lon": 7.5114,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-buttigliera-und",
+   "tipo": "raccolta",
+   "comune": "Buttigliera Alta",
+   "indirizzo": "Strada della Praia (fraz. Ferriera)",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:15",
+      "12:45"
+     ]
+    ],
+    "3": [
+     [
+      "13:15",
+      "16:45"
+     ]
+    ],
+    "5": [
+     [
+      "13:15",
+      "16:45"
+     ]
+    ],
+    "6": [
+     [
+      "13:15",
+      "16:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0849,
+   "lon": 7.4411,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-collegno-und",
+   "tipo": "raccolta",
+   "comune": "Collegno",
+   "indirizzo": "Corso Pastrengo 26",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0809,
+   "lon": 7.5844,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-druento-und",
+   "tipo": "raccolta",
+   "comune": "Druento",
+   "indirizzo": "Via Volta",
+   "per": "non_domestiche",
+   "orari": {
+    "4": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.1268,
+   "lon": 7.5914,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-giaveno-und",
+   "tipo": "raccolta",
+   "comune": "Giaveno",
+   "indirizzo": "Piazza Don Renato Calzolari",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:45"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "17:45"
+     ]
+    ],
+    "3": [
+     [
+      "07:15",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "17:45"
+     ]
+    ],
+    "5": [
+     [
+      "07:15",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "17:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.042,
+   "lon": 7.352,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-grugliasco-und",
+   "tipo": "raccolta",
+   "comune": "Grugliasco",
+   "indirizzo": "Via della Libertà 40",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0444,
+   "lon": 7.5887,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-pianezza-und",
+   "tipo": "raccolta",
+   "comune": "Pianezza",
+   "indirizzo": "Via dei Prati ang. via Maiolo",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0996,
+   "lon": 7.555,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-rivoli-asti-und",
+   "tipo": "raccolta",
+   "comune": "Rivoli",
+   "indirizzo": "Via Asti 94/a",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu. Indicazioni orarie (giorno ISO): 3: 9:30-13:00 14:00-18:00 (Dal 29/7 al 5/9 2026 h 8:30-13/14-17) 6: 9:30-13:00 14:00-18:00 (Dal 29/7 al 5/9 2026 h 8:30-13/14-17)",
+   "lat": 45.0652,
+   "lon": 7.5585,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-rivoli-ravensburg-und",
+   "tipo": "raccolta",
+   "comune": "Rivoli",
+   "indirizzo": "Viale Ravensburg",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0738,
+   "lon": 7.4977,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-rosta-und",
+   "tipo": "raccolta",
+   "comune": "Rosta",
+   "indirizzo": "Via XX Settembre 27",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0782,
+   "lon": 7.4748,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-san-gillio-und",
+   "tipo": "raccolta",
+   "comune": "San Gillio",
+   "indirizzo": "Via Matteotti 16",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.1386,
+   "lon": 7.5406,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-trana-und",
+   "tipo": "raccolta",
+   "comune": "Trana",
+   "indirizzo": "Zona Industriale (loc. Moranda)",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.0328,
+   "lon": 7.4353,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-venaria-und",
+   "tipo": "raccolta",
+   "comune": "Venaria Reale",
+   "indirizzo": "Corso Lombardia 49",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu.",
+   "lat": 45.1161,
+   "lon": 7.6494,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  },
+  {
+   "id": "cidiu-villarbasse-und",
+   "tipo": "raccolta",
+   "comune": "Villarbasse",
+   "indirizzo": "Via Monviso 42/a",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "07:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "13:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orari generali del centro. Per l’accesso delle attività chiedere eventuali fasce dedicate. Chiuso nei festivi indicati da Cidiu. Indicazioni orarie (giorno ISO): 6: 13:00-18:00(chiusura h17:00 da novembre a gennaio)",
+   "lat": 45.0515,
+   "lon": 7.4986,
+   "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/"
+  }
+ ]
+}

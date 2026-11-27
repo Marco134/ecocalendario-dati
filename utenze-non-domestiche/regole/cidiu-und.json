@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Cidiu · materiali delle attività",
+ "fonte": "https://cidiu.it/cidiu/ecocentri-consortili/ | https://cados.it/wp-content/uploads/2024/10/Regolamento-CCDR-Approvato.pdf | https://cidiu.it/cidiu/avvisi-ecocentri/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Porta a porta secondo la dotazione. In ecocentro il prospetto Cidiu ammette UND. Controllare limiti operativi e sospensioni, tra cui quella della carta a Venaria."
+  },
+  "imballaggi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire il servizio della sede. Il prospetto Cidiu prevede fino a 1 m³ al giorno in ecocentro per le attività ammesse, secondo disponibilità della sede."
+  },
+  "imballaggi di vetro e lattine": {
+   "dove": "vetro",
+   "nota": "Raccolta congiunta in molte zone Cidiu. Verificare se il conferimento è stradale, a domicilio o su giro attività. La tabella UND Rivoli indica vetro."
+  },
+  "scarti alimentari": {
+   "dove": "organico",
+   "nota": "Seguire il circuito dell’organico urbano della propria sede. Verificare categoria e dotazione."
+  },
+  "arredi dismessi e RAEE a duplice uso": {
+   "dove": "varia",
+   "nota": "A domicilio solo nelle condizioni previste da Cidiu. Per il centro di raccolta verificare categorie, limiti e sospensioni per quel rifiuto."
+  },
+  "ingombranti ammessi al centro e metalli": {
+   "dove": "varia",
+   "nota": "Il prospetto Cidiu ammette alle UND fino a 10 pezzi o 2 m³ al giorno, con limiti e sospensioni per centro."
+  },
+  "oli e grassi alimentari da attività": {
+   "dove": "varia",
+   "nota": "Verificare il circuito autorizzato per l’attività. Nel prospetto ecocentri Cidiu la voce oli vegetali è per utenze domestiche."
+  }
+ }
+}

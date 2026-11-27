@@ -225,7 +225,12 @@
    "nome": "Alpignano",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-alpignano/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Alpignano_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Le frazioni plastica e vetro con lattine sono stradali nel piano ordinario. Chiedere il servizio e la zona dell’attività.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "altivole",
@@ -1589,7 +1594,12 @@
    "nome": "Buttigliera Alta",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-buttigliera-alta/ | https://cidiu.it/cidiu/wp-content/uploads/2026/02/Buttigliera_festivi_2026_ver1.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "caerano-di-san-marco",
@@ -3067,7 +3077,12 @@
    "nome": "Coazze",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-coazze/",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "cogliate",
@@ -3128,7 +3143,12 @@
    "nome": "Collegno",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-collegno/ | https://cidiu.it/cidiu/wp-content/uploads/2026/11/Collegno_festivi_2026_ver3.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Terracorta e centro storico hanno circuiti diversi. Il PDF festivi di novembre 2026 va verificato per l’indirizzo UND.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "colleretto-castelnuovo",
@@ -3671,7 +3691,12 @@
    "nome": "Druento",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-druento/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Druento_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "druogno",
@@ -4214,7 +4239,12 @@
    "nome": "Giaveno",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-giaveno/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Giaveno_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "giavera-del-montello",
@@ -4437,7 +4467,12 @@
    "nome": "Grugliasco",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-grugliasco/ | https://cidiu.it/cidiu/wp-content/uploads/2026/11/Grugliasco_festivi_2026_ver_3.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Consultare la revisione di novembre 2026 dei festivi e verificare le frazioni assegnate alle attività.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "guardea",
@@ -6819,7 +6854,12 @@
    "nome": "Pianezza",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-pianezza/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Pianezza_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "pianfei",
@@ -7481,7 +7521,12 @@
    "nome": "Reano",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-reano/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Reano_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "resana",
@@ -7591,7 +7636,12 @@
    "nome": "Rivoli",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://cidiu.it/cidiu/comune-di-rivoli/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Rivoli_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La riga UND indica cartone lunedì, mercoledì, giovedì e venerdì, vetro martedì, giovedì e sabato, plastica mercoledì. Verificare il profilo assegnato al civico. Nei festivi esclusi chiedere conferma a Cidiu.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "robassomero",
@@ -7804,7 +7854,12 @@
    "nome": "Rosta",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-rosta/ | https://cidiu.it/cidiu/wp-content/uploads/2026/02/Rosta_festivi_2026_ver1.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "roure",
@@ -8051,7 +8106,12 @@
    "nome": "San Gillio",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-san-gillio/",
+   "verificato": "2026-11-27",
+   "nota": "Cidiu indica un giro a richiesta per il cartone delle attività. Attivazione e turni tramite 800 011 651.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-giorgio-canavese",
@@ -8254,7 +8314,12 @@
    "nome": "Sangano",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-sangano/ | https://cidiu.it/cidiu/wp-content/uploads/2026/02/Sangano_festivi_2026_ver1.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "sant-ambrogio-di-torino",
@@ -8969,7 +9034,12 @@
    "nome": "Trana",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-trana/ | https://cidiu.it/cidiu/wp-content/uploads/2026/02/Trana_festivi_2026_ver1.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "traona",
@@ -9279,7 +9349,12 @@
    "nome": "Valgioie",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-valgioie/",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "valgreghentino",
@@ -9526,7 +9601,12 @@
    "nome": "Venaria Reale",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-venaria-reale/ | https://cidiu.it/cidiu/wp-content/uploads/2026/11/Venaria_festivi_2026_ver3.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La sezione del portale conserva un titolo 2025, ma il PDF festivi di novembre copre il 2026 e gennaio 2027. Verificare circuito del civico e validità per UND.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "venaus",
@@ -9857,7 +9937,12 @@
    "nome": "Villarbasse",
    "provincia": "TO",
    "gestore": "Cidiu S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://cidiu.it/cidiu/comune-di-villarbasse/ | https://cidiu.it/cidiu/wp-content/uploads/2026/08/Villarbasse_festivi_2026_ver2.pdf",
+   "verificato": "2026-11-27",
+   "nota": "La pagina pubblica espone le raccolte di zona. Chiedere a Cidiu le condizioni, i turni ordinari e aggiuntivi, e i recuperi per l’attività e l’indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "villareggia",

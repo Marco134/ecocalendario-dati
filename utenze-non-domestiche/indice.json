@@ -418,6 +418,24 @@
    ]
   },
   {
+   "id": "alpignano",
+   "nome": "Alpignano",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0957,
+   "lon": 7.5254,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/alpignano/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
+  },
+  {
    "id": "altivole",
    "nome": "Altivole",
    "provincia": "TV",
@@ -3006,6 +3024,24 @@
     }
    ],
    "zone_url": "https://www.geofor.it/buti/calendario-raccolta-porta-a-porta-buti/"
+  },
+  {
+   "id": "buttigliera-alta",
+   "nome": "Buttigliera Alta",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0688,
+   "lon": 7.4345,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/buttigliera-alta/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-buttigliera-alta/"
   },
   {
    "id": "caerano-di-san-marco",
@@ -6048,6 +6084,24 @@
    ]
   },
   {
+   "id": "coazze",
+   "nome": "Coazze",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0522,
+   "lon": 7.2979,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/coazze/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-coazze/"
+  },
+  {
    "id": "cogliate",
    "nome": "Cogliate",
    "provincia": "MB",
@@ -6107,6 +6161,24 @@
     }
    ],
    "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
+   "id": "collegno",
+   "nome": "Collegno",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0775,
+   "lon": 7.5724,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/collegno/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-collegno/"
   },
   {
    "id": "colleretto-castelnuovo",
@@ -7106,6 +7178,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "druento",
+   "nome": "Druento",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.1345,
+   "lon": 7.5765,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/druento/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-druento/"
   },
   {
    "id": "druogno",
@@ -8368,6 +8458,24 @@
    ]
   },
   {
+   "id": "giaveno",
+   "nome": "Giaveno",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.042,
+   "lon": 7.352,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/giaveno/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-giaveno/"
+  },
+  {
    "id": "giavera-del-montello",
    "nome": "Giavera del Montello",
    "provincia": "TV",
@@ -8802,6 +8910,24 @@
     }
    ],
    "zone_url": "https://serviziambientali.idealservice.it/it/comuni/grotte-di-castro/calendario?tipologiaUtenza=non-domestica"
+  },
+  {
+   "id": "grugliasco",
+   "nome": "Grugliasco",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.068,
+   "lon": 7.5776,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/grugliasco/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
   },
   {
    "id": "guarene",
@@ -13166,6 +13292,24 @@
    ]
   },
   {
+   "id": "pianezza",
+   "nome": "Pianezza",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.1058,
+   "lon": 7.5434,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/pianezza/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-pianezza/"
+  },
+  {
    "id": "pianico",
    "nome": "Pianico",
    "provincia": "BG",
@@ -14685,6 +14829,24 @@
    "ecocentri": "ecocentri/conser-vco-und-re.json"
   },
   {
+   "id": "reano",
+   "nome": "Reano",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.052,
+   "lon": 7.4305,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/reano/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-reano/"
+  },
+  {
    "id": "resana",
    "nome": "Resana",
    "provincia": "TV",
@@ -14886,6 +15048,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "rivoli",
+   "nome": "Rivoli",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0697,
+   "lon": 7.5177,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Giri cartone, vetro e plastica · attività",
+     "file": "comuni/rivoli/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-rivoli/"
   },
   {
    "id": "robassomero",
@@ -15261,6 +15441,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "rosta",
+   "nome": "Rosta",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0735,
+   "lon": 7.4677,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/rosta/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-rosta/"
   },
   {
    "id": "rota-dimagna",
@@ -15807,6 +16005,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "san-gillio",
+   "nome": "San Gillio",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.1427,
+   "lon": 7.5358,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/san-gillio/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-san-gillio/"
   },
   {
    "id": "san-giorgio-bigarello",
@@ -16378,6 +16594,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "sangano",
+   "nome": "Sangano",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0266,
+   "lon": 7.4466,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/sangano/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-sangano/"
   },
   {
    "id": "sant-ambrogio-di-torino",
@@ -17946,6 +18180,24 @@
    ]
   },
   {
+   "id": "trana",
+   "nome": "Trana",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.039,
+   "lon": 7.4218,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/trana/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-trana/"
+  },
+  {
    "id": "traona",
    "nome": "Traona",
    "provincia": "SO",
@@ -18734,6 +18986,24 @@
    ]
   },
   {
+   "id": "valgioie",
+   "nome": "Valgioie",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0762,
+   "lon": 7.3409,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/valgioie/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-valgioie/"
+  },
+  {
    "id": "vallada-agordina",
    "nome": "Vallada Agordina",
    "provincia": "BL",
@@ -19163,6 +19433,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "venaria-reale",
+   "nome": "Venaria Reale",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.1348,
+   "lon": 7.6269,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/venaria-reale/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-venaria-reale/"
   },
   {
    "id": "venaus",
@@ -19780,6 +20068,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "villarbasse",
+   "nome": "Villarbasse",
+   "provincia": "TO",
+   "gestore": "Cidiu S.p.A.",
+   "lat": 45.0451,
+   "lon": 7.468,
+   "consorzio": "cidiu-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/villarbasse/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cidiu.it/cidiu/comune-di-villarbasse/"
   },
   {
    "id": "villareggia",
@@ -20754,6 +21060,12 @@
    "gestore": "CCS – Consorzio Chierese per i Servizi",
    "ecocentri": "ecocentri/ccs-und.json",
    "regole": "regole/ccs-und.json"
+  },
+  "cidiu-und": {
+   "nome": "Cidiu · UND",
+   "gestore": "Cidiu S.p.A.",
+   "ecocentri": "ecocentri/cidiu-und.json",
+   "regole": "regole/cidiu-und.json"
   }
  }
 }
