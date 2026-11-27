@@ -1,0 +1,41 @@
+{
+ "schema": 1,
+ "comune": "Locorotondo",
+ "provincia": "BA",
+ "gestore": "Monteco",
+ "zona": "Categoria TARI 03",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.montecospa.it/sites/default/files/2025-01/Brochure%20Ut.%20NON%20Domestiche%20.pdf | https://locorotondo.montecospa.it/",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Verificare la categoria TARI e gli orari del proprio indirizzo. Vetro e metalli insieme.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Centro urbano dalle 22:00 della vigilia alle 05:00 del giorno di ritiro. Centro storico dalle 06:00 alle 09:00."
+}

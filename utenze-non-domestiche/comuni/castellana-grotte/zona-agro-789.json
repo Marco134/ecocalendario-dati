@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "comune": "Castellana Grotte",
+ "provincia": "BA",
+ "gestore": "Multiservizi",
+ "zona": "Agro E7–E8–E9",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.multiservizispa.com/wp-content/uploads/2025/08/rev2025_CALENDARIO-UND-AGRO-E7-E8-E9.pdf | https://www.multiservizispa.com/utenze-domestiche/",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Carta e vetro si alternano il venerdì. Consultare il calendario per sapere quale frazione esporre.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 21:00 alle 24:00 della vigilia."
+}

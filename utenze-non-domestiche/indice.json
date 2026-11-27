@@ -282,6 +282,198 @@
    "zone_url": "https://www.comune.alba.cn.it/index.php/it/news/2053110"
   },
   {
+   "id": "alberobello",
+   "nome": "Alberobello",
+   "provincia": "BA",
+   "gestore": "Monteco",
+   "consorzio": "aroba6-alberobello-und",
+   "lat": 40.784124,
+   "lon": 17.237703,
+   "zone_url": "https://alberobello.montecospa.it/",
+   "zone": [
+    {
+     "id": "tari-01",
+     "nome": "Categoria TARI 01",
+     "file": "comuni/alberobello/zona-tari-01.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-02",
+     "nome": "Categoria TARI 02",
+     "file": "comuni/alberobello/zona-tari-02.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-03",
+     "nome": "Categoria TARI 03",
+     "file": "comuni/alberobello/zona-tari-03.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-04",
+     "nome": "Categoria TARI 04",
+     "file": "comuni/alberobello/zona-tari-04.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-05",
+     "nome": "Categoria TARI 05",
+     "file": "comuni/alberobello/zona-tari-05.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-06",
+     "nome": "Categoria TARI 06",
+     "file": "comuni/alberobello/zona-tari-06.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-07",
+     "nome": "Categoria TARI 07",
+     "file": "comuni/alberobello/zona-tari-07.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-08",
+     "nome": "Categoria TARI 08",
+     "file": "comuni/alberobello/zona-tari-08.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-09",
+     "nome": "Categoria TARI 09",
+     "file": "comuni/alberobello/zona-tari-09.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-10",
+     "nome": "Categoria TARI 10",
+     "file": "comuni/alberobello/zona-tari-10.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-11",
+     "nome": "Categoria TARI 11",
+     "file": "comuni/alberobello/zona-tari-11.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-12",
+     "nome": "Categoria TARI 12",
+     "file": "comuni/alberobello/zona-tari-12.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-13",
+     "nome": "Categoria TARI 13",
+     "file": "comuni/alberobello/zona-tari-13.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-14",
+     "nome": "Categoria TARI 14",
+     "file": "comuni/alberobello/zona-tari-14.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-15",
+     "nome": "Categoria TARI 15",
+     "file": "comuni/alberobello/zona-tari-15.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-16",
+     "nome": "Categoria TARI 16",
+     "file": "comuni/alberobello/zona-tari-16.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-17",
+     "nome": "Categoria TARI 17",
+     "file": "comuni/alberobello/zona-tari-17.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-18",
+     "nome": "Categoria TARI 18",
+     "file": "comuni/alberobello/zona-tari-18.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-19",
+     "nome": "Categoria TARI 19",
+     "file": "comuni/alberobello/zona-tari-19.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-20",
+     "nome": "Categoria TARI 20",
+     "file": "comuni/alberobello/zona-tari-20.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-21",
+     "nome": "Categoria TARI 21",
+     "file": "comuni/alberobello/zona-tari-21.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-22",
+     "nome": "Categoria TARI 22",
+     "file": "comuni/alberobello/zona-tari-22.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-23",
+     "nome": "Categoria TARI 23",
+     "file": "comuni/alberobello/zona-tari-23.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-24",
+     "nome": "Categoria TARI 24",
+     "file": "comuni/alberobello/zona-tari-24.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-25",
+     "nome": "Categoria TARI 25",
+     "file": "comuni/alberobello/zona-tari-25.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-26",
+     "nome": "Categoria TARI 26",
+     "file": "comuni/alberobello/zona-tari-26.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-27",
+     "nome": "Categoria TARI 27",
+     "file": "comuni/alberobello/zona-tari-27.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-28",
+     "nome": "Categoria TARI 28",
+     "file": "comuni/alberobello/zona-tari-28.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-29",
+     "nome": "Categoria TARI 29",
+     "file": "comuni/alberobello/zona-tari-29.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-30",
+     "nome": "Categoria TARI 30",
+     "file": "comuni/alberobello/zona-tari-30.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "albiano-d-ivrea",
    "nome": "Albiano d'Ivrea",
    "provincia": "TO",
@@ -5094,6 +5286,42 @@
      "id": "cartone-commerciale",
      "nome": "Cartone commerciale",
      "file": "comuni/castellamonte/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "castellana-grotte",
+   "nome": "Castellana Grotte",
+   "provincia": "BA",
+   "gestore": "Multiservizi",
+   "consorzio": "aroba6-castellana-grotte-und",
+   "lat": 40.886431,
+   "lon": 17.165495,
+   "zone_url": "https://www.multiservizispa.com/utenze-domestiche/",
+   "zone": [
+    {
+     "id": "urbano",
+     "nome": "Urbano",
+     "file": "comuni/castellana-grotte/zona-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "agro-123",
+     "nome": "Agro E1–E2–E3",
+     "file": "comuni/castellana-grotte/zona-agro-123.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "agro-456",
+     "nome": "Agro E4–E5–E6",
+     "file": "comuni/castellana-grotte/zona-agro-456.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "agro-789",
+     "nome": "Agro E7–E8–E9",
+     "file": "comuni/castellana-grotte/zona-agro-789.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -10544,6 +10772,192 @@
    ]
   },
   {
+   "id": "locorotondo",
+   "nome": "Locorotondo",
+   "provincia": "BA",
+   "gestore": "Monteco",
+   "consorzio": "aroba6-locorotondo-und",
+   "lat": 40.789167,
+   "lon": 17.299348,
+   "zone_url": "https://locorotondo.montecospa.it/",
+   "zone": [
+    {
+     "id": "tari-01",
+     "nome": "Categoria TARI 01",
+     "file": "comuni/locorotondo/zona-tari-01.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-02",
+     "nome": "Categoria TARI 02",
+     "file": "comuni/locorotondo/zona-tari-02.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-03",
+     "nome": "Categoria TARI 03",
+     "file": "comuni/locorotondo/zona-tari-03.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-04",
+     "nome": "Categoria TARI 04",
+     "file": "comuni/locorotondo/zona-tari-04.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-06",
+     "nome": "Categoria TARI 06",
+     "file": "comuni/locorotondo/zona-tari-06.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-07",
+     "nome": "Categoria TARI 07",
+     "file": "comuni/locorotondo/zona-tari-07.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-08",
+     "nome": "Categoria TARI 08",
+     "file": "comuni/locorotondo/zona-tari-08.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-09",
+     "nome": "Categoria TARI 09",
+     "file": "comuni/locorotondo/zona-tari-09.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-10",
+     "nome": "Categoria TARI 10",
+     "file": "comuni/locorotondo/zona-tari-10.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-11",
+     "nome": "Categoria TARI 11",
+     "file": "comuni/locorotondo/zona-tari-11.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-12",
+     "nome": "Categoria TARI 12",
+     "file": "comuni/locorotondo/zona-tari-12.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-13",
+     "nome": "Categoria TARI 13",
+     "file": "comuni/locorotondo/zona-tari-13.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-14",
+     "nome": "Categoria TARI 14",
+     "file": "comuni/locorotondo/zona-tari-14.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-15",
+     "nome": "Categoria TARI 15",
+     "file": "comuni/locorotondo/zona-tari-15.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-16",
+     "nome": "Categoria TARI 16",
+     "file": "comuni/locorotondo/zona-tari-16.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-17",
+     "nome": "Categoria TARI 17",
+     "file": "comuni/locorotondo/zona-tari-17.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-18",
+     "nome": "Categoria TARI 18",
+     "file": "comuni/locorotondo/zona-tari-18.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-19",
+     "nome": "Categoria TARI 19",
+     "file": "comuni/locorotondo/zona-tari-19.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-20",
+     "nome": "Categoria TARI 20",
+     "file": "comuni/locorotondo/zona-tari-20.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-21",
+     "nome": "Categoria TARI 21",
+     "file": "comuni/locorotondo/zona-tari-21.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-22",
+     "nome": "Categoria TARI 22",
+     "file": "comuni/locorotondo/zona-tari-22.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-23",
+     "nome": "Categoria TARI 23",
+     "file": "comuni/locorotondo/zona-tari-23.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-24",
+     "nome": "Categoria TARI 24",
+     "file": "comuni/locorotondo/zona-tari-24.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-25",
+     "nome": "Categoria TARI 25",
+     "file": "comuni/locorotondo/zona-tari-25.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-26",
+     "nome": "Categoria TARI 26",
+     "file": "comuni/locorotondo/zona-tari-26.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-27",
+     "nome": "Categoria TARI 27",
+     "file": "comuni/locorotondo/zona-tari-27.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-28",
+     "nome": "Categoria TARI 28",
+     "file": "comuni/locorotondo/zona-tari-28.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-29",
+     "nome": "Categoria TARI 29",
+     "file": "comuni/locorotondo/zona-tari-29.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "tari-30",
+     "nome": "Categoria TARI 30",
+     "file": "comuni/locorotondo/zona-tari-30.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "lombardore",
    "nome": "Lombardore",
    "provincia": "TO",
@@ -13121,6 +13535,36 @@
      "id": "cartone-commerciale",
      "nome": "Cartone commerciale",
      "file": "comuni/noasca/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "noci",
+   "nome": "Noci",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba6-noci-und",
+   "lat": 40.79468,
+   "lon": 17.123557,
+   "zone_url": "https://www.aroba6.it/noci/",
+   "zone": [
+    {
+     "id": "settore-1",
+     "nome": "Settore 1",
+     "file": "comuni/noci/zona-settore-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "settore-2",
+     "nome": "Settore 2 e zona industriale",
+     "file": "comuni/noci/zona-settore-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "settore-3",
+     "nome": "Settore 3",
+     "file": "comuni/noci/zona-settore-3.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -16017,6 +16461,30 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-puegnago-del-garda.json"
+  },
+  {
+   "id": "putignano",
+   "nome": "Putignano",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba6-putignano-und",
+   "lat": 40.85183,
+   "lon": 17.121294,
+   "zone_url": "https://www.navita.it/putignano/",
+   "zone": [
+    {
+     "id": "non-food",
+     "nome": "Centro urbano · non alimentari",
+     "file": "comuni/putignano/zona-non-food.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food",
+     "nome": "Centro urbano · ristorazione",
+     "file": "comuni/putignano/zona-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "quagliuzzo",
@@ -22955,6 +23423,36 @@
    "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
    "ecocentri": "ecocentri/aet-anzio-und.json",
    "regole": "regole/aet-anzio.json"
+  },
+  "aroba6-alberobello-und": {
+   "nome": "ARO BA/6 · Alberobello",
+   "gestore": "Monteco",
+   "ecocentri": "ecocentri/aroba6-alberobello-und.json",
+   "regole": "regole/aroba6-alberobello.json"
+  },
+  "aroba6-castellana-grotte-und": {
+   "nome": "ARO BA/6 · Castellana Grotte",
+   "gestore": "Multiservizi",
+   "ecocentri": "ecocentri/aroba6-castellana-grotte-und.json",
+   "regole": "regole/aroba6-castellana-grotte.json"
+  },
+  "aroba6-locorotondo-und": {
+   "nome": "ARO BA/6 · Locorotondo",
+   "gestore": "Monteco",
+   "ecocentri": "ecocentri/aroba6-locorotondo-und.json",
+   "regole": "regole/aroba6-locorotondo.json"
+  },
+  "aroba6-noci-und": {
+   "nome": "ARO BA/6 · Noci",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba6-noci-und.json",
+   "regole": "regole/aroba6-noci.json"
+  },
+  "aroba6-putignano-und": {
+   "nome": "ARO BA/6 · Putignano",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba6-putignano-und.json",
+   "regole": "regole/aroba6-putignano.json"
   }
  }
 }

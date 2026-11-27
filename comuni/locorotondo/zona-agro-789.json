@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "comune": "Locorotondo",
+ "provincia": "BA",
+ "gestore": "Monteco",
+ "zona": "Agro 7–8–9",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.montecospa.it/sites/default/files/2025-01/Brochure_Ut.%20Domestiche%20Agro%207%20-%208%20-%209_compressed.pdf | https://locorotondo.montecospa.it/",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Organico domiciliare su scelta dell’utente, con alternativa del compostaggio. Carta e vetro-metalli alternati secondo il numero di occorrenza del giorno nel mese.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 22:00 della vigilia alle 06:00 del giorno di ritiro."
+}

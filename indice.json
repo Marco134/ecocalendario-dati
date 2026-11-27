@@ -24366,6 +24366,180 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "alberobello",
+      "nome": "Alberobello",
+      "provincia": "BA",
+      "gestore": "Monteco",
+      "consorzio": "aroba6-alberobello",
+      "lat": 40.784124,
+      "lon": 17.237703,
+      "zone_url": "https://alberobello.montecospa.it/",
+      "zone": [
+        {
+          "id": "urbano-coreggia",
+          "nome": "Centro urbano e Coreggia",
+          "file": "comuni/alberobello/zona-urbano-coreggia.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-1",
+          "nome": "Agro 1",
+          "file": "comuni/alberobello/zona-agro-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-2",
+          "nome": "Agro 2",
+          "file": "comuni/alberobello/zona-agro-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "castellana-grotte",
+      "nome": "Castellana Grotte",
+      "provincia": "BA",
+      "gestore": "Multiservizi",
+      "consorzio": "aroba6-castellana-grotte",
+      "lat": 40.886431,
+      "lon": 17.165495,
+      "zone_url": "https://www.multiservizispa.com/utenze-domestiche/",
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro",
+          "file": "comuni/castellana-grotte/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/castellana-grotte/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-123",
+          "nome": "Agro E1–E2–E3",
+          "file": "comuni/castellana-grotte/zona-agro-123.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-456",
+          "nome": "Agro E4–E5–E6",
+          "file": "comuni/castellana-grotte/zona-agro-456.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-789",
+          "nome": "Agro E7–E8–E9",
+          "file": "comuni/castellana-grotte/zona-agro-789.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "locorotondo",
+      "nome": "Locorotondo",
+      "provincia": "BA",
+      "gestore": "Monteco",
+      "consorzio": "aroba6-locorotondo",
+      "lat": 40.789167,
+      "lon": 17.299348,
+      "zone_url": "https://locorotondo.montecospa.it/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/locorotondo/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-123",
+          "nome": "Agro 1–2–3",
+          "file": "comuni/locorotondo/zona-agro-123.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-456",
+          "nome": "Agro 4–5–6",
+          "file": "comuni/locorotondo/zona-agro-456.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-789",
+          "nome": "Agro 7–8–9",
+          "file": "comuni/locorotondo/zona-agro-789.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "noci",
+      "nome": "Noci",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba6-noci",
+      "lat": 40.79468,
+      "lon": 17.123557,
+      "zone_url": "https://www.aroba6.it/noci/",
+      "zone": [
+        {
+          "id": "settore-1",
+          "nome": "Settore 1",
+          "file": "comuni/noci/zona-settore-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "settore-2",
+          "nome": "Settore 2",
+          "file": "comuni/noci/zona-settore-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "settore-3",
+          "nome": "Settore 3",
+          "file": "comuni/noci/zona-settore-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-prenotazione",
+          "nome": "Agro A–H · su prenotazione",
+          "file": "comuni/noci/zona-agro-prenotazione.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "putignano",
+      "nome": "Putignano",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba6-putignano",
+      "lat": 40.85183,
+      "lon": 17.121294,
+      "zone_url": "https://www.navita.it/putignano/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/putignano/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-a",
+          "nome": "Agro A",
+          "file": "comuni/putignano/zona-agro-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-b",
+          "nome": "Agro B",
+          "file": "comuni/putignano/zona-agro-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -24832,6 +25006,36 @@
       "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
       "ecocentri": "ecocentri/aet-anzio.json",
       "regole": "regole/aet-anzio.json"
+    },
+    "aroba6-alberobello": {
+      "nome": "ARO BA/6 · Alberobello",
+      "gestore": "Monteco",
+      "ecocentri": "ecocentri/aroba6-alberobello.json",
+      "regole": "regole/aroba6-alberobello.json"
+    },
+    "aroba6-castellana-grotte": {
+      "nome": "ARO BA/6 · Castellana Grotte",
+      "gestore": "Multiservizi",
+      "ecocentri": "ecocentri/aroba6-castellana-grotte.json",
+      "regole": "regole/aroba6-castellana-grotte.json"
+    },
+    "aroba6-locorotondo": {
+      "nome": "ARO BA/6 · Locorotondo",
+      "gestore": "Monteco",
+      "ecocentri": "ecocentri/aroba6-locorotondo.json",
+      "regole": "regole/aroba6-locorotondo.json"
+    },
+    "aroba6-noci": {
+      "nome": "ARO BA/6 · Noci",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba6-noci.json",
+      "regole": "regole/aroba6-noci.json"
+    },
+    "aroba6-putignano": {
+      "nome": "ARO BA/6 · Putignano",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba6-putignano.json",
+      "regole": "regole/aroba6-putignano.json"
     }
   },
   "tipi_en": {

@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "nome": "Locorotondo · Materiali e conferimenti",
+ "fonte": "https://www.montecospa.it/sites/default/files/2025-01/Brochure%20Ut%20Domestiche%20Centro%20Urbano.pdf | https://www.montecospa.it/sites/default/files/2025-01/Brochure_Ut.%20Domestiche%20Agro%201%20-%202%20-%203_compressed.pdf | https://www.montecospa.it/sites/default/files/2025-01/Brochure_Ut.%20Domestiche%20Agro%204%20-%205%20-%206_compressed.pdf | https://www.montecospa.it/sites/default/files/2025-01/Brochure_Ut.%20Domestiche%20Agro%207%20-%208%20-%209_compressed.pdf | https://locorotondo.montecospa.it/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Usare il circuito della propria zona e rispettare il calendario degli imballaggi aziendali."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire gli imballaggi sfusi nel circuito della propria zona."
+  },
+  "plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Seguire le indicazioni del gestore per sacco o contenitore."
+  },
+  "rifiuti ingombranti": {
+   "dove": "varia",
+   "nota": "Prenotare il ritiro oppure verificare frazioni e limiti al centro di raccolta."
+  },
+  "lattine e barattoli metallici": {
+   "dove": "vetro",
+   "nota": "Insieme agli imballaggi in vetro secondo il circuito locale."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel secco residuo."
+  }
+ }
+}

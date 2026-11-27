@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Putignano · Materiali e conferimenti",
+ "fonte": "https://www.navita.it/wp-content/uploads/2025/11/Calendari-di-raccolta-Putignano-2025_1-aggiornato.pdf | https://www.navita.it/putignano/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Usare il circuito della propria zona e rispettare il calendario degli imballaggi aziendali."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire gli imballaggi sfusi nel circuito della propria zona."
+  },
+  "plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Seguire le indicazioni del gestore per sacco o contenitore."
+  },
+  "rifiuti ingombranti": {
+   "dove": "varia",
+   "nota": "Prenotare il ritiro oppure verificare frazioni e limiti al centro di raccolta."
+  },
+  "lattine e barattoli metallici": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Conferire con carta e cartone."
+  },
+  "scarti di cucina nell’agro": {
+   "dove": "varia",
+   "nota": "Usare la compostiera o il servizio di conferimento dedicato secondo Navita."
+  }
+ }
+}

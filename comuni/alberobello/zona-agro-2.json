@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "comune": "Alberobello",
+ "provincia": "BA",
+ "gestore": "Monteco",
+ "zona": "Agro 2",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.montecospa.it/sites/default/files/2024-12/Agro%202%20Alberobello_compressed.pdf | https://alberobello.montecospa.it/",
+ "raccolte": {
+  "2026-11-28": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Applicare le condizioni di compostaggio o raccolta per l’organico. Vetro e metalli insieme.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 22:00 della vigilia alle 06:00 del giorno di ritiro."
+}

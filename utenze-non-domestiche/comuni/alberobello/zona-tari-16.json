@@ -1,0 +1,37 @@
+{
+ "schema": 1,
+ "comune": "Alberobello",
+ "provincia": "BA",
+ "gestore": "Monteco",
+ "zona": "Categoria TARI 16",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.montecospa.it/sites/default/files/2024-11/Calendario-UND_compressed.pdf | https://alberobello.montecospa.it/",
+ "raccolte": {
+  "2026-12-03": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Individuare il codice TARI nella tabella Monteco. Il cartone commerciale va esposto 12:00–14:00.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 22:00 della vigilia alle 05:00 del giorno di ritiro."
+}

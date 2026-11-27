@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Noci",
+ "provincia": "BA",
+ "gestore": "Navita",
+ "zona": "Agro A–H · su prenotazione",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba6.it/wp-content/uploads/2016/02/CALENDARIO-AGRO.pdf | https://www.aroba6.it/noci/",
+ "raccolte": {},
+ "note": [
+  "Ritiro delle frazioni prenotate nello stesso giorno. Fasce per zona: lun A, mar B, mer C/D, gio E/F, ven G, sab H. Prenotare tramite Navita.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "info": "Ritiro delle frazioni prenotate nello stesso giorno. Fasce per zona: lun A, mar B, mer C/D, gio E/F, ven G, sab H. Prenotare tramite Navita.",
+ "info_en": "Check the local provider for on-demand booking and service conditions."
+}

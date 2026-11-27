@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "comune": "Putignano",
+ "provincia": "BA",
+ "gestore": "Navita",
+ "zona": "Centro urbano · non alimentari",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.navita.it/wp-content/uploads/2025/11/Calendari-di-raccolta-Putignano-2025_1-aggiornato.pdf | https://www.navita.it/putignano/ | https://egov.hseweb.it/putignano/zf/index.php/atti-amministrativi/ordinanze/dettaglio/table-ordinanze-public-page/2/atto/GT0RBM1U6VT0-F",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Il ritiro aggiuntivo di secco del giovedì è riservato anche alle grandi aziende. Per il cartone verificare le ordinanze vigenti.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 20:00 della vigilia alle 02:00 del giorno di ritiro."
+}

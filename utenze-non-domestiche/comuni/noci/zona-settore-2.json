@@ -1,0 +1,150 @@
+{
+ "schema": 1,
+ "comune": "Noci",
+ "provincia": "BA",
+ "gestore": "Navita",
+ "zona": "Settore 2 e zona industriale",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba6.it/wp-content/uploads/2016/02/CALENDARIO-und.pdf | https://www.aroba6.it/noci/",
+ "raccolte": {
+  "2026-11-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-11-30": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-06": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-07": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-13": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-20": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-21": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-27": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "note": [
+  "Cartone commerciale lun–sab 12:30–14:00. Vetro e metalli insieme.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 20:00 della vigilia alle 05:00 del giorno di ritiro."
+}

@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "nome": "Castellana Grotte · Materiali e conferimenti",
+ "fonte": "https://www.multiservizispa.com/wp-content/uploads/2023/09/PIEGHEVOLE-UD_CENTRO.pdf | https://www.multiservizispa.com/wp-content/uploads/2023/09/PIEGHEVOLE-UD_CENTRO-STORICO.pdf | https://www.multiservizispa.com/wp-content/uploads/2025/08/rev2025_PIEGHEVOLE-UD-AGRO-E1-E2-E3.pdf | https://www.multiservizispa.com/wp-content/uploads/2025/08/rev2025_PIEGHEVOLE-UD-AGRO-E4-E5-E6.pdf | https://www.multiservizispa.com/wp-content/uploads/2025/08/rev2025_PIEGHEVOLE-UD-AGRO-E7-E8-E9.pdf | https://www.multiservizispa.com/utenze-domestiche/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Usare il circuito della propria zona e rispettare il calendario degli imballaggi aziendali."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire gli imballaggi sfusi nel circuito della propria zona."
+  },
+  "plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Seguire le indicazioni del gestore per sacco o contenitore."
+  },
+  "rifiuti ingombranti": {
+   "dove": "varia",
+   "nota": "Prenotare il ritiro oppure verificare frazioni e limiti al centro di raccolta."
+  },
+  "lattine e barattoli metallici": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Conferire con carta e cartone."
+  },
+  "vetro chiaro": {
+   "dove": "vetro",
+   "nota": "Nel centro verificare il lunedì assegnato al vetro chiaro e usare il mastello previsto."
+  },
+  "vetro scuro": {
+   "dove": "vetro",
+   "nota": "Nel centro verificare il lunedì assegnato al vetro scuro e usare il mastello previsto."
+  },
+  "scarti vegetali nell’agro": {
+   "dove": "varia",
+   "nota": "La guida domestica dell’agro prevede il compostaggio per l’organico."
+  }
+ }
+}

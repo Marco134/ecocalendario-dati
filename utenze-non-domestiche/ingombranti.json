@@ -6131,6 +6131,106 @@
    "regole_en": [
     "Call to book and verify eligibility and limits."
    ]
+  },
+  {
+   "id": "aroba6-alberobello-und",
+   "nome": "Monteco · Alberobello · UND",
+   "gestori": [],
+   "comuni": [
+    "alberobello"
+   ],
+   "telefono": "800 801 020",
+   "fonte": "https://alberobello.montecospa.it/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Ritiro ingombranti e RAEE su appuntamento tramite Monteco.",
+    "Chiedere per l’attività requisiti e limiti."
+   ],
+   "regole_en": [
+    "Contact the local service provider for collection conditions."
+   ]
+  },
+  {
+   "id": "aroba6-castellana-grotte-und",
+   "nome": "Multiservizi · Castellana Grotte · UND",
+   "gestori": [],
+   "comuni": [
+    "castellana-grotte"
+   ],
+   "telefono": "080 4963454",
+   "fonte": "https://www.multiservizispa.com/utenze-domestiche/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Ritiro domiciliare su prenotazione per le tipologie ammesse. Verificare il ritiro di RAEE e gli oggetti di piccole dimensioni.",
+    "Chiedere per l’attività requisiti e limiti."
+   ],
+   "regole_en": [
+    "Contact the local service provider for collection conditions."
+   ]
+  },
+  {
+   "id": "aroba6-locorotondo-und",
+   "nome": "Monteco · Locorotondo · UND",
+   "gestori": [],
+   "comuni": [
+    "locorotondo"
+   ],
+   "telefono": "800 801 020",
+   "fonte": "https://locorotondo.montecospa.it/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Ritiro ingombranti e RAEE su appuntamento tramite numero verde, sito o app Monteco.",
+    "Chiedere per l’attività requisiti e limiti."
+   ],
+   "regole_en": [
+    "Contact the local service provider for collection conditions."
+   ]
+  },
+  {
+   "id": "aroba6-noci-und",
+   "nome": "Navita · Noci · UND",
+   "gestori": [],
+   "comuni": [
+    "noci"
+   ],
+   "telefono": "800 098 563",
+   "fonte": "https://www.aroba6.it/noci/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiamare Navita per prenotare il ritiro e confermare la tipologia accettata.",
+    "Chiedere per l’attività requisiti e limiti."
+   ],
+   "regole_en": [
+    "Contact the local service provider for collection conditions."
+   ]
+  },
+  {
+   "id": "aroba6-putignano-und",
+   "nome": "Navita · Putignano · UND",
+   "gestori": [],
+   "comuni": [
+    "putignano"
+   ],
+   "telefono": "800 098 563",
+   "fonte": "https://www.navita.it/putignano/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prenotare il ritiro ingombranti con Navita. Chiedere tipologie ammissibili e condizioni per le attività.",
+    "Chiedere per l’attività requisiti e limiti."
+   ],
+   "regole_en": [
+    "Contact the local service provider for collection conditions."
+   ]
   }
  ]
 }

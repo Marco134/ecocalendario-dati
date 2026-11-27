@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "comune": "Castellana Grotte",
+ "provincia": "BA",
+ "gestore": "Multiservizi",
+ "zona": "Centro",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.multiservizispa.com/wp-content/uploads/2023/09/PIEGHEVOLE-UD_CENTRO.pdf | https://www.multiservizispa.com/utenze-domestiche/ | https://www.multiservizispa.com/2025/03/27/raccolta-vetro-chiaro-e-scuro-da-aprile-si-alterna/",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Il lunedì il vetro chiaro e il vetro scuro si alternano. Verifica il colore sul calendario Multiservizi.",
+  "Turni ordinari. Verificare eventuali avvisi festivi e validità 2027."
+ ],
+ "esposizione": "Dalle 21:00 alle 24:00 del giorno precedente."
+}

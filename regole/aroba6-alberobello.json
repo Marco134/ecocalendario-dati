@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "nome": "Alberobello · Materiali e conferimenti",
+ "fonte": "https://www.montecospa.it/sites/default/files/2024-06/UD%20CU%20e%20Coreggia.pdf | https://www.montecospa.it/sites/default/files/2024-12/Agro%201%20Alberobello_compressed_0.pdf | https://www.montecospa.it/sites/default/files/2024-12/Agro%202%20Alberobello_compressed.pdf | https://alberobello.montecospa.it/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Usare il circuito della propria zona e rispettare il calendario degli imballaggi aziendali."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire gli imballaggi sfusi nel circuito della propria zona."
+  },
+  "plastica da imballaggio": {
+   "dove": "plastica",
+   "nota": "Seguire le indicazioni del gestore per sacco o contenitore."
+  },
+  "rifiuti ingombranti": {
+   "dove": "varia",
+   "nota": "Prenotare il ritiro oppure verificare frazioni e limiti al centro di raccolta."
+  },
+  "lattine e barattoli metallici": {
+   "dove": "vetro",
+   "nota": "Insieme agli imballaggi in vetro secondo il circuito locale."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel secco residuo."
+  }
+ }
+}
