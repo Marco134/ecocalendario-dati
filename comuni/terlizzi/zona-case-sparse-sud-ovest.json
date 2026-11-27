@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "comune": "Terlizzi",
+ "provincia": "BA",
+ "gestore": "SANB S.p.A.",
+ "zona": "Case sparse Sud Ovest",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://sanbspa.it/wp-content/uploads/2025/12/2022_case_sparse_sud_ovest_terlizzi-WEB.pdf | https://sanbspa.it/centri-raccolta/terlizzi/",
+ "raccolte": {
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "carta",
+   "indifferenziato"
+  ]
+ },
+ "esposizione": "Entro le 08:00 il giorno indicato, secondo le istruzioni SANB.",
+ "esposizione_entro": "08:00",
+ "note": [
+  "La guida indica l’organico in compostiera. Verificare disponibilità e condizioni con SANB.",
+  "Programma ordinario ricavato dalla guida pubblicata da SANB. Verifica gli avvisi per le festività e il rinnovo 2027."
+ ]
+}

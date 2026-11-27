@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "nome": "SANB S.p.A.",
+ "fonte": "https://sanbspa.it/riciclario/ | https://sanbspa.it/centri-raccolta/bitonto/",
+ "voci": {
+  "cartoni per bevande (Tetra Pak)": {
+   "dove": "carta",
+   "nota": "Con carta e cartoncino secondo la guida di raccolta."
+  },
+  "scatole e imballaggi in cartone pulito": {
+   "dove": "carta",
+   "nota": "Piegare scatole e rimuovere materiali estranei. Le attività seguono, se attivo, il giro dedicato."
+  },
+  "lattine, vaschette e tappi metallici": {
+   "dove": "plastica",
+   "nota": "Con gli imballaggi in plastica e lattine."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Usare il contenitore della zona e rispettare le istruzioni per vetri diversi dagli imballaggi."
+  },
+  "avanzi alimentari e piccoli ossi": {
+   "dove": "organico",
+   "nota": "Usare sacchi compostabili nel circuito assegnato. Nelle case sparse di Terlizzi la guida indica la compostiera."
+  },
+  "scontrini in carta termica": {
+   "dove": "indifferenziato",
+   "nota": "Con il secco residuo, come da Riciclario SANB."
+  }
+ }
+}

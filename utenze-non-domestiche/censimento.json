@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1163,
+ "totale": 1167,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12391,6 +12391,54 @@
    "fonte": "https://comune.seriate.bg.it/wp-content/uploads/2025/12/Calendario-2026-Zona-A.pdf",
    "verificato": "2026-11-25",
    "nota": "Indice dell’archivio: 2 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+  },
+  {
+   "id": "bitonto",
+   "nome": "Bitonto",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://sanbspa.it/centri-raccolta/bitonto/",
+   "verificato": "2026-11-27",
+   "nota": "Almeno un profilo aziendale datato da guida settimanale ufficiale. Confermare categoria, civico, servizi aggiuntivi, eventuali recuperi e nuova validità.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
+  },
+  {
+   "id": "corato",
+   "nome": "Corato",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://sanbspa.it/centri-raccolta/corato/",
+   "verificato": "2026-11-27",
+   "nota": "Almeno un profilo aziendale datato da guida settimanale ufficiale. Confermare categoria, civico, servizi aggiuntivi, eventuali recuperi e nuova validità.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "ruvo-di-puglia",
+   "nome": "Ruvo di Puglia",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://sanbspa.it/centri-raccolta/ruvo-di-puglia/",
+   "verificato": "2026-11-27",
+   "nota": "Almeno un profilo aziendale datato da guida settimanale ufficiale. Confermare categoria, civico, servizi aggiuntivi, eventuali recuperi e nuova validità.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "terlizzi",
+   "nome": "Terlizzi",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://sanbspa.it/centri-raccolta/terlizzi/",
+   "verificato": "2026-11-27",
+   "nota": "Almeno un profilo aziendale datato da guida settimanale ufficiale. Confermare categoria, civico, servizi aggiuntivi, eventuali recuperi e nuova validità.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   }
  ]
 }

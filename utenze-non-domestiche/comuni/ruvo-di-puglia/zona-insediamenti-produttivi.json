@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "comune": "Ruvo di Puglia",
+ "provincia": "BA",
+ "gestore": "SANB S.p.A.",
+ "zona": "Insediamenti produttivi · su richiesta",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://sanbspa.it/wp-content/uploads/2025/12/Volantino-Regole-e-Calendario.pdf | https://sanbspa.it/centri-raccolta/ruvo-di-puglia/",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "esposizione": "Esposizione entro le 08:00 secondo il programma assegnato.",
+ "esposizione_entro": "08:00",
+ "note": [
+  "Programma per le attività abilitate. Cartone il giovedì. L’organico aggiuntivo di venerdì e sabato è solo per la ristorazione. Legno il giovedì su richiesta a info@sanbspa.it. Verificare il calendario festivo.",
+  "Programma ordinario ricavato dalla guida pubblicata da SANB. Verifica gli avvisi per le festività e il rinnovo 2027."
+ ]
+}

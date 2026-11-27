@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "aggiornato": "2026-11-21",
+  "aggiornato": "2026-11-27",
   "gestori": [
     {
       "id": "seta",
@@ -4583,6 +4583,82 @@
       ],
       "regole_en": [
         "Take bulky items to the recycling centre on the road to Poscante. Separate materials where possible and contact the operator if needed."
+      ]
+    },
+    {
+      "id": "sanb-bitonto",
+      "nome": "SANB · Bitonto · UD",
+      "gestori": [],
+      "comuni": [
+        "bitonto"
+      ],
+      "telefono": "800 71 40 28",
+      "fonte": "https://sanbspa.it/centri-raccolta/bitonto/ | https://sanbspa.it/bitonto-ritiro-ingombranti/",
+      "prenotazione": true,
+      "prenota_url": "https://sanbspa.it/bitonto-ritiro-ingombranti/",
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotare con SANB o usare il centro abilitato. Il gestore indica ritiro gratuito su prenotazione. Verificare limiti, giorno e condizioni."
+      ],
+      "regole_en": [
+        "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+      ]
+    },
+    {
+      "id": "sanb-corato",
+      "nome": "SANB · Corato · UD",
+      "gestori": [],
+      "comuni": [
+        "corato"
+      ],
+      "telefono": "800 71 40 28",
+      "fonte": "https://sanbspa.it/centri-raccolta/corato/ | https://sanbspa.it/corato-ritiro-ingombranti/",
+      "prenotazione": true,
+      "prenota_url": "https://sanbspa.it/corato-ritiro-ingombranti/",
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotare con SANB o usare il centro abilitato. Il gestore indica ritiro gratuito su prenotazione. Verificare limiti, giorno e condizioni."
+      ],
+      "regole_en": [
+        "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+      ]
+    },
+    {
+      "id": "sanb-ruvo-di-puglia",
+      "nome": "SANB · Ruvo di Puglia · UD",
+      "gestori": [],
+      "comuni": [
+        "ruvo-di-puglia"
+      ],
+      "telefono": "800 71 40 28",
+      "fonte": "https://sanbspa.it/centri-raccolta/ruvo-di-puglia/ | https://sanbspa.it/ruvo-di-puglia-ritiro-ingombranti/",
+      "prenotazione": true,
+      "prenota_url": "https://sanbspa.it/ruvo-di-puglia-ritiro-ingombranti/",
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotare con SANB o usare il centro abilitato. Il gestore indica ritiro gratuito su prenotazione. Verificare limiti, giorno e condizioni."
+      ],
+      "regole_en": [
+        "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+      ]
+    },
+    {
+      "id": "sanb-terlizzi",
+      "nome": "SANB · Terlizzi · UD",
+      "gestori": [],
+      "comuni": [
+        "terlizzi"
+      ],
+      "telefono": "800 71 40 28",
+      "fonte": "https://sanbspa.it/centri-raccolta/terlizzi/ | https://sanbspa.it/terlizzi-ritiro-ingombranti/",
+      "prenotazione": true,
+      "prenota_url": "https://sanbspa.it/terlizzi-ritiro-ingombranti/",
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotare con SANB o usare il centro abilitato. Il gestore indica ritiro gratuito su prenotazione. Verificare limiti, giorno e condizioni."
+      ],
+      "regole_en": [
+        "Contact SANB to check eligibility and booking conditions for bulky waste collection."
       ]
     }
   ]

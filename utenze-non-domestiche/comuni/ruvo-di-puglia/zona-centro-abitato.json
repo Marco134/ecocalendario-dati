@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "comune": "Ruvo di Puglia",
+ "provincia": "BA",
+ "gestore": "SANB S.p.A.",
+ "zona": "Attività del centro abitato",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://sanbspa.it/wp-content/uploads/2025/12/2022_commerciale_ruvo-WEB.pdf | https://sanbspa.it/centri-raccolta/ruvo-di-puglia/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "esposizione": "11:00–13:00 secondo la scheda attuale. Per il cartone consultare la guida dedicata.",
+ "note": [
+  "La pagina SANB indica fuori dal centro storico. Verifica giorni e luogo per l’utenza.",
+  "Programma ordinario ricavato dalla guida pubblicata da SANB. Verifica gli avvisi per le festività e il rinnovo 2027."
+ ]
+}

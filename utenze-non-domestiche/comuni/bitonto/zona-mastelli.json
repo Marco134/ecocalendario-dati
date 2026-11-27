@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "comune": "Bitonto",
+ "provincia": "BA",
+ "gestore": "SANB S.p.A.",
+ "zona": "Utenze con mastelli",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://sanbspa.it/wp-content/uploads/2025/12/mastelli_Non-domestiche-2025.pdf | https://sanbspa.it/centri-raccolta/bitonto/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "esposizione": "Centro storico 13:00–15:00, festivi infrasettimanali 06:00–08:00. Centro abitato 21:00–23:00. Mariotto, Palombaio e zona produttiva 06:00–08:00.",
+ "note": [
+  "Il PDF indica organico e vetro come dotazioni opzionali. Chiedere l’attivazione e verificare i turni di queste frazioni. La carta va esposta dal secondo venerdì del mese in poi.",
+  "Programma ordinario ricavato dalla guida pubblicata da SANB. Verifica gli avvisi per le festività e il rinnovo 2027."
+ ]
+}

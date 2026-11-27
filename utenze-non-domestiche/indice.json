@@ -2062,6 +2062,30 @@
    "zone_url": "https://www.geofor.it/bientina/calendario-raccolta-porta-a-porta/"
   },
   {
+   "id": "bitonto",
+   "nome": "Bitonto",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "consorzio": "sanb-bitonto-und",
+   "lat": 41.108497,
+   "lon": 16.691548,
+   "zone_url": "https://sanbspa.it/centri-raccolta/bitonto/",
+   "zone": [
+    {
+     "id": "carrellati",
+     "nome": "Utenze con bidoni carrellati",
+     "file": "comuni/bitonto/zona-carrellati.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "mastelli",
+     "nome": "Utenze con mastelli",
+     "file": "comuni/bitonto/zona-mastelli.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "bobbio-pellice",
    "nome": "Bobbio Pellice",
    "provincia": "TO",
@@ -6709,6 +6733,36 @@
      "id": "misto",
      "nome": "Postazioni e servizi · informazioni UND",
      "file": "comuni/condove/zona-misto.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "corato",
+   "nome": "Corato",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "consorzio": "sanb-corato-und",
+   "lat": 41.152761,
+   "lon": 16.411464,
+   "zone_url": "https://sanbspa.it/centri-raccolta/corato/",
+   "zone": [
+    {
+     "id": "centro-abitato",
+     "nome": "Attività del centro abitato",
+     "file": "comuni/corato/zona-centro-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "insediamenti-produttivi",
+     "nome": "Insediamenti produttivi · su richiesta",
+     "file": "comuni/corato/zona-insediamenti-produttivi.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-centro-storico",
+     "nome": "Centro storico · servizio cartone",
+     "file": "comuni/corato/zona-cartone-centro-storico.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -16526,6 +16580,36 @@
    ]
   },
   {
+   "id": "ruvo-di-puglia",
+   "nome": "Ruvo di Puglia",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "consorzio": "sanb-ruvo-di-puglia-und",
+   "lat": 41.114087,
+   "lon": 16.486397,
+   "zone_url": "https://sanbspa.it/centri-raccolta/ruvo-di-puglia/",
+   "zone": [
+    {
+     "id": "centro-abitato",
+     "nome": "Attività del centro abitato",
+     "file": "comuni/ruvo-di-puglia/zona-centro-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "insediamenti-produttivi",
+     "nome": "Insediamenti produttivi · su richiesta",
+     "file": "comuni/ruvo-di-puglia/zona-insediamenti-produttivi.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-centro-storico",
+     "nome": "Centro storico · servizio cartone",
+     "file": "comuni/ruvo-di-puglia/zona-cartone-centro-storico.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "sabbioneta",
    "nome": "Sabbioneta",
    "provincia": "MN",
@@ -18893,6 +18977,30 @@
     }
    ],
    "regole": "regole/secam-und-cartone.json"
+  },
+  {
+   "id": "terlizzi",
+   "nome": "Terlizzi",
+   "provincia": "BA",
+   "gestore": "SANB S.p.A.",
+   "consorzio": "sanb-terlizzi-und",
+   "lat": 41.130234,
+   "lon": 16.542471,
+   "zone_url": "https://sanbspa.it/centri-raccolta/terlizzi/",
+   "zone": [
+    {
+     "id": "centro-abitato",
+     "nome": "Attività del centro abitato",
+     "file": "comuni/terlizzi/zona-centro-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-centro-storico",
+     "nome": "Centro storico · servizio cartone",
+     "file": "comuni/terlizzi/zona-cartone-centro-storico.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "terno-disola",
@@ -22116,6 +22224,30 @@
    "gestore": "Massimi Eco Soluzioni",
    "ecocentri": "ecocentri/massimi-bagnoregio-und.json",
    "regole": "regole/massimi-bagnoregio-und.json"
+  },
+  "sanb-bitonto-und": {
+   "nome": "SANB S.p.A. · Bitonto · UND",
+   "gestore": "SANB S.p.A.",
+   "ecocentri": "ecocentri/sanb-bitonto-und.json",
+   "regole": "regole/sanb.json"
+  },
+  "sanb-corato-und": {
+   "nome": "SANB S.p.A. · Corato · UND",
+   "gestore": "SANB S.p.A.",
+   "ecocentri": "ecocentri/sanb-corato-und.json",
+   "regole": "regole/sanb.json"
+  },
+  "sanb-ruvo-di-puglia-und": {
+   "nome": "SANB S.p.A. · Ruvo di Puglia · UND",
+   "gestore": "SANB S.p.A.",
+   "ecocentri": "ecocentri/sanb-ruvo-di-puglia-und.json",
+   "regole": "regole/sanb.json"
+  },
+  "sanb-terlizzi-und": {
+   "nome": "SANB S.p.A. · Terlizzi · UND",
+   "gestore": "SANB S.p.A.",
+   "ecocentri": "ecocentri/sanb-terlizzi-und.json",
+   "regole": "regole/sanb.json"
   }
  }
 }

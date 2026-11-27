@@ -5563,6 +5563,82 @@
    "regole_en": [
     "Ask the operator about business bulky waste and authorised disposal routes."
    ]
+  },
+  {
+   "id": "sanb-bitonto-und",
+   "nome": "SANB · Bitonto · UND",
+   "gestori": [],
+   "comuni": [
+    "bitonto"
+   ],
+   "telefono": "800 71 40 28",
+   "fonte": "https://sanbspa.it/centri-raccolta/bitonto/ | https://sanbspa.it/bitonto-ritiro-ingombranti/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Contattare SANB per sapere se può ritirare gli ingombranti dell’attività. Verificare materiali e condizioni di conferimento all’impianto autorizzato."
+   ],
+   "regole_en": [
+    "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+   ]
+  },
+  {
+   "id": "sanb-corato-und",
+   "nome": "SANB · Corato · UND",
+   "gestori": [],
+   "comuni": [
+    "corato"
+   ],
+   "telefono": "800 71 40 28",
+   "fonte": "https://sanbspa.it/centri-raccolta/corato/ | https://sanbspa.it/corato-ritiro-ingombranti/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Contattare SANB per sapere se può ritirare gli ingombranti dell’attività. Verificare materiali e condizioni di conferimento all’impianto autorizzato."
+   ],
+   "regole_en": [
+    "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+   ]
+  },
+  {
+   "id": "sanb-ruvo-di-puglia-und",
+   "nome": "SANB · Ruvo di Puglia · UND",
+   "gestori": [],
+   "comuni": [
+    "ruvo-di-puglia"
+   ],
+   "telefono": "800 71 40 28",
+   "fonte": "https://sanbspa.it/centri-raccolta/ruvo-di-puglia/ | https://sanbspa.it/ruvo-di-puglia-ritiro-ingombranti/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Contattare SANB per sapere se può ritirare gli ingombranti dell’attività. Verificare materiali e condizioni di conferimento all’impianto autorizzato."
+   ],
+   "regole_en": [
+    "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+   ]
+  },
+  {
+   "id": "sanb-terlizzi-und",
+   "nome": "SANB · Terlizzi · UND",
+   "gestori": [],
+   "comuni": [
+    "terlizzi"
+   ],
+   "telefono": "800 71 40 28",
+   "fonte": "https://sanbspa.it/centri-raccolta/terlizzi/ | https://sanbspa.it/terlizzi-ritiro-ingombranti/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Contattare SANB per sapere se può ritirare gli ingombranti dell’attività. Verificare materiali e condizioni di conferimento all’impianto autorizzato."
+   ],
+   "regole_en": [
+    "Contact SANB to check eligibility and booking conditions for bulky waste collection."
+   ]
   }
  ]
 }
