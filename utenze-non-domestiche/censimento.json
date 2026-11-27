@@ -53,7 +53,12 @@
    "nome": "Agordo",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "agra",
@@ -174,7 +179,12 @@
    "nome": "Alleghe",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "allerona",
@@ -1056,7 +1066,12 @@
    "nome": "Borca di Cadore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "borgaro-torinese",
@@ -1693,7 +1708,12 @@
    "nome": "Canale d'Agordo",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "candia-canavese",
@@ -2552,7 +2572,12 @@
    "nome": "Cencenighe Agordino",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "centallo",
@@ -2882,7 +2907,12 @@
    "nome": "Cibiana di Cadore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "ciconio",
@@ -3031,7 +3061,12 @@
    "nome": "Colle Santa Lucia",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "collegno",
@@ -3717,7 +3752,12 @@
    "nome": "Falcade",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "fara-novarese",
@@ -4173,7 +4213,12 @@
    "nome": "Gosaldo",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "govone",
@@ -4527,7 +4572,12 @@
    "nome": "La Valle Agordina",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "la-valletta-brianza",
@@ -4696,7 +4746,12 @@
    "nome": "Livinallongo del Col di Lana",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "locana",
@@ -7314,7 +7369,12 @@
    "nome": "Rivamonte Agordino",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "rivara",
@@ -7388,7 +7448,12 @@
    "nome": "Rocca Pietore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "roccasparvera",
@@ -7950,14 +8015,24 @@
    "nome": "San Tomaso Agordino",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "san-vito-di-cadore",
    "nome": "San Vito di Cadore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "san-zenone-al-lambro",
@@ -8172,7 +8247,12 @@
    "nome": "Selva di Cadore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "serralunga-d-alba",
@@ -8540,7 +8620,12 @@
    "nome": "Taibon Agordino",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "talamona",
@@ -9016,7 +9101,12 @@
    "nome": "Vallada Agordina",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   },
   {
    "id": "valle-cannobina",
@@ -9033,7 +9123,12 @@
    "nome": "Valle di Cadore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "vallerano",
@@ -9674,7 +9769,12 @@
    "nome": "Vodo Cadore",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "vogogna",
@@ -9713,7 +9813,12 @@
    "nome": "Voltago Agordino",
    "provincia": "BL",
    "gestore": "Valpe Ambiente",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+   "verificato": "2026-11-27",
+   "nota": "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "volvera",

@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "comune": "Voltago Agordino",
+ "provincia": "BL",
+ "gestore": "Valpe Ambiente",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/Voltago.pdf | https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/SINTETICI/Voltago%202026%20sintetico.pdf | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "esposizione": "Usare i contenitori assegnati. Per eventuali orari di esposizione verificare il contratto o chiedere al gestore.",
+ "note": [
+  "Vetro, plastica e lattine formano un unico giro VPL e vanno nello stesso contenitore blu.",
+  "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+  "Per il verde o gli altri servizi fuori dal circuito standard chiedere le condizioni applicabili. Contatti Valpe 800 94 76 73 e info@valpeambiente.it."
+ ]
+}

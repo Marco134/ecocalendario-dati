@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "comune": "Selva di Cadore",
+ "provincia": "BL",
+ "gestore": "Valpe Ambiente",
+ "zona": "Fuori centro urbano · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/Selva%20FCU.pdf | https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/SINTETICI/Selva%20FCU%202026%20sintetico.pdf | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-25": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "esposizione": "Usare i contenitori assegnati. Per eventuali orari di esposizione verificare il contratto o chiedere al gestore.",
+ "note": [
+  "Vetro, plastica e lattine formano un unico giro VPL e vanno nello stesso contenitore blu.",
+  "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+  "Per il verde o gli altri servizi fuori dal circuito standard chiedere le condizioni applicabili. Contatti Valpe 800 94 76 73 e info@valpeambiente.it."
+ ]
+}

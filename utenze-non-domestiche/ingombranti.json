@@ -3836,6 +3836,63 @@
    "regole_en": [
     "Check which bulky waste items from your business can be collected and how to book."
    ]
+  },
+  {
+   "id": "valpe-und-uma",
+   "nome": "Agordina · Valpe UND",
+   "gestori": [],
+   "comuni": [
+    "agordo",
+    "alleghe",
+    "canale-d-agordo",
+    "cencenighe-agordino",
+    "colle-santa-lucia",
+    "falcade",
+    "gosaldo",
+    "la-valle-agordina",
+    "livinallongo-del-col-di-lana",
+    "rivamonte-agordino",
+    "rocca-pietore",
+    "san-tomaso-agordino",
+    "selva-di-cadore",
+    "taibon-agordino",
+    "vallada-agordina",
+    "voltago-agordino"
+   ],
+   "telefono": "800 94 76 73",
+   "fonte": "https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMA_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/raccolta-ingombranti-a-domicilio",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per il ritiro a domicilio di ingombranti o lo sgombero locali, le attività possono chiedere un sopralluogo e un preventivo a Valpe. Le condizioni e i limiti indicati per le famiglie seguono un servizio distinto."
+   ],
+   "regole_en": [
+    "Ask the operator for a site inspection and a quote for bulky waste from a business."
+   ]
+  },
+  {
+   "id": "valpe-und-umvb",
+   "nome": "Valle del Boite · Valpe UND",
+   "gestori": [],
+   "comuni": [
+    "borca-di-cadore",
+    "cibiana-di-cadore",
+    "san-vito-di-cadore",
+    "valle-di-cadore",
+    "vodo-cadore"
+   ],
+   "telefono": "800 94 76 73",
+   "fonte": "https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf | https://valpeambiente.it/p/gestione-rifiuti/raccolta-ingombranti-a-domicilio",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Per il ritiro a domicilio di ingombranti o lo sgombero locali, le attività possono chiedere un sopralluogo e un preventivo a Valpe. Le condizioni e i limiti indicati per le famiglie seguono un servizio distinto."
+   ],
+   "regole_en": [
+    "Ask the operator for a site inspection and a quote for bulky waste from a business."
+   ]
   }
  ]
 }

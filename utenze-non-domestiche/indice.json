@@ -103,6 +103,30 @@
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-aglie/"
   },
   {
+   "id": "agordo",
+   "nome": "Agordo",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.2815,
+   "lon": 12.0333,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/agordo/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/agordo/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "agra",
    "nome": "Agra",
    "provincia": "VA",
@@ -316,6 +340,30 @@
    ],
    "ecocentri": "ecocentri/secam-und-albosaggia.json",
    "regole": "regole/secam-und-ventina.json"
+  },
+  {
+   "id": "alleghe",
+   "nome": "Alleghe",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4063,
+   "lon": 12.0205,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/alleghe/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/alleghe/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "allerona",
@@ -1952,6 +2000,25 @@
    "zone_url": "https://serviziambientali.idealservice.it/it/comuni/bolsena/calendario?tipologiaUtenza=non-domestica"
   },
   {
+   "id": "borca-di-cadore",
+   "nome": "Borca di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4381,
+   "lon": 12.2188,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/borca-di-cadore/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite",
+   "regole": "regole/valpe-boite-und.json"
+  },
+  {
    "id": "borgaro-torinese",
    "nome": "Borgaro Torinese",
    "provincia": "TO",
@@ -3150,6 +3217,30 @@
     }
    ],
    "zone_url": "https://coabser.it/pdf/calendari_und/canale.pdf"
+  },
+  {
+   "id": "canale-d-agordo",
+   "nome": "Canale d'Agordo",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.3605,
+   "lon": 11.9149,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/canale-d-agordo/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/canale-d-agordo/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "candia-canavese",
@@ -4879,6 +4970,30 @@
    ]
   },
   {
+   "id": "cencenighe-agordino",
+   "nome": "Cencenighe Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.3513,
+   "lon": 11.9663,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/cencenighe-agordino/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/cencenighe-agordino/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "ceppo-morelli",
    "nome": "Ceppo Morelli",
    "provincia": "VB",
@@ -5496,6 +5611,25 @@
    ]
   },
   {
+   "id": "cibiana-di-cadore",
+   "nome": "Cibiana di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.3917,
+   "lon": 12.2908,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/cibiana-di-cadore/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite",
+   "regole": "regole/valpe-boite-und.json"
+  },
+  {
    "id": "ciconio",
    "nome": "Ciconio",
    "provincia": "TO",
@@ -5709,6 +5843,30 @@
    ],
    "ecocentri": "ecocentri/gelsia-und-cogliate.json",
    "regole": "regole/gelsia-und-cogliate.json"
+  },
+  {
+   "id": "colle-santa-lucia",
+   "nome": "Colle Santa Lucia",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4473,
+   "lon": 12.0143,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/colle-santa-lucia/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/colle-santa-lucia/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "colleretto-castelnuovo",
@@ -6903,6 +7061,30 @@
    ]
   },
   {
+   "id": "falcade",
+   "nome": "Falcade",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.3583,
+   "lon": 11.8728,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/falcade/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/falcade/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "fano",
    "nome": "Fano",
    "provincia": "PU",
@@ -8040,6 +8222,30 @@
    ]
   },
   {
+   "id": "gosaldo",
+   "nome": "Gosaldo",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.2205,
+   "lon": 11.9562,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/gosaldo/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/gosaldo/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "govone",
    "nome": "Govone",
    "provincia": "CN",
@@ -8747,6 +8953,30 @@
    ]
   },
   {
+   "id": "la-valle-agordina",
+   "nome": "La Valle Agordina",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.2822,
+   "lon": 12.0681,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/la-valle-agordina/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/la-valle-agordina/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "lajatico",
    "nome": "Lajatico",
    "provincia": "PI",
@@ -9089,6 +9319,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "livinallongo-del-col-di-lana",
+   "nome": "Livinallongo del Col di Lana",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4815,
+   "lon": 11.9544,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/livinallongo-del-col-di-lana/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/livinallongo-del-col-di-lana/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "locana",
@@ -13786,6 +14040,30 @@
    ]
   },
   {
+   "id": "rivamonte-agordino",
+   "nome": "Rivamonte Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.2534,
+   "lon": 12.0245,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/rivamonte-agordino/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/rivamonte-agordino/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "rivara",
    "nome": "Rivara",
    "provincia": "TO",
@@ -13888,6 +14166,30 @@
      "valido_al": "2028-02-29"
     }
    ]
+  },
+  {
+   "id": "rocca-pietore",
+   "nome": "Rocca Pietore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4347,
+   "lon": 11.9775,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/rocca-pietore/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/rocca-pietore/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "rocca-san-casciano",
@@ -15173,6 +15475,30 @@
    ]
   },
   {
+   "id": "san-tomaso-agordino",
+   "nome": "San Tomaso Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.3812,
+   "lon": 11.9753,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/san-tomaso-agordino/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/san-tomaso-agordino/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "san-vito-al-tagliamento",
    "nome": "San Vito al Tagliamento",
    "provincia": "PN",
@@ -15201,6 +15527,25 @@
     }
    ],
    "zone_url": "https://www.ambienteservizi.net/comuni/san-vito-al-tagliamento"
+  },
+  {
+   "id": "san-vito-di-cadore",
+   "nome": "San Vito di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4601,
+   "lon": 12.2048,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/san-vito-di-cadore/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite",
+   "regole": "regole/valpe-boite-und.json"
   },
   {
    "id": "san-zenone-al-lambro",
@@ -15641,6 +15986,30 @@
     }
    ],
    "ecocentri": "ecocentri/vcs-forno-allione-und.json"
+  },
+  {
+   "id": "selva-di-cadore",
+   "nome": "Selva di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4515,
+   "lon": 12.0344,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/selva-di-cadore/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/selva-di-cadore/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "serralunga-d-alba",
@@ -16431,6 +16800,30 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "taibon-agordino",
+   "nome": "Taibon Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.2988,
+   "lon": 12.0133,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/taibon-agordino/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/taibon-agordino/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "talamona",
@@ -17519,6 +17912,30 @@
    ]
   },
   {
+   "id": "vallada-agordina",
+   "nome": "Vallada Agordina",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.3681,
+   "lon": 11.9309,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano · UND ordinaria",
+     "file": "comuni/vallada-agordina/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "fuori-centro-urbano",
+     "nome": "Fuori centro urbano · UND ordinaria",
+     "file": "comuni/vallada-agordina/zona-fuori-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
+  },
+  {
    "id": "vallarsa",
    "nome": "Vallarsa",
    "provincia": "TN",
@@ -17553,6 +17970,25 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-valle-cannobina.json"
+  },
+  {
+   "id": "valle-di-cadore",
+   "nome": "Valle di Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.417,
+   "lon": 12.3278,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/valle-di-cadore/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite",
+   "regole": "regole/valpe-boite-und.json"
   },
   {
    "id": "vallerano",
@@ -18733,6 +19169,25 @@
    ]
   },
   {
+   "id": "vodo-cadore",
+   "nome": "Vodo Cadore",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.4181,
+   "lon": 12.2503,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/vodo-cadore/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-valle-del-boite",
+   "regole": "regole/valpe-boite-und.json"
+  },
+  {
    "id": "vogogna",
    "nome": "Vogogna",
    "provincia": "VB",
@@ -18850,6 +19305,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "voltago-agordino",
+   "nome": "Voltago Agordino",
+   "provincia": "BL",
+   "gestore": "Valpe Ambiente",
+   "lat": 46.272,
+   "lon": 12.0049,
+   "consorzio": "valpe-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica · UND ordinaria",
+     "file": "comuni/voltago-agordino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
    "id": "volvera",
@@ -19441,6 +19914,12 @@
    "gestore": "Geofor S.p.A.",
    "ecocentri": "ecocentri/geofor-und.json",
    "regole": "regole/geofor-und.json"
+  },
+  "valpe-und": {
+   "nome": "Valpe Ambiente · UND",
+   "gestore": "Valpe Ambiente",
+   "ecocentri": "ecocentri/valpe-und.json",
+   "regole": "regole/valpe-und.json"
   }
  }
 }

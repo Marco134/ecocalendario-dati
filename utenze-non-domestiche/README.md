@@ -109,3 +109,7 @@ Il catalogo include 24 comuni con date e Acquapendente con due schede per civico
 ## Geofor · Provincia di Pisa
 
 Calendari UND documentati per Casciana Terme Lari, il turno carta su richiesta a Santa Maria a Monte, Migliarino e Marina di Vecchiano e la carta della zona artigianale La Fontina. Negli altri comuni verificare il profilo per attività e civico. Per i centri valgono i regolamenti comunali. [Geofor](https://www.geofor.it/) · [Accesso ai centri](https://www.geofor.it/centro-di-raccolta/)
+
+## Valpe Ambiente · Agordino e Valle del Boite
+
+Turni standard per 21 comuni e 36 zone fino al 31 dicembre 2026. Vetro, plastica e lattine formano un unico giro VPL. Alle attività con servizio intensificato o a pesatura si applicano i turni comunicati dal gestore. Per gli ecocentri serve l’autorizzazione. Gli ingombranti delle attività si gestiscono su preventivo. [Calendari](https://valpeambiente.it/p/gestione-rifiuti/calendari) · [Ecocentri](https://valpeambiente.it/p/gestione-rifiuti/ecocentro)

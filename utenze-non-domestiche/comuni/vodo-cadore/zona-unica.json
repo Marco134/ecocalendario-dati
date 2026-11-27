@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "comune": "Vodo Cadore",
+ "provincia": "BL",
+ "gestore": "Valpe Ambiente",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/Vodo.pdf | https://valpeambiente.it/files/filemanager/source/CALENDARI%202026/SINTETICI/Vodo%202026%20sintetico.pdf | https://valpeambiente.it/files/filemanager/source/Arera%20Trasparenza%20e%20Qualit%C3%A0/Carta_Qualit%C3%A0_UMVB_23.04.24.pdf",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "esposizione": "Usare i contenitori assegnati. Per eventuali orari di esposizione verificare il contratto o chiedere al gestore.",
+ "note": [
+  "Vetro, plastica e lattine formano un unico giro VPL e vanno nello stesso contenitore blu.",
+  "Per servizi intensificati e dedicati valgono il contratto e i turni comunicati alla sede. Il servizio a pesatura oltre 1.000 litri si prenota entro le 13:00 nei giorni feriali da lunedì a venerdì. Le Carte indicano l’esecuzione entro due giorni lavorativi dalla richiesta.",
+  "Per il verde o gli altri servizi fuori dal circuito standard chiedere le condizioni applicabili. Contatti Valpe 800 94 76 73 e info@valpeambiente.it.",
+  "Il ritiro a domicilio dei RAEE dual use è attivo per le imprese e gli enti dei cinque comuni. Confermare prezzi e modalità. Per il conferimento a Cortina valgono autorizzazione e iscrizione all’Albo."
+ ]
+}

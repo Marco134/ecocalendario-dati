@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "nome": "Valpe · Materiali delle attività",
+ "fonte": "https://valpeambiente.it/files/filemanager/source/Manuale%202026_low.pdf | https://valpeambiente.it/p/gestione-rifiuti/altri-servizi-utenze-non-domestiche",
+ "voci": {
+  "cartoni per bevande e alimenti in poliaccoppiato": {
+   "dove": "carta",
+   "nota": "Togliere le parti in plastica e conferire puliti."
+  },
+  "cartoni piegati, carta da ufficio e imballaggi in cartoncino": {
+   "dove": "carta",
+   "nota": "Conferire sfusi e puliti. Per grandi volumi chiedere quale giro è assegnato."
+  },
+  "bottiglie e contenitori di vetro": {
+   "dove": "vetro",
+   "nota": "Usare il contenitore VPL con plastica e metalli. Svitare i tappi in metallo."
+  },
+  "imballaggi in plastica, lattine e tappi in metallo": {
+   "dove": "plastica",
+   "nota": "Usare il contenitore VPL, conferire sfusi, vuoti e ridotti di volume."
+  },
+  "avanzi di cucina, carta da forno compostabile e fondi di caffè": {
+   "dove": "organico",
+   "nota": "Usare i sacchi compostabili nel contenitore assegnato."
+  },
+  "scatole di pizza pulite": {
+   "dove": "carta",
+   "nota": "Le parti sporche della scatola, ridotte di volume, sono indicate nell’umido."
+  },
+  "cartucce esauste, toner e unità tamburo": {
+   "dove": "varia",
+   "nota": "Chiedere il contenitore in comodato e aderire alla raccolta dedicata. Esclusi polvere di toner e cartucce piene."
+  },
+  "arredi, ingombranti e verde professionale": {
+   "dove": "varia",
+   "nota": "Chiedere preventivo o verificare autorizzazione, origine e frazioni ammesse al centro."
+  }
+ }
+}
