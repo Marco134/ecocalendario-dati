@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "nome": "Anzio · Materiali e conferimenti",
+ "fonte": "https://comune.anzio.roma.it/sites/comune.anzio.roma.it/files/2026-06/LAVINIO%20MARE%20-%20APOLLO%2013.pdf | https://comune.anzio.roma.it/sites/comune.anzio.roma.it/files/2026-05/UTENZE%20NON%20DOMESTICHE_1.pdf | https://comune.anzio.roma.it/node/11883",
+ "voci": {
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Conferire con carta e cartone."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Conferire con carta e cartone."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel secco residuo."
+  },
+  "bicchieri di vetro": {
+   "dove": "indifferenziato",
+   "nota": "I calendari li indicano nel secco residuo."
+  },
+  "posate monouso in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Conferire nel secco residuo."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Vuoti e senza tappi."
+  },
+  "imballaggi in plastica e lattine": {
+   "dove": "plastica",
+   "nota": "Conferire insieme nel circuito plastica e lattine."
+  },
+  "tappi in metallo": {
+   "dove": "plastica",
+   "nota": "Conferire nel circuito plastica e lattine."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Conferire nel circuito plastica e lattine."
+  },
+  "avanzi di cibo": {
+   "dove": "organico",
+   "nota": "Conferire con l’organico."
+  },
+  "gusci di uova": {
+   "dove": "organico",
+   "nota": "Conferire con l’organico."
+  },
+  "fondi di caffe": {
+   "dove": "organico",
+   "nota": "Conferire con l’organico."
+  },
+  "pannolini e pannoloni": {
+   "dove": "indifferenziato",
+   "nota": "Per l’eventuale servizio dedicato chiedere informazioni al gestore."
+  },
+  "sfalci e potature": {
+   "dove": "varia",
+   "nota": "Usare il centro, i punti stagionali oppure il porta a porta con bidone nelle zone servite."
+  },
+  "ingombranti": {
+   "dove": "varia",
+   "nota": "Prenotare o conferire al centro secondo regolamento."
+  },
+  "apparecchiature elettriche ed elettroniche": {
+   "dove": "varia",
+   "nota": "Verificare il conferimento al centro e i limiti."
+  }
+ }
+}

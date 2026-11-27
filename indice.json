@@ -24252,6 +24252,120 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "anzio",
+      "nome": "Anzio",
+      "provincia": "RM",
+      "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
+      "consorzio": "aet-anzio",
+      "lat": 41.447101,
+      "lon": 12.628562,
+      "zone_url": "https://comune.anzio.roma.it/sites/comune.anzio.roma.it/files/2026-05/ANZIO%20ZONE_1.pdf",
+      "zone": [
+        {
+          "id": "anzio-centro",
+          "nome": "Anzio Centro · porta a porta",
+          "file": "comuni/anzio/zona-anzio-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "anzio-colonia-marechiaro",
+          "nome": "Anzio Colonia · Marechiaro",
+          "file": "comuni/anzio/zona-anzio-colonia-marechiaro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cincinnato",
+          "nome": "Cincinnato",
+          "file": "comuni/anzio/zona-cincinnato.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cinque-miglia-borghesina-sacida",
+          "nome": "Cinque Miglia · Borghesina · Sacida",
+          "file": "comuni/anzio/zona-cinque-miglia-borghesina-sacida.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "colle-cocchino-casal-di-claudia",
+          "nome": "Colle Cocchino · Casal Di Claudia",
+          "file": "comuni/anzio/zona-colle-cocchino-casal-di-claudia.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "jenne-fornace-ticino",
+          "nome": "Jenne · Fornace · Ticino",
+          "file": "comuni/anzio/zona-jenne-fornace-ticino.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "lavinio-mare-apollo-13",
+          "nome": "Lavinio Mare · Apollo 13",
+          "file": "comuni/anzio/zona-lavinio-mare-apollo-13.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "lavinio-stazione",
+          "nome": "Lavinio Stazione",
+          "file": "comuni/anzio/zona-lavinio-stazione.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "lido-dei-pini",
+          "nome": "Lido Dei Pini",
+          "file": "comuni/anzio/zona-lido-dei-pini.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "piazza-roma",
+          "nome": "Piazza Roma",
+          "file": "comuni/anzio/zona-piazza-roma.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "pocacqua-miglioramento-falasche-nord",
+          "nome": "Pocacqua · Miglioramento · Falasche Nord",
+          "file": "comuni/anzio/zona-pocacqua-miglioramento-falasche-nord.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "quartiere-europa",
+          "nome": "Quartiere Europa",
+          "file": "comuni/anzio/zona-quartiere-europa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "sacro-cuore",
+          "nome": "Sacro Cuore",
+          "file": "comuni/anzio/zona-sacro-cuore.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "santa-teresa",
+          "nome": "Santa Teresa",
+          "file": "comuni/anzio/zona-santa-teresa.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "triangolo-zodiaco-padiglione",
+          "nome": "Triangolo · Zodiaco · Padiglione",
+          "file": "comuni/anzio/zona-triangolo-zodiaco-padiglione.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "villa-claudia-bouganvillae",
+          "nome": "Villa Claudia · Bouganvillae",
+          "file": "comuni/anzio/zona-villa-claudia-bouganvillae.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "ecoisole-centro-storico",
+          "nome": "Centro storico · ecoisole",
+          "file": "comuni/anzio/zona-ecoisole-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -24712,6 +24826,12 @@
       "gestore": "Navita",
       "ecocentri": "ecocentri/aroba8-polignano-a-mare.json",
       "regole": "regole/aroba8-polignano-a-mare.json"
+    },
+    "aet-anzio": {
+      "nome": "AET · Anzio",
+      "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
+      "ecocentri": "ecocentri/aet-anzio.json",
+      "regole": "regole/aet-anzio.json"
     }
   },
   "tipi_en": {

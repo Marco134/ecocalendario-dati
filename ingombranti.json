@@ -5116,6 +5116,25 @@
       "regole_en": [
         "Contact the provider to verify eligibility and book a pickup."
       ]
+    },
+    {
+      "id": "aet-anzio",
+      "nome": "AET · Anzio · UD",
+      "gestori": [],
+      "comuni": [
+        "anzio"
+      ],
+      "telefono": "800 959 344",
+      "fonte": "https://comune.anzio.roma.it/node/11883",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotare il ritiro domiciliare. Il Comune indica un massimo di 5 m³ per utenza. Confermare tipologie e condizioni per l’attività."
+      ],
+      "regole_en": [
+        "Call to book and verify eligibility and limits."
+      ]
     }
   ]
 }

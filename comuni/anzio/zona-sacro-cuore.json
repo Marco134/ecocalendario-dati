@@ -1,0 +1,106 @@
+{
+ "schema": 1,
+ "comune": "Anzio",
+ "provincia": "RM",
+ "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
+ "zona": "Sacro Cuore",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://comune.anzio.roma.it/sites/comune.anzio.roma.it/files/2026-06/SACRO%20CUORE.pdf | https://comune.anzio.roma.it/node/11883",
+ "raccolte": {
+  "2026-11-27": [
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta",
+   "sfalci",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta",
+   "sfalci",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta",
+   "sfalci"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta",
+   "sfalci",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Turni ordinari e date del vetro dal PDF ufficiale. Verificare la zona sulla mappa del Comune.",
+  "Per il verde porta a porta usare il bidone dedicato."
+ ],
+ "esposizione": "Esporre dalle 22:00 della sera precedente alle 04:00 del giorno di raccolta.",
+ "esposizione_entro": "04:00"
+}

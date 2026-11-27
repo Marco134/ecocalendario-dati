@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1191,
+ "totale": 1192,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12727,6 +12727,18 @@
    "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Scegliere il profilo dell’attività. Le griglie indicano il giorno di ritiro. Gli imballaggi di solo cartone hanno un giro distinto dalla carta dal lunedì al sabato. Per le attività alimentari è riportato il calendario invernale.",
    "valido_al": "2026-12-31",
    "zone_und": 3
+  },
+  {
+   "id": "anzio",
+   "nome": "Anzio",
+   "provincia": "RM",
+   "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
+   "stato": "calendario_verificato",
+   "fonte": "https://comune.anzio.roma.it/sites/comune.anzio.roma.it/files/2026-05/UTENZE%20NON%20DOMESTICHE_1.pdf | https://comune.anzio.roma.it/novita/rifiuti-aggiornamento-sul-servizio",
+   "verificato": "2026-11-27",
+   "nota": "Ristorazione con organico invernale verificato. Altre frazioni specifiche e lidi da confermare.",
+   "valido_al": "2026-12-31",
+   "zone_und": 4
   }
  ]
 }

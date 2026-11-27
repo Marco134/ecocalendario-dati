@@ -635,6 +635,42 @@
    ]
   },
   {
+   "id": "anzio",
+   "nome": "Anzio",
+   "provincia": "RM",
+   "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
+   "consorzio": "aet-anzio-und",
+   "lat": 41.447101,
+   "lon": 12.628562,
+   "zone_url": "https://comune.anzio.roma.it/sites/comune.anzio.roma.it/files/2026-05/ANZIO%20ZONE_1.pdf",
+   "zone": [
+    {
+     "id": "und-centro-storico",
+     "nome": "Attività · centro storico",
+     "file": "comuni/anzio/zona-und-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "und-resto-abitato",
+     "nome": "Attività · resto dell’abitato",
+     "file": "comuni/anzio/zona-und-resto-abitato.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "ristorazione-invernale",
+     "nome": "Ristorazione · organico invernale",
+     "file": "comuni/anzio/zona-ristorazione-invernale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "lidi-balneari",
+     "nome": "Lidi balneari · informazioni",
+     "file": "comuni/anzio/zona-lidi-balneari.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "anzola-d-ossola",
    "nome": "Anzola d'Ossola",
    "provincia": "VB",
@@ -22913,6 +22949,12 @@
    "gestore": "Navita",
    "ecocentri": "ecocentri/aroba8-polignano-a-mare-und.json",
    "regole": "regole/aroba8-polignano-a-mare.json"
+  },
+  "aet-anzio-und": {
+   "nome": "AET · Anzio",
+   "gestore": "Ambiente Energia Territorio S.p.A. (AET)",
+   "ecocentri": "ecocentri/aet-anzio-und.json",
+   "regole": "regole/aet-anzio.json"
   }
  }
 }
