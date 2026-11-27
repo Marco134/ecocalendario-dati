@@ -830,7 +830,12 @@
    "nome": "Beinasco",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare | https://comune.beinasco.to.it/novita/ecocalendario-2026-beinasco/",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 8
   },
   {
    "id": "beinette",
@@ -1461,7 +1466,12 @@
    "nome": "Bruino",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 2
   },
   {
    "id": "brusasco",
@@ -1780,7 +1790,12 @@
    "nome": "Candiolo",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 6
   },
   {
    "id": "canino",
@@ -1984,7 +1999,12 @@
    "nome": "Carignano",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 10
   },
   {
    "id": "carmagnola",
@@ -2274,7 +2294,12 @@
    "nome": "Castagnole Piemonte",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 3
   },
   {
    "id": "castel-giorgio",
@@ -4665,7 +4690,12 @@
    "nome": "La Loggia",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 6
   },
   {
    "id": "la-morra",
@@ -4905,7 +4935,12 @@
    "nome": "Lombriasco",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 1
   },
   {
    "id": "lonato-del-garda",
@@ -5681,7 +5716,12 @@
    "nome": "Moncalieri",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 13
   },
   {
    "id": "moncenisio",
@@ -6144,7 +6184,12 @@
    "nome": "Nichelino",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare | https://comune.nichelino.to.it/ciclo-dei-rifiuti/",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 6
   },
   {
    "id": "noasca",
@@ -6366,7 +6411,12 @@
    "nome": "Orbassano",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 11
   },
   {
    "id": "orino",
@@ -6449,7 +6499,12 @@
    "nome": "Osasio",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare | https://www.comune.osasio.to.it/Servizi?ID=122636",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 1
   },
   {
    "id": "osnago",
@@ -6572,7 +6627,12 @@
    "nome": "Pancalieri",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 1
   },
   {
    "id": "pantigliate",
@@ -6960,7 +7020,12 @@
    "nome": "Piobesi Torinese",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 6
   },
   {
    "id": "piobesi-d-alba",
@@ -6977,7 +7042,12 @@
    "nome": "Piossasco",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 4
   },
   {
    "id": "pisano",
@@ -7587,7 +7657,12 @@
    "nome": "Rivalta di Torino",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 7
   },
   {
    "id": "rivamonte-agordino",
@@ -9196,7 +9271,12 @@
    "nome": "Trofarello",
    "provincia": "TO",
    "gestore": "Co.Va.R. 14",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "valido_al": "2027-02-28",
+   "verificato": "2026-11-27",
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
+   "zone_und": 4
   },
   {
    "id": "trontano",

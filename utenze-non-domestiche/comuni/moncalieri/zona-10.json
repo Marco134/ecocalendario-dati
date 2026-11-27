@@ -1,0 +1,138 @@
+{
+ "schema": 1,
+ "comune": "Moncalieri",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "Zona 10 · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Covar14-2026-Moncalieri-ZONA-10.pdf | https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+ "raccolte": {
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-04": [
+   "organico"
+  ],
+  "2027-01-07": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-11": [
+   "organico"
+  ],
+  "2027-01-14": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-18": [
+   "organico"
+  ],
+  "2027-01-21": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-25": [
+   "organico"
+  ],
+  "2027-01-28": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-01": [
+   "organico"
+  ],
+  "2027-02-04": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-08": [
+   "organico"
+  ],
+  "2027-02-11": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-15": [
+   "organico"
+  ],
+  "2027-02-18": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-22": [
+   "organico"
+  ],
+  "2027-02-25": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Il Co.Va.R. 14 indica che i calendari ordinari sono consegnati a utenze domestiche e commerciali. Per gli eventuali passaggi aggiuntivi verificare quale profilo si applica alla sede.",
+  "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi."
+ ]
+}

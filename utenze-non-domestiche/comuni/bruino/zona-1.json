@@ -1,0 +1,131 @@
+{
+ "schema": 1,
+ "comune": "Bruino",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "Zona 1 · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2027-02-28",
+ "esposizione": "Esponi i contenitori tra le 22 del giorno prima e le 6 del giorno di raccolta.",
+ "fonte": "Ecocalendario COVAR 14 2026 – Calendario-Covar14-2026-BRUINO-ZONA-1.pdf | https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
+ "raccolte": {
+  "2026-11-30": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ],
+  "2027-01-04": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-11": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-14": [
+   "organico"
+  ],
+  "2027-01-18": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-01-21": [
+   "organico"
+  ],
+  "2027-01-25": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-01-28": [
+   "organico"
+  ],
+  "2027-02-01": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2027-02-04": [
+   "organico"
+  ],
+  "2027-02-08": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-11": [
+   "organico"
+  ],
+  "2027-02-15": [
+   "carta",
+   "indifferenziato",
+   "organico"
+  ],
+  "2027-02-18": [
+   "organico"
+  ],
+  "2027-02-22": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica"
+  ],
+  "2027-02-25": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Il Co.Va.R. 14 indica che i calendari ordinari sono consegnati a utenze domestiche e commerciali. Per gli eventuali passaggi aggiuntivi verificare quale profilo si applica alla sede.",
+  "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi."
+ ]
+}

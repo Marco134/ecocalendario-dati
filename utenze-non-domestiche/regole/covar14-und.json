@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "nome": "Co.Va.R. 14 · materiali UND",
+ "fonte": "https://covar14.it/sites/default/files/2024/Libretto%20informativo%20Covar%202024.pdf | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare | https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta",
+ "voci": {
+  "imballaggi in cartone": {
+   "dove": "carta",
+   "nota": "Piegare gli imballaggi e usare il contenitore assegnato o il giro aggiuntivo per l’attività, quando attivo."
+  },
+  "imballaggi in plastica e lattine": {
+   "dove": "plastica",
+   "nota": "Seguire il circuito congiunto del comune. Il giro aziendale e il conferimento al centro dipendono da abilitazione e tipo di imballaggio."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il percorso previsto nel calendario della zona. Chiedere l’attivazione del giro aggiuntivo per le attività."
+  },
+  "ingombranti e rifiuti elettrici": {
+   "dove": "varia",
+   "nota": "Chiedere al Consorzio ricerca sede, card, limiti e ammissione. I rifiuti elettrici professionali possono richiedere circuito specifico."
+  },
+  "imballaggi in legno e toner esausto": {
+   "dove": "varia",
+   "nota": "Consultare l’elenco dei materiali ammessi dal centro e verificare il conferimento per la categoria dell’attività."
+  }
+ }
+}

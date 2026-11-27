@@ -1,0 +1,791 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-27",
+ "gestore": "Co.Va.R. 14",
+ "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta | https://covar14.it/sites/default/files/amministrazione-trasparente/atti-generali/regolamenti-consortili/Regolamento_CDR_aggiornato_al_20_12_2018_1.pdf",
+ "numero_verde": "800 639 639",
+ "accesso": "Per le utenze non domestiche iscritte alla tariffa il Consorzio indica la card Covar Business, da richiedere al numero unico. Verificare centro di riferimento, materiali, quantità, documenti ed eventuale delega.",
+ "avviso": "Orari generali. Confermare validità per l’attività e variazioni prima di recarsi al centro.",
+ "centri": [
+  {
+   "id": "covar-beinasco-und",
+   "tipo": "raccolta",
+   "comune": "Beinasco",
+   "indirizzo": "Strada del Bottone",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 45.0221,
+   "lon": 7.5792,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-bruino-und",
+   "tipo": "raccolta",
+   "comune": "Bruino",
+   "indirizzo": "Viale Cruto",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:30",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:30",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale (1 novembre – 31 marzo). Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 45.0202,
+   "lon": 7.4677,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-candiolo-und",
+   "tipo": "raccolta",
+   "comune": "Candiolo",
+   "indirizzo": "Strada Pinerolo 91",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.9603,
+   "lon": 7.6012,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-carignano-und",
+   "tipo": "raccolta",
+   "comune": "Carignano",
+   "indirizzo": "Viale della Molinetta",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "16:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Serve anche Lombriasco e Osasio. Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.9067,
+   "lon": 7.6753,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-castagnole-und",
+   "tipo": "raccolta",
+   "comune": "Castagnole Piemonte",
+   "indirizzo": "Via Circonvallazione",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale. Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.8986,
+   "lon": 7.5666,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-la-loggia-und",
+   "tipo": "raccolta",
+   "comune": "La Loggia",
+   "indirizzo": "Via Amendola",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.9567,
+   "lon": 7.6677,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-moncalieri-und",
+   "tipo": "raccolta",
+   "comune": "Moncalieri",
+   "indirizzo": "Via Lurisia angolo Strada Carpice",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "14:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "14:00"
+     ],
+     [
+      "14:30",
+      "18:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 45.0009,
+   "lon": 7.6852,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-nichelino-und",
+   "tipo": "raccolta",
+   "comune": "Nichelino",
+   "indirizzo": "Via Mentana 33",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ],
+    "7": [
+     [
+      "09:00",
+      "11:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.9952,
+   "lon": 7.6474,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-orbassano-und",
+   "tipo": "raccolta",
+   "comune": "Orbassano",
+   "indirizzo": "Via Nazario Sauro",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 45.007,
+   "lon": 7.537,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-pancalieri-und",
+   "tipo": "raccolta",
+   "comune": "Pancalieri",
+   "indirizzo": "Strada Preti, presso il depuratore",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.8305,
+   "lon": 7.5882,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-piobesi-und",
+   "tipo": "raccolta",
+   "comune": "Piobesi Torinese",
+   "indirizzo": "Via Lenagena",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale (1 novembre – 31 marzo). Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.9331,
+   "lon": 7.6119,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-piossasco-und",
+   "tipo": "raccolta",
+   "comune": "Piossasco",
+   "indirizzo": "Strada Volvera",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:00",
+      "14:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "16:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "11:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.9907,
+   "lon": 7.4628,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-rivalta-und",
+   "tipo": "raccolta",
+   "comune": "Rivalta di Torino",
+   "indirizzo": "Via Avigliana",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "15:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 45.0345,
+   "lon": 7.5233,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  },
+  {
+   "id": "covar-trofarello-und",
+   "tipo": "raccolta",
+   "comune": "Trofarello",
+   "indirizzo": "Via Croce Rossa",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "13:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale (1 novembre – 31 marzo). Verificare abilitazione per sede e materiali e eventuali fasce UND.",
+   "lat": 44.986,
+   "lon": 7.7403,
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/centri-di-raccolta"
+  }
+ ]
+}
