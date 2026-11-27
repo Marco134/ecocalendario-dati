@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "nome": "Aprica · Torre Boldone UND · materiali",
+ "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4878851/Calendario-raccolta-differenziata-2026.pdf | https://comune.torreboldone.bg.it/servizi/servizio-dettaglio/3521598 | https://www.apricaspa.it/it/torre-boldone/servizi/centro-raccolta-rifiuti",
+ "voci": {
+  "carta e cartone puliti": {
+   "dove": "carta",
+   "nota": "Usare il circuito e la dotazione previsti per la propria sede."
+  },
+  "imballaggi in plastica, vetro e metallo": {
+   "dove": "varia",
+   "nota": "Seguire le frazioni e i contenitori indicati per il comune e la sede. Chiedere conferma per le attività e per i materiali fuori misura."
+  },
+  "ingombranti e RAEE": {
+   "dove": "varia",
+   "nota": "Verificare accesso con tessera e rifiuti autorizzati, oppure chiedere un ritiro aziendale."
+  }
+ }
+}

@@ -1,0 +1,226 @@
+{
+ "schema": 1,
+ "comune": "Trofarello",
+ "provincia": "TO",
+ "gestore": "Co.Va.R. 14",
+ "zona": "Zona 5 · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2027-02-28",
+ "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2025/12/Calendario-Covar14-2026-TROFARELLO-ZONA-5.pdf | https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta",
+ "esposizione": "Dalle 22:00 della sera precedente alle 06:00 del giorno di ritiro.",
+ "esposizione_entro": "06:00",
+ "raccolte": {
+  "2026-11-27": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta",
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "carta",
+   "organico",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2027-01-02": [
+   "carta",
+   "indifferenziato",
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-07": [
+   "organico"
+  ],
+  "2027-01-08": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-09": [
+   "organico"
+  ],
+  "2027-01-13": [
+   "organico"
+  ],
+  "2027-01-15": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-16": [
+   "organico"
+  ],
+  "2027-01-20": [
+   "organico"
+  ],
+  "2027-01-22": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-01-23": [
+   "organico"
+  ],
+  "2027-01-27": [
+   "organico"
+  ],
+  "2027-01-29": [
+   "carta",
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-01-30": [
+   "organico"
+  ],
+  "2027-02-03": [
+   "organico"
+  ],
+  "2027-02-05": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-06": [
+   "organico"
+  ],
+  "2027-02-10": [
+   "organico"
+  ],
+  "2027-02-12": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-13": [
+   "organico"
+  ],
+  "2027-02-17": [
+   "organico"
+  ],
+  "2027-02-19": [
+   "carta",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2027-02-20": [
+   "organico"
+  ],
+  "2027-02-24": [
+   "organico"
+  ],
+  "2027-02-26": [
+   "carta",
+   "indifferenziato",
+   "plastica",
+   "vetro"
+  ],
+  "2027-02-27": [
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-24",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-28",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-26"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-02",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2027-01-01"
+  },
+  {
+   "data": "2027-01-07",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2027-01-06"
+  }
+ ],
+ "note": [
+  "Il PDF della zona 5 indica per le UND già abilitate cartone il giovedì e vetro il sabato. Confermare con il gestore la programmazione nei festivi e l’abilitazione del civico."
+ ]
+}

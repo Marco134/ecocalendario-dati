@@ -1158,6 +1158,36 @@
    ]
   },
   {
+   "id": "bagnoregio",
+   "nome": "Bagnoregio",
+   "provincia": "VT",
+   "gestore": "Massimi Eco Soluzioni",
+   "lat": 42.6267,
+   "lon": 12.0906,
+   "consorzio": "massimi-bagnoregio-und",
+   "zone": [
+    {
+     "id": "capoluogo",
+     "nome": "Capoluogo",
+     "file": "comuni/bagnoregio/zona-capoluogo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "campagne-pip",
+     "nome": "Campagne sparse, nuclei abitativi minori, zona PIP Capraccia",
+     "file": "comuni/bagnoregio/zona-campagne-pip.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "frazioni",
+     "nome": "Frazioni e nuclei urbani sparsi",
+     "file": "comuni/bagnoregio/zona-frazioni.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.bagnoregio.vt.it/it/garbage-calendars"
+  },
+  {
    "id": "bairo",
    "nome": "Bairo",
    "provincia": "TO",
@@ -3854,6 +3884,24 @@
    ]
   },
   {
+   "id": "caprino-bergamasco",
+   "nome": "Caprino Bergamasco",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.7465,
+   "lon": 9.4816,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "bidonchip",
+     "nome": "Indifferenziato Bidonchip · attività",
+     "file": "comuni/caprino-bergamasco/zona-bidonchip.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
+  },
+  {
    "id": "carate-brianza",
    "nome": "Carate Brianza",
    "provincia": "MB",
@@ -4671,6 +4719,24 @@
      "valido_al": "2027-01-31"
     }
    ]
+  },
+  {
+   "id": "cassina-valsassina",
+   "nome": "Cassina Valsassina",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.932085,
+   "lon": 9.478945,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/cassina-valsassina/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "castagneto-po",
@@ -6878,6 +6944,24 @@
    ]
   },
   {
+   "id": "crandola-valsassina",
+   "nome": "Crandola Valsassina",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 46.0222,
+   "lon": 9.3801,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/crandola-valsassina/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
+  },
+  {
    "id": "craveggia",
    "nome": "Craveggia",
    "provincia": "VB",
@@ -7342,6 +7426,24 @@
    "ecocentri": "ecocentri/conser-vco-und-domodossola.json"
   },
   {
+   "id": "dorio",
+   "nome": "Dorio",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 46.1017,
+   "lon": 9.3194,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/dorio/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
+  },
+  {
    "id": "dormelletto",
    "nome": "Dormelletto",
    "provincia": "NO",
@@ -7536,6 +7638,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "erve",
+   "nome": "Erve",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.8207,
+   "lon": 9.4456,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/erve/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "esine",
@@ -8328,6 +8448,24 @@
      "valido_al": "2027-05-31"
     }
    ]
+  },
+  {
+   "id": "garbagnate-monastero",
+   "nome": "Garbagnate Monastero",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.7724,
+   "lon": 9.3027,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/garbagnate-monastero/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "gardone-riviera",
@@ -9820,6 +9958,24 @@
    ]
   },
   {
+   "id": "lasnigo",
+   "nome": "Lasnigo",
+   "provincia": "CO",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.8807,
+   "lon": 9.2641,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/lasnigo/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
+  },
+  {
    "id": "latera",
    "nome": "Latera",
    "provincia": "VT",
@@ -10760,6 +10916,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "mapello",
+   "nome": "Mapello",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.7094,
+   "lon": 9.5457,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/mapello/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "mappano",
@@ -11947,6 +12121,24 @@
    ]
   },
   {
+   "id": "montano-lucino",
+   "nome": "Montano Lucino",
+   "provincia": "CO",
+   "gestore": "Aprica",
+   "lat": 45.790331,
+   "lon": 9.027521,
+   "consorzio": "aprica-montano-lucino-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/montano-lucino/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.montanolucino.co.it/it/page/raccolta-differenziata-cd4667a9-0753-48a9-8a51-277cafa45c13"
+  },
+  {
    "id": "montebelluna",
    "nome": "Montebelluna",
    "provincia": "TV",
@@ -12434,6 +12626,24 @@
    ]
   },
   {
+   "id": "nembro",
+   "nome": "Nembro",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "lat": 45.743974,
+   "lon": 9.759275,
+   "consorzio": "aprica-nembro-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/nembro/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/nembro/servizi/raccolta-differenziata"
+  },
+  {
    "id": "nervesa-della-battaglia",
    "nome": "Nervesa della Battaglia",
    "provincia": "TV",
@@ -12840,6 +13050,24 @@
     }
    ],
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
+   "id": "oliveto-lario",
+   "nome": "Oliveto Lario",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.93,
+   "lon": 9.284,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/oliveto-lario/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "omegna",
@@ -13401,6 +13629,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-parella/"
+  },
+  {
+   "id": "parlasco",
+   "nome": "Parlasco",
+   "provincia": "LC",
+   "gestore": "Silea S.p.A.",
+   "lat": 46.0181,
+   "lon": 9.3454,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/parlasco/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "parrano",
@@ -15196,6 +15442,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/premosello-chiovenda/",
    "ecocentri": "ecocentri/conser-vco-und-premosello-chiovenda.json"
+  },
+  {
+   "id": "presezzo",
+   "nome": "Presezzo",
+   "provincia": "BG",
+   "gestore": "Silea S.p.A.",
+   "lat": 45.6916,
+   "lon": 9.5667,
+   "consorzio": "silea-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/presezzo/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
   },
   {
    "id": "prevalle",
@@ -18758,6 +19022,24 @@
    ]
   },
   {
+   "id": "torre-boldone",
+   "nome": "Torre Boldone",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "lat": 45.716272,
+   "lon": 9.708189,
+   "consorzio": "aprica-torre-boldone-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/torre-boldone/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.torreboldone.bg.it/servizi/servizio-dettaglio/3521598"
+  },
+  {
    "id": "torre-canavese",
    "nome": "Torre Canavese",
    "provincia": "TO",
@@ -19371,6 +19653,12 @@
      "id": "4",
      "nome": "Zona 4",
      "file": "comuni/trofarello/zona-4.json",
+     "valido_al": "2027-02-28"
+    },
+    {
+     "id": "5",
+     "nome": "Zona 5",
+     "file": "comuni/trofarello/zona-5.json",
      "valido_al": "2027-02-28"
     }
    ],
@@ -21798,6 +22086,36 @@
    "gestore": "Co.Va.R. 14",
    "ecocentri": "ecocentri/covar14-und.json",
    "regole": "regole/covar14-und.json"
+  },
+  "silea-und": {
+   "nome": "Silea · UND",
+   "gestore": "Silea S.p.A.",
+   "ecocentri": "ecocentri/silea-und.json",
+   "regole": "regole/silea-und.json"
+  },
+  "aprica-torre-boldone-und": {
+   "nome": "Aprica · Torre Boldone UND",
+   "gestore": "Aprica",
+   "ecocentri": "ecocentri/aprica-torre-boldone-und.json",
+   "regole": "regole/aprica-torre-boldone-und.json"
+  },
+  "aprica-montano-lucino-und": {
+   "nome": "Aprica · Montano Lucino UND",
+   "gestore": "Aprica",
+   "ecocentri": "ecocentri/aprica-montano-lucino-und.json",
+   "regole": "regole/aprica-montano-lucino-und.json"
+  },
+  "aprica-nembro-und": {
+   "nome": "Aprica · Nembro UND",
+   "gestore": "Aprica",
+   "ecocentri": "ecocentri/aprica-nembro-und.json",
+   "regole": "regole/aprica-nembro-und.json"
+  },
+  "massimi-bagnoregio-und": {
+   "nome": "Massimi · Bagnoregio UND",
+   "gestore": "Massimi Eco Soluzioni",
+   "ecocentri": "ecocentri/massimi-bagnoregio-und.json",
+   "regole": "regole/massimi-bagnoregio-und.json"
   }
  }
 }

@@ -1,0 +1,43 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-27",
+ "gestore": "Massimi Eco Soluzioni",
+ "fonte": "https://comune.bagnoregio.vt.it/it/vivere/741579",
+ "numero_verde": "800 600 701",
+ "accesso": "Il Comune ammette le utenze non domestiche. Chiedere limiti e documentazione al gestore.",
+ "avviso": "Centro in località Capraccia. Consultare la fonte comunale per gli aggiornamenti.",
+ "centri": [
+  {
+   "id": "bagnoregio-capraccia-und",
+   "tipo": "raccolta",
+   "comune": "Bagnoregio",
+   "indirizzo": "Località Capraccia, zona PIP",
+   "orari": {
+    "2": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "18:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "per": "non_domestiche",
+   "lat": 42.612975309464694,
+   "lon": 12.041027887866202,
+   "avviso": "Orari e punto mappa dalla scheda comunale. Confermare l’accesso e i materiali ammessi per l’attività.",
+   "fonte": "https://comune.bagnoregio.vt.it/it/vivere/741579"
+  }
+ ]
+}

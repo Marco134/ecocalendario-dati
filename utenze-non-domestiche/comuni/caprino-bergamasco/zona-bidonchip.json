@@ -1,0 +1,31 @@
+{
+ "schema": 1,
+ "comune": "Caprino Bergamasco",
+ "provincia": "BG",
+ "gestore": "Silea S.p.A.",
+ "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Caprino-Bg-ecocalendario26_web.pdf | https://www.comune.caprinobergamasco.bg.it/area-tematica/ambiente-ecologia",
+ "zona": "Indifferenziato Bidonchip · attività",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "raccolte": {
+  "2026-12-02": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "indifferenziato"
+  ]
+ },
+ "esposizione": "Usare il contenitore assegnato e rispettare le istruzioni del gestore.",
+ "note": [
+  "Turni del solo indifferenziato con Bidonchip, confermato per le attività dall’avviso comunale. Per le altre frazioni e eventuali servizi dedicati chiedere a Silea."
+ ]
+}

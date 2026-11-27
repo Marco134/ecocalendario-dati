@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "nome": "Silea · UND · materiali",
+ "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Caprino-Bg-ecocalendario26_web.pdf | https://www.sileaspa.it/wp-content/uploads/2025/12/Presezzo-ecocalendario26_web.pdf",
+ "voci": {
+  "imballaggi in plastica, lattine e cartoni per bevande": {
+   "dove": "plastica",
+   "nota": "Nel multimateriale leggero (sacco viola o PLT secondo comune). I cartoni per bevande seguono il multimateriale."
+  },
+  "carta pulita, scatole e cartone": {
+   "dove": "carta",
+   "nota": "Conferire carta e cartone piegati. I cartoni per bevande e la carta oleata o da forno seguono le indicazioni locali."
+  },
+  "mozziconi, fazzoletti di carta usati e lettiere": {
+   "dove": "indifferenziato",
+   "nota": "Per il residuo usare sacco rosso o contenitore identificato secondo comune. Verificare i casi specifici indicati nel PDF."
+  },
+  "vasetti e bottiglie in vetro": {
+   "dove": "vetro",
+   "nota": "Separare tappi e coperchi. Cristallo, ceramica, specchi e lampadine richiedono un circuito distinto."
+  },
+  "ingombranti, RAEE e imballaggi grandi": {
+   "dove": "varia",
+   "nota": "Accedere al centro con la documentazione prevista e scegliere solo rifiuti autorizzati per l’attività e ammessi nella sede."
+  }
+ }
+}

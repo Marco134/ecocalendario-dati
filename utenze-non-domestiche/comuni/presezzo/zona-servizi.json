@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Presezzo",
+ "provincia": "BG",
+ "gestore": "Silea S.p.A.",
+ "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Presezzo-ecocalendario26_web.pdf | https://presezzo-api.municipiumapp.it/s3/5557/allegati/consiglio-del-copia/a4-silea-presezzo.pdf",
+ "zona": "Servizi per le attività",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "raccolte": {},
+ "info": "Card magnetica dall’Ecosportello e requisiti Albo. Per i materiali usare il calendario di zona. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+ "info_en": "Contact the waste operator to confirm business collection dates, holiday changes and eligibility.",
+ "note": [
+  "Card magnetica dall’Ecosportello e requisiti Albo. Per i materiali usare il calendario di zona. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi."
+ ]
+}

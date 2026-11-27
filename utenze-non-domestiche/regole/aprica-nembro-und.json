@@ -1,0 +1,19 @@
+{
+ "schema": 1,
+ "nome": "Aprica · Nembro UND · materiali",
+ "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/nembro-calendario-rd.pdf | https://www.apricaspa.it/it/nembro/servizi/raccolta-differenziata | https://www.apricaspa.it/it/nembro/servizi/centro-raccolta-rifiuti",
+ "voci": {
+  "carta e cartone puliti": {
+   "dove": "carta",
+   "nota": "Usare il circuito e la dotazione previsti per la propria sede."
+  },
+  "imballaggi in plastica, vetro e metallo": {
+   "dove": "varia",
+   "nota": "Seguire le frazioni e i contenitori indicati per il comune e la sede. Chiedere conferma per le attività e per i materiali fuori misura."
+  },
+  "ingombranti e RAEE": {
+   "dove": "varia",
+   "nota": "Verificare accesso con tessera e rifiuti autorizzati, oppure chiedere un ritiro aziendale."
+  }
+ }
+}

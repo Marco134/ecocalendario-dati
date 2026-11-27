@@ -1,0 +1,199 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-27",
+ "gestore": "Silea S.p.A.",
+ "fonte": "https://www.sileaspa.it/calendario-centri-di-raccolta-riciclerie/ | https://www.sileaspa.it/wp-content/uploads/2025/01/Vademecum_Raccolta4.0_Aziende_Web25.pdf",
+ "numero_verde": "800 004 590",
+ "accesso": "Nelle sedi abilitate verificare l’iscrizione alla categoria prevista, il mezzo autorizzato e i materiali ammessi. Richiedere QR o card secondo il Comune.",
+ "avviso": "Consultare il gestore prima del conferimento. Le sedi e gli orari dipendono dalla categoria e dal Comune.",
+ "centri": [
+  {
+   "id": "silea-226-und",
+   "tipo": "raccolta",
+   "comune": "Caprino Bergamasco",
+   "indirizzo": "Via Tribulina - 24030 - Caprino Bergamasco",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "16:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "16:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Card magnetica dall’Ecosportello e requisiti Albo. Il Comune chiede alle attività il Bidonchip per l’indifferenziato. Verificare con Silea eventuali variazioni. Gli orari sono generali salvo indicazione esplicita per ditte.",
+   "lat": 45.75692,
+   "lon": 9.48104,
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Caprino-Bg-ecocalendario26_web.pdf"
+  },
+  {
+   "id": "silea-20-und",
+   "tipo": "raccolta",
+   "comune": "Cortenova",
+   "indirizzo": "VIA CARREGGIATA - 23813 - Cortenova",
+   "per": "non_domestiche",
+   "orari": {
+    "3": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Il calendario indica modulo semplificato o formulario e requisiti Albo. Ecostazione Piazza Comunale primo sabato del mese 11:30–12:00, ammissione UND da confermare. La Carta indica FORSU non attiva. Verificare con Silea eventuali variazioni. Gli orari sono generali salvo indicazione esplicita per ditte.",
+   "lat": 46.01351,
+   "lon": 9.36879,
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Crandola-ecocalendario26_web.pdf"
+  },
+  {
+   "id": "silea-26-und",
+   "tipo": "raccolta",
+   "comune": "Garbagnate Monastero",
+   "indirizzo": "VIA ITALIA - 23846 - Garbagnate Monastero",
+   "per": "non_domestiche",
+   "orari": {
+    "4": [
+     [
+      "14:00",
+      "17:45"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Giovedì 14:00–17:45 per le ditte, QR aziendale e requisiti Albo. Verificare con Silea eventuali variazioni. Gli orari sono generali salvo indicazione esplicita per ditte.",
+   "lat": 45.76463,
+   "lon": 9.29602,
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Garbagnate-Mon-ecocalendario26_web.pdf"
+  },
+  {
+   "id": "silea-227-und",
+   "tipo": "raccolta",
+   "comune": "Mapello",
+   "indirizzo": "Via Giulio Natta - 24030 - Mapello",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "08:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Card magnetica da richiedere all’Ecosportello, requisiti Albo e tipologie autorizzate. Verificare con Silea eventuali variazioni. Gli orari sono generali salvo indicazione esplicita per ditte.",
+   "lat": 45.70113,
+   "lon": 9.55807,
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Mapello-ecocalendario26_web.pdf"
+  },
+  {
+   "id": "silea-317-und",
+   "tipo": "raccolta",
+   "comune": "Presezzo",
+   "indirizzo": "Via Vittorio Veneto - 24030 - Presezzo",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "18:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Card magnetica dall’Ecosportello e requisiti Albo. Per i materiali usare il calendario di zona. Verificare con Silea eventuali variazioni. Gli orari sono generali salvo indicazione esplicita per ditte.",
+   "lat": 45.68705,
+   "lon": 9.56079,
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Presezzo-ecocalendario26_web.pdf"
+  }
+ ]
+}

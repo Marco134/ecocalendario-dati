@@ -585,7 +585,12 @@
    "nome": "Bagnoregio",
    "provincia": "VT",
    "gestore": "Massimi Eco Soluzioni",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.comune.bagnoregio.vt.it/it/garbage-calendars | https://comune.bagnoregio.vt.it/it/vivere/741579 | https://www.halleyweb.com/c056003/zf/index.php/atti-amministrativi/determine/dettaglio/atto/G9WpNMkTEYz0-A",
+   "nota": "Il Comune identifica tre calendari UND. La consultazione online dei mesi novembre e dicembre 2026 e gennaio 2027 non restituisce turni. Chiedere all’ufficio ambiente i PDF aggiornati, le date festive e il programma per la specifica zona.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 3
   },
   {
    "id": "bairo",
@@ -1920,7 +1925,12 @@
    "nome": "Caprino Bergamasco",
    "provincia": "BG",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Caprino-Bg-ecocalendario26_web.pdf | https://www.comune.caprinobergamasco.bg.it/area-tematica/ambiente-ecologia",
+   "nota": "Turni del solo indifferenziato con Bidonchip, confermato per le attività dall’avviso comunale. Per le altre frazioni e eventuali servizi dedicati chiedere a Silea.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "caraglio",
@@ -2265,7 +2275,12 @@
    "nome": "Cassina Valsassina",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2026/08/Cassina-ecocalendario26_web-2.pdf",
+   "nota": "Verificare festivi e circuito ingombranti e ferrosi per l’attività. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "castagneto-po",
@@ -3396,7 +3411,12 @@
    "nome": "Crandola Valsassina",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Crandola-ecocalendario26_web.pdf",
+   "nota": "Il calendario indica modulo semplificato o formulario e requisiti Albo. Ecostazione Piazza Comunale primo sabato del mese 11:30–12:00, ammissione UND da confermare. La Carta indica FORSU non attiva. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "craveggia",
@@ -3677,7 +3697,12 @@
    "nome": "Dorio",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Dorio-ecocalendario26_web.pdf",
+   "nota": "Il calendario indica QR aziendale e requisiti Albo per il centro. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "dormelletto",
@@ -3794,7 +3819,12 @@
    "nome": "Erve",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Erve-ecocalendario26_web.pdf",
+   "nota": "Chiedere a Silea se le attività possono usare l’ecostazione e qual è il centro di conferimento competente. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "esine",
@@ -4093,7 +4123,12 @@
    "nome": "Garbagnate Monastero",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Garbagnate-Mon-ecocalendario26_web.pdf",
+   "nota": "Giovedì 14:00–17:45 per le ditte, QR aziendale e requisiti Albo. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "gardone-riviera",
@@ -4754,7 +4789,12 @@
    "nome": "Lasnigo",
    "provincia": "CO",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Lasnigo-ecocalendario26_web.pdf",
+   "nota": "Il calendario indica QR aziendale per il centro di Barni. Confermare i limiti e distinguere dagli impianti indicizzati per uso comunale. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "latera",
@@ -5265,7 +5305,12 @@
    "nome": "Mapello",
    "provincia": "BG",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Mapello-ecocalendario26_web.pdf",
+   "nota": "Card magnetica da richiedere all’Ecosportello, requisiti Albo e tipologie autorizzate. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "mappano",
@@ -6370,7 +6415,12 @@
    "nome": "Oliveto Lario",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Oliveto-ecocalendario26_web.pdf | https://www.sileaspa.it/news/oliveto-lario-avvio-misurazione-puntuale-e-distribuzioni-sacco-rosso/",
+   "nota": "Dal 4 maggio 2026 per il residuo è in vigore il sacco rosso identificato. Chiedere a Silea condizioni e distribuzione per l’attività. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "omegna",
@@ -6669,7 +6719,12 @@
    "nome": "Parlasco",
    "provincia": "LC",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Parlasco-ecocalendario26_web.pdf",
+   "nota": "Il calendario indica modulo semplificato o formulario e requisiti Albo. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "parrano",
@@ -7430,7 +7485,12 @@
    "nome": "Presezzo",
    "provincia": "BG",
    "gestore": "Silea S.p.A.",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://www.sileaspa.it/wp-content/uploads/2025/12/Presezzo-ecocalendario26_web.pdf | https://presezzo-api.municipiumapp.it/s3/5557/allegati/consiglio-del-copia/a4-silea-presezzo.pdf",
+   "nota": "Card magnetica dall’Ecosportello e requisiti Albo. Per i materiali usare il calendario di zona. Calendario generale di zona disponibile. Chiedere a Silea quali frazioni e date valgono per l’indirizzo e la categoria dell’attività e se nei festivi ci sono recuperi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "prevalle",
@@ -9274,9 +9334,9 @@
    "stato": "calendario_verificato",
    "valido_al": "2027-02-28",
    "verificato": "2026-11-27",
-   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare",
-   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi.",
-   "zone_und": 4
+   "fonte": "https://www.covar14.it/it/servizi-e-impianti/servizi/calendario-di-raccolta | https://www.covar14.it/it/servizi-e-impianti/servizi/raccolta-domiciliare | https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2025/12/Calendario-Covar14-2026-TROFARELLO-ZONA-5.pdf",
+   "nota": "Le attività possono richiedere giri aggiuntivi di carta e cartone, plastica e vetro. Chiedere a Co.Va.R. 14 il calendario attivo per l’indirizzo e i recuperi. Il PDF della zona 5 indica per le UND già abilitate cartone il giovedì e vetro il sabato. Confermare con il gestore la programmazione nei festivi e l’abilitazione del civico.",
+   "zone_und": 5
   },
   {
    "id": "trontano",
@@ -11921,7 +11981,10 @@
    "nome": "Settimo Milanese",
    "provincia": "MI",
    "gestore": "Mantova Ambiente / AMSA",
-   "stato": "da_verificare"
+   "stato": "fonte_individuata",
+   "fonte": "https://comune.settimomilanese.mi.it/servizio/p13-vorrei-richiedere-i-cassonetti-sacchetti-per-la-raccolta-differenziata-rifiuti/ | https://www.amsa.it/it/settimo-milanese/servizi/imprese/centro-raccolta-rifiuti | https://www.amsa.it/it/settimo-milanese/servizi/raccolta-differenziata | https://comune.settimomilanese.mi.it/servizio/p13-vorrei-richiedere-la-tessera-magnetica-accesso-alla-ricicleria-solo-per-ditte/",
+   "nota": "Il Comune identifica Mantova Ambiente per l’igiene urbana e lo sportello. Amsa pubblica informazioni operative. Validare con il gestore il programma UND per indirizzo, categorie e giorni festivi, le condizioni per ingombranti e il ruolo operativo delle due aziende. Il centro è documentato.",
+   "verificato": "2026-11-27"
   },
   {
    "id": "mantova",
@@ -12288,21 +12351,36 @@
    "nome": "Torre Boldone",
    "provincia": "BG",
    "gestore": "Aprica",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4878851/Calendario-raccolta-differenziata-2026.pdf | https://comune.torreboldone.bg.it/servizi/servizio-dettaglio/3521598 | https://www.apricaspa.it/it/torre-boldone/servizi/centro-raccolta-rifiuti",
+   "nota": "Il Comune riserva alle domestiche la scheda di raccolta generale. Il regolamento comprende anche attività produttive. Verificare il programma per via, categoria e festivi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "montano-lucino",
    "nome": "Montano Lucino",
    "provincia": "CO",
    "gestore": "Aprica",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/montano-lucino-calendario-rd.pdf | https://www.comune.montanolucino.co.it/it/page/raccolta-differenziata-cd4667a9-0753-48a9-8a51-277cafa45c13 | https://www.comune.montanolucino.co.it/it/page/sistema-di-accesso-al-centro-di-raccolta-rifiuti",
+   "nota": "Il calendario generale indica l’indifferenziato quindicinale da febbraio. Confermare con Aprica l’assegnazione dei turni alle attività e le variazioni festive.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "nembro",
    "nome": "Nembro",
    "provincia": "BG",
    "gestore": "Aprica",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/nembro-calendario-rd.pdf | https://www.apricaspa.it/it/nembro/servizi/raccolta-differenziata | https://www.apricaspa.it/it/nembro/servizi/centro-raccolta-rifiuti",
+   "nota": "I giorni del calendario generale richiedono conferma per la sede dell’attività e per i festivi.",
+   "valido_al": "2026-12-31",
+   "verificato": "2026-11-27",
+   "zone_und": 1
   },
   {
    "id": "seriate",

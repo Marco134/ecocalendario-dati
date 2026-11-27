@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Torre Boldone",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4878851/Calendario-raccolta-differenziata-2026.pdf | https://comune.torreboldone.bg.it/servizi/servizio-dettaglio/3521598 | https://www.apricaspa.it/it/torre-boldone/servizi/centro-raccolta-rifiuti",
+ "zona": "Servizi per le attività",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "raccolte": {},
+ "info": "Il Comune riserva alle domestiche la scheda di raccolta generale. Il regolamento comprende anche attività produttive. Verificare il programma per via, categoria e festivi.",
+ "info_en": "Contact the waste operator to confirm business collection dates, holiday changes and eligibility.",
+ "note": [
+  "Il Comune riserva alle domestiche la scheda di raccolta generale. Il regolamento comprende anche attività produttive. Verificare il programma per via, categoria e festivi."
+ ]
+}

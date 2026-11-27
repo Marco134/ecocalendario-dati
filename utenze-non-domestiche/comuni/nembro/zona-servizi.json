@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Nembro",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/nembro-calendario-rd.pdf | https://www.apricaspa.it/it/nembro/servizi/raccolta-differenziata | https://www.apricaspa.it/it/nembro/servizi/centro-raccolta-rifiuti",
+ "zona": "Servizi per le attività",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "raccolte": {},
+ "info": "I giorni del calendario generale richiedono conferma per la sede dell’attività e per i festivi.",
+ "info_en": "Contact the waste operator to confirm business collection dates, holiday changes and eligibility.",
+ "note": [
+  "I giorni del calendario generale richiedono conferma per la sede dell’attività e per i festivi."
+ ]
+}
