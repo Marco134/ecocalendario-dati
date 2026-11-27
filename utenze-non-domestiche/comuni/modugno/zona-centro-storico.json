@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "comune": "Modugno",
+ "provincia": "BA",
+ "gestore": "Navita",
+ "zona": "Centro storico",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba2.it/wp-content/uploads/2024/12/calendario-modugno-2017-und-11_12_24.pdf | https://www.aroba2.it/modugno/",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-29": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-06": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-13": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-20": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-27": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La carta si espone solo il lunedì. Per gli imballaggi di solo cartone seguire la griglia della zona."
+ ],
+ "esposizione": "Esporre dopo la chiusura dell’attività e comunque dalle 17:00 del giorno indicato."
+}

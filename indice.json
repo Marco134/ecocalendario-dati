@@ -23850,6 +23850,204 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "binetto",
+      "nome": "Binetto",
+      "provincia": "BA",
+      "gestore": "ARO BA/2",
+      "consorzio": "aroba2-binetto",
+      "lat": 41.024165,
+      "lon": 16.709581,
+      "zone_url": "https://www.aroba2.it/binetto/",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/binetto/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bitetto",
+      "nome": "Bitetto",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba2-bitetto",
+      "lat": 41.041408,
+      "lon": 16.748699,
+      "zone_url": "https://www.aroba2.it/bitetto/",
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/bitetto/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/bitetto/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-c",
+          "nome": "Zona C",
+          "file": "comuni/bitetto/zona-zona-c.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-d",
+          "nome": "Zona D",
+          "file": "comuni/bitetto/zona-zona-d.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/bitetto/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "bitritto",
+      "nome": "Bitritto",
+      "provincia": "BA",
+      "gestore": "ARO BA/2",
+      "consorzio": "aroba2-bitritto",
+      "lat": 41.044532,
+      "lon": 16.825185,
+      "zone_url": "https://www.aroba2.it/bitritto/",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/bitritto/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "giovinazzo",
+      "nome": "Giovinazzo",
+      "provincia": "BA",
+      "gestore": "Impregico",
+      "consorzio": "aroba2-giovinazzo",
+      "lat": 41.187501,
+      "lon": 16.671666,
+      "zone_url": "https://www.impregico.it/giovinazzo/",
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/giovinazzo/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/giovinazzo/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/giovinazzo/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "extraurbana",
+          "nome": "Zona extraurbana",
+          "file": "comuni/giovinazzo/zona-extraurbana.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "modugno",
+      "nome": "Modugno",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba2-modugno",
+      "lat": 41.082564,
+      "lon": 16.780552,
+      "zone_url": "https://www.aroba2.it/modugno/",
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/modugno/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/modugno/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-c",
+          "nome": "Zona C",
+          "file": "comuni/modugno/zona-zona-c.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-d",
+          "nome": "Zona D",
+          "file": "comuni/modugno/zona-zona-d.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-e",
+          "nome": "Zona E",
+          "file": "comuni/modugno/zona-zona-e.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/modugno/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "palo-del-colle",
+      "nome": "Palo del Colle",
+      "provincia": "BA",
+      "gestore": "Cogeir (proroga fino al 30/11/2026)",
+      "consorzio": "aroba2-palo-del-colle",
+      "lat": 41.057532,
+      "lon": 16.700782,
+      "zone_url": "https://www.aroba2.it/palo-del-colle/",
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Calendario da confermare",
+          "file": "comuni/palo-del-colle/zona-servizi.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sannicandro-di-bari",
+      "nome": "Sannicandro di Bari",
+      "provincia": "BA",
+      "gestore": "ARO BA/2",
+      "consorzio": "aroba2-sannicandro-di-bari",
+      "lat": 41.00052,
+      "lon": 16.797697,
+      "zone_url": "https://www.aroba2.it/sannicandro/",
+      "zone": [
+        {
+          "id": "porta-a-porta",
+          "nome": "Porta a porta",
+          "file": "comuni/sannicandro-di-bari/zona-porta-a-porta.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -24209,6 +24407,47 @@
       "gestore": "Ecotrash Company S.r.l.",
       "ecocentri": "ecocentri/ecotrash-nova-siri.json",
       "regole": "regole/ecotrash-basilicata.json"
+    },
+    "aroba2-binetto": {
+      "nome": "ARO BA/2 · Binetto",
+      "gestore": "ARO BA/2",
+      "ecocentri": "ecocentri/aroba2-binetto.json",
+      "regole": "regole/aroba2.json"
+    },
+    "aroba2-bitetto": {
+      "nome": "ARO BA/2 · Bitetto",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba2-bitetto.json",
+      "regole": "regole/aroba2.json"
+    },
+    "aroba2-bitritto": {
+      "nome": "ARO BA/2 · Bitritto",
+      "gestore": "ARO BA/2",
+      "ecocentri": "ecocentri/aroba2-bitritto.json",
+      "regole": "regole/aroba2.json"
+    },
+    "aroba2-giovinazzo": {
+      "nome": "ARO BA/2 · Giovinazzo",
+      "gestore": "Impregico",
+      "ecocentri": "ecocentri/aroba2-giovinazzo.json",
+      "regole": "regole/aroba2-giovinazzo.json"
+    },
+    "aroba2-modugno": {
+      "nome": "ARO BA/2 · Modugno",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba2-modugno.json",
+      "regole": "regole/aroba2.json"
+    },
+    "aroba2-palo-del-colle": {
+      "nome": "ARO BA/2 · Palo del Colle",
+      "gestore": "Cogeir (proroga fino al 30/11/2026)",
+      "ecocentri": "ecocentri/aroba2-palo-del-colle.json"
+    },
+    "aroba2-sannicandro-di-bari": {
+      "nome": "ARO BA/2 · Sannicandro di Bari",
+      "gestore": "ARO BA/2",
+      "ecocentri": "ecocentri/aroba2-sannicandro-di-bari.json",
+      "regole": "regole/aroba2.json"
     }
   },
   "tipi_en": {

@@ -2098,6 +2098,42 @@
    "zone_url": "https://www.geofor.it/bientina/calendario-raccolta-porta-a-porta/"
   },
   {
+   "id": "binetto",
+   "nome": "Binetto",
+   "provincia": "BA",
+   "gestore": "ARO BA/2",
+   "consorzio": "aroba2-binetto-und",
+   "lat": 41.024165,
+   "lon": 16.709581,
+   "zone_url": "https://www.aroba2.it/binetto/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta",
+     "file": "comuni/binetto/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "bitetto",
+   "nome": "Bitetto",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba2-bitetto-und",
+   "lat": 41.041408,
+   "lon": 16.748699,
+   "zone_url": "https://www.aroba2.it/bitetto/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Centro storico, urbano e zona artigianale",
+     "file": "comuni/bitetto/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "bitonto",
    "nome": "Bitonto",
    "provincia": "BA",
@@ -2117,6 +2153,24 @@
      "id": "mastelli",
      "nome": "Utenze con mastelli",
      "file": "comuni/bitonto/zona-mastelli.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "bitritto",
+   "nome": "Bitritto",
+   "provincia": "BA",
+   "gestore": "ARO BA/2",
+   "consorzio": "aroba2-bitritto-und",
+   "lat": 41.044532,
+   "lon": 16.825185,
+   "zone_url": "https://www.aroba2.it/bitritto/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta",
+     "file": "comuni/bitritto/zona-porta-a-porta.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -8990,6 +9044,36 @@
    ]
   },
   {
+   "id": "giovinazzo",
+   "nome": "Giovinazzo",
+   "provincia": "BA",
+   "gestore": "Impregico",
+   "consorzio": "aroba2-giovinazzo-und",
+   "lat": 41.187501,
+   "lon": 16.671666,
+   "zone_url": "https://www.impregico.it/giovinazzo/",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Centro urbano",
+     "file": "comuni/giovinazzo/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-storico",
+     "nome": "Centro storico",
+     "file": "comuni/giovinazzo/zona-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-industriale",
+     "nome": "Zona industriale",
+     "file": "comuni/giovinazzo/zona-zona-industriale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "givoletto",
    "nome": "Givoletto",
    "provincia": "TO",
@@ -11759,6 +11843,36 @@
    ]
   },
   {
+   "id": "modugno",
+   "nome": "Modugno",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba2-modugno-und",
+   "lat": 41.082564,
+   "lon": 16.780552,
+   "zone_url": "https://www.aroba2.it/modugno/",
+   "zone": [
+    {
+     "id": "urbana-artigianale",
+     "nome": "Zona urbana e artigianale",
+     "file": "comuni/modugno/zona-urbana-artigianale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-industriale",
+     "nome": "Zona industriale",
+     "file": "comuni/modugno/zona-zona-industriale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-storico",
+     "nome": "Centro storico",
+     "file": "comuni/modugno/zona-centro-storico.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "mombello-di-torino",
    "nome": "Mombello di Torino",
    "provincia": "TO",
@@ -13659,6 +13773,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/pallanzeno/",
    "ecocentri": "ecocentri/conser-vco-und-pallanzeno.json"
+  },
+  {
+   "id": "palo-del-colle",
+   "nome": "Palo del Colle",
+   "provincia": "BA",
+   "gestore": "Cogeir (proroga fino al 30/11/2026)",
+   "consorzio": "aroba2-palo-del-colle-und",
+   "lat": 41.057532,
+   "lon": 16.700782,
+   "zone_url": "https://www.aroba2.it/palo-del-colle/",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Calendario da confermare",
+     "file": "comuni/palo-del-colle/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "pancalieri",
@@ -17758,6 +17890,24 @@
     }
    ],
    "zone_url": "https://cidiu.it/cidiu/comune-di-sangano/"
+  },
+  {
+   "id": "sannicandro-di-bari",
+   "nome": "Sannicandro di Bari",
+   "provincia": "BA",
+   "gestore": "ARO BA/2",
+   "consorzio": "aroba2-sannicandro-di-bari-und",
+   "lat": 41.00052,
+   "lon": 16.797697,
+   "zone_url": "https://www.aroba2.it/sannicandro/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta",
+     "file": "comuni/sannicandro-di-bari/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "sant-ambrogio-di-torino",
@@ -22416,6 +22566,47 @@
    "gestore": "Ecotrash Company S.r.l.",
    "ecocentri": "ecocentri/ecotrash-nova-siri-und.json",
    "regole": "regole/ecotrash-basilicata.json"
+  },
+  "aroba2-binetto-und": {
+   "nome": "ARO BA/2 · Binetto",
+   "gestore": "ARO BA/2",
+   "ecocentri": "ecocentri/aroba2-binetto-und.json",
+   "regole": "regole/aroba2.json"
+  },
+  "aroba2-bitetto-und": {
+   "nome": "ARO BA/2 · Bitetto",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba2-bitetto-und.json",
+   "regole": "regole/aroba2.json"
+  },
+  "aroba2-bitritto-und": {
+   "nome": "ARO BA/2 · Bitritto",
+   "gestore": "ARO BA/2",
+   "ecocentri": "ecocentri/aroba2-bitritto-und.json",
+   "regole": "regole/aroba2.json"
+  },
+  "aroba2-giovinazzo-und": {
+   "nome": "ARO BA/2 · Giovinazzo",
+   "gestore": "Impregico",
+   "ecocentri": "ecocentri/aroba2-giovinazzo-und.json",
+   "regole": "regole/aroba2-giovinazzo.json"
+  },
+  "aroba2-modugno-und": {
+   "nome": "ARO BA/2 · Modugno",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba2-modugno-und.json",
+   "regole": "regole/aroba2.json"
+  },
+  "aroba2-palo-del-colle-und": {
+   "nome": "ARO BA/2 · Palo del Colle",
+   "gestore": "Cogeir (proroga fino al 30/11/2026)",
+   "ecocentri": "ecocentri/aroba2-palo-del-colle-und.json"
+  },
+  "aroba2-sannicandro-di-bari-und": {
+   "nome": "ARO BA/2 · Sannicandro di Bari",
+   "gestore": "ARO BA/2",
+   "ecocentri": "ecocentri/aroba2-sannicandro-di-bari-und.json",
+   "regole": "regole/aroba2.json"
   }
  }
 }

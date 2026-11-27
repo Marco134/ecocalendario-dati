@@ -1,0 +1,98 @@
+{
+ "schema": 1,
+ "comune": "Bitetto",
+ "provincia": "BA",
+ "gestore": "Navita",
+ "zona": "Centro storico",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/Calendario_UD_Bitetto-01-10-2017.pdf | https://www.aroba2.it/bitetto/",
+ "raccolte": {
+  "2026-11-27": [
+   "carta"
+  ],
+  "2026-11-29": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-06": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-13": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-20": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-27": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma."
+ ],
+ "esposizione": "Esposizione fra le 21:00 e le 24:00 del giorno riportato nella griglia."
+}

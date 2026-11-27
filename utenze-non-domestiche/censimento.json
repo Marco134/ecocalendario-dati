@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1174,
+ "totale": 1181,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12521,6 +12521,90 @@
    "fonte": "https://ciclatambiente.it/wp-content/uploads/2024/05/CARTA-DEI-SERVIZI-COMUNE-DI-NOVA-SIRI.pdf | https://www.ecotrash.it/comuni-serviti/",
    "verificato": "2026-11-27",
    "nota": "La Carta indica un circuito del cartone per attività commerciali. Chiedere date, condizioni e frazioni ordinarie per la sede.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "binetto",
+   "nome": "Binetto",
+   "provincia": "BA",
+   "gestore": "ARO BA/2",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_binetto_UND_2017.pdf | https://www.aroba2.it/binetto/",
+   "verificato": "2026-11-27",
+   "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La guida riserva il conferimento della carta al lunedì sera, con ritiro martedì. Per il cartone commerciale il testo e il simbolo del sabato non coincidono. Verificare il sabato con ARO BA/2.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "bitetto",
+   "nome": "Bitetto",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/Calendario_UND_Bitetto-01-10-2017.pdf | https://www.aroba2.it/bitetto/",
+   "verificato": "2026-11-27",
+   "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La carta si espone il venerdì sera. Il cartone commerciale segue il giro separato indicato nella guida.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "bitritto",
+   "nome": "Bitritto",
+   "provincia": "BA",
+   "gestore": "ARO BA/2",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_bitritto_UND_2019.pdf | https://www.aroba2.it/bitritto/",
+   "verificato": "2026-11-27",
+   "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La guida riserva il conferimento della carta al lunedì sera, con ritiro martedì. Per il cartone commerciale il testo e il simbolo del sabato non coincidono. Verificare il sabato con ARO BA/2. Il giro aggiuntivo dell’organico di martedì, giovedì e sabato riguarda solo attività alimentari soggette a HACCP.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "giovinazzo",
+   "nome": "Giovinazzo",
+   "provincia": "BA",
+   "gestore": "Impregico",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.impregico.it/wp-content/uploads/2024/11/28-11-24-und-giovinazzo.jpg | https://www.impregico.it/giovinazzo/",
+   "verificato": "2026-11-27",
+   "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. Il simbolo azzurro identifica il giro separato del cartone indicato giovedì.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "modugno",
+   "nome": "Modugno",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2024/12/calendario-modugno-2017-und-11_12_24.pdf | https://www.aroba2.it/modugno/",
+   "verificato": "2026-11-27",
+   "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La carta si espone solo il lunedì. Per gli imballaggi di solo cartone seguire la griglia della zona.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "palo-del-colle",
+   "nome": "Palo del Colle",
+   "provincia": "BA",
+   "gestore": "Cogeir (proroga fino al 30/11/2026)",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/paolo-del-colle-calendario-unificato-2017.pdf | https://www.aroba2.it/palo-del-colle/ | https://egov.hseweb.it/palodelcolle/zf/index.php/atti-amministrativi/determine/dettaglio/atto/G9WpjeUTEZz0-A/provvedimenti/0/categoria/126 | https://palodelcolle.halleyweb.it/palodelcolle/zf/index.php/trasparenza/index/visualizza-documento-generico/categoria/140/documento/2336",
+   "verificato": "2026-11-27",
+   "nota": "L’atto comunale indica la proroga Cogeir fino al 30 novembre 2026. Chiedere al Comune chi gestirà il servizio dal 1° dicembre, quali guide UD e UND saranno in vigore e come prenotare i ritiri.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "sannicandro-di-bari",
+   "nome": "Sannicandro di Bari",
+   "provincia": "BA",
+   "gestore": "ARO BA/2",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_sannicandro_UND_2018.pdf | https://www.aroba2.it/sannicandro/",
+   "verificato": "2026-11-27",
+   "nota": "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La guida riserva il conferimento della carta al lunedì sera, con ritiro martedì. Per il cartone commerciale il testo e il simbolo del sabato non coincidono. Verificare il sabato con ARO BA/2.",
    "valido_al": "2026-12-31",
    "zone_und": 1
   }

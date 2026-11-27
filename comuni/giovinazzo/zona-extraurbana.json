@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "comune": "Giovinazzo",
+ "provincia": "BA",
+ "gestore": "Impregico",
+ "zona": "Zona extraurbana",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.impregico.it/wp-content/uploads/2024/11/27-11-giovinazzo-ud.jpg | https://www.impregico.it/giovinazzo/",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "carta",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Per il centro storico e la zona extraurbana confermare con il gestore la fascia di esposizione. Il circuito pannoloni ha regole dedicate."
+ ],
+ "esposizione": "Nel centro storico e nella zona extraurbana chiedere la fascia per il civico."
+}

@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "comune": "Sannicandro di Bari",
+ "provincia": "BA",
+ "gestore": "ARO BA/2",
+ "zona": "Porta a porta",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_sannicandro_UND_2018.pdf | https://www.aroba2.it/sannicandro/",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Verificare la zona e gli avvisi del gestore. Programma ordinario estratto dalla guida pubblica. Le variazioni festive e i turni 2027 richiedono conferma. Centro, ingombranti, organico e frequenze dedicate dipendono dalla tipologia di attività. La guida riserva il conferimento della carta al lunedì sera, con ritiro martedì. Per il cartone commerciale il testo e il simbolo del sabato non coincidono. Verificare il sabato con ARO BA/2."
+ ],
+ "esposizione": "Dalle 19:00 del giorno precedente alle 02:00 del giorno di ritiro.",
+ "esposizione_entro": "02:00"
+}

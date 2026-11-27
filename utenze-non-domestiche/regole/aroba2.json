@@ -1,0 +1,1107 @@
+{
+ "schema": 1,
+ "nome": "ARO BA/2 · Dizionario di conferimento",
+ "fonte": "http://www.aroba5.it/wp-content/uploads/2016/05/elenco-rifiuti_aroba2.pdf",
+ "voci": {
+  "imballaggi in plastica e metalli": {
+   "dove": "plastica",
+   "nota": "Conferire insieme nella raccolta multimateriale."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Vuotare e seguire la guida della carta per il civico e la propria utenza."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire nel vetro, distinguendo cristallo, ceramica e pirex."
+  },
+  "piatti di ceramica e pirex": {
+   "dove": "indifferenziato",
+   "nota": "Per grandi pezzi o quantità chiedere al centro di raccolta."
+  },
+  "bicchieri di cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Per grandi pezzi o quantità chiedere al centro di raccolta."
+  },
+  "piatti usa e getta compostabili": {
+   "dove": "organico",
+   "nota": "Usare le modalità locali per l’organico."
+  },
+  "cartone per pizza pulito": {
+   "dove": "carta",
+   "nota": "Conferire la parte pulita nella carta."
+  },
+  "pile esauste": {
+   "dove": "varia",
+   "nota": "Usare i contenitori dedicati o il centro abilitato."
+  },
+  "accendini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "addobbi natalizi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "adesivi (anche retro)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "agende senza copertine di plastica o pelle": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "alcool (contenitore vuoto e sciacquato)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "alimenti (avanzi o scarti)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "alluminio per alimenti (vaschette e fogli puliti)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "assorbenti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "astuccio": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bambole di plastica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bambù (non trattato)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "barattoli di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "barattoli di vetro (senza tappo)": {
+   "dove": "vetro",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bastoncini cotonati (cotton fioc)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "batuffoli di cotone": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bende e garze": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bicchieri e piatti di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta da forno (nuova o usata)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta da regalo": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta patinata": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta pergamenata": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta plastificata per alimenti (non separabile)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta sporca di colla o grassi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta stagnola (es. interno del paccodi sigarette)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta stagnola (solo alluminio) pulita": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta stagnola sporca": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta termica (scontrini, fax, ecc.)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta velina": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta vetrata": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cartoline": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cartoncino": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cartone da imballaggi": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cassette audio e video": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "casse e cassette di plastica (piccole dimensioni)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cassette audio video": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cavi e fili elettrici (piccole quantità)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cd/dvd": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cellophane con residui di cibo o altre sostanze": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cellophane senza residui di cibo": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cera": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cerini e fiammiferi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cerotti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cialde di caffè di carta": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cialde di caffè di plastica o alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "colori in tubetto": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "coltelli": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "ferri da maglia e uncinetti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fiale di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fiammiferi e cerini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "figurine adesive, stickers": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fili e cavi elettrici (piccole quantità)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "film e pellicole da imballaggio": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "film inchiostrato per fax, calcolatrici, ecc.": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "filo interdentale": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "filtri di tè o tisane": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fiori finti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fiori secchi e recisi": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "flaconi di vetro": {
+   "dove": "vetro",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "floppy disk": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fogli di carta o cartone": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "foglie": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "forbici di materiali misti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "fotografie/carta fotografica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "frutta (scarti o avanzi)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gancetti per sacchetti da freezer": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "garze": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "giocattoli piccoli senza componenti elettroniche": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gomma da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gomma e gommapiuma": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gomme per cancellare": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lenti a contatto": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lettiera minerale per gatti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lettiera naturale per gatti": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lische di pesce": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lucidascarpe": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "matite di legno": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "metro da sarta": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "metro pieghevole di legno": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "mollette da bucato": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "mozziconi di sigaretta, sigarette, sigari": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "musicassette": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "nastri magnetici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "nastri per regali": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "nastro adesivo": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "negativi fotografici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "nylon": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "noccioli/noci di cocco verde-ramaglie": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "occhiali": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "piume": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pizza": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "polistirolo di vaschette alimentari": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "polvere da pulizie domestiche": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "porcellana": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "portauova di carta pressata": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "portauova di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "posate usa e getta (non compostabili)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "posate usa e getta compostabili": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "preservativi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "profumi (contenitore vuoto di sola plastica)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "quotidiani": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "radiografie": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "rafia naturale": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "rafia sintetica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "retine di plastica per frutta e verdura": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "reggette per legatura pacchi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "righelli e squadrette": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "riviste e giornali": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sottovasi di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "spazzola adesiva/rullo (foglietti usati)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "spazzole e pettini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "spazzolini usati": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "spiedini di legno": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "spugne": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "stecco gelato": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "stoviglie di carta (senza residui di cibo)": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "stracci sporchi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sturalavandini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "stuzzicadenti": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sughero naturale": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tabacco": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tamponi per timbri": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "taniche di plastica per uso domestico (max 5 l)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tappi di metallo e di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tappi di silicone": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tappi di sughero naturale": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tappi di sughero sintetico": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tazze e tazzine di ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "vaschette di polistirolo per alimenti": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "vasetti per yogurt (sciacquati)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "vasi da fiori di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "verdura (scarti o avanzi)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "videogiochi (cd/cartucce)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "zanzariere (tela)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "zerbini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "zuppiere di ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "zuppiere di vetro": {
+   "dove": "vetro",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bigiotteria": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "biglie di vetro": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "biro": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bombolette alluminio non pericolose": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "borse di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bottiglie di plastica di prodotti per l'igiene": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bottiglie di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bottiglie di vetro (senza tappo)": {
+   "dove": "vetro",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bottoni": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "bucce di frutta": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "buste da lettera (anche con finestrella)": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "buste di carta": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "buste di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "buste e sacchetti per alimenti (pasta, riso, ecc.)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "buste per freezer (senza residui di cibo)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "calamite": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "calendari di carta": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "calze di nylon o microfibra": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "candele": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta carbone": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta cerata": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "carta chimica (moduli, ecc.)": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "confezioni blister di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "confezioni blister misti carta/plastica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "confezioni di patatine chips e snack simili": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "coperchio del vasetto di yogurt (pulito)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cornici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cosmetici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cotone idrofilo": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "cover per cellulari": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "dischetti per computer": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "dischi di vinile": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "depliant": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "diario (solo parti di carta e cartone)": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "disinfettante (contenitori vuoti e puliti)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "divisori di plastica per dolciumi": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "ecografie": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "elastici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "erba di prato (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "etichette adesive per indumenti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "evidenziatori": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "faldoni per ufficio (senza parti metalliche)": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "feltrini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gratta e vinci": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "guanti di gomma": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "guanti di lattice": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "guarnizioni usate": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gusci di crostacei o molluschi": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "gusci di frutta secca": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "guscio d'uovo": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "imballaggi di carta": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "imballaggi di metallo": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "imballaggi di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "imballaggi di polistirolo (piccole quantità)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "imballaggi di vetro": {
+   "dove": "vetro",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "incarti di brioches, snack, ecc.": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "incensi": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "insetti": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "involucro cassette audio/video/cd": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lacca per capelli (contenitore vuoto)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lamette usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "latta": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lattine di acciaio": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "lattine di alluminio": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "legno di piccole dimensioni": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "ombrelli": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "opuscoli (non plastificati)": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "ortaggi": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "ossi (avanzi di cibo)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "ovatta": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "oggetti di legno verniciato di piccole dimensioni": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "paglia": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "palloncini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "palloni da gioco": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pane (avanzi o scarti)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "panni elettrostatici per la polvere": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pannolini e assorbenti non biodegradabili": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pelle di camoscio": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pelle per pulizia auto": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pellicola fotografica": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pellicola per alimenti senza residui di cibo": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "penne e pennarelli": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pennelli": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pergamena": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pesce": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pettini e spazzole": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "piante senza vaso (di piccole dimensioni)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "piastrine per zanzare": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "piatti di ceramica, pirex, porcellana": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "piatti e bicchieri usa e getta compostabili": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "piatti e bicchieri usa e getta di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "pirex": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "rocchetti per filo": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "rossetto": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "rullini fotografici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sacchetti di aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sacchetti di carta con finestrella di plastica": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sacchetti di carta con interno plastificato": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sacchetti e sacchi di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sacchi e sacchetti di carta puliti": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "salviette umidificate": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sapone": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "scarti di cibo": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "scatole e scatoloni di cartone": {
+   "dove": "carta",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "scopini wc": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "scotch": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "segatura (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "sigarette e sigari": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "termometri manuali": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "terriccio per piante": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "timbri": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tinture per abiti (contenitori puliti)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tovaglie di carta sporche": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "trucchi e cosmetici": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tubetti di colore": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "tubetto di dentifricio": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "uncinetti e ferri da maglia": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "unghie": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "unguenti": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "uova": {
+   "dove": "organico",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "utensili": {
+   "dove": "indifferenziato",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "vaschette di gelato (sciacquate)": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  },
+  "vaschette di plastica": {
+   "dove": "plastica",
+   "nota": "Per le UND valgono le regole e i limiti della propria attività."
+  }
+ }
+}

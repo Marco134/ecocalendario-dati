@@ -1,0 +1,23 @@
+{
+ "schema": 1,
+ "nome": "Impregico · Giovinazzo",
+ "fonte": "https://www.impregico.it/giovinazzo/",
+ "voci": {
+  "olio alimentare esausto": {
+   "dove": "varia",
+   "nota": "Punti presso il parco Scianatico o l’area mercatale settimanale."
+  },
+  "farmaci scaduti": {
+   "dove": "varia",
+   "nota": "Conferire presso le farmacie comunali o il CCR secondo le condizioni del servizio."
+  },
+  "lampadine e neon": {
+   "dove": "varia",
+   "nota": "Portare al CCR o verificare il ritiro presso i rivenditori."
+  },
+  "sfalci di potatura": {
+   "dove": "varia",
+   "nota": "Portare al CCR. Impregico ammette piccoli quantitativi in un sacchetto semitrasparente nei giorni dell’organico."
+  }
+ }
+}

@@ -5772,6 +5772,146 @@
    "regole_en": [
     "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
    ]
+  },
+  {
+   "id": "aroba2-binetto-und",
+   "nome": "ARO BA/2 · Binetto · UND",
+   "gestori": [],
+   "comuni": [
+    "binetto"
+   ],
+   "telefono": "800 999 531",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_UD_binetto_2018.pdf | https://www.aroba2.it/binetto/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "Ritiro al piano strada su prenotazione. La guida riporta un massimo di tre pezzi."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
+  },
+  {
+   "id": "aroba2-bitetto-und",
+   "nome": "Navita · Bitetto · UND",
+   "gestori": [],
+   "comuni": [
+    "bitetto"
+   ],
+   "telefono": "800 098 563",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2024/05/Carta_Servizi_-_Comune_di_Bitetto_-_27_12_2022-10_32_14.pdf | https://www.aroba2.it/bitetto/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "Ritiro al piano strada su prenotazione. La guida riporta un massimo di tre pezzi. Il recapito attuale è quello della pagina di servizio."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
+  },
+  {
+   "id": "aroba2-bitritto-und",
+   "nome": "ARO BA/2 · Bitritto · UND",
+   "gestori": [],
+   "comuni": [
+    "bitritto"
+   ],
+   "telefono": "800 999 531",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_bitritto_UD_2019.pdf | https://www.aroba2.it/bitritto/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "Ritiro al piano strada su prenotazione. La guida riporta un massimo di tre pezzi."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
+  },
+  {
+   "id": "aroba2-giovinazzo-und",
+   "nome": "Impregico · Giovinazzo · UND",
+   "gestori": [],
+   "comuni": [
+    "giovinazzo"
+   ],
+   "telefono": "800 195 314",
+   "fonte": "https://www.impregico.it/giovinazzo/ | https://www.impregico.it/giovinazzo/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "Prenotare la raccolta a chiamata con Impregico. Confermare tipologia e limiti."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
+  },
+  {
+   "id": "aroba2-modugno-und",
+   "nome": "Navita · Modugno · UND",
+   "gestori": [],
+   "comuni": [
+    "modugno"
+   ],
+   "telefono": "800 098 563",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2024/05/Carta_Servizi_-_Comune_di_Modugno_-_29_12_2022-15_49_05.pdf | https://www.aroba2.it/modugno/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "Ritiro al piano strada su prenotazione. La guida riporta un massimo di tre pezzi."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
+  },
+  {
+   "id": "aroba2-palo-del-colle-und",
+   "nome": "Cogeir (proroga fino al 30/11/2026) · Palo del Colle · UND",
+   "gestori": [],
+   "comuni": [
+    "palo-del-colle"
+   ],
+   "telefono": "800 405 633",
+   "fonte": "https://palodelcolle.halleyweb.it/palodelcolle/zf/index.php/trasparenza/index/visualizza-documento-generico/categoria/140/documento/2336 | https://egov.hseweb.it/palodelcolle/zf/index.php/atti-amministrativi/determine/dettaglio/atto/G9WpjeUTEZz0-A/provvedimenti/0/categoria/126 | https://www.aroba2.it/palo-del-colle/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "L’atto comunale indica la proroga Cogeir fino al 30 novembre 2026. Chiedere al Comune chi gestirà il servizio dal 1° dicembre, quali guide UD e UND saranno in vigore e come prenotare i ritiri."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
+  },
+  {
+   "id": "aroba2-sannicandro-di-bari-und",
+   "nome": "ARO BA/2 · Sannicandro di Bari · UND",
+   "gestori": [],
+   "comuni": [
+    "sannicandro-di-bari"
+   ],
+   "telefono": "800 999 531",
+   "fonte": "https://www.aroba2.it/wp-content/uploads/2016/05/calendario_sannicandro_UD_2018.pdf | https://www.aroba2.it/sannicandro/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Prima di prenotare chiedere se l’attività è ammessa al ritiro e quali limiti si applicano.",
+    "Ritiro al piano strada su prenotazione. La guida riporta un massimo di tre pezzi."
+   ],
+   "regole_en": [
+    "Check eligibility and collection limits with the provider."
+   ]
   }
  ]
 }
