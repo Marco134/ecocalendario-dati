@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "comune": "Carmagnola",
+ "provincia": "TO",
+ "gestore": "CCS – Consorzio Chierese per i Servizi",
+ "zona": "Zona E · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/CARMAGNOLA-ZONA-E_2026.pdf | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://deviziachierese.it/wp-content/uploads/2026/01/CARMAGNOLA-ZONA-A_2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ]
+ },
+ "esposizione": "Usare la dotazione assegnata. Chiedere a CCS orario e luogo esatti di esposizione per il civico.",
+ "note": [
+  "Il PDF 2026 indica martedì e venerdì per il Cartone gratuito su domanda. Confermare con De Vizia recuperi nei festivi e requisiti.",
+  "Per il 2027 verificare la nuova edizione e gli avvisi."
+ ]
+}

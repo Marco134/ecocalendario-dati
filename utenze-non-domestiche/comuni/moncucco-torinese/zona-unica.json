@@ -1,0 +1,52 @@
+{
+ "schema": 1,
+ "comune": "Moncucco Torinese",
+ "provincia": "AT",
+ "gestore": "CCS – Consorzio Chierese per i Servizi",
+ "zona": "Zona unica · UND ordinaria",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.comune.moncucco.asti.it/portals/2030/SiscomArchivio/6/MONCUCCO%203.PDF | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.moncucco.asti.it/Dettaglionews?IDNews=273408",
+ "raccolte": {
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "vetro"
+  ],
+  "2026-12-08": [
+   "plastica"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-27": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico"
+  ]
+ },
+ "esposizione": "Usare la dotazione assegnata. Chiedere a CCS orario e luogo esatti di esposizione per il civico.",
+ "note": [
+  "CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+  "Per il 2027 verificare la nuova edizione e gli avvisi."
+ ]
+}

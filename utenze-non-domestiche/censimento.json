@@ -288,7 +288,12 @@
    "nome": "Andezeno",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.andezeno.to.it/it-it/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti | https://www.ccs.to.it/aree-tematiche/modulistica/andezeno",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. Cartone gratuito su richiesta. Confermare giornate con l’Ecosportello.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "andrate",
@@ -397,7 +402,12 @@
    "nome": "Arignano",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.ccs.to.it/calendari-raccolta",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "arizzano",
@@ -607,7 +617,12 @@
    "nome": "Baldissero Torinese",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://comune.baldisserotorinese.to.it/novita/comunicato-stampa-nuovi-calendari-raccolta-rifiuti-1-ottobre-2025-31-dicembre-2026/",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "baldissero-d-alba",
@@ -1681,7 +1696,12 @@
    "nome": "Cambiano",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://comune.cambiano.to.it/novita/nuovo-calendario-raccolta-rifiuti-_-1-ottobre-2025-31-dicembre-2026/",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "cambiasca",
@@ -1961,7 +1981,12 @@
    "nome": "Carmagnola",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://deviziachierese.it/calendari-raccolta/calendari-raccolta-carmagnola/ | https://deviziachierese.it/wp-content/uploads/2026/01/CARMAGNOLA-ZONA-A_2026.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. Il PDF 2026 indica martedì e venerdì per il Cartone gratuito su domanda. Confermare con De Vizia recuperi nei festivi e requisiti.",
+   "valido_al": "2026-12-31",
+   "zone_und": 6
   },
   {
    "id": "carnate",
@@ -2844,7 +2869,12 @@
    "nome": "Chieri",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://comune.chieri.to.it/it/garbage-calendars | https://www.ccs.to.it/aree-tematiche/modulistica/chieri",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. Il CCS pubblica il modulo per attivare il giro cartone. Chiedere frequenza, indirizzo, categorie e recuperi. Il calendario digitale Utenza Pubblica consultato risultava vuoto.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "chiesa-in-valmalenco",
@@ -4538,7 +4568,12 @@
    "nome": "Isolabella",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.ccs.to.it/calendari-raccolta",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "issiglio",
@@ -5189,7 +5224,12 @@
    "nome": "Marentino",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.ccs.to.it/calendari-raccolta",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "margarita",
@@ -5562,7 +5602,12 @@
    "nome": "Mombello di Torino",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.mombelloditorino.to.it/Home/Menu?IDVoceMenu=152803",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "mompantero",
@@ -5630,7 +5675,12 @@
    "nome": "Moncucco Torinese",
    "provincia": "AT",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.moncucco.asti.it/Dettaglionews?IDNews=273408",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "monforte-d-alba",
@@ -5687,7 +5737,12 @@
    "nome": "Montaldo Torinese",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://comune.montaldotorinese.to.it/it-it/servizi/modulistica",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "montalenghe",
@@ -5938,7 +5993,12 @@
    "nome": "Moriondo Torinese",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.ccs.to.it/calendari-raccolta",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "mornago",
@@ -6565,7 +6625,12 @@
    "nome": "Pavarolo",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.pavarolo.to.it/it-it/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "pavone-canavese",
@@ -6582,7 +6647,12 @@
    "nome": "Pecetto Torinese",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.pecetto.to.it/it-it/novita/avvisi/2025/ambiente-verde-e-rifiuti/nuovi-calendari-raccolta-rifiuti-1-ottobre-2025-31-dicembre-2026-362743-1-a9965971f96ed5c5d9bc823dbb52747a",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "pederobba",
@@ -6838,7 +6908,12 @@
    "nome": "Pino Torinese",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://comune.pinotorinese.to.it/novita/nuovi-calendari-raccolta-rifiuti-2/",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "piobesi-torinese",
@@ -6933,7 +7008,12 @@
    "nome": "Poirino",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.ccs.to.it/calendari-raccolta | https://www.ccs.to.it/flex/files/1/5/b/D.516b687ff1df9c3980b2/MODULO_CARTONE_POIRINO.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. I PDF 2026 indicano martedì e venerdì per il Cartone su domanda. Verificare con De Vizia recuperi nei festivi e copertura della sede. Nelle case sparse controllare anche le istruzioni per l’organico.",
+   "valido_al": "2026-12-31",
+   "zone_und": 8
   },
   {
    "id": "polpenazze-del-garda",
@@ -7116,7 +7196,12 @@
    "nome": "Pralormo",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.pralormo.to.it/it-it/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. CCS invia alle categorie interessate eventuali calendari integrativi. Chiedere all’Ecosportello il programma del civico, i festivi e l’eventuale giro dedicato.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "pramollo",
@@ -7433,7 +7518,12 @@
    "nome": "Riva presso Chieri",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "calendario_verificato",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://comune.rivapressochieri.to.it/novita/modifica-calendario-raccolta-rifiuti/ | https://www.ccs.to.it/flex/files/1/0/a/D.e9e19843f0f72316cc28/rivacartone.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Ordinario di zona verificato nei PDF disponibili. I turni integrativi dipendono dalla categoria e dall’attivazione. Cartone gratuito previa domanda. Il nuovo PDF sostituisce la versione con errori di stampa sui giorni di plastica e metalli.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "rivalba",
@@ -8225,7 +8315,12 @@
    "nome": "Santena",
    "provincia": "TO",
    "gestore": "CCS – Consorzio Chierese per i Servizi",
-   "stato": "da_verificare"
+   "stato": "scheda_informativa",
+   "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.comune.santena.to.it/Servizi?ID=113913 | https://www.ccs.to.it/aree-tematiche/modulistica/santena",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario ordinario è indicizzato dal CCS. Le date applicabili alla sede e i giri aggiuntivi UND richiedono conferma. Il modulo CCS segnala giorni del Cartone cambiati. La pagina comunale indica martedì e sabato e conserva avvisi 2023. Chiedere all’Ecosportello il modulo vigente e le date.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   },
   {
    "id": "santo-stefano-belbo",

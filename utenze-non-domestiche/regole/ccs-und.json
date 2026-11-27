@@ -1,0 +1,35 @@
+{
+ "schema": 1,
+ "nome": "Consorzio Chierese per i Servizi · materiali UND",
+ "fonte": "https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf | https://www.ccs.to.it/flex/files/1/5/b/D.516b687ff1df9c3980b2/MODULO_CARTONE_POIRINO.pdf",
+ "voci": {
+  "carta, cartone e cartoni in Tetra Pak": {
+   "dove": "carta",
+   "nota": "Nel contenitore assegnato alla carta secondo il calendario ordinario."
+  },
+  "scatole, scatoloni e cassette da frutta in cartoncino": {
+   "dove": "carta",
+   "nota": "Nel giro Cartone per aziende abilitate, ove disponibile. Piegare gli imballaggi e separare gli elementi estranei."
+  },
+  "imballaggi in plastica e in metallo": {
+   "dove": "plastica",
+   "nota": "Raccolta congiunta nel sacco previsto da CCS. Confermare la dotazione aziendale."
+  },
+  "imballaggi in vetro": {
+   "dove": "vetro",
+   "nota": "Nel contenitore del vetro. Verificare la dotazione aziendale e il centro per vetro in lastre."
+  },
+  "scarti alimentari ammessi dal servizio urbano": {
+   "dove": "organico",
+   "nota": "Nel recipiente dedicato secondo la dotazione dell’attività."
+  },
+  "carta da pacco con strati di materiali diversi": {
+   "dove": "indifferenziato",
+   "nota": "Il Centalogo indica il rifiuto non recuperabile quando la carta non è pura."
+  },
+  "toner esausto, ingombranti e RAEE": {
+   "dove": "varia",
+   "nota": "Chiedere al gestore se il centro li accetta per l’attività o se occorre il circuito professionale."
+  }
+ }
+}

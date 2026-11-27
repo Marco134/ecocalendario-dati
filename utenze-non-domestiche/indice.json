@@ -504,6 +504,24 @@
    ]
   },
   {
+   "id": "andezeno",
+   "nome": "Andezeno",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0359,
+   "lon": 7.8699,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/andezeno/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.andezeno.to.it/it-it/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti"
+  },
+  {
    "id": "andrate",
    "nome": "Andrate",
    "provincia": "TO",
@@ -699,6 +717,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "arignano",
+   "nome": "Arignano",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.044,
+   "lon": 7.9024,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/arignano/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.ccs.to.it/calendari-raccolta"
   },
   {
    "id": "arizzano",
@@ -1191,6 +1227,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "baldissero-torinese",
+   "nome": "Baldissero Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0684,
+   "lon": 7.8178,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/baldissero-torinese/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.baldisserotorinese.to.it/novita/comunicato-stampa-nuovi-calendari-raccolta-rifiuti-1-ottobre-2025-31-dicembre-2026/"
   },
   {
    "id": "balme",
@@ -3208,6 +3262,24 @@
    ]
   },
   {
+   "id": "cambiano",
+   "nome": "Cambiano",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.9735,
+   "lon": 7.7793,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/cambiano/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.cambiano.to.it/novita/nuovo-calendario-raccolta-rifiuti-_-1-ottobre-2025-31-dicembre-2026/"
+  },
+  {
    "id": "cambiasca",
    "nome": "Cambiasca",
    "provincia": "VB",
@@ -3727,6 +3799,54 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-carema/"
+  },
+  {
+   "id": "carmagnola",
+   "nome": "Carmagnola",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.8465,
+   "lon": 7.7182,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "a",
+     "nome": "Zona A",
+     "file": "comuni/carmagnola/zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b",
+     "nome": "Zona B",
+     "file": "comuni/carmagnola/zona-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c",
+     "nome": "Zona C",
+     "file": "comuni/carmagnola/zona-c.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "d",
+     "nome": "Zona D",
+     "file": "comuni/carmagnola/zona-d.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "e",
+     "nome": "Zona E",
+     "file": "comuni/carmagnola/zona-e.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "f",
+     "nome": "Zona F",
+     "file": "comuni/carmagnola/zona-f.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://deviziachierese.it/calendari-raccolta/calendari-raccolta-carmagnola/"
   },
   {
    "id": "carnate",
@@ -5504,6 +5624,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-chiaverano/"
+  },
+  {
+   "id": "chieri",
+   "nome": "Chieri",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0132,
+   "lon": 7.8211,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/chieri/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.chieri.to.it/it/garbage-calendars"
   },
   {
    "id": "chiesa-in-valmalenco",
@@ -7589,30 +7727,6 @@
    ]
   },
   {
-   "id": "forlimpopoli",
-   "nome": "Forlimpopoli",
-   "provincia": "FC",
-   "gestore": "Alea Ambiente",
-   "lat": 44.187305,
-   "lon": 12.125906,
-   "consorzio": "alea-ambiente-und",
-   "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
-   "zone": [
-    {
-     "id": "centro",
-     "nome": "Centro",
-     "file": "comuni/forlimpopoli/zona-centro.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "cintura-urbana",
-     "nome": "Cintura urbana",
-     "file": "comuni/forlimpopoli/zona-cintura-urbana.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
    "id": "forli",
    "nome": "Forlì",
    "provincia": "FC",
@@ -7650,6 +7764,30 @@
      "id": "cintura-urbana-d",
      "nome": "Cintura urbana D",
      "file": "comuni/forli/zona-cintura-urbana-d.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "forlimpopoli",
+   "nome": "Forlimpopoli",
+   "provincia": "FC",
+   "gestore": "Alea Ambiente",
+   "lat": 44.187305,
+   "lon": 12.125906,
+   "consorzio": "alea-ambiente-und",
+   "zone_url": "https://www.alea-ambiente.it/raccolta-porta-a-porta/ecocalendari-2026/",
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro",
+     "file": "comuni/forlimpopoli/zona-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cintura-urbana",
+     "nome": "Cintura urbana",
+     "file": "comuni/forlimpopoli/zona-cintura-urbana.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -8866,6 +9004,24 @@
    ]
   },
   {
+   "id": "isolabella",
+   "nome": "Isolabella",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.9066,
+   "lon": 7.9093,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/isolabella/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.ccs.to.it/calendari-raccolta"
+  },
+  {
    "id": "issiglio",
    "nome": "Issiglio",
    "provincia": "TO",
@@ -9121,6 +9277,23 @@
    ]
   },
   {
+   "id": "la-morra",
+   "nome": "La Morra",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.6373,
+   "lon": 7.9335,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/la-morra/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "la-valle-agordina",
    "nome": "La Valle Agordina",
    "provincia": "BL",
@@ -9163,6 +9336,23 @@
    "zone_url": "https://www.geofor.it/lajatico/"
   },
   {
+   "id": "lanzada",
+   "nome": "Lanzada",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2694,
+   "lon": 9.8739,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/lanzada/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "lanzo-torinese",
    "nome": "Lanzo Torinese",
    "provincia": "TO",
@@ -9200,40 +9390,6 @@
      "id": "servizi-attivita",
      "nome": "Servizi per le attività · turni da confermare",
      "file": "comuni/laquila/zona-servizi-attivita.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "la-morra",
-   "nome": "La Morra",
-   "provincia": "CN",
-   "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "consorzio": "str-coabser-und",
-   "lat": 44.6373,
-   "lon": 7.9335,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Raccolta ordinaria · attività",
-     "file": "comuni/la-morra/zona-unica.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "lanzada",
-   "nome": "Lanzada",
-   "provincia": "SO",
-   "gestore": "SECAM S.p.A.",
-   "consorzio": "secam-und",
-   "lat": 46.2694,
-   "lon": 9.8739,
-   "zone": [
-    {
-     "id": "da-confermare",
-     "nome": "Scheda attività",
-     "file": "comuni/lanzada/zona-da-confermare.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -10228,6 +10384,24 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/marene.pdf"
   },
   {
+   "id": "marentino",
+   "nome": "Marentino",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.058,
+   "lon": 7.8733,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/marentino/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.ccs.to.it/calendari-raccolta"
+  },
+  {
    "id": "marmirolo",
    "nome": "Marmirolo",
    "provincia": "MN",
@@ -10483,23 +10657,6 @@
    ]
   },
   {
-   "id": "mazzo-di-valtellina",
-   "nome": "Mazzo di Valtellina",
-   "provincia": "SO",
-   "gestore": "SECAM S.p.A.",
-   "consorzio": "secam-und",
-   "lat": 46.2565,
-   "lon": 10.2548,
-   "zone": [
-    {
-     "id": "da-confermare",
-     "nome": "Scheda attività",
-     "file": "comuni/mazzo-di-valtellina/zona-da-confermare.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
    "id": "mazze",
    "nome": "Mazzè",
    "provincia": "TO",
@@ -10522,6 +10679,23 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-mazze/"
+  },
+  {
+   "id": "mazzo-di-valtellina",
+   "nome": "Mazzo di Valtellina",
+   "provincia": "SO",
+   "gestore": "SECAM S.p.A.",
+   "consorzio": "secam-und",
+   "lat": 46.2565,
+   "lon": 10.2548,
+   "zone": [
+    {
+     "id": "da-confermare",
+     "nome": "Scheda attività",
+     "file": "comuni/mazzo-di-valtellina/zona-da-confermare.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "meana-di-susa",
@@ -10895,6 +11069,24 @@
    ]
   },
   {
+   "id": "mombello-di-torino",
+   "nome": "Mombello di Torino",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0464,
+   "lon": 7.9195,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/mombello-di-torino/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.mombelloditorino.to.it/Home/Menu?IDVoceMenu=152803"
+  },
+  {
    "id": "mompantero",
    "nome": "Mompantero",
    "provincia": "TO",
@@ -11008,6 +11200,24 @@
    "zone_url": "https://coabser.it/pdf/calendari_und/monchiero.pdf"
   },
   {
+   "id": "moncucco-torinese",
+   "nome": "Moncucco Torinese",
+   "provincia": "AT",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0679,
+   "lon": 7.9322,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/moncucco-torinese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.moncucco.asti.it/Dettaglionews?IDNews=273408"
+  },
+  {
    "id": "mondavio",
    "nome": "Mondavio",
    "provincia": "PU",
@@ -11078,6 +11288,23 @@
    "ecocentri": "ecocentri/garda-und-moniga-del-garda.json"
   },
   {
+   "id": "monta",
+   "nome": "Montà",
+   "provincia": "CN",
+   "gestore": "STR – Verde Gufo (CoAbSeR)",
+   "consorzio": "str-coabser-und",
+   "lat": 44.8131,
+   "lon": 7.96,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Raccolta ordinaria · attività",
+     "file": "comuni/monta/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "montagna-in-valtellina",
    "nome": "Montagna in Valtellina",
    "provincia": "SO",
@@ -11112,6 +11339,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "montaldo-torinese",
+   "nome": "Montaldo Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0664,
+   "lon": 7.8509,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/montaldo-torinese/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.montaldotorinese.to.it/it-it/servizi/modulistica"
   },
   {
    "id": "montalenghe",
@@ -11444,23 +11689,6 @@
    ]
   },
   {
-   "id": "monta",
-   "nome": "Montà",
-   "provincia": "CN",
-   "gestore": "STR – Verde Gufo (CoAbSeR)",
-   "consorzio": "str-coabser-und",
-   "lat": 44.8131,
-   "lon": 7.96,
-   "zone": [
-    {
-     "id": "unica",
-     "nome": "Raccolta ordinaria · attività",
-     "file": "comuni/monta/zona-unica.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
    "id": "montopoli-in-val-d-arno",
    "nome": "Montopoli in Val d'Arno",
    "provincia": "PI",
@@ -11559,6 +11787,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "moriondo-torinese",
+   "nome": "Moriondo Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0391,
+   "lon": 7.9441,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/moriondo-torinese/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.ccs.to.it/calendari-raccolta"
   },
   {
    "id": "mornago",
@@ -12580,6 +12826,24 @@
    ]
   },
   {
+   "id": "pavarolo",
+   "nome": "Pavarolo",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0689,
+   "lon": 7.8348,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/pavarolo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.pavarolo.to.it/it-it/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti"
+  },
+  {
    "id": "pavone-canavese",
    "nome": "Pavone Canavese",
    "provincia": "TO",
@@ -12602,6 +12866,24 @@
     }
    ],
    "zone_url": "https://scsivrea.it/calendario-2-0/calendario-comune-di-pavone-c-se-capoluogo/"
+  },
+  {
+   "id": "pecetto-torinese",
+   "nome": "Pecetto Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0196,
+   "lon": 7.7487,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/pecetto-torinese/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.pecetto.to.it/it-it/novita/avvisi/2025/ambiente-verde-e-rifiuti/nuovi-calendari-raccolta-rifiuti-1-ottobre-2025-31-dicembre-2026-362743-1-a9965971f96ed5c5d9bc823dbb52747a"
   },
   {
    "id": "pederobba",
@@ -13056,6 +13338,24 @@
    ]
   },
   {
+   "id": "pino-torinese",
+   "nome": "Pino Torinese",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 45.0435,
+   "lon": 7.7722,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/pino-torinese/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.pinotorinese.to.it/novita/nuovi-calendari-raccolta-rifiuti-2/"
+  },
+  {
    "id": "pinzano-al-tagliamento",
    "nome": "Pinzano al Tagliamento",
    "provincia": "PN",
@@ -13289,6 +13589,66 @@
     }
    ],
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
+  },
+  {
+   "id": "poirino",
+   "nome": "Poirino",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.9212,
+   "lon": 7.8436,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "a-concentrico",
+     "nome": "Zona A · Concentrico",
+     "file": "comuni/poirino/zona-a-concentrico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b-concentrico",
+     "nome": "Zona B · Concentrico",
+     "file": "comuni/poirino/zona-b-concentrico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c-concentrico",
+     "nome": "Zona C · Concentrico",
+     "file": "comuni/poirino/zona-c-concentrico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "d-concentrico",
+     "nome": "Zona D · Concentrico",
+     "file": "comuni/poirino/zona-d-concentrico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "a-case-sparse",
+     "nome": "Zona A · Case sparse",
+     "file": "comuni/poirino/zona-a-case-sparse.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "b-case-sparse",
+     "nome": "Zona B · Case sparse",
+     "file": "comuni/poirino/zona-b-case-sparse.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "c-case-sparse",
+     "nome": "Zona C · Case sparse",
+     "file": "comuni/poirino/zona-c-case-sparse.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "d-case-sparse",
+     "nome": "Zona D · Case sparse",
+     "file": "comuni/poirino/zona-d-case-sparse.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.ccs.to.it/calendari-raccolta"
   },
   {
    "id": "polcenigo",
@@ -13789,6 +14149,24 @@
      "valido_al": "2027-12-31"
     }
    ]
+  },
+  {
+   "id": "pralormo",
+   "nome": "Pralormo",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.8614,
+   "lon": 7.9007,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/pralormo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.pralormo.to.it/it-it/trasparenza-gestione-rifiuti/d-calendario-orari-e-modalita-di-raccolta-dei-rifiuti"
   },
   {
    "id": "pramollo",
@@ -14374,6 +14752,24 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "riva-presso-chieri",
+   "nome": "Riva presso Chieri",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.9863,
+   "lon": 7.8692,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/riva-presso-chieri/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://comune.rivapressochieri.to.it/novita/modifica-calendario-raccolta-rifiuti/"
   },
   {
    "id": "rivalba",
@@ -16105,24 +16501,6 @@
    "zone_url": "https://www.geofor.it/santa-maria-a-monte/calendario-raccolta-porta-a-porta-santa-maria-a-monte/"
   },
   {
-   "id": "santippolito",
-   "nome": "Sant'Ippolito",
-   "provincia": "PU",
-   "gestore": "ASET",
-   "consorzio": "aset-und",
-   "lat": 43.685715,
-   "lon": 12.871689,
-   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
-   "zone": [
-    {
-     "id": "carta-attivita",
-     "nome": "Carta · attività con servizio attivato",
-     "file": "comuni/santippolito/zona-carta-attivita.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
    "id": "santa-maria-maggiore",
    "nome": "Santa Maria Maggiore",
    "provincia": "VB",
@@ -16139,6 +16517,42 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-santa-maria-maggiore.json"
+  },
+  {
+   "id": "santena",
+   "nome": "Santena",
+   "provincia": "TO",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "lat": 44.9497,
+   "lon": 7.7732,
+   "consorzio": "ccs-und",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/santena/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.comune.santena.to.it/Servizi?ID=113913"
+  },
+  {
+   "id": "santippolito",
+   "nome": "Sant'Ippolito",
+   "provincia": "PU",
+   "gestore": "ASET",
+   "consorzio": "aset-und",
+   "lat": 43.685715,
+   "lon": 12.871689,
+   "zone_url": "https://www.asetservizi.it/servizi-ambientali/per-il-cittadino/modalita-di-raccolta/",
+   "zone": [
+    {
+     "id": "carta-attivita",
+     "nome": "Carta · attività con servizio attivato",
+     "file": "comuni/santippolito/zona-carta-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "santo-stefano-belbo",
@@ -20334,6 +20748,12 @@
    "gestore": "Cooperativa Sociale Risorse",
    "ecocentri": "ecocentri/coop-risorse-und.json",
    "regole": "regole/coop-risorse-und.json"
+  },
+  "ccs-und": {
+   "nome": "CCS – Consorzio Chierese per i Servizi · UND",
+   "gestore": "CCS – Consorzio Chierese per i Servizi",
+   "ecocentri": "ecocentri/ccs-und.json",
+   "regole": "regole/ccs-und.json"
   }
  }
 }

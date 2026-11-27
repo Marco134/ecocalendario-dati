@@ -4273,6 +4273,367 @@
    "regole_en": [
     "Ask Risorse to confirm eligibility, cost and how to book bulky waste from your business."
    ]
+  },
+  {
+   "id": "ccs-und-andezeno",
+   "nome": "Andezeno · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "andezeno"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica. CCS indica anche scarrabili itineranti. Verificare date e ammissione delle attività."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-arignano",
+   "nome": "Arignano · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "arignano"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-baldissero-torinese",
+   "nome": "Baldissero Torinese · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "baldissero-torinese"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-cambiano",
+   "nome": "Cambiano · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "cambiano"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-carmagnola",
+   "nome": "Carmagnola · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "carmagnola"
+   ],
+   "telefono": "800 901 925",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-chieri",
+   "nome": "Chieri · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "chieri"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-isolabella",
+   "nome": "Isolabella · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "isolabella"
+   ],
+   "telefono": "800 901 925",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-marentino",
+   "nome": "Marentino · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "marentino"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica. CCS indica anche scarrabili itineranti. Verificare date e ammissione delle attività."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-mombello-di-torino",
+   "nome": "Mombello di Torino · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "mombello-di-torino"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-moncucco-torinese",
+   "nome": "Moncucco Torinese · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "moncucco-torinese"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-montaldo-torinese",
+   "nome": "Montaldo Torinese · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "montaldo-torinese"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-moriondo-torinese",
+   "nome": "Moriondo Torinese · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "moriondo-torinese"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica. CCS indica anche scarrabili itineranti. Verificare date e ammissione delle attività."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-pavarolo",
+   "nome": "Pavarolo · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "pavarolo"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-pecetto-torinese",
+   "nome": "Pecetto Torinese · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "pecetto-torinese"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-pino-torinese",
+   "nome": "Pino Torinese · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "pino-torinese"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-poirino",
+   "nome": "Poirino · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "poirino"
+   ],
+   "telefono": "800 901 925",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-pralormo",
+   "nome": "Pralormo · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "pralormo"
+   ],
+   "telefono": "800 901 925",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-riva-presso-chieri",
+   "nome": "Riva presso Chieri · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "riva-presso-chieri"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
+  },
+  {
+   "id": "ccs-und-santena",
+   "nome": "Santena · CCS UND",
+   "gestori": [],
+   "comuni": [
+    "santena"
+   ],
+   "telefono": "800 843 464",
+   "fonte": "https://www.ccs.to.it/aree-tematiche/la-raccolta/Ingombranti | https://deviziachierese.it/wp-content/uploads/2026/01/2025_12_03_Carta-dei-servizi-2026-2029.pdf",
+   "prenotazione": true,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore se il ritiro ingombranti è disponibile per la categoria dell’attività e distinguere rifiuti urbani e RAEE professionali. La Carta descrive il ritiro ordinario per ingombranti di origine domestica."
+   ],
+   "regole_en": [
+    "Ask CCS about eligibility for bulky waste and professional electrical equipment."
+   ]
   }
  ]
 }
