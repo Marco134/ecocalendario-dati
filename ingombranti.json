@@ -4660,6 +4660,139 @@
       "regole_en": [
         "Contact SANB to check eligibility and booking conditions for bulky waste collection."
       ]
+    },
+    {
+      "id": "ecotrash-avigliano",
+      "nome": "Ecotrash · Avigliano · UD",
+      "gestori": [],
+      "comuni": [
+        "avigliano"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
+    },
+    {
+      "id": "ecotrash-pietragalla",
+      "nome": "Ecotrash · Pietragalla · UD",
+      "gestori": [],
+      "comuni": [
+        "pietragalla"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
+    },
+    {
+      "id": "ecotrash-ruoti",
+      "nome": "Ecotrash · Ruoti · UD",
+      "gestori": [],
+      "comuni": [
+        "ruoti"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
+    },
+    {
+      "id": "ecotrash-vaglio-basilicata",
+      "nome": "Ecotrash · Vaglio Basilicata · UD",
+      "gestori": [],
+      "comuni": [
+        "vaglio-basilicata"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
+    },
+    {
+      "id": "ecotrash-anzi",
+      "nome": "Ecotrash · Anzi · UD",
+      "gestori": [],
+      "comuni": [
+        "anzi"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/CALENDARIO-UNIFICATO-ANZI.pdf | https://www.ecotrash.it/comuni-serviti/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
+    },
+    {
+      "id": "ecotrash-pignola",
+      "nome": "Ecotrash · Pignola · UD",
+      "gestori": [],
+      "comuni": [
+        "pignola"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/CALENDARIO-PIGNOLA-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
+    },
+    {
+      "id": "ecotrash-nova-siri",
+      "nome": "Ecotrash · Nova Siri · UD",
+      "gestori": [],
+      "comuni": [
+        "nova-siri"
+      ],
+      "telefono": "800 960 294",
+      "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/calendarioutenzedomestnovasiri-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Richiedere il ritiro ingombranti al numero verde secondo disponibilità. Confermare limiti, esposizione e RAEE."
+      ],
+      "regole_en": [
+        "Contact Ecotrash to check pickup eligibility and book bulky waste where available."
+      ]
     }
   ]
 }

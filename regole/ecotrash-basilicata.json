@@ -1,0 +1,27 @@
+{
+ "schema": 1,
+ "nome": "Ecotrash Company S.r.l. · Basilicata",
+ "fonte": "https://www.ecotrash.it/comuni-serviti/ | https://www.ecotrash.it/wp-content/uploads/2025/11/CALENDARIO-UNIFICATO-ANZI.pdf",
+ "voci": {
+  "imballaggi in plastica e metalli": {
+   "dove": "plastica",
+   "nota": "Conferire insieme secondo la guida. Per il Basento Nord conferire sfuso."
+  },
+  "sacchetti compostabili con scarti alimentari": {
+   "dove": "organico",
+   "nota": "Usare sacchetti biodegradabili e compostabili nel contenitore assegnato."
+  },
+  "carta e cartoni": {
+   "dove": "carta",
+   "nota": "Appiattire gli imballaggi. Verifica contenitore, eventuale sacchetto o roll e giro della sede."
+  },
+  "contenitori, bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Conferire sfusi nell’apposito contenitore. Per frequenze distinte verifica la guida UD o UND."
+  },
+  "lampade al neon e pile": {
+   "dove": "varia",
+   "nota": "Usare la raccolta dedicata o il centro quando ammesso."
+  }
+ }
+}

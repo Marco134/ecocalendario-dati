@@ -617,6 +617,24 @@
    "ecocentri": "ecocentri/conser-vco-und-antrona-schieranco.json"
   },
   {
+   "id": "anzi",
+   "nome": "Anzi",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-anzi-und",
+   "lat": 40.516615,
+   "lon": 15.924571,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta · calendario ordinario",
+     "file": "comuni/anzi/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "anzola-d-ossola",
    "nome": "Anzola d'Ossola",
    "provincia": "VB",
@@ -994,6 +1012,24 @@
      "id": "2",
      "nome": "Zona 2 · grandi produttori",
      "file": "comuni/avigliana/zona-2.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "avigliano",
+   "nome": "Avigliano",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-avigliano-und",
+   "lat": 40.729718,
+   "lon": 15.720264,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta · calendario ordinario",
+     "file": "comuni/avigliano/zona-porta-a-porta.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -12946,6 +12982,24 @@
    "regole": "regole/gelsia-und-nova-milanese.json"
   },
   {
+   "id": "nova-siri",
+   "nome": "Nova Siri",
+   "provincia": "MT",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-nova-siri-und",
+   "lat": 40.148212,
+   "lon": 16.538889,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/nova-siri/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "novalesa",
    "nome": "Novalesa",
    "provincia": "TO",
@@ -14258,6 +14312,24 @@
    "ecocentri": "ecocentri/conser-vco-und-piedimulera.json"
   },
   {
+   "id": "pietragalla",
+   "nome": "Pietragalla",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-pietragalla-und",
+   "lat": 40.747522,
+   "lon": 15.880648,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta · calendario ordinario",
+     "file": "comuni/pietragalla/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "pieve-del-grappa",
    "nome": "Pieve del Grappa",
    "provincia": "TV",
@@ -14298,6 +14370,24 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/pieve-vergonte/",
    "ecocentri": "ecocentri/conser-vco-und-pieve-vergonte.json"
+  },
+  {
+   "id": "pignola",
+   "nome": "Pignola",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-pignola-und",
+   "lat": 40.573637,
+   "lon": 15.783504,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/pignola/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "pinasca",
@@ -16575,6 +16665,24 @@
      "id": "cartone-commerciale",
      "nome": "Cartone commerciale",
      "file": "comuni/rueglio/zona-cartone-commerciale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "ruoti",
+   "nome": "Ruoti",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-ruoti-und",
+   "lat": 40.718017,
+   "lon": 15.678963,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta · calendario ordinario",
+     "file": "comuni/ruoti/zona-porta-a-porta.json",
      "valido_al": "2026-12-31"
     }
    ]
@@ -19944,6 +20052,24 @@
    ]
   },
   {
+   "id": "vaglio-basilicata",
+   "nome": "Vaglio Basilicata",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "consorzio": "ecotrash-vaglio-basilicata-und",
+   "lat": 40.665873,
+   "lon": 15.92007,
+   "zone_url": "https://www.ecotrash.it/comuni-serviti/",
+   "zone": [
+    {
+     "id": "porta-a-porta",
+     "nome": "Porta a porta · calendario ordinario",
+     "file": "comuni/vaglio-basilicata/zona-porta-a-porta.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "vaie",
    "nome": "Vaie",
    "provincia": "TO",
@@ -22248,6 +22374,48 @@
    "gestore": "SANB S.p.A.",
    "ecocentri": "ecocentri/sanb-terlizzi-und.json",
    "regole": "regole/sanb.json"
+  },
+  "ecotrash-avigliano-und": {
+   "nome": "Ecotrash Company S.r.l. · Avigliano",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-avigliano-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
+  },
+  "ecotrash-pietragalla-und": {
+   "nome": "Ecotrash Company S.r.l. · Pietragalla",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-pietragalla-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
+  },
+  "ecotrash-ruoti-und": {
+   "nome": "Ecotrash Company S.r.l. · Ruoti",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-ruoti-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
+  },
+  "ecotrash-vaglio-basilicata-und": {
+   "nome": "Ecotrash Company S.r.l. · Vaglio Basilicata",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-vaglio-basilicata-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
+  },
+  "ecotrash-anzi-und": {
+   "nome": "Ecotrash Company S.r.l. · Anzi",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-anzi-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
+  },
+  "ecotrash-pignola-und": {
+   "nome": "Ecotrash Company S.r.l. · Pignola",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-pignola-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
+  },
+  "ecotrash-nova-siri-und": {
+   "nome": "Ecotrash Company S.r.l. · Nova Siri",
+   "gestore": "Ecotrash Company S.r.l.",
+   "ecocentri": "ecocentri/ecotrash-nova-siri-und.json",
+   "regole": "regole/ecotrash-basilicata.json"
   }
  }
 }

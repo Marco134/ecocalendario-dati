@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1167,
+ "totale": 1174,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12439,6 +12439,90 @@
    "nota": "Almeno un profilo aziendale datato da guida settimanale ufficiale. Confermare categoria, civico, servizi aggiuntivi, eventuali recuperi e nuova validità.",
    "valido_al": "2026-12-31",
    "zone_und": 2
+  },
+  {
+   "id": "avigliano",
+   "nome": "Avigliano",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-NON-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+   "verificato": "2026-11-27",
+   "nota": "Il sabato la guida UND indica il giro di solo cartone, da esporre piegato in roll. Il giro dedicato è indicato nella nota.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "pietragalla",
+   "nome": "Pietragalla",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-NON-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+   "verificato": "2026-11-27",
+   "nota": "Il sabato la guida UND indica il giro di solo cartone, da esporre piegato in roll. Il giro dedicato è indicato nella nota.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "ruoti",
+   "nome": "Ruoti",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-NON-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+   "verificato": "2026-11-27",
+   "nota": "Il sabato la guida UND indica il giro di solo cartone, da esporre piegato in roll. Il giro dedicato è indicato nella nota.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "vaglio-basilicata",
+   "nome": "Vaglio Basilicata",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-NON-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+   "verificato": "2026-11-27",
+   "nota": "Il sabato la guida UND indica il giro di solo cartone, da esporre piegato in roll. Il giro dedicato è indicato nella nota.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "anzi",
+   "nome": "Anzi",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/CALENDARIO-UNIFICATO-ANZI.pdf | https://www.ecotrash.it/comuni-serviti/",
+   "verificato": "2026-11-27",
+   "nota": "Il calendario unificato vale per il circuito servito. Gli ulteriori turni delle aziende vengono concordati per attività. Per contrade e civici periferici chiedere quale circuito si applichi.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "pignola",
+   "nome": "Pignola",
+   "provincia": "PZ",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/CALENDARIO-PIGNOLA-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/",
+   "verificato": "2026-11-27",
+   "nota": "La guida pubblicata indica il calendario per le famiglie. Chiedere quali giorni e rifiuti si applicano alle attività al proprio indirizzo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "nova-siri",
+   "nome": "Nova Siri",
+   "provincia": "MT",
+   "gestore": "Ecotrash Company S.r.l.",
+   "stato": "scheda_informativa",
+   "fonte": "https://ciclatambiente.it/wp-content/uploads/2024/05/CARTA-DEI-SERVIZI-COMUNE-DI-NOVA-SIRI.pdf | https://www.ecotrash.it/comuni-serviti/",
+   "verificato": "2026-11-27",
+   "nota": "La Carta indica un circuito del cartone per attività commerciali. Chiedere date, condizioni e frazioni ordinarie per la sede.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   }
  ]
 }

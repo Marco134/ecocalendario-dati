@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "comune": "Vaglio Basilicata",
+ "provincia": "PZ",
+ "gestore": "Ecotrash Company S.r.l.",
+ "zona": "Porta a porta · calendario ordinario",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.ecotrash.it/wp-content/uploads/2025/11/UCBN-CALENDARIO-UTENZE-DOMESTICHE-1024x724.jpg | https://www.ecotrash.it/comuni-serviti/ | https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A519 | https://www.servizipubblicaamministrazione.it/servizi/saturnweb/Dettaglio.aspx?CE=vgln1520&Pub=8642&RicCro=1",
+ "raccolte": {
+  "2026-11-27": [
+   "indifferenziato"
+  ],
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Verificare il calendario del civico e eventuali servizi dedicati.",
+  "Giorni ordinari derivati dalla guida settimanale. Verificare recuperi festivi, calendario 2027 e condizioni per il proprio civico."
+ ],
+ "esposizione": "Dalle 22:00 della sera precedente alle 06:00 del giorno di ritiro.",
+ "esposizione_entro": "06:00"
+}
