@@ -5235,6 +5235,25 @@
       "regole_en": [
         "Contact the local service provider for collection conditions."
       ]
+    },
+    {
+      "id": "aroba4-santeramo",
+      "nome": "Santeramo in Colle · UD",
+      "gestori": [],
+      "comuni": [
+        "santeramo-in-colle"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/_files/ugd/8d0e3c_ba6fb4b859f945d2afaf044bb41ddf67.pdf | https://www.teknoserviceitalia.com/puglia/bari/santeramo-in-colle/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro domiciliare gratuito per gli ingombranti ammessi, su prenotazione e per un numero limitato di pezzi. Concordare esposizione a livello strada e tipologie ammesse."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
     }
   ]
 }

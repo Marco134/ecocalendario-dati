@@ -18763,6 +18763,36 @@
    "zone_url": "https://www.comune.santena.to.it/Servizi?ID=113913"
   },
   {
+   "id": "santeramo-in-colle",
+   "nome": "Santeramo in Colle",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-santeramo-und",
+   "lat": 40.793027,
+   "lon": 16.755286,
+   "zone_url": "https://www.aroba4.it/santeramo-in-colle",
+   "zone": [
+    {
+     "id": "und-centro-storico",
+     "nome": "Attività · centro storico",
+     "file": "comuni/santeramo-in-colle/zona-und-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "und-centro-urbano",
+     "nome": "Attività · centro urbano",
+     "file": "comuni/santeramo-in-colle/zona-und-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "und-case-sparse",
+     "nome": "Attività · case sparse",
+     "file": "comuni/santeramo-in-colle/zona-und-case-sparse.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "santippolito",
    "nome": "Sant'Ippolito",
    "provincia": "PU",
@@ -23453,6 +23483,12 @@
    "gestore": "Navita",
    "ecocentri": "ecocentri/aroba6-putignano-und.json",
    "regole": "regole/aroba6-putignano.json"
+  },
+  "aroba4-santeramo-und": {
+   "nome": "ARO BA/4 · Santeramo in Colle",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-santeramo-und.json",
+   "regole": "regole/aroba4-santeramo-und.json"
   }
  }
 }

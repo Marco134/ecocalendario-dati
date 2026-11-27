@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "nome": "Santeramo in Colle · Guida ai materiali",
+ "fonte": "https://www.aroba4.it/_files/ugd/8d0e3c_ba6fb4b859f945d2afaf044bb41ddf67.pdf | https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Riciclabolario-generico-Teknoservice-NUOVO.pdf",
+ "voci": {
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Nel mastello blu senza sacchetto."
+  },
+  "libri e quaderni": {
+   "dove": "carta",
+   "nota": "Nel mastello blu senza sacchetto."
+  },
+  "sacchetti di carta": {
+   "dove": "carta",
+   "nota": "Nel mastello blu senza sacchetto."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Nel mastello blu con la carta."
+  },
+  "cartoni del latte": {
+   "dove": "carta",
+   "nota": "Nel mastello blu con la carta."
+  },
+  "cartone da imballaggio": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Per gli esercizi vale il giro del cartone assegnato dal gestore."
+  },
+  "bottiglie in plastica": {
+   "dove": "plastica",
+   "nota": "Svuotare, ridurre di volume e conferire nel sacco giallo."
+  },
+  "flaconi di detersivo": {
+   "dove": "plastica",
+   "nota": "Vuoti nel sacco giallo."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Nel sacco giallo."
+  },
+  "pellicole e sacchetti in plastica": {
+   "dove": "plastica",
+   "nota": "Nel sacco giallo."
+  },
+  "piatti e bicchieri in plastica monouso": {
+   "dove": "plastica",
+   "nota": "Nel sacco giallo."
+  },
+  "lattine": {
+   "dove": "plastica",
+   "nota": "Con la plastica nel sacco giallo."
+  },
+  "barattoli di latta": {
+   "dove": "plastica",
+   "nota": "Con la plastica nel sacco giallo."
+  },
+  "tappi metallici": {
+   "dove": "plastica",
+   "nota": "Con la plastica nel sacco giallo."
+  },
+  "carta stagnola": {
+   "dove": "plastica",
+   "nota": "Con la plastica nel sacco giallo."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Nel mastello verde sfusi e senza residui."
+  },
+  "bicchieri di vetro": {
+   "dove": "vetro",
+   "nota": "Ammessi dal calendario locale. Esclusi cristallo e vetro borosilicato."
+  },
+  "pyrex": {
+   "dove": "varia",
+   "nota": "Escluso dal vetro. Chiedere al gestore il circuito adatto al tipo di oggetto."
+  },
+  "piccoli pezzi di ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Usare un sacco semitrasparente nel mastello grigio."
+  },
+  "spazzolini": {
+   "dove": "indifferenziato",
+   "nota": "Nel mastello grigio."
+  },
+  "penne": {
+   "dove": "indifferenziato",
+   "nota": "Nel mastello grigio."
+  },
+  "cd e dvd": {
+   "dove": "indifferenziato",
+   "nota": "Custodie comprese."
+  },
+  "stracci": {
+   "dove": "indifferenziato",
+   "nota": "Per indumenti riutilizzabili verificare il circuito tessile."
+  },
+  "assorbenti": {
+   "dove": "indifferenziato",
+   "nota": "Nel mastello grigio."
+  },
+  "avanzi di cibo": {
+   "dove": "organico",
+   "nota": "In sacco compostabile nel mastello marrone."
+  },
+  "carta assorbente da cucina unta": {
+   "dove": "organico",
+   "nota": "In sacco compostabile nel mastello marrone."
+  },
+  "gusci di uova": {
+   "dove": "organico",
+   "nota": "In sacco compostabile nel mastello marrone."
+  },
+  "fondi di caffe e te": {
+   "dove": "organico",
+   "nota": "In sacco compostabile nel mastello marrone."
+  },
+  "lettiera organica di piccoli animali": {
+   "dove": "organico",
+   "nota": "Solo lettiera organica di piccoli animali domestici."
+  },
+  "piante da appartamento": {
+   "dove": "organico",
+   "nota": "Solo senza terriccio."
+  }
+ }
+}

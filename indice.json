@@ -24540,6 +24540,30 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "santeramo-in-colle",
+      "nome": "Santeramo in Colle",
+      "provincia": "BA",
+      "gestore": "Teknoservice S.r.l. · ARO BA/4",
+      "consorzio": "aroba4-santeramo",
+      "lat": 40.793027,
+      "lon": 16.755286,
+      "zone_url": "https://www.aroba4.it/santeramo-in-colle",
+      "zone": [
+        {
+          "id": "ud-centro",
+          "nome": "Centro storico e centro urbano",
+          "file": "comuni/santeramo-in-colle/zona-ud-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "ud-case-sparse",
+          "nome": "Case sparse",
+          "file": "comuni/santeramo-in-colle/zona-ud-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -25036,6 +25060,12 @@
       "gestore": "Navita",
       "ecocentri": "ecocentri/aroba6-putignano.json",
       "regole": "regole/aroba6-putignano.json"
+    },
+    "aroba4-santeramo": {
+      "nome": "ARO BA/4 · Santeramo in Colle",
+      "gestore": "Teknoservice S.r.l. · ARO BA/4",
+      "ecocentri": "ecocentri/aroba4-santeramo.json",
+      "regole": "regole/aroba4-santeramo.json"
     }
   },
   "tipi_en": {

@@ -6231,6 +6231,25 @@
    "regole_en": [
     "Contact the local service provider for collection conditions."
    ]
+  },
+  {
+   "id": "aroba4-santeramo-und",
+   "nome": "Santeramo in Colle · UND",
+   "gestori": [],
+   "comuni": [
+    "santeramo-in-colle"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/_files/ugd/8d0e3c_ba6fb4b859f945d2afaf044bb41ddf67.pdf | https://www.teknoserviceitalia.com/puglia/bari/santeramo-in-colle/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-27",
+   "regole": [
+    "Chiedere al gestore quali circuiti sono accessibili alle attività. Il CCR locale è indicato per le utenze domestiche."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
   }
  ]
 }

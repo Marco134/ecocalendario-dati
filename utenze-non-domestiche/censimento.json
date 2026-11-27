@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1197,
+ "totale": 1198,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12799,6 +12799,18 @@
    "nota": "Verificare il profilo per zona e tipo di attività.",
    "valido_al": "2026-12-31",
    "zone_und": 2
+  },
+  {
+   "id": "santeramo-in-colle",
+   "nome": "Santeramo in Colle",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/comune-di-santeramo-in-colle-MODULO-UND.pdf | https://www.teknoserviceitalia.com/puglia/bari/santeramo-in-colle/",
+   "verificato": "2026-11-27",
+   "valido_al": "2026-12-31",
+   "zone_und": 3,
+   "nota": "Tre aree con gli stessi turni ordinari. Verificare festivi e delimitazione operativa dei due giri del cartone."
   }
  ]
 }
