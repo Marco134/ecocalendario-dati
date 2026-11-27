@@ -24156,6 +24156,102 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "conversano",
+      "nome": "Conversano",
+      "provincia": "BA",
+      "gestore": "SI.ECO",
+      "consorzio": "aroba8-conversano",
+      "lat": 40.968396,
+      "lon": 17.113771,
+      "zone_url": "https://www.aroba8.it/conversano/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano e Triggianello",
+          "file": "comuni/conversano/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro",
+          "file": "comuni/conversano/zona-agro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mola-di-bari",
+      "nome": "Mola di Bari",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba8-mola-di-bari",
+      "lat": 41.061323,
+      "lon": 17.091711,
+      "zone_url": "https://www.aroba8.it/mola-di-bari/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/mola-di-bari/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro",
+          "file": "comuni/mola-di-bari/zona-agro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "monopoli",
+      "nome": "Monopoli",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba8-monopoli",
+      "lat": 40.952237,
+      "lon": 17.299948,
+      "zone_url": "https://www.aroba8.it/monopoli/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/monopoli/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro",
+          "file": "comuni/monopoli/zona-agro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "polignano-a-mare",
+      "nome": "Polignano a Mare",
+      "provincia": "BA",
+      "gestore": "Navita",
+      "consorzio": "aroba8-polignano-a-mare",
+      "lat": 40.996118,
+      "lon": 17.219586,
+      "zone_url": "https://www.aroba8.it/polignano-a-mare/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/polignano-a-mare/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro",
+          "file": "comuni/polignano-a-mare/zona-agro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -24592,6 +24688,30 @@
       "gestore": "SI.ECO",
       "ecocentri": "ecocentri/aroba7-valenzano.json",
       "regole": "regole/aroba7-valenzano.json"
+    },
+    "aroba8-conversano": {
+      "nome": "ARO BA/8 · Conversano",
+      "gestore": "SI.ECO",
+      "ecocentri": "ecocentri/aroba8-conversano.json",
+      "regole": "regole/aroba8-conversano.json"
+    },
+    "aroba8-mola-di-bari": {
+      "nome": "ARO BA/8 · Mola di Bari",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba8-mola-di-bari.json",
+      "regole": "regole/aroba8-mola-di-bari.json"
+    },
+    "aroba8-monopoli": {
+      "nome": "ARO BA/8 · Monopoli",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba8-monopoli.json",
+      "regole": "regole/aroba8-monopoli.json"
+    },
+    "aroba8-polignano-a-mare": {
+      "nome": "ARO BA/8 · Polignano a Mare",
+      "gestore": "Navita",
+      "ecocentri": "ecocentri/aroba8-polignano-a-mare.json",
+      "regole": "regole/aroba8-polignano-a-mare.json"
     }
   },
   "tipi_en": {

@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-27",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1187,
+ "totale": 1191,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12677,6 +12677,54 @@
    "fonte": "https://www.siecospa.it/web/wp-content/uploads/2023/12/calendario-studi-professionali.pdf | https://www.siecospa.it/web/wp-content/uploads/2020/02/calendario-valenzano-UC.jpeg | https://www.siecospa.it/web/wp-content/uploads/2020/02/calendario-valenzano-UCA.jpeg",
    "verificato": "2026-11-27",
    "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Nel circuito commerciale il solo cartone ha un giro dedicato indicato nella relativa griglia. Ordinanza dal 12 ottobre 2026 per carta e vetro sfusi, oppure sacchetto di carta per la carta.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "conversano",
+   "nome": "Conversano",
+   "provincia": "BA",
+   "gestore": "SI.ECO",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.siecospa.it/web/wp-content/uploads/2021/11/udund.pdf | https://www.siecospa.it/web/wp-content/uploads/2021/11/uf.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Scegliere il profilo dell’attività. Le griglie indicano il giorno di ritiro. Gli imballaggi di solo cartone hanno un giro distinto dalla carta dal lunedì al sabato. Per le attività alimentari è riportato il calendario invernale.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "mola-di-bari",
+   "nome": "Mola di Bari",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba8.it/wp-content/uploads/2021/11/Mola_utenze-domestiche-pag3.pdf | https://www.aroba8.it/wp-content/uploads/2021/11/Mola_utenze-NON-domestiche-pag3.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Scegliere il profilo dell’attività. Le griglie indicano il giorno di ritiro. Gli imballaggi di solo cartone hanno un giro distinto dalla carta dal lunedì al sabato. Per le attività alimentari è riportato il calendario invernale. Per le attività no food nell’agro l’ordinanza indica il compostaggio per l’organico.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "monopoli",
+   "nome": "Monopoli",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba8.it/wp-content/uploads/2025/05/ARO8-Vademecum-Monopoli-2024-UD-8-facciate-agg.-26_05_2025.pdf | https://www.aroba8.it/wp-content/uploads/2021/11/Monopoli_CALENDARIOutenze-NON-domestiche-pag3.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Scegliere il profilo dell’attività. Le griglie indicano il giorno di ritiro. Gli imballaggi di solo cartone hanno un giro distinto dalla carta dal lunedì al sabato. Per le attività alimentari è riportato il calendario invernale. L’ordinanza 706 riserva l’organico di domenica alle famiglie nel circuito ordinario del centro urbano. Nel circuito no food dell’agro il vetro è il venerdì.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "polignano-a-mare",
+   "nome": "Polignano a Mare",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.aroba8.it/wp-content/uploads/2021/11/Polignano_utenze-domestiche-pag3.pdf | https://www.aroba8.it/wp-content/uploads/2021/11/Polignano_utenze-NON-domestiche-pag3.pdf",
+   "verificato": "2026-11-27",
+   "nota": "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Scegliere il profilo dell’attività. Le griglie indicano il giorno di ritiro. Gli imballaggi di solo cartone hanno un giro distinto dalla carta dal lunedì al sabato. Per le attività alimentari è riportato il calendario invernale.",
    "valido_al": "2026-12-31",
    "zone_und": 3
   }

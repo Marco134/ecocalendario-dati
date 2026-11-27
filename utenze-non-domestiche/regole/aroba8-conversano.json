@@ -1,0 +1,1007 @@
+{
+ "schema": 1,
+ "nome": "Conversano · Materiali",
+ "fonte": "https://www.aroba8.it/wp-content/uploads/2021/10/06-10-21-Diz-CONVERSANO.pdf | https://www.aroba8.it/conversano/",
+ "voci": {
+  "carta e cartone": {
+   "dove": "carta",
+   "nota": "Seguire la raccolta della propria zona. Le attività hanno un giro dedicato per gli imballaggi di solo cartone."
+  },
+  "imballaggi in plastica e metalli": {
+   "dove": "plastica",
+   "nota": "Conferire nel multimateriale utilizzando sacco o contenitore in dotazione."
+  },
+  "bottiglie e vasetti in vetro": {
+   "dove": "vetro",
+   "nota": "Usare il contenitore per gli imballaggi in vetro."
+  },
+  "olio vegetale esausto": {
+   "dove": "varia",
+   "nota": "Primo martedì del mese. Prenotare con il gestore e usare bottiglie di plastica."
+  },
+  "indumenti usati": {
+   "dove": "varia",
+   "nota": "Secondo martedì del mese. Prenotare con il gestore."
+  },
+  "ingombranti": {
+   "dove": "varia",
+   "nota": "Confermare il ritiro su chiamata o il conferimento al centro e le condizioni per le attività."
+  },
+  "accendini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "addobbi natalizi (palline, ghirlande ecc)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "addobbi natalizi privi di componenti elettroniche": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "adesivi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "agende senza copertine di plastica o pelle": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "alcool (contenitore vuoto e risciacquato)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "alluminio piccole quantità (latte e lattine)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "ammoniaca (contenitore vuoto )": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "assorbenti igienici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "astuccio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bambole e giocattoli di plastica (piccole dimensioni)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bande e garze": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "barattoli in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "barattoli in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "barattoli in vetro (senza tappo)": {
+   "dove": "vetro",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bastoncini per orecchie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "batuffoli di cotone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bianchetto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bicchiere in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bicchiere in vetro": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bicchieri in cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bigiotteria": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "biglie in vetro/plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "biro e penne a sfera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bombolette alluminio spray non pericolose": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "borracce in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "borracce in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bottiglie in vetro (senza tappo)": {
+   "dove": "vetro",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bottoni": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "brik (succo di frutta, latte, panna, ecc.)": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "bucce di frutta": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "buste per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "buste per freezer": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "caffè": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "calamita": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "calendari di carta": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "calze e calzini (nylon, lana, cotone)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "candeggina (contenitore vuoto)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "candele e cera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cannuccia": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "capsule da caffè": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carne (avanzi)": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta carbone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta cerata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta chimica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta da forno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta da regalo e per pacchi": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta delle caramelle in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta dell’uovo di pasqua in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta oleata per alimenti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta patinata tipo rivista": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta per affettati": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta pergamenata": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta sporca di colla o grassi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta stagnola": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta termica (scontrini, ruolini di marcia)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta velina": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "carta vetrata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cartone (ridotto di volume) utenze domestiche": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cartone per bevande": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cartone per la pizza (pulito)": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cartone per la pizza (sporco)": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "casse e cassette di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cassette audio e video": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cd-rom": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cellophane": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cerotti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "chiavi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cialda di caffè in carta": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cialda di caffè in plastica o alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cibi cotti e crudi": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cicche di sigaretta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "colori in tubetto in plastica o alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "confezioni per patatine chips e snack simili": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "contenitori in tetrapack per alimenti": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "contenitori per alimenti di metallo": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "coperchi metallici per barattoli": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "coperchio vasetto yogurt": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cover per cellulare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "crostacei (gusci)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "custodia cd e dvd": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "dentifricio (tubetto vuoto)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "depliant": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "detersivo ( acone)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "detersivo (scatola)": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "diario": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "dischi e dischetti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "divisori in plastica per dolciumi": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "elastici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "erba (piccoli sfalci e potature)": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "escrementi di animali domestici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "etichette adesive": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "evidenziatori": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "faldoni in cartone": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fazzoletti di carta": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fazzoletti di stoffa": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "feltrini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fiale di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fiammiferi e cerini": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "figurine adesive e stickers": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fili elettrici (da utenze domestiche)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "film e pellicole da imbalalggio": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "filo interdentale": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "filtri di thè e caffè": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fiori secchi e recisi": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "flaconi per detersivi, detergenti ecc.": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "floppy disk": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fogli alluminio/stagnola": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fogli di carta e cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "foglie": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "fondi di caffè o thè": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "frutta": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "ganci per chiudere i sacchetti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "garze": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "giocattoli di piccole dimesioni": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "gomma da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "gomma e gommapiuma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "gomma per cancellare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "gratta e vinci": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "grucce in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "guanti in gomma o lattice": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "guarnizioni (solo da utenze domestiche)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "gusci di frutta secca": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "gusci d’uovo": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "imballaggi con simboli pet,pe,pp,pvc": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "imballaggi in carta o cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "imballaggi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "imballaggi in polistirolo": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "imballaggi in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "incarti in alluminio di cioccolatini": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "incarti trasparenti (brioche, caramelle)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "incensi": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "insetti": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "involucro cassette audio/video/cd (imballo)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lacca per capelli (contenitore vuoto)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lacci per scarpe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lamette usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lattine per bibite e conserve": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "legno da piccole potatura": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lenti a contatto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lettiera naturale per animali": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lettiera sintetica per animali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "lische di pesce": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "matite": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "metro da sarta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "mollette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "mozziconi di sigaretta e sigari": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "musicassette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "nastri inchiostrati per maccine da scrivere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "nastri magnetici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "nastri per regali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "nastro adesivo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "noccioli/noci di cocco": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "nylon": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "occhiali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "opuscoli": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "ortaggi": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "ossi (avanzi di cibo)": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "ovatta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "paglia": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "palloncini e palloni da gioco": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "panni elettrostatici per la polvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "pelle di daino per auto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "pellicola trasparente per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "pennarelli e penne": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "pennelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "pesce": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "pettine e spazzole": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "piante (senza vaso e terra)": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "piastrine per zanzare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "piatti compostabili": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "piatti in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "polistirolo (vaschette per alimenti)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "polveri di pulizia domestica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "portauova di cartone": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "portauova di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "posate in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "posate usa e getta compostabili e in legno": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "profumo (contenitore vuoto di plastica)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "profumo (contenitore vuoto in vetro)": {
+   "dove": "vetro",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "quotidiani": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "reggette per legatura pacchi": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "reti in plastica per frutta e verdura": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "righelli e squadrette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "riviste e giornali": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sacchetti di carta puliti": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sacchetti di carta unti o sporchi di alimenti": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sacchetti di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sacchetti per aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sacchetti poliaccoppiati con interno in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "saponetta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "scarti di cucina, frutta e verdura": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "scatole in carta e cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "scatolette per alimenti in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "scopini wc": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "segatura": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "shopper di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sigarette e sigari": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "smalti per unghie (contenitore vuoto)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "spago alimentare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "spazzole": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "spazzolini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "spiedini di legno": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "spugnette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "stagnola/foglio alluminio (es. coperchi yogurt)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "stecco gelato": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "stoviglie in materiale compostabile": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "stoviglie in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "stracci": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "stuzzicadenti": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "sughero": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tabacco": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tamponi per timbri": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "taniche inferiori a 5 litri per uso domestico": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tappi in metallo e a corona": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tappi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tappi in sughero": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tappi in sughero sintetico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "terriccio per piante": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tetra pack (latte, succhi, vino, panna)": {
+   "dove": "carta",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "timbri": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tovaglioli e tovaglie di carta": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "trucchi (contenitore di plastica vuoto)": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "tubetti di colore": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "unghie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "unguenti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "uova": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "vaschette di plastica o polistirolo per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "vasetti di plastica per yogurt": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "vasi in cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "vasi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "verdura": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "videocassette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "videogiochi (cd/cartucce)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "yogurt": {
+   "dove": "organico",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  },
+  "zerbino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire modalità di esposizione, zona e requisiti della propria utenza."
+  }
+ }
+}

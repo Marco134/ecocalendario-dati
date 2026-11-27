@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Mola di Bari",
+ "provincia": "BA",
+ "gestore": "Navita",
+ "zona": "Agro",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba8.it/wp-content/uploads/2021/11/Mola_utenze-domestiche-pag3.pdf | https://www.aroba8.it/mola-di-bari/ | https://www.aroba8.it/wp-content/uploads/2021/12/Ordinanza-conferimento-rifiuti-Mola-di-Bari-n.97-del-27.11.2021.pdf | https://www.halleyweb.com/c072035/zf/index.php/atti-amministrativi/liquidazioni/dettaglio/table-liquidazioni-public-page/3/atto/G5WpjNUTUaz0-A",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "vetro"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Verificare col gestore la zona per il civico e le modalità dei servizi a chiamata. Nell’agro è prevista la compostiera per l’organico."
+ ],
+ "esposizione": "Dalle 21:00 del giorno precedente alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}

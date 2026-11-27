@@ -6864,6 +6864,36 @@
    ]
   },
   {
+   "id": "conversano",
+   "nome": "Conversano",
+   "provincia": "BA",
+   "gestore": "SI.ECO",
+   "consorzio": "aroba8-conversano-und",
+   "lat": 40.968396,
+   "lon": 17.113771,
+   "zone_url": "https://www.aroba8.it/conversano/",
+   "zone": [
+    {
+     "id": "no-food-centro",
+     "nome": "No food · Centro urbano e Triggianello",
+     "file": "comuni/conversano/zona-no-food-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "no-food-agro",
+     "nome": "No food · Agro",
+     "file": "comuni/conversano/zona-no-food-agro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food",
+     "nome": "Attività che somministrano alimenti",
+     "file": "comuni/conversano/zona-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "corato",
    "nome": "Corato",
    "provincia": "BA",
@@ -11909,6 +11939,36 @@
    ]
   },
   {
+   "id": "mola-di-bari",
+   "nome": "Mola di Bari",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba8-mola-di-bari-und",
+   "lat": 41.061323,
+   "lon": 17.091711,
+   "zone_url": "https://www.aroba8.it/mola-di-bari/",
+   "zone": [
+    {
+     "id": "no-food-centro",
+     "nome": "No food · Centro urbano",
+     "file": "comuni/mola-di-bari/zona-no-food-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "no-food-agro",
+     "nome": "No food · Agro",
+     "file": "comuni/mola-di-bari/zona-no-food-agro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food",
+     "nome": "Attività che somministrano alimenti",
+     "file": "comuni/mola-di-bari/zona-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "mombello-di-torino",
    "nome": "Mombello di Torino",
    "provincia": "TO",
@@ -12216,6 +12276,36 @@
     }
    ],
    "ecocentri": "ecocentri/garda-und-moniga-del-garda.json"
+  },
+  {
+   "id": "monopoli",
+   "nome": "Monopoli",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba8-monopoli-und",
+   "lat": 40.952237,
+   "lon": 17.299948,
+   "zone_url": "https://www.aroba8.it/monopoli/",
+   "zone": [
+    {
+     "id": "no-food-centro",
+     "nome": "No food · Centro urbano",
+     "file": "comuni/monopoli/zona-no-food-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "no-food-agro",
+     "nome": "No food · Agro",
+     "file": "comuni/monopoli/zona-no-food-agro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food",
+     "nome": "Attività che somministrano alimenti",
+     "file": "comuni/monopoli/zona-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "monta",
@@ -15029,6 +15119,36 @@
     }
    ],
    "zone_url": "https://www.ambienteservizi.net/comuni/polcenigo"
+  },
+  {
+   "id": "polignano-a-mare",
+   "nome": "Polignano a Mare",
+   "provincia": "BA",
+   "gestore": "Navita",
+   "consorzio": "aroba8-polignano-a-mare-und",
+   "lat": 40.996118,
+   "lon": 17.219586,
+   "zone_url": "https://www.aroba8.it/polignano-a-mare/",
+   "zone": [
+    {
+     "id": "no-food-centro",
+     "nome": "No food · Centro urbano",
+     "file": "comuni/polignano-a-mare/zona-no-food-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "no-food-agro",
+     "nome": "No food · Agro",
+     "file": "comuni/polignano-a-mare/zona-no-food-agro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food",
+     "nome": "Attività che somministrano alimenti",
+     "file": "comuni/polignano-a-mare/zona-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "polpenazze-del-garda",
@@ -22769,6 +22889,30 @@
    "gestore": "SI.ECO",
    "ecocentri": "ecocentri/aroba7-valenzano-und.json",
    "regole": "regole/aroba7-valenzano.json"
+  },
+  "aroba8-conversano-und": {
+   "nome": "ARO BA/8 · Conversano",
+   "gestore": "SI.ECO",
+   "ecocentri": "ecocentri/aroba8-conversano-und.json",
+   "regole": "regole/aroba8-conversano.json"
+  },
+  "aroba8-mola-di-bari-und": {
+   "nome": "ARO BA/8 · Mola di Bari",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba8-mola-di-bari-und.json",
+   "regole": "regole/aroba8-mola-di-bari.json"
+  },
+  "aroba8-monopoli-und": {
+   "nome": "ARO BA/8 · Monopoli",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba8-monopoli-und.json",
+   "regole": "regole/aroba8-monopoli.json"
+  },
+  "aroba8-polignano-a-mare-und": {
+   "nome": "ARO BA/8 · Polignano a Mare",
+   "gestore": "Navita",
+   "ecocentri": "ecocentri/aroba8-polignano-a-mare-und.json",
+   "regole": "regole/aroba8-polignano-a-mare.json"
   }
  }
 }

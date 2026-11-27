@@ -5040,6 +5040,82 @@
       "regole_en": [
         "Contact the provider to verify eligibility and book a pickup."
       ]
+    },
+    {
+      "id": "aroba8-conversano",
+      "nome": "SI.ECO · Conversano · UD",
+      "gestori": [],
+      "comuni": [
+        "conversano"
+      ],
+      "telefono": "800 999 531",
+      "fonte": "https://www.siecospa.it/project/conversano/ | https://www.aroba8.it/conversano/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Prenotazione di ingombranti tramite numero verde, WhatsApp 340 6027179 o canali del gestore. Per le attività verificare condizioni e materiali ammessi."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba8-mola-di-bari",
+      "nome": "Navita · Mola di Bari · UD",
+      "gestori": [],
+      "comuni": [
+        "mola-di-bari"
+      ],
+      "telefono": "800 098 563",
+      "fonte": "https://www.aroba8.it/wp-content/uploads/2021/12/Ordinanza-conferimento-rifiuti-Mola-di-Bari-n.97-del-27.11.2021.pdf | https://www.aroba8.it/mola-di-bari/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro ingombranti e RAEE di grandi dimensioni su prenotazione per le utenze domestiche. Confermare quantitativi e modalità con Navita."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba8-monopoli",
+      "nome": "Navita · Monopoli · UD",
+      "gestori": [],
+      "comuni": [
+        "monopoli"
+      ],
+      "telefono": "800 098 563",
+      "fonte": "https://www.comune.monopoli.ba.it/ocmultibinary/download/3191/48472/1/6e3387a1dd027a8488774f5d0b9477ca.pdf/file/Ordinanza%252Bn.%252B706%252Bdel%252B26.11.2021.pdf | https://www.aroba8.it/monopoli/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "Ritiro domestico gratuito a domicilio su prenotazione con Navita o via WhatsApp 389 0169439. Verificare tipologie, limiti e accesso per l’attività."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
+    },
+    {
+      "id": "aroba8-polignano-a-mare",
+      "nome": "Navita · Polignano a Mare · UD",
+      "gestori": [],
+      "comuni": [
+        "polignano-a-mare"
+      ],
+      "telefono": "800 098 563",
+      "fonte": "https://www.aroba8.it/wp-content/uploads/2024/05/Carta_Servizi_-_Comune_di_Polignano_a_Mare_-_28_12_2022-15_49_28.pdf | https://www.aroba8.it/polignano-a-mare/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-27",
+      "regole": [
+        "La Carta del servizio indica il ritiro su chiamata tramite Navita. Verificare RAEE, limiti e requisiti della propria utenza."
+      ],
+      "regole_en": [
+        "Contact the provider to verify eligibility and book a pickup."
+      ]
     }
   ]
 }

@@ -1,0 +1,118 @@
+{
+ "schema": 1,
+ "comune": "Conversano",
+ "provincia": "BA",
+ "gestore": "SI.ECO",
+ "zona": "Centro urbano e Triggianello",
+ "valido_dal": "2026-11-27",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.siecospa.it/web/wp-content/uploads/2021/11/udund.pdf | https://www.aroba8.it/conversano/ | https://www.siecospa.it/project/conversano/ | https://www.halleyweb.com/c072035/zf/index.php/atti-amministrativi/liquidazioni/dettaglio/table-liquidazioni-public-page/3/atto/G5WpjNUTUaz0-A",
+ "raccolte": {
+  "2026-11-27": [
+   "organico"
+  ],
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-11-29": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-06": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-13": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-20": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-27": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Turni ordinari dalla fonte ufficiale. Verificare variazioni festive, la propria zona e il programma 2027. Verificare col gestore la zona per il civico e le modalità dei servizi a chiamata."
+ ],
+ "esposizione": "Dalle 21:00 del giorno precedente alle 05:00 del giorno di raccolta.",
+ "esposizione_entro": "05:00"
+}
