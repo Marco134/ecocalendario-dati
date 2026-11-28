@@ -10,7 +10,8 @@
       "dove": "plastica"
     },
     "imballaggi metallici": {
-      "dove": "lattine"
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
     },
     "carta": {
       "dove": "carta"

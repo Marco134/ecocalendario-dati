@@ -56,23 +56,23 @@
       "nota": "Frazione multimateriale plastica e metalli."
     },
     "lattine in alluminio": {
-      "dove": "lattine",
+      "dove": "plastica",
       "nota": "Frazione multimateriale plastica e metalli."
     },
     "scatolette di tonno": {
-      "dove": "lattine",
+      "dove": "plastica",
       "nota": "Frazione multimateriale plastica e metalli."
     },
     "barattoli di latta": {
-      "dove": "lattine",
+      "dove": "plastica",
       "nota": "Frazione multimateriale plastica e metalli."
     },
     "vaschette in alluminio": {
-      "dove": "lattine",
+      "dove": "plastica",
       "nota": "Frazione multimateriale plastica e metalli."
     },
     "carta alluminio": {
-      "dove": "lattine",
+      "dove": "plastica",
       "nota": "Frazione multimateriale plastica e metalli."
     },
     "bottiglie di vetro": {
@@ -142,14 +142,14 @@
       "nota": "Secondo la guida domestica Velia."
     },
     "olio vegetale esausto": {
-      "dove": "ecocentro",
+      "dove": "varia",
       "nota": "La guida indica anche contenitori dedicati in via Cairoli presso i vigili e corso Umberto presso il liceo. Verificare prima del conferimento."
     },
     "farmaci scaduti": {
       "dove": "farmacia"
     },
     "pile esauste": {
-      "dove": "ecocentro",
+      "dove": "pile",
       "nota": "Usare anche i contenitori dedicati presso i rivenditori."
     }
   }
