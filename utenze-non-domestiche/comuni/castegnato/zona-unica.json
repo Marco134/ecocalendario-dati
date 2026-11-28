@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "comune": "Castegnato",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/castegnato-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-28": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Pannolini, sfalci, ingombranti, Ecocar e spazzamento strade non sono riportati: vedi il calendario del Comune.",
+  "Ingombranti e informazioni: numero verde Aprica 800 437678 o app PULIamo.",
+  "Per le utenze non domestiche l’indifferenziato è raccolto ogni settimana, come indicato nel calendario del Comune."
+ ]
+}

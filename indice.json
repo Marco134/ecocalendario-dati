@@ -1017,6 +1017,22 @@
       ]
     },
     {
+      "id": "azzano-mella",
+      "nome": "Azzano Mella",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4548,
+      "lon": 10.1136,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/azzano-mella/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "azzate",
       "nome": "Azzate",
       "provincia": "VA",
@@ -1083,6 +1099,29 @@
         }
       ],
       "zone_url": "https://www.apricaspa.it/it/bagnolo-cremasco"
+    },
+    {
+      "id": "bagnolo-mella",
+      "nome": "Bagnolo Mella",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.429,
+      "lon": 10.1793,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/bagnolo-mella/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/bagnolo-mella/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/bagnolo-mella"
     },
     {
       "id": "bagnoregio",
@@ -1524,6 +1563,22 @@
       ]
     },
     {
+      "id": "bedizzole",
+      "nome": "Bedizzole",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5104,
+      "lon": 10.4228,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bedizzole/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bee",
       "nome": "Bee",
       "provincia": "VB",
@@ -1722,6 +1777,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/berbenno-di-valtellina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "berlingo",
+      "nome": "Berlingo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5028,
+      "lon": 10.033,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/berlingo/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -2174,6 +2245,22 @@
       "zone_url": "https://cecrifiuti.it/calendari-di-raccolta/"
     },
     {
+      "id": "borgo-san-giacomo",
+      "nome": "Borgo San Giacomo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.3501,
+      "lon": 9.971,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgo-san-giacomo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "borgo-san-giovanni",
       "nome": "Borgo San Giovanni",
       "provincia": "LO",
@@ -2306,6 +2393,22 @@
       ]
     },
     {
+      "id": "borgosatollo",
+      "nome": "Borgosatollo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4751,
+      "lon": 10.236,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/borgosatollo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bormio",
       "nome": "Bormio",
       "provincia": "SO",
@@ -2430,6 +2533,22 @@
         }
       ],
       "zone_url": "https://coabser.it/pdf/calendari_raccolte/bra.pdf"
+    },
+    {
+      "id": "brandico",
+      "nome": "Brandico",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4543,
+      "lon": 10.0509,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brandico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "brandizzo",
@@ -4513,6 +4632,22 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/castagnole-piemonte/"
     },
     {
+      "id": "castegnato",
+      "nome": "Castegnato",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5621,
+      "lon": 10.1168,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castegnato/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "castel-gabbiano",
       "nome": "Castel Gabbiano",
       "provincia": "CR",
@@ -4950,6 +5085,22 @@
       ]
     },
     {
+      "id": "castrezzato",
+      "nome": "Castrezzato",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5111,
+      "lon": 9.9767,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castrezzato/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "castronno",
       "nome": "Castronno",
       "provincia": "VA",
@@ -5151,6 +5302,22 @@
           "nome": "Zona unica",
           "file": "comuni/cedegolo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cellatica",
+      "nome": "Cellatica",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5827,
+      "lon": 10.1778,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cellatica/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -6710,6 +6877,22 @@
       ]
     },
     {
+      "id": "corzano",
+      "nome": "Corzano",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4442,
+      "lon": 10.0078,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/corzano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cosio-valtellino",
       "nome": "Cosio Valtellino",
       "provincia": "SO",
@@ -8251,6 +8434,22 @@
       ]
     },
     {
+      "id": "gardone-val-trompia",
+      "nome": "Gardone Val Trompia",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6891,
+      "lon": 10.1822,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gardone-val-trompia/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "gargallo",
       "nome": "Gargallo",
       "provincia": "NO",
@@ -9257,6 +9456,22 @@
       ]
     },
     {
+      "id": "iseo",
+      "nome": "Iseo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6598,
+      "lon": 10.05,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/iseo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "isolabella",
       "nome": "Isolabella",
       "provincia": "TO",
@@ -10030,6 +10245,22 @@
       "zone_url": "https://www.teknoserviceitalia.com/piemonte/torino/locana/"
     },
     {
+      "id": "lograto",
+      "nome": "Lograto",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4832,
+      "lon": 10.0574,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lograto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "lomagna",
       "nome": "Lomagna",
       "provincia": "LC",
@@ -10510,6 +10741,22 @@
       "zone_url": "https://www.apricaspa.it/it/mairago"
     },
     {
+      "id": "mairano",
+      "nome": "Mairano",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4502,
+      "lon": 10.0763,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mairano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "malegno",
       "nome": "Malegno",
       "provincia": "BS",
@@ -10803,6 +11050,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/margno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "marone",
+      "nome": "Marone",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.7371,
+      "lon": 10.0916,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/marone/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -12835,6 +13098,22 @@
       ]
     },
     {
+      "id": "ome",
+      "nome": "Ome",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6249,
+      "lon": 10.1242,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ome/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "omegna",
       "nome": "Omegna",
       "provincia": "VB",
@@ -13092,6 +13371,22 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
     },
     {
+      "id": "orzivecchi",
+      "nome": "Orzivecchi",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4209,
+      "lon": 9.9605,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/orzivecchi/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "osasco",
       "nome": "Osasco",
       "provincia": "TO",
@@ -13138,6 +13433,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/osnago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ospitaletto",
+      "nome": "Ospitaletto",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5569,
+      "lon": 10.0752,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ospitaletto/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -13223,6 +13534,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/paderno-d-adda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "paderno-franciacorta",
+      "nome": "Paderno Franciacorta",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5904,
+      "lon": 10.0778,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/paderno-franciacorta/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -13452,6 +13779,22 @@
           "nome": "Zona unica",
           "file": "comuni/paruzzaro/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "passirano",
+      "nome": "Passirano",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5982,
+      "lon": 10.064,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/passirano/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -14201,6 +14544,22 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/piscina/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pisogne",
+      "nome": "Pisogne",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.8048,
+      "lon": 10.1089,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pisogne/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -15569,6 +15928,22 @@
       "zone_url": "https://valpeambiente.it"
     },
     {
+      "id": "roccafranca",
+      "nome": "Roccafranca",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4641,
+      "lon": 9.912,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/roccafranca/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "roccasparvera",
       "nome": "Roccasparvera",
       "provincia": "CN",
@@ -15956,6 +16331,22 @@
           "nome": "Cassonetti stradali (nessun porta a porta)",
           "file": "comuni/salbertrand/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sale-marasino",
+      "nome": "Sale Marasino",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.7141,
+      "lon": 10.1129,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sale-marasino/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -16468,6 +16859,22 @@
       ]
     },
     {
+      "id": "san-paolo",
+      "nome": "San Paolo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.3713,
+      "lon": 10.0246,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-paolo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "san-pietro-val-lemina",
       "nome": "San Pietro Val Lemina",
       "provincia": "TO",
@@ -16826,6 +17233,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/santo-stefano-roero/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sarezzo",
+      "nome": "Sarezzo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6538,
+      "lon": 10.203,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sarezzo/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -17561,6 +17984,22 @@
           "nome": "Zona unica",
           "file": "comuni/sulbiate/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "sulzano",
+      "nome": "Sulzano",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6907,
+      "lon": 10.1028,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/sulzano/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -19399,6 +19838,22 @@
       ]
     },
     {
+      "id": "villa-carcina",
+      "nome": "Villa Carcina",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6314,
+      "lon": 10.1953,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villa-carcina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "villa-san-giovanni-in-tuscia",
       "nome": "Villa San Giovanni in Tuscia",
       "provincia": "VT",
@@ -19445,6 +19900,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/villa-di-tirano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villachiara",
+      "nome": "Villachiara",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.3569,
+      "lon": 9.9296,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villachiara/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -20389,6 +20860,22 @@
           "nome": "Zona unica",
           "file": "comuni/zogno/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "zone",
+      "nome": "Zone",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.7622,
+      "lon": 10.1166,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/zone/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },

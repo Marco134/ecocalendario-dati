@@ -5611,6 +5611,54 @@
       "regole_en": [
         "Free pickup for households only. Book online or by phone. Up to three items per pickup."
       ]
+    },
+    {
+      "id": "aprica-bresciano",
+      "nome": "Aprica · Bresciano",
+      "gestori": [],
+      "comuni": [
+        "azzano-mella",
+        "bagnolo-mella",
+        "bedizzole",
+        "berlingo",
+        "borgo-san-giacomo",
+        "borgosatollo",
+        "brandico",
+        "castegnato",
+        "castrezzato",
+        "cellatica",
+        "corzano",
+        "gardone-val-trompia",
+        "iseo",
+        "lograto",
+        "mairano",
+        "marone",
+        "ome",
+        "orzivecchi",
+        "ospitaletto",
+        "paderno-franciacorta",
+        "passirano",
+        "pisogne",
+        "roccafranca",
+        "sale-marasino",
+        "san-paolo",
+        "sarezzo",
+        "sulzano",
+        "villa-carcina",
+        "villachiara",
+        "zone"
+      ],
+      "telefono": "800 437678",
+      "fonte": "https://www.apricaspa.it/",
+      "prenotazione": true,
+      "prenota_url": "https://www.apricaspa.it/",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro su prenotazione al numero verde Aprica 800 437678, con l’app PULIamo o dal sito apricaspa.it, nei giorni indicati dal calendario del Comune."
+      ],
+      "regole_en": [
+        "Book with Aprica on 800 437678 or the PULIamo app."
+      ]
     }
   ]
 }

@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "comune": "Bedizzole",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/bedizzole-calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Pannolini, sfalci, ingombranti, Ecocar e spazzamento strade non sono riportati: vedi il calendario del Comune.",
+  "Ingombranti e informazioni: numero verde Aprica 800 437678 o app PULIamo."
+ ]
+}

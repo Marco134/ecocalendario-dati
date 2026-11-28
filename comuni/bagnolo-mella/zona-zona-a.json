@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "comune": "Bagnolo Mella",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona A",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti tra le 18:00 e le 20:00 del giorno di raccolta. Il 24 e il 31 dicembre esporre entro le 11:00 (raccolta anticipata al pomeriggio).",
+ "esposizione_entro": "20:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-12/bagnolo-mella-calendario-zona-a-rd.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-25": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta",
+   "vetro",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Pannolini, sfalci, ingombranti, Ecocar e spazzamento strade non sono riportati: vedi il calendario del Comune.",
+  "Ingombranti e informazioni: numero verde Aprica 800 437678 o app PULIamo."
+ ]
+}

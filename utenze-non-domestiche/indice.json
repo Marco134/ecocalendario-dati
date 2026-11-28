@@ -25988,6 +25988,150 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "brandico",
+   "nome": "Brandico",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.4543,
+   "lon": 10.0509,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/brandico/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "castegnato",
+   "nome": "Castegnato",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.5621,
+   "lon": 10.1168,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/castegnato/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "corzano",
+   "nome": "Corzano",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.4442,
+   "lon": 10.0078,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/corzano/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "gardone-val-trompia",
+   "nome": "Gardone Val Trompia",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.6891,
+   "lon": 10.1822,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/gardone-val-trompia/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "iseo",
+   "nome": "Iseo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.6598,
+   "lon": 10.05,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/iseo/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "lograto",
+   "nome": "Lograto",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.4832,
+   "lon": 10.0574,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/lograto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "orzivecchi",
+   "nome": "Orzivecchi",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.4209,
+   "lon": 9.9605,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/orzivecchi/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "paderno-franciacorta",
+   "nome": "Paderno Franciacorta",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.5904,
+   "lon": 10.0778,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/paderno-franciacorta/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "roccafranca",
+   "nome": "Roccafranca",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.4641,
+   "lon": 9.912,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/roccafranca/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {

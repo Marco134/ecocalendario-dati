@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1269,
+ "totale": 1299,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -13551,6 +13551,306 @@
    "valido_al": "2026-12-31",
    "zone_und": 7,
    "nota": "Sette zone verificate per uffici, studi professionali e attività simili. Per UND ordinarie con imballaggi di cartone, H.A.C.C.P. e strutture ricettive sono disponibili prospetti settimanali privi di validità datata. Resta da acquisire la griglia annuale o la conferma delle variazioni e il periodo di validità."
+  },
+  {
+   "id": "azzano-mella",
+   "nome": "Azzano Mella",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/azzano-mella-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "bagnolo-mella",
+   "nome": "Bagnolo Mella",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-12/bagnolo-mella-calendario-zona-a-rd.pdf | https://content.apricaspa.it/sites/default/files/2024-12/bagnolo-mella-calendario-zona-b-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "bedizzole",
+   "nome": "Bedizzole",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/bedizzole-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "berlingo",
+   "nome": "Berlingo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/berlingo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "borgo-san-giacomo",
+   "nome": "Borgo San Giacomo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Borgo-San-Giacomo_calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "borgosatollo",
+   "nome": "Borgosatollo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/borgosatollo-calendario-rd_1.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "brandico",
+   "nome": "Brandico",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/brandico-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "castegnato",
+   "nome": "Castegnato",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/castegnato-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "castrezzato",
+   "nome": "Castrezzato",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/castrezzato-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "cellatica",
+   "nome": "Cellatica",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/cellatica-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "corzano",
+   "nome": "Corzano",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/corzano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "gardone-val-trompia",
+   "nome": "Gardone Val Trompia",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/gardone-val-trompia-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "iseo",
+   "nome": "Iseo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/iseo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "lograto",
+   "nome": "Lograto",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/lograto-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "mairano",
+   "nome": "Mairano",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/mairano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "marone",
+   "nome": "Marone",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/marone-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "ome",
+   "nome": "Ome",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/ome-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "orzivecchi",
+   "nome": "Orzivecchi",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/orzivecchi-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "ospitaletto",
+   "nome": "Ospitaletto",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/ospitaletto-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "paderno-franciacorta",
+   "nome": "Paderno Franciacorta",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/paderno-franciacorta-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "passirano",
+   "nome": "Passirano",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/passirano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "san-paolo",
+   "nome": "San Paolo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/san-paolo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "pisogne",
+   "nome": "Pisogne",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/pisogne-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "roccafranca",
+   "nome": "Roccafranca",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/roccafranca-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "sale-marasino",
+   "nome": "Sale Marasino",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/sale-marasino-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "sarezzo",
+   "nome": "Sarezzo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/sarezzo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "sulzano",
+   "nome": "Sulzano",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/sulzano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "villa-carcina",
+   "nome": "Villa Carcina",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/villa-carcina-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "villachiara",
+   "nome": "Villachiara",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/villachiara-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "zone",
+   "nome": "Zone",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/zone-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
   }
  ]
 }
