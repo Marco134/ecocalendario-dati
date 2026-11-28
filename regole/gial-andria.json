@@ -1,0 +1,127 @@
+{
+  "schema": 1,
+  "nome": "Andria · Materiali",
+  "fonte": "https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Calendario-UD-Zona-1.pdf",
+  "voci": {
+    "scarti di frutta e verdura": {
+      "dove": "organico",
+      "nota": "Usare sacchetti biodegradabili e compostabili."
+    },
+    "fondi di caffè": {
+      "dove": "organico",
+      "nota": "Usare sacchetti biodegradabili e compostabili."
+    },
+    "filtri del tè": {
+      "dove": "organico",
+      "nota": "Usare sacchetti biodegradabili e compostabili."
+    },
+    "gusci d’uovo": {
+      "dove": "organico",
+      "nota": "Usare sacchetti biodegradabili e compostabili."
+    },
+    "tappi di sughero": {
+      "dove": "organico",
+      "nota": "Usare sacchetti biodegradabili e compostabili."
+    },
+    "cartone della pizza sporco": {
+      "dove": "organico",
+      "nota": "Usare sacchetti biodegradabili e compostabili."
+    },
+    "giornali": {
+      "dove": "carta",
+      "nota": "Seguire la raccolta della carta indicata per la propria utenza."
+    },
+    "libri": {
+      "dove": "carta",
+      "nota": "Seguire la raccolta della carta indicata per la propria utenza."
+    },
+    "quaderni": {
+      "dove": "carta",
+      "nota": "Seguire la raccolta della carta indicata per la propria utenza."
+    },
+    "riviste": {
+      "dove": "carta",
+      "nota": "Seguire la raccolta della carta indicata per la propria utenza."
+    },
+    "sacchetti di carta": {
+      "dove": "carta",
+      "nota": "Seguire la raccolta della carta indicata per la propria utenza."
+    },
+    "scatole in cartoncino": {
+      "dove": "carta",
+      "nota": "Seguire la raccolta della carta indicata per la propria utenza."
+    },
+    "bottiglie di plastica": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "flaconi di detergenti": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "lattine": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "imballaggi in polistirolo": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "tappi a corona": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "vaschette in alluminio": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "cartoni per bevande": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "tetrapak": {
+      "dove": "plastica",
+      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro",
+      "nota": "Seguire le modalità della propria utenza."
+    },
+    "vasetti di vetro": {
+      "dove": "vetro",
+      "nota": "Seguire le modalità della propria utenza."
+    },
+    "boccette di profumo in vetro": {
+      "dove": "vetro",
+      "nota": "Seguire le modalità della propria utenza."
+    },
+    "scontrini": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    },
+    "carta da forno": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    },
+    "bicchieri di vetro": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    },
+    "posate di plastica": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    },
+    "spugne": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    },
+    "pannolini": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    },
+    "pannoloni": {
+      "dove": "indifferenziato",
+      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
+    }
+  }
+}

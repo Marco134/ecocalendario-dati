@@ -1,0 +1,121 @@
+{
+  "schema": 1,
+  "comune": "Andria",
+  "provincia": "BT",
+  "gestore": "Gial Ambiente",
+  "zona": "Zona 2 · Studi professionali",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.comune.andria.bt.it/it/garbage-calendar/11273?year=2026&month=11 | https://www.comune.andria.bt.it/it/garbage-calendar/11273?year=2026&month=12 | https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Calendario-UD-Zona-2.pdf",
+  "raccolte": {
+    "2026-11-28": [
+      "organico",
+      "plastica"
+    ],
+    "2026-11-30": [
+      "carta"
+    ],
+    "2026-12-01": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-02": [
+      "plastica"
+    ],
+    "2026-12-03": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-04": [
+      "vetro"
+    ],
+    "2026-12-05": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-07": [
+      "carta"
+    ],
+    "2026-12-08": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-09": [
+      "plastica"
+    ],
+    "2026-12-10": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-11": [
+      "vetro"
+    ],
+    "2026-12-12": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-14": [
+      "carta"
+    ],
+    "2026-12-15": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-16": [
+      "plastica"
+    ],
+    "2026-12-17": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-18": [
+      "vetro"
+    ],
+    "2026-12-19": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-21": [
+      "carta"
+    ],
+    "2026-12-22": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-23": [
+      "plastica"
+    ],
+    "2026-12-24": [
+      "organico",
+      "carta"
+    ],
+    "2026-12-25": [
+      "vetro"
+    ],
+    "2026-12-26": [
+      "organico",
+      "plastica"
+    ],
+    "2026-12-28": [
+      "carta"
+    ],
+    "2026-12-29": [
+      "organico",
+      "indifferenziato"
+    ],
+    "2026-12-30": [
+      "plastica"
+    ],
+    "2026-12-31": [
+      "organico",
+      "carta"
+    ]
+  },
+  "note": [
+    "Elenco delle vie e dei tratti nella zona 2: https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Stradario-Zona-2.pdf",
+    "I ritiri dell’8, 25 e 26 dicembre seguono la griglia datata del Comune.",
+    "Il prospetto Gial equipara esplicitamente gli studi professionali alle utenze domestiche."
+  ],
+  "esposizione": "Esporre dalle 21:00 della sera precedente alle 05:00 del giorno di raccolta secondo il prospetto del gestore.",
+  "esposizione_entro": "05:00"
+}

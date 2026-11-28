@@ -26132,6 +26132,66 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "andria",
+   "nome": "Andria",
+   "provincia": "BT",
+   "gestore": "Gial Ambiente",
+   "consorzio": "gial-andria-und",
+   "lat": 41.2316,
+   "lon": 16.2917,
+   "zone_url": "https://gialambiente.it/comune-di-andria/",
+   "zone": [
+    {
+     "id": "zona-1-studio",
+     "nome": "Zona 1 · Studi professionali",
+     "file": "comuni/andria/zona-1-studio.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-2-studio",
+     "nome": "Zona 2 · Studi professionali",
+     "file": "comuni/andria/zona-2-studio.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-3-studio",
+     "nome": "Zona 3 · Studi professionali",
+     "file": "comuni/andria/zona-3-studio.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-4-studio",
+     "nome": "Zona 4 · Studi professionali",
+     "file": "comuni/andria/zona-4-studio.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-1-attivita",
+     "nome": "Zona 1 · Attività commerciali",
+     "file": "comuni/andria/zona-1-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-2-attivita",
+     "nome": "Zona 2 · Attività commerciali",
+     "file": "comuni/andria/zona-2-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-3-attivita",
+     "nome": "Zona 3 · Attività commerciali",
+     "file": "comuni/andria/zona-3-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-4-attivita",
+     "nome": "Zona 4 · Attività commerciali",
+     "file": "comuni/andria/zona-4-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -26981,6 +27041,12 @@
    "gestore": "Impresa Sangalli",
    "ecocentri": "ecocentri/sangalli-canosa-und.json",
    "regole": "regole/sangalli-canosa-und.json"
+  },
+  "gial-andria-und": {
+   "nome": "Gial Ambiente · Andria",
+   "gestore": "Gial Ambiente",
+   "ecocentri": "ecocentri/gial-andria-und.json",
+   "regole": "regole/gial-andria-und.json"
   }
  }
 }

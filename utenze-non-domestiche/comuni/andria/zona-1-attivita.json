@@ -1,0 +1,122 @@
+{
+  "schema": 1,
+  "comune": "Andria",
+  "provincia": "BT",
+  "gestore": "Gial Ambiente",
+  "zona": "Zona 1 · Attività commerciali",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.comune.andria.bt.it/it/garbage-calendar/11276?year=2026&month=11 | https://www.comune.andria.bt.it/it/garbage-calendar/11276?year=2026&month=12 | https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Calendario-UND-Zona-1.pdf",
+  "raccolte": {
+    "2026-11-28": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-11-30": [
+      "plastica"
+    ],
+    "2026-12-01": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-02": [
+      "vetro"
+    ],
+    "2026-12-03": [
+      "plastica"
+    ],
+    "2026-12-04": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-05": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-07": [
+      "plastica"
+    ],
+    "2026-12-08": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-09": [
+      "vetro"
+    ],
+    "2026-12-10": [
+      "plastica"
+    ],
+    "2026-12-11": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-12": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-14": [
+      "plastica"
+    ],
+    "2026-12-15": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-16": [
+      "vetro"
+    ],
+    "2026-12-17": [
+      "plastica"
+    ],
+    "2026-12-18": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-19": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-21": [
+      "plastica"
+    ],
+    "2026-12-22": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-23": [
+      "vetro"
+    ],
+    "2026-12-24": [
+      "plastica"
+    ],
+    "2026-12-25": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-26": [
+      "plastica",
+      "indifferenziato"
+    ],
+    "2026-12-28": [
+      "plastica"
+    ],
+    "2026-12-29": [
+      "vetro",
+      "carta"
+    ],
+    "2026-12-30": [
+      "vetro"
+    ],
+    "2026-12-31": [
+      "plastica"
+    ]
+  },
+  "note": [
+    "Elenco delle vie e dei tratti nella zona 1: https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Stradario-Zona-1.pdf",
+    "I ritiri dell’8, 25 e 26 dicembre seguono la griglia datata del Comune.",
+    "La voce carta nel calendario comunale indica solo carta. Il gestore indica il cartone dei produttori ordinari nei giorni della carta e un circuito separato per i grandi produttori, con esposizione 12:30–13:30.",
+    "Per le attività del centro storico il prospetto del gestore indica raccolte aggiuntive domenicali di plastica e vetro. Verificare con il gestore gli indirizzi e le date del circuito.",
+    "La griglia comunale di questa zona non espone date per l’umido. Chiedere l’applicabilità al proprio indirizzo."
+  ],
+  "esposizione": "Esporre dalle 21:00 della sera precedente alle 05:00 del giorno di raccolta secondo il prospetto del gestore. Per i grandi produttori di cartone vale la fascia dedicata.",
+  "esposizione_entro": "05:00"
+}

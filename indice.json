@@ -26410,6 +26410,42 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "andria",
+      "nome": "Andria",
+      "provincia": "BT",
+      "gestore": "Gial Ambiente",
+      "consorzio": "gial-andria",
+      "lat": 41.2316,
+      "lon": 16.2917,
+      "zone_url": "https://gialambiente.it/comune-di-andria/",
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/andria/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/andria/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/andria/zona-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-4",
+          "nome": "Zona 4",
+          "file": "comuni/andria/zona-4.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -26999,6 +27035,12 @@
       "gestore": "Impresa Sangalli",
       "ecocentri": "ecocentri/sangalli-canosa.json",
       "regole": "regole/sangalli-canosa.json"
+    },
+    "gial-andria": {
+      "nome": "Gial Ambiente · Andria",
+      "gestore": "Gial Ambiente",
+      "ecocentri": "ecocentri/gial-andria.json",
+      "regole": "regole/gial-andria.json"
     }
   },
   "tipi_en": {

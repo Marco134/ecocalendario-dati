@@ -5659,6 +5659,26 @@
       "regole_en": [
         "Book with Aprica on 800 437678 or the PULIamo app."
       ]
+    },
+    {
+      "id": "gial-andria",
+      "nome": "Gial Ambiente · Andria",
+      "gestori": [],
+      "comuni": [
+        "andria"
+      ],
+      "telefono": "800 959304",
+      "fonte": "https://gialambiente.it/comune-di-andria/",
+      "prenotazione": true,
+      "prenota_url": "https://gialplast.it/ritiro/richieste/insert.php?id_comune=33",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro gratuito su prenotazione di ingombranti, RAEE, sfalci e potature. Da mobile e WhatsApp 328 6955354.",
+        "Verificare con il gestore condizioni e limiti di accesso per le attività."
+      ],
+      "regole_en": [
+        "Book free bulky waste, electronic waste or garden waste pickup. Check business eligibility with the operator."
+      ]
     }
   ]
 }
