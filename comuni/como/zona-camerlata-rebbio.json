@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Camerlata - Rebbio",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: martedì e venerdì. I contenitori e i sacchi possono essere esposti dalle ore 18.00 alle 20.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-camerlata-rebbio-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-11": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-25": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: cilio • Claudiano • Clemente XIII • Collina • Colonna • Cossoni • Cuzzi • De Simone • Dei Mulini • Della Bastiglia • Di Vittorio • Donatori di Sangue • Durini • Ennodio • Garrè • Gasparotto • Giussani • Giustizia e Libertà • Grilloni • Guido da Como • Lenticchia • Lissi • Magni • Monte Bianco • Monte Caprino • Napoleona (da via dei Mulini a Piazzale Camerlata - da civici n. 1 e n. 46 a civici n. 15 e n. 88) • Negretti • Oslavia • Palma • Parrocchiale • Pasquale Paoli • Pasta • Pastonchi • Piazza Fisac • Pino • Primo Maggio • Repubblica Romana • Salardi • Salvadonica • San Francesco d’Assisi • Santa Brigida e Respaù • Scalabrini (da piazza Camerlata a passaggio a livello da civico n. 1 e n. 2 ai civici n. 49 e n. 56) • Severino Gobbi • Spartaco • Spina Verde • Strabone • Tettamanti • Turati • Varesina (da piazza Camerlata via Villa Giovio - da civici n. 1 e n. 2 ai civici n. 132 e n. 187)",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "20:00"
+}

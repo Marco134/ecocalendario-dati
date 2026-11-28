@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Camnago – Civiglio – Garzola – Lora – Muggiò",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I contenitori e i sacchi vanno esposti dalle ore 21.00 del giorno prima della raccolta e fino alle ore 6.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-camnago-civiglio-garzola-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-07": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-14": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-21": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: • Muggiò • Navedano • Nessi • Oltrecolle • Pacinotti • Pagani • Palazzetto • Pannilani • Paradiso • Parasciola • Patrioti • Paul Harris • Per Brunate • Per Civiglio • Peregrini • Perrucchetti • Pianazza • Piazzi • Poggio Rusco • Pratobello • Predari • Primavesi • Quadrio • Ravanera • Rho • Rienza • Salita San Donato • Santa Cecilia • Santa Chiara • Sant’Arialdo da Cuggiago • Scolari • Sebregondi • Serassi • Spallanzani • Stampa • Statale per Lecco • Terlizza • Ticozzi • Tofane • V Alpini • Val Gioera • Velzi • Verga • Volpati • Zampiero Centro di Raccolta Al Centro di Raccolta di via Stazzi puoi portare tutti i rifiuti riciclabili, ingombranti e quelli domestici pericolosi. L’accesso è consentito ai residenti con Ecopass. Orari di apertura Lunedì Chiuso Martedì e Mercoledì* 8.00 - 18.00 Giovedì 8.00 - 12.00 13.00 - 17.00 Venerdì* e Sabato 8.00 - 12.00 13.30 - 17.00 Domenica 7.00 - 12.00",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "06:00"
+}

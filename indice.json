@@ -6920,6 +6920,71 @@
       ]
     },
     {
+      "id": "como",
+      "nome": "Como",
+      "provincia": "CO",
+      "gestore": "Aprica",
+      "lat": 45.81,
+      "lon": 9.0852,
+      "zone": [
+        {
+          "id": "acquanera-albate-bassone-trecallo",
+          "nome": "Acquanera – Albate – Bassone - Trecallo",
+          "file": "comuni/como/zona-acquanera-albate-bassone-trecallo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "breccia-prestino",
+          "nome": "Breccia - Prestino",
+          "file": "comuni/como/zona-breccia-prestino.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "camerlata-rebbio",
+          "nome": "Camerlata - Rebbio",
+          "file": "comuni/como/zona-camerlata-rebbio.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "camnago-civiglio-garzola",
+          "nome": "Camnago – Civiglio – Garzola – Lora – Muggiò",
+          "file": "comuni/como/zona-camnago-civiglio-garzola.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "caserme-sole-madruzza",
+          "nome": "Caserme – Como Sole – Madruzza",
+          "file": "comuni/como/zona-caserme-sole-madruzza.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "borgovico-valduce",
+          "nome": "Centro: Borgovico - Valduce",
+          "file": "comuni/como/zona-borgovico-valduce.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "borghi-san-martino-tangenziale",
+          "nome": "Centro: zona Borghi – San Martino – Tangenziale",
+          "file": "comuni/como/zona-borghi-san-martino-tangenziale.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "monte-olimpino-tavernola",
+          "nome": "Monte Olimpino – Tavernola",
+          "file": "comuni/como/zona-monte-olimpino-tavernola.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "ponte-chiasso-sagnino",
+          "nome": "Ponte Chiasso – Sagnino",
+          "file": "comuni/como/zona-ponte-chiasso-sagnino.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/bergamo"
+    },
+    {
       "id": "concorezzo",
       "nome": "Concorezzo",
       "provincia": "MB",

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Acquanera – Albate – Bassone - Trecallo",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I contenitori e i sacchi vanno esposti dalle ore 21.00 del giorno prima della raccolta e fino alle ore 6.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-acquanera-albate-bassone-trecallo-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Frisia • Galvani • Giannoncelli • Giovane Italia • Giudici • Guicciardi • Interna • IV Novembre • La Favorita • Landriani • Ligari • Longhena • Longoni. Lorenz • Malpighi • Mergheritis • Mariani • Martiri di Cima • Mascherpa • Medici • Meroni • Merzario • Meucci • Mirabello • Monte Goi • Montessori • Monticelli • Ninguarda • Ortigara • Padre Kolbe • Pecco • Picasso • Prinetti • Priva • Rampoldi • Regazzoni • Rezzano • Righi • Ripamonti • Roggia • Roncoroni • Rosati • Sabotino • Sala • San Bernardino da Siena • San Michele del Carso • Sant’Antonino • Scalabrini (da passaggio a livello a confine con Casnate - da civici n. 58 e n. 51 a confini con Casnate) • SchiavioSironi • Somalvico • Somigliana • Sportivi Comaschi • Stazzi • Tagliamento • Tarticchio • Tavani • Tentorio • Terraneo • Tivan • Tobagi • Trecallo • Trombetta • Valbasca • Valera Valerio • Vandelli • Venusti • Visdomini • Zambon",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "06:00"
+}

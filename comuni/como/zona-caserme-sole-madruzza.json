@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Caserme – Como Sole – Madruzza",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I contenitori e i sacchi vanno esposti dalle ore 18.00 alle 20.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-caserme-sole-madruzza-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: incluse nei quartieri Caserme - Como Sole - Madruzza Airoldi • Alciato • Anzani • Barbarossa • Bonomelli • Brenta • Calderini • Cappuccini • Carso • Castel Baradello • Castellini • Castelnuovo • Ciapparelli • Col di Lana • Coretta • Consenz • Cressoni • De Cristoforis • Dei Mille • Duca D’Aosta • El Alamein • Fornace • Frà Silvestro da Siena • Frigerio • Gattoni • Giulio Cesare (solo lato civici pari) • Guaita • Leoni • Madruzza • Magenta • Manara • Mocchetti • Monte Nero • Monte Santo • Montegrappa • Montello • Montelungo • Napoleona (da piazza S. Rocco a via Dei Mulini - dal civico n. 2 al civico n. 44) • Noseda • Palestro • Pastrengo • Rienti • S. Carpoforo • Salita degli Alpini • Salvo D’Acquisto • Silo • Teresa Rimoldi • Valleggio • Viganò • Vodice",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "20:00"
+}

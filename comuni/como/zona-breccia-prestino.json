@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Breccia - Prestino",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: martedì e venerdì. I contenitori e i sacchi vanno esposti dalle ore 21.00 del giorno prima della raccolta e fino alle ore 6.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-breccia-prestino-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-11": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-25": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: quartieri Breccia - Prestino Alberina • Binaghi (detto Gin) • Bonifacio da Modena • Botticelli • Bregno • Buschi • Canonica • Casartelli • Caslaccio • Cassiodoro • Catullo • Claudio Marcello • Colombo • Comum Oppidum • Correggio • D’Annunzio • De Col • Del Dos • Ferrata • Giorgione • Giotto • Giovanni da Caversaccio • Giovanni da Meda • Golasecca • Imbonati • Isonzo • Lazzago • Lorenzo Monaco • Malvito • Mantegna • Masaccio • Masolino da Panicale • Michelangelo • Monte Croce • Monterotondo • Nicolodi • Orazio • Ovidio • Perego • Perugino • Picchi • Piero della Francesca • Pozzi • Prestino • Raffaello • Rimembranza • Risorgimento • Ronchetto • Sacco e Vanzetti • Santa Marta • Sant’Eutichio • Selva Fiorita • Timavo • Tintoretto • Tito Livio • Tiziano • Valorsa • Varesina (dai civici n. 134 e n.1 89 a confine con Comune di Montano Lucino) • XXVII Maggio • Venturino • Villa Giovio • Virgilio",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "06:00"
+}

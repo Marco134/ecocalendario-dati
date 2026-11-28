@@ -1,0 +1,64 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Centro: zona Borghi – San Martino – Tangenziale",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: martedì e venerdì. I contenitori e i sacchi possono essere esposti dalle ore 18.00 alle 20.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-borghi-san-martino-tangenziale-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: • Ambrosoli • Auguadri • Barelli • Bari • Battisti (solo lato civici dispari) • Benzi • Borsieri • Briantea • Brusadelli • Cacciatori delle Alpi • Cadorna • Carloni • Cattaneo • (solo lato civici dispari) • Cetti • Ciceri • Cigalini • Crocerossa • Dante (da via Dottesio a via Ciceri • dai civici n. 94 e n. 125 alla via Ciceri) • Della Tessitrice • Einaudi L. • Gallio • Gerbetto • Giulini • Giulio Cesare (solo lato civici dispari) • Gramsci • Grandi • Innocenzo XI • Italia Libera • Lucini • Mentana • Michele da Carcano • Milano • Minzoni • Morazzone • Mugiasca • Nulli • Pedemonte • Petrarca • Piadeni • Piave • Regina Teodolinda • Rezia • Roosevelt • S. Gottardo • S. Martino • S. Rocchetto • S. Rocco • Sant’Abbondio • Sirtori • Spallino • Tokamachi • Torriani • Varese • Venini • Vittoria • XX Settembre • Zezio (da via Fiume a via Briantea - dai civici n. 40 e n. 41 a via Briantea) • Zucchi",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "20:00"
+}

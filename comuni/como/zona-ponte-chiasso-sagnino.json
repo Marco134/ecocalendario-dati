@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "zona": "Ponte Chiasso – Sagnino",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: mercoledì e sabato. I contenitori e i sacchi possono essere esposti dalle ore 21.00 del giorno prima della raccolta e fino alle ore 6.00 del giorno della raccolta.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-ponte-chiasso-sagnino-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: incluse nei quartieri Ponte Chiasso - Sagnino Ada Negri • Agliati • Al Roccolo • Anna Frank • Antichi Spalloni • Artaria • Baragiola • Barsanti • Beccaria • Bellinzona (da rotonda uscita Autostrada a Dogana CH - dai civici n. 193 e n. 242 a Dogana CH) • Bertolone • Boccioni • Bontempelli • Brogeda • Calvi • Cappelletti • Caracciolo • Caradosso • Caresana • Catenazzi • Ceresola • Comerio • Contireina • Deledda Don Beretta • Don L. Monza • Fattori • Ferabosco • Ferrari E. • Francini • Fulda • Galli • Giordano Bruno • Marchesi • Marco D’Oggiono • Mognano • Oldelli • Olgiati • Ostinelli • Panzini • Papini • Pascoli • Pio XI • Pirandello • Quaglio • Quasimodo • Ristori • Rossini • Sagnino • San Felice • San Giacomo • Segantini • Silva • Solari • Urbano II • Vela • XXIV Maggio • Zanella",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ],
+ "esposizione_entro": "06:00"
+}
