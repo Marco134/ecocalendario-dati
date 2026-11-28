@@ -6636,6 +6636,60 @@
    "regole_en": [
     "Confirm current collection options and eligibility with the operator."
    ]
+  },
+  {
+   "id": "aprica-cremasco-und",
+   "nome": "Aprica · Cremasco · UND",
+   "gestori": [],
+   "comuni": [
+    "annicco",
+    "bagnolo-cremasco",
+    "camisano",
+    "campagnola-cremasca",
+    "capergnanica",
+    "capralba",
+    "casale-cremasco-vidolasco",
+    "casaletto-ceredano",
+    "casaletto-di-sopra",
+    "casaletto-vaprio",
+    "casalmorano",
+    "castel-gabbiano",
+    "chieve",
+    "credera-rubbiano",
+    "cremosano",
+    "cumignano-sul-naviglio",
+    "dovera",
+    "fiesco",
+    "formigara",
+    "genivolta",
+    "gombito",
+    "izano",
+    "madignano",
+    "monte-cremasco",
+    "moscazzano",
+    "offanengo",
+    "palazzo-pignano",
+    "pianengo",
+    "pieranica",
+    "quintano",
+    "ricengo",
+    "ripalta-arpina",
+    "ripalta-cremasca",
+    "ripalta-guerina",
+    "romanengo",
+    "salvirola"
+   ],
+   "telefono": "800 437678",
+   "fonte": "https://www.apricaspa.it/",
+   "prenotazione": true,
+   "prenota_url": "https://www.apricaspa.it/",
+   "verificato": "2026-11-28",
+   "regole": [
+    "Per le attività chiedere ad Aprica (800 437678) se il ritiro è ammesso; le piattaforme accettano solo rifiuti urbani ammessi, alle condizioni del gestore."
+   ],
+   "regole_en": [
+    "Book with Aprica on 800 437678 or the Puliamo app."
+   ]
   }
  ]
 }

@@ -5501,6 +5501,60 @@
       "regole_en": [
         "Confirm current collection options and eligibility with the operator."
       ]
+    },
+    {
+      "id": "aprica-cremasco",
+      "nome": "Aprica · Cremasco",
+      "gestori": [],
+      "comuni": [
+        "annicco",
+        "bagnolo-cremasco",
+        "camisano",
+        "campagnola-cremasca",
+        "capergnanica",
+        "capralba",
+        "casale-cremasco-vidolasco",
+        "casaletto-ceredano",
+        "casaletto-di-sopra",
+        "casaletto-vaprio",
+        "casalmorano",
+        "castel-gabbiano",
+        "chieve",
+        "credera-rubbiano",
+        "cremosano",
+        "cumignano-sul-naviglio",
+        "dovera",
+        "fiesco",
+        "formigara",
+        "genivolta",
+        "gombito",
+        "izano",
+        "madignano",
+        "monte-cremasco",
+        "moscazzano",
+        "offanengo",
+        "palazzo-pignano",
+        "pianengo",
+        "pieranica",
+        "quintano",
+        "ricengo",
+        "ripalta-arpina",
+        "ripalta-cremasca",
+        "ripalta-guerina",
+        "romanengo",
+        "salvirola"
+      ],
+      "telefono": "800 437678",
+      "fonte": "https://www.apricaspa.it/",
+      "prenotazione": true,
+      "prenota_url": "https://www.apricaspa.it/",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro su prenotazione al numero verde Aprica 800 437678 o con l’app Puliamo. In alternativa portare gli ingombranti alla piattaforma ecologica negli orari del calendario."
+      ],
+      "regole_en": [
+        "Book with Aprica on 800 437678 or the Puliamo app."
+      ]
     }
   ]
 }

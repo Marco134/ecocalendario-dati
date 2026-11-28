@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Camisano",
+ "provincia": "CR",
+ "gestore": "Aprica",
+ "zona": "Centro abitato",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Organico e indifferenziato entro le 6:00 del giorno di raccolta; vetro e metalli, carta e plastica entro le 12:00. Nei recuperi festivi esporre tutto entro le 6:00.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/Camisano_calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-27": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Cascine e case sparse: valgono solo le raccolte segnate con l’asterisco nel calendario del Comune.",
+  "Vetro e metalli insieme nel contenitore verde. Ingombranti e informazioni: numero verde Aprica 800 437678 o app Puliamo.",
+  "Per bar e ristoranti la raccolta di vetro e lattine è sempre settimanale e il giorno non cambia, come indicato nel calendario del Comune.",
+  "Piattaforme ecologiche: orari nel calendario; per le attività verificare con Aprica le condizioni di accesso."
+ ]
+}

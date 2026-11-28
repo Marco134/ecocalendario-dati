@@ -25289,6 +25289,618 @@
      "valido_al": "2026-12-22"
     }
    ]
+  },
+  {
+   "id": "annicco",
+   "nome": "Annicco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.2447,
+   "lon": 9.8819,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/annicco/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/annicco"
+  },
+  {
+   "id": "bagnolo-cremasco",
+   "nome": "Bagnolo Cremasco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3615,
+   "lon": 9.6092,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/bagnolo-cremasco/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/bagnolo-cremasco"
+  },
+  {
+   "id": "camisano",
+   "nome": "Camisano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4426,
+   "lon": 9.7462,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/camisano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/camisano"
+  },
+  {
+   "id": "campagnola-cremasca",
+   "nome": "Campagnola Cremasca",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3991,
+   "lon": 9.6694,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/campagnola-cremasca/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/campagnola-cremasca"
+  },
+  {
+   "id": "capergnanica",
+   "nome": "Capergnanica",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3381,
+   "lon": 9.6441,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/capergnanica/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/capergnanica"
+  },
+  {
+   "id": "capralba",
+   "nome": "Capralba",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4423,
+   "lon": 9.6424,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/capralba/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/capralba"
+  },
+  {
+   "id": "casale-cremasco-vidolasco",
+   "nome": "Casale Cremasco-Vidolasco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4316,
+   "lon": 9.7139,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/casale-cremasco-vidolasco/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/casale-cremasco-vidolasco"
+  },
+  {
+   "id": "casaletto-ceredano",
+   "nome": "Casaletto Ceredano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3181,
+   "lon": 9.6168,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/casaletto-ceredano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/casaletto-ceredano"
+  },
+  {
+   "id": "casaletto-di-sopra",
+   "nome": "Casaletto di Sopra",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4186,
+   "lon": 9.7813,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/casaletto-di-sopra/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/casaletto-di-sopra"
+  },
+  {
+   "id": "casaletto-vaprio",
+   "nome": "Casaletto Vaprio",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4073,
+   "lon": 9.629,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/casaletto-vaprio/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/casaletto-vaprio"
+  },
+  {
+   "id": "casalmorano",
+   "nome": "Casalmorano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.2871,
+   "lon": 9.8978,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/casalmorano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/casalmorano"
+  },
+  {
+   "id": "castel-gabbiano",
+   "nome": "Castel Gabbiano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4685,
+   "lon": 9.7176,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/castel-gabbiano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/castel-gabbiano"
+  },
+  {
+   "id": "chieve",
+   "nome": "Chieve",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3375,
+   "lon": 9.6161,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/chieve/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/chieve"
+  },
+  {
+   "id": "credera-rubbiano",
+   "nome": "Credera Rubbiano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3029,
+   "lon": 9.6551,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/credera-rubbiano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/credera-rubbiano"
+  },
+  {
+   "id": "cremosano",
+   "nome": "Cremosano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3958,
+   "lon": 9.6403,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/cremosano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/cremosano"
+  },
+  {
+   "id": "cumignano-sul-naviglio",
+   "nome": "Cumignano sul Naviglio",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3546,
+   "lon": 9.8363,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/cumignano-sul-naviglio/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/cumignano-sul-naviglio"
+  },
+  {
+   "id": "dovera",
+   "nome": "Dovera",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3635,
+   "lon": 9.5382,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/dovera/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/dovera"
+  },
+  {
+   "id": "fiesco",
+   "nome": "Fiesco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3364,
+   "lon": 9.7786,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/fiesco/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/fiesco"
+  },
+  {
+   "id": "formigara",
+   "nome": "Formigara",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.2231,
+   "lon": 9.7707,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/formigara/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/formigara"
+  },
+  {
+   "id": "genivolta",
+   "nome": "Genivolta",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3349,
+   "lon": 9.8778,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/genivolta/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/genivolta"
+  },
+  {
+   "id": "gombito",
+   "nome": "Gombito",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.2622,
+   "lon": 9.73,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/gombito/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/gombito"
+  },
+  {
+   "id": "izano",
+   "nome": "Izano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3557,
+   "lon": 9.7551,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/izano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/izano"
+  },
+  {
+   "id": "madignano",
+   "nome": "Madignano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3433,
+   "lon": 9.7276,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/madignano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/madignano"
+  },
+  {
+   "id": "monte-cremasco",
+   "nome": "Monte Cremasco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3722,
+   "lon": 9.5729,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/monte-cremasco/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/monte-cremasco"
+  },
+  {
+   "id": "moscazzano",
+   "nome": "Moscazzano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.2936,
+   "lon": 9.6813,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/moscazzano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/moscazzano"
+  },
+  {
+   "id": "offanengo",
+   "nome": "Offanengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3816,
+   "lon": 9.7413,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/offanengo/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/offanengo"
+  },
+  {
+   "id": "palazzo-pignano",
+   "nome": "Palazzo Pignano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3891,
+   "lon": 9.5779,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/palazzo-pignano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/palazzo-pignano"
+  },
+  {
+   "id": "pianengo",
+   "nome": "Pianengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4005,
+   "lon": 9.6928,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/pianengo/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/pianengo"
+  },
+  {
+   "id": "pieranica",
+   "nome": "Pieranica",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4252,
+   "lon": 9.6107,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/pieranica/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/pieranica"
+  },
+  {
+   "id": "quintano",
+   "nome": "Quintano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4202,
+   "lon": 9.6184,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/quintano/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/quintano"
+  },
+  {
+   "id": "ricengo",
+   "nome": "Ricengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.4055,
+   "lon": 9.7237,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/ricengo/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/ricengo"
+  },
+  {
+   "id": "ripalta-arpina",
+   "nome": "Ripalta Arpina",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3016,
+   "lon": 9.7273,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/ripalta-arpina/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/ripalta-arpina"
+  },
+  {
+   "id": "ripalta-cremasca",
+   "nome": "Ripalta Cremasca",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3355,
+   "lon": 9.6909,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/ripalta-cremasca/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/ripalta-cremasca"
+  },
+  {
+   "id": "ripalta-guerina",
+   "nome": "Ripalta Guerina",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.306,
+   "lon": 9.7045,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/ripalta-guerina/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/ripalta-guerina"
+  },
+  {
+   "id": "romanengo",
+   "nome": "Romanengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3773,
+   "lon": 9.7855,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/romanengo/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/romanengo"
+  },
+  {
+   "id": "salvirola",
+   "nome": "Salvirola",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.3546,
+   "lon": 9.7804,
+   "zone": [
+    {
+     "id": "centro",
+     "nome": "Centro abitato",
+     "file": "comuni/salvirola/zona-centro.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/salvirola"
   }
  ],
  "consorzi": {

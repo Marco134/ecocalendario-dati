@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "comune": "Genivolta",
+ "provincia": "CR",
+ "gestore": "Aprica",
+ "zona": "Centro abitato",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Organico e indifferenziato entro le 6:00 del giorno di raccolta; vetro e metalli, carta e plastica entro le 12:00. Nei recuperi festivi esporre tutto entro le 6:00.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/genivolta-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-27": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Cascine e case sparse: valgono solo le raccolte segnate con l’asterisco nel calendario del Comune.",
+  "Vetro e metalli insieme nel contenitore verde. Ingombranti e informazioni: numero verde Aprica 800 437678 o app Puliamo."
+ ]
+}

@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1213,
+ "totale": 1249,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12989,6 +12989,366 @@
    "valido_al": "2026-12-22",
    "zone_und": 3,
    "nota": "Verificare il prossimo affidamento e la continuità dei turni oltre il 22 dicembre. Confermare l’8 dicembre, i turni festivi successivi, i servizi per civico dell’agro e l’orario giovedì del CCR Ponente."
+  },
+  {
+   "id": "annicco",
+   "nome": "Annicco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/annicco-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "bagnolo-cremasco",
+   "nome": "Bagnolo Cremasco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/bagnolo-cremasco-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "camisano",
+   "nome": "Camisano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Camisano_calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "campagnola-cremasca",
+   "nome": "Campagnola Cremasca",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Campagnola-Cremasca_calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "capergnanica",
+   "nome": "Capergnanica",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Capergnanica_calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "capralba",
+   "nome": "Capralba",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Capralba_calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "casale-cremasco-vidolasco",
+   "nome": "Casale Cremasco-Vidolasco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Casale-Cremasco-Vidolasco-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "casaletto-ceredano",
+   "nome": "Casaletto Ceredano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/casaletto-ceredano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "casaletto-di-sopra",
+   "nome": "Casaletto di Sopra",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/casaletto-di-sopra-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "casaletto-vaprio",
+   "nome": "Casaletto Vaprio",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/casaletto-vaprio-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "casalmorano",
+   "nome": "Casalmorano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/casalmorano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "castel-gabbiano",
+   "nome": "Castel Gabbiano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/castel-gabbiano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "chieve",
+   "nome": "Chieve",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/chieve-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "credera-rubbiano",
+   "nome": "Credera Rubbiano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/credera-rubbiano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "cremosano",
+   "nome": "Cremosano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/cremosano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "cumignano-sul-naviglio",
+   "nome": "Cumignano sul Naviglio",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4856177/Calendario%20raccolta%20rifiuti%20anno%202026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "dovera",
+   "nome": "Dovera",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/dovera-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "fiesco",
+   "nome": "Fiesco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/fiesco-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "formigara",
+   "nome": "Formigara",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/formigara-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "genivolta",
+   "nome": "Genivolta",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/genivolta-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "gombito",
+   "nome": "Gombito",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/gombito-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "izano",
+   "nome": "Izano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/izano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "madignano",
+   "nome": "Madignano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/madignano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "monte-cremasco",
+   "nome": "Monte Cremasco",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/monte-cremasco-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "moscazzano",
+   "nome": "Moscazzano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/moscazzano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "offanengo",
+   "nome": "Offanengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/offanengo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "palazzo-pignano",
+   "nome": "Palazzo Pignano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/palazzo-pignano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "pianengo",
+   "nome": "Pianengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/pianego-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "pieranica",
+   "nome": "Pieranica",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/pieranica-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "quintano",
+   "nome": "Quintano",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/5194652/Calendario-raccolta-rifiuti-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "ricengo",
+   "nome": "Ricengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/ricengo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "ripalta-arpina",
+   "nome": "Ripalta Arpina",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/ripalta-arpina-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "ripalta-cremasca",
+   "nome": "Ripalta Cremasca",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/ripalta-cremasca-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "ripalta-guerina",
+   "nome": "Ripalta Guerina",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/ripalta-guerina-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "romanengo",
+   "nome": "Romanengo",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/romanengo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "salvirola",
+   "nome": "Salvirola",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/salvirola-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
   }
  ]
 }

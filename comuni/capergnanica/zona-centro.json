@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "comune": "Capergnanica",
+ "provincia": "CR",
+ "gestore": "Aprica",
+ "zona": "Centro abitato",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Organico e indifferenziato entro le 6:00 del giorno di raccolta; vetro e metalli, carta e plastica entro le 12:00. Nei recuperi festivi esporre tutto entro le 6:00.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/Capergnanica_calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-31": [
+   "organico",
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Cascine e case sparse: valgono solo le raccolte segnate con l’asterisco nel calendario del Comune.",
+  "Vetro e metalli insieme nel contenitore verde. Ingombranti e informazioni: numero verde Aprica 800 437678 o app Puliamo."
+ ]
+}
