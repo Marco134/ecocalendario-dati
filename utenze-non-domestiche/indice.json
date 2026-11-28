@@ -26593,6 +26593,54 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "brindisi",
+   "nome": "Brindisi",
+   "provincia": "BR",
+   "gestore": "Teknoservice",
+   "consorzio": "teknoservice-brindisi-und",
+   "lat": 40.632,
+   "lon": 17.942,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/brindisi/brindisi/",
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Attività",
+     "file": "comuni/brindisi/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "mesagne",
+   "nome": "Mesagne",
+   "provincia": "BR",
+   "gestore": "Gial Ambiente",
+   "consorzio": "gial-mesagne-und",
+   "lat": 40.559,
+   "lon": 17.807,
+   "zone_url": "https://gialambiente.it/comune-di-mesagne/",
+   "zone": [
+    {
+     "id": "cartone-a",
+     "nome": "Attività · Cartone zona A",
+     "file": "comuni/mesagne/zona-cartone-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-b",
+     "nome": "Attività · Cartone zona B",
+     "file": "comuni/mesagne/zona-cartone-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-c",
+     "nome": "Attività · Cartone zona C",
+     "file": "comuni/mesagne/zona-cartone-c.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -27478,6 +27526,18 @@
    "gestore": "Raccolgo S.r.l.",
    "ecocentri": "ecocentri/raccolgo-minervino-murge-und.json",
    "regole": "regole/raccolgo-minervino-murge-und.json"
+  },
+  "teknoservice-brindisi-und": {
+   "nome": "Teknoservice · Brindisi",
+   "gestore": "Teknoservice",
+   "ecocentri": "ecocentri/teknoservice-brindisi-und.json",
+   "regole": "regole/teknoservice-brindisi-und.json"
+  },
+  "gial-mesagne-und": {
+   "nome": "Gial Ambiente · Mesagne",
+   "gestore": "Gial Ambiente",
+   "ecocentri": "ecocentri/gial-mesagne-und.json",
+   "regole": "regole/gial-mesagne-und.json"
   }
  }
 }

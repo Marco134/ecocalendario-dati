@@ -1,0 +1,107 @@
+{
+  "schema": 1,
+  "aggiornato": "2026-11-28",
+  "gestore": "Teknoservice",
+  "numero_verde": "800 769 797",
+  "fonte": "https://www.teknoserviceitalia.com/puglia/brindisi/brindisi/",
+  "avviso": "Sono disponibili i centri in strada per Sant’Angelo e strada della Torretta. Consultare il gestore per i festivi.",
+  "accesso": "Confermare ammissione, materiali, quantità e orari con il gestore per la propria utenza.",
+  "centri": [
+    {
+      "id": "brindisi-sant-angelo",
+      "tipo": "raccolta",
+      "comune": "Brindisi",
+      "indirizzo": "Strada per Sant’Angelo",
+      "per": "domestiche",
+      "orari": {
+        "1": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "2": [
+          [
+            "08:30",
+            "16:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "lat": 40.6134887,
+      "lon": 17.9300468
+    },
+    {
+      "id": "brindisi-torretta",
+      "tipo": "raccolta",
+      "comune": "Brindisi",
+      "indirizzo": "Strada della Torretta",
+      "per": "domestiche",
+      "orari": {
+        "2": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "3": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "5": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "6": [
+          [
+            "08:30",
+            "14:30"
+          ]
+        ],
+        "1": [
+          [
+            "08:30",
+            "16:30"
+          ]
+        ],
+        "4": [
+          [
+            "08:30",
+            "16:30"
+          ]
+        ]
+      },
+      "chiuso": false,
+      "lat": 40.6522126,
+      "lon": 17.9163946
+    }
+  ]
+}

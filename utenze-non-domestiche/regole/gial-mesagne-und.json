@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "nome": "Gial Ambiente · Mesagne",
+  "fonte": "https://gialambiente.it/wp-content/uploads/2025/10/calendario-NON-UTENZE-DOMESTICHE-mesagne.pdf",
+  "voci": {
+    "organico": {
+      "dove": "organico"
+    },
+    "carta": {
+      "dove": "carta"
+    },
+    "imballaggi di cartone": {
+      "dove": "carta",
+      "nota": "Usare il circuito del cartone commerciale e verificare il giorno per la propria zona."
+    },
+    "imballaggi in plastica": {
+      "dove": "plastica"
+    },
+    "imballaggi in vetro": {
+      "dove": "vetro",
+      "nota": "Frazione congiunta vetro e metalli."
+    },
+    "imballaggi metallici": {
+      "dove": "vetro",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "secco residuo": {
+      "dove": "indifferenziato"
+    }
+  }
+}

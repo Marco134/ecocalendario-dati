@@ -1,0 +1,91 @@
+{
+  "schema": 1,
+  "nome": "Monteco · Latiano",
+  "fonte": "https://www.montecospa.it/sites/default/files/2026-01/LATIANO_Calendario%20di%20Raccolta%20UD.pdf",
+  "voci": {
+    "scarti di frutta e verdura": {
+      "dove": "organico"
+    },
+    "fondi di caffè": {
+      "dove": "organico"
+    },
+    "filtri di tè": {
+      "dove": "organico"
+    },
+    "gusci d’uovo": {
+      "dove": "organico"
+    },
+    "giornali e riviste": {
+      "dove": "carta"
+    },
+    "carta da ufficio": {
+      "dove": "carta"
+    },
+    "scatole di cartone pulite": {
+      "dove": "carta"
+    },
+    "tetra pak": {
+      "dove": "carta"
+    },
+    "bottiglie in plastica": {
+      "dove": "plastica"
+    },
+    "flaconi per detergenti": {
+      "dove": "plastica"
+    },
+    "piatti e bicchieri in plastica": {
+      "dove": "plastica"
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro",
+      "nota": "Frazione congiunta vetro e metalli."
+    },
+    "vasetti di vetro": {
+      "dove": "vetro",
+      "nota": "Frazione congiunta vetro e metalli."
+    },
+    "lattine di alluminio": {
+      "dove": "vetro",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "scatolette metalliche": {
+      "dove": "vetro",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "vaschette in alluminio": {
+      "dove": "vetro",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "pannolini": {
+      "dove": "indifferenziato"
+    },
+    "assorbenti": {
+      "dove": "indifferenziato"
+    },
+    "carta oleata": {
+      "dove": "indifferenziato"
+    },
+    "scontrini": {
+      "dove": "indifferenziato"
+    },
+    "olio vegetale esausto": {
+      "dove": "centro"
+    },
+    "pile e batterie": {
+      "dove": "centro"
+    },
+    "toner e cartucce": {
+      "dove": "centro"
+    },
+    "ingombranti": {
+      "dove": "centro"
+    },
+    "piccoli elettrodomestici": {
+      "dove": "centro"
+    },
+    "cartone della pizza sporco": {
+      "dove": "organico",
+      "nota": "Ridurre in piccoli pezzi, come indicato nella guida locale."
+    }
+  }
+}

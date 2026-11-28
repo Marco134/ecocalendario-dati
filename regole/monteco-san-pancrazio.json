@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "nome": "Monteco · San Pancrazio Salentino",
+  "fonte": "https://www.montecospa.it/sites/default/files/2026-01/SAN%20PANCRAZIO_CALENDARIO%20UD%20CENTRO%20URBANO%20E%20AGRO.pdf",
+  "voci": {
+    "scarti di frutta e verdura": {
+      "dove": "organico"
+    },
+    "fondi di caffè": {
+      "dove": "organico"
+    },
+    "filtri di tè": {
+      "dove": "organico"
+    },
+    "gusci d’uovo": {
+      "dove": "organico"
+    },
+    "giornali e riviste": {
+      "dove": "carta"
+    },
+    "carta da ufficio": {
+      "dove": "carta"
+    },
+    "scatole di cartone pulite": {
+      "dove": "carta"
+    },
+    "tetra pak": {
+      "dove": "carta"
+    },
+    "bottiglie in plastica": {
+      "dove": "plastica",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "flaconi per detergenti": {
+      "dove": "plastica",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "piatti e bicchieri in plastica": {
+      "dove": "plastica",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "lattine di alluminio": {
+      "dove": "plastica",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "scatolette metalliche": {
+      "dove": "plastica",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "vaschette in alluminio": {
+      "dove": "plastica",
+      "nota": "I metalli da imballaggio seguono questa frazione."
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro",
+      "nota": "Campane stradali, conferimento sfuso e senza tappi."
+    },
+    "vasetti di vetro": {
+      "dove": "vetro",
+      "nota": "Campane stradali, conferimento sfuso e senza tappi."
+    },
+    "pannolini": {
+      "dove": "indifferenziato"
+    },
+    "assorbenti": {
+      "dove": "indifferenziato"
+    },
+    "carta oleata": {
+      "dove": "indifferenziato"
+    },
+    "scontrini": {
+      "dove": "indifferenziato"
+    },
+    "cartone della pizza sporco": {
+      "dove": "organico",
+      "nota": "Ridurre in piccoli pezzi, come indicato nella guida locale."
+    }
+  }
+}

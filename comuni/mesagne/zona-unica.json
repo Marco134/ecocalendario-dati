@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Mesagne",
+  "provincia": "BR",
+  "gestore": "Gial Ambiente",
+  "zona": "Famiglie",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://gialambiente.it/wp-content/uploads/2025/10/calendario-UTENZE-DOMESTICHE-mesagne.pdf",
+  "raccolte": {},
+  "note": [
+    "Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026.",
+    "Per il cartone commerciale confermare con Gial la zona dell’indirizzo."
+  ],
+  "info": "Organico lun, mer e ven, plastica mar, secco sab. Il giovedì carta e cartone il 1°, 3° e 5° del mese, vetro e metalli il 2° e 4°. Pannolini lun e mer su prenotazione.",
+  "info_en": "Routine waste collection information. Confirm holiday schedules and any changes with the operator."
+}

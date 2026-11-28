@@ -27433,6 +27433,102 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "brindisi",
+      "nome": "Brindisi",
+      "provincia": "BR",
+      "gestore": "Teknoservice",
+      "consorzio": "teknoservice-brindisi",
+      "lat": 40.632,
+      "lon": 17.942,
+      "zone_url": "https://www.teknoserviceitalia.com/puglia/brindisi/brindisi/",
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Famiglie",
+          "file": "comuni/brindisi/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "mesagne",
+      "nome": "Mesagne",
+      "provincia": "BR",
+      "gestore": "Gial Ambiente",
+      "consorzio": "gial-mesagne",
+      "lat": 40.559,
+      "lon": 17.807,
+      "zone_url": "https://gialambiente.it/comune-di-mesagne/",
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Famiglie",
+          "file": "comuni/mesagne/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "latiano",
+      "nome": "Latiano",
+      "provincia": "BR",
+      "gestore": "Monteco",
+      "consorzio": "monteco-latiano",
+      "lat": 40.555,
+      "lon": 17.721,
+      "zone_url": "https://www.montecospa.it/it/latiano",
+      "zone": [
+        {
+          "id": "zona-nord",
+          "nome": "Zona Nord",
+          "file": "comuni/latiano/zona-zona-nord.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-sud",
+          "nome": "Zona Sud",
+          "file": "comuni/latiano/zona-zona-sud.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-nord",
+          "nome": "Agro Nord",
+          "file": "comuni/latiano/zona-agro-nord.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro-sud",
+          "nome": "Agro Sud",
+          "file": "comuni/latiano/zona-agro-sud.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-pancrazio-salentino",
+      "nome": "San Pancrazio Salentino",
+      "provincia": "BR",
+      "gestore": "Monteco",
+      "consorzio": "monteco-san-pancrazio",
+      "lat": 40.418,
+      "lon": 17.837,
+      "zone_url": "https://www.montecospa.it/it/san-pancrazio-salentino",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/san-pancrazio-salentino/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro",
+          "file": "comuni/san-pancrazio-salentino/zona-agro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -28058,6 +28154,30 @@
       "gestore": "Raccolgo S.r.l.",
       "ecocentri": "ecocentri/raccolgo-minervino-murge.json",
       "regole": "regole/raccolgo-minervino-murge.json"
+    },
+    "teknoservice-brindisi": {
+      "nome": "Teknoservice · Brindisi",
+      "gestore": "Teknoservice",
+      "ecocentri": "ecocentri/teknoservice-brindisi.json",
+      "regole": "regole/teknoservice-brindisi.json"
+    },
+    "gial-mesagne": {
+      "nome": "Gial Ambiente · Mesagne",
+      "gestore": "Gial Ambiente",
+      "ecocentri": "ecocentri/gial-mesagne.json",
+      "regole": "regole/gial-mesagne.json"
+    },
+    "monteco-latiano": {
+      "nome": "Monteco · Latiano",
+      "gestore": "Monteco",
+      "ecocentri": "ecocentri/monteco-latiano.json",
+      "regole": "regole/monteco-latiano.json"
+    },
+    "monteco-san-pancrazio": {
+      "nome": "Monteco · San Pancrazio Salentino",
+      "gestore": "Monteco",
+      "ecocentri": "ecocentri/monteco-san-pancrazio.json",
+      "regole": "regole/monteco-san-pancrazio.json"
     }
   },
   "tipi_en": {

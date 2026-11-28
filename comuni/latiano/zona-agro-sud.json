@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Latiano",
+  "provincia": "BR",
+  "gestore": "Monteco",
+  "zona": "Agro Sud",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.montecospa.it/sites/default/files/2026-01/LATIANO_Calendario%20di%20Raccolta%20UD.pdf",
+  "raccolte": {},
+  "note": [
+    "Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026.",
+    "Il Comune dispone di un’ordinanza del 2021 che cita il servizio UND. Le disposizioni correnti per le attività e i recuperi festivi restano da confermare."
+  ],
+  "info": "Organico lun, mer e ven. Carta mar, plastica gio, secco sab. Vetro e metalli il 2° e 4° mercoledì del mese. Esporre la sera prima.",
+  "info_en": "Routine waste collection information. Confirm holiday schedules and any changes with the operator."
+}

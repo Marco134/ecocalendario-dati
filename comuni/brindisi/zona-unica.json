@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Brindisi",
+  "provincia": "BR",
+  "gestore": "Teknoservice",
+  "zona": "Famiglie",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/07/Calendario-_UD_Brindisi.pdf",
+  "raccolte": {},
+  "note": [
+    "Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026.",
+    "Per le famiglie il PDF indica esposizione dalle 22:00 e la pagina del gestore dalle 21:00. Confermare l’orario. Il gestore indica le 05:00 come limite."
+  ],
+  "info": "Organico lun, mer e ven, plastica e metalli lun e ven, vetro mer, carta gio e secco mar e sab.",
+  "info_en": "Routine waste collection information. Confirm holiday schedules and any changes with the operator."
+}

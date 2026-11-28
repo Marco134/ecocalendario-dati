@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1343,
+ "totale": 1347,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14303,6 +14303,50 @@
    "valido_al": "2026-12-31",
    "zone_und": 1,
    "nota": "Il gestore ripubblica i prospetti in vigore a partire dal 2021. Confermare l’applicabilità a fine 2026 e i ritiri dell’8, 25 e 26 dicembre."
+  },
+  {
+   "id": "brindisi",
+   "nome": "Brindisi",
+   "provincia": "BR",
+   "gestore": "Teknoservice",
+   "stato": "scheda_informativa",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2025/10/Calendario-UND-Brindisi_page-0001.avif",
+   "verificato": "2026-11-28",
+   "nota": "Per le famiglie il PDF indica esposizione dalle 22:00 e la pagina del gestore dalle 21:00. Confermare l’orario. Il gestore indica le 05:00 come limite. Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "mesagne",
+   "nome": "Mesagne",
+   "provincia": "BR",
+   "gestore": "Gial Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://gialambiente.it/wp-content/uploads/2025/10/calendario-NON-UTENZE-DOMESTICHE-mesagne.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Per il cartone commerciale confermare con Gial la zona dell’indirizzo. Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "latiano",
+   "nome": "Latiano",
+   "provincia": "BR",
+   "gestore": "Monteco",
+   "stato": "fonte_individuata",
+   "fonte": "https://www.comune.latiano.br.it/statico/trasparenza/attachments/article/750/ordinanza%20n.%209.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il Comune dispone di un’ordinanza del 2021 che cita il servizio UND. Le disposizioni correnti per le attività e i recuperi festivi restano da confermare. Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026."
+  },
+  {
+   "id": "san-pancrazio-salentino",
+   "nome": "San Pancrazio Salentino",
+   "provincia": "BR",
+   "gestore": "Monteco",
+   "stato": "fonte_individuata",
+   "fonte": "https://comune.sanpancraziosalentino.br.it/documento_pubblico/trasparenza-nel-servizio-di-gestione-dei-rifiuti-urbani/",
+   "verificato": "2026-11-28",
+   "nota": "Comune e gestore pubblicano l’opuscolo domestico. Turni delle attività e recuperi festivi da acquisire. Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026."
   }
  ]
 }
