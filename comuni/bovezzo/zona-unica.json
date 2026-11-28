@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "comune": "Bovezzo",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Da novembre a marzo esporre i rifiuti dalle ore 18 della sera precedente alle ore 6 del giorno di raccolta (da aprile a ottobre dalle ore 20).",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario Raccolta Differenziata (fino a dicembre 2026) Aprica – https://content.apricaspa.it/sites/default/files/2025-10/bovezzo-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Nessuna variazione festiva: le date sono quelle stampate nel calendario mensile.",
+  "Pannolini: servizio da attivare su richiesta, raccolti insieme all’indifferenziato e all’organico del martedì e alla plastica del sabato.",
+  "Sfalci e potature: servizio porta a porta su richiesta, da marzo a novembre (70 € all’anno per le utenze domestiche).",
+  "Ecoisole con apertura a tessera o app: da usare solo quando necessario; la modalità principale resta il porta a porta.",
+  "Centro di raccolta di via Faini 28 (orario invernale: lunedì, martedì, giovedì e venerdì 14–17; mercoledì e sabato 10–12 e 14–17; domenica 9–13).",
+  "Ingombranti: al centro di raccolta o su prenotazione al numero verde 800 437678 / app PULIamo."
+ ]
+}

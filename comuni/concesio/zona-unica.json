@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "comune": "Concesio",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20 del giorno precedente alle ore 6 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario Raccolta Differenziata (fino a dicembre 2026) Aprica – https://content.apricaspa.it/sites/default/files/2025-11/concesio-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "carta",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Nessuna variazione festiva: le date sono quelle stampate nel calendario mensile.",
+  "Pannolini e pannoloni (sacco azzurro): porta a porta il lunedì e il venerdì per famiglie con bambini sotto i 3 anni e persone che ne hanno necessità, oppure nelle ecoisole dedicate.",
+  "Sfalci e potature: servizio porta a porta su richiesta il lunedì, da marzo a novembre (40 € all’anno), oppure nei 4 contenitori sul territorio o al centro di raccolta.",
+  "Ecoisole con apertura a tessera o app: da usare solo quando necessario; la modalità principale resta il porta a porta.",
+  "Ingombranti: al centro di raccolta o su prenotazione al numero verde 800 437678 / app PULIamo."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

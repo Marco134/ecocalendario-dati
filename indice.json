@@ -2745,6 +2745,22 @@
       ]
     },
     {
+      "id": "bovezzo",
+      "nome": "Bovezzo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5916,
+      "lon": 10.2435,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bovezzo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bra",
       "nome": "Bra",
       "provincia": "CN",
@@ -3418,6 +3434,22 @@
           "nome": "Zona unica",
           "file": "comuni/cafasse/zona-unica.json",
           "valido_al": "2028-02-29"
+        }
+      ]
+    },
+    {
+      "id": "caino",
+      "nome": "Caino",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6125,
+      "lon": 10.3158,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caino/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -7156,6 +7188,22 @@
         }
       ],
       "zone_url": "https://www.apricaspa.it/it/bergamo"
+    },
+    {
+      "id": "concesio",
+      "nome": "Concesio",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6044,
+      "lon": 10.2185,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/concesio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "concorezzo",
@@ -13205,6 +13253,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/narzole/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "nave",
+      "nome": "Nave",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5847,
+      "lon": 10.279,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/nave/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
