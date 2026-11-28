@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-27",
+ "aggiornato": "2026-11-28",
  "tipi": {
   "organico": "Organico",
   "carta": "Carta",
@@ -626,6 +626,36 @@
     }
    ],
    "zone_url": "https://cidiu.it/cidiu/comune-di-alpignano/"
+  },
+  {
+   "id": "altamura",
+   "nome": "Altamura",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-altamura-und",
+   "lat": 40.82856,
+   "lon": 16.552731,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/altamura/",
+   "zone": [
+    {
+     "id": "centro-storico",
+     "nome": "Attività · centro storico",
+     "file": "comuni/altamura/zona-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-urbano",
+     "nome": "Attività · centro urbano",
+     "file": "comuni/altamura/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "case-sparse",
+     "nome": "Attività · case sparse",
+     "file": "comuni/altamura/zona-case-sparse.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "altivole",
@@ -5034,6 +5064,24 @@
      "nome": "Zona C",
      "file": "comuni/cassano-d-adda/zona-c.json",
      "valido_al": "2027-01-31"
+    }
+   ]
+  },
+  {
+   "id": "cassano-delle-murge",
+   "nome": "Cassano delle Murge",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-cassano-delle-murge-und",
+   "lat": 40.89101,
+   "lon": 16.768619,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/cassano-delle-murge/",
+   "zone": [
+    {
+     "id": "centro-borghi-agro",
+     "nome": "Attività · centro, borghi e case sparse",
+     "file": "comuni/cassano-delle-murge/zona-centro-borghi-agro.json",
+     "valido_al": "2026-12-31"
     }
    ]
   },
@@ -9614,6 +9662,30 @@
    ]
   },
   {
+   "id": "gravina-in-puglia",
+   "nome": "Gravina in Puglia",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-gravina-in-puglia-und",
+   "lat": 40.819725,
+   "lon": 16.422779,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/gravina-in-puglia/",
+   "zone": [
+    {
+     "id": "alimentari",
+     "nome": "Attività alimentari · centro e zona PIP",
+     "file": "comuni/gravina-in-puglia/zona-alimentari.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "non-alimentari",
+     "nome": "Attività non alimentari · centro e zona PIP",
+     "file": "comuni/gravina-in-puglia/zona-non-alimentari.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "grezzago",
    "nome": "Grezzago",
    "provincia": "MI",
@@ -9804,6 +9876,24 @@
     }
    ],
    "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
+  },
+  {
+   "id": "grumo-appula",
+   "nome": "Grumo Appula",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-grumo-appula-und",
+   "lat": 41.013531,
+   "lon": 16.708483,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/grumo-appula/",
+   "zone": [
+    {
+     "id": "centro-e-case-sparse",
+     "nome": "Attività · centro storico, centro urbano e case sparse",
+     "file": "comuni/grumo-appula/zona-centro-e-case-sparse.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "guarene",
@@ -15476,6 +15566,24 @@
    ]
   },
   {
+   "id": "poggiorsini",
+   "nome": "Poggiorsini",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-poggiorsini-und",
+   "lat": 40.917126,
+   "lon": 16.254774,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/poggiorsini/",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Attività · centro urbano",
+     "file": "comuni/poggiorsini/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "poggiridenti",
    "nome": "Poggiridenti",
    "provincia": "SO",
@@ -20096,6 +20204,30 @@
    "ecocentri": "ecocentri/conser-vco-und-toceno.json"
   },
   {
+   "id": "toritto",
+   "nome": "Toritto",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "consorzio": "aroba4-toritto-und",
+   "lat": 40.99823,
+   "lon": 16.679779,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/toritto/",
+   "zone": [
+    {
+     "id": "centro-urbano",
+     "nome": "Attività · centro urbano",
+     "file": "comuni/toritto/zona-centro-urbano.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "quasano",
+     "nome": "Attività · Quasano, informazioni",
+     "file": "comuni/toritto/zona-quasano.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "torrazza-piemonte",
    "nome": "Torrazza Piemonte",
    "provincia": "TO",
@@ -23489,6 +23621,42 @@
    "gestore": "Teknoservice S.r.l. · ARO BA/4",
    "ecocentri": "ecocentri/aroba4-santeramo-und.json",
    "regole": "regole/aroba4-santeramo-und.json"
+  },
+  "aroba4-altamura-und": {
+   "nome": "ARO BA/4 · Altamura",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-altamura-und.json",
+   "regole": "regole/aroba4-altamura-und.json"
+  },
+  "aroba4-cassano-delle-murge-und": {
+   "nome": "ARO BA/4 · Cassano delle Murge",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-cassano-delle-murge-und.json",
+   "regole": "regole/aroba4-cassano-delle-murge-und.json"
+  },
+  "aroba4-gravina-in-puglia-und": {
+   "nome": "ARO BA/4 · Gravina in Puglia",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-gravina-in-puglia-und.json",
+   "regole": "regole/aroba4-gravina-in-puglia-und.json"
+  },
+  "aroba4-grumo-appula-und": {
+   "nome": "ARO BA/4 · Grumo Appula",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-grumo-appula-und.json",
+   "regole": "regole/aroba4-grumo-appula-und.json"
+  },
+  "aroba4-poggiorsini-und": {
+   "nome": "ARO BA/4 · Poggiorsini",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-poggiorsini-und.json",
+   "regole": "regole/aroba4-poggiorsini-und.json"
+  },
+  "aroba4-toritto-und": {
+   "nome": "ARO BA/4 · Toritto",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "ecocentri": "ecocentri/aroba4-toritto-und.json",
+   "regole": "regole/aroba4-toritto-und.json"
   }
  }
 }

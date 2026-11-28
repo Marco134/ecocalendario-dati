@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "aggiornato": "2026-11-27",
+  "aggiornato": "2026-11-28",
   "gestori": [
     {
       "id": "seta",
@@ -5250,6 +5250,120 @@
       "verificato": "2026-11-27",
       "regole": [
         "Ritiro domiciliare gratuito per gli ingombranti ammessi, su prenotazione e per un numero limitato di pezzi. Concordare esposizione a livello strada e tipologie ammesse."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba4-altamura",
+      "nome": "Altamura · UD",
+      "gestori": [],
+      "comuni": [
+        "altamura"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/altamura/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domiciliare su prenotazione al numero verde. Concordare materiali e quantità. ARO BA/4 indica il servizio per ingombranti domestici e RAEE; le attività devono verificare i conferimenti autorizzati."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba4-cassano-delle-murge",
+      "nome": "Cassano delle Murge · UD",
+      "gestori": [],
+      "comuni": [
+        "cassano-delle-murge"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/cassano-delle-murge/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domiciliare su prenotazione al numero verde. Concordare materiali e quantità. ARO BA/4 indica il servizio per ingombranti domestici e RAEE; le attività devono verificare i conferimenti autorizzati."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba4-gravina-in-puglia",
+      "nome": "Gravina in Puglia · UD",
+      "gestori": [],
+      "comuni": [
+        "gravina-in-puglia"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/gravina-in-puglia/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domiciliare su prenotazione al numero verde. Concordare materiali e quantità. ARO BA/4 indica il servizio per ingombranti domestici e RAEE; le attività devono verificare i conferimenti autorizzati."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba4-grumo-appula",
+      "nome": "Grumo Appula · UD",
+      "gestori": [],
+      "comuni": [
+        "grumo-appula"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/grumo-appula/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domiciliare su prenotazione al numero verde. Concordare materiali e quantità. ARO BA/4 indica il servizio per ingombranti domestici e RAEE; le attività devono verificare i conferimenti autorizzati."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba4-poggiorsini",
+      "nome": "Poggiorsini · UD",
+      "gestori": [],
+      "comuni": [
+        "poggiorsini"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/poggiorsini/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domiciliare su prenotazione al numero verde. Concordare materiali e quantità. ARO BA/4 indica il servizio per ingombranti domestici e RAEE; le attività devono verificare i conferimenti autorizzati."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba4-toritto",
+      "nome": "Toritto · UD",
+      "gestori": [],
+      "comuni": [
+        "toritto"
+      ],
+      "telefono": "800 036 459",
+      "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/toritto/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domiciliare su prenotazione al numero verde. Concordare materiali e quantità. ARO BA/4 indica il servizio per ingombranti domestici e RAEE; le attività devono verificare i conferimenti autorizzati."
       ],
       "regole_en": [
         "Contact the operator for access and booking conditions."

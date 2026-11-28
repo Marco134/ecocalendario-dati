@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "nome": "Toritto · Guida ai materiali",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Riciclabolario-generico-Teknoservice-NUOVO.pdf | https://www.teknoserviceitalia.com/puglia/bari/toritto/",
+ "voci": {
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Conferire separati dagli imballaggi contaminati."
+  },
+  "cartone per bevande": {
+   "dove": "carta",
+   "nota": "Svuotare e conferire con la carta secondo la guida."
+  },
+  "scatole di cartone pulite": {
+   "dove": "carta",
+   "nota": "Ridurre il volume. Per le attività consultare il giro dedicato."
+  },
+  "bottiglie e flaconi di plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti nel sacco in dotazione."
+  },
+  "vaschette in plastica": {
+   "dove": "plastica",
+   "nota": "Conferire gli imballaggi vuoti con la plastica."
+  },
+  "lattine": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica."
+  },
+  "tappi e coperchi in metallo": {
+   "dove": "plastica",
+   "nota": "Conferire con gli imballaggi in plastica."
+  },
+  "bottiglie e vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Conferire svuotati."
+  },
+  "ceramica in piccoli pezzi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le indicazioni del gestore per volumi maggiori."
+  },
+  "spazzolini": {
+   "dove": "indifferenziato",
+   "nota": "Conferire con il secco residuo."
+  },
+  "avanzi di cucina": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto compostabile."
+  },
+  "gusci di uova": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto compostabile."
+  },
+  "fondi di caffe": {
+   "dove": "organico",
+   "nota": "Usare un sacchetto compostabile."
+  }
+ }
+}

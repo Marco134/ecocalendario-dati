@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-27",
+ "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1198,
+ "totale": 1204,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12811,6 +12811,78 @@
    "valido_al": "2026-12-31",
    "zone_und": 3,
    "nota": "Tre aree con gli stessi turni ordinari. Verificare festivi e delimitazione operativa dei due giri del cartone."
+  },
+  {
+   "id": "altamura",
+   "nome": "Altamura",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/altamura/",
+   "verificato": "2026-11-28",
+   "nota": "Verificare le celle del PDF datato delle case sparse, la decorrenza quindicinale per UND e l’assegnazione delle zone A/B del cartone. I turni festivi del centro restano da confermare.",
+   "valido_al": "2026-12-31",
+   "zone_und": 3
+  },
+  {
+   "id": "cassano-delle-murge",
+   "nome": "Cassano delle Murge",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/cassano-delle-murge/",
+   "verificato": "2026-11-28",
+   "nota": "Il PDF UD indica centro urbano e case sparse. Verificare la copertura dei borghi per UD. Confermare la fascia UND per civico (tabella: chiusura dell’esercizio; pagina: 21:00–05:00) e i turni festivi UND.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "gravina-in-puglia",
+   "nome": "Gravina in Puglia",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/gravina-in-puglia/",
+   "verificato": "2026-11-28",
+   "nota": "Il PDF UD reperito è del 2025. Richiedere quello valido e confermare l’accesso al CCR di via delle Palme. Per UND verificare date festive e orario di esposizione: la griglia indica la chiusura dell’esercizio; la pagina 21:00–05:00.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
+  },
+  {
+   "id": "grumo-appula",
+   "nome": "Grumo Appula",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/grumo-appula/",
+   "verificato": "2026-11-28",
+   "nota": "Confermare i turni festivi UND e il conferimento del cartone commerciale. L’avviso comunale di settembre specifica il mastello blu per carta e cartone.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "poggiorsini",
+   "nome": "Poggiorsini",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/poggiorsini/",
+   "verificato": "2026-11-28",
+   "nota": "La pagina attuale rinvia a una griglia settimanale UD/UND non datata. Confermare festivi e pubblicazione 2027.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "toritto",
+   "nome": "Toritto",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l. · ARO BA/4",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/toritto/",
+   "verificato": "2026-11-28",
+   "nota": "Verificare il giovedì di riferimento del vetro UND a Quasano e il calendario delle attività fuori dal centro. La griglia UND rimanda alla chiusura dell’esercizio, la pagina alle 21:00–05:00. Festivi UND da confermare.",
+   "valido_al": "2026-12-31",
+   "zone_und": 2
   }
  ]
 }

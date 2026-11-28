@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "comune": "Cassano delle Murge",
+ "provincia": "BA",
+ "gestore": "Teknoservice S.r.l. · ARO BA/4",
+ "zona": "Attività · centro, borghi e case sparse",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/02/utenzenondomestiche_def_Cassano-delle-Murge-1000X.jpg | https://www.teknoserviceitalia.com/puglia/bari/cassano-delle-murge/",
+ "raccolte": {
+  "2026-11-28": [
+   "carta",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Cartone separato dalla carta, lunedì, mercoledì e sabato.",
+  "Plastica e imballaggi metallici si conferiscono insieme.",
+  "Festivi dell’8, 25 e 26 dicembre da confermare."
+ ],
+ "esposizione": "Esporre secondo la griglia dell’attività. Per eventuali differenze con la pagina del gestore chiedere la fascia applicabile al civico."
+}

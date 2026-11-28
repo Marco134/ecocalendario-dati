@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "aggiornato": "2026-11-27",
+ "aggiornato": "2026-11-28",
  "gestori": [
   {
    "id": "cosp-orvietano",
@@ -6246,6 +6246,120 @@
    "verificato": "2026-11-27",
    "regole": [
     "Chiedere al gestore quali circuiti sono accessibili alle attività. Il CCR locale è indicato per le utenze domestiche."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba4-altamura-und",
+   "nome": "Altamura · UND",
+   "gestori": [],
+   "comuni": [
+    "altamura"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/altamura/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba4-cassano-delle-murge-und",
+   "nome": "Cassano delle Murge · UND",
+   "gestori": [],
+   "comuni": [
+    "cassano-delle-murge"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/cassano-delle-murge/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba4-gravina-in-puglia-und",
+   "nome": "Gravina in Puglia · UND",
+   "gestori": [],
+   "comuni": [
+    "gravina-in-puglia"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/gravina-in-puglia/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba4-grumo-appula-und",
+   "nome": "Grumo Appula · UND",
+   "gestori": [],
+   "comuni": [
+    "grumo-appula"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/grumo-appula/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba4-poggiorsini-und",
+   "nome": "Poggiorsini · UND",
+   "gestori": [],
+   "comuni": [
+    "poggiorsini"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/poggiorsini/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba4-toritto-und",
+   "nome": "Toritto · UND",
+   "gestori": [],
+   "comuni": [
+    "toritto"
+   ],
+   "telefono": "800 036 459",
+   "fonte": "https://www.aroba4.it/il-progetto | https://www.teknoserviceitalia.com/puglia/bari/toritto/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
    ],
    "regole_en": [
     "Contact the operator for access and booking conditions."

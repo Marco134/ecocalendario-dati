@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "comune": "Altamura",
+ "provincia": "BA",
+ "gestore": "Teknoservice S.r.l. · ARO BA/4",
+ "zona": "Attività · centro urbano",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.aroba4.it/_files/ugd/8d0e3c_cc507dad69ab4214909a790e96f2cd00.pdf | https://www.teknoserviceitalia.com/puglia/bari/altamura/",
+ "raccolte": {
+  "2026-11-28": [
+   "carta"
+  ],
+  "2026-11-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Cartone zona A mar/gio/sab, zona B lun/mer/ven. Esporlo alle 13:00 del giorno del ritiro.",
+  "Plastica e imballaggi metallici si conferiscono insieme.",
+  "Festivi dell’8, 25 e 26 dicembre da confermare."
+ ],
+ "esposizione": "Esporre dalle 21:00 del giorno precedente entro le 05:00 del giorno del ritiro. Il cartone segue il giro dedicato.",
+ "esposizione_entro": "05:00"
+}
