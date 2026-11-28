@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Desio",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Desio_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alpi Delle · Amendola G. · Asiago · Bezzecca · Binzago Per · Boschi Dei · Bovisio Per · Cacciatori Dei · Carso · Cascina Bolagnos · Castelfidardo · Cervino · Cesano Maderno Per · Custoza · D’Acquisto S. · Desio Per · Di Vittorio G. · Diaz A. (Da Via Milano A Via Pallavicini) · Dolomiti · Don Mazzolari P. · Don Milani · Don Minzoni G. · Fratelli Rosselli · Gentile · Goito · Goldoni C. · Magenta · Marx K. · Mentana · Milano (Da Via Rovagnati A Via Per Cesano) · Monsignor Castelli L. · Montale E. · Monte Bianco · Monte Cimone · Monte Generoso · Monte Palanzone · Monte Rosa · Monte San Michele · Monviso · Mulinello · Mulino Arese · Nizza · Padre Kolbe M. · Palestro · Pallavicini G. · Paolo Vi · Pastrengo · Pontida · Ramelli S. · Rapallo · Risorgimento · San Martino · Sempione · Serenella · Solaro F. · Solferino · Spluga · Stelvio · Ticino · Tonale · Toti E. · Ungaretti G.",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

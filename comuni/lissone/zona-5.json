@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Lissone",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 5",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 19.30 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Lissone_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alberto Da Giussano · Alpini · Appiani · Arco Dell’ · Baccelli · Baracca · Battisti · Botticelli · Buonarroti (Da Via Di Vittorio A Piazza Maria Bambina) · Cantore · Caprera · Cervi F.Lli · Chiesa · Como · Como (Da Via Riva A Piazza Xl Febbraio) · Confalonieri · Fanti · Ferrini · Filzi · Fosse Ardeatine · Galilei · Galimberti · Gioacchino Rossini · San Giovanni Bosco · San Martino (Da Via Goito A Via Matteotti) · Santa Caterina Da Siena · Sauro · Solferino · Magellano · Mariani · Matteotti (Da Via Dante Alighieri A Via Como) · Menotti · Mille Dei (Da Via Dante Alighieri A Via Volturno) · Minzoni Don (Da Via Volturno A Via Aliprandi) · Murri · Oberdan · Paisiello · Parravicini · Polo · Puccini · Randaccio · Rosa · San Francesco D’Assisi (Da Via Dante Alighieri A Via D. Chiesa) (Da Via Dante Alighieri A Via Volturno) · Tempini · Tortora · Tripoli (Da Via Goito A Via Solferino) · Umiliati · Valle · Valle · Vecellio · Vespucci · Volturno (Da Via Goito A Via Manzoni) · Xi Febbraio · Xxiv Maggio · Xxv Aprile",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

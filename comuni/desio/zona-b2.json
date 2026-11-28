@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Desio",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Desio_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico",
+   "vetro",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Adamello · Ambrosoli G. · Artigiani Degli · Bengasi · Berchet G. · Buonarroti M. · Cadore · Caduti Di Nassirya · Canonico Villa (Da Via Manzoni A Via Rossini) · Canova A. · Caravaggio · Cassino · Commercio Del · Da Vinci L. · D’Annunzio G. · Desio Da P. · Divina Misericordia · Don Coccé R. · Donizetti G. · Einaudi L. · Forlanini C. (Da Via Piermarini A Via Del Guado) · Foscolo U. · Fratelli Mameli · Galeno C. (Da Via Manzoni A Via Ortigara) · Galilei G. · Garibaldi G. (Da Via Manzoni A Via Milano) · Gioia F. · Giordano U. · Giusti G. · Guado Del · I Maggio · Iv Novembre · Leoncavallo R. · Maestri Del Lavoro · Marconi G. · Mariani Dei · Martiri Di Cefalonia · Marzabotto · Mascagni P. · Monteverdi C. · Novati E. · Ortigara · Oslavia · Padre Caspani E. · Padre Frezzini · Paganini N. · Partigiani D’Italia · Pirandello L. · Pisacane C. · Porta C. · Pozzo Antico (Da Via Montenero A Via Rossini) · Prati (Da Via Montenero A Via Rossini) · Roma (Da Via Piermarini A Via Rossini) · Rossini G. · Sabotino (Da Via Milano A Via Garibaldi) · Santa Liberata · Schipa T. · Sciesa A. · Sforza F. · Trieste · Turati F. · Vaj R. · Vercesi G. · Verdi G. · Verri P.",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

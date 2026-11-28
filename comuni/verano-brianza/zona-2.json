@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "comune": "Verano Brianza",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2025/03/Verano-Brianza_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Albertario Don D. · Bandiera F.Lli · Buonarroti M. · Cadorna L. · Cascina Caviana · Cattaneo C. · Cesana · Chiesa Alla · Chiesa D. · Chiuso (Vicolo) · Da Vinci L. · Fermi E. · Galilei G. · Galvani L. · Grandi A. · I Maggio · Iv Novembre · Liberazione · Manzoni A. · Marconi G. · Massarani T. · Meucci A. · Pio Xii · Pontida · Porta C. · Pozzo · Preda M. · Pretorio · Puccini G. · Repubblica Della · Rossini G. · San Carlo · Sant’Ambrogio · Sauro N. (Da Angolo Via Comasina A V.Le Monza) · Umberto I° · Verdi G. · Vittorio Emanuele · Volta A. · Xxiv Maggio (Da Angolo Via Leopardi A Via Sauro)",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

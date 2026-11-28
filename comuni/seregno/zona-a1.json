@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Seregno",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona A1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 19.30 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Seregno_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico",
+   "vetro",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Adda · Alfieri · Alighieri · Alserio · Ankara · Baden Powell · Belli · Berlino · Berna · Bernina · Bertacchi · Boccaccio · Briantina · Bruxelles · Buonarroti · Cadorna · Cagnola · Calabria · Campaccio · Carducci · Carroccio · Cattaneo · Cavour (Da Corso Matteotti A Via Galilei) · Circonvallazione · Copenaghen · Cusanina · D’Acquisto · D’Azeglio · D’Intimiano · De Balzac · Diaz · Dublino · Emilia · Fogazzaro · Galilei · Giacosa · Giusti · Goldoni · Gozzano · Grossi · Guicciardin · Hugo · L’Aia · Lanzone Da Corte · Lario · Lazio · Legnano · Lisbona · Londra · Madrid · Maloja · Matteotti · Messina · Monaco Di Baviera · Montello (Da Viale Della Repubblica A Via Galilei) · Monti · Montorfano · Nievo · Oslo · Parigi · Parini (Da Corso Matteotti A Via Circonvallazione) · Petrarca · Pontida · Porta · Praga · Prati · Prealpi · Pusiano · Ratti · Romagna · Rossini (Da Corso Matteotti A Via San Rocco) · San Benedetto · San Francesco · San Rocco · Sanzio · Segrino · Settembrini · Sicilia · Sondrio · Spluga · Stoccolma · Tasso · Tenca · Toscana · Verga · Vico · Vigne · Vignoli (Da Corso Matteotti A Via San Rocco)",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): lunedì e giovedì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

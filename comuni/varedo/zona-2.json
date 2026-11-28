@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Varedo",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Varedo_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Agnesi · Alfieri V. · Alighieri Dante · Bagatti Valsecchi · Bandiera F.Lli · Bellaria · Botticelli · Buonarroti M. · Caravaggio · Carducci · Cimitero · Colombo · Concordia · Corte Seveso · Cremona · Crivelli · Croce Benedetto · Da Vinci L. · De Amicis · Della Francesca · Della Pace · Desiole · Fogazzaro · Fontana · Foscolo · Galvani · Giotto · Giusti · Kennedy · Italia (Dal Civ. 2 Al Civ. 14 E Dal Civ. 1/A Al Civ. 5) · Longoni Don · Madonnina · Mameli · Marconi · Mariani · Marradi · Masaccio · Maurizio E Lazzaro · Milite Ignoto · Monte Bianco · Monte Grappa · Monte Tomba · Monti · Monza · Nicotera · Oberdan · Palermo · Parini · Pascoli · Pasubio · Petrarca · Piave · Rebuzzini · Roma · Sabotino · San Giuseppe · Santa Cecilia · Santa Maria · Sanzio R. · Segantini · Sempione · Settembrini · Solari · Tallone · Tiepolo · Tintoretto · Tommaseo · Toti E. · Turati F. · Vecellio T. · Veronese · Vicolo Al Viale · Vittorio Emanuele Ii · Vittorio Emanuele Orlando · Volontari Del Sangue · Volpi · Volta",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Bovisio-Masciago",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 22.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Bovisio-Masciago_Calendario-raccolta.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Agnesi G. · Anselmo Iv Da Bovisio (Piazza) · Boccherini L. · Boito A. · Bottego V. · Catalani A. · Cavour · Dante · Don Bosco G. · Don Colli G. · Don Minzoni G. · Don Sturzo L. · Forlanini C. · Francioli G. · Garibaldi G. · Giovanni Xxiii · Isonzo · Iv Novembre · Lambro · Lario · Leopardi G. · Marconi G. · Mascagni P. · Matteotti G. · Mazzini G. · Menotti C. · Milano (Corso) · Milite Ignoto · Mille Dei · Monte Sabotino · Montenapoleone (Piazza) · Monti Padre · Mozart W.A. (Piazza) · Oberdan G. · Paganini N. · Pellico S. · Petrarca F. · Piave · Pizzi C. · Ponchielli A. · Popoli Uniti (Largo) · Porta C. · Puccini G. · Radice E. · Radice Opera Pia · Repubblica · San Giuseppe · San Martino (Piazza) · San Pancrazio · Sant’Aquilino · Scarlatti A. · Schiapparelli · Sp 44 Bis - Nazionale Dei (Da Incrocio Corso Milano A Confine · Ss 527 - Saronno Monza (Da Angolo Corso Milano A Confine) · Tasso T. · Toti E. · Xxv Aprile",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

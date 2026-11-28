@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Limbiate",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona A2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "• DAL 1° OTTOBRE AL 31 MARZO: dopo le 20.00 del giorno precedente la raccolta ed entro le ore 6.00 del giorno di raccolta • DAL 1° APRILE AL 30 SETTEMBRE: dopo le ore 22.00 del giorno precedente la raccolta ed entro le 6.00 del giorno di raccolta",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Limbiate_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Abruzzi · Adda · Adige · Bassi U. · Beccaria C. · Bertani A. · Bixio N. · Bologna · Brenta · Brianza · Bronzetti F.Lli · Cantù C. · Cavour C.B. · Colleoni B. · Confalonieri F. · Crispi F. · D’Azeglio M. · Einaudi L. · Ferrara · Filzi F. · Firenze · Friuli · Gargano · Genova · Giustiniano · Grandi A. · Isarco · Istria · Lampedusa · Lazio · Liguria · Livenza · Lombardia (Da Ang. Dei Mille Ad Ang.Trieste) · Lucania · Machiavelli N. · Mameli G. · Mantova · Maroncelli P. · Mascheroni L. · Milano (Da Ang. Sardegna Ad Ang.Crispi) · Mille Dei (Da Ang. Firenze A Confine Varedo) · Missori G. · Modena · Molise · Muratori L. · Omero · Oriani A. · Pellico S. · Piacenza · Piemonte · Pisacane C. · Plinio · Pola · Quarnaro · Ravenna (Da Ang. Dei Mille Ad Ang. Istria) · Reggio Emilia · Regolo A. · Risorgimento · Saragat G. (Da Ang. Trieste Ad Ang. Sarpi) · Sardegna · Sarpi P. · Sicilia · Speri T. · Tagliamento · Tanaro · Ticino · Toscana · Trieste (Da Ang. Lombardia A Milano) · Umbria · Varese Privata · Verga G. · Virgilio · Volontari Del Soccorso",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): lunedì e giovedì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

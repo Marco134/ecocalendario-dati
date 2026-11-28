@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Sovico",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Sovico_Calendario-Servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Ambrosoli G. · Boschi Dei · Carducci G. (Accesso Da Via L. Da Vinci) · Cascina Canzi · Cascina Greppi (Via/Vicoli) · Cattaneo C. · Cervi F.Lli · Da Vinci L. (Via/Vicoli) · Don Minzoni · Fermi E. · Foscolo U. · Galilei G. · Galvani L. · Gioia F. (Via/Vicoli) · Gramsci A. · Greppi Dei · Leopardi G. · Manzoni A. (Via/Vicolo) · Matteotti G. (Via/Vicolo) · Meucci A. · Milano Storta · Parini G. · Pascoli G. · Pasolini P. P. · Pasubio · Pedresse Delle · Petrarca F. · Porta C. · Prigioni Delle · Puecher G. · Roncole Delle · Rossa G. · Sala E. · Streccione S. Ambrogio · Teodoro Da Sovico · Torrette · Torricelli E. · Volta A. (Via/Vicolo)",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

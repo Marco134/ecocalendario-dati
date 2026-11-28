@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Seveso",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Da marzo a ottobre: dalle 20.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta. Da novembre a febbraio: dalle 18.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta. In prossimità del proprio numero civico, a margine della pubblica via.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2025/05/Seveso_Calendario-servizi05.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Adamello · Adua · Alfieri Vittorio · Aprica · Asiago · Bellini Vincenzo · Borromeo Federico · Boschi Str. Vicinale Dei · Cadore · Cantù Cesare · Carducci Giosuè · Cascina Rossa · Cervi Fratelli · Chiesa Damiano · Cimarosa Domenico · Col Di Lana · Confalonieri Attilio · D’Annunzio G. · De Gasperi Alcide · Donizetti Gaetano · Edison Thomas Alva · Eritrea · Europa Unita · Fantoni Giovanni · Farga · Ferrini Contardo · Filzi Fabio · Gaggin Del · Galilei Galileo · Isonzo · Jacini Stefano · Leoncavallo R. · Leopardi Giacomo · Longoni Emilio · Maderna Augusto · Maderna Luigi · Madonna · Manzoni A. (Da Passaggio A Livello A V.Le Redipuglia) · Mascagni Pietro · Masciadri Padre G. · Matteotti G. · Meda Filippo · Mezzera Preposto · Miglioli Guido · Monte Grappa · Monte Palanzone · Monte San Primo · Negri Ada · Ortigara · Ortles · Ozanam Federico · Pareto Vilfredo · Parini Giuseppe · Pascoli Giovanni · Pasubio · Pellico Silvio · Piave · Puccini Giacomo · Quattro Novembre · Redipuglia · Repubblica Della · Resegone · Respighi Ottorino · Rimembranze · Roma · Sabotino · San Carlo · San Francesco D’Assisi · San Gabriele · San Giovanni Bosco · San Michele Del Carso · Sant’Agostino · Sanzio Raffaello · Sauro Nazario · Seminario Del · Stoppani Antonio · Sturzo Don Lugi · Tagliamento · Tasso Torquato · Tonale · Toniolo Giuseppe · Toti Enrico · Turati Filippo · Ventiquattro Maggio · Verga Giovanni · Vico Necchi · Vignazzola (Da Via San Carlo Alla Milano-Meda) · Vivaldi Antonio · Volta Alessandro · Zanella Giacomo",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

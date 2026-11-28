@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Giussano",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2022/01/Giussano_Calendario-servizi-22.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alberto Da Giussano (Da Via Diaz A Confine Comunale) · Alessandria · Alpini Degli · Battaglione Edolo · Battaglione Morbegno · Battisti C. · Boito A. · Brenna Cascina · Brioschina Cascina · Cadorna L. · Caduti Di Nassiriya · Caduti Sul Lavoro · Capra Cascina · Cardinal Ferrari · Carroccio (Da Via De Gasperi Alla Rotonda) · Catalani A. (Da Via Pascoli A Via Prealpi) · Cherubini L. · Cilea F. · Col Di Lana · Colombo · Costa Cascina · Costaiola Cascina · Crocifisso · Dante Alighieri · De Amicis E. · Divisione Julia · Don Beretta R. · Don Gaffuri · Don Gnocchi C. · Don Milani L. · Don Minzoni G. · Don Pifferi · Donizetti G. · Furlanelli A. · General Cantore · Giardini Dei · Gran Paradiso · Grigne Delle · Kennedy J.F. · Lazzaretto · Lazzaretto Cascina · Lecco · Lega Lombarda · Legnano · Leoncavallo · Longoni E. · Madonnina · Marmolada · Mognano Cascina · Molino Principe · Monte Canino · Monte Cervino · Monte Cristallo · Monte Nero · Monte Rosa · Monte San Michele · Monte Santo · Monviso · Monza · Mozart W.A. · Nobile Bianchi · Nuova Cascina · Nuova Valassina · Paganella · Papa Giovanni Xxiii · Pascoli G. · Pasubio · Pergolesi · Perosi L. · Peschiera Cascina · Polo M. · Ponchielli A. · Prealpi · Razunz T. · Redipuglia · Resegone · San Damiano · San Francesco D’Assisi · San Giovanni Cascina · San Luigi (Vicolo) · San Quirico · Sant’Agostino · Segantini · Serenella Cascina · Spreafico G. · Stelvio · Stradivari A. · Tofane · Tonale · Torre Cascina · Torricelli E. · Toscanini A. · Vespucci A. · Viganò A.",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): giovedì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

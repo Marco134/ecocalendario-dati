@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Varedo",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 3",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Varedo_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Adamello · Adige · Aquileia · Asti · Bassano Del Grappa · Belluno · Bergamo · Bezzecca · Bolzano · Brennero · Brescia · Brianzale · Celotti · Cervino · Circonvallazione Della · Cividale · Cuneo · Custoza · Dalmine · Dei Mille · D’Este Beatrice · Europa · Feltre · Fiume · Friuli · Genova · Goito · Isonzo · Iv Novembre · Lombardia · Longarone · Mantova · Merano · Mestre · Montanara · Monte Rosa · Montello · Novati · Padova · Parma · Pastrengo · Pavia · Peschiera · Pola · Ravenna · Redipuglia · Rovereto · Rovigo · San Bernardo · San Martino · Solferino · Sondrio · Stelvio · Tagliamento · Taranto · Terni · Torino · Tre Croci M. · Treviso · Udine · Valsugana · Varese · Venezia · Verona · Vicinale Del Foppone · Vicenza · Xxiv Maggio · Xxv Aprile · Zara",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Lissone",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 6",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 19.30 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Lissone_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Adda · Angelico · Arosio · Artigianato Dell’ · Asimov · Aspromonte · Avvoi · Bernasconi Monsignor · Bini · Bixio · Boito · Boltraffio · Brera · Brianza · Camporelli Don · Casati · Chiusi · Collodi · Commercio Del · Como (Da Via Riva A Confine Desio) · Coppi · D’Annunzio · D’Azeglio · De Amicis · De Marchi · Deledda · Fogazzaro · Follereau · Fossati · Fucini · Gadda · Gandhi · Giusti · Gnocchi Don · Grigna · Guerrini · Industrie Delle · Innovazione Dell’ · La Malfa · Lambro · Lecco · Legno Del · Libero · Lombardia · Machiavelli · Madre Teresa · Manara · Mantegazza · Martiri Delle Foibe · Mattei · Milani Don · Milazzo · Monte Rosa · Montelungo · Montessori · Negri · Nullo · Nuova Valassina (Da Via Monte Rosa A Via Mahatma Gandhi) · Olona · Pace · Paganini · Pasolini · Pergolesi · Pestalozzi · Pirandello · Ponchielli · Ponchielli · Quasimodo · Raiberti · Resegone · Riva · Rovetta · Salgari · Salvemini · San Domenico Savio · San Filippo Neri · San Giorgio · Santa Margherita (Da Via Sauro A Via Buonarroti) · Sarpi · Scarlatti · Sciesa · Sella · Sturzo Don · Tarra · Ticino · Tintoretto · Tonale · Verga · Verne",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

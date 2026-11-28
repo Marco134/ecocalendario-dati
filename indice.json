@@ -306,6 +306,35 @@
       ]
     },
     {
+      "id": "albiate",
+      "nome": "Albiate",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6567,
+      "lon": 9.2613,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/albiate/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/albiate/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/albiate/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "albizzate",
       "nome": "Albizzate",
       "provincia": "VA",
@@ -2117,6 +2146,35 @@
       ]
     },
     {
+      "id": "besana-in-brianza",
+      "nome": "Besana in Brianza",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.7008,
+      "lon": 9.2885,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/besana-in-brianza/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/besana-in-brianza/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/besana-in-brianza/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "besnate",
       "nome": "Besnate",
       "provincia": "VA",
@@ -2793,6 +2851,35 @@
       ]
     },
     {
+      "id": "bovisio-masciago",
+      "nome": "Bovisio-Masciago",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6111,
+      "lon": 9.1487,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/bovisio-masciago/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/bovisio-masciago/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/bovisio-masciago/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "bra",
       "nome": "Bra",
       "provincia": "CN",
@@ -3041,6 +3128,22 @@
           "nome": "Zona unica",
           "file": "comuni/brinzio/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "briosco",
+      "nome": "Briosco",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.7093,
+      "lon": 9.2372,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/briosco/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -3434,6 +3537,22 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-buttigliera-alta/"
+    },
+    {
+      "id": "cabiate",
+      "nome": "Cabiate",
+      "provincia": "CO",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6732,
+      "lon": 9.1667,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cabiate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "caerano-di-san-marco",
@@ -6023,6 +6142,22 @@
       ]
     },
     {
+      "id": "ceriano-laghetto",
+      "nome": "Ceriano Laghetto",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6272,
+      "lon": 9.0791,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ceriano-laghetto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cernusco-lombardone",
       "nome": "Cernusco Lombardone",
       "provincia": "LC",
@@ -6187,6 +6322,35 @@
           "valido_al": "2099-12-31"
         }
       ]
+    },
+    {
+      "id": "cesano-maderno",
+      "nome": "Cesano Maderno",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6265,
+      "lon": 9.148,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/cesano-maderno/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/cesano-maderno/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/cesano-maderno/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "cesara",
@@ -7973,6 +8137,35 @@
       ]
     },
     {
+      "id": "cusano-milanino",
+      "nome": "Cusano Milanino",
+      "provincia": "MI",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.5507,
+      "lon": 9.1816,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/cusano-milanino/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/cusano-milanino/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/cusano-milanino/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "cuveglio",
       "nome": "Cuveglio",
       "provincia": "VA",
@@ -8150,6 +8343,53 @@
         }
       ],
       "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
+    },
+    {
+      "id": "desio",
+      "nome": "Desio",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6201,
+      "lon": 9.2088,
+      "zone": [
+        {
+          "id": "a1",
+          "nome": "Zona A1",
+          "file": "comuni/desio/zona-a1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "a2",
+          "nome": "Zona A2",
+          "file": "comuni/desio/zona-a2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b1",
+          "nome": "Zona B1",
+          "file": "comuni/desio/zona-b1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b2",
+          "nome": "Zona B2",
+          "file": "comuni/desio/zona-b2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c1",
+          "nome": "Zona C1",
+          "file": "comuni/desio/zona-c1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c2",
+          "nome": "Zona C2",
+          "file": "comuni/desio/zona-c2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "diano-d-alba",
@@ -9474,6 +9714,35 @@
         }
       ],
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-giove/"
+    },
+    {
+      "id": "giussano",
+      "nome": "Giussano",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6914,
+      "lon": 9.2049,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/giussano/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/giussano/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/giussano/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "givoletto",
@@ -10920,6 +11189,53 @@
       ]
     },
     {
+      "id": "limbiate",
+      "nome": "Limbiate",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.605,
+      "lon": 9.123,
+      "zone": [
+        {
+          "id": "a1",
+          "nome": "Zona A1",
+          "file": "comuni/limbiate/zona-a1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "a2",
+          "nome": "Zona A2",
+          "file": "comuni/limbiate/zona-a2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b1",
+          "nome": "Zona B1",
+          "file": "comuni/limbiate/zona-b1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b2",
+          "nome": "Zona B2",
+          "file": "comuni/limbiate/zona-b2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c1",
+          "nome": "Zona C1",
+          "file": "comuni/limbiate/zona-c1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c2",
+          "nome": "Zona C2",
+          "file": "comuni/limbiate/zona-c2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "liscate",
       "nome": "Liscate",
       "provincia": "MI",
@@ -10935,6 +11251,53 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "lissone",
+      "nome": "Lissone",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6105,
+      "lon": 9.2439,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/lissone/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/lissone/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/lissone/zona-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/lissone/zona-4.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/lissone/zona-5.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/lissone/zona-6.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "livinallongo-del-col-di-lana",
@@ -16482,6 +16845,22 @@
       ]
     },
     {
+      "id": "renate",
+      "nome": "Renate",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.7227,
+      "lon": 9.2847,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/renate/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "resana",
       "nome": "Resana",
       "provincia": "TV",
@@ -17278,6 +17657,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/rovato/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rovello-porro",
+      "nome": "Rovello Porro",
+      "provincia": "CO",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6544,
+      "lon": 9.0398,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rovello-porro/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -18452,6 +18847,53 @@
       "zone_url": "https://valpeambiente.it"
     },
     {
+      "id": "seregno",
+      "nome": "Seregno",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6502,
+      "lon": 9.2018,
+      "zone": [
+        {
+          "id": "a1",
+          "nome": "Zona A1",
+          "file": "comuni/seregno/zona-a1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "a2",
+          "nome": "Zona A2",
+          "file": "comuni/seregno/zona-a2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b1",
+          "nome": "Zona B1",
+          "file": "comuni/seregno/zona-b1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b2",
+          "nome": "Zona B2",
+          "file": "comuni/seregno/zona-b2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c1",
+          "nome": "Zona C1",
+          "file": "comuni/seregno/zona-c1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c2",
+          "nome": "Zona C2",
+          "file": "comuni/seregno/zona-c2.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "serralunga-d-alba",
       "nome": "Serralunga d'Alba",
       "provincia": "CN",
@@ -18582,6 +19024,35 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "seveso",
+      "nome": "Seveso",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6474,
+      "lon": 9.1385,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/seveso/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/seveso/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/seveso/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "silea",
@@ -18820,6 +19291,35 @@
           "valido_al": "2027-02-28"
         }
       ]
+    },
+    {
+      "id": "sovico",
+      "nome": "Sovico",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6494,
+      "lon": 9.2649,
+      "zone": [
+        {
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/sovico/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/sovico/zona-b.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "c",
+          "nome": "Zona C",
+          "file": "comuni/sovico/zona-c.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "sparone",
@@ -20319,6 +20819,35 @@
       ]
     },
     {
+      "id": "varedo",
+      "nome": "Varedo",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.598,
+      "lon": 9.1571,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/varedo/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/varedo/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/varedo/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
+    },
+    {
       "id": "varenna",
       "nome": "Varenna",
       "provincia": "LC",
@@ -20455,6 +20984,22 @@
       ]
     },
     {
+      "id": "veduggio-con-colzano",
+      "nome": "Veduggio con Colzano",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.7358,
+      "lon": 9.2676,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/veduggio-con-colzano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "venaria-reale",
       "nome": "Venaria Reale",
       "provincia": "TO",
@@ -20553,6 +21098,35 @@
           "valido_al": "2027-05-31"
         }
       ]
+    },
+    {
+      "id": "verano-brianza",
+      "nome": "Verano Brianza",
+      "provincia": "MB",
+      "gestore": "Gelsia Ambiente",
+      "lat": 45.6847,
+      "lon": 9.2296,
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/verano-brianza/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/verano-brianza/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/verano-brianza/zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.gelsiambiente.it/servizi/calendario-dei-servizi/"
     },
     {
       "id": "verbania",

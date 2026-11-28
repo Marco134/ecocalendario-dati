@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1360,
+ "totale": 1380,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14477,6 +14477,206 @@
    "fonte": "https://www.comune.montanaso.lo.it/s3/4242/allegati/calendario.pdf",
    "verificato": "2026-11-28",
    "nota": "Il calendario comunale 2026 non dice se vale per le attività. Verificare sul sito del gestore."
+  },
+  {
+   "id": "albiate",
+   "nome": "Albiate",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Albiate_Calendario-raccolta.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "besana-in-brianza",
+   "nome": "Besana in Brianza",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Besana-in-Brianza_Calendario-raccolta.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "bovisio-masciago",
+   "nome": "Bovisio-Masciago",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Bovisio-Masciago_Calendario-raccolta.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "briosco",
+   "nome": "Briosco",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/07/Briosco_Calendario-raccolta.1.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "cabiate",
+   "nome": "Cabiate",
+   "provincia": "CO",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2021/10/Cabiate_Nuovo-Calendario-dei-Servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "ceriano-laghetto",
+   "nome": "Ceriano Laghetto",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2022/09/Ceriano-Laghetto_Calendario-servizi_ottobre2022.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario Gelsia indica l’esposizione per «Utenze domestiche e commerciali»."
+  },
+  {
+   "id": "cesano-maderno",
+   "nome": "Cesano Maderno",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2023/06/Cesano-Maderno_Calendario-raccolta_3.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "cusano-milanino",
+   "nome": "Cusano Milanino",
+   "provincia": "MI",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2024/04/Cusano-Milanino_Calendario-raccolta24.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "desio",
+   "nome": "Desio",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Desio_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "giussano",
+   "nome": "Giussano",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2022/01/Giussano_Calendario-servizi-22.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "limbiate",
+   "nome": "Limbiate",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Limbiate_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "lissone",
+   "nome": "Lissone",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Lissone_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "renate",
+   "nome": "Renate",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/12/Renate_Calendario-servizi-2021.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "rovello-porro",
+   "nome": "Rovello Porro",
+   "provincia": "CO",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2022/02/Rovello-Porro_Calendario-servizi_2022.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "seregno",
+   "nome": "Seregno",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Seregno_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "seveso",
+   "nome": "Seveso",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2025/05/Seveso_Calendario-servizi05.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "sovico",
+   "nome": "Sovico",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Sovico_Calendario-Servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "varedo",
+   "nome": "Varedo",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Varedo_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "veduggio-con-colzano",
+   "nome": "Veduggio con Colzano",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2020/06/Veduggio-con-Colzano_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
+  },
+  {
+   "id": "verano-brianza",
+   "nome": "Verano Brianza",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.gelsiambiente.it/wp-content/uploads/2025/03/Verano-Brianza_Calendario-servizi.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario dei servizi Gelsia è per le famiglie e non dice se vale per le attività. Verificare sul sito del gestore (gelsiambiente.it)."
   }
  ]
 }

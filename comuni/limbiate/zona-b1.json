@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Limbiate",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "• DAL 1° OTTOBRE AL 31 MARZO: dopo le 20.00 del giorno precedente la raccolta ed entro le ore 6.00 del giorno di raccolta • DAL 1° APRILE AL 30 SETTEMBRE: dopo le ore 22.00 del giorno precedente la raccolta ed entro le 6.00 del giorno di raccolta",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Limbiate_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alleanza · Ariberto · Asiago · Bassano · Bazzero A. · Belluno · Berchet G. · Bianchi M. · Bolzano · Bramante D. · Bruni C. · Buonarroti M. · Carroccio · Cividale · Concordia · Da Vinci L. (Da Ang. Lombardia Alla Rot. Mosè · Donatello · Giotto · Lavoro Del · Legnano · Lombardia (Da Ang. Trieste Ad Ang. Marconi) · Modigliani A. · Morbegno · Pace · Pacinotti A. · Popoli Uniti · Resistenza · Rosa S. · Rossa G. · Sanzio R. · Sciesa A. · Segantini G. · Solferino · Tarvisio · Tazzoli E. · Tiepolo G. · Unione · Valcamonica · Valgardena · Valsugana · Vittorio Veneto · Xi Settembre · Xx Settembre (Da Rot. Pinzano A Can. Villoresi) · Xxv Aprile",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Albiate",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Albiate_Calendario-raccolta.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: 2 Giugno · Battisti C. · Bosco Dei Pascoli · Buozzi B. · Canzi E Colombo · Caravaggio · Confalonieri G. · De Gasperi A. · Edison T. A. · Fermi E. · Ferrini C. · Fumagalli · Gemelli Padre A. · Gramsci A. · Grandi A. · Lombardia · Matteotti G. · Milano · Minzoni Don · Paola Di Rosa · Papa Giovanni Xxiii · Pascoli G. · Porta C. · Prealpi · Repubblica Della · San Carlo · San Fermo (Piazza) · Sant’Ambrogio · Sanzio R. · Sturzo Don · Turati F. · Xxv Aprile",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

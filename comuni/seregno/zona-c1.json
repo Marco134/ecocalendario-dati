@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Seregno",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 19.30 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Seregno_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Adamello · Adami · Agnesi · Aleardi · Aporti · Archimede · Arienti · Aristotele · Armellini · Avogadro · Bacchelli · Bacone · Betti · Boiardo · Borromeo · Brecht · Brunelleschi · Campanella · Cartesio · Cascina Ida · Cassina Savina · Colzani · Comina · Costa · Cuoco · Curie · Darwin · Di Vittorio · Don Gnocchi · Edison · Einstein · Erodoto · Eschilo · Europa · Fari · Fermi · Fiume · Giulio Cesare · Gobetti · Ippocrate · Iv Novembre · Kolbe · Labriola · Lombardi · Mantegazza · Marx · Matteucci · Meucci · Milano (Da Via Milano A Via Comina) · Modigliani · Moro · Nazioni Unite (Da Via Solferino A Via Colzani) · Nervi · Omero · Oriani · Pacini · Piemonte · Pirandello · Platone · Plinio · Plutarco · Ripamonti · Rosselli · Rovereto · Saba · Saffi · Salvemini · San Carlo · Solferino (Tratto Parallelo A Via Meda Verso Via Brecht) · Stregore’ · Tacito · Tartaglia · Toniolo · Trento · Trieste · Trincea Delle Frasche · Turati · Ungaretti",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

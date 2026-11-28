@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Giussano",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2022/01/Giussano_Calendario-servizi-22.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Addolorata · Alberto Da Giussano (Da Via De Gasperi Ad Ang. Via Diaz) · Aliprandi G. · Arona · Baracca F. · Bixio N. (Via Principale) · Bondi Dei · Borella · Caduti Di Cefalonia · Caduti Di Superga · Caimi G. · Carroccio (Da Via Umberto I A Via De Gasperi) · Cattaneo C. · Cavera · Cavour · Chiesa D. · Cimarosa D. · Clerici · Conciliazione Della · D’Azeglio M. · De Gasperi A. · Diaz A. · Dispersi In Guerra · Donatori Di Sangue · Einaudi L. · Elli A. · Europa · Fermi E. · Filzi F. · Fratelli Cairoli · Fratelli Cervi · Galilei G. · Galvani L. · Garibaldi G. · Ghiana Della · Gibbina Della · Gramsci A. · Isonzo · La Malfa U. · Lombardi A. · Mameli G. · Marconi G. · Marsala · Martiri Della Libertà · Mascagni P. · Matella · Matteotti G. · Mercalli G. · Miè Cascina · Miglio · Milano · Mille Dei · Monteverdi C. · Monti · Moro A. · Nenni P. · Oberdan G. · Pacinotti A. · Paganini N. · Parini G. · Pastore G. · Pellico S. · Piave · Pio Xii · Piola G. · Pirandello L. · Pisacane C. · Pontida · Porta C. · Repubblica Della · Rimembranze · Roma · Romanelli Dei · Rossini G. · Salvemini G. · San Carlo · San Giacomo · San Luigi (Piazzetta) · San Savio D. · Santa Chiara · Turati F. · Umberto I · Varenna E. · Vittime Olocausto · Vittorio Emanuele · Volta A. · Xxv Aprile",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

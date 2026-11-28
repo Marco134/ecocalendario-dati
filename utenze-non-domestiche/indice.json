@@ -7532,6 +7532,22 @@
    ]
   },
   {
+   "id": "ceriano-laghetto",
+   "nome": "Ceriano Laghetto",
+   "provincia": "MB",
+   "gestore": "Gelsia Ambiente",
+   "lat": 45.6272,
+   "lon": 9.0791,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/ceriano-laghetto/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "cernusco-lombardone",
    "nome": "Cernusco Lombardone",
    "provincia": "LC",

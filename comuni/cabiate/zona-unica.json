@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Cabiate",
+ "provincia": "CO",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "1° NOVEMBRE - 31 MARZO: Dopo le 18.30 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via 1° APRILE - 31 OTTOBRE: Dopo le 20.30 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2021/10/Cabiate_Nuovo-Calendario-dei-Servizi.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico",
+   "vetro",
+   "carta"
+  ]
+ },
+ "note": [
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): lunedì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

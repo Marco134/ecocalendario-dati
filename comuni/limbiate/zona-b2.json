@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Limbiate",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "• DAL 1° OTTOBRE AL 31 MARZO: dopo le 20.00 del giorno precedente la raccolta ed entro le ore 6.00 del giorno di raccolta • DAL 1° APRILE AL 30 SETTEMBRE: dopo le ore 22.00 del giorno precedente la raccolta ed entro le 6.00 del giorno di raccolta",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Limbiate_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "vetro",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alfieri V. · Archimede · Ariosto L. · Bernini G.L. · Boccaccio G. · Brunelleschi F. · Buozzi B. · Canonica L. · Caracciolo F. · Carbonari · Carducci G. · Cartesio R. · Collodi C. · Croce B. · Curiel E. · Da Giussano A. · Da Vinci L. · Giovane D’Italia G. · Giusti G. · Gobetti P. · Goldoni C. · Gorki M. · Guerrazzi D. · Guicciardini F. · I Maggio · Ii Giugno · Lega Lombarda · Leopardi G. · Lipari · Manzoni A. · Marconi G. · Menotti C. · Mentana · Micca (Dalla Rot. M. Bianchi Ad Ang. Tolstoj) Milano · Dandolo E. (Da Conf. Paderno D. Ad Ang. Turati) · De Amicis E. · Montale E. · Foscolo U. · Monti V. · Galilei G. · Morandi C. · Galluppi P. · Moro A. · Galvani L. · Nievo I. · Gioberti V. · Nullo F. · Ovidio Palladio A. · Parini G. · Pascal C. · Pascoli G. · Petrarca F. · Picozzi A. · Pirandello L. · Pitagora · Rodari G. · Rosmini A. · Sackarov A. · Salvemini G. · Saragat G. (Traversa Da Vinci) · Sottocorno · Stoppani A. · Tasso T. · Tiziano · Tolstoi L. · Turati F. · Vespri Siciliani · Viii Marzo · Volta A. · Xx Settembre (Da Can. Villoresi A Conf. Senago)",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

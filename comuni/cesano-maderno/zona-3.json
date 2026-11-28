@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Cesano Maderno",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 3",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 22.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2023/06/Cesano-Maderno_Calendario-raccolta_3.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Abetone · Acquedotto (Piazzale) · Acquedotto · Adda · Adige · Albano · Alberto Da Giussano · Arno · Artigiani Degli · Bandiera Fratelli · Baracca Francesco · Barbarossa · Baruccana · Basento · Beato Angelico · Benaco · Bixio Nino · Bolsena · Borromeo Elisabetta · Brembo · Brennero · Brenta · Cadorna Luigi · Calastri Luigi · Canova (Cascina) · Cantore Antonio · Cantù Cesare · Caprera · Carroccio · Carso Del · Cervi Fratelli · Chiesa Damiano · Chiesa Della (Piazza) · Colleoni Bartolomeo · Como · Confalonieri Federico · Cremona · Curtatone · Custoza · Da Buglione Goffredo · Da Lodi Fanfulla · Da Palestrina Pierluigi · De’ Medici Giovanni · Desio Per · Diaz Armando · Domodossola · Doria Andrea · Etna · Feltre · Ferrucci Francesco · Fieramosca Ettore · Filzi Fabio · Forlanini Carlo · Formenti Ernesto (Piazza) · Frank Anna · Gattamelata Erasmo · Goldoni Carlo · Grandi Achille · Isarco · Iseo · Kennedy Fratelli · Lamarmora Alfonso · Lambro · Lario · Lecco · Legnano · Levi Carlo · Liberazione Della · Locatelli Antonio · Lodi · Lorenzo Il Magnifico · Maddalena Ugo · Maiella · Manara Luciano · Manin Daniele · Mantova · Marangoni Leopoldo · Mariani Giuseppe · Maroncelli Pietro · Martiri Di Belfiore · Matera · Menotti Ciro · Micca Pietro · Mille Dei (Da San Carlo · Mincio · Misurina · Molino Arese · Moncenisio · Monte Bianco (Piazza) · Monte Generoso · Monte Nevoso · Monte Pertica · Monte Rosa · Montecassino · Monza · Moriggiola (Cascina) · Mortara · Muratori Ludovico Antonio · Necchi Ludovico · Novara · Ombrone · Orsini Felice · Ortles · Ozanam Federico · Pacinotti Luigi · Padova · Pala Bianca · Palestro · Paolo Vi · Pasini Carlo · Pavoni Don Siro · Pertini Sandro · Pirandello Luigi · Pirano · Pisani Vittor · Po · Podgora · Polo Marco · Pusiano · Remartini Don Natale · Reno · Ricasoli Bettino · Rimembranzele · Rizzo Luigi · Rubicone · Sabotino · San Bernardo · San Carlo · San Francesco D’Assisi · San Giovanni Evangelista · San Giuseppe · San Luca · San Marco · San Michele · San Rocco · San Tarcisio · San Valentino · Sant’Agostino · Santa Chiara · Savonarola Fra’ Girolamo · Scrivia · Segantini Giovanni · Segrino · Selvetto · Serchio · Serio · Serraglio Al · Sesia · Sforza Muzio Attendolo · Speri Tito · Stelvio · Stresa · Sturzo Don Luigi · Tazzoli Don Enrico · Tevere · Ticino · Tirso · Torretta Della · Trasimeno · Trebbia · Trento · Tromba Della (Vicolo) · Varese · Verbano · Verdi Giuseppe · Verga Giovanni · Verona · Verri Pietro · Viganò Don Luigi",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Limbiate",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "• DAL 1° OTTOBRE AL 31 MARZO: dopo le 20.00 del giorno precedente la raccolta ed entro le ore 6.00 del giorno di raccolta • DAL 1° APRILE AL 30 SETTEMBRE: dopo le ore 22.00 del giorno precedente la raccolta ed entro le 6.00 del giorno di raccolta",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Limbiate_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Adamello · Aosta · Artigianato Dell’ · Aspromonte · Baracca F. · Bergamo · Birago · Bonaparte N. (Da Ang. Garibaldi A Conf. Bovisio M.) · Bottego V. · Brescia · Brindisi · Calatafimi · Campo Santo · Caserta · Col Di Lana · Como · Diaz A. · Faenza · Fiume · Galimberti M. · Galliano G. · Garibaldi G. · Gradisca · Indipendenza · Isonzo · Lecco · Manara L. · Monte Ceneri · Monte Generoso · Monte Nevoso · Monte Terminillo · Monza · Murat G. · Negrelli L. · Padova · Palermo · Parma · Po · Ravenna (Da Roma A Ang. Dei Mille) · Resegone · Roma · Salerno · Sassari · Savona · Sempione · Settala L. · Settembrini L. · Sogno · Tadino A. · Torino · Toselli P. · Venezia · Verona · Zara",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Besana in Brianza",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 3",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 19.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Besana-in-Brianza_Calendario-raccolta.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alfieri Vittorio · Ariosto Ludovico · Ballerini Mons. Angelo · Beccaria Cesare · Belvedere · Bergognone Ambrogio · Borromeo C. Federico (Da Via Monastero A Via Cascina · Borsi Giosuè · Bottè · Botticelli Sandro · Bruscignone Del · Buonarroti Michelangelo · Cantù Cesare · Cappellania · Caravaggio · Carducci Giosuè · Cascina Antonietta · Cascina Badia · Cascina Cascinetta · Cascina Liguzzo · Cascina Riva · Cascina San Giuseppe · Cascina Sant’Antonio · Cascina Selva Della · Cascina Villarosa · Cascina Vimercati · Cavour Camillo Benso · Cellini Benvenuto · Cimabue Giovanni · Crippa Padre Giocondo · Croce Benedetto · Dalla Chiesa Carlo A. · De Amicis Edmondo · De Gasperi Alcide (Da Via Mazzolari A Via Cimabue) · Della Busa (Da Via Kennedy A Via Belvedere) · Dosso · Einaudi Luigi · Falcone Giovanni · Fermi Enrico · Ferrari C. Andrea · Giotto · Gnocchi Don Carlo · Kennedy J. R. (Da Via Cantù A Via Roma) · La Pira Giorgio · Masaccio · Mauri Padre Enrico · Mazzolari Don Primo · Milani Don Lorenzo · Monastero · Papa Giovanni Xxiii · Parrocchiale · Porta Carlo · Prinetti · Puccini Giacomo (Da Via Delle Rose A Via Don Gnocchi) · Resegone · Rufo Lucio Virginio · San Francesco · San Nazzaro · San Siro · Sant’Antonio (Via) · Santo Sudario · Scola Giuseppina · Stelvio · Tobagi Walter · Toscanini Arturo · Trinità Della · Verga Giovanni · Viganò Don G. Battista",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

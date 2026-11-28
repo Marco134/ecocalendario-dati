@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Giussano",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona A",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2022/01/Giussano_Calendario-servizi-22.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-23": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "carta",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Adamello · Adda · Adige · Alfieri · Artigianato Dell’ · Barrio · Bellini V. · Belluno · Bixio N. (Dal Civ 15 Al Civ 37) · Boccaccio · Bolzano · Brianza · Brunati · Carducci · Catalani A. (Da Viale Lario A Via Pascoli) · Certosini Dei · Como · Corridoni F. · Da Vinci L. · D’Acquisto S. · Deledda G. · Di Vittorio G. · Dosso Del · Fiume · Foscolo · Fratelli Rosselli · Giordano U. · Giusti G. · Gorizia · Gozzano · Grandi A. · Industria Dell’ · Iv Novembre · Lambro · Lario · Leopardi G. · Maddalena · Mantova · Manzoni A. · Martiri Di Belfiore · Mazzini G. · Mincio · Monte Bianco · Monte Grappa · Montello · Negri A. · Padova · Padre Elli L. · Petrarca F. · Pizzo Scalino · Po · Pola · Puccini G. · San Bosco G. · San Filippo Neri · San Gottardo · San Vincenzo · Santa Margherita · Sauro N. · Sempione · Statuto · Tagliamento · Tecnica Della · Ticino · Toti E. · Trento · Treviso · Trieste · Udine · Venezia · Verdi G. · Vicenza · Virgilio · Vittorio Veneto · Vivaldi · Xxiv Maggio · Zara",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Besana in Brianza",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 19.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Besana-in-Brianza_Calendario-raccolta.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-03": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-10": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-17": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-24": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-31": [
+   "organico",
+   "carta",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Alighieri Dante · Artigiani Degli · Beato Angelico · Bellavista · Bianchi Mosè · Brivio Pierino · Buozzi Bruno · Busa Della (Da Via Kennedy A Via Viarana) · Caccia Eugenio · Carcano Beato · Carmine Pietro · Casaretto · Casati Gaetano · Cascina Angelica · Cascina Angelica Della · Cascina Sbianca · Castano Del · Ceresola · Corti Giovanni · Corti E. (Piazza) · Cuzzi (Piazza) · D’Acquisto Salvo · Da Vinci Leonardo · Di Vittorio Giuseppe · Donatori Di Sangue · Ferrario Carlo · Filanda Della · Fogazzaro Antonio · Fontana Della · Galilei Galileo · Garibaldi Giuseppe · Gariberto Da Besana · Gerolo · Kennedy J. R. (Da Via Roma A Via Montello) · King Martin Luther · Libertà Della · Madonnina · Mantovani Antonio · Manzoni Alessandro · Miglioli Guido · Moneta E. Teodoro · Montello · Negrinelli Luigi · Ortensie Delle · Orti Degli · Pagani Antonio · Parini Giuseppe · Pascoli Dei · Piave · Ponti Pietro · Pozzo Del · Puccini Giacomo (Da Via Kennedy A Via Delle Rose) · Rivabella (Da Via San Camillo A Via Cascina · Roma · Rose Delle · Salvemini Gaetano · San Camillo · San Clemente · San Protaso · Sant’Anna · Santa Caterina (Piazza) · Santa Caterina (Via) · Sanzio Raffaello · Segantini Giovanni · Tagliamento · Torchio Del · Torre Della · Umberto I (Piazza) · Verdi Giuseppe · Viarana Luigi · Vignareto · Vimercati · Visconta · Vittorio Emanuele Ii · Vittorio Veneto · Xx Settembre · Zappa Giulio · Puecher Giancarlo",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): lunedì e giovedì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

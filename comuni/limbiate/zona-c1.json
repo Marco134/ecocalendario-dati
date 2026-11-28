@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Limbiate",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona C1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "• DAL 1° OTTOBRE AL 31 MARZO: dopo le 20.00 del giorno precedente la raccolta ed entro le ore 6.00 del giorno di raccolta • DAL 1° APRILE AL 30 SETTEMBRE: dopo le ore 22.00 del giorno precedente la raccolta ed entro le 6.00 del giorno di raccolta",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Limbiate_Calendario-servizi.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-26": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Bellini V. · Boito A. · Bonaparte N. (Da Ang. Garibaldi A Monte Grappa) · Casati F.Lli · Catalani A. · Cherubini C. · Cimarosa D. · Corelli A. · Donizetti G. · Enna · Fiori Dei · Giordano U. · Gran Sasso · Grigne Delle · Iv Novembre · Leoncavallo R. · Martiri Delle Foibe · Mascagni P. · Moncenisio · Monte Amiata · Monte Bernina · Monte Bianco · Monte Cassino · Monte Cengio · Monte Cervino · Monte Cristallo · Monte Falterona · Monte Grappa · Monte Nero · Monte Ortigara · Monte Rosa · Monte Sabotino · Monte Titano · Montello · Monteverdi C. · Monviso · Mozart W.A. · Paganini N. · Pasubio · Pergolesi G. · Pizzetti · Ponchielli A. · Puccini G. · Pusterla M. · Rossini G. · San Bernardo · San Giovanni Di Dio · San Giuseppe · San Gottardo · Sant’Antonio Da Padova · Scarlatti D. · Stelvio · Stradivari A. · Stromboli · Tobagi W. · Tonale · Toscanini A. · V Giornate · Verdi G. · Vesuvio · Vivaldi A. · Zanetta M.",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): mercoledì e sabato.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

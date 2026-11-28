@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Sovico",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona B",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 21.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2020/06/Sovico_Calendario-Servizi.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Alighieri D. · Baracca F. (Via/Vicolo) · Battisti C. · Brianza · Buozzi B. · Canzi V. · Carducci G. (Accesso Da Via Del Partigiano) · Castello · Cavour C.B · Cialdini G. · Colombo C. · Di Vittorio G. · Diaz A. · Don Cazzaniga E. · Don Guanella L. · Fiume · Frette E. · G. Da Sovico (Via/Vicolo) · Garibaldi G. · Legnani · Marconi G. · Monsignor Teruzzi G. · Monte Grappa · Monza · Muratori L. · Partigiano Del (Via/Vicoli) · Pasubio · Pellico S. · Piave · Principe Di Savoia E. · Riva A. · Stoppani A. · Trento E Trieste · Umberto I · Verdi G. · Vittorio Emanuele · Vittorio Veneto",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

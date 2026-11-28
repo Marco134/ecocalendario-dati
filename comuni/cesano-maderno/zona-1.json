@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Cesano Maderno",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Dopo le 22.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta, in prossimità del proprio numero civico, a margine della pubblica via",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2023/06/Cesano-Maderno_Calendario-raccolta_3.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Vie: Abruzzi · Addolorata · Aldo Moro (Piazza) · Alfani Padre · Alighieri Dante · Aquileia · Arese (Piazza) · Arrigoni Mons. A. (Piazza) · Battisti Cesare · Bellini Vincenzo · Bergamo · Berlinguer E. (Piazza) · Bezzecca · Biule’ (Cascina) · Biule’ (Salita Al) · Boga Padre Egidio · Borromeo Esedra (Piazza) · Borromeo Federigo · Borromeo · Brescia · Brianza · Bricola (Cascina) · Brigata Sassari · Calabria · Calvi Pier Fortunato · Campania · Cialdini Enrico · Cimarosa Domenico · Colombo Cristoforo · Comasinella · Copernico Niccolò · Curti Lupi Contessa · Da Vinci Leonardo · Dalmazia · De Gasperi Alcide · Donegani Guido · Donizetti Gaetano · Emilia · Ferrari Cardinal C.A. · Ferrini Contardo · Fogazzaro Antonio · Foscolo Ugo · Fosse Ardeatine · Frescobaldi Gerolamo · Friuli · Gemelli Padre Agostino · Giardino Villaggio (Strada · Giardino Villaggio · Gioia Flavio · Giovi Nazionale Dei · Gnocchi Don Carlo · Goito · Gramsci Antonio · Groane · Istria · Iv Novembre · Julia · Lazio · Leoncavallo Ruggero · Libertà (Corso) · Liguria · Lipu · Lombardia · Lucania · Luini Bernardino · Magenta · Marche · Marconato G. · Marconi Gugliemo · Maremma · Martinelli A. · Mascagni Pietro · Masetti Don Angelo (Piazza) · Matteotti Giacomo · Mazzucchelli F. · Mercalli Giuseppe · Molise · Monteverdi Claudio · Montina (Cascina) · Napoli Piazza · Orione Don Luigi · Osoppo · Padania · Padulli Gerolamo · Papa Giovanni Xxiii · Parini Giuseppe · Pascoli Giovanni · Pastrengo · Pavia · Pellico Silvio · Pergolesi Gian Battista · Peschiera · Piemonte · Piozzi Privata · Pogliani (Cascina) · Porta Carlo · Postumia · Procaccini Ercole (Piazza) · Puccini Giacomo · Puglie · Respighi Ottorino · Riccione · Risorgimento (Piazzale) · Robolotti · Roma Corso (Da Corso Libertà · Romagna · Ronzoni Giuliana · Ronzoni Giuseppe · Rosa (Vicolo Della) · Rosselli Fratelli · Rossini Gioacchino · San Carlo Borromeo (Piazza) · San Martino · San Paolo · San Tommaso D’Aquino · Sant’Anna · Sant’Antonio · Santa Comensoli G. · Santa Croce (Vicolo) · Santo Stefano · Sanzio Raffaello · Sardegna · Sauro Nazario · Schiapparelli Giovanni · Sicilia · Solferino · Superga (Piazzale) · Tasso Torquato · Tommaseo Nicolò · Torino · Torrazzo · Torre Viscosa · Torricelli Evangelista · Toscana · Treviso · Tridentina · Udine · Umbriale · Venaria Reale · Veneto · Vicenza · Villafranca · Vittorio Veneto (Piazza) · Volta Alessandro · Xxv Aprile (Piazza)",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): martedì e venerdì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}

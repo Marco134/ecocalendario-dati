@@ -1,0 +1,71 @@
+{
+ "schema": 1,
+ "comune": "Seveso",
+ "provincia": "MB",
+ "gestore": "Gelsia Ambiente",
+ "zona": "Zona 1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Da marzo a ottobre: dalle 20.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta. Da novembre a febbraio: dalle 18.00 del giorno antecedente al giorno di raccolta ed entro le 6.00 del giorno di raccolta. In prossimità del proprio numero civico, a margine della pubblica via.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta Gelsia Ambiente – https://www.gelsiambiente.it/wp-content/uploads/2025/05/Seveso_Calendario-servizi05.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico",
+   "indifferenziato",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: 10 Luglio 1976 · Abeti Degli · Aceri Degli · Acquedotto · Alighieri Dante · Alpini Degli · Archimede · Arese Bartolomeo · Aspromonte · Baracca Francesco · Barsanti Eugenio · Battisti Cesare · Belluno · Betulle Delle · Bizzozero Luigi · Boves · Brennero · Buonarroti M. · Cacciatori Delle Alpi · Caprioli Dei · Cascina Bricola · Castagni Dei · Catania · Cavour C.B. · Certosa · Confalonieri Card. Carlo · Corradi Preposto · Corridoni Filippo · Da Vinci Leonardo P.Za · Donegani Guido · Emilia · Enna · Esculapio · Feltre · Fermi Enrico · Ferrari Cardinale · Fornaci Delle · Fosso Del Ronchetto · Francioli · Galeno · Galimberti G. · Galvani Luigi · Garibaldi G. · Gelsi Dei · Giani Felice Vicolo · Giotto · Goito · Golgi Camillo · Gorizia · Grassi G.B. · Groane · Laforet Alessandro · Lario · Liguria · Manzoni A. (Da C.So Marconi Al Passaggio A Livello) · Marche · Marconi G. · Marsala · Martiri D’Ungheria · Marziali · Mazzini Giuseppe · Messina · Mestre · Milite Ignoto · Minzoni Don G. · Moncenisio · Monte Bianco · Monte Cervino · Monte Rosa · Montecatini · Montello · Montenero · Monti Antonio · Negrelli Luigi · Olmi Degli · Pacinotti Antonio · Padova · Palermo · Palestrina Pierluigi · Perosi Lorenzo · Piemonte · Pini Dei · Pioppi Dei · Platani Dei · Pordenone · Querce Delle · Robinie Delle · Ronco Nuovo · Rovigo · San Fermo Della Battaglia · San Marco · San Martino · San Matteo · Sant’Ambrogio · Sant’Anna · Scoglio Di Quarto · Segalini Edoardo · Solferino · Spallanzani Lazzaro · Sprelunga · Stelvio · Terragni Arch. G. · Tigli Dei · Tommaseo Nicolò · Torrente Al · Trapani · Treviso · Udine · Umbria · Vecellio Tiziano · Venezia · Venti Settembre · Venticinque Aprile · Verdi Giuseppe · Verona · Vicenza · Vittorio Veneto · Zeuner Federico",
+  "Schema settimanale del calendario dei servizi pubblicato da Gelsia Ambiente (gelsiambiente.it, «Calendario dei servizi»); il PDF non riporta un periodo di validità.",
+  "Il 25 dicembre la raccolta non viene effettuata: eventuali recuperi sono comunicati dal gestore (gelsiambiente.it, G-App).",
+  "Pannolini e pannoloni (sacco arancione): giovedì.",
+  "Servizio clienti Gelsia Ambiente: numero verde 800 445964."
+ ]
+}
