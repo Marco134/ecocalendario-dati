@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Palazzolo sull'Oglio",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre sacchi e contenitori il giorno previsto per la raccolta entro le ore 6 (la sera, il più tardi possibile). Il servizio di raccolta del vetro e metalli avrà inizio alle ore 7.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/palazzolo-sulloglio-calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica",
+   "carta"
+  ]
+ },
+ "note": [
+  "Zona 2: a nord/ovest del fiume Oglio, a nord/est della ferrovia e a sud di viale Europa; comprende il centro storico (Piazza), Riva e San Rocco fino a confine.",
+  "L’indifferenziato si raccoglie insieme ai pannolini. Sfalci e potature da marzo a novembre, solo per gli iscritti.",
+  "Carta, organico e plastica del 25 dicembre anticipati al 24; quelli del 1° gennaio 2027 anticipati al 31 dicembre. Durante le altre festività il servizio è svolto regolarmente.",
+  "Ingombranti a domicilio su prenotazione: app PULIamo, apricaspa.it o numero verde 800 437678."
+ ]
+}

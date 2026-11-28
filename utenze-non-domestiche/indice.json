@@ -2983,6 +2983,30 @@
    ]
   },
   {
+   "id": "bisceglie",
+   "nome": "Bisceglie",
+   "provincia": "BT",
+   "gestore": "Teknoservice",
+   "consorzio": "teknoservice-bisceglie-und",
+   "lat": 41.242445,
+   "lon": 16.502499,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+   "zone": [
+    {
+     "id": "food",
+     "nome": "Attività alimentari · Food",
+     "file": "comuni/bisceglie/zona-food.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "no-food",
+     "nome": "Attività non alimentari · Non food",
+     "file": "comuni/bisceglie/zona-no-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "bitetto",
    "nome": "Bitetto",
    "provincia": "BA",
@@ -11541,6 +11565,22 @@
    "zone_url": "https://valpeambiente.it/p/gestione-rifiuti/calendari/calendari-uma"
   },
   {
+   "id": "gottolengo",
+   "nome": "Gottolengo",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.2917,
+   "lon": 10.2715,
+   "zone": [
+    {
+     "id": "bar-ristoranti",
+     "nome": "Bar e ristoranti – vetro integrativo",
+     "file": "comuni/gottolengo/zona-bar-ristoranti.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "govone",
    "nome": "Govone",
    "provincia": "CN",
@@ -16919,6 +16959,22 @@
     }
    ],
    "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+  },
+  {
+   "id": "orzinuovi",
+   "nome": "Orzinuovi",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "lat": 45.4025,
+   "lon": 9.9218,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/orzinuovi/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "orzivecchi",
@@ -26429,30 +26485,6 @@
     }
    ],
    "zone_url": "https://www.ambienteservizi.net/comuni/zoppola"
-  },
-  {
-   "id": "bisceglie",
-   "nome": "Bisceglie",
-   "provincia": "BT",
-   "gestore": "Teknoservice",
-   "consorzio": "teknoservice-bisceglie-und",
-   "lat": 41.242445,
-   "lon": 16.502499,
-   "zone_url": "https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
-   "zone": [
-    {
-     "id": "food",
-     "nome": "Attività alimentari · Food",
-     "file": "comuni/bisceglie/zona-food.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "no-food",
-     "nome": "Attività non alimentari · Non food",
-     "file": "comuni/bisceglie/zona-no-food.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
   }
  ],
  "consorzi": {

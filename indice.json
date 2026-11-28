@@ -5568,6 +5568,22 @@
       ]
     },
     {
+      "id": "cazzago-san-martino",
+      "nome": "Cazzago San Martino",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.581,
+      "lon": 10.025,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cazzago-san-martino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cedegolo",
       "nome": "Cedegolo",
       "provincia": "BS",
@@ -8218,6 +8234,22 @@
       ]
     },
     {
+      "id": "erbusco",
+      "nome": "Erbusco",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5995,
+      "lon": 9.9732,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/erbusco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "erve",
       "nome": "Erve",
       "provincia": "LC",
@@ -9307,6 +9339,29 @@
         }
       ],
       "zone_url": "https://valpeambiente.it"
+    },
+    {
+      "id": "gottolengo",
+      "nome": "Gottolengo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.2917,
+      "lon": 10.2715,
+      "zone": [
+        {
+          "id": "centro",
+          "nome": "Centro abitato",
+          "file": "comuni/gottolengo/zona-centro.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "cascine-case-sparse",
+          "nome": "Cascine e case sparse",
+          "file": "comuni/gottolengo/zona-cascine-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/gottolengo"
     },
     {
       "id": "govone",
@@ -10772,6 +10827,22 @@
       "zone_url": "https://www.gardauno.it/it/servizi/igiene-urbana/raccolta-differenziata/eco-calendari-2026"
     },
     {
+      "id": "longhena",
+      "nome": "Longhena",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4381,
+      "lon": 10.0597,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/longhena/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "loranze",
       "nome": "Loranzè",
       "provincia": "TO",
@@ -11031,6 +11102,22 @@
           "nome": "Zona unica",
           "file": "comuni/macherio/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "maclodio",
+      "nome": "Maclodio",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4767,
+      "lon": 10.0418,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maclodio/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -13697,6 +13784,22 @@
       ]
     },
     {
+      "id": "orio-al-serio",
+      "nome": "Orio al Serio",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.6757,
+      "lon": 9.6915,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/orio-al-serio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "orio-canavese",
       "nome": "Orio Canavese",
       "provincia": "TO",
@@ -13799,6 +13902,22 @@
         }
       ],
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-orvieto/"
+    },
+    {
+      "id": "orzinuovi",
+      "nome": "Orzinuovi",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.4025,
+      "lon": 9.9218,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/orzinuovi/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "orzivecchi",
@@ -14086,6 +14205,35 @@
       "zone_url": "https://www.apricaspa.it/it/palazzo-pignano"
     },
     {
+      "id": "palazzolo-sull-oglio",
+      "nome": "Palazzolo sull'Oglio",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5985,
+      "lon": 9.8858,
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/palazzolo-sull-oglio/zona-zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/palazzolo-sull-oglio/zona-zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/palazzolo-sull-oglio/zona-zona-3.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/palazzolo-sull-oglio"
+    },
+    {
       "id": "pallanzeno",
       "nome": "Pallanzeno",
       "provincia": "VB",
@@ -14098,6 +14246,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pallanzeno/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "palosco",
+      "nome": "Palosco",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.5835,
+      "lon": 9.8379,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/palosco/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -15762,6 +15926,22 @@
       ]
     },
     {
+      "id": "provaglio-d-iseo",
+      "nome": "Provaglio d'Iseo",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.6378,
+      "lon": 10.0421,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/provaglio-d-iseo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "puegnago-del-garda",
       "nome": "Puegnago del Garda",
       "provincia": "BS",
@@ -16757,6 +16937,22 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/roure/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "rovato",
+      "nome": "Rovato",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5681,
+      "lon": 9.9976,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/rovato/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },

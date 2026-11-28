@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "comune": "Erbusco",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i contenitori entro le ore 6 del giorno di raccolta, ma non prima delle ore 20 del giorno precedente. Ritirare i contenitori entro la sera del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/erbusco-calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-02": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-09": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-16": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-23": [
+   "carta",
+   "vetro",
+   "plastica"
+  ],
+  "2026-12-25": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico",
+   "sfalci"
+  ],
+  "2026-12-30": [
+   "carta",
+   "vetro",
+   "plastica"
+  ]
+ },
+ "note": [
+  "25 dicembre: indifferenziato posticipato a sabato 26 dicembre. Durante le altre festività il servizio è svolto regolarmente.",
+  "Ingombranti a domicilio su prenotazione: app PULIamo, apricaspa.it o numero verde 800 437678."
+ ]
+}

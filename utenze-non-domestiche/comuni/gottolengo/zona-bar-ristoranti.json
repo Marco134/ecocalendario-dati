@@ -1,0 +1,32 @@
+{
+ "schema": 1,
+ "comune": "Gottolengo",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Bar e ristoranti – vetro integrativo",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Sacchi e contenitori vanno esposti a bordo strada, all’esterno della propria abitazione o attività, tra le 19.00 della sera precedente e le 6.00 del giorno previsto per la raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/gottolengo-calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-02": [
+   "vetro"
+  ],
+  "2026-12-16": [
+   "vetro"
+  ],
+  "2026-12-30": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Servizio integrativo del vetro e metalli per bar e ristoranti, il mercoledì ogni due settimane. Per le altre frazioni delle attività verificare sul sito del gestore.",
+  "Sfalci e potature il lunedì, dal 15 marzo al 15 dicembre, solo per gli iscritti al servizio.",
+  "Il sacco deve pesare al massimo 15 kg.",
+  "Ingombranti a domicilio su prenotazione: app PULIamo, apricaspa.it o numero verde 800 437678."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "comune": "Palosco",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Il calendario non indica gli orari di esposizione: verificare sul sito del gestore.",
+ "fonte": "Calendario raccolta differenziata 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/palosco-calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "vetro",
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-30": [
+   "vetro",
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Il 7 dicembre l’organico è spostato al lunedì (variazione del giorno di raccolta indicata dal calendario).",
+  "Verde e ingombranti vanno conferiti al centro di raccolta; ritiro quindicinale del verde a pagamento da aprile a novembre.",
+  "Ingombranti a domicilio su prenotazione: app PULIamo, apricaspa.it o numero verde 800 437678."
+ ]
+}

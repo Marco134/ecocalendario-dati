@@ -1,0 +1,55 @@
+{
+ "schema": 1,
+ "comune": "Orio al Serio",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Il calendario non indica gli orari di esposizione: verificare sul sito del gestore.",
+ "fonte": "Calendario raccolta differenziata 2026 Aprica – https://cloud.municipiumapp.it/s3/4785/allegati/calendario-rifiuti-anno-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "vetro",
+   "plastica",
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "vetro",
+   "plastica",
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "vetro",
+   "plastica",
+   "organico"
+  ]
+ },
+ "note": [
+  "Nessuna variazione festiva a dicembre indicata dal calendario.",
+  "Informazioni: numero verde Ecosviluppo 800392233."
+ ]
+}

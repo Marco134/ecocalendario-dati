@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Palazzolo sull'Oglio",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona 1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre sacchi e contenitori il giorno previsto per la raccolta entro le ore 6 (la sera, il più tardi possibile). Il servizio di raccolta del vetro e metalli avrà inizio alle ore 7.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/palazzolo-sulloglio-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Zona 1: a nord/est della ferrovia, comprende i quartieri San Giuseppe, Sgraffigna e San Pancrazio fino a confine.",
+  "L’indifferenziato si raccoglie insieme ai pannolini. Sfalci e potature da marzo a novembre, solo per gli iscritti.",
+  "Nessuna variazione festiva a dicembre per la zona 1. Durante le altre festività il servizio è svolto regolarmente.",
+  "Ingombranti a domicilio su prenotazione: app PULIamo, apricaspa.it o numero verde 800 437678."
+ ]
+}
