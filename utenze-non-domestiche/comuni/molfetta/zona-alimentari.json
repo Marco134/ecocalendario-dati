@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "comune": "Molfetta",
+ "provincia": "BA",
+ "gestore": "ASM Molfetta S.r.l.",
+ "zona": "Alimentari e ristorazione · zone 1–8",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-22",
+ "fonte": "https://www.asmmolfetta.it/image/materiale2019/Calendario%20UND%20-%20ALIMENTARI%2021-24.pdf | https://www.asmmolfetta.it/mappa.asp | https://www.comune.molfetta.ba.it/Novita/Notizie/Cambiano-i-giorni-di-conferimento-del-vetro",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-11-29": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-06": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-13": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-20": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Vetro esposto dom/mar/gio sera. Cartone in giro dedicato lun–sab, esposizione 12:00–13:00.",
+  "Verificare il prossimo affidamento e la continuità dei turni oltre il 22 dicembre. Confermare l’8 dicembre, i turni festivi successivi, i servizi per civico dell’agro e l’orario giovedì del CCR Ponente."
+ ],
+ "esposizione": "Esporre alla chiusura serale dell’esercizio il giorno precedente."
+}

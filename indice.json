@@ -24909,6 +24909,48 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "adelfia",
+      "nome": "Adelfia",
+      "provincia": "BA",
+      "gestore": "Si.Eco S.p.A.",
+      "consorzio": "sieco-adelfia",
+      "lat": 41.004265,
+      "lon": 16.871653,
+      "zone_url": "https://www.siecospa.it/project/adelfia-ba/",
+      "zone": [
+        {
+          "id": "ordinario",
+          "nome": "Utenze domestiche",
+          "file": "comuni/adelfia/zona-ordinario.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "molfetta",
+      "nome": "Molfetta",
+      "provincia": "BA",
+      "gestore": "ASM Molfetta S.r.l.",
+      "consorzio": "asm-molfetta",
+      "lat": 41.199246,
+      "lon": 16.596828,
+      "zone_url": "https://www.asmmolfetta.it/mappa.asp",
+      "zone": [
+        {
+          "id": "urbano",
+          "nome": "Urbano · zone 1–8",
+          "file": "comuni/molfetta/zona-urbano.json",
+          "valido_al": "2026-12-22"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro · Ecopoint e informazioni",
+          "file": "comuni/molfetta/zona-agro.json",
+          "valido_al": "2026-12-22"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -25480,6 +25522,18 @@
       "gestore": "AMIU Puglia S.p.A.",
       "ecocentri": "ecocentri/amiu-bari.json",
       "regole": "regole/amiu-bari.json"
+    },
+    "sieco-adelfia": {
+      "nome": "Si.Eco S.p.A. · Adelfia",
+      "gestore": "Si.Eco S.p.A.",
+      "ecocentri": "ecocentri/sieco-adelfia.json",
+      "regole": "regole/sieco-adelfia.json"
+    },
+    "asm-molfetta": {
+      "nome": "ASM Molfetta S.r.l. · Molfetta",
+      "gestore": "ASM Molfetta S.r.l.",
+      "ecocentri": "ecocentri/asm-molfetta.json",
+      "regole": "regole/asm-molfetta.json"
     }
   },
   "tipi_en": {

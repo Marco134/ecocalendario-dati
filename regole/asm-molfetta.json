@@ -1,0 +1,835 @@
+{
+ "schema": 1,
+ "nome": "Molfetta · Materiali",
+ "fonte": "https://www.asmmolfetta.it/documenti/ABBECEDARIO_RIFIUTI.pdf | https://www.asmmolfetta.it/public/allegati/1_RegolamRaccRifiuti-ASM_2024_DEFINITIVO_CON_EMENDAMENTI_CONSIGLIO_COMUNALE.pdf",
+ "voci": {
+  "accendini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "agende": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "alimenti (senza imballo)": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "alluminio (vaschette, fogli, ecc.)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "assorbenti igienici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "avanzi di pasti": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bacinelle di plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bambole e giocattoli (senza componenti elettriche)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "barattoli di metallo per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "barattoli di plastica per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "barattoli di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bastoncini cotton fioc": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "batuffoli di cotone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "biancheria intima": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bianchetti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bicchieri di plastica monouso": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bigiotteria": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "biro, penne": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "biscotti": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "blister vuoti in alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "blister vuoti in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "boccette profumi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bombolette spray (tranne prodotti t/f)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "borse": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bottiglie di plastica (vuote e pulite)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bottiglie di vetro (senza tappo)": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bottoni": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "bucce di frutta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "buste di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "caffè": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "calamite": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "calendari di carta": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "calze di nylon": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "calze e calzini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "caraffe di vetro (no cristallo)": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cards plastificate (bancomat, spesa, ecc.)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carne (piccole quantità)": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta \"macellaio\"": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta argentata (tipo uovo di pasqua)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta assorbente (da cucina)": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta carbone (copiativa)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta da disegno": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta da pacco": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta del pane": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta forno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta fotocopie": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta lucida da disegno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta per alimenti (formaggio, affettati, ecc.)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta plastificata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta stagna (tipo chiusure dello yogurt)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "carta vetrata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cartone ondulato": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cartone delle pizze (poco unto)": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cassette di cartone della frutta": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cd": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cellophane": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "ceramiche varie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cerotti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "chiavi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "chiodi (piccole quantità)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cialde per caffè espresso": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cicche di sigarette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "colla stick": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "colori (olio, tempere, acrilici, ecc.)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "confezioni di carta per alimenti": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "confezioni di cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "confezioni metalliche": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "contenitori vuoti di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "contenitori dello yogurt": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "contenitori di plastica da cucina": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "contenitori in alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "coperchi in metalli per barattoli": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cosmetici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cotone idrofilo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cotton fioc": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "cover di cellulare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "custodie di cd, dvd, musicassette,": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "dentifricio (tubetti vuoti di plastica o alluminio)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "depliants non plastificati": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "depliants plastificati": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "diari": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "dischi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "dvd": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "elastici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "escrementi di animali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "evidenziatori": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "faldoni di cartone (senza anelli)": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fascette per legature pacchi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fazzoletti di carta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "federe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fiammiferi": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "filo interdentale": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "filtri di thè o camomilla": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fiori finti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fiori recisi e secchi": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "flaconi (detersivi, detergenti, ecc.)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fogli di alluminio da cucina": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fogli di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fogli pubblicitari (volantini)": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "foglie": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fondi di caffè e thè": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fotografie e pellicole fotografiche": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "frutta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "fumetti": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "garze": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "giocattoli non elettrici e": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "giornali": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "gommapiuma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "gomme da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "gomme per cancellare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "grucce appendiabiti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "guanti in lattice": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "gusci di cozze, vongole, lumache": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "gusci d'uovo": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "imballaggi di carta": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "incarti trasparenti (brioches, caramelle, ecc.)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lamette usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lastre radiografiche": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lattine per bibite e per conserve": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "legno non trattato (in piccole quantità)": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lettiere minerali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lettiere vegetali": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lische di pesce": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "lucidascarpe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "matite": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "mollette per bucato": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "mozziconi di sigarette e sigari": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "nastri adesivi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "nastri per regali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "negativi di fotografie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "noccioli di frutta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "nylon": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "occhiali da vista e da sole": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "ombrelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "orologi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "ossi piccoli": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "ovatta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pacchetti di sigarette": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "palloncini di gomma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "panni elettrostatici per la polvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "peli di animali domestici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pellicole di cellophane": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pellicole fotografiche": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "peluches": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pennarelli e pennelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pesce": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pettini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "piante d'arredamento (piccole)": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "piastrine per zanzare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "piatti di plastica monouso": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "piatti di ceramica e porcellana": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "plastilina (pongo)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "polistirolo da imballaggio": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "polvere (da aspirapolvere o catturapolvere)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "pongo (plastilina)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "porcellana in cocci (piccole quantità)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "portachiavi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "posate in plastica monouso": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "preservativi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "radiografie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "righelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "riviste (non plastificate)": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "rotoli di carta igienica": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "sacchetti e scatole di carta": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "sacchetti di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "sacchetti per surgelare": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "salviette umidificate": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "saponette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scarti di cucina, frutta, verdura": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scatole di carta e cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scatole di metallo per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scatole in metallo per cibo animali": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "schede telefoniche e magnetiche": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "schedine da gioco e lotterie": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scontrini fiscali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scopini water": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "scotch": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "segatura": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "spazzole (capelli, abiti, animali, ecc.)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "spazzolini da denti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "spugnette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "stracci sporchi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "stuzzicadenti": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tamponi per timbri": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tappi a corona": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tappi di plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tappi di sughero naturale": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tappi metallici di barattoli": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "torsoli di frutta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tovaglioli di carta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "trucchi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tubetti vuoti di plastica o alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "uova": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "vaschette di plastica per": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "vaschette di polistirolo": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "vasetti di vetro (senza tappi e chiusure metalliche)": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "vasetti in plastica dello yogurt": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "vhs (videocassette)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "yogurt (vasetti di plastica)": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "zainetti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "zerbini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del proprio circuito."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Carta e cartone secondo l’art. 17 del Regolamento comunale 2024. Il vecchio glossario indica una frazione diversa."
+  }
+ }
+}

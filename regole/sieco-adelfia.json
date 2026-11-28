@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "nome": "Adelfia · Materiali",
+ "fonte": "https://www.siecospa.it/web/wp-content/uploads/2021/06/Comune-Adelfia-Ecovocabolario_moods.pdf",
+ "voci": {
+  "giornali e riviste": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "tetrapak": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "cartoni per bevande": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "imballaggi in carta e cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "bottiglie e flaconi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "lattine per bibite e conserve": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "imballaggi in polistirolo": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "tappi in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "tappi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "barattoli in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "buste per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "bottiglie in vetro senza tappo": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "vasetti di vetro": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "barattoli in vetro senza tappo": {
+   "dove": "vetro",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "bicchieri in vetro": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "bicchieri in cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "carta da forno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "carta oleata per alimenti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "capsule da caffè": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "scarti alimentari solidi": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "avanzi di carne": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "bucce di frutta": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "gusci d’uovo": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "caffè": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  },
+  "tappi in sughero naturale": {
+   "dove": "organico",
+   "nota": "Seguire le istruzioni del Comune e del gestore."
+  }
+ }
+}

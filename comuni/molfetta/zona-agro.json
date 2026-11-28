@@ -1,0 +1,17 @@
+{
+ "schema": 1,
+ "comune": "Molfetta",
+ "provincia": "BA",
+ "gestore": "ASM Molfetta S.r.l.",
+ "zona": "Agro · Ecopoint e informazioni",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-22",
+ "fonte": "https://www.asmmolfetta.it/public/allegati/1_RegolamRaccRifiuti-ASM_2024_DEFINITIVO_CON_EMENDAMENTI_CONSIGLIO_COMUNALE.pdf | https://www.asmmolfetta.it/mappa.asp",
+ "raccolte": {},
+ "note": [
+  "Per le utenze dell’agro senza porta a porta sono disponibili Ecopoint con accesso h24 per gli utenti autorizzati. Verificare il servizio per la propria contrada.",
+  "Verificare il prossimo affidamento e la continuità dei turni oltre il 22 dicembre. Confermare l’8 dicembre, i turni festivi successivi, i servizi per civico dell’agro e l’orario giovedì del CCR Ponente."
+ ],
+ "info": "Per le utenze dell’agro senza porta a porta sono disponibili Ecopoint con accesso h24 per gli utenti autorizzati. Verificare il servizio per la propria contrada.",
+ "info_en": "Use authorized collection points and confirm the current service for your address."
+}

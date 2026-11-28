@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Molfetta",
+ "provincia": "BA",
+ "gestore": "ASM Molfetta S.r.l.",
+ "zona": "Urbano · zone 1–8",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-22",
+ "fonte": "https://www.asmmolfetta.it/image/materiale2019/Calendario%20UD%2021-24.pdf | https://www.asmmolfetta.it/mappa.asp | https://www.comune.molfetta.ba.it/Novita/Notizie/Cambiano-i-giorni-di-conferimento-del-vetro",
+ "raccolte": {
+  "2026-11-28": [
+   "plastica"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Il vetro si espone il martedì sera. Per pannolini e pannoloni richiedere il servizio dedicato.",
+  "Verificare il prossimo affidamento e la continuità dei turni oltre il 22 dicembre. Confermare l’8 dicembre, i turni festivi successivi, i servizi per civico dell’agro e l’orario giovedì del CCR Ponente."
+ ],
+ "esposizione": "Esporre dalle 21:00 alle 24:00 del giorno precedente."
+}

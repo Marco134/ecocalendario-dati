@@ -25235,6 +25235,60 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "adelfia",
+   "nome": "Adelfia",
+   "provincia": "BA",
+   "gestore": "Si.Eco S.p.A.",
+   "consorzio": "sieco-adelfia-und",
+   "lat": 41.004265,
+   "lon": 16.871653,
+   "zone_url": "https://www.siecospa.it/project/adelfia-ba/",
+   "zone": [
+    {
+     "id": "non-alimentari",
+     "nome": "Attività non alimentari",
+     "file": "comuni/adelfia/zona-non-alimentari.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "alimentari",
+     "nome": "Attività di somministrazione alimenti",
+     "file": "comuni/adelfia/zona-alimentari.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "id": "molfetta",
+   "nome": "Molfetta",
+   "provincia": "BA",
+   "gestore": "ASM Molfetta S.r.l.",
+   "consorzio": "asm-molfetta-und",
+   "lat": 41.199246,
+   "lon": 16.596828,
+   "zone_url": "https://www.asmmolfetta.it/mappa.asp",
+   "zone": [
+    {
+     "id": "non-alimentari",
+     "nome": "Attività non alimentari · zone 1–8",
+     "file": "comuni/molfetta/zona-non-alimentari.json",
+     "valido_al": "2026-12-22"
+    },
+    {
+     "id": "alimentari",
+     "nome": "Alimentari e ristorazione · zone 1–8",
+     "file": "comuni/molfetta/zona-alimentari.json",
+     "valido_al": "2026-12-22"
+    },
+    {
+     "id": "industriale",
+     "nome": "Attività · zona industriale",
+     "file": "comuni/molfetta/zona-industriale.json",
+     "valido_al": "2026-12-22"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -26066,6 +26120,18 @@
    "nome": "AMIU Puglia · Bari",
    "gestore": "AMIU Puglia S.p.A.",
    "ecocentri": "ecocentri/amiu-bari-und.json"
+  },
+  "sieco-adelfia-und": {
+   "nome": "Si.Eco S.p.A. · Adelfia",
+   "gestore": "Si.Eco S.p.A.",
+   "ecocentri": "ecocentri/sieco-adelfia-und.json",
+   "regole": "regole/sieco-adelfia-und.json"
+  },
+  "asm-molfetta-und": {
+   "nome": "ASM Molfetta S.r.l. · Molfetta",
+   "gestore": "ASM Molfetta S.r.l.",
+   "ecocentri": "ecocentri/asm-molfetta-und.json",
+   "regole": "regole/asm-molfetta-und.json"
   }
  }
 }

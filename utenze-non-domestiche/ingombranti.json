@@ -6598,6 +6598,44 @@
    "regole_en": [
     "Check eligibility and booking conditions with AMIU."
    ]
+  },
+  {
+   "id": "sieco-adelfia-und",
+   "nome": "Si.Eco S.p.A. · Adelfia",
+   "gestori": [],
+   "comuni": [
+    "adelfia"
+   ],
+   "telefono": "800 999 531",
+   "fonte": "https://www.siecospa.it/ingombranti-e-raee/ | https://www.siecospa.it/project/adelfia-ba/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Verificare con il gestore i conferimenti permessi per il proprio tipo di attività."
+   ],
+   "regole_en": [
+    "Confirm current collection options and eligibility with the operator."
+   ]
+  },
+  {
+   "id": "asm-molfetta-und",
+   "nome": "ASM Molfetta S.r.l. · Molfetta",
+   "gestori": [],
+   "comuni": [
+    "molfetta"
+   ],
+   "telefono": "800 139 323",
+   "fonte": "https://www.asmmolfetta.it/ingombranti.asp",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Verificare con il gestore i conferimenti permessi per il proprio tipo di attività."
+   ],
+   "regole_en": [
+    "Confirm current collection options and eligibility with the operator."
+   ]
   }
  ]
 }

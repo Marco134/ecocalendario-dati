@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1211,
+ "totale": 1213,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12965,6 +12965,30 @@
    "nota": "Date per le zone non alimentari e tre circuiti alimentari. Verificare calendario industriale, alimentari a nord, festivi e civico.",
    "valido_al": "2026-12-31",
    "zone_und": 12
+  },
+  {
+   "id": "adelfia",
+   "nome": "Adelfia",
+   "provincia": "BA",
+   "gestore": "Si.Eco S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.siecospa.it/project/adelfia-ba/",
+   "verificato": "2026-11-28",
+   "valido_al": "2026-12-31",
+   "zone_und": 2,
+   "nota": "Confermare i turni e gli eventuali recuperi dell’8, 25 e 26 dicembre e gli avvisi 2027."
+  },
+  {
+   "id": "molfetta",
+   "nome": "Molfetta",
+   "provincia": "BA",
+   "gestore": "ASM Molfetta S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.asmmolfetta.it/mappa.asp",
+   "verificato": "2026-11-28",
+   "valido_al": "2026-12-22",
+   "zone_und": 3,
+   "nota": "Verificare il prossimo affidamento e la continuità dei turni oltre il 22 dicembre. Confermare l’8 dicembre, i turni festivi successivi, i servizi per civico dell’agro e l’orario giovedì del CCR Ponente."
   }
  ]
 }

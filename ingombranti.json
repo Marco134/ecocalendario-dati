@@ -5463,6 +5463,44 @@
       "regole_en": [
         "Check eligibility and booking conditions with AMIU."
       ]
+    },
+    {
+      "id": "sieco-adelfia",
+      "nome": "Si.Eco S.p.A. · Adelfia",
+      "gestori": [],
+      "comuni": [
+        "adelfia"
+      ],
+      "telefono": "800 999 531",
+      "fonte": "https://www.siecospa.it/ingombranti-e-raee/ | https://www.siecospa.it/project/adelfia-ba/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Prenotare il ritiro di ingombranti e RAEE domestici con Si.Eco al numero verde. Da mobile il servizio locale indica 346 536 8821. Chiedere limiti e modalità."
+      ],
+      "regole_en": [
+        "Confirm current collection options and eligibility with the operator."
+      ]
+    },
+    {
+      "id": "asm-molfetta",
+      "nome": "ASM Molfetta S.r.l. · Molfetta",
+      "gestori": [],
+      "comuni": [
+        "molfetta"
+      ],
+      "telefono": "800 139 323",
+      "fonte": "https://www.asmmolfetta.it/ingombranti.asp",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domestico a domicilio su prenotazione al numero verde o al numero 080 338 7574. Possibile richiesta a portaaporta@asmmolfetta.it. Concordare categoria e modalità."
+      ],
+      "regole_en": [
+        "Confirm current collection options and eligibility with the operator."
+      ]
     }
   ]
 }
