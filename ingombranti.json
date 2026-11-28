@@ -5679,6 +5679,43 @@
       "regole_en": [
         "Book free bulky waste, electronic waste or garden waste pickup. Check business eligibility with the operator."
       ]
+    },
+    {
+      "id": "aprica-varie",
+      "nome": "Aprica · Bergamasca, Comasco, Cremonese, Mantovano, Brianza",
+      "gestori": [],
+      "comuni": [
+        "alzano-lombardo",
+        "bonate-sopra",
+        "cappella-de-picenardi",
+        "castelleone",
+        "cavriana",
+        "cella-dati",
+        "gabbioneta-binanuova",
+        "gorle",
+        "grandate",
+        "lazzate",
+        "paladina",
+        "pescarolo-ed-uniti",
+        "pradalunga",
+        "ranica",
+        "san-daniele-po",
+        "urgnano",
+        "verdellino",
+        "villa-di-serio",
+        "villa-guardia"
+      ],
+      "telefono": "800 437678",
+      "fonte": "https://www.apricaspa.it/",
+      "prenotazione": true,
+      "prenota_url": "https://www.apricaspa.it/",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro su prenotazione al numero verde Aprica 800 437678, con l’app PULIamo o dal sito apricaspa.it; in alcuni comuni è a pagamento: vedi il calendario del Comune."
+      ],
+      "regole_en": [
+        "Book with Aprica on 800 437678 or the PULIamo app."
+      ]
     }
   ]
 }

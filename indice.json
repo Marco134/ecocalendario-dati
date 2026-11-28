@@ -493,6 +493,29 @@
       "zone_url": "https://www.cosptecnoservice.it/raccolta-differenziata-alviano/"
     },
     {
+      "id": "alzano-lombardo",
+      "nome": "Alzano Lombardo",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.7275,
+      "lon": 9.7258,
+      "zone": [
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/alzano-lombardo/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/alzano-lombardo/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/alzano-lombardo"
+    },
+    {
       "id": "amelia",
       "nome": "Amelia",
       "provincia": "TR",
@@ -2151,6 +2174,22 @@
       ]
     },
     {
+      "id": "bonate-sopra",
+      "nome": "Bonate Sopra",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.6831,
+      "lon": 9.5592,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bonate-sopra/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "borca-di-cadore",
       "nome": "Borca di Cadore",
       "provincia": "BL",
@@ -3687,6 +3726,22 @@
       ]
     },
     {
+      "id": "cappella-de-picenardi",
+      "nome": "Cappella de' Picenardi",
+      "provincia": "CR",
+      "gestore": "Aprica",
+      "lat": 45.1591,
+      "lon": 10.2301,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cappella-de-picenardi/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "capralba",
       "nome": "Capralba",
       "provincia": "CR",
@@ -4781,6 +4836,35 @@
       ]
     },
     {
+      "id": "castelleone",
+      "nome": "Castelleone",
+      "provincia": "CR",
+      "gestore": "Aprica",
+      "lat": 45.2935,
+      "lon": 9.7649,
+      "zone": [
+        {
+          "id": "cortellona-guzzafame",
+          "nome": "Cortellona Guzzafame",
+          "file": "comuni/castelleone/zona-cortellona-guzzafame.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-a",
+          "nome": "Zona A",
+          "file": "comuni/castelleone/zona-zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-b",
+          "nome": "Zona B",
+          "file": "comuni/castelleone/zona-zona-b.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/castelleone"
+    },
+    {
       "id": "castelletto-stura",
       "nome": "Castelletto Stura",
       "provincia": "CN",
@@ -5272,6 +5356,22 @@
       ]
     },
     {
+      "id": "cavriana",
+      "nome": "Cavriana",
+      "provincia": "MN",
+      "gestore": "Aprica",
+      "lat": 45.3499,
+      "lon": 10.601,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavriana/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cazzago-brabbia",
       "nome": "Cazzago Brabbia",
       "provincia": "VA",
@@ -5302,6 +5402,22 @@
           "nome": "Zona unica",
           "file": "comuni/cedegolo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cella-dati",
+      "nome": "Cella Dati",
+      "provincia": "CR",
+      "gestore": "Aprica",
+      "lat": 45.0962,
+      "lon": 10.2213,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cella-dati/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -8342,6 +8458,22 @@
       ]
     },
     {
+      "id": "gabbioneta-binanuova",
+      "nome": "Gabbioneta-Binanuova",
+      "provincia": "CR",
+      "gestore": "Aprica",
+      "lat": 45.2158,
+      "lon": 10.2217,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gabbioneta-binanuova/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "galbiate",
       "nome": "Galbiate",
       "provincia": "LC",
@@ -8887,6 +9019,22 @@
       "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Gorgonzola"
     },
     {
+      "id": "gorle",
+      "nome": "Gorle",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.7024,
+      "lon": 9.7188,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/gorle/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "gosaldo",
       "nome": "Gosaldo",
       "provincia": "BL",
@@ -8957,6 +9105,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/gradoli/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grandate",
+      "nome": "Grandate",
+      "provincia": "CO",
+      "gestore": "Aprica",
+      "lat": 45.7739,
+      "lon": 9.0583,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grandate/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -9966,6 +10130,22 @@
           "nome": "Zona unica",
           "file": "comuni/laveno-mombello/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "lazzate",
+      "nome": "Lazzate",
+      "provincia": "MB",
+      "gestore": "Aprica",
+      "lat": 45.6688,
+      "lon": 9.0842,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/lazzate/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -13606,6 +13786,22 @@
       ]
     },
     {
+      "id": "paladina",
+      "nome": "Paladina",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.7272,
+      "lon": 9.6064,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/paladina/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "palazzo-canavese",
       "nome": "Palazzo Canavese",
       "provincia": "TO",
@@ -14022,6 +14218,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/pertusio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "pescarolo-ed-uniti",
+      "nome": "Pescarolo ed Uniti",
+      "provincia": "CR",
+      "gestore": "Aprica",
+      "lat": 45.197,
+      "lon": 10.1851,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pescarolo-ed-uniti/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -14961,6 +15173,22 @@
       ]
     },
     {
+      "id": "pradalunga",
+      "nome": "Pradalunga",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.748,
+      "lon": 9.7843,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/pradalunga/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "pragelato",
       "nome": "Pragelato",
       "provincia": "TO",
@@ -15450,6 +15678,22 @@
           "nome": "Zona unica",
           "file": "comuni/rancio-valcuvia/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "ranica",
+      "nome": "Ranica",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.727,
+      "lon": 9.7146,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/ranica/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -16586,6 +16830,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/san-colombano-belmonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "san-daniele-po",
+      "nome": "San Daniele Po",
+      "provincia": "CR",
+      "gestore": "Aprica",
+      "lat": 45.0673,
+      "lon": 10.1763,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/san-daniele-po/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -18764,6 +19024,22 @@
       ]
     },
     {
+      "id": "urgnano",
+      "nome": "Urgnano",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.5985,
+      "lon": 9.6892,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/urgnano/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "usmate-velate",
       "nome": "Usmate Velate",
       "provincia": "MB",
@@ -19558,6 +19834,22 @@
       ]
     },
     {
+      "id": "verdellino",
+      "nome": "Verdellino",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.6042,
+      "lon": 9.6153,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/verdellino/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "verderio",
       "nome": "Verderio",
       "provincia": "LC",
@@ -19852,6 +20144,45 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "villa-di-serio",
+      "nome": "Villa di Serio",
+      "provincia": "BG",
+      "gestore": "Aprica",
+      "lat": 45.7201,
+      "lon": 9.7342,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/villa-di-serio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "villa-guardia",
+      "nome": "Villa Guardia",
+      "provincia": "CO",
+      "gestore": "Aprica",
+      "lat": 45.7747,
+      "lon": 9.0259,
+      "zone": [
+        {
+          "id": "civello",
+          "nome": "Zona Civello (vetro)",
+          "file": "comuni/villa-guardia/zona-civello.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "maccio",
+          "nome": "Zona Maccio (vetro)",
+          "file": "comuni/villa-guardia/zona-maccio.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/villa-guardia"
     },
     {
       "id": "villa-san-giovanni-in-tuscia",

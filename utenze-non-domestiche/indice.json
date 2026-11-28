@@ -26192,6 +26192,35 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "castelleone",
+   "nome": "Castelleone",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "lat": 45.2935,
+   "lon": 9.7649,
+   "zone": [
+    {
+     "id": "cortellona-guzzafame",
+     "nome": "Cortellona Guzzafame",
+     "file": "comuni/castelleone/zona-cortellona-guzzafame.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-a",
+     "nome": "Zona A",
+     "file": "comuni/castelleone/zona-zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-b",
+     "nome": "Zona B",
+     "file": "comuni/castelleone/zona-zona-b.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/castelleone"
   }
  ],
  "consorzi": {

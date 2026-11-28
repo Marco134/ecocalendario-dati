@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1300,
+ "totale": 1319,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -13863,6 +13863,196 @@
    "valido_al": "2026-12-31",
    "zone_und": 8,
    "nota": "Quattro zone per studi professionali equiparati alle utenze domestiche e quattro per attività commerciali. Confermare umido della zona 1, extra domenicali del centro storico e circuiti fuori dalle quattro zone; cartone dedicato in archivio."
+  },
+  {
+   "id": "grandate",
+   "nome": "Grandate",
+   "provincia": "CO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/grandate-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "villa-guardia",
+   "nome": "Villa Guardia",
+   "provincia": "CO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/villa-guardia-calendario-rd.pdf | https://content.apricaspa.it/sites/default/files/2024-06/villa-guardia-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "alzano-lombardo",
+   "nome": "Alzano Lombardo",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-alzano-lombardo-zona-a.pdf | https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-alzano-lombardo-zona-b.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "bonate-sopra",
+   "nome": "Bonate Sopra",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-12/bonate-sopra-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "gorle",
+   "nome": "Gorle",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/gorle-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "paladina",
+   "nome": "Paladina",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/paladina-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "pradalunga",
+   "nome": "Pradalunga",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/pradalunga-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "ranica",
+   "nome": "Ranica",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/ranica-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "urgnano",
+   "nome": "Urgnano",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/urgnano-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "verdellino",
+   "nome": "Verdellino",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-12/verdellino-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "villa-di-serio",
+   "nome": "Villa di Serio",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2025-12/villa-serio-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "cappella-de-picenardi",
+   "nome": "Cappella de' Picenardi",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Cappella-de-Picenardi-calendario.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "castelleone",
+   "nome": "Castelleone",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-03/castelleone-calendario-rd-guzzafame.pdf | https://content.apricaspa.it/sites/default/files/2026-03/castelleone-a-calendario-rd.pdf | https://content.apricaspa.it/sites/default/files/2026-03/castelleone-b-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "cella-dati",
+   "nome": "Cella Dati",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/cella-dati-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "gabbioneta-binanuova",
+   "nome": "Gabbioneta-Binanuova",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/gabbioneta-binanuova-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "pescarolo-ed-uniti",
+   "nome": "Pescarolo ed Uniti",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/pescarolo-uniti-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "san-daniele-po",
+   "nome": "San Daniele Po",
+   "provincia": "CR",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/san-daniele-po-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "cavriana",
+   "nome": "Cavriana",
+   "provincia": "MN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/cavriana-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "lazzate",
+   "nome": "Lazzate",
+   "provincia": "MB",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/lazzate-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
   }
  ]
 }

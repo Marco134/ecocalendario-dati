@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "comune": "Castelleone",
+ "provincia": "CR",
+ "gestore": "Aprica",
+ "zona": "Cortellona Guzzafame",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2026-03/castelleone-calendario-rd-guzzafame.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Pannolini, sfalci, ingombranti, Ecocar e spazzamento strade non sono riportati: vedi il calendario del Comune.",
+  "Ingombranti e informazioni: numero verde Aprica 800 437678 o app PULIamo."
+ ]
+}

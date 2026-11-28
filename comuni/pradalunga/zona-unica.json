@@ -1,0 +1,58 @@
+{
+ "schema": 1,
+ "comune": "Pradalunga",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/pradalunga-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Pannolini, sfalci, ingombranti, Ecocar e spazzamento strade non sono riportati: vedi il calendario del Comune.",
+  "Ingombranti e informazioni: numero verde Aprica 800 437678 o app PULIamo."
+ ]
+}

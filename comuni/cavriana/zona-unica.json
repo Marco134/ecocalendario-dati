@@ -1,0 +1,34 @@
+{
+ "schema": 1,
+ "comune": "Cavriana",
+ "provincia": "MN",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 06:00 del giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/cavriana-calendario-rd.pdf",
+ "raccolte": {
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Porta a porta solo carta e plastica. Vetro, organico e indifferenziato si conferiscono nei cassonetti stradali (organico e indifferenziato con chiavetta).",
+  "Pannolini, sfalci, ingombranti, Ecocar e spazzamento strade non sono riportati: vedi il calendario del Comune.",
+  "Ingombranti e informazioni: numero verde Aprica 800 437678 o app PULIamo."
+ ]
+}
