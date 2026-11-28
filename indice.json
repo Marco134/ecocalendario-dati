@@ -6980,6 +6980,12 @@
           "nome": "Ponte Chiasso – Sagnino",
           "file": "comuni/como/zona-ponte-chiasso-sagnino.json",
           "valido_al": "2026-12-31"
+        },
+        {
+          "id": "citta-turistica",
+          "nome": "Città turistica (Città Murata e Lungolago Geno/Sant’Agostino)",
+          "file": "comuni/como/zona-citta-turistica.json",
+          "valido_al": "2026-12-31"
         }
       ],
       "zone_url": "https://www.apricaspa.it/it/bergamo"

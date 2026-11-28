@@ -6775,6 +6775,25 @@
    "regole_en": [
     "Bulky waste: Via Goltara 23 platform or book with Aprica on 800 437678."
    ]
+  },
+  {
+   "id": "aprica-como-und",
+   "nome": "Aprica · Como · UND",
+   "gestori": [],
+   "comuni": [
+    "como"
+   ],
+   "telefono": "800 437678",
+   "fonte": "https://www.apricaspa.it/it/como",
+   "prenotazione": true,
+   "prenota_url": "https://www.apricaspa.it/it/como",
+   "verificato": "2026-11-28",
+   "regole": [
+    "Centro di raccolta di via Stazzi: per le attività accesso il mercoledì e il venerdì solo con autocarri autorizzati dal Comune, iscrizione all’Albo Gestori Ambientali ed Ecopass."
+   ],
+   "regole_en": [
+    "Via Stazzi collection centre: businesses only on Wednesday and Friday, with trucks authorised by the municipality, registration with the Albo Gestori Ambientali and an Ecopass."
+   ]
   }
  ]
 }

@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "zona": "Città Murata – utenze commerciali (plastica e carta)",
+ "esposizione": "Giorni di raccolta: lunedì, martedì, giovedì e sabato. I contenitori e i sacchi vanno esposti dalle ore 18.00 alle 19.30 del giorno della raccolta. I contenitori devono essere ritirati entro le ore 8.00 della mattina successiva.",
+ "esposizione_entro": "19:30",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-citta-murata-commerciali-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "plastica",
+   "carta"
+  ],
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-05": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-12": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-19": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-26": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Adamo del Pero • Albertolli • Balestra • Ballarini • Battisti (solo lato civici pari) • Bellini • Bertinelli • Bianchi Giovini • Boldoni • Bonanomi • Cantù • Carcano Paolo • Carducci • Cattaneo (solo lato civici pari) • Cavour • Cinque Giornate • Collegio dei Dottori • Dell’Annunciata • Diaz • Duomo (piazza e vicolo) • Florio da Bontà • Fontana • Foscolo • Fratelli Cairoli • Garibaldi • Giovio • Gobetti • Grassi • Grimoldi • Indipendenza • Juvara • Lambertenghi • Lucati • Luini • Macchi • Maestri Comacini • Martinelli (piazza) • Mazzini • Medaglie d’Oro • Muralto • Natta • Odescalchi • Olginati • Parini • Perretta • Perti • Pinchetti • Plinio • Pantero Pantera • Porta • Pretorio • Raimondi • Rodari • Roma • Rovelli • Rubini • Rusconi • San Fedele • Sauro • Tatti • Terragni • Tridi • Vacchi • Verdi • Vitani • Vittorio Emanuele II • Volpi • Volta (via e piazza) - Zuccoli",
+  "Il calendario riguarda solo imballaggi in plastica e carta e cartone; per le altre frazioni verificare sul sito del gestore.",
+  "31 dicembre: raccolta di plastica, carta e cartone anticipata alle ore 12.00.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ]
+}

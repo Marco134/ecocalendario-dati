@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Como",
+ "provincia": "CO",
+ "gestore": "Aprica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "zona": "Città turistica (Città Murata e Lungolago Geno/Sant’Agostino)",
+ "esposizione": "Giorni di raccolta: martedì e venerdì. I contenitori e i sacchi vanno esposti dalle ore 21.00 del giorno prima della raccolta e fino alle ore 6.00 del giorno della raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-como-citta-turistica-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-25": [
+   "organico",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Adamo del Pero • Albertolli • Balestra • Ballarini • Battisti (solo lato civici pari) • Bellini • Bertinelli • Bianchi Giovini • Boldoni • Bonanomi • Bonola • Cantù • Carcano Paolo • Carducci • Cattaneo (solo lato civici pari) • Cavour • Cinque Giornate • Collegio dei Dottori • Coloniola • Crespi • Croggi • De Gasperi • De Orchi • Dell’Annunciata • Diaz • Dionigi da Parravicino • Duomo (piazza e vicolo) • Fiammenghino • Florio da Bontà • Fontana • Foscolo • Fratelli Cairoli • Garibaldi • Giovio • Geno • Gobetti • Grassi • Grimoldi • Indipendenza • Juvara • Lambertenghi • Leopardi • Lucati • Luini • Lungo Lario Trieste (da piazza Matteotti a Lungo Lario Trento - da civico n. 2 a civico n. 16) • Lungo Lario Trieste (da piazza Matteotti a Piazza De Gasperi • dal civico n. 18 al civico n. 56) • Macchi • Maestri Comacini • Martinelli (piazza) • Matteotti • Mazzini • Medaglie d’Oro • Muralto • Natta • Odescalchi • Olginati • Parini • Perretta • Perti • Pinchetti • Plinio • Pantero Pantera • Porta • Pretorio • Raimondi • Rodari • Roma • Rovelli • Rubini • Rusconi • San Fedele • Sauro • Tatti • Terragni • Tridi • Vacchi • Verdi • Vitani • Vittorio Emanuele II • Volpi • Volta (via e piazza) • Zuccoli",
+  "Il venerdì è prevista la raccolta extra di vetro e metalli per le utenze non domestiche (calendario Città turistica).",
+  "Per plastica e carta delle attività commerciali della Città Murata vale anche il calendario «Città Murata (utenze commerciali)».",
+  "Il calendario non prevede variazioni per le festività di dicembre.",
+  "Ecosportello in via Einaudi; informazioni Aprica 800 437678."
+ ]
+}
