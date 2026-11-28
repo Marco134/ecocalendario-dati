@@ -6047,6 +6047,25 @@
       "regole_en": [
         "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
       ]
+    },
+    {
+      "id": "teknoservice-montanaso-lombardo",
+      "nome": "Teknoservice · Montanaso Lombardo",
+      "gestori": [],
+      "comuni": [
+        "montanaso-lombardo"
+      ],
+      "telefono": "800681650",
+      "prenota_url": null,
+      "prenotazione": true,
+      "fonte": "https://www.comune.montanaso.lo.it/s3/4242/allegati/calendario.pdf",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro ingombranti su prenotazione al numero verde 800 681 650: fino a tre pezzi per prenotazione, da esporre al civico concordato."
+      ],
+      "regole_en": [
+        "Bulky waste pickup by booking on 800 681 650: up to three items, placed at the agreed address."
+      ]
     }
   ]
 }

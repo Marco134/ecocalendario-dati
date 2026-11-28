@@ -12837,6 +12837,22 @@
       ]
     },
     {
+      "id": "montanaso-lombardo",
+      "nome": "Montanaso Lombardo",
+      "provincia": "LO",
+      "gestore": "Teknoservice S.r.l.",
+      "lat": 45.3353,
+      "lon": 9.4631,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/montanaso-lombardo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "montanera",
       "nome": "Montanera",
       "provincia": "CN",
