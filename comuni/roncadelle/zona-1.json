@@ -1,0 +1,82 @@
+{
+ "schema": 1,
+ "comune": "Roncadelle",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona 1",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Tutti i rifiuti devono essere esposti tra le 21.00 della sera precedente e le 6.00 del giorno di raccolta. I contenitori vanno ritirati il prima possibile, entro il giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Il calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/roncadelle-calendario-rd-zona1.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-07": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato",
+   "sfalci"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-21": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Via Alighieri · Via Bachelet · Via Baden Powell · Via Banzi · Via Berlinguer · Via Bottardi · Via Buonarroti · Via Calzari · Vicolo Caselle · Via Castello · Via Da Vinci · Via Del Laghetto · Traversa Di Vittorio · Via Di Vittorio (Dal Civ.2 Al 26; Dal Civ.1 Al 15) · Via Don Carlo Vezzoli · Via Pinto · Via Donatori · Via Ribaudo Di Sangue · Via Roma · Via Fermi · Via San · Via Gagarin Bernardino · Via Galbiati · Via Santa Giulia · Via Galilei · Via Talenti · Via Ghislandi · Via Terracini · Via Gramsci · Via Togliatti · Via Iv Novembre · Via Trebeschi · Via Leopardi · Via Treccani · Via R. Lombardi Chinelli · Via Manenti · Via Volta · Via Manzoni · Via Xx Luglio · Via Marconi · Via Xxv Aprile · Via Matteotti (Quartiere) · Via Natali · Via Zambarda · Via Nenni · Via Papa Giovanni Xxiii",
+  "25 dicembre: organico, pannolini e carta spostati a sabato 26 dicembre.",
+  "Pannolini e pannoloni (sacco azzurro): su prenotazione, raccolti con l’organico secondo il calendario.",
+  "Sfalci e potature: servizio su prenotazione, il lunedì come da calendario.",
+  "Ingombranti e RAEE: 1° e 3° giovedì del mese previa prenotazione (apricaspa.it, app PULIamo, numero verde 800 437678).",
+  "Centro di raccolta di via dell’Artigianato."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}

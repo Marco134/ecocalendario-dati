@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1352,
+ "totale": 1353,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14397,6 +14397,16 @@
    "fonte": "https://content.apricaspa.it/sites/default/files/2025-10/nave-calendario-rd.pdf",
    "verificato": "2026-11-28",
    "nota": "Il calendario 2026 Aprica del Comune è per le famiglie e non dice se vale per le attività (cita le utenze non domestiche solo per il centro di raccolta e, a Bovezzo, per la tariffa degli sfalci). Verificare sul sito del gestore (apricaspa.it, pagina del Comune)."
+  },
+  {
+   "id": "roncadelle",
+   "nome": "Roncadelle",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "scheda_informativa",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-06/roncadelle-calendario-rd-zona1.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario 2026 Aprica è per le utenze domestiche (zona 1 e zona 2) e non dice se vale per le attività. Verificare sul sito del gestore (apricaspa.it, pagina del Comune)."
   }
  ]
 }

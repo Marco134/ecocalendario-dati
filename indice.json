@@ -17029,6 +17029,29 @@
       ]
     },
     {
+      "id": "roncadelle",
+      "nome": "Roncadelle",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5281,
+      "lon": 10.1513,
+      "zone_url": "https://www.apricaspa.it/it/roncadelle",
+      "zone": [
+        {
+          "id": "zona-1",
+          "nome": "Zona 1",
+          "file": "comuni/roncadelle/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/roncadelle/zona-2.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "roncello",
       "nome": "Roncello",
       "provincia": "MB",

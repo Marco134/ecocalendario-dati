@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "comune": "Roncadelle",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Tutti i rifiuti devono essere esposti tra le 21.00 della sera precedente e le 6.00 del giorno di raccolta. I contenitori vanno ritirati il prima possibile, entro il giorno di raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Il calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/roncadelle-calendario-rd-zona2.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-01": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-14": [
+   "sfalci"
+  ],
+  "2026-12-15": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-29": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Vie: Via Amendola · Via Antezzate · Via Braghini Brescia Sud – Lato Nord (Tang.) Brescia Sud – Lato Sud (Tang.) · Via Caduti Del Lavoro · Via Canossi · Via Cascina Fiorita · Via C. Cavour · Via Cellini · Vicolo Chiuso · Via Cismondi · Via Dalla Chiesa · Via M. D’Antona E M. Biagi · Via De Gasperi · Vicolo Del Volto · Via Dell’Artigianato · Via Della Ferrovia · Vicolo Di Mezzo · Via Di Vittorio Dal Civ. 28 Al 70; Dal Civ.17 Al 41 · Via Einaudi · Via F.Lli Bandiera · Via F.Lli Cervi · Via Falcone E Borsellino · Via Ferrari · Vicolo Fontanello · Via Ghiberti · Traversa Ghislandi · Via Industriale · Via Giovanni Lombardi · Via Mandolossa · Via Martin Luther King · Traversa I Martin Luther King · Traversa Ii Martin Luther King · Via Martiri Della Libertà · Traversa Martiri Della Libertà · Via Mattei · Vicolo Mattina · Via Mazzini · Via Moro · Piazza Nikolajewka · Via Padre Marcolini · Via Pertini · Via · Piazza D’Armi · Via Pio La Torre · Via Puccini · Via Savoldo · Via Tienanmen · Via Toscanini · Via Verdi · Traversa Villanuova · Via Villanuova · Via Violino Brione · Via Vittorio Emanuele Ii",
+  "Nessuna variazione festiva a dicembre per la zona 2.",
+  "Pannolini e pannoloni (sacco azzurro): su prenotazione, raccolti con l’organico secondo il calendario.",
+  "Sfalci e potature: servizio su prenotazione, il lunedì come da calendario.",
+  "Ingombranti e RAEE: 1° e 3° giovedì del mese previa prenotazione (apricaspa.it, app PULIamo, numero verde 800 437678).",
+  "Centro di raccolta di via dell’Artigianato."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}
