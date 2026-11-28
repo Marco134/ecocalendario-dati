@@ -1825,6 +1825,12 @@
           "valido_al": "2026-12-31"
         },
         {
+          "id": "borgo-santa-caterina",
+          "nome": "Borgo Santa Caterina",
+          "file": "comuni/bergamo/zona-borgo-santa-caterina.json",
+          "valido_al": "2026-12-31"
+        },
+        {
           "id": "campagnola-boccaleone",
           "nome": "Campagnola Boccaleone",
           "file": "comuni/bergamo/zona-campagnola-boccaleone.json",
@@ -1861,9 +1867,27 @@
           "valido_al": "2026-12-31"
         },
         {
+          "id": "citta-alta",
+          "nome": "Città Alta",
+          "file": "comuni/bergamo/zona-citta-alta.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "citta-alta-borgo-storico",
+          "nome": "Città Alta – Borgo Storico",
+          "file": "comuni/bergamo/zona-citta-alta-borgo-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
           "id": "clementina",
           "nome": "Clementina",
           "file": "comuni/bergamo/zona-clementina.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "collinare-san-virgilio",
+          "nome": "Collinare San Vigilio",
+          "file": "comuni/bergamo/zona-collinare-san-virgilio.json",
           "valido_al": "2026-12-31"
         },
         {

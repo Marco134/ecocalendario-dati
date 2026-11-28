@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Città Alta",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta, martedì, giovedì e venerdì, i rifiuti vanno esposti dalle ore 6 alle ore 9.30 della mattina della raccolta.",
+ "esposizione_entro": "09:30",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-citta-alta-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-18": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-24": [
+   "carta",
+   "indifferenziato"
+  ],
+  "2026-12-25": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Vie: Arena • Becharino da Pratta • Beltrami (da Colle Aperto ai civici n. 3 e n. 36 inclusi) • Bettami • Boccola • Brigata Legnano • Colle Aperto (largo e scaletta) • Delle Mura • Fara • Mayr • Mura di S. Grata • Osmano • Pantano • Porta Dipinta • Porta S. Lorenzo • Rocca • Rosate (piazza e via) • S. Agostino • S. Andrea • S. Giacomo • S. Grata • S. Lorenzino • S. Michele al Pozzo Bianco • S. Pancrazio • S. Salvatore • Seminarino • Sforza Pallavicino • Terzi • Torre di Adalberto • Vagine • Verzeri",
+  "Il venerdì è prevista la raccolta di vetro e metalli per le utenze commerciali (contenitore azzurro).",
+  "Il calendario indica le variazioni festive (8 e 25 dicembre): le date qui sono già aggiornate.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23.",
+  "Il calendario indica che i sacchi per plastica e indifferenziato sono distribuiti anche alle attività commerciali con la tessera dedicata."
+ ]
+}

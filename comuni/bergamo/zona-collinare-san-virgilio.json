@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Collinare San Vigilio",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì, mercoledì e venerdì. I rifiuti vanno esposti entro le ore 6.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-collinare-san-virgilio-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Al Castello • Al Mulino • Al Pianone • Alle Case Leidi • Alle Case Moroni • Allegrezza • Astino (da via Sudorno a via Ripa Pasqualina) • Bagnada • Beltrami (dai civici n. 5 e n. 38 in poi) • Borgo Canale (da via Tre Armi a civ. 86 compreso dove termina tratto a senso unico) • Botta San Sebastiano • Caneva • Castagneta • Castello Presati • Cavagnis • Ciaregotto • Colle dei Roccoli • Contradello • Degli Orti • Dei Vasi • Del Bosco • Del Coppo • Del Pavione • Del Pozzo • Del Rione • Del Sole • Della Vena • Delle Primule • Di Mezzo • Fontana • Generale Marieni • Lavanderio • Madonna del Bosco • Madonna della Castagna • Monte Bastia • Moratelli • Orsarola • Pascolo dei Tedeschi • Pesenti • Porta S. Alessandro • Rabaiona • Ramera • Rebetta Alta • Rebetta Bassa • Ripa Pasqualina • Roccolino (tratto da via Beltrami) • S. Erasmo • S. Martino della Pigrizia (esclusi civ. 33 - 50 - 52 - 54) • S. Matteo alla Benaglia • S. Sebastiano • S. Vigilio • Scaletta S. Martino • Scalvini • Scaramagli • Scorlazzone • Sombreno • Sotto le Mura di S. Alessandro • Sotto Ripa • Sudorno • Torni • Torrente Quisa • Tre Armi • Valmarina • Vetta",
+  "Il calendario indica le variazioni festive (8 e 25 dicembre): le date qui sono già aggiornate.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ]
+}

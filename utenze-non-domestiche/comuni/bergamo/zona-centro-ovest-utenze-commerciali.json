@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Centro Ovest – utenze commerciali",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: martedì, mercoledì e venerdì. I rifiuti vanno esposti a filo strada tra le ore 16 e le 18. Si invita a ritirare i contenitori tra le ore 19.30 e le 20.30.",
+ "esposizione_entro": "18:00",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-centro-osvest-utenze-comm-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico",
+   "carta"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-25": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Vie: Borfuro • Broseta (da Pontida a Nullo) • Passaggio Bruni • Carrozzai • Largo 5 Vie • Crispi • Rotonda Dei Mille • Galleria Fanzago (da Papa Giovanni) • Garibaldi • Passaggio Limonta • Vicolo Macellerie • Manzù • Piazza Matteotti • Largo Medaglie d’Oro • Moroni (da 5 Vie a Previtali e il tratto solo civici dispari da Previtali a Carducci) • Palma il Vecchio (solo lato civ. dispari) • Viale Papa Giovanni XXIII • Piccinini • Piazza Pontida • Largo Porta Nuova • Previtali • Querena • Largo Rezzara • S. Alessandro bassa (da largo Rezzara a via Garibaldi) • S. Bernardino (da largo Tironi a largo 5 Vie) • Via e vicolo S. Lazzaro • S. Orsola • Passaggio Seghezzi • Tiraboschi • Venti Settembre • Zambonate • Passaggio Zedurri",
+  "Calendario dedicato alle utenze commerciali del centro.",
+  "Il calendario indica le variazioni festive (8 e 25 dicembre): le date qui sono già aggiornate.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ]
+}
