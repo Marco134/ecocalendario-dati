@@ -11,6 +11,23 @@
   },
   "comuni": [
     {
+      "id": "abbadia-cerreto",
+      "nome": "Abbadia Cerreto",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.3124,
+      "lon": 9.5925,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/abbadia-cerreto/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/abbadia-cerreto"
+    },
+    {
       "id": "abbadia-lariana",
       "nome": "Abbadia Lariana",
       "provincia": "LC",
@@ -1744,6 +1761,23 @@
       ]
     },
     {
+      "id": "bertonico",
+      "nome": "Bertonico",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.2339,
+      "lon": 9.6686,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bertonico/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/bertonico"
+    },
+    {
       "id": "berzo-demo",
       "nome": "Berzo Demo",
       "provincia": "BS",
@@ -1942,6 +1976,23 @@
           "valido_al": "2027-05-31"
         }
       ]
+    },
+    {
+      "id": "boffalora-d-adda",
+      "nome": "Boffalora d'Adda",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.3586,
+      "lon": 9.4947,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/boffalora-d-adda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/boffalora-d-adda"
     },
     {
       "id": "bognanco",
@@ -4184,6 +4235,23 @@
       ]
     },
     {
+      "id": "caselle-landi",
+      "nome": "Caselle Landi",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1038,
+      "lon": 9.792,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caselle-landi/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/caselle-landi"
+    },
+    {
       "id": "caselle-lurani",
       "nome": "Caselle Lurani",
       "provincia": "LO",
@@ -4544,6 +4612,23 @@
       "zone_url": "https://www.contarina.it"
     },
     {
+      "id": "castelgerundo",
+      "nome": "Castelgerundo",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.202,
+      "lon": 9.739,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelgerundo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/castelgerundo"
+    },
+    {
       "id": "castellamonte",
       "nome": "Castellamonte",
       "provincia": "TO",
@@ -4670,6 +4755,23 @@
       ]
     },
     {
+      "id": "castelnuovo-bocca-d-adda",
+      "nome": "Castelnuovo Bocca d'Adda",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1124,
+      "lon": 9.8694,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castelnuovo-bocca-d-adda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/castelnuovo-bocca-d-adda"
+    },
+    {
       "id": "castelnuovo-nigra",
       "nome": "Castelnuovo Nigra",
       "provincia": "TO",
@@ -4709,6 +4811,23 @@
           "valido_al": "2027-12-31"
         }
       ]
+    },
+    {
+      "id": "castiglione-d-adda",
+      "nome": "Castiglione d'Adda",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.2157,
+      "lon": 9.695,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/castiglione-d-adda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/castiglione-d-adda"
     },
     {
       "id": "castiglione-falletto",
@@ -4949,6 +5068,23 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "cavenago-d-adda",
+      "nome": "Cavenago d'Adda",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.284,
+      "lon": 9.6018,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavenago-d-adda/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/cavenago-d-adda"
     },
     {
       "id": "cavenago-di-brianza",
@@ -6421,6 +6557,23 @@
       ]
     },
     {
+      "id": "cornegliano-laudense",
+      "nome": "Cornegliano Laudense",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.2844,
+      "lon": 9.4724,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cornegliano-laudense/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/cornegliano-laudense"
+    },
+    {
       "id": "corneliano-d-alba",
       "nome": "Corneliano d'Alba",
       "provincia": "CN",
@@ -6436,6 +6589,40 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "corno-giovine",
+      "nome": "Corno Giovine",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1332,
+      "lon": 9.7558,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/corno-giovine/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/corno-giovine"
+    },
+    {
+      "id": "cornovecchio",
+      "nome": "Cornovecchio",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1361,
+      "lon": 9.7976,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cornovecchio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/cornovecchio"
     },
     {
       "id": "cornuda",
@@ -6470,6 +6657,23 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "corte-palasio",
+      "nome": "Corte Palasio",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.3133,
+      "lon": 9.5628,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/corte-palasio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/corte-palasio"
     },
     {
       "id": "corteno-golgi",
@@ -7785,6 +7989,23 @@
       ]
     },
     {
+      "id": "fombio",
+      "nome": "Fombio",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1368,
+      "lon": 9.6836,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/fombio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/fombio"
+    },
+    {
       "id": "fontaneto-d-agogna",
       "nome": "Fontaneto d'Agogna",
       "provincia": "NO",
@@ -8806,6 +9027,23 @@
         }
       ],
       "zone_url": "https://cidiu.it/cidiu/comune-di-grugliasco/"
+    },
+    {
+      "id": "guardamiglio",
+      "nome": "Guardamiglio",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1091,
+      "lon": 9.6813,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/guardamiglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/guardamiglio"
     },
     {
       "id": "guardea",
@@ -10085,6 +10323,23 @@
       ]
     },
     {
+      "id": "maccastorna",
+      "nome": "Maccastorna",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1466,
+      "lon": 9.8525,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maccastorna/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/maccastorna"
+    },
+    {
       "id": "macello",
       "nome": "Macello",
       "provincia": "TO",
@@ -10238,6 +10493,23 @@
       ]
     },
     {
+      "id": "mairago",
+      "nome": "Mairago",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.2523,
+      "lon": 9.5785,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/mairago/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/mairago"
+    },
+    {
       "id": "malegno",
       "nome": "Malegno",
       "provincia": "BS",
@@ -10253,6 +10525,23 @@
           "valido_al": "2027-01-31"
         }
       ]
+    },
+    {
+      "id": "maleo",
+      "nome": "Maleo",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1682,
+      "lon": 9.7645,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/maleo/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/maleo"
     },
     {
       "id": "malesco",
@@ -10854,6 +11143,23 @@
         }
       ],
       "zone_url": "https://www.cemambiente.it/cemfacile/?citta=Melegnano"
+    },
+    {
+      "id": "meleti",
+      "nome": "Meleti",
+      "provincia": "LO",
+      "gestore": "Aprica",
+      "lat": 45.1188,
+      "lon": 9.8368,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/meleti/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ],
+      "zone_url": "https://www.apricaspa.it/it/meleti"
     },
     {
       "id": "melzo",

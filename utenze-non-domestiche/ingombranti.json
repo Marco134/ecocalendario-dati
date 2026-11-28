@@ -6690,6 +6690,26 @@
    "regole_en": [
     "Book with Aprica on 800 437678 or the Puliamo app."
    ]
+  },
+  {
+   "id": "aprica-lodigiano-und",
+   "nome": "Aprica · Lodigiano · UND",
+   "gestori": [],
+   "comuni": [
+    "castiglione-d-adda",
+    "crespiatica"
+   ],
+   "telefono": "800 437678",
+   "fonte": "https://www.apricaspa.it/",
+   "prenotazione": true,
+   "prenota_url": "https://www.apricaspa.it/",
+   "verificato": "2026-11-28",
+   "regole": [
+    "Per le attività chiedere ad Aprica (800 437678) se il ritiro è ammesso e a quali condizioni."
+   ],
+   "regole_en": [
+    "Book with Aprica on 800 437678 or the PULIamo app."
+   ]
   }
  ]
 }

@@ -25901,6 +25901,39 @@
     }
    ],
    "zone_url": "https://www.apricaspa.it/it/salvirola"
+  },
+  {
+   "id": "castiglione-d-adda",
+   "nome": "Castiglione d'Adda",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "lat": 45.2157,
+   "lon": 9.695,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/castiglione-d-adda/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/castiglione-d-adda"
+  },
+  {
+   "id": "crespiatica",
+   "nome": "Crespiatica",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "lat": 45.3571,
+   "lon": 9.5746,
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/crespiatica/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {

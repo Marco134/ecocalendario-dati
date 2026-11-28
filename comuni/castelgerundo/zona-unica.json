@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "comune": "Castelgerundo",
+ "provincia": "LO",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 7:00 del giorno di raccolta, in luogo ben visibile.",
+ "esposizione_entro": "07:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/castelgerundo-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-22": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "organico",
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Le raccolte con l’asterisco nel calendario sono recuperi per le festività infrasettimanali.",
+  "Vetro e metalli insieme. Ingombranti e informazioni: numero verde Aprica 800 437678 o app Puliamo."
+ ]
+}

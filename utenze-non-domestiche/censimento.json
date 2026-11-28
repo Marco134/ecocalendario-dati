@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1249,
+ "totale": 1268,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -13349,6 +13349,196 @@
    "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/salvirola-calendario-rd.pdf",
    "verificato": "2026-11-28",
    "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "abbadia-cerreto",
+   "nome": "Abbadia Cerreto",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/abbadia-cerrato-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "bertonico",
+   "nome": "Bertonico",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/bertonico-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "boffalora-d-adda",
+   "nome": "Boffalora d'Adda",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-12/boffalora-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "caselle-landi",
+   "nome": "Caselle Landi",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Caselle-Landi-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "castelnuovo-bocca-d-adda",
+   "nome": "Castelnuovo Bocca d'Adda",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/castelnuovo-bocca-dadda-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "castiglione-d-adda",
+   "nome": "Castiglione d'Adda",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/castiglione-dadda-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune."
+  },
+  {
+   "id": "cavenago-d-adda",
+   "nome": "Cavenago d'Adda",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Cavenago-dAdda_calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "cornegliano-laudense",
+   "nome": "Cornegliano Laudense",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Cornegliano-Laudense-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "corno-giovine",
+   "nome": "Corno Giovine",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Corno-Giovine-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "cornovecchio",
+   "nome": "Cornovecchio",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Cornovecchio-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "corte-palasio",
+   "nome": "Corte Palasio",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Corte-Palasio-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "crespiatica",
+   "nome": "Crespiatica",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "calendario_verificato",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/Crespiatica-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario 2026 del Comune per le utenze non domestiche. Il calendario domestico non è archiviato: da cercare."
+  },
+  {
+   "id": "fombio",
+   "nome": "Fombio",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/fombio-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "guardamiglio",
+   "nome": "Guardamiglio",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/guardamiglio-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "maccastorna",
+   "nome": "Maccastorna",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/maccastorna-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "mairago",
+   "nome": "Mairago",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/mairago-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "maleo",
+   "nome": "Maleo",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/maleo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "meleti",
+   "nome": "Meleti",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/meleti-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "castelgerundo",
+   "nome": "Castelgerundo",
+   "provincia": "LO",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/castelgerundo-calendario-rd.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
   }
  ]
 }

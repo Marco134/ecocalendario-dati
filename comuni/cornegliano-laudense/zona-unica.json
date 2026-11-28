@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "comune": "Cornegliano Laudense",
+ "provincia": "LO",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti entro le 6:00 del giorno di raccolta, in luogo ben visibile.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-07/Cornegliano-Laudense-calendario-rd.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-24": [
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica",
+   "carta"
+  ]
+ },
+ "note": [
+  "Le raccolte con l’asterisco nel calendario sono recuperi per le festività infrasettimanali.",
+  "Sfalci e potature: date nel calendario del Comune, servizio da verificare con Aprica (non riportato qui).",
+  "Vetro e metalli insieme. Ingombranti e informazioni: numero verde Aprica 800 437678 o app Puliamo."
+ ]
+}

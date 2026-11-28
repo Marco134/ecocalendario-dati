@@ -5555,6 +5555,42 @@
       "regole_en": [
         "Book with Aprica on 800 437678 or the Puliamo app."
       ]
+    },
+    {
+      "id": "aprica-lodigiano",
+      "nome": "Aprica · Lodigiano",
+      "gestori": [],
+      "comuni": [
+        "abbadia-cerreto",
+        "bertonico",
+        "boffalora-d-adda",
+        "caselle-landi",
+        "castelgerundo",
+        "castelnuovo-bocca-d-adda",
+        "castiglione-d-adda",
+        "cavenago-d-adda",
+        "cornegliano-laudense",
+        "corno-giovine",
+        "cornovecchio",
+        "corte-palasio",
+        "fombio",
+        "guardamiglio",
+        "maccastorna",
+        "mairago",
+        "maleo",
+        "meleti"
+      ],
+      "telefono": "800 437678",
+      "fonte": "https://www.apricaspa.it/",
+      "prenotazione": true,
+      "prenota_url": "https://www.apricaspa.it/",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro a domicilio su prenotazione al numero verde Aprica 800 437678, con l’app PULIamo o dal sito apricaspa.it."
+      ],
+      "regole_en": [
+        "Book with Aprica on 800 437678 or the PULIamo app."
+      ]
     }
   ]
 }
