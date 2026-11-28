@@ -5952,6 +5952,63 @@
       "regole_en": [
         "Contact the operator to book bulky waste collection and confirm conditions."
       ]
+    },
+    {
+      "id": "servizi-comunali-bolgare",
+      "nome": "Servizi Comunali · Bolgare",
+      "gestori": [],
+      "comuni": [
+        "bolgare"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://www.comune.bolgare.bg.it/sites/default/files/2025-12/bolgare_calendario_rifiuti_2026_1.pdf",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Per gli ingombranti verificare sul sito del gestore (rumentologo.it) o al centro di raccolta comunale."
+      ],
+      "regole_en": [
+        "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
+      ]
+    },
+    {
+      "id": "servizi-comunali-calcinate",
+      "nome": "Servizi Comunali · Calcinate",
+      "gestori": [],
+      "comuni": [
+        "calcinate"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://www.comune.calcinate.bg.it/export/sites/default/.galleries/documenti/CALENDARIO-RACCOLTA-DIFFRENZIATA_CALCINATE_2026.pdf",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Per gli ingombranti verificare sul sito del gestore (rumentologo.it) o al centro di raccolta comunale."
+      ],
+      "regole_en": [
+        "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
+      ]
+    },
+    {
+      "id": "servizi-comunali-grassobbio",
+      "nome": "Servizi Comunali · Grassobbio",
+      "gestori": [],
+      "comuni": [
+        "grassobbio"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4879553/GRASSOBBIO_2026.pdf",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Per gli ingombranti verificare sul sito del gestore (rumentologo.it) o al centro di raccolta comunale."
+      ],
+      "regole_en": [
+        "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
+      ]
     }
   ]
 }

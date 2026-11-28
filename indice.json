@@ -2318,6 +2318,22 @@
       ]
     },
     {
+      "id": "bolgare",
+      "nome": "Bolgare",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.6319,
+      "lon": 9.8202,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bolgare/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bollengo",
       "nome": "Bollengo",
       "provincia": "TO",
@@ -3483,6 +3499,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/calasca-castiglione/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "calcinate",
+      "nome": "Calcinate",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.6198,
+      "lon": 9.8016,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/calcinate/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]
@@ -9635,6 +9667,22 @@
           "nome": "Zona unica",
           "file": "comuni/grantola/zona-unica.json",
           "valido_al": "2027-12-31"
+        }
+      ]
+    },
+    {
+      "id": "grassobbio",
+      "nome": "Grassobbio",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.6548,
+      "lon": 9.7277,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/grassobbio/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },

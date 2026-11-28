@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "comune": "Bolgare",
+ "provincia": "BG",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "I rifiuti vanno esposti entro le ore 6.00 della giornata prevista per il ritiro.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 – https://www.comune.bolgare.bg.it/sites/default/files/2025-12/bolgare_calendario_rifiuti_2026_1.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Il rifiuto residuo del 25 dicembre è anticipato a giovedì 24 dicembre.",
+  "Centro di raccolta di via ai Dossi 12/C: l’apertura del lunedì pomeriggio e del venerdì mattina è riservata alle utenze non domestiche."
+ ]
+}

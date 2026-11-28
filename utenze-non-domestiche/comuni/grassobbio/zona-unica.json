@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "comune": "Grassobbio",
+ "provincia": "BG",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "I rifiuti vanno esposti non prima delle ore 21.00 della sera precedente il giorno della raccolta e comunque entro le ore 6.00 del giorno della raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 – https://mycity.s3.sbg.io.cloud.ovh.net/4879553/GRASSOBBIO_2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato"
+  ],
+  "2026-12-12": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "plastica",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Il calendario indica per le utenze non domestiche il «Badge (tessera apposita), per l’utenza non domestica», con cui si ritirano i sacchi; l’organico dei ristoranti si raccoglie tutti i martedì e i sabati (riquadro rosso).",
+  "Il secco del 25 dicembre è anticipato a giovedì 24 e quello del 1° gennaio a giovedì 31 dicembre (variazioni per festività).",
+  "Vetro e metalli il sabato insieme alla plastica, ogni due settimane; carta il sabato a settimane alterne."
+ ]
+}

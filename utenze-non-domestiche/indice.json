@@ -11740,6 +11740,28 @@
    "zone_url": "https://vallidelverbano.va.it/calendari-raccolta-differenziata-2027/"
   },
   {
+   "id": "grassobbio",
+   "nome": "Grassobbio",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "lat": 45.6548,
+   "lon": 9.7277,
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Zona unica",
+     "file": "comuni/grassobbio/zona-unica.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "organico-ristoranti",
+     "nome": "Organico – solo ristoranti",
+     "file": "comuni/grassobbio/zona-organico-ristoranti.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "gravellona-toce",
    "nome": "Gravellona Toce",
    "provincia": "VB",

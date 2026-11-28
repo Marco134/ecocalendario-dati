@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "comune": "Grassobbio",
+ "provincia": "BG",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Organico – solo ristoranti",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "I rifiuti vanno esposti non prima delle ore 21.00 della sera precedente il giorno della raccolta e comunque entro le ore 6.00 del giorno della raccolta.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 – https://mycity.s3.sbg.io.cloud.ovh.net/4879553/GRASSOBBIO_2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Programma aggiuntivo per i soli ristoranti: tutti i martedì e i sabati (da maggio a settembre anche il lunedì e il mercoledì)."
+ ]
+}
