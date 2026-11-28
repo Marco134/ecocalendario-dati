@@ -2050,6 +2050,54 @@
    "regole": "regole/gelsia-und-barlassina.json"
   },
   {
+   "id": "barletta",
+   "nome": "Barletta",
+   "provincia": "BT",
+   "gestore": "Bar.S.A.",
+   "consorzio": "barsa-barletta-und",
+   "lat": 41.32,
+   "lon": 16.28,
+   "zone_url": "https://www.barsa.it/raccolta-differenziata/quando-lo-butto/",
+   "zone": [
+    {
+     "id": "food-centro-storico",
+     "nome": "Alimentari · Centro storico",
+     "file": "comuni/barletta/zona-food-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-santa-maria-settefrati",
+     "nome": "Alimentari · Santa Maria e Settefrati",
+     "file": "comuni/barletta/zona-food-santa-maria-settefrati.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-patalini-borgovilla",
+     "nome": "Alimentari · Patalini e Borgovilla",
+     "file": "comuni/barletta/zona-food-patalini-borgovilla.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "non-food-centro-santa-maria-settefrati",
+     "nome": "Non alimentari · Centro storico, Santa Maria e Settefrati",
+     "file": "comuni/barletta/zona-non-food-centro-santa-maria-settefrati.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "non-food-patalini-borgovilla",
+     "nome": "Non alimentari · Patalini e Borgovilla",
+     "file": "comuni/barletta/zona-non-food-patalini-borgovilla.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "industriale",
+     "nome": "Zona Industriale · Attività",
+     "file": "comuni/barletta/zona-industriale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "barolo",
    "nome": "Barolo",
    "provincia": "CN",
@@ -3882,6 +3930,24 @@
    "zone_url": "https://www.consorziomedionovarese.it/it-it/rifiuti/rifiuti/calendario"
   },
   {
+   "id": "brindisi",
+   "nome": "Brindisi",
+   "provincia": "BR",
+   "gestore": "Teknoservice",
+   "consorzio": "teknoservice-brindisi-und",
+   "lat": 40.632,
+   "lon": 17.942,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/brindisi/brindisi/",
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Attività",
+     "file": "comuni/brindisi/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "brinzio",
    "nome": "Brinzio",
    "provincia": "VA",
@@ -4938,6 +5004,22 @@
    ],
    "zone_url": "https://www.conservco.it/it/comuni-serviti/cannero-riviera/",
    "ecocentri": "ecocentri/conser-vco-und-cannero-riviera.json"
+  },
+  {
+   "id": "canneto-sull-oglio",
+   "nome": "Canneto sull'Oglio",
+   "provincia": "MN",
+   "gestore": "Aprica",
+   "lat": 45.1503,
+   "lon": 10.3754,
+   "zone": [
+    {
+     "id": "secco-und",
+     "nome": "Secco – utenze non domestiche abilitate",
+     "file": "comuni/canneto-sull-oglio/zona-secco-und.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "cannobio",
@@ -14649,6 +14731,36 @@
    ]
   },
   {
+   "id": "mesagne",
+   "nome": "Mesagne",
+   "provincia": "BR",
+   "gestore": "Gial Ambiente",
+   "consorzio": "gial-mesagne-und",
+   "lat": 40.559,
+   "lon": 17.807,
+   "zone_url": "https://gialambiente.it/comune-di-mesagne/",
+   "zone": [
+    {
+     "id": "cartone-a",
+     "nome": "Attività · Cartone zona A",
+     "file": "comuni/mesagne/zona-cartone-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-b",
+     "nome": "Attività · Cartone zona B",
+     "file": "comuni/mesagne/zona-cartone-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone-c",
+     "nome": "Attività · Cartone zona C",
+     "file": "comuni/mesagne/zona-cartone-c.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "mesenzana",
    "nome": "Mesenzana",
    "provincia": "VA",
@@ -14743,6 +14855,30 @@
     }
    ],
    "ecocentri": "ecocentri/conser-vco-und-miazzina.json"
+  },
+  {
+   "id": "minervino-murge",
+   "nome": "Minervino Murge",
+   "provincia": "BT",
+   "gestore": "Raccolgo S.r.l.",
+   "consorzio": "raccolgo-minervino-murge-und",
+   "lat": 41.0833,
+   "lon": 16.0833,
+   "zone_url": "https://www.raccolgosrl.it/centri-raccolta/",
+   "zone": [
+    {
+     "id": "alimentari",
+     "nome": "Utenze alimentari",
+     "file": "comuni/minervino-murge/zona-alimentari.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "non-alimentari",
+     "nome": "Utenze non alimentari",
+     "file": "comuni/minervino-murge/zona-non-alimentari.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "misinto",
@@ -23011,6 +23147,24 @@
    "zone_url": "https://www.ambienteservizi.net/comuni/spilimbergo"
   },
   {
+   "id": "spinazzola",
+   "nome": "Spinazzola",
+   "provincia": "BT",
+   "gestore": "Velia Ambiente",
+   "consorzio": "velia-spinazzola-und",
+   "lat": 41.0667,
+   "lon": 16.0886,
+   "zone_url": "https://www.veliaambiente.it/comune-di-spinazzola/",
+   "zone": [
+    {
+     "id": "commerciali",
+     "nome": "Utenze commerciali",
+     "file": "comuni/spinazzola/zona-commerciali.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
+  },
+  {
    "id": "spinone-al-lago",
    "nome": "Spinone al Lago",
    "provincia": "BG",
@@ -23783,6 +23937,24 @@
     }
    ],
    "zone_url": "https://cidiu.it/cidiu/comune-di-trana/"
+  },
+  {
+   "id": "trani",
+   "nome": "Trani",
+   "provincia": "BT",
+   "gestore": "AMIU Trani",
+   "consorzio": "amiu-trani-und",
+   "lat": 41.278,
+   "lon": 16.416,
+   "zone_url": "https://amiutrani.it/calendari-porta-a-porta/",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/trani/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   },
   {
    "id": "traona",
@@ -26485,162 +26657,6 @@
     }
    ],
    "zone_url": "https://www.ambienteservizi.net/comuni/zoppola"
-  },
-  {
-   "id": "trani",
-   "nome": "Trani",
-   "provincia": "BT",
-   "gestore": "AMIU Trani",
-   "consorzio": "amiu-trani-und",
-   "lat": 41.278,
-   "lon": 16.416,
-   "zone_url": "https://amiutrani.it/calendari-porta-a-porta/",
-   "zone": [
-    {
-     "id": "servizi",
-     "nome": "Servizi per le attività",
-     "file": "comuni/trani/zona-servizi.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "barletta",
-   "nome": "Barletta",
-   "provincia": "BT",
-   "gestore": "Bar.S.A.",
-   "consorzio": "barsa-barletta-und",
-   "lat": 41.32,
-   "lon": 16.28,
-   "zone_url": "https://www.barsa.it/raccolta-differenziata/quando-lo-butto/",
-   "zone": [
-    {
-     "id": "food-centro-storico",
-     "nome": "Alimentari · Centro storico",
-     "file": "comuni/barletta/zona-food-centro-storico.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "food-santa-maria-settefrati",
-     "nome": "Alimentari · Santa Maria e Settefrati",
-     "file": "comuni/barletta/zona-food-santa-maria-settefrati.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "food-patalini-borgovilla",
-     "nome": "Alimentari · Patalini e Borgovilla",
-     "file": "comuni/barletta/zona-food-patalini-borgovilla.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "non-food-centro-santa-maria-settefrati",
-     "nome": "Non alimentari · Centro storico, Santa Maria e Settefrati",
-     "file": "comuni/barletta/zona-non-food-centro-santa-maria-settefrati.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "non-food-patalini-borgovilla",
-     "nome": "Non alimentari · Patalini e Borgovilla",
-     "file": "comuni/barletta/zona-non-food-patalini-borgovilla.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "industriale",
-     "nome": "Zona Industriale · Attività",
-     "file": "comuni/barletta/zona-industriale.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "minervino-murge",
-   "nome": "Minervino Murge",
-   "provincia": "BT",
-   "gestore": "Raccolgo S.r.l.",
-   "consorzio": "raccolgo-minervino-murge-und",
-   "lat": 41.0833,
-   "lon": 16.0833,
-   "zone_url": "https://www.raccolgosrl.it/centri-raccolta/",
-   "zone": [
-    {
-     "id": "alimentari",
-     "nome": "Utenze alimentari",
-     "file": "comuni/minervino-murge/zona-alimentari.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "non-alimentari",
-     "nome": "Utenze non alimentari",
-     "file": "comuni/minervino-murge/zona-non-alimentari.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "spinazzola",
-   "nome": "Spinazzola",
-   "provincia": "BT",
-   "gestore": "Velia Ambiente",
-   "consorzio": "velia-spinazzola-und",
-   "lat": 41.0667,
-   "lon": 16.0886,
-   "zone_url": "https://www.veliaambiente.it/comune-di-spinazzola/",
-   "zone": [
-    {
-     "id": "commerciali",
-     "nome": "Utenze commerciali",
-     "file": "comuni/spinazzola/zona-commerciali.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "brindisi",
-   "nome": "Brindisi",
-   "provincia": "BR",
-   "gestore": "Teknoservice",
-   "consorzio": "teknoservice-brindisi-und",
-   "lat": 40.632,
-   "lon": 17.942,
-   "zone_url": "https://www.teknoserviceitalia.com/puglia/brindisi/brindisi/",
-   "zone": [
-    {
-     "id": "commerciali",
-     "nome": "Attività",
-     "file": "comuni/brindisi/zona-commerciali.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
-  },
-  {
-   "id": "mesagne",
-   "nome": "Mesagne",
-   "provincia": "BR",
-   "gestore": "Gial Ambiente",
-   "consorzio": "gial-mesagne-und",
-   "lat": 40.559,
-   "lon": 17.807,
-   "zone_url": "https://gialambiente.it/comune-di-mesagne/",
-   "zone": [
-    {
-     "id": "cartone-a",
-     "nome": "Attività · Cartone zona A",
-     "file": "comuni/mesagne/zona-cartone-a.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "cartone-b",
-     "nome": "Attività · Cartone zona B",
-     "file": "comuni/mesagne/zona-cartone-b.json",
-     "valido_al": "2026-12-31"
-    },
-    {
-     "id": "cartone-c",
-     "nome": "Attività · Cartone zona C",
-     "file": "comuni/mesagne/zona-cartone-c.json",
-     "valido_al": "2026-12-31"
-    }
-   ]
   }
  ],
  "consorzi": {

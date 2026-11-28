@@ -1,0 +1,26 @@
+{
+ "schema": 1,
+ "comune": "Canneto sull'Oglio",
+ "provincia": "MN",
+ "gestore": "Aprica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i contenitori dopo le ore 19.00 della sera che precede la raccolta.",
+ "fonte": "Il calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/canneto-oglio-calendario-rd.pdf",
+ "zona": "Secco – utenze non domestiche abilitate",
+ "raccolte": {
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Il calendario indica un servizio di raccolta del secco (bidone rosso) «riservato a specifiche utenze non domestiche», il giovedì ogni due settimane.",
+  "Programma aggiuntivo: per le altre frazioni delle attività verificare sul sito del gestore."
+ ]
+}

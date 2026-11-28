@@ -3890,6 +3890,22 @@
       ]
     },
     {
+      "id": "canneto-sull-oglio",
+      "nome": "Canneto sull'Oglio",
+      "provincia": "MN",
+      "gestore": "Aprica",
+      "lat": 45.1503,
+      "lon": 10.3754,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/canneto-sull-oglio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "cannobio",
       "nome": "Cannobio",
       "provincia": "VB",

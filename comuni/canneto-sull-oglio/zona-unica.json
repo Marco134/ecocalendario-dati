@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "comune": "Canneto sull'Oglio",
+ "provincia": "MN",
+ "gestore": "Aprica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i contenitori dopo le ore 19.00 della sera che precede la raccolta.",
+ "fonte": "Il calendario della raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2024-06/canneto-oglio-calendario-rd.pdf",
+ "zona": "Zona unica",
+ "raccolte": {
+  "2026-11-28": [
+   "vetro"
+  ],
+  "2026-12-01": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "vetro"
+  ],
+  "2026-12-28": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "carta"
+  ]
+ },
+ "note": [
+  "Indifferenziato (secco, bidone grigio) ogni quattro settimane il giovedì; plastica il venerdì e vetro il sabato ogni due settimane; organico tutti i martedì.",
+  "Plastica del 25 dicembre spostata a lunedì 28; il 31 dicembre carta insieme al secco.",
+  "Pannolini e pannoloni (sacco azzurro): tutti i giovedì.",
+  "Ingombranti a domicilio su prenotazione il venerdì indicato (11 dicembre): apricaspa.it, app PULIamo, numero verde 800 437678.",
+  "Centro di raccolta di via dell’Artigianato (orario invernale: lunedì e mercoledì 14–17; sabato 8.30–12.30 e 14–18)."
+ ]
+}
