@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Centro Nord",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: martedì e venerdì. I rifiuti vanno esposti entro le ore 18.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-centro-nord-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato",
+   "carta"
+  ],
+  "2026-12-11": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-25": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Albini • Bertello Sorgente • Brigata Lupi • Cornasello • Cucchi • Dei Capodiferro • Del Delfino • Piazza della Libertà • Piazza Della Repubblica • Vicolo delle Torri • Don C. Botta • Duzioni • Frà Damiano dei Zambelli • Locatelli • Masone • Matris Domini • Largo Montelungo • Monte Nero • Monte Ortigara • Noca • Via e vicolo Pelabrocco • Via Pignolo Alta (da via Verdi a viale Vittorio Emanuele) • Pradello alta (da via Verdi a via Masone) • Salita della Scaletta • S. Alessandro alta (da via Garibaldi a via Tre Armi) • S. Benedetto • S. Carlo • Via e vicolo S. Giovanni • Piazzetta S. Marco • Via e vicolo S. Tomaso (lato civici dispari: da civ. 1 a civ. 47 incluso - lato civici pari: da civ. 2 a civ. 76 incluso) • Santa Elisabetta • Verdi • Vigliani • Viale Vittorio Emanuele II • Zambianchi • Zelasco • Zilioli Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ],
+ "esposizione_entro": "18:00"
+}

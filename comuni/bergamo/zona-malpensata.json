@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Malpensata",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I rifiuti vanno esposti entro le ore 12.30.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-malpensata-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-07": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-21": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Ambiveri • Autostrada (solo lato civici dispari) • Benzoni • Carnovali (da via Autostrada a Via S. Giovanni B. dai civici 88 e 93 in poi) • Case Barca • Da Balsamo • Da Prezzate • De Grassi • Dei Cabrini • Del Conventino • Europa • Furietti • Gambirasio • Gavazzeni • Leoncavallo • Luzzatti • Maglio del Lotto • Manzi • Morelli • Mozart • Ozanam • Roggia Guidana • S. C. Cerioli • S. Giovanni Bosco (da Via Maglio del Lotto a Circonvallazione Paltriniano fino ai civici 37 e 62 compresi) • Tadini • Zanica (da Via S. G. Bosco a sottopasso Circonvallazione Paltriniano fino ai civici 58 e 71 compresi) Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ],
+ "esposizione_entro": "12:30"
+}

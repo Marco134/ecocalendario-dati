@@ -26221,6 +26221,161 @@
     }
    ],
    "zone_url": "https://www.apricaspa.it/it/castelleone"
+  },
+  {
+   "id": "bergamo",
+   "nome": "Bergamo",
+   "provincia": "BG",
+   "gestore": "Aprica",
+   "lat": 45.6944,
+   "lon": 9.6684,
+   "zone": [
+    {
+     "id": "borgo-palazzo-zona-a",
+     "nome": "Borgo Palazzo – zona A",
+     "file": "comuni/bergamo/zona-borgo-palazzo-zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "borgo-palazzo-zona-b",
+     "nome": "Borgo Palazzo – zona B",
+     "file": "comuni/bergamo/zona-borgo-palazzo-zona-b.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "campagnola-boccaleone",
+     "nome": "Campagnola Boccaleone",
+     "file": "comuni/bergamo/zona-campagnola-boccaleone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "celadina",
+     "nome": "Celadina",
+     "file": "comuni/bergamo/zona-celadina.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-est",
+     "nome": "Centro Est",
+     "file": "comuni/bergamo/zona-centro-est.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-nord",
+     "nome": "Centro Nord",
+     "file": "comuni/bergamo/zona-centro-nord.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-ovest",
+     "nome": "Centro Ovest",
+     "file": "comuni/bergamo/zona-centro-ovest.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "centro-sud",
+     "nome": "Centro Sud",
+     "file": "comuni/bergamo/zona-centro-sud.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "clementina",
+     "nome": "Clementina",
+     "file": "comuni/bergamo/zona-clementina.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "colognola",
+     "nome": "Colognola",
+     "file": "comuni/bergamo/zona-colognola.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "conca-fiorita",
+     "nome": "Conca Fiorita",
+     "file": "comuni/bergamo/zona-conca-fiorita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "longuelo",
+     "nome": "Longuelo",
+     "file": "comuni/bergamo/zona-longuelo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "loreto",
+     "nome": "Loreto",
+     "file": "comuni/bergamo/zona-loreto.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "malpensata",
+     "nome": "Malpensata",
+     "file": "comuni/bergamo/zona-malpensata.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "monterosso",
+     "nome": "Monterosso",
+     "file": "comuni/bergamo/zona-monterosso.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "redona",
+     "nome": "Redona",
+     "file": "comuni/bergamo/zona-redona.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "san-paolo",
+     "nome": "San Paolo",
+     "file": "comuni/bergamo/zona-san-paolo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "san-tomaso-zona-a",
+     "nome": "San Tomaso A",
+     "file": "comuni/bergamo/zona-san-tomaso-zona-a.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "san-tomaso-zonab",
+     "nome": "San Tomaso B",
+     "file": "comuni/bergamo/zona-san-tomaso-zonab.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "santa-caterina-nord",
+     "nome": "Santa Caterina Nord",
+     "file": "comuni/bergamo/zona-santa-caterina-nord.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "santa-caterina-sud",
+     "nome": "Santa Caterina Sud",
+     "file": "comuni/bergamo/zona-santa-caterina-sud.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "santa-lucia",
+     "nome": "Santa Lucia",
+     "file": "comuni/bergamo/zona-santa-lucia.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "valtesse",
+     "nome": "Valtesse",
+     "file": "comuni/bergamo/zona-valtesse.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "villa-sposi-grumello",
+     "nome": "Villaggio sposi - Grumello",
+     "file": "comuni/bergamo/zona-villa-sposi-grumello.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.apricaspa.it/it/bergamo"
   }
  ],
  "consorzi": {

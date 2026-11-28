@@ -1,0 +1,56 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Redona",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: martedì e venerdì. I rifiuti vanno esposti entro le ore 6.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-redona-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Baertsch • Berlese • Buratti • Buttaro • Cadore • Calvarola • Calzecchi Onesti • Circonvallazione Plorzano • Confalonieri • Correnti • Corridoni (da sottopasso Circonvallazione Plorzano a confine con Torre Boldone) • Dei Bersaglieri • Della Delizia • Delle Giudicarie • Delle Valli (da via Gleno a Rotonda Decorati al Valor Civile lato civici pari) • Depretis • Don Gnocchi • Don Orione • Piazza Don Sergio Colombo • Franzarola • Galimberti • Largo Gemelli • Grismondi (esclusi civici 10 e 12) • Gusmini • Lombardia • Malliani • Maroncelli • Martinella • Marzanica • Montello • Negrisoli • Oroboni • Papa Leone XIII • Papa Ratti • Pellico • Pizzo Coca • Quinto Alpini • Radini Tedeschi • Ressi Albino • Ronchi • Strada dell’Agro Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23.",
+  "Il calendario indica che i sacchi per plastica e indifferenziato sono distribuiti anche alle attività commerciali con la tessera dedicata."
+ ],
+ "esposizione_entro": "06:00"
+}

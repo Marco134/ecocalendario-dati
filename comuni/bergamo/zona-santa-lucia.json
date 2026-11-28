@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Santa Lucia",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: mercoledì e sabato. I rifiuti vanno esposti entro le ore 12.30.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-santa-lucia-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-05": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-12": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-19": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Adua • Alborghetti • Albricci • Andersen • Largo Barozzi • Bietti • Bologna • Cadorna • Cattaneo • Costituzione • Damiano Chiesa • Diaz • Filzi • Fontanabrolo (tratto finale da civ. 8 a civ. 10 e da civ. 9 a civ. 11) • Fosse Ardeatine • Frank • Grataroli • Helvetia • IV Novembre (da via Statuto a via Diaz da civ. 2 a civ. 42 e da civ. 5 a civ. 55) • Legionari in Polonia (da via Negri a via Diaz da civ. 2 a civ. 34 e da civ. 1 a civ. 25) • Mazzini • Milano • Minzoni • More (solo civico 1) • Negri • Nullo (da via Mazzini a largo Adua, da civ. 26 a civ. 50/a e da civ. 17 a civ. 45) • Ortolani • Panseri • Riva di Villasanta • Rismondo • Rosmini • Santa Lucia • Statuto • Todeschini • Torino • XXIV Maggio (da via Innocenzo XI° a via Statuto lato civici pari da n. 2 a n. 32 e lato civici dispari da n. 1 a n. 43) Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ],
+ "esposizione_entro": "12:30"
+}

@@ -1,0 +1,59 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "San Paolo",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: mercoledì e sabato. I rifiuti vanno esposti entro le ore 12.30.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-san-paolo-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-05": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-19": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-26": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "organico"
+  ]
+ },
+ "note": [
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ],
+ "esposizione_entro": "12:30"
+}

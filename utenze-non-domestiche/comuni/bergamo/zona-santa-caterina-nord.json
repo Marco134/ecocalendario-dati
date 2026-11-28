@@ -1,0 +1,57 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Santa Caterina Nord",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e venerdì. I rifiuti vanno esposti entro le ore 6.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-santa-caterina-nord-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-07": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-14": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-21": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-25": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Baioni (tratto da via N. Sauro a via Lazzaretto) • Baracca • Bezzecca • Caffaro • Castellini • Celestini • Corridoni (tratto da via Suardi a Circonvallazione Plorzano) • da Barzizza • D’Amico • Finardi • Ghirardelli • Viale G. Cesare (tratto da p.le Oberdan a rotonda circonvallazione lato civici dispari e tratto da p.le Oberdan a via Lazzaretto lato civici pari) • Lazzaretto (solo lato civici pari) • Legrenzi • Lesbia Cidonia • Piazzale Loverini • Medici • Milazzo • Petri • Rosselli • Santuario dell’Addolorata • Sauro • Largo dello Sport • Vezza d’Oglio • Volturno Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23.",
+  "Il calendario indica che i sacchi per plastica e indifferenziato sono distribuiti anche alle attività commerciali con la tessera dedicata."
+ ],
+ "esposizione_entro": "06:00"
+}

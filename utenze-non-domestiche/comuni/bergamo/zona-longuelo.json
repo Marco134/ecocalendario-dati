@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Longuelo",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: mercoledì e sabato. I rifiuti vanno esposti entro le ore 12.30.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-longuelo-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Agostinelli • Astino (da via Madonna del Bosco a via Longuelo - dal civico 53 al 117 e dal 62 al 192) • Bach • Bazzini • Bechela • Beethoven • Bellini • Brahms • Brembilla • Broseta (da via Croce Rossa a via Lochis, dal civico 132 al civico 162 e dal civico 137 al 139) • Catalani • Cavaccio • D’Albino • del Celtro • della Rovere • Donini • Giordano • Gozzi • Lochis • Lolli • Longuelo • Marcello • Mascagni • Mattioli • Merula • Monteverdi • Ninì da Fano • Paisiello • Palermo • Palestrina • Pergolesi • Perosi • Pizzigoni • Polaresco • Portone S. Matteo • Puccini • Rastelli • Rossini • F.lli Rota • S. Martino della Pigrizia (solo civici 50, 52, 54 e 33) • Scaletta Bellavista • Sorelle Coggiola • Strada Vecchia • Toscanini • Wagner • Zandonai • Zelioli Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23.",
+  "Il calendario indica che i sacchi per plastica e indifferenziato sono distribuiti anche alle attività commerciali con la tessera dedicata."
+ ],
+ "esposizione_entro": "12:30"
+}

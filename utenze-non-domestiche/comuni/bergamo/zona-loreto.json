@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Loreto",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: mercoledì e sabato. I rifiuti vanno esposti entro le ore 12.30.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-loreto-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-05": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-19": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-23": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Abba • Agazzi • Arcangeli • Balestra • Bassini • Bernardi • Bixio • Bonomini • Borgo Canale (da via Bonomini fino a civ. 86/a presso strettoia con divieto di accesso) • Broseta (da via XXIV Maggio a via Croce Rossa) • Caroli • Colombaia • Corpo Italiano di Liberazione (solo lato civici pari) • Croce Rossa • Curie • D’Acquisto (solo lato civici pari) • Donati • Dunant • Largo Fabbre • Passaggio Filatoio • Gaffuri • Ghisleni Mazzola • Innocenzo XI • Kock • Kolbe • Licinio • Lidice • Loreto • Lumiere • Marchetti • Mendel • Meucci • Mosè del Brolo • Pasteur • Pezzotta • Piazzoni • Piazzale Risorgimento • Roncalli • Rontgen • Secchi • Sylva • Largo Tacchini • Testa • Trecourt • Piazza Varsavia • Venanzio • XXIV Maggio (da via Broseta a via Innocenzo XI) Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23.",
+  "Il calendario indica che i sacchi per plastica e indifferenziato sono distribuiti anche alle attività commerciali con la tessera dedicata."
+ ],
+ "esposizione_entro": "12:30"
+}

@@ -5716,6 +5716,25 @@
       "regole_en": [
         "Book with Aprica on 800 437678 or the PULIamo app."
       ]
+    },
+    {
+      "id": "aprica-bergamo",
+      "nome": "Aprica · Bergamo",
+      "gestori": [],
+      "comuni": [
+        "bergamo"
+      ],
+      "telefono": "800 437678",
+      "fonte": "https://www.apricaspa.it/it/bergamo",
+      "prenotazione": true,
+      "prenota_url": "https://www.apricaspa.it/it/bergamo",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ingombranti e pericolosi alla piattaforma ecologica di via Goltara 23 (lunedì-sabato 8-13 e 14-19, con Carta Regionale o Nazionale dei Servizi). Ritiro a domicilio su prenotazione Aprica 800 437678."
+      ],
+      "regole_en": [
+        "Bulky waste: Via Goltara 23 platform or book with Aprica on 800 437678."
+      ]
     }
   ]
 }

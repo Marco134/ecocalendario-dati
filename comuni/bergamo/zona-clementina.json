@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Clementina",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I rifiuti vanno esposti entro le ore 12.30.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-clementina-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Amighetti • B.go Palazzo (da Circonvallazione Mugazzone a confine con Seriate lato civici dispari dal civ. 109 in poi, e da Circonvallazione Mugazzone a civico 130 escluso lato civici pari) • Clementina • Delle Valli (da via Borgo Palazzo a via Pola solo civici pari fino al n. 76) • Piazzale Fiera • Gaioncelli • Gandhi • Gritti (da via Rovelli a via B.go Palazzo solo lato civici pari) • Mangili • Monte Cornagera • Perlini • Pizzo Recastello (da passaggio ferroviario a via B.go Palazzo, dai civici 10 e 13 in poi) • Pola • Rodegher • Rovelli (da sottopasso Circonvallazione Mugazzone a confine con Seriate, dal civico 25 e 30a in poi) • Tolstoj • Trento • Trieste • Varisco • Venezia • Verne Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ],
+ "esposizione_entro": "12:30"
+}

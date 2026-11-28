@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Centro Sud",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I rifiuti vanno esposti entro le ore 18.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-centro-sud-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-03": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-07": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-10": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-14": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-17": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-21": [
+   "vetro",
+   "organico"
+  ],
+  "2026-12-24": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ],
+  "2026-12-28": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-31": [
+   "indifferenziato",
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Vicolo Bancalegno • Baschenis • Bonomelli • Carducci (da l.go Tironi a via Moroni solo lato civici pari) • D’Alzano • Fratelli Calvi • Vicolo Foppa • Ghislanzoni • Greppi • P.le Marconi e Stazione Autolinee • Nastro Azzurro • Novelli • Paglia • Palazzolo • Paleocapa • Quarenghi • S. Giorgio • Scotti • Simoncini • Spaventa • Tintoretto Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23.",
+  "Il calendario indica che i sacchi per plastica e indifferenziato sono distribuiti anche alle attività commerciali con la tessera dedicata."
+ ],
+ "esposizione_entro": "18:00"
+}

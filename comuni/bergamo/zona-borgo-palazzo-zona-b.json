@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "comune": "Bergamo",
+ "provincia": "BG",
+ "gestore": "Aprica",
+ "zona": "Borgo Palazzo – zona B",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Giorni di raccolta: lunedì e giovedì. I rifiuti vanno esposti entro le ore 6.",
+ "fonte": "Calendario giorni di raccolta 2026 Aprica – https://content.apricaspa.it/sites/default/files/2025-12/calendario-rd-borgo-palazzo-zona-b-2026.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-07": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-14": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-21": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "vetro",
+   "organico"
+  ],
+  "2026-12-28": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta",
+   "organico"
+  ]
+ },
+ "note": [
+  "Vie: Bianzana • Bianzanella • Borgo Palazzo (da piazza S. Anna a viale Pirovano solo civici pari) • Borsellino • Bosatelli Domenico • Cassina Da Calepio • Largo Decorati al Valor Civile • Del Calepino • Del Galgario • Don Ronchetti Frizzoni (da via Borgo Palazzo a largo del Galgario solo lato civici pari - da civ. 8 compreso in poi) • G. B. Rota • Ghislandi • Maddalena Casulana • Malfassi Mazzi • Noli (escluso civico n. 19) • Rubini • piazza S. Anna • SS. Maurizio e Fermo • Serassi • Torretta • Vivaldi Calendario raccolta differenziata 2026",
+  "Nei giorni festivi la raccolta dell’organico può saltare e altre raccolte essere anticipate o spostate: le date qui sono già aggiornate secondo il calendario.",
+  "Rifiuti pericolosi e piccoli RAEE: servizio Ecovan; piattaforma ecologica di via Goltara 23."
+ ],
+ "esposizione_entro": "06:00"
+}
