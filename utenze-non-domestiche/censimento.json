@@ -4549,10 +4549,10 @@
    "nome": "Guardea",
    "provincia": "TR",
    "gestore": "COSP Tecno Service",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.differenziataterni.it/download/calendario-raccolta-area-vasta-domestica-guardea/",
-   "verificato": "2026-11-25",
-   "nota": "ASM elenca un allegato UND datato 07/01/2026. Il PDF non è stato recuperato. Il sito COSP pubblica due allegati 2026 esplicitamente domestici."
+   "verificato": "2026-11-28",
+   "nota": "Gli allegati 2026 pubblicati sono esplicitamente domestici; il calendario UND citato da ASM non è disponibile. Verificare sul sito del gestore."
   },
   {
    "id": "guarene",
@@ -11541,10 +11541,10 @@
    "nome": "San Costanzo",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/s-costanzo.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Reperite indicazioni comunali per frazione. Da confermare calendario, zone e recuperi delle attività."
+   "verificato": "2026-11-28",
+   "nota": "Il calendario 2026 non dice se vale per le attività né indica turni dedicati. Verificare sul sito del gestore (asetservizi.it)."
   },
   {
    "id": "santippolito",
@@ -11571,10 +11571,10 @@
    "nome": "Fossombrone",
    "provincia": "PU",
    "gestore": "ASET",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.asetservizi.it/wp-content/uploads/2026/05/ASET-ecocalendario-Fossombrone-2026.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Reperito calendario generale 2026. Da confermare validità per le attività, zone, frazioni e recuperi."
+   "verificato": "2026-11-28",
+   "nota": "Il calendario 2026 non dice se vale per le attività né indica turni dedicati. Verificare sul sito del gestore (asetservizi.it)."
   },
   {
    "id": "mondavio",
@@ -11661,20 +11661,20 @@
    "nome": "Castelbelforte",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/castelbelforte-1 | https://www.comune.castelbelforte.mn.it/s3/1632/allegati/castelbelforte_ma-calendario2026_mono_02.pdf | https://www.comune.castelbelforte.mn.it/index.php/it/vivere/ecocentro-comunale",
-   "verificato": "2026-11-26",
-   "nota": "La pagina ambientale comunale e il calendario indicano il centro di Via Verdi. Chiedere tessera, limiti, documenti e turni per le attività. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "castel-goffredo",
    "nome": "Castel Goffredo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/castel-goffredo | https://www.comune.castelgoffredo.mn.it/s3/1610/allegati/novit/avvisi/ecocalendario-2026.pdf | https://www.comune.castelgoffredo.mn.it/it/news/calendario-rifiuti-2026-e-aggiornamento-sulla-raccolta-indifferenziata",
-   "verificato": "2026-11-26",
-   "nota": "L’avviso comunale annuncia il residuo ogni quattro settimane da gennaio 2026. Chiedere se e per quali attività vale questo passaggio e se sono previsti turni aggiuntivi. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "marmirolo",
@@ -11711,10 +11711,10 @@
    "nome": "San Giacomo delle Segnate",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/san-giacomo-delle-segnate | https://static.mantovaambiente.it/a3/37/sangiacomodellesegnate_ma-calendario2026_mono_00-web.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Il calendario rimanda a Via Ca’ Rossa. Verificare la convenzione per le attività e l’applicabilità delle tariffe per il ritiro ingombranti comunale. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "san-giorgio-bigarello",
@@ -11801,20 +11801,20 @@
    "nome": "Magnacavallo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/magnacavallo | https://static.mantovaambiente.it/8f/c9/magnacavallo_ma-calendario2026_mono_01-web.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Scaglioni stagionali del centro di Via Giliola. Confermare quali attività possono accedere e se il servizio a domicilio prevede giri aggiuntivi. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "marcaria",
    "nome": "Marcaria",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/marcaria | https://www.comune.marcaria.mn.it/portals/2252/SiscomArchivio/4/calendario_raccolta_rifiuti_2026_001.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Il centro è a San Michele in Bosco. Chiedere condizioni per l’attività e calendario per la sede e la frazione di raccolta. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "pegognaga",
@@ -11851,30 +11851,30 @@
    "nome": "Quingentole",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/quingentole | https://static.mantovaambiente.it/e9/35/quingentole_ma-calendario2026_mono_00-web.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Il calendario rimanda a Via Ca’ Rossa a Quistello. Verificare la convenzione per le UND e gli orari del centro. La scheda generale parla di residenza. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "quistello",
    "nome": "Quistello",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/quistello | https://mycity.s3.sbg.io.cloud.ovh.net/4866934/Quistello_MA-calendario2026_mono_01-WEB.pdf | https://comune.quistello.mn.it/notizie/3046420/centro-raccolta-comunale",
-   "verificato": "2026-11-26",
-   "nota": "Verificare accesso UND al centro di Via Ca’ Rossa e orari estivi. Le fonti generali divergono sulla chiusura di sabato. Verificare la mappa dei quattro circuiti per il vegetale e l’applicabilità per le attività. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "redondesco",
    "nome": "Redondesco",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/redondesco | https://static.mantovaambiente.it/09/4e/redondesco_ma-calendario2026_mono_01-web.pdf | https://www.comune.asola.mn.it/wp-content/uploads/2024/03/REGOLAMENTO-DEL-CENTRO-DI-RACCOLTA-RIFIUTI-1.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Il calendario rimanda al centro di Asola. Il regolamento di Asola distingue le utenze dei comuni convenzionati. Chiedere conferma della convenzione per la sede aziendale di Redondesco e dei turni. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "rivarolo-mantovano",
@@ -11891,10 +11891,10 @@
    "nome": "Rodigo",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/rodigo | https://static.mantovaambiente.it/3f/63/rodigo_ma-calendario2026_mono_08-web.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Il punto di Rivalta è indicato per sfalci e potature. Verificare accesso al centro di Strada Fossato, inclusi ingombranti delle attività e se il ritiro gratuito del primo venerdì si estende alle UND. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "roncoferraro",
@@ -11921,10 +11921,10 @@
    "nome": "San Giovanni del Dosso",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/san-giovanni-del-dosso | https://mycity.s3.sbg.io.cloud.ovh.net/4896549/San-Giovanni-del-Dosso_MA-calendario2026_mono_01-WEB.pdf | https://mycity.s3.sbg.io.cloud.ovh.net/3621831/Regolamento-del-Centro-di-Raccolta-Rev.0-30_11_23_Parte1.pdf",
-   "verificato": "2026-11-26",
-   "nota": "Il calendario rimanda al centro di Via Ovara. Verificare se il regolamento di Poggio Rusco e la convenzione consentono l’accesso alle attività della sede. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "san-martino-dallargine",
@@ -11941,20 +11941,20 @@
    "nome": "Schivenoglia",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/schivenoglia | https://www.comune.schivenoglia.mn.it/wp-content/uploads/2026/01/Schivenoglia_MA-calendario2026_mono_01-WEB.pdf | https://www.comune.schivenoglia.mn.it/servizio-rifiuti/raccolta-differenziata/",
-   "verificato": "2026-11-26",
-   "nota": "La sede è in Via Andrea Schivenoglia. Il servizio generale indica un limite di tre colli e specifiche esclusioni. Confermare accesso e ritiro per le attività. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "sermide-e-felonica",
    "nome": "Sermide e Felonica",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/sermide-e-felonica-1 | https://www.comune.sermideefelonica.mn.it/amministrazione/trasparenza/pubblicazioni/allegati/allegato_2187.html | https://www.comune.sermideefelonica.mn.it/amministrazione/documenti_e_dati/atti_normativi/documento_298.html",
-   "verificato": "2026-11-26",
-   "nota": "Consultare il regolamento comunale e il centro di Via L. B. Alberti. Confermare accesso, turni di Felonica e Sermide per le attività e applicabilità della regola locale sulle capsule. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "solferino",
@@ -11981,20 +11981,20 @@
    "nome": "Borgocarbonara",
    "provincia": "MN",
    "gestore": "Mantova Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://mantovaambiente.it/comuni/borgocarbonara | https://www.comune.borgocarbonara.mn.it/novita/avvisi/novita_4.html",
-   "verificato": "2026-11-26",
-   "nota": "Il calendario rimanda al centro di Magnacavallo. Confermare la convenzione per le attività di Borgocarbonara, l’accesso e le frazioni per la sede. Restano da confermare calendario, giorni festivi, ingombranti e regole per le UND. Recapito del gestore 800 473 165."
+   "verificato": "2026-11-28",
+   "nota": "Né il calendario 2026 del Comune né la Carta dei servizi Mantova Ambiente (ed. 11, «Il calendario della raccolta», p. 14) dicono se il calendario porta a porta vale per le attività. Verificare sul sito del gestore (mantovaambiente.it, pagina del Comune)."
   },
   {
    "id": "settimo-milanese",
    "nome": "Settimo Milanese",
    "provincia": "MI",
    "gestore": "Mantova Ambiente / AMSA",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://comune.settimomilanese.mi.it/servizio/p13-vorrei-richiedere-i-cassonetti-sacchetti-per-la-raccolta-differenziata-rifiuti/ | https://www.amsa.it/it/settimo-milanese/servizi/imprese/centro-raccolta-rifiuti | https://www.amsa.it/it/settimo-milanese/servizi/raccolta-differenziata | https://comune.settimomilanese.mi.it/servizio/p13-vorrei-richiedere-la-tessera-magnetica-accesso-alla-ricicleria-solo-per-ditte/",
-   "nota": "Il Comune identifica Mantova Ambiente per l’igiene urbana e lo sportello. Amsa pubblica informazioni operative. Validare con il gestore il programma UND per indirizzo, categorie e giorni festivi, le condizioni per ingombranti e il ruolo operativo delle due aziende. Il centro è documentato.",
-   "verificato": "2026-11-27"
+   "nota": "Il Comune indica Mantova Ambiente come gestore e Amsa pubblica informazioni operative, ma nessuna fonte riporta un programma per le attività. Verificare sul sito del gestore.",
+   "verificato": "2026-11-28"
   },
   {
    "id": "mantova",
@@ -12031,10 +12031,10 @@
    "nome": "Borgo di Terzo",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.vcsonline.it/comuni/borgo-di-terzo/",
-   "verificato": "2026-11-25",
-   "nota": "La scheda pubblica il calendario comunale e il centro di Vigano. Da reperire una fonte che confermi i turni UND. Il portale TARI ha restituito 403."
+   "verificato": "2026-11-28",
+   "nota": "Il calendario comunale pubblicato dal gestore non dice se vale per le attività e la Carta della qualità del Comune non è reperibile (i collegamenti aprono documenti di altri Comuni). Verificare sul sito del gestore (vcsonline.it)."
   },
   {
    "id": "bossico",
@@ -12111,10 +12111,10 @@
    "nome": "Entratico",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.vcsonline.it/comuni/entratico/",
-   "verificato": "2026-11-25",
-   "nota": "Il collegamento alla Carta nella trasparenza del gestore apre un documento intestato a Endine Gaiano. Da recuperare la Carta di Entratico o un programma UND esplicito."
+   "verificato": "2026-11-28",
+   "nota": "Il calendario comunale pubblicato dal gestore non dice se vale per le attività e la Carta della qualità del Comune non è reperibile (i collegamenti aprono documenti di altri Comuni). Verificare sul sito del gestore (vcsonline.it)."
   },
   {
    "id": "fonteno",
@@ -12161,10 +12161,10 @@
    "nome": "Luzzana",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.vcsonline.it/comuni/luzzana/",
-   "verificato": "2026-11-25",
-   "nota": "Il collegamento alla Carta nella trasparenza del gestore apre un documento intestato a Trescore Balneario. Da recuperare la Carta di Luzzana o un programma UND esplicito."
+   "verificato": "2026-11-28",
+   "nota": "Il calendario comunale pubblicato dal gestore non dice se vale per le attività e la Carta della qualità del Comune non è reperibile (i collegamenti aprono documenti di altri Comuni). Verificare sul sito del gestore (vcsonline.it)."
   },
   {
    "id": "monasterolo-del-castello",
@@ -12311,10 +12311,10 @@
    "nome": "Vigano San Martino",
    "provincia": "BG",
    "gestore": "Val Cavallina Servizi",
-   "stato": "fonte_individuata",
+   "stato": "scheda_informativa",
    "fonte": "https://www.vcsonline.it/comuni/vigano-san-martino/",
-   "verificato": "2026-11-25",
-   "nota": "Il gestore pubblica il calendario comunale. Da reperire una fonte che ne confermi l’applicabilità alle UND. Il portale TARI ha restituito 403."
+   "verificato": "2026-11-28",
+   "nota": "Il calendario comunale pubblicato dal gestore non dice se vale per le attività e la Carta della qualità del Comune non è reperibile (i collegamenti aprono documenti di altri Comuni). Verificare sul sito del gestore (vcsonline.it)."
   },
   {
    "id": "rota-dimagna",
