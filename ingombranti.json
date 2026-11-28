@@ -5591,6 +5591,26 @@
       "regole_en": [
         "Book with Aprica on 800 437678 or the PULIamo app."
       ]
+    },
+    {
+      "id": "sangalli-canosa",
+      "nome": "Impresa Sangalli · Canosa di Puglia",
+      "gestori": [],
+      "comuni": [
+        "canosa-di-puglia"
+      ],
+      "telefono": "800 223 301",
+      "fonte": "https://www.canosadipugliapulita.it/interno.php?id=7",
+      "prenotazione": true,
+      "prenota_url": "https://www.canosadipugliapulita.it/prenotazione-servizi.php",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro gratuito riservato alle utenze domestiche. Massimo tre pezzi per ritiro. Telefonare o usare il modulo online.",
+        "Le persone oltre i 70 anni e chi ha difficoltà motorie possono chiedere il ritiro al piano, alle condizioni indicate dal gestore."
+      ],
+      "regole_en": [
+        "Free pickup for households only. Book online or by phone. Up to three items per pickup."
+      ]
     }
   ]
 }

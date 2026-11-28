@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1268,
+ "totale": 1269,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -13539,6 +13539,18 @@
    "fonte": "https://content.apricaspa.it/sites/default/files/2024-07/castelgerundo-calendario-rd.pdf",
    "verificato": "2026-11-28",
    "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività: verificare sul sito Aprica."
+  },
+  {
+   "id": "canosa-di-puglia",
+   "nome": "Canosa di Puglia",
+   "provincia": "BT",
+   "gestore": "Impresa Sangalli",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.canosadipugliapulita.it/download.php | https://www.canosadipugliapulita.it/calendario.php",
+   "verificato": "2026-11-28",
+   "valido_al": "2026-12-31",
+   "zone_und": 7,
+   "nota": "Sette zone verificate per uffici, studi professionali e attività simili. Per UND ordinarie con imballaggi di cartone, H.A.C.C.P. e strutture ricettive sono disponibili prospetti settimanali privi di validità datata. Resta da acquisire la griglia annuale o la conferma delle variazioni e il periodo di validità."
   }
  ]
 }

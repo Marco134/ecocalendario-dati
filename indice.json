@@ -25869,6 +25869,60 @@
           "valido_al": "2026-12-22"
         }
       ]
+    },
+    {
+      "id": "canosa-di-puglia",
+      "nome": "Canosa di Puglia",
+      "provincia": "BT",
+      "gestore": "Impresa Sangalli",
+      "consorzio": "sangalli-canosa",
+      "lat": 41.2206,
+      "lon": 16.0683,
+      "zone_url": "https://www.canosadipugliapulita.it/calendario.php",
+      "zone": [
+        {
+          "id": "1",
+          "nome": "Zona 1",
+          "file": "comuni/canosa-di-puglia/zona-1.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "2",
+          "nome": "Zona 2",
+          "file": "comuni/canosa-di-puglia/zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "3",
+          "nome": "Zona 3",
+          "file": "comuni/canosa-di-puglia/zona-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "4",
+          "nome": "Zona 4",
+          "file": "comuni/canosa-di-puglia/zona-4.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "5",
+          "nome": "Zona 5",
+          "file": "comuni/canosa-di-puglia/zona-5.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "6",
+          "nome": "Zona 6",
+          "file": "comuni/canosa-di-puglia/zona-6.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "7",
+          "nome": "Zona 7",
+          "file": "comuni/canosa-di-puglia/zona-7.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -26452,6 +26506,12 @@
       "gestore": "ASM Molfetta S.r.l.",
       "ecocentri": "ecocentri/asm-molfetta.json",
       "regole": "regole/asm-molfetta.json"
+    },
+    "sangalli-canosa": {
+      "nome": "Impresa Sangalli · Canosa di Puglia",
+      "gestore": "Impresa Sangalli",
+      "ecocentri": "ecocentri/sangalli-canosa.json",
+      "regole": "regole/sangalli-canosa.json"
     }
   },
   "tipi_en": {

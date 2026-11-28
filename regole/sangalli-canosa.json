@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "nome": "Canosa di Puglia · Materiali",
+  "fonte": "https://www.canosadipugliapulita.it/interno.php?id=13 | https://www.canosadipugliapulita.it/interno.php?id=11 | https://www.canosadipugliapulita.it/interno.php?id=10 | https://www.canosadipugliapulita.it/interno.php?id=9 | https://www.canosadipugliapulita.it/interno.php?id=15 | https://www.canosadipugliapulita.it/interno.php?id=22",
+  "voci": {
+    "bucce di frutta": {
+      "dove": "organico",
+      "nota": "Usare sacchetti compostabili nel mastello."
+    },
+    "scarti di verdura": {
+      "dove": "organico",
+      "nota": "Usare sacchetti compostabili nel mastello."
+    },
+    "avanzi di cibo": {
+      "dove": "organico",
+      "nota": "Usare sacchetti compostabili nel mastello."
+    },
+    "fondi di caffè": {
+      "dove": "organico",
+      "nota": "Usare sacchetti compostabili nel mastello."
+    },
+    "gusci d’uovo": {
+      "dove": "organico",
+      "nota": "Usare sacchetti compostabili nel mastello."
+    },
+    "posate compostabili certificate": {
+      "dove": "organico",
+      "nota": "Usare sacchetti compostabili nel mastello."
+    },
+    "giornali e riviste": {
+      "dove": "carta",
+      "nota": "Conferire sfuso. Per il cartone dei negozi verificare il circuito dedicato."
+    },
+    "libri e quaderni": {
+      "dove": "carta",
+      "nota": "Conferire sfuso. Per il cartone dei negozi verificare il circuito dedicato."
+    },
+    "cartoni per bevande": {
+      "dove": "carta",
+      "nota": "Conferire sfuso. Per il cartone dei negozi verificare il circuito dedicato."
+    },
+    "tetrapak": {
+      "dove": "carta",
+      "nota": "Conferire sfuso. Per il cartone dei negozi verificare il circuito dedicato."
+    },
+    "scatole di cartone pulite": {
+      "dove": "carta",
+      "nota": "Conferire sfuso. Per il cartone dei negozi verificare il circuito dedicato."
+    },
+    "bottiglie di plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti nel multimateriale."
+    },
+    "flaconi in plastica": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti nel multimateriale."
+    },
+    "lattine": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti nel multimateriale."
+    },
+    "scatolette di metallo": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti nel multimateriale."
+    },
+    "imballaggi in polistirolo": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti nel multimateriale."
+    },
+    "tappi in metallo": {
+      "dove": "plastica",
+      "nota": "Conferire gli imballaggi vuoti nel multimateriale."
+    },
+    "bottiglie in vetro": {
+      "dove": "vetro",
+      "nota": "Togliere i tappi e conferirli nel multimateriale."
+    },
+    "vasetti di vetro": {
+      "dove": "vetro",
+      "nota": "Togliere i tappi e conferirli nel multimateriale."
+    },
+    "barattoli di vetro": {
+      "dove": "vetro",
+      "nota": "Togliere i tappi e conferirli nel multimateriale."
+    },
+    "pannolini": {
+      "dove": "indifferenziato",
+      "nota": "Disponibile anche il ritiro dedicato su iscrizione."
+    },
+    "pannoloni": {
+      "dove": "indifferenziato",
+      "nota": "Disponibile anche il ritiro dedicato su iscrizione."
+    }
+  }
+}
