@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1347,
+ "totale": 1348,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14347,6 +14347,16 @@
    "fonte": "https://comune.sanpancraziosalentino.br.it/documento_pubblico/trasparenza-nel-servizio-di-gestione-dei-rifiuti-urbani/",
    "verificato": "2026-11-28",
    "nota": "Comune e gestore pubblicano l’opuscolo domestico. Turni delle attività e recuperi festivi da acquisire. Prospetto dei turni ordinari. Verificare eventuali variazioni, inclusi i ritiri dell’8, 25 e 26 dicembre 2026."
+  },
+  {
+   "id": "brescia",
+   "nome": "Brescia",
+   "provincia": "BS",
+   "gestore": "Aprica",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.apricaspa.it/it/brescia",
+   "verificato": "2026-11-28",
+   "nota": "Volantini porta a porta del Comune di Brescia e di Aprica solo per le famiglie. La guida comunale dice che le utenze non domestiche possono conferire solo alle piattaforme ecologiche indicate; non c’è un programma porta a porta per le attività. Verificare sul sito del gestore."
   }
  ]
 }

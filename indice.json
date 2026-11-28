@@ -2882,6 +2882,53 @@
       ]
     },
     {
+      "id": "brescia",
+      "nome": "Brescia",
+      "provincia": "BS",
+      "gestore": "Aprica",
+      "lat": 45.5399,
+      "lon": 10.2191,
+      "zone_url": "https://www.apricaspa.it/it/brescia",
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/brescia/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-gialla",
+          "nome": "Zona gialla",
+          "file": "comuni/brescia/zona-zona-gialla.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-azzurra",
+          "nome": "Zona azzurra",
+          "file": "comuni/brescia/zona-zona-azzurra.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-arancio",
+          "nome": "Zona arancio",
+          "file": "comuni/brescia/zona-zona-arancio.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-verde",
+          "nome": "Zona verde",
+          "file": "comuni/brescia/zona-zona-verde.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-viola",
+          "nome": "Zona viola",
+          "file": "comuni/brescia/zona-zona-viola.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "brezzo-di-bedero",
       "nome": "Brezzo di Bedero",
       "provincia": "VA",

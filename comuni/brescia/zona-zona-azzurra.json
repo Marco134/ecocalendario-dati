@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "comune": "Brescia",
+ "provincia": "BS",
+ "gestore": "Aprica",
+ "zona": "Zona azzurra",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Martedì sera, la sera prima della raccolta: tra le 18.00 e le 21.00 il bidone verde (vetro e metalli); tra le 18.00 e le 23.00 il bidone blu (carta e cartone), il sacco giallo (imballaggi in plastica) e il bidone marrone (sfalci). Ritirare i contenitori entro le 9.00 di mercoledì mattina.",
+ "fonte": "Raccolta rifiuti porta a porta, Comune di Brescia e Aprica – https://content.apricaspa.it/sites/default/files/2024-07/calendario-brescia-zona-azzurra.pdf",
+ "raccolte": {
+  "2026-12-02": [
+   "vetro",
+   "plastica",
+   "carta",
+   "sfalci"
+  ],
+  "2026-12-09": [
+   "vetro",
+   "plastica",
+   "carta",
+   "sfalci"
+  ],
+  "2026-12-16": [
+   "vetro",
+   "plastica",
+   "carta",
+   "sfalci"
+  ],
+  "2026-12-23": [
+   "vetro",
+   "plastica",
+   "carta",
+   "sfalci"
+  ],
+  "2026-12-30": [
+   "vetro",
+   "plastica",
+   "carta",
+   "sfalci"
+  ]
+ },
+ "note": [
+  "Le date indicate sono le mattine di raccolta: si espone la sera prima (martedì).",
+  "Schema settimanale fisso, confermato da Marco il 28/11/2026: il volantino non riporta l’anno.",
+  "La raccolta è sospesa il 25 e il 31 dicembre: sono tolte le raccolte che cadono quelle sere o quelle mattine.",
+  "Organico e indifferenziato vanno nei cassonetti stradali con la calotta, usando la tessera.",
+  "Sfalci e potature: servizio ad adesione, con costo nella bolletta TARI dell’anno successivo.",
+  "Per sapere la propria zona: app PULIamo o apricaspa.it. Ingombranti a domicilio su prenotazione: numero verde 800 437678 o app PULIamo."
+ ],
+ "a_pagamento": [
+  "sfalci"
+ ]
+}
