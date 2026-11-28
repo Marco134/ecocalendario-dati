@@ -1,0 +1,114 @@
+{
+ "schema": 1,
+ "comune": "Cuneo",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Zona 7",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 9:00 del mattino del giorno di raccolta. Solo sacchi e contenitori forniti.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-7_web.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-27": [
+   "organico",
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica",
+   "carta",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "organico",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "vetro",
+   "da": "2026-12-25"
+  }
+ ],
+ "note": [
+  "Imballaggi metallici una volta al mese: vedi il calendario del gestore.",
+  "Cassette in legno o plastica: servizio da attivare al numero verde 800 654300.",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

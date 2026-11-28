@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "comune": "Chiusa di Pesio",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Cartone · attività abilitate",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 9:00 del mattino del giorno di raccolta. Solo sacchi e contenitori forniti.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2026/05/Chiusa-di-Pesio-calendario-2026-UND_web.pdf",
+ "raccolte": {
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Servizio del solo cartone per le attività che lo hanno attivato al numero verde 800 654300.",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

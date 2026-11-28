@@ -24360,6 +24360,707 @@
     }
    ],
    "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
+  },
+  {
+   "id": "beinette",
+   "nome": "Beinette",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3657,
+   "lon": 7.6457,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/beinette/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/beinette/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/beinette/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "bernezzo",
+   "nome": "Bernezzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3886,
+   "lon": 7.4353,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/bernezzo/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/bernezzo/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/bernezzo/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "boves",
+   "nome": "Boves",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3298,
+   "lon": 7.552,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/boves/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/boves/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "busca",
+   "nome": "Busca",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.5137,
+   "lon": 7.4735,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/busca/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/busca/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/busca/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "caraglio",
+   "nome": "Caraglio",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.4177,
+   "lon": 7.4276,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/caraglio/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/caraglio/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/caraglio/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "castelletto-stura",
+   "nome": "Castelletto Stura",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.4442,
+   "lon": 7.6391,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/castelletto-stura/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/castelletto-stura/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/castelletto-stura/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "centallo",
+   "nome": "Centallo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.5041,
+   "lon": 7.5901,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/centallo/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/centallo/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/centallo/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "cervasca",
+   "nome": "Cervasca",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3832,
+   "lon": 7.4679,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/cervasca/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/cervasca/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/cervasca/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "chiusa-di-pesio",
+   "nome": "Chiusa di Pesio",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3248,
+   "lon": 7.6779,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/chiusa-di-pesio/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/chiusa-di-pesio/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/chiusa-di-pesio/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "dronero",
+   "nome": "Dronero",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.467,
+   "lon": 7.3633,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/dronero/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/dronero/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/dronero/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "margarita",
+   "nome": "Margarita",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.4026,
+   "lon": 7.6869,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/margarita/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/margarita/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/margarita/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "montanera",
+   "nome": "Montanera",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.462,
+   "lon": 7.6656,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/montanera/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/montanera/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/montanera/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "morozzo",
+   "nome": "Morozzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.423,
+   "lon": 7.7104,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/morozzo/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/morozzo/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/morozzo/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "peveragno",
+   "nome": "Peveragno",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.33,
+   "lon": 7.6171,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/peveragno/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/peveragno/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "pianfei",
+   "nome": "Pianfei",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3705,
+   "lon": 7.7098,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/pianfei/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/pianfei/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/pianfei/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "roccasparvera",
+   "nome": "Roccasparvera",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3417,
+   "lon": 7.4413,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/roccasparvera/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/roccasparvera/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/roccasparvera/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "tarantasca",
+   "nome": "Tarantasca",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.4934,
+   "lon": 7.5451,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/tarantasca/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/tarantasca/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/tarantasca/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "vignolo",
+   "nome": "Vignolo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3596,
+   "lon": 7.4699,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/vignolo/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/vignolo/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/vignolo/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "villar-san-costanzo",
+   "nome": "Villar San Costanzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.483,
+   "lon": 7.3803,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "attivita",
+     "nome": "Attività",
+     "file": "comuni/villar-san-costanzo/zona-attivita.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "cartone",
+     "nome": "Cartone · attività abilitate",
+     "file": "comuni/villar-san-costanzo/zona-cartone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "piccole",
+     "nome": "Uffici e piccole attività",
+     "file": "comuni/villar-san-costanzo/zona-piccole.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://www.cec-cuneo.it/"
+  },
+  {
+   "id": "borgo-san-dalmazzo",
+   "nome": "Borgo San Dalmazzo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3288,
+   "lon": 7.4875,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "zona-1",
+     "nome": "Zona 1",
+     "file": "comuni/borgo-san-dalmazzo/zona-zona-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-2",
+     "nome": "Zona 2",
+     "file": "comuni/borgo-san-dalmazzo/zona-zona-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-3",
+     "nome": "Zona 3",
+     "file": "comuni/borgo-san-dalmazzo/zona-zona-3.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "grandi-1",
+     "nome": "Zona 1 · grandi produttori",
+     "file": "comuni/borgo-san-dalmazzo/zona-grandi-1.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "grandi-2",
+     "nome": "Zona 2 · grandi produttori",
+     "file": "comuni/borgo-san-dalmazzo/zona-grandi-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "grandi-3",
+     "nome": "Zona 3 · grandi produttori",
+     "file": "comuni/borgo-san-dalmazzo/zona-grandi-3.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cecrifiuti.it/calendari-di-raccolta/"
+  },
+  {
+   "id": "cuneo",
+   "nome": "Cuneo",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3933,
+   "lon": 7.5512,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "zona-1-esterna",
+     "nome": "Zona 1 – Area esterna al centro storico",
+     "file": "comuni/cuneo/zona-zona-1-esterna.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-1-gesso",
+     "nome": "Zona 1 – Centro storico lato Gesso",
+     "file": "comuni/cuneo/zona-zona-1-gesso.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-1-stura",
+     "nome": "Zona 1 – Centro storico lato Stura",
+     "file": "comuni/cuneo/zona-zona-1-stura.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-1-via-roma",
+     "nome": "Zona 1 – Via Roma",
+     "file": "comuni/cuneo/zona-zona-1-via-roma.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-2",
+     "nome": "Zona 2",
+     "file": "comuni/cuneo/zona-zona-2.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-3",
+     "nome": "Zona 3",
+     "file": "comuni/cuneo/zona-zona-3.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-4",
+     "nome": "Zona 4",
+     "file": "comuni/cuneo/zona-zona-4.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-5",
+     "nome": "Zona 5",
+     "file": "comuni/cuneo/zona-zona-5.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-6",
+     "nome": "Zona 6",
+     "file": "comuni/cuneo/zona-zona-6.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-7",
+     "nome": "Zona 7",
+     "file": "comuni/cuneo/zona-zona-7.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-8",
+     "nome": "Zona 8",
+     "file": "comuni/cuneo/zona-zona-8.json",
+     "valido_al": "2026-12-31"
+    }
+   ],
+   "zone_url": "https://cecrifiuti.it/calendari-di-raccolta/"
+  },
+  {
+   "id": "roccavione",
+   "nome": "Roccavione",
+   "provincia": "CN",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "lat": 44.3144,
+   "lon": 7.4813,
+   "consorzio": "cec-und",
+   "zone": [
+    {
+     "id": "unica",
+     "nome": "Tutte le attività",
+     "file": "comuni/roccavione/zona-unica.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -25157,6 +25858,11 @@
    "gestore": "Teknoservice S.r.l. · ARO BA/4",
    "ecocentri": "ecocentri/aroba4-toritto-und.json",
    "regole": "regole/aroba4-toritto-und.json"
+  },
+  "cec-und": {
+   "nome": "CEC · UND",
+   "gestore": "CEC – San Germano / Iren Ambiente",
+   "ecocentri": "ecocentri/cec-und.json"
   }
  }
 }

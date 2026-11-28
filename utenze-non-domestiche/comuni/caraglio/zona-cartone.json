@@ -1,0 +1,33 @@
+{
+ "schema": 1,
+ "comune": "Caraglio",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Cartone · attività abilitate",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 9:00 del mattino del giorno di raccolta. Solo sacchi e contenitori forniti.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2025/12/Caraglio-calendario-2026-UND.pdf",
+ "raccolte": {
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Servizio del solo cartone per le attività che lo hanno attivato al numero verde 800 654300.",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "schema": 1,
+ "aggiornato": "2026-11-28",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "fonte": "https://cecrifiuti.it/calendari-di-raccolta/ | https://prenotazioni.cec-cuneo.it/centridiraccolta/",
+ "numero_verde": "800 654300",
+ "orari_numero_verde": "da rete fissa e mobile",
+ "consorzio": "cec-und",
+ "accesso": "Le attività possono conferire solo rifiuti urbani nei limiti del Regolamento, con prenotazione obbligatoria su prenotazioni.cec-cuneo.it e la tessera dedicata (modulo su www.cec-cuneo.it). Per il trasporto in proprio serve l’iscrizione all’Albo Gestori Ambientali. Non si conferisce il secco indifferenziato raccolto a domicilio.",
+ "avviso": "Orari dai calendari 2026 dei comuni (orario invernale dove indicato). Verificare sull’app Iren Ambiente.",
+ "centri": [
+  {
+   "id": "cec-cuneo-olmo-und",
+   "tipo": "raccolta",
+   "comune": "Cuneo",
+   "indirizzo": "Madonna dell’Olmo, Via della Motorizzazione",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale (1/11–31/3). Dal 1/4 al 30/10: 8:30-12:00 e 14:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 44.3933,
+   "lon": 7.5512
+  },
+  {
+   "id": "cec-cuneo-grazie-und",
+   "tipo": "raccolta",
+   "comune": "Cuneo",
+   "indirizzo": "Madonna delle Grazie, Via Margarita (zona Conad)",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale (1/11–31/3). Dal 1/4 al 30/10: 8:30-12:00 e 14:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 44.3933,
+   "lon": 7.5512
+  },
+  {
+   "id": "cec-borgo-san-dalmazzo-und",
+   "tipo": "raccolta",
+   "comune": "Borgo San Dalmazzo",
+   "indirizzo": "Via Ambovo 67 (c/o ACSR impianti)",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Orario invernale (1/11–31/3), chiuso nei festivi. Dal 1/4 al 30/10: 8:30-12:00 e 14:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 44.3288,
+   "lon": 7.4875
+  },
+  {
+   "id": "cec-peveragno-und",
+   "tipo": "raccolta",
+   "comune": "Peveragno",
+   "indirizzo": "Via Beinette 2",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ],
+     [
+      "14:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.33,
+   "lon": 7.6171
+  },
+  {
+   "id": "cec-caraglio-und",
+   "tipo": "raccolta",
+   "comune": "Caraglio",
+   "indirizzo": "Via F. Mistral",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "2": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "5": [
+     [
+      "09:30",
+      "12:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.4177,
+   "lon": 7.4276
+  },
+  {
+   "id": "cec-boves-und",
+   "tipo": "raccolta",
+   "comune": "Boves",
+   "indirizzo": "Via del Gesso, fraz. Fontanelle",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:30"
+     ],
+     [
+      "13:30",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "13:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.3298,
+   "lon": 7.552
+  },
+  {
+   "id": "cec-busca-und",
+   "tipo": "raccolta",
+   "comune": "Busca",
+   "indirizzo": "Via Frazione Attissano",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "16:00",
+      "19:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "19:00"
+     ]
+    ],
+    "3": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:00",
+      "19:00"
+     ]
+    ],
+    "5": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "17:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.5137,
+   "lon": 7.4735
+  },
+  {
+   "id": "cec-montanera-und",
+   "tipo": "raccolta",
+   "comune": "Montanera",
+   "indirizzo": "Località Rabbi",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:00",
+      "12:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.462,
+   "lon": 7.6656
+  },
+  {
+   "id": "cec-centallo-und",
+   "tipo": "raccolta",
+   "comune": "Centallo",
+   "indirizzo": "Località Madonna dei Prati",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "2": [
+     [
+      "12:00",
+      "15:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "4": [
+     [
+      "09:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:30"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.5041,
+   "lon": 7.5901
+  },
+  {
+   "id": "cec-chiusa-di-pesio-und",
+   "tipo": "raccolta",
+   "comune": "Chiusa di Pesio",
+   "indirizzo": "Regione Vigne Sottane (vicino al canile)",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "10:00",
+      "15:00"
+     ]
+    ],
+    "2": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "14:00"
+     ]
+    ],
+    "4": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "5": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "6": [
+     [
+      "10:00",
+      "16:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Dal 15/6 al 15/9 aperto anche la domenica 15:00-18:00. Posizione indicativa (centro del comune).",
+   "lat": 44.3248,
+   "lon": 7.6779
+  },
+  {
+   "id": "cec-dronero-und",
+   "tipo": "raccolta",
+   "comune": "Dronero",
+   "indirizzo": "Località Ricogno",
+   "per": "non_domestiche",
+   "orari": {
+    "1": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "4": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "08:30",
+      "12:30"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.467,
+   "lon": 7.3633
+  },
+  {
+   "id": "cec-tarantasca-und",
+   "tipo": "raccolta",
+   "comune": "Tarantasca",
+   "indirizzo": "Zona Produttiva Tarantasca Nord 14",
+   "per": "non_domestiche",
+   "orari": {
+    "2": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "3": [
+     [
+      "10:00",
+      "12:00"
+     ]
+    ],
+    "4": [
+     [
+      "13:30",
+      "17:30"
+     ]
+    ],
+    "5": [
+     [
+      "14:00",
+      "17:00"
+     ]
+    ],
+    "6": [
+     [
+      "09:00",
+      "13:00"
+     ]
+    ]
+   },
+   "chiuso": false,
+   "avviso": "Posizione indicativa (centro del comune).",
+   "lat": 44.4934,
+   "lon": 7.5451
+  }
+ ]
+}

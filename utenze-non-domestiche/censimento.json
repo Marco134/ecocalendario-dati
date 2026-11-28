@@ -847,10 +847,10 @@
    "nome": "Beinette",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Beinette-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Beinette-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Beinette-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "belgirate",
@@ -927,10 +927,10 @@
    "nome": "Bernezzo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Bernezzo-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Bernezzo-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Bernezzo-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "berzo-demo",
@@ -1145,10 +1145,10 @@
    "nome": "Borgo San Dalmazzo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Borgo-SD-cal.2026-UND-zona-1.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 6 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Borgo-SD-cal.2026-UND-zona-1.pdf | https://cecrifiuti.it/wp-content/uploads/2026/01/Borgo-SD-cal.2026-UND-zona-2.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Borgo-SD-cal.2026-UND-zona-3.pdf | https://cecrifiuti.it/wp-content/uploads/2026/01/Borgo-SD-cal.2026-UND-grandi-utenze-zona-1.pdf | https://cecrifiuti.it/wp-content/uploads/2026/01/Borgo-SD-cal.2026-UND-grandi-utenze-zona-2.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Borgo-SD-cal.2026-UND-grandi-utenze-zona-3.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "borgo-san-giovanni",
@@ -1283,10 +1283,10 @@
    "nome": "Boves",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Boves-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Boves-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Boves-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "bra",
@@ -1567,10 +1567,10 @@
    "nome": "Busca",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Busca-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Busca-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Busca-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "busnago",
@@ -1937,10 +1937,10 @@
    "nome": "Caraglio",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Caraglio-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Caraglio-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Caraglio-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "carate-brianza",
@@ -2375,10 +2375,10 @@
    "nome": "Castelletto Stura",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Castelletto-Stura-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Castelletto-Stura-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Castelletto-Stura-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "castelletto-sopra-ticino",
@@ -2679,10 +2679,10 @@
    "nome": "Centallo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Centallo-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Centallo-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Centallo-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "ceppo-morelli",
@@ -2769,10 +2769,10 @@
    "nome": "Cervasca",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Cervasca-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Cervasca-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Cervasca-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "cerveno",
@@ -2973,10 +2973,10 @@
    "nome": "Chiusa di Pesio",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2026/05/Chiusa-di-Pesio-calendario-2026-UND_web.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2026/05/Chiusa-di-Pesio-calendario-2026-UND_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/05/Chiusa-di-Pesio-calendario-2026-UD_web.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "chiusa-di-san-michele",
@@ -3525,10 +3525,10 @@
    "nome": "Cuneo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-2_web.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 12 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-1_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Calendario-UND-zona1-gesso_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Calendario-UND-zona1-stura_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-1-viaRoma_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-2_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-3_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-4_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-5_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-6_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-7_web.pdf | https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-8_web.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "cuorgne",
@@ -3741,10 +3741,10 @@
    "nome": "Dronero",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Dronero-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Dronero-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Dronero-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "druento",
@@ -5361,10 +5361,10 @@
    "nome": "Margarita",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Margarita-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Margarita-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Margarita-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "margno",
@@ -5911,10 +5911,10 @@
    "nome": "Montanera",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Montanera-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Montanera-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Montanera-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "monte-marenzo",
@@ -6145,10 +6145,10 @@
    "nome": "Morozzo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Morozzo-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Morozzo-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Morozzo-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "mulazzano",
@@ -6945,10 +6945,10 @@
    "nome": "Peveragno",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Peveragno-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Peveragno-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Peveragno-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "pian-camuno",
@@ -6991,10 +6991,10 @@
    "nome": "Pianfei",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Pianfei-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Pianfei-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Pianfei-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "piansano",
@@ -7835,20 +7835,20 @@
    "nome": "Roccasparvera",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Roccasparvera-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Roccasparvera-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Roccasparvera-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "roccavione",
    "nome": "Roccavione",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
+   "stato": "calendario_verificato",
    "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Roccavione-calendario-2026-UD-e-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "rodano",
@@ -9047,10 +9047,10 @@
    "nome": "Tarantasca",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Tarantasca-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Tarantasca-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Tarantasca-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "tavagnasco",
@@ -9941,10 +9941,10 @@
    "nome": "Vignolo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Vignolo-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Vignolo-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Vignolo-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "vignone",
@@ -10077,10 +10077,10 @@
    "nome": "Villar San Costanzo",
    "provincia": "CN",
    "gestore": "CEC – San Germano / Iren Ambiente",
-   "stato": "fonte_individuata",
-   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Villar-San-Costanzo-calendario-2026-UND.pdf",
-   "verificato": "2026-11-25",
-   "nota": "Indice dell’archivio: 1 fonti esplicitamente dedicate alle UND o pubblicate anche per le UND. Verificare vigenza, zone, attività coperte e servizi prima dell’importazione."
+   "stato": "calendario_verificato",
+   "fonte": "https://cecrifiuti.it/wp-content/uploads/2025/12/Villar-San-Costanzo-calendario-2026-UND.pdf | https://cecrifiuti.it/wp-content/uploads/2025/12/Villar-San-Costanzo-calendario-2026-UD.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendari 2026 CEC per utenze non domestiche; settimanali con variazioni festive del gestore. Cartone per attività abilitate come servizio a parte."
   },
   {
    "id": "villarbasse",

@@ -1,0 +1,94 @@
+{
+ "schema": 1,
+ "comune": "Vignolo",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Attività",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 9:00 del mattino del giorno di raccolta. Solo sacchi e contenitori forniti.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2025/12/Vignolo-calendario-2026-UND.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-12": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-19": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Imballaggi metallici: ritiro mensile su prenotazione al numero verde 800 654300.",
+  "Il gestore indica che il servizio si svolge anche nei giorni festivi.",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

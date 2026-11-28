@@ -1,0 +1,117 @@
+{
+ "schema": 1,
+ "comune": "Borgo San Dalmazzo",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Zona 2",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre dalle 21:00 della sera prima fino alle 9:00 del giorno di raccolta.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2026/01/Borgo-SD-cal.2026-UND-zona-2.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-02": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "lattine"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-08": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-09": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "lattine"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-16": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "lattine"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-26": [
+   "organico"
+  ],
+  "2026-12-27": [
+   "indifferenziato",
+   "lattine"
+  ],
+  "2026-12-29": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-30": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "indifferenziato",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "lattine",
+   "da": "2026-12-25"
+  }
+ ],
+ "note": [
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

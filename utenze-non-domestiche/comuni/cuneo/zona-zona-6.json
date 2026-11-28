@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "comune": "Cuneo",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Zona 6",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 9:00 del mattino del giorno di raccolta. Solo sacchi e contenitori forniti.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2026/04/3Cuneo-calendario-UND-zona-6_web.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "plastica",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-01": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-03": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico",
+   "plastica",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-08": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-09": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-10": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico",
+   "plastica",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-15": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-17": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico",
+   "plastica",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-22": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-24": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-26": [
+   "organico",
+   "plastica",
+   "carta",
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-27": [
+   "plastica",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-29": [
+   "plastica",
+   "carta",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico",
+   "plastica",
+   "carta"
+  ],
+  "2026-12-31": [
+   "plastica",
+   "carta",
+   "vetro"
+  ]
+ },
+ "eccezioni": [
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "plastica",
+   "da": "2026-12-25"
+  },
+  {
+   "data": "2026-12-27",
+   "tipo": "spostato",
+   "raccolta": "carta",
+   "da": "2026-12-25"
+  }
+ ],
+ "note": [
+  "Imballaggi in plastica e cartone dal lunedì al sabato.",
+  "Imballaggi metallici una volta al mese: vedi il calendario del gestore.",
+  "Cassette in legno o plastica: servizio da attivare al numero verde 800 654300.",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

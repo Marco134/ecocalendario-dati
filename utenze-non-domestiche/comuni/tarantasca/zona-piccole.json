@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "comune": "Tarantasca",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Uffici e piccole attività",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti dalle 21:00 della sera prima ed entro le 6:00 del giorno di raccolta. Organico in contenitori stradali. Vetro nelle campane o bidoni stradali. Ingombranti e informazioni: numero verde 800 654300 o app Iren Ambiente.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario di raccolta 2026 – https://cecrifiuti.it/wp-content/uploads/2025/12/Tarantasca-calendario-2026-UD.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "plastica"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Calendario delle utenze domestiche, che il gestore applica anche alle attività a scarsa produzione (uffici, studi medici e professionali, piccole attività commerciali, botteghe).",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}

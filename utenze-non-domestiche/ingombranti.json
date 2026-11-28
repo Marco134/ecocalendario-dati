@@ -6462,6 +6462,47 @@
    "regole_en": [
     "Silea calendars list paid on-call bulky waste pickup (800 004 590); free large-appliance pickup is for households only. Businesses should ask Silea about eligibility."
    ]
+  },
+  {
+   "id": "cec-und",
+   "nome": "CEC · UND",
+   "gestori": [],
+   "comuni": [
+    "beinette",
+    "bernezzo",
+    "borgo-san-dalmazzo",
+    "boves",
+    "busca",
+    "caraglio",
+    "castelletto-stura",
+    "centallo",
+    "cervasca",
+    "chiusa-di-pesio",
+    "cuneo",
+    "dronero",
+    "margarita",
+    "montanera",
+    "morozzo",
+    "peveragno",
+    "pianfei",
+    "roccasparvera",
+    "roccavione",
+    "tarantasca",
+    "vignolo",
+    "villar-san-costanzo"
+   ],
+   "telefono": "800 654300",
+   "fonte": "https://cecrifiuti.it/calendari-di-raccolta/ | https://prenotazioni.cec-cuneo.it/centridiraccolta/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "I calendari per le attività non prevedono il ritiro degli ingombranti a domicilio: chiedere al numero verde 800 654300 se il servizio è ammesso e a quali condizioni.",
+    "In alternativa le attività possono portare al centro di raccolta solo rifiuti urbani ammessi, con prenotazione obbligatoria e tessera dedicata."
+   ],
+   "regole_en": [
+    "Business calendars do not include home pickup of bulky waste: ask 800 654300. Collection centres require booking and a business card."
+   ]
   }
  ]
 }

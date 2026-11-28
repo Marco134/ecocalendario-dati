@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "comune": "Peveragno",
+ "provincia": "CN",
+ "gestore": "CEC – San Germano / Iren Ambiente",
+ "zona": "Attività",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre entro le 9:00 del mattino del giorno di raccolta. Solo sacchi e contenitori forniti.",
+ "esposizione_entro": "09:00",
+ "fonte": "Calendario 2026 per utenze non domestiche – https://cecrifiuti.it/wp-content/uploads/2025/12/Peveragno-calendario-2026-UND.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato"
+  ],
+  "2026-11-30": [
+   "carta"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-07": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "plastica"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "indifferenziato"
+  ],
+  "2026-12-14": [
+   "carta"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-21": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-26": [
+   "indifferenziato"
+  ],
+  "2026-12-28": [
+   "carta"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Organico nei contenitori stradali.",
+  "Vetro nei contenitori stradali.",
+  "Carta e cartoni per bevande il lunedì; cartone il mercoledì, ogni settimana.",
+  "Il gestore indica che le raccolte nei giorni festivi si svolgono regolarmente.",
+  "Centro di raccolta: per le attività accesso solo su prenotazione (prenotazioni.cec-cuneo.it) con la tessera dedicata e iscrizione all’Albo Gestori Ambientali."
+ ]
+}
