@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "comune": "Zandobbio",
+ "provincia": "BG",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti non prima delle ore 20.00 del giorno precedente la raccolta e comunque entro le ore 6.00 del giorno stesso.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 – https://mycity.s3.sbg.io.cloud.ovh.net/4885077/CALENDARIO-2026.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "plastica"
+  ],
+  "2026-12-03": [
+   "indifferenziato"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "plastica"
+  ],
+  "2026-12-10": [
+   "indifferenziato"
+  ],
+  "2026-12-11": [
+   "vetro"
+  ],
+  "2026-12-12": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "plastica"
+  ],
+  "2026-12-17": [
+   "indifferenziato"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-23": [
+   "plastica",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "indifferenziato"
+  ],
+  "2026-12-26": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "plastica"
+  ],
+  "2026-12-31": [
+   "indifferenziato"
+  ]
+ },
+ "note": [
+  "Date riportate giorno per giorno nel calendario comunale 2026."
+ ]
+}

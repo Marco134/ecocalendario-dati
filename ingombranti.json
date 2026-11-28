@@ -6009,6 +6009,44 @@
       "regole_en": [
         "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
       ]
+    },
+    {
+      "id": "servizi-comunali-bagnatica",
+      "nome": "Servizi Comunali · Bagnatica",
+      "gestori": [],
+      "comuni": [
+        "bagnatica"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://comune.bagnatica.bg.it/wp-content/uploads/2026/01/Calendario-Rifiuti-2026-1.pdf",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Per gli ingombranti verificare sul sito del gestore (rumentologo.it) o al centro di raccolta comunale."
+      ],
+      "regole_en": [
+        "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
+      ]
+    },
+    {
+      "id": "servizi-comunali-zandobbio",
+      "nome": "Servizi Comunali · Zandobbio",
+      "gestori": [],
+      "comuni": [
+        "zandobbio"
+      ],
+      "telefono": "800452616",
+      "prenota_url": null,
+      "prenotazione": false,
+      "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4885077/CALENDARIO-2026.pdf",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Per gli ingombranti verificare sul sito del gestore (rumentologo.it) o al centro di raccolta comunale."
+      ],
+      "regole_en": [
+        "For bulky waste check the operator website (rumentologo.it) or the municipal collection centre."
+      ]
     }
   ]
 }

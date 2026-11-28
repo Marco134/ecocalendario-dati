@@ -1,0 +1,66 @@
+{
+ "schema": 1,
+ "comune": "Bagnatica",
+ "provincia": "BG",
+ "gestore": "Servizi Comunali S.p.A.",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Il servizio di raccolta inizia alle ore 6.00: collocare sacchi e contenitori sul ciglio stradale entro tale orario nel giorno di raccolta oppure già dalla sera precedente, dopo le ore 20.00.",
+ "esposizione_entro": "06:00",
+ "fonte": "Calendario raccolta differenziata 2026 – https://comune.bagnatica.bg.it/wp-content/uploads/2026/01/Calendario-Rifiuti-2026-1.pdf",
+ "raccolte": {
+  "2026-11-28": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "organico"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "indifferenziato"
+  ],
+  "2026-12-09": [
+   "organico"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "organico"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "organico"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-26": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "organico"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Pannolini e pannoloni: ritirati il sabato insieme al secco.",
+  "Piattaforma ecologica di via Martin Luther King (orario invernale: martedì 9–11.30, giovedì 14–17.30, sabato 9–11.30 e 13.30–17.30; il lunedì mattina solo per le attività produttive)."
+ ]
+}

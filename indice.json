@@ -1107,6 +1107,22 @@
       ]
     },
     {
+      "id": "bagnatica",
+      "nome": "Bagnatica",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.6637,
+      "lon": 9.7814,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bagnatica/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bagnolo-cremasco",
       "nome": "Bagnolo Cremasco",
       "provincia": "CR",
@@ -21464,6 +21480,22 @@
           "nome": "Raccolta stradale (Eco-Punti)",
           "file": "comuni/volvera/zona-unica.json",
           "valido_al": "2099-12-31"
+        }
+      ]
+    },
+    {
+      "id": "zandobbio",
+      "nome": "Zandobbio",
+      "provincia": "BG",
+      "gestore": "Servizi Comunali S.p.A.",
+      "lat": 45.6865,
+      "lon": 9.8524,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/zandobbio/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },

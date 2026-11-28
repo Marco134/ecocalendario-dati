@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1357,
+ "totale": 1359,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14447,6 +14447,26 @@
    "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4879553/GRASSOBBIO_2026.pdf",
    "verificato": "2026-11-28",
    "nota": "Il calendario indica per le utenze non domestiche il «Badge (tessera apposita), per l’utenza non domestica», con cui si ritirano i sacchi; l’organico dei ristoranti si raccoglie tutti i martedì e i sabati (riquadro rosso)."
+  },
+  {
+   "id": "bagnatica",
+   "nome": "Bagnatica",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "stato": "scheda_informativa",
+   "fonte": "https://comune.bagnatica.bg.it/wp-content/uploads/2026/01/Calendario-Rifiuti-2026-1.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario 2026 non dice se il porta a porta vale per le attività (cita le utenze non domestiche solo per gli orari del centro di raccolta). Verificare sul sito del gestore."
+  },
+  {
+   "id": "zandobbio",
+   "nome": "Zandobbio",
+   "provincia": "BG",
+   "gestore": "Servizi Comunali S.p.A.",
+   "stato": "scheda_informativa",
+   "fonte": "https://mycity.s3.sbg.io.cloud.ovh.net/4885077/CALENDARIO-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Il calendario 2026 non dice se il porta a porta vale per le attività (cita le utenze non domestiche solo per gli orari del centro di raccolta). Verificare sul sito del gestore."
   }
  ]
 }
