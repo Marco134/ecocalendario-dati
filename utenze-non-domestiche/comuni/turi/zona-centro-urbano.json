@@ -1,0 +1,122 @@
+{
+ "schema": 1,
+ "comune": "Turi",
+ "provincia": "BA",
+ "gestore": "Teknoservice S.r.l.",
+ "zona": "Attività · centro urbano",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Turi-1.pdf | https://www.teknoserviceitalia.com/puglia/bari/turi/",
+ "raccolte": {
+  "2026-11-28": [
+   "organico",
+   "vetro"
+  ],
+  "2026-11-30": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-01": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-02": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-05": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-07": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-09": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-12": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-14": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-15": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-16": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "indifferenziato",
+   "organico"
+  ],
+  "2026-12-19": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-21": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-22": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-23": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-29": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-30": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Il giro degli imballaggi di cartone è separato. Esporre dalla domenica al venerdì sera secondo la tabella ordinaria.",
+  "Festivi dell’8, 25 e 26 dicembre da confermare."
+ ],
+ "esposizione": "Il PDF indica dalle 22:00 della sera precedente alle 05:00 del ritiro. La pagina del gestore indica un inizio alle 21:00.",
+ "esposizione_entro": "05:00"
+}

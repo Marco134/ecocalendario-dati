@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Sammichele di Bari",
+ "provincia": "BA",
+ "gestore": "Gestore da confermare",
+ "zona": "Servizio domestico · informazioni",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://junker.blob.core.windows.net/extrainfo/sammichele_domestiche.pdf | https://differenziata.junker.app/sammichele-di-bari",
+ "raccolte": {},
+ "note": [
+  "Il portale cittadino rimanda a Junker. Il PDF reperito riporta MSA, mentre un annuncio di ottobre 2026 cita Raccolgo. Confermare il calendario e i contatti correnti."
+ ],
+ "info": "Il portale cittadino rimanda a Junker. Il PDF reperito riporta MSA, mentre un annuncio di ottobre 2026 cita Raccolgo. Confermare il calendario e i contatti correnti.",
+ "info_en": "Confirm the current collection schedule and your address with the service provider."
+}

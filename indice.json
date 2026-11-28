@@ -24729,6 +24729,132 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "acquaviva-delle-fonti",
+      "nome": "Acquaviva delle Fonti",
+      "provincia": "BA",
+      "gestore": "Si.Eco S.p.A.",
+      "consorzio": "aroba5-acquaviva-delle-fonti",
+      "lat": 40.897829,
+      "lon": 16.842487,
+      "zone_url": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A048",
+      "zone": [
+        {
+          "id": "servizio",
+          "nome": "Zone A, B, centro storico, extraurbano",
+          "file": "comuni/acquaviva-delle-fonti/zona-servizio.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "casamassima",
+      "nome": "Casamassima",
+      "provincia": "BA",
+      "gestore": "Navita S.r.l.",
+      "consorzio": "aroba5-casamassima",
+      "lat": 40.957131,
+      "lon": 16.920388,
+      "zone_url": "https://www.navita.it/casamassima/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/casamassima/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "extraurbano",
+          "nome": "Extraurbano",
+          "file": "comuni/casamassima/zona-extraurbano.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "gioia-del-colle",
+      "nome": "Gioia del Colle",
+      "provincia": "BA",
+      "gestore": "Navita S.r.l.",
+      "consorzio": "aroba5-gioia-del-colle",
+      "lat": 40.796728,
+      "lon": 16.92359,
+      "zone_url": "https://www.navita.it/wp-content/uploads/2025/05/Gioia-del-Colle-calendari-di-raccolta-agg.-21_05_2025.pdf",
+      "zone": [
+        {
+          "id": "zona-1-cs",
+          "nome": "Zona 1 e centro storico",
+          "file": "comuni/gioia-del-colle/zona-zona-1-cs.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-2",
+          "nome": "Zona 2",
+          "file": "comuni/gioia-del-colle/zona-zona-2.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "zona-3",
+          "nome": "Zona 3",
+          "file": "comuni/gioia-del-colle/zona-zona-3.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-3a",
+          "nome": "Case sparse · 3A",
+          "file": "comuni/gioia-del-colle/zona-case-sparse-3a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse-3b",
+          "nome": "Case sparse · 3B",
+          "file": "comuni/gioia-del-colle/zona-case-sparse-3b.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "sammichele-di-bari",
+      "nome": "Sammichele di Bari",
+      "provincia": "BA",
+      "gestore": "Gestore da confermare",
+      "consorzio": "aroba5-sammichele-di-bari",
+      "lat": 40.887987,
+      "lon": 16.949456,
+      "zone_url": "https://differenziata.junker.app/sammichele-di-bari",
+      "zone": [
+        {
+          "id": "servizio",
+          "nome": "Servizio domestico · informazioni",
+          "file": "comuni/sammichele-di-bari/zona-servizio.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "turi",
+      "nome": "Turi",
+      "provincia": "BA",
+      "gestore": "Teknoservice S.r.l.",
+      "consorzio": "aroba5-turi",
+      "lat": 40.917331,
+      "lon": 17.021191,
+      "zone_url": "https://www.teknoserviceitalia.com/puglia/bari/turi/",
+      "zone": [
+        {
+          "id": "centro-urbano",
+          "nome": "Centro urbano",
+          "file": "comuni/turi/zona-centro-urbano.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "case-sparse",
+          "nome": "Case sparse · informazioni",
+          "file": "comuni/turi/zona-case-sparse.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -25267,6 +25393,33 @@
       "gestore": "Teknoservice S.r.l. · ARO BA/4",
       "ecocentri": "ecocentri/aroba4-toritto.json",
       "regole": "regole/aroba4-toritto.json"
+    },
+    "aroba5-acquaviva-delle-fonti": {
+      "nome": "ARO BA/5 · Acquaviva delle Fonti",
+      "gestore": "Si.Eco S.p.A.",
+      "ecocentri": "ecocentri/aroba5-acquaviva-delle-fonti.json"
+    },
+    "aroba5-casamassima": {
+      "nome": "ARO BA/5 · Casamassima",
+      "gestore": "Navita S.r.l.",
+      "ecocentri": "ecocentri/aroba5-casamassima.json",
+      "regole": "regole/aroba5-casamassima.json"
+    },
+    "aroba5-gioia-del-colle": {
+      "nome": "ARO BA/5 · Gioia del Colle",
+      "gestore": "Navita S.r.l.",
+      "ecocentri": "ecocentri/aroba5-gioia-del-colle.json",
+      "regole": "regole/aroba5-gioia-del-colle.json"
+    },
+    "aroba5-sammichele-di-bari": {
+      "nome": "ARO BA/5 · Sammichele di Bari",
+      "gestore": "Gestore da confermare"
+    },
+    "aroba5-turi": {
+      "nome": "ARO BA/5 · Turi",
+      "gestore": "Teknoservice S.r.l.",
+      "ecocentri": "ecocentri/aroba5-turi.json",
+      "regole": "regole/aroba5-turi.json"
     }
   },
   "tipi_en": {

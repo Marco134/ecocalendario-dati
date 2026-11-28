@@ -6503,6 +6503,82 @@
    "regole_en": [
     "Business calendars do not include home pickup of bulky waste: ask 800 654300. Collection centres require booking and a business card."
    ]
+  },
+  {
+   "id": "aroba5-acquaviva-delle-fonti-und",
+   "nome": "Acquaviva delle Fonti · UND",
+   "gestori": [],
+   "comuni": [
+    "acquaviva-delle-fonti"
+   ],
+   "telefono": "800 999 531",
+   "fonte": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A048",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba5-casamassima-und",
+   "nome": "Casamassima · UND",
+   "gestori": [],
+   "comuni": [
+    "casamassima"
+   ],
+   "telefono": "800 098 563",
+   "fonte": "https://www.navita.it/wp-content/uploads/2025/07/Prenotazione-ritiro-rifiuti-ingombranti-Casamassima.pdf",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba5-gioia-del-colle-und",
+   "nome": "Gioia del Colle · UND",
+   "gestori": [],
+   "comuni": [
+    "gioia-del-colle"
+   ],
+   "telefono": "800 098 563",
+   "fonte": "https://www.navita.it/wp-content/uploads/2024/10/GIOIA_prenotazione_ritiro_dei_rifiuti_ingombranti.pdf",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
+  },
+  {
+   "id": "aroba5-turi-und",
+   "nome": "Turi · UND",
+   "gestori": [],
+   "comuni": [
+    "turi"
+   ],
+   "telefono": "800 615 622",
+   "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Turi-1.pdf",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Contattare il gestore per verificare i conferimenti ammessi per l’attività."
+   ],
+   "regole_en": [
+    "Contact the operator for access and booking conditions."
+   ]
   }
  ]
 }

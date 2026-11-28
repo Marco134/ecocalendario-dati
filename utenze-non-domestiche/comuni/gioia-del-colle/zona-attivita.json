@@ -1,0 +1,116 @@
+{
+ "schema": 1,
+ "comune": "Gioia del Colle",
+ "provincia": "BA",
+ "gestore": "Navita S.r.l.",
+ "zona": "Attività · calendario ordinario",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.navita.it/wp-content/uploads/2025/05/Gioia-del-Colle-calendari-di-raccolta-agg.-21_05_2025.pdf | https://www.navita.it/gioia-del-colle/",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-02": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-04": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-10": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-11": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-16": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-18": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-23": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-24": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato",
+   "organico",
+   "vetro"
+  ],
+  "2026-12-30": [
+   "carta",
+   "organico"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Imballaggi di cartone in un giro dedicato da lunedì a sabato. Verificare con Navita l’estensione alle case sparse.",
+  "Festivi dell’8, 25 e 26 dicembre da confermare."
+ ],
+ "esposizione": "Esporre dalle 21:00 alle 24:00 del giorno precedente."
+}

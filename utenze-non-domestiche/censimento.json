@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1205,
+ "totale": 1210,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12893,6 +12893,66 @@
    "nota": "Verificare il giovedì di riferimento del vetro UND a Quasano e il calendario delle attività fuori dal centro. La griglia UND rimanda alla chiusura dell’esercizio, la pagina alle 21:00–05:00. Festivi UND da confermare.",
    "valido_al": "2026-12-31",
    "zone_und": 2
+  },
+  {
+   "id": "acquaviva-delle-fonti",
+   "nome": "Acquaviva delle Fonti",
+   "provincia": "BA",
+   "gestore": "Si.Eco S.p.A.",
+   "stato": "scheda_informativa",
+   "fonte": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A048",
+   "verificato": "2026-11-28",
+   "nota": "Ottenere il foglio corrente CALENDARIO RITIRI indicato nella trasparenza TARI. Il download ha risposto 403. I PDF ARO del 2017 sono conservati come riferimenti storici.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "casamassima",
+   "nome": "Casamassima",
+   "provincia": "BA",
+   "gestore": "Navita S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.navita.it/casamassima/",
+   "verificato": "2026-11-28",
+   "nota": "Confermare i turni dell’8, 25 e 26 dicembre, in particolare la plastica extraurbana del quarto venerdì. Acquisire eventuali revisioni 2027.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "gioia-del-colle",
+   "nome": "Gioia del Colle",
+   "provincia": "BA",
+   "gestore": "Navita S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.navita.it/gioia-del-colle/",
+   "verificato": "2026-11-28",
+   "nota": "Il PDF 2026 delle case sparse indica le date per le zone 3A e 3B. Per i turni ordinari urbani UD e per UND confermare festivi e copertura delle attività extraurbane. Acquisire il nuovo PDF dell’agro 2027.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "sammichele-di-bari",
+   "nome": "Sammichele di Bari",
+   "provincia": "BA",
+   "gestore": "Gestore da confermare",
+   "stato": "scheda_informativa",
+   "fonte": "https://differenziata.junker.app/sammichele-di-bari",
+   "verificato": "2026-11-28",
+   "nota": "Verificare con il Comune affidamento, recapiti, orari CCR e calendari effettivi UD e UND. La pagina MSA è attiva, ma una fonte locale del 5 ottobre 2026 cita Raccolgo.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
+  },
+  {
+   "id": "turi",
+   "nome": "Turi",
+   "provincia": "BA",
+   "gestore": "Teknoservice S.r.l.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.teknoserviceitalia.com/puglia/bari/turi/",
+   "verificato": "2026-11-28",
+   "nota": "Confermare giorni di ritiro delle case sparse, festivi, eventuale fascia di esposizione aggiornata e calendario 2027. Il PDF indica dalle 22 alle 05 e la pagina del gestore dalle 21 alle 05.",
+   "valido_al": "2026-12-31",
+   "zone_und": 1
   }
  ]
 }

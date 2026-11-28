@@ -5368,6 +5368,82 @@
       "regole_en": [
         "Contact the operator for access and booking conditions."
       ]
+    },
+    {
+      "id": "aroba5-acquaviva-delle-fonti",
+      "nome": "Acquaviva delle Fonti · UD",
+      "gestori": [],
+      "comuni": [
+        "acquaviva-delle-fonti"
+      ],
+      "telefono": "800 999 531",
+      "fonte": "https://www.trasparenzatari.it/trasparenzatari/?COMUNE=A048",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Chiedere al servizio Si.Eco per il ritiro e le condizioni. Il portale TARI pubblica il modulo comunale."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba5-casamassima",
+      "nome": "Casamassima · UD",
+      "gestori": [],
+      "comuni": [
+        "casamassima"
+      ],
+      "telefono": "800 098 563",
+      "fonte": "https://www.navita.it/wp-content/uploads/2025/07/Prenotazione-ritiro-rifiuti-ingombranti-Casamassima.pdf",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Prenotare il ritiro con Navita al numero verde. Concordare limiti, tipologia e modalità di esposizione."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba5-gioia-del-colle",
+      "nome": "Gioia del Colle · UD",
+      "gestori": [],
+      "comuni": [
+        "gioia-del-colle"
+      ],
+      "telefono": "800 098 563",
+      "fonte": "https://www.navita.it/wp-content/uploads/2024/10/GIOIA_prenotazione_ritiro_dei_rifiuti_ingombranti.pdf",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Prenotare con Navita al numero verde, via e-mail a info@navita.it o con l’app del gestore."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
+    },
+    {
+      "id": "aroba5-turi",
+      "nome": "Turi · UD",
+      "gestori": [],
+      "comuni": [
+        "turi"
+      ],
+      "telefono": "800 615 622",
+      "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Turi-1.pdf",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Prenotare il ritiro di ingombranti e RAEE. Concordare la data e mettere il materiale presso il civico indicato."
+      ],
+      "regole_en": [
+        "Contact the operator for access and booking conditions."
+      ]
     }
   ]
 }

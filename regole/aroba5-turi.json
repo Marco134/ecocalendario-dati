@@ -1,0 +1,507 @@
+{
+ "schema": 1,
+ "nome": "Turi · Guida ai materiali",
+ "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Turi-1.pdf",
+ "voci": {
+  "accendino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "addobbo natalizio sintetico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "adesivo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "assorbente": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "astuccio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "attaccapanni": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bambola": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bandiera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "barattolo in vetro (vuoto e pulito)": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bastoncino per la pulizia delle orecchie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "batuffolo di cotone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bende, garze (origine domestica)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "biberon": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bicchiere in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bigiotteria": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "biglia in vetro o plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bigodini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "biro": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "blister in plastica e alluminio accoppiati": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bottiglia in vetro (vuota e pulita)": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "bottone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "busta in materiale accopiato": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "calamita": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "calze e collant": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "calzino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "candela": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "cannuccia per bibita": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta carbone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta cerata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta chimica (scontrino)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta forno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta oleata per alimenti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta plastificata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta unta, sporca di colla o altre sostanze": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "carta vetrata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "cassetta audio e video": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "cera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "ceramica (piccole quantità)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "cerino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "cerotto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "chiodo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "ciabatta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "colori a olio/tempera/acrilici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "damigiana senza protezione": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "dentiera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "diapositiva": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "dischetto per computer": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "disco in vinile": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "dvd (disco)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "elastico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "escrementi di animali domestici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "etichetta adesiva": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "etichetta di indumenti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "evidenziatore": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "fazzoletto di stoffa": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "federa": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "feltrino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "fiala in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "fiammifero": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "filo interdentale": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "fiore finto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "gomma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "gomma da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "gommapiuma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "guarnizione in gomma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "guscio salvatelecomando": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "imballaggio in vetro (pulito)": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "incenso": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "laccio per scarpe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "lametta usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "lente di ingrandimento": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "lente di occhiali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "lucida-scarpe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "lumini votivi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "maglieria in cattivo stato": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "manico in legno o plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "matita": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "metro in plastica o legno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "molletta in plastica, legno": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "mozzicone di sigaretta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "musicassetta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "nastro adesivo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "nastro per regali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "negativo fotografico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "occhiale (lente)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "occhiale (montatura)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "orologio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "ovatta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "palloncino gonfiabile": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "panno elettrostatico per la polvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "pasta abrasiva": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "pelle di camoscio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "pellicola fotografica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "pennarello": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "pettine in legno o plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "piastrina per zanzare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "polvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "preservativo - profilattico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "profumo (contenitore vuoto)": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "punti metallici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "radiografie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "rafia sintetica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "rasoio usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "righello": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "rossetto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "rullino fotografico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "sacchetto per alimenti in materiale poliaccoppiato": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "sacchetto per aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "sapone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "scontrini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "sigaretta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "smalto per unghie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "soletta per scarpe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "spazzola": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "spazzolino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "spugna": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "tazzina in ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "tovagliolo in carta sporco di altre sostanze": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "trucchi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "tubetto di colore": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "tubetto di dentifricio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "unghia finta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "vaso in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  },
+  "videocassetta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire il calendario e le modalità della propria utenza."
+  }
+ }
+}

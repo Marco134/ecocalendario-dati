@@ -1,0 +1,46 @@
+{
+ "schema": 1,
+ "comune": "Gioia del Colle",
+ "provincia": "BA",
+ "gestore": "Navita S.r.l.",
+ "zona": "Case sparse · 3B",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.navita.it/wp-content/uploads/2026/01/Gioia-del-Colle-Calendario-Case-Sparse-_ITA-ENG_2026.pdf | https://www.navita.it/gioia-del-colle/",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "plastica"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "vetro"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "plastica"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "vetro"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "plastica"
+  ]
+ },
+ "note": [
+  "Seguire le date esatte della tabella 2026."
+ ],
+ "esposizione": "Esporre dalle 21:00 alle 24:00 del giorno precedente."
+}

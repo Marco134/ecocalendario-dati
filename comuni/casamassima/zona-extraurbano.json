@@ -1,0 +1,38 @@
+{
+ "schema": 1,
+ "comune": "Casamassima",
+ "provincia": "BA",
+ "gestore": "Navita S.r.l.",
+ "zona": "Extraurbano",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.navita.it/wp-content/uploads/2025/07/Calendari-UD-UND-Casamassima.pdf | https://www.navita.it/casamassima/",
+ "raccolte": {
+  "2026-12-07": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "carta"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-14": [
+   "vetro"
+  ],
+  "2026-12-21": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "carta"
+  ],
+  "2026-12-28": [
+   "vetro"
+  ]
+ },
+ "note": [
+  "Usare le pattumelle in dotazione e i sacchi gialli per plastica e metalli.",
+  "Festivi dell’8, 25 e 26 dicembre da confermare."
+ ],
+ "esposizione": "Esporre dalle 21:00 alle 24:00 del giorno precedente."
+}

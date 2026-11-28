@@ -1,0 +1,16 @@
+{
+ "schema": 1,
+ "comune": "Sammichele di Bari",
+ "provincia": "BA",
+ "gestore": "Gestore da confermare",
+ "zona": "Attività · informazioni",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://junker.blob.core.windows.net/extrainfo/sammichele_non_domestiche.pdf | https://differenziata.junker.app/sammichele-di-bari",
+ "raccolte": {},
+ "note": [
+  "Il prospetto reperito riporta MSA. Prima di usare i turni e il giro del cartone, chiedere conferma al Comune o consultare il portale cittadino."
+ ],
+ "info": "Il prospetto reperito riporta MSA. Prima di usare i turni e il giro del cartone, chiedere conferma al Comune o consultare il portale cittadino.",
+ "info_en": "Confirm the current collection schedule and your address with the service provider."
+}
