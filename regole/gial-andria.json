@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "nome": "Andria · Materiali",
-  "fonte": "https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Calendario-UD-Zona-1.pdf",
+  "fonte": "https://gialambiente.it/wp-content/uploads/2024/07/ANDRIA-Calendario-UD-Zona-1.pdf | https://www.comune.andria.bt.it/it/garbage-glossary",
   "voci": {
     "scarti di frutta e verdura": {
       "dove": "organico",
@@ -75,14 +75,6 @@
       "dove": "plastica",
       "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
     },
-    "cartoni per bevande": {
-      "dove": "plastica",
-      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
-    },
-    "tetrapak": {
-      "dove": "plastica",
-      "nota": "Ad Andria il prospetto Gial li indica con plastica e metalli."
-    },
     "bottiglie di vetro": {
       "dove": "vetro",
       "nota": "Seguire le modalità della propria utenza."
@@ -100,10 +92,6 @@
       "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
     },
     "carta da forno": {
-      "dove": "indifferenziato",
-      "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
-    },
-    "bicchieri di vetro": {
       "dove": "indifferenziato",
       "nota": "Per pannolini e pannoloni verificare anche il servizio dedicato."
     },
