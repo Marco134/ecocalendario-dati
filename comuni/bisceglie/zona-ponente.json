@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Bisceglie",
+  "provincia": "BT",
+  "gestore": "Teknoservice",
+  "zona": "Ponente, Sant’Andrea e Centro Storico",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/02/UD-ZONA-PONENTE_compressed-01.pdf | https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+  "raccolte": {},
+  "note": [
+    "Le indicazioni riguardano il servizio. Consultare Teknoservice per le date di ritiro e le variazioni festive."
+  ],
+  "info": "La guida disponibile indica le sere di esposizione a partire dal 1° giugno 2023. Per le variazioni o il calendario datato contattare Teknoservice.",
+  "info_en": "Service information. Check current dates and holiday changes with the operator.",
+  "esposizione": "Dalle 21:00 alle 24:00 della sera precedente al ritiro."
+}

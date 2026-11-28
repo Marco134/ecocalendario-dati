@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1321,
+ "totale": 1322,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14073,6 +14073,18 @@
    "fonte": "https://www.apricaspa.it/it/como",
    "verificato": "2026-11-28",
    "nota": "Calendari 2026 per le attività: Città turistica (con vetro extra il venerdì) e Città Murata commerciali (plastica e carta). Negli altri quartieri il calendario domestico non indica le attività: verificare sul sito del gestore."
+  },
+  {
+   "id": "bisceglie",
+   "nome": "Bisceglie",
+   "provincia": "BT",
+   "gestore": "Teknoservice",
+   "stato": "scheda_informativa",
+   "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/09/UND-BISCEGLIE.pdf | https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+   "verificato": "2026-11-28",
+   "valido_al": "2026-12-31",
+   "zone_und": 2,
+   "nota": "Applicabilità food e non food verificata. Il prospetto riporta le sere di esposizione dal 1° giugno 2023, senza una griglia datata per dicembre 2026 o variazioni festive. Acquisire il calendario del periodo."
   }
  ]
 }

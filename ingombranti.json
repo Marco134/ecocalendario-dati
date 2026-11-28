@@ -5736,6 +5736,26 @@
       "regole_en": [
         "Bulky waste: Via Goltara 23 platform or book with Aprica on 800 437678."
       ]
+    },
+    {
+      "id": "teknoservice-bisceglie",
+      "nome": "Teknoservice · Bisceglie",
+      "gestori": [],
+      "comuni": [
+        "bisceglie"
+      ],
+      "telefono": "800 032 488",
+      "fonte": "https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Prenotare il ritiro gratuito a domicilio per una quantità limitata di pezzi e concordare l’esposizione al livello del marciapiede.",
+        "Verificare con il gestore le condizioni per RAEE, attività e utenze dell’agro."
+      ],
+      "regole_en": [
+        "Book free curbside pickup for a limited number of bulky items. Check eligibility and quantity with the operator."
+      ]
     }
   ]
 }

@@ -26399,6 +26399,30 @@
     }
    ],
    "zone_url": "https://www.ambienteservizi.net/comuni/zoppola"
+  },
+  {
+   "id": "bisceglie",
+   "nome": "Bisceglie",
+   "provincia": "BT",
+   "gestore": "Teknoservice",
+   "consorzio": "teknoservice-bisceglie-und",
+   "lat": 41.242445,
+   "lon": 16.502499,
+   "zone_url": "https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+   "zone": [
+    {
+     "id": "food",
+     "nome": "Attività alimentari · Food",
+     "file": "comuni/bisceglie/zona-food.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "no-food",
+     "nome": "Attività non alimentari · Non food",
+     "file": "comuni/bisceglie/zona-no-food.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -27254,6 +27278,12 @@
    "gestore": "Gial Ambiente",
    "ecocentri": "ecocentri/gial-andria-und.json",
    "regole": "regole/gial-andria-und.json"
+  },
+  "teknoservice-bisceglie-und": {
+   "nome": "Teknoservice · Bisceglie",
+   "gestore": "Teknoservice",
+   "ecocentri": "ecocentri/teknoservice-bisceglie-und.json",
+   "regole": "regole/teknoservice-bisceglie-und.json"
   }
  }
 }

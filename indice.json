@@ -27003,6 +27003,36 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "bisceglie",
+      "nome": "Bisceglie",
+      "provincia": "BT",
+      "gestore": "Teknoservice",
+      "consorzio": "teknoservice-bisceglie",
+      "lat": 41.242445,
+      "lon": 16.502499,
+      "zone_url": "https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+      "zone": [
+        {
+          "id": "levante",
+          "nome": "Levante, Seminario, Zona 167 e Zona Industriale",
+          "file": "comuni/bisceglie/zona-levante.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "ponente",
+          "nome": "Ponente, Sant’Andrea e Centro Storico",
+          "file": "comuni/bisceglie/zona-ponente.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "agro",
+          "nome": "Agro comunale · Ecoisole",
+          "file": "comuni/bisceglie/zona-agro.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -27598,6 +27628,12 @@
       "gestore": "Gial Ambiente",
       "ecocentri": "ecocentri/gial-andria.json",
       "regole": "regole/gial-andria.json"
+    },
+    "teknoservice-bisceglie": {
+      "nome": "Teknoservice · Bisceglie",
+      "gestore": "Teknoservice",
+      "ecocentri": "ecocentri/teknoservice-bisceglie.json",
+      "regole": "regole/teknoservice-bisceglie.json"
     }
   },
   "tipi_en": {

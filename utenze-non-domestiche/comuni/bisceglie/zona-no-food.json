@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Bisceglie",
+  "provincia": "BT",
+  "gestore": "Teknoservice",
+  "zona": "Attività non alimentari · Non food",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://teknoserviceitalia.b-cdn.net/wp-content/uploads/2026/09/UND-BISCEGLIE.pdf | https://www.teknoserviceitalia.com/puglia/barletta-andria-trani/bisceglie/",
+  "raccolte": {},
+  "note": [
+    "Le indicazioni riguardano il servizio. Consultare Teknoservice per le date di ritiro e le variazioni festive."
+  ],
+  "info": "La guida distingue il giro degli imballaggi di cartone per le attività non alimentari. Per organico e vetro il gestore indica il CCR. Chiedere l’abilitazione al centro di via Carrara Salsello e confermare date e deroghe per il proprio indirizzo.",
+  "info_en": "Service information. Check current dates and holiday changes with the operator.",
+  "esposizione": "Il portale del gestore indica dalle 21:00 della sera precedente alle 05:00 del giorno di raccolta. Il prospetto indica esposizione dopo la chiusura dell’attività. Verificare la fascia applicabile."
+}

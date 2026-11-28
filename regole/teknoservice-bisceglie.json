@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "nome": "Bisceglie · Materiali",
+  "fonte": "https://www.teknoserviceitalia.com/wp-content/uploads/2025/03/Differenziario-Bisceglie_Ft-online_compressed-1-.pdf",
+  "voci": {
+    "scarti di frutta e verdura": {
+      "dove": "organico",
+      "nota": "Seguire il circuito organico della propria zona."
+    },
+    "ossi (avanzi di cibo)": {
+      "dove": "organico",
+      "nota": "Seguire il circuito organico della propria zona."
+    },
+    "tetrapak": {
+      "dove": "carta",
+      "nota": "Per gli imballaggi di cartone delle attività seguire il circuito dedicato."
+    },
+    "cartoni per bevande": {
+      "dove": "carta",
+      "nota": "Per gli imballaggi di cartone delle attività seguire il circuito dedicato."
+    },
+    "cartone della pizza pulito": {
+      "dove": "carta",
+      "nota": "Per gli imballaggi di cartone delle attività seguire il circuito dedicato."
+    },
+    "barattoli in metallo": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "barattoli in plastica": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "bottiglie e flaconi in plastica": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "coperchi metallici per barattoli": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "vaschette di plastica o polistirolo per alimenti": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "barattoli in vetro": {
+      "dove": "vetro",
+      "nota": "Seguire il circuito vetro della propria zona."
+    },
+    "bottiglie in vetro": {
+      "dove": "vetro",
+      "nota": "Seguire il circuito vetro della propria zona."
+    },
+    "bicchieri in cristallo": {
+      "dove": "indifferenziato",
+      "nota": "Seguire le modalità locali per il secco residuo."
+    },
+    "cartone della pizza sporco": {
+      "dove": "indifferenziato",
+      "nota": "Seguire le modalità locali per il secco residuo."
+    },
+    "scontrini in carta termica": {
+      "dove": "indifferenziato",
+      "nota": "Seguire le modalità locali per il secco residuo."
+    },
+    "sigarette e sigari": {
+      "dove": "indifferenziato",
+      "nota": "Seguire le modalità locali per il secco residuo."
+    }
+  }
+}
