@@ -3011,12 +3011,19 @@
       "lon": 9.4321,
       "zone": [
         {
-          "id": "unica",
-          "nome": "Zona unica",
-          "file": "comuni/calolziocorte/zona-unica.json",
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/calolziocorte/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/calolziocorte/zona-b.json",
           "valido_al": "2026-12-31"
         }
-      ]
+      ],
+      "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
     },
     {
       "id": "caluso",
@@ -3941,12 +3948,19 @@
       "lon": 9.3156,
       "zone": [
         {
-          "id": "unica",
-          "nome": "Zona unica",
-          "file": "comuni/casatenovo/zona-unica.json",
+          "id": "capoluogo",
+          "nome": "Capoluogo",
+          "file": "comuni/casatenovo/zona-capoluogo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "frazioni",
+          "nome": "Frazioni",
+          "file": "comuni/casatenovo/zona-frazioni.json",
           "valido_al": "2026-12-31"
         }
-      ]
+      ],
+      "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
     },
     {
       "id": "cascinette-d-ivrea",
@@ -6811,6 +6825,23 @@
       ]
     },
     {
+      "id": "dervio",
+      "nome": "Dervio",
+      "provincia": "LC",
+      "gestore": "Silea S.p.A.",
+      "consorzio": "silea",
+      "lat": 46.0758,
+      "lon": 9.3061,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/dervio/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "desenzano-del-garda",
       "nome": "Desenzano del Garda",
       "provincia": "BS",
@@ -7593,12 +7624,19 @@
       "lon": 9.3744,
       "zone": [
         {
-          "id": "unica",
-          "nome": "Zona unica",
-          "file": "comuni/galbiate/zona-unica.json",
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/galbiate/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/galbiate/zona-b.json",
           "valido_al": "2026-12-31"
         }
-      ]
+      ],
+      "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
     },
     {
       "id": "gallese",
@@ -12017,12 +12055,19 @@
       "lon": 9.4103,
       "zone": [
         {
-          "id": "unica",
-          "nome": "Zona unica",
-          "file": "comuni/olginate/zona-unica.json",
+          "id": "a",
+          "nome": "Zona A",
+          "file": "comuni/olginate/zona-a.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "b",
+          "nome": "Zona B",
+          "file": "comuni/olginate/zona-b.json",
           "valido_al": "2026-12-31"
         }
-      ]
+      ],
+      "zone_url": "https://www.sileaspa.it/calendario-raccolta-rifiuti/"
     },
     {
       "id": "oliveto-lario",

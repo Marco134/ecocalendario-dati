@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "comune": "Monte Marenzo",
+ "provincia": "LC",
+ "gestore": "Silea S.p.A.",
+ "zona": "Capoluogo",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esponi i rifiuti la sera prima oppure entro le 5:30 del giorno di ritiro; il passaggio termina di solito entro le 13:30. Sacco viola: multimateriale leggero (plastica e metalli). Variazioni per festività già indicate nel calendario. Info: numero verde Silea 800 004 590.",
+ "esposizione_entro": "05:30",
+ "fonte": "EcoCalendario 2026 Silea – https://www.sileaspa.it/wp-content/uploads/2025/12/MMarenzo-cap-ecocalendario26_web.pdf | Carta della qualità Silea: https://sileaspa.portaletrasparenza.net/download/attachment/2423/o_1h2ffvc9sts36iah811h0ie3hg.pdf",
+ "raccolte": {
+  "2026-11-30": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-01": [
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-07": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-14": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-15": [
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico",
+   "plastica"
+  ],
+  "2026-12-21": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "organico",
+   "carta"
+  ],
+  "2026-12-28": [
+   "organico",
+   "indifferenziato"
+  ],
+  "2026-12-29": [
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico",
+   "plastica"
+  ]
+ },
+ "note": [
+  "Calendario ordinario del Comune. La Carta della qualità Silea (sez. III, punto 2) prevede che ogni utenza esponga i contenitori nei giorni del calendario; per la ristorazione lo svuotamento può essere attivato su chiamata. Servizi aggiuntivi, grandi quantità e rifiuti speciali vanno concordati con Silea (800 004 590).",
+  "Centro di raccolta: per le attività serve il QR code Silea e l’iscrizione all’Albo Gestori Ambientali per i rifiuti ammessi."
+ ]
+}
