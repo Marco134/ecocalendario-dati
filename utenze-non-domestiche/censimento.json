@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1333,
+ "totale": 1339,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14195,6 +14195,66 @@
    "fonte": "https://cloud.municipiumapp.it/s3/4785/allegati/calendario-rifiuti-anno-2026.pdf",
    "verificato": "2026-11-28",
    "nota": "Calendario domestico 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "bagnolo-piemonte",
+   "nome": "Bagnolo Piemonte",
+   "provincia": "CN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-bagnolo-piemonte-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "brossasco",
+   "nome": "Brossasco",
+   "provincia": "CN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-brossasco-piemonte-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "caramagna-piemonte",
+   "nome": "Caramagna Piemonte",
+   "provincia": "CN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-caramagna-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "casalgrasso",
+   "nome": "Casalgrasso",
+   "provincia": "CN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-casalgrasso-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "paesana",
+   "nome": "Paesana",
+   "provincia": "CN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-paesana-2026.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "cavallerleone",
+   "nome": "Cavallerleone",
+   "provincia": "CN",
+   "gestore": "Aprica",
+   "stato": "fonte_individuata",
+   "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-cavallerleone.pdf",
+   "verificato": "2026-11-28",
+   "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
   }
  ]
 }

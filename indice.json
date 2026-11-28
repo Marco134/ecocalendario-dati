@@ -1147,6 +1147,22 @@
       "zone_url": "https://www.apricaspa.it/it/bagnolo-mella"
     },
     {
+      "id": "bagnolo-piemonte",
+      "nome": "Bagnolo Piemonte",
+      "provincia": "CN",
+      "gestore": "Aprica",
+      "lat": 44.7599,
+      "lon": 7.3155,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/bagnolo-piemonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "bagnoregio",
       "nome": "Bagnoregio",
       "provincia": "VT",
@@ -2968,6 +2984,22 @@
       ]
     },
     {
+      "id": "brossasco",
+      "nome": "Brossasco",
+      "provincia": "CN",
+      "gestore": "Aprica",
+      "lat": 44.5703,
+      "lon": 7.3604,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/brossasco/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "brosso",
       "nome": "Brosso",
       "provincia": "TO",
@@ -4006,6 +4038,22 @@
       ]
     },
     {
+      "id": "caramagna-piemonte",
+      "nome": "Caramagna Piemonte",
+      "provincia": "CN",
+      "gestore": "Aprica",
+      "lat": 44.7804,
+      "lon": 7.7412,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/caramagna-piemonte/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
       "id": "carate-brianza",
       "nome": "Carate Brianza",
       "provincia": "MB",
@@ -4460,6 +4508,22 @@
         }
       ],
       "zone_url": "https://www.apricaspa.it/it/casaletto-vaprio"
+    },
+    {
+      "id": "casalgrasso",
+      "nome": "Casalgrasso",
+      "provincia": "CN",
+      "gestore": "Aprica",
+      "lat": 44.8195,
+      "lon": 7.625,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/casalgrasso/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "casalmaiocco",
@@ -5428,6 +5492,22 @@
           "nome": "Zona unica",
           "file": "comuni/cavagnolo/zona-unica.json",
           "valido_al": "2027-01-31"
+        }
+      ]
+    },
+    {
+      "id": "cavallerleone",
+      "nome": "Cavallerleone",
+      "provincia": "CN",
+      "gestore": "Aprica",
+      "lat": 44.7394,
+      "lon": 7.6627,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/cavallerleone/zona-unica.json",
+          "valido_al": "2026-12-31"
         }
       ]
     },
@@ -14099,6 +14179,22 @@
           "id": "unica",
           "nome": "Zona unica",
           "file": "comuni/paderno-franciacorta/zona-unica.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
+    },
+    {
+      "id": "paesana",
+      "nome": "Paesana",
+      "provincia": "CN",
+      "gestore": "Aprica",
+      "lat": 44.6854,
+      "lon": 7.2766,
+      "zone": [
+        {
+          "id": "unica",
+          "nome": "Zona unica",
+          "file": "comuni/paesana/zona-unica.json",
           "valido_al": "2026-12-31"
         }
       ]

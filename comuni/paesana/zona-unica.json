@@ -1,0 +1,49 @@
+{
+ "schema": 1,
+ "comune": "Paesana",
+ "provincia": "CN",
+ "gestore": "Aprica",
+ "zona": "Zona unica",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "esposizione": "Esporre i rifiuti dalle ore 20:00 del giorno precedente ed entro le ore 5:00 del giorno di raccolta, in luogo ben visibile.",
+ "esposizione_entro": "05:00",
+ "fonte": "Calendario della raccolta Aprica (Consorzio CSEA) – https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-paesana-2026.pdf",
+ "raccolte": {
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-03": [
+   "carta"
+  ],
+  "2026-12-08": [
+   "indifferenziato"
+  ],
+  "2026-12-10": [
+   "plastica"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-17": [
+   "carta"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-24": [
+   "plastica"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-31": [
+   "carta"
+  ]
+ },
+ "note": [
+  "Il calendario di fine 2026 riporta carta, plastica e indifferenziato: per organico e vetro verificare sul sito del gestore.",
+  "Isola ecologica di Paesana, via Vecchia di Pratoguglielmo: martedì 13.45–16.45, giovedì 9–12, sabato 8.45–15.45.",
+  "Ingombranti solo su prenotazione: numero verde 800 365552, app PULIamo o apricaspa.it."
+ ]
+}
