@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Barletta",
+  "provincia": "BT",
+  "gestore": "Bar.S.A.",
+  "zona": "Alimentari · Santa Maria e Settefrati",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.barsa.it/wp-content/uploads/2024/08/CALENDARIO_UND_ALIMENTARI_SANTA_MARIA_SETTEFRATI.pdf | https://www.barsa.it/raccolta-differenziata/quando-lo-butto/",
+  "raccolte": {},
+  "note": [
+    "Il prospetto indica l’esposizione. Chiedere al gestore la conferma dei turni e delle variazioni festive di dicembre 2026.",
+    "Per l’organico il prospetto indica tutti i giorni, inclusi i festivi infrasettimanali. Verificare con il gestore le eventuali deroghe per il proprio indirizzo."
+  ],
+  "info": "Il prospetto distingue l’orario del cartone e dà fasce diverse per frazione. Giro del vetro riservato a pub, pizzerie, ristoranti e bar.",
+  "info_en": "Service information. Check the current collection dates with Bar.S.A."
+}

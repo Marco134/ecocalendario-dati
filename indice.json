@@ -27367,6 +27367,36 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "barletta",
+      "nome": "Barletta",
+      "provincia": "BT",
+      "gestore": "Bar.S.A.",
+      "consorzio": "barsa-barletta",
+      "lat": 41.32,
+      "lon": 16.28,
+      "zone_url": "https://www.barsa.it/raccolta-differenziata/quando-lo-butto/",
+      "zone": [
+        {
+          "id": "centro-storico",
+          "nome": "Centro storico",
+          "file": "comuni/barletta/zona-centro-storico.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "santa-maria-settefrati",
+          "nome": "Santa Maria e Settefrati Popolari",
+          "file": "comuni/barletta/zona-santa-maria-settefrati.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "patalini-borgovilla",
+          "nome": "Patalini e Borgovilla",
+          "file": "comuni/barletta/zona-patalini-borgovilla.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -27974,6 +28004,12 @@
       "gestore": "AMIU Trani",
       "ecocentri": "ecocentri/amiu-trani.json",
       "regole": "regole/amiu-trani.json"
+    },
+    "barsa-barletta": {
+      "nome": "Bar.S.A. · Barletta",
+      "gestore": "Bar.S.A.",
+      "ecocentri": "ecocentri/barsa-barletta.json",
+      "regole": "regole/barsa-barletta.json"
     }
   },
   "tipi_en": {

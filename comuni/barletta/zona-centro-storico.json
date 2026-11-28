@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "comune": "Barletta",
+  "provincia": "BT",
+  "gestore": "Bar.S.A.",
+  "zona": "Centro storico",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.barsa.it/wp-content/uploads/2024/08/adesivo-centro-storico.png | https://www.barsa.it/raccolta-differenziata/quando-lo-butto/",
+  "raccolte": {},
+  "note": [
+    "Il prospetto indica l’esposizione. Chiedere al gestore la conferma dei turni e delle variazioni festive di dicembre 2026."
+  ],
+  "info": "Esposizione dalle 06:00 alle 08:00 nei giorni riportati. Vetro nelle campane stradali dalle 21:00 alle 24:00 secondo il prospetto.",
+  "info_en": "Service information. Check the current collection dates with Bar.S.A."
+}

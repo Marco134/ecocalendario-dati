@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "nome": "Barletta · Materiali",
+  "fonte": "https://www.barsa.it/wp-content/uploads/2024/08/GLOSSARIO_BARLETTA_WEB.pdf | https://www.barsa.it/raccolta-differenziata/faq/ | https://www.barsa.it/distribuzione-buste-idonee-alla-raccolta-differenziata-2026/ | https://barsa.maggiolicloud.it/PortaleAppalti/it/ppgare_esiti_lista.wp?actionPath=%2FExtStr2%2Fdo%2FFrontEnd%2FEsiti%2Fview.action&codice=G03195&currentFrame=7",
+  "voci": {
+    "scarti di frutta e verdura": {
+      "dove": "organico",
+      "nota": "Seguire le modalità della propria zona o attività."
+    },
+    "avanzi di cibo": {
+      "dove": "organico",
+      "nota": "Seguire le modalità della propria zona o attività."
+    },
+    "giornali e riviste": {
+      "dove": "carta",
+      "nota": "Per il cartone delle attività consultare il circuito dedicato."
+    },
+    "carta da ufficio": {
+      "dove": "carta",
+      "nota": "Per il cartone delle attività consultare il circuito dedicato."
+    },
+    "scatole di cartone pulite": {
+      "dove": "carta",
+      "nota": "Per il cartone delle attività consultare il circuito dedicato."
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro",
+      "nota": "Rimuovere tappi e coperchi. Verificare se l’utenza usa le campane o il giro dedicato."
+    },
+    "vasetti di vetro": {
+      "dove": "vetro",
+      "nota": "Rimuovere tappi e coperchi. Verificare se l’utenza usa le campane o il giro dedicato."
+    },
+    "bottiglie in plastica": {
+      "dove": "plastica",
+      "nota": "Imballaggi in plastica e metalli nel circuito del multimateriale."
+    },
+    "imballaggi in plastica": {
+      "dove": "plastica",
+      "nota": "Imballaggi in plastica e metalli nel circuito del multimateriale."
+    },
+    "lattine": {
+      "dove": "plastica",
+      "nota": "Imballaggi in plastica e metalli nel circuito del multimateriale."
+    },
+    "pannolini": {
+      "dove": "indifferenziato",
+      "nota": "È disponibile un servizio dedicato su richiesta per le utenze aventi diritto."
+    },
+    "pannoloni": {
+      "dove": "indifferenziato",
+      "nota": "È disponibile un servizio dedicato su richiesta per le utenze aventi diritto."
+    },
+    "tetrapak": {
+      "dove": "carta",
+      "nota": "La campagna Bar.S.A. ha spostato il Tetra Pak nella carta. Il bando del gestore del 2026 conferma l’abbinamento carta/Tetra Pak."
+    },
+    "cartoni per bevande": {
+      "dove": "carta",
+      "nota": "La campagna Bar.S.A. ha spostato il Tetra Pak nella carta. Il bando del gestore del 2026 conferma l’abbinamento carta/Tetra Pak."
+    }
+  }
+}

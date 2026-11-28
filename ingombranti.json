@@ -5811,6 +5811,26 @@
       "regole_en": [
         "Households can book free bulky waste and electronic waste pickup. Ask AMIU about access for businesses."
       ]
+    },
+    {
+      "id": "barsa-barletta",
+      "nome": "Bar.S.A. · Barletta",
+      "gestori": [],
+      "comuni": [
+        "barletta"
+      ],
+      "telefono": "0883 304500",
+      "fonte": "https://www.barsa.it/raccolta-differenziata/ritiro-ingombranti/",
+      "prenotazione": true,
+      "prenota_url": null,
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro gratuito su appuntamento tramite GAIA, fino a tre pezzi per utente e chiamata. Esporre secondo le istruzioni ricevute.",
+        "Per la frazione verde chiamare il numero 800 330 433. Verificare limiti, RAEE e condizioni per le attività."
+      ],
+      "regole_en": [
+        "Call GAIA to book free bulky waste pickup for up to three items. Ask Bar.S.A. about garden waste and business eligibility."
+      ]
     }
   ]
 }

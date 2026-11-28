@@ -26503,6 +26503,54 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "barletta",
+   "nome": "Barletta",
+   "provincia": "BT",
+   "gestore": "Bar.S.A.",
+   "consorzio": "barsa-barletta-und",
+   "lat": 41.32,
+   "lon": 16.28,
+   "zone_url": "https://www.barsa.it/raccolta-differenziata/quando-lo-butto/",
+   "zone": [
+    {
+     "id": "food-centro-storico",
+     "nome": "Alimentari · Centro storico",
+     "file": "comuni/barletta/zona-food-centro-storico.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-santa-maria-settefrati",
+     "nome": "Alimentari · Santa Maria e Settefrati",
+     "file": "comuni/barletta/zona-food-santa-maria-settefrati.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-patalini-borgovilla",
+     "nome": "Alimentari · Patalini e Borgovilla",
+     "file": "comuni/barletta/zona-food-patalini-borgovilla.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "non-food-centro-santa-maria-settefrati",
+     "nome": "Non alimentari · Centro storico, Santa Maria e Settefrati",
+     "file": "comuni/barletta/zona-non-food-centro-santa-maria-settefrati.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "non-food-patalini-borgovilla",
+     "nome": "Non alimentari · Patalini e Borgovilla",
+     "file": "comuni/barletta/zona-non-food-patalini-borgovilla.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "industriale",
+     "nome": "Zona Industriale · Attività",
+     "file": "comuni/barletta/zona-industriale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -27370,6 +27418,12 @@
    "gestore": "AMIU Trani",
    "ecocentri": "ecocentri/amiu-trani-und.json",
    "regole": "regole/amiu-trani-und.json"
+  },
+  "barsa-barletta-und": {
+   "nome": "Bar.S.A. · Barletta",
+   "gestore": "Bar.S.A.",
+   "ecocentri": "ecocentri/barsa-barletta-und.json",
+   "regole": "regole/barsa-barletta-und.json"
   }
  }
 }
