@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "nome": "Trani · Materiali",
+  "fonte": "https://amiutrani.it/wp-content/uploads/2020/01/porta-a-porta-food-Differenziario_TRANI_esec-WEB.pdf | https://amiutrani.it/wp-content/uploads/2021/04/Decalogo-Raccolta-Differenziata.pdf | https://amiutrani.it/comunicati-stampa/conferimento-imballaggi-in-vetro-presso-campane-vetro/",
+  "voci": {
+    "fondi di caffè": {
+      "dove": "organico",
+      "nota": "Seguire le istruzioni AMIU per il contenitore dell’organico."
+    },
+    "avanzi di cibo": {
+      "dove": "organico",
+      "nota": "Seguire le istruzioni AMIU per il contenitore dell’organico."
+    },
+    "cartone della pizza sporco": {
+      "dove": "organico",
+      "nota": "Seguire le istruzioni AMIU per il contenitore dell’organico."
+    },
+    "cartoni per bevande": {
+      "dove": "carta",
+      "nota": "Gli imballaggi in cartone delle attività hanno il circuito e l’orario indicati nella scheda AMIU."
+    },
+    "tetrapak": {
+      "dove": "carta",
+      "nota": "Gli imballaggi in cartone delle attività hanno il circuito e l’orario indicati nella scheda AMIU."
+    },
+    "carta da pacchi pulita": {
+      "dove": "carta",
+      "nota": "Gli imballaggi in cartone delle attività hanno il circuito e l’orario indicati nella scheda AMIU."
+    },
+    "cartone della pizza pulito": {
+      "dove": "carta",
+      "nota": "Gli imballaggi in cartone delle attività hanno il circuito e l’orario indicati nella scheda AMIU."
+    },
+    "giornali e riviste": {
+      "dove": "carta",
+      "nota": "Gli imballaggi in cartone delle attività hanno il circuito e l’orario indicati nella scheda AMIU."
+    },
+    "bottiglie di plastica": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "vaschette e pellicole in plastica per alimenti": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "vaschette in polistirolo per alimenti": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "vaschette in alluminio": {
+      "dove": "plastica",
+      "nota": "Raccolta congiunta di plastica e metalli."
+    },
+    "bottiglie in vetro": {
+      "dove": "vetro",
+      "nota": "Imballaggi ammessi anche nelle campane stradali dal 23 novembre 2026."
+    },
+    "vasetti in vetro": {
+      "dove": "vetro",
+      "nota": "Imballaggi ammessi anche nelle campane stradali dal 23 novembre 2026."
+    },
+    "barattoli in vetro": {
+      "dove": "vetro",
+      "nota": "Imballaggi ammessi anche nelle campane stradali dal 23 novembre 2026."
+    },
+    "scontrini fiscali": {
+      "dove": "indifferenziato",
+      "nota": "Conferire nel non riciclabile."
+    },
+    "carta termica": {
+      "dove": "indifferenziato",
+      "nota": "Conferire nel non riciclabile."
+    }
+  }
+}

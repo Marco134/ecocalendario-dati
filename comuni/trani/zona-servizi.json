@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "comune": "Trani",
+  "provincia": "BT",
+  "gestore": "AMIU Trani",
+  "zona": "Servizi e fonti",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://amiutrani.it/wp-content/uploads/2021/05/A3-1-2.pdf | https://amiutrani.it/calendari-porta-a-porta/ | https://amiutrani.it/comunicati-stampa/conferimento-imballaggi-in-vetro-presso-campane-vetro/",
+  "raccolte": {},
+  "note": [
+    "Consultare AMIU per i giorni festivi e i recuperi di dicembre 2026.",
+    "Dal 23 novembre 2026 sono disponibili anche le campane stradali per imballaggi di vetro. Accesso libero durante la fase transitoria. La raccolta porta a porta prosegue. Mappa: https://amiutrani.it/mappa-campane-vetro/"
+  ],
+  "info": "AMIU pubblica lo schema settimanale delle famiglie, valido dal 31 maggio 2021. Esporre dalle 20:00 alle 24:00 della sera precedente ai giorni di ritiro indicati dal gestore.",
+  "info_en": "See the AMIU weekly schedule and check holiday changes with the operator. Glass packaging banks are available in addition to curbside collection."
+}

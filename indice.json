@@ -27349,6 +27349,24 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "trani",
+      "nome": "Trani",
+      "provincia": "BT",
+      "gestore": "AMIU Trani",
+      "consorzio": "amiu-trani",
+      "lat": 41.278,
+      "lon": 16.416,
+      "zone_url": "https://amiutrani.it/calendari-porta-a-porta/",
+      "zone": [
+        {
+          "id": "servizi",
+          "nome": "Servizi e fonti",
+          "file": "comuni/trani/zona-servizi.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -27950,6 +27968,12 @@
       "gestore": "Teknoservice",
       "ecocentri": "ecocentri/teknoservice-bisceglie.json",
       "regole": "regole/teknoservice-bisceglie.json"
+    },
+    "amiu-trani": {
+      "nome": "AMIU Trani",
+      "gestore": "AMIU Trani",
+      "ecocentri": "ecocentri/amiu-trani.json",
+      "regole": "regole/amiu-trani.json"
     }
   },
   "tipi_en": {

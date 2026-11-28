@@ -5791,6 +5791,26 @@
       "regole_en": [
         "Bulky waste pickup by booking only: 800 365552, PULIamo app or apricaspa.it."
       ]
+    },
+    {
+      "id": "amiu-trani",
+      "nome": "AMIU Trani",
+      "gestori": [],
+      "comuni": [
+        "trani"
+      ],
+      "telefono": "800 665155",
+      "fonte": "https://amiutrani.it/comunicati-stampa/nuovo-servizio-amiu-trani-di-prenotazione-whatsapp-per-ritiro-ingombranti-raee/",
+      "prenotazione": true,
+      "prenota_url": "https://wa.me/393463098672",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro gratuito di ingombranti e RAEE per utenze domestiche su prenotazione. WhatsApp 346 3098672, linea fissa 0883 582993 o numero verde. Concordare modalità e quantità con AMIU.",
+        "Per le attività, verificare le condizioni di conferimento al CCR."
+      ],
+      "regole_en": [
+        "Households can book free bulky waste and electronic waste pickup. Ask AMIU about access for businesses."
+      ]
     }
   ]
 }

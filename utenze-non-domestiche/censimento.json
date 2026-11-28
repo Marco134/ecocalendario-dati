@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1339,
+ "totale": 1340,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -14255,6 +14255,18 @@
    "fonte": "https://content.apricaspa.it/sites/default/files/2026-11/calendario-rd-cavallerleone.pdf",
    "verificato": "2026-11-28",
    "nota": "Calendario domestico di fine 2026 pubblicato; il PDF non dice se vale per le attività."
+  },
+  {
+   "id": "trani",
+   "nome": "Trani",
+   "provincia": "BT",
+   "gestore": "AMIU Trani",
+   "stato": "scheda_informativa",
+   "fonte": "https://amiutrani.it/calendari-porta-a-porta/ | https://amiutrani.it/comunicati-stampa/conferimento-imballaggi-in-vetro-presso-campane-vetro/",
+   "verificato": "2026-11-28",
+   "valido_al": "2026-12-31",
+   "zone_und": 1,
+   "nota": "Schema settimanale AMIU e circuito alimentari integrativo su richiesta. Confermare date festive di dicembre 2026 e calendario 2027."
   }
  ]
 }

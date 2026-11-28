@@ -26485,6 +26485,24 @@
     }
    ],
    "zone_url": "https://www.ambienteservizi.net/comuni/zoppola"
+  },
+  {
+   "id": "trani",
+   "nome": "Trani",
+   "provincia": "BT",
+   "gestore": "AMIU Trani",
+   "consorzio": "amiu-trani-und",
+   "lat": 41.278,
+   "lon": 16.416,
+   "zone_url": "https://amiutrani.it/calendari-porta-a-porta/",
+   "zone": [
+    {
+     "id": "servizi",
+     "nome": "Servizi per le attività",
+     "file": "comuni/trani/zona-servizi.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -27346,6 +27364,12 @@
    "gestore": "Teknoservice",
    "ecocentri": "ecocentri/teknoservice-bisceglie-und.json",
    "regole": "regole/teknoservice-bisceglie-und.json"
+  },
+  "amiu-trani-und": {
+   "nome": "AMIU Trani",
+   "gestore": "AMIU Trani",
+   "ecocentri": "ecocentri/amiu-trani-und.json",
+   "regole": "regole/amiu-trani-und.json"
   }
  }
 }
