@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "comune": "Bari",
+ "provincia": "BA",
+ "gestore": "AMIU Puglia S.p.A.",
+ "zona": "Attività · zona industriale, informazioni",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://opendata.comune.bari.it/dataset/ce68ee2b-9537-48bd-b3b0-8e9b69eb84d7 | https://www.amiupuglia.it/bari/calendario-2/",
+ "raccolte": {},
+ "info": "Lo stradario individua 28 vie o tratti per la raccolta porta a porta delle attività in zona industriale. Verificare calendario e frazioni del proprio civico con AMIU.",
+ "info_en": "Check your address and current collection rules with AMIU."
+}

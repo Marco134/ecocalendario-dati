@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "comune": "Bari",
+ "provincia": "BA",
+ "gestore": "AMIU Puglia S.p.A.",
+ "zona": "Attività in zone con raccolta stradale",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.amiupuglia.it/bari/pulizia-della-citta/i-servizi-nel-tuo-quartiere/ | https://www.amiupuglia.it/bari/calendario-2/",
+ "raccolte": {},
+ "info": "Verificare il servizio del civico e le Vie del Cartone. Le attività alimentari possono avere un giro dedicato.",
+ "info_en": "Check your address and current collection rules with AMIU."
+}

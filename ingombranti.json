@@ -5444,6 +5444,25 @@
       "regole_en": [
         "Contact the operator for access and booking conditions."
       ]
+    },
+    {
+      "id": "amiu-bari",
+      "nome": "AMIU Puglia · Bari",
+      "gestori": [],
+      "comuni": [
+        "bari"
+      ],
+      "telefono": "800 011 558",
+      "fonte": "https://www.amiupuglia.it/bari/pulizia-della-citta/i-servizi-nel-tuo-quartiere/",
+      "prenotazione": true,
+      "prenota_url": "https://portalecittadino.amiupuglia.it/",
+      "verificato": "2026-11-28",
+      "regole": [
+        "Ritiro domestico gratuito fino a 3 pezzi e 3 m³. Seguire le indicazioni comunicate con la prenotazione."
+      ],
+      "regole_en": [
+        "Check eligibility and booking conditions with AMIU."
+      ]
     }
   ]
 }

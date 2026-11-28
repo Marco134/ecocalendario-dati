@@ -25151,6 +25151,90 @@
      "valido_al": "2026-12-31"
     }
    ]
+  },
+  {
+   "id": "bari",
+   "nome": "Bari",
+   "provincia": "BA",
+   "gestore": "AMIU Puglia S.p.A.",
+   "consorzio": "amiu-bari-und",
+   "lat": 41.125784,
+   "lon": 16.862029,
+   "zone_url": "https://opendata.comune.bari.it/dataset/ce68ee2b-9537-48bd-b3b0-8e9b69eb84d7",
+   "zone": [
+    {
+     "id": "santo-spirito-palese",
+     "nome": "Non alimentari · Santo Spirito, Palese, Catino e San Pio",
+     "file": "comuni/bari/zona-santo-spirito-palese.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "san-paolo",
+     "nome": "Non alimentari · San Paolo, Parco dei Principi e Ciaky",
+     "file": "comuni/bari/zona-san-paolo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "torre-a-mare",
+     "nome": "Non alimentari · Torre a Mare, San Giorgio e Sant’Anna",
+     "file": "comuni/bari/zona-torre-a-mare.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "carbonara",
+     "nome": "Non alimentari · Carbonara, Ceglie, Loseto e Santa Rita",
+     "file": "comuni/bari/zona-carbonara.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "san-girolamo",
+     "nome": "Non alimentari · San Girolamo, Fesca, San Cataldo, Villaggio del Lavoratore e Stanic",
+     "file": "comuni/bari/zona-san-girolamo.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "picone",
+     "nome": "Non alimentari · Picone e Poggiofranco · vie servite",
+     "file": "comuni/bari/zona-picone.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-torre",
+     "nome": "Alimentari · Torre a Mare, San Giorgio e Sant’Anna",
+     "file": "comuni/bari/zona-food-torre.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-picone-iv",
+     "nome": "Alimentari · IV Municipio e vie servite a Picone",
+     "file": "comuni/bari/zona-food-picone-iv.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-centro",
+     "nome": "Alimentari · circuito Centro, calendario invernale",
+     "file": "comuni/bari/zona-food-centro.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "stradale",
+     "nome": "Attività in zone con raccolta stradale",
+     "file": "comuni/bari/zona-stradale.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "food-nord",
+     "nome": "Alimentari · area nord, informazioni",
+     "file": "comuni/bari/zona-food-nord.json",
+     "valido_al": "2026-12-31"
+    },
+    {
+     "id": "zona-industriale",
+     "nome": "Attività · zona industriale, informazioni",
+     "file": "comuni/bari/zona-zona-industriale.json",
+     "valido_al": "2026-12-31"
+    }
+   ]
   }
  ],
  "consorzi": {
@@ -25977,6 +26061,11 @@
    "nome": "ARO BA/5 · Turi",
    "gestore": "Teknoservice S.r.l.",
    "ecocentri": "ecocentri/aroba5-turi-und.json"
+  },
+  "amiu-bari-und": {
+   "nome": "AMIU Puglia · Bari",
+   "gestore": "AMIU Puglia S.p.A.",
+   "ecocentri": "ecocentri/amiu-bari-und.json"
   }
  }
 }

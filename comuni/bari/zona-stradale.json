@@ -1,0 +1,13 @@
+{
+ "schema": 1,
+ "comune": "Bari",
+ "provincia": "BA",
+ "gestore": "AMIU Puglia S.p.A.",
+ "zona": "Cassonetti stradali e ad accesso controllato",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://www.amiupuglia.it/bari/pulizia-della-citta/i-servizi/servizi-di-istituto/raccolta/ | https://www.amiupuglia.it/bari/calendario-2/",
+ "raccolte": {},
+ "info": "Serve il conferimento nei cassonetti della propria via, con accesso controllato ove indicato. Per il secco AMIU riporta 12:30–22:30 da novembre a marzo e 18:30–22:30 da aprile a ottobre. Verificare orari locali e ordinanze.",
+ "info_en": "Check your address and current collection rules with AMIU."
+}

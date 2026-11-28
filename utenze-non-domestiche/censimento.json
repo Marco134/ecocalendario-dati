@@ -2,7 +2,7 @@
  "schema": 1,
  "aggiornato": "2026-11-28",
  "nota": "Elenco di lavoro derivato dall'indice domestico. Non è un indice per l'app. da_verificare non significa assenza di un calendario UND. Aggiornare con fonte ufficiale e stato dopo ogni verifica.",
- "totale": 1210,
+ "totale": 1211,
  "comuni": [
   {
    "id": "abbadia-lariana",
@@ -12953,6 +12953,18 @@
    "nota": "Confermare giorni di ritiro delle case sparse, festivi, eventuale fascia di esposizione aggiornata e calendario 2027. Il PDF indica dalle 22 alle 05 e la pagina del gestore dalle 21 alle 05.",
    "valido_al": "2026-12-31",
    "zone_und": 1
+  },
+  {
+   "id": "bari",
+   "nome": "Bari",
+   "provincia": "BA",
+   "gestore": "AMIU Puglia S.p.A.",
+   "stato": "calendario_verificato",
+   "fonte": "https://www.amiupuglia.it/bari/calendario-2/",
+   "verificato": "2026-11-28",
+   "nota": "Date per le zone non alimentari e tre circuiti alimentari. Verificare calendario industriale, alimentari a nord, festivi e civico.",
+   "valido_al": "2026-12-31",
+   "zone_und": 12
   }
  ]
 }

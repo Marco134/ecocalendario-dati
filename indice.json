@@ -24855,6 +24855,60 @@
           "valido_al": "2026-12-31"
         }
       ]
+    },
+    {
+      "id": "bari",
+      "nome": "Bari",
+      "provincia": "BA",
+      "gestore": "AMIU Puglia S.p.A.",
+      "consorzio": "amiu-bari",
+      "lat": 41.125784,
+      "lon": 16.862029,
+      "zone_url": "https://opendata.comune.bari.it/dataset/ce68ee2b-9537-48bd-b3b0-8e9b69eb84d7",
+      "zone": [
+        {
+          "id": "santo-spirito-palese",
+          "nome": "Santo Spirito, Palese, Catino e San Pio",
+          "file": "comuni/bari/zona-santo-spirito-palese.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "san-paolo",
+          "nome": "San Paolo, Parco dei Principi e Ciaky",
+          "file": "comuni/bari/zona-san-paolo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "torre-a-mare",
+          "nome": "Torre a Mare, San Giorgio e Sant’Anna",
+          "file": "comuni/bari/zona-torre-a-mare.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "carbonara",
+          "nome": "Carbonara, Ceglie, Loseto e Santa Rita",
+          "file": "comuni/bari/zona-carbonara.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "san-girolamo",
+          "nome": "San Girolamo, Fesca, San Cataldo, Villaggio del Lavoratore e Stanic",
+          "file": "comuni/bari/zona-san-girolamo.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "picone",
+          "nome": "Picone e Poggiofranco · vie servite",
+          "file": "comuni/bari/zona-picone.json",
+          "valido_al": "2026-12-31"
+        },
+        {
+          "id": "stradale",
+          "nome": "Cassonetti stradali e ad accesso controllato",
+          "file": "comuni/bari/zona-stradale.json",
+          "valido_al": "2026-12-31"
+        }
+      ]
     }
   ],
   "consorzi": {
@@ -25420,6 +25474,12 @@
       "gestore": "Teknoservice S.r.l.",
       "ecocentri": "ecocentri/aroba5-turi.json",
       "regole": "regole/aroba5-turi.json"
+    },
+    "amiu-bari": {
+      "nome": "AMIU Puglia · Bari",
+      "gestore": "AMIU Puglia S.p.A.",
+      "ecocentri": "ecocentri/amiu-bari.json",
+      "regole": "regole/amiu-bari.json"
     }
   },
   "tipi_en": {

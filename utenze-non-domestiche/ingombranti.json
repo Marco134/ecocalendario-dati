@@ -6579,6 +6579,25 @@
    "regole_en": [
     "Contact the operator for access and booking conditions."
    ]
+  },
+  {
+   "id": "amiu-bari-und",
+   "nome": "AMIU Puglia · Bari",
+   "gestori": [],
+   "comuni": [
+    "bari"
+   ],
+   "telefono": "800 011 558",
+   "fonte": "https://www.amiupuglia.it/bari/pulizia-della-citta/i-servizi-nel-tuo-quartiere/",
+   "prenotazione": false,
+   "prenota_url": null,
+   "verificato": "2026-11-28",
+   "regole": [
+    "Chiamare AMIU per i circuiti e le condizioni dell’attività."
+   ],
+   "regole_en": [
+    "Check eligibility and booking conditions with AMIU."
+   ]
   }
  ]
 }

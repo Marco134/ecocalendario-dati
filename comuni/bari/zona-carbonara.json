@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "comune": "Bari",
+ "provincia": "BA",
+ "gestore": "AMIU Puglia S.p.A.",
+ "zona": "Carbonara, Ceglie, Loseto e Santa Rita",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://opendata.comune.bari.it/dataset/bc5dc779-baee-4c6c-a4c9-57f6cdc2732e | https://www.amiupuglia.it/bari/calendario-2/",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "indifferenziato"
+  ],
+  "2026-12-02": [
+   "carta"
+  ],
+  "2026-12-03": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-04": [
+   "plastica"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "carta"
+  ],
+  "2026-12-10": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-11": [
+   "plastica"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "indifferenziato"
+  ],
+  "2026-12-16": [
+   "carta"
+  ],
+  "2026-12-17": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-18": [
+   "plastica"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "indifferenziato"
+  ],
+  "2026-12-23": [
+   "carta"
+  ],
+  "2026-12-24": [
+   "organico",
+   "vetro"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "indifferenziato"
+  ],
+  "2026-12-30": [
+   "carta"
+  ],
+  "2026-12-31": [
+   "organico",
+   "vetro"
+  ]
+ },
+ "note": [
+  "Lo stradario assegna a questo calendario 497 voci di via. Verificare il civico e gli orari di esposizione tramite AMIU.",
+  "Controllare il civico e gli avvisi AMIU dell’8, 25 e 26 dicembre."
+ ]
+}

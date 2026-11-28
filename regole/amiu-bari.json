@@ -1,0 +1,815 @@
+{
+ "schema": 1,
+ "nome": "Bari · Differenziario AMIU",
+ "fonte": "https://www.amiupuglia.it/bari/wp-content/uploads/sites/2/2017/06/Differenziario-Bari-light.pdf",
+ "voci": {
+  "accendini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "addobbi natalizi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "adesivi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "agende senza copertine di plastica o pelle": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "alcool (contenitore vuoto e risciacquato)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "alimenti (scarti solidi)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "alluminio piccole quantità (latte e lattine)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "ammoniaca (contenitore vuoto e risciacquato)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "assorbenti igienici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "astuccio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "avanzi di pasto": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bacinelle in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "barattoli in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "barattoli in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bastoncini per orecchie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bastoncini per orecchie compostabili": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "batuffoli di cotone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bianchetto": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bicchiere in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bicchiere in vetro": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bicchieri in bioplastica biodegradabile e compostabile": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bigiotteria": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "biglie in vetro/plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "biro e penne a sfera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bombolette alluminio spray non pericolose (es.panna montata, deodoranti, etc)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bottiglie e flaconi in bioplastiche compostabili": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bottiglie e flaconi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bottiglie in vetro": {
+   "dove": "vetro",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "bottoni": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "brik (succo di frutta, latte, panna, ecc.)": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "buste per alimenti (es. pasta, riso, salatini, patatine, merendine)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "caffè": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "calamita": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "calze e calzini (nylon, lana, cotone)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "candeggina (contenitore vuoto e risciacquato)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "candele e cera": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cannuccia": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "capelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "capsule da caffè compostabile": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "capsule da caffè non compostabile": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carne (avanzi)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta carbone": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta da forno compostabile": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta da forno non compostabile": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta da pacchi": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta delle caramelle": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta dell’uovo di pasqua": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta lucida e plastificata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta oleata per alimenti compostabili": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta oleata per alimenti non compostabili": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta patinata tipo rivista": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta per affettati": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta stagnola/foglio di alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "carta vetrata": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cartone (ridotto di volume)": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cartone per bevande (es. latte, succo di frutta, vino, panna da cucina, ecc.)": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cartone per la pizza (pulito)": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cartone per la pizza (sporco)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "casse e cassette di plastica (piccole dimensioni)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cassette audio e video": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cassette di ortofrutta di cartone": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cd-rom": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cellophane": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cerotti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "chiavi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "ciabatte": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cialde per caffè": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cibi cotti e crudi": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "contenitori in tetrapack per alimenti": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "contenitori per alimenti di metallo": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "coperchi metallici per barattoli": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cotone idrofilo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "cristallo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "crostacei (gusci)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "custodia cd e dvd": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "dentifricio (tubetto vuoto)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "depliant": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "detersivo (flacone)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "detersivo (scatola)": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "diario": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "dischi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "elastici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "erba (piccoli sfalci e potature)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "escrementi di animali domestici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "etichette adesive": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "evidenziatori": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "faldoni in cartone": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fazzoletti di carta": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fiammiferi": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fili elettrici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "filo interdentale": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "filtri di tè e caffè": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fiori finti": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fiori secchi e recisi": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "flaconi per detersivi, detergenti ecc.": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fogli alluminio / stagnola puliti (es. coperchi yogurt)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "foglie": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fondi di caffè": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "fotografie": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "frutta": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "ganci per chiudere i sacchetti": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "garze": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "giornali": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "gomma da masticare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "gomma per cancellare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "grucce appendiabiti in metallo o plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "guanti in gomma": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "gusci di frutta secca": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "gusci di molluschi (cozze, vongole, ecc.)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "imballaggi con simboli pet,pe,pp,pvc": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "imballaggi in bioplastiche compostabili": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "imballaggi in carta o cartone": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "imballaggi in polistirolo di piccole dimensioni": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "incarti in alluminio di cioccolatini": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "incarti trasparenti (brioche, caramelle)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lacca per capelli (contenitore vuoto)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lacci per scarpe": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lamette usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lattine per bibite e conserve": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lettiera compostabile per animali": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lettiera sintetica per animali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "libri": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "lische di pesce": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "matite": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "mozziconi di sigaretta e sigari": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "musicassette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "nastri per regali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "nastro adesivo": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "negativi fotografici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "noccioli/noci di cocco": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "occhiali": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "ossi (avanzi di cibo)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "ovatta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "padelle e pentole in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "palloni da gioco": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "panni elettrostatici per la polvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "pellicola trasparente per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "pennarelli e penne": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "pennelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "pesce": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "pettine": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "piante (senza vaso e terra)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "piastrine per zanzare": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "piatti in bioplastica compostabile": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "piatti in plastica e alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "polistirolo (vaschette per alimenti)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "polveri dell’aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "posate in acciaio": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "posate in plastica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "preservativi/profilattici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "quaderni": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "quotidiani": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "radiografia": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "rasoi usa e getta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "reggette per legatura pacchi": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "reti in plastica per frutta e verdura compostabile": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "reti in plastica per frutta e verdura non compostabile": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "righelli": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "riviste": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "rullino fotografico": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "sacchetti di plastica e alluminio": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "sacchetti per aspirapolvere": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "sacchetto/shopper di carta": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "salviette umidificate": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "saponetta": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "scarti di cucina, frutta e verdura": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "scatole in carta e cartoncino": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "scatolette per alimenti in metallo": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "scontrini fiscali termici": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "secchielli in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "segatura": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "sigarette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "smalti per unghie (contenitore vuoto)": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "spazzole": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "spazzolini": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "spugnette": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "stagnola / foglio alluminio (es. coperchi yogurt)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "stoviglie compostabili": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "stracci sporchi": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "stuzzicadenti": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "sughero": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "taniche per uso domestico piccole": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tappi in metallo e a corona": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tappi in plastica": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tappi in sughero": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tazzine in ceramica": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "terriccio per piante": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tetrapak (imballaggio latte, succhi, vino, panna)": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tovaglioli di carta": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "tubetti in alluminio": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "unghie": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "uova (gusci)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "varschette in cartoncino per ortofrutta": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "vaschette di plastica o polistirolo per alimenti": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "vasetti di plastica per yogurt": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "vasetti di vetro per alimenti": {
+   "dove": "vetro",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "vasi in plastica da vivaio": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "vassoio in cartoncino per pasticceria": {
+   "dove": "carta",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "yogurt (vasetti in bioplastica compostabile)": {
+   "dove": "organico",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "yogurt (vasetti in plastica)": {
+   "dove": "plastica",
+   "nota": "Seguire le modalità della propria zona."
+  },
+  "zerbino": {
+   "dove": "indifferenziato",
+   "nota": "Seguire le modalità della propria zona."
+  }
+ }
+}

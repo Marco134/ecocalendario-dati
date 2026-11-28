@@ -1,0 +1,99 @@
+{
+ "schema": 1,
+ "comune": "Bari",
+ "provincia": "BA",
+ "gestore": "AMIU Puglia S.p.A.",
+ "zona": "Non alimentari · Picone e Poggiofranco · vie servite",
+ "valido_dal": "2026-11-28",
+ "valido_al": "2026-12-31",
+ "fonte": "https://opendata.comune.bari.it/dataset/e148cb42-9850-476a-a94e-6e2ec99dadf1 | https://www.amiupuglia.it/bari/calendario-2/",
+ "raccolte": {
+  "2026-11-28": [
+   "organico"
+  ],
+  "2026-11-30": [
+   "organico"
+  ],
+  "2026-12-01": [
+   "plastica"
+  ],
+  "2026-12-02": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-03": [
+   "organico"
+  ],
+  "2026-12-04": [
+   "carta"
+  ],
+  "2026-12-05": [
+   "organico"
+  ],
+  "2026-12-07": [
+   "organico"
+  ],
+  "2026-12-09": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-10": [
+   "organico"
+  ],
+  "2026-12-11": [
+   "carta"
+  ],
+  "2026-12-12": [
+   "organico"
+  ],
+  "2026-12-14": [
+   "organico"
+  ],
+  "2026-12-15": [
+   "plastica"
+  ],
+  "2026-12-16": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-17": [
+   "organico"
+  ],
+  "2026-12-18": [
+   "carta"
+  ],
+  "2026-12-19": [
+   "organico"
+  ],
+  "2026-12-21": [
+   "organico"
+  ],
+  "2026-12-22": [
+   "plastica"
+  ],
+  "2026-12-23": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-24": [
+   "organico"
+  ],
+  "2026-12-28": [
+   "organico"
+  ],
+  "2026-12-29": [
+   "plastica"
+  ],
+  "2026-12-30": [
+   "indifferenziato",
+   "vetro"
+  ],
+  "2026-12-31": [
+   "organico"
+  ]
+ },
+ "note": [
+  "Lo stradario assegna a questo calendario 29 voci di via. Verificare il civico e gli orari di esposizione tramite AMIU.",
+  "Controllare il civico e gli avvisi AMIU dell’8, 25 e 26 dicembre."
+ ]
+}
