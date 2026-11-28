@@ -1,0 +1,156 @@
+{
+  "schema": 1,
+  "nome": "Spinazzola · Velia Ambiente",
+  "fonte": "https://www.veliaambiente.it/wp-content/uploads/2021/11/piano-raccolta-domestica-spinazzola.pdf",
+  "voci": {
+    "scarti di frutta e verdura": {
+      "dove": "organico"
+    },
+    "avanzi di cibo": {
+      "dove": "organico"
+    },
+    "fondi di caffè": {
+      "dove": "organico"
+    },
+    "filtri di tè": {
+      "dove": "organico"
+    },
+    "gusci d’uovo": {
+      "dove": "organico"
+    },
+    "piccoli ossi": {
+      "dove": "organico"
+    },
+    "fiori recisi": {
+      "dove": "organico"
+    },
+    "tovaglioli di carta unti": {
+      "dove": "organico"
+    },
+    "bottiglie in plastica": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "flaconi per detergenti": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "piatti e bicchieri monouso in plastica": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "vasetti di yogurt": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "cellophane": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "blister": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "polistirolo da imballaggio": {
+      "dove": "plastica",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "lattine in alluminio": {
+      "dove": "lattine",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "scatolette di tonno": {
+      "dove": "lattine",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "barattoli di latta": {
+      "dove": "lattine",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "vaschette in alluminio": {
+      "dove": "lattine",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "carta alluminio": {
+      "dove": "lattine",
+      "nota": "Frazione multimateriale plastica e metalli."
+    },
+    "bottiglie di vetro": {
+      "dove": "vetro",
+      "nota": "Senza tappi, cristallo o vetro Pyrex."
+    },
+    "barattoli di vetro": {
+      "dove": "vetro",
+      "nota": "Senza tappi, cristallo o vetro Pyrex."
+    },
+    "vasetti di vetro": {
+      "dove": "vetro",
+      "nota": "Senza tappi, cristallo o vetro Pyrex."
+    },
+    "bicchieri di vetro": {
+      "dove": "vetro",
+      "nota": "Senza tappi, cristallo o vetro Pyrex."
+    },
+    "giornali e riviste": {
+      "dove": "carta"
+    },
+    "fogli da ufficio": {
+      "dove": "carta"
+    },
+    "scatole in cartone pulite": {
+      "dove": "carta"
+    },
+    "tetra pak": {
+      "dove": "carta",
+      "nota": "Svuotare, lavare, scolare e togliere il tappo."
+    },
+    "cartoni della pizza puliti": {
+      "dove": "carta"
+    },
+    "pannolini": {
+      "dove": "indifferenziato"
+    },
+    "assorbenti": {
+      "dove": "indifferenziato"
+    },
+    "carta da forno": {
+      "dove": "indifferenziato"
+    },
+    "carta oleata": {
+      "dove": "indifferenziato"
+    },
+    "sacchetti dell’aspirapolvere": {
+      "dove": "indifferenziato"
+    },
+    "cd e dvd": {
+      "dove": "indifferenziato"
+    },
+    "posate in plastica": {
+      "dove": "indifferenziato"
+    },
+    "porcellana": {
+      "dove": "indifferenziato"
+    },
+    "terracotta": {
+      "dove": "indifferenziato"
+    },
+    "spazzolini da denti": {
+      "dove": "indifferenziato"
+    },
+    "cartoni della pizza unti": {
+      "dove": "indifferenziato",
+      "nota": "Secondo la guida domestica Velia."
+    },
+    "olio vegetale esausto": {
+      "dove": "ecocentro",
+      "nota": "La guida indica anche contenitori dedicati in via Cairoli presso i vigili e corso Umberto presso il liceo. Verificare prima del conferimento."
+    },
+    "farmaci scaduti": {
+      "dove": "farmacia"
+    },
+    "pile esauste": {
+      "dove": "ecocentro",
+      "nota": "Usare anche i contenitori dedicati presso i rivenditori."
+    }
+  }
+}

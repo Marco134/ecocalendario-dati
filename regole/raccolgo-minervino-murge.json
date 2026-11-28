@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "nome": "Minervino Murge · Raccolgo S.r.l.",
+  "fonte": "https://www.minervinoviva.it/notizie/differenziata-nuovo-calendario-per-la-raccolta-porta-a-porta/",
+  "voci": {
+    "organico": {
+      "dove": "organico"
+    },
+    "imballaggi in plastica": {
+      "dove": "plastica"
+    },
+    "imballaggi metallici": {
+      "dove": "lattine"
+    },
+    "carta": {
+      "dove": "carta"
+    },
+    "vetro": {
+      "dove": "vetro"
+    },
+    "secco residuo": {
+      "dove": "indifferenziato"
+    }
+  }
+}

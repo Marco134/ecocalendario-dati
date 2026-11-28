@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "comune": "Spinazzola",
+  "provincia": "BT",
+  "gestore": "Velia Ambiente",
+  "zona": "Famiglie",
+  "valido_dal": "2026-11-28",
+  "valido_al": "2026-12-31",
+  "fonte": "https://www.veliaambiente.it/wp-content/uploads/2021/11/piano-raccolta-domestica-spinazzola.pdf",
+  "raccolte": {},
+  "note": [
+    "Il gestore ripubblica i prospetti in vigore a partire dal 2021. Confermare l’applicabilità a fine 2026 e i ritiri dell’8, 25 e 26 dicembre."
+  ],
+  "info": "Settimana tipo pubblicata da Velia. Usare i contenitori in dotazione ed esporre dalle 21:00 del giorno prima alle 05:00 del giorno del ritiro.",
+  "info_en": "Service information. Confirm the current collection schedule and holiday changes with the operator."
+}
